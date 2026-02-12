@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { Search, MapPin, ExternalLink, Zap, Globe, Copy, Check, Briefcase, Target, Lightbulb, MessageSquare, Users, Clock, Star, ChevronDown, ChevronUp, Mail, Sun, Moon, Sparkles, ArrowRight, Award, Rocket, Bell, Shield, TrendingUp, Filter, RefreshCw, Eye, Hash, Link, Database, Wifi, BarChart2 } from 'lucide-react';
+import { Search, MapPin, ExternalLink, Zap, Globe, Copy, Check, Briefcase, Target, Lightbulb, MessageSquare, Users, Clock, Star, ChevronDown, ChevronUp, Mail, Sun, Moon, Sparkles, ArrowRight, Award, Rocket, Bell } from 'lucide-react';
 
 // ─── THEMES ──────────────────────────────────────────────────────────────────
 const themes = {
@@ -47,9 +47,6 @@ const themes = {
   }
 };
 
-// ─── PLATFORMS ───────────────────────────────────────────────────────────────
-const PLATFORMS = {
-  // India-first
 // ─── PLATFORMS ───────────────────────────────────────────────────────────────
 const PLATFORMS = {
   // India-first
