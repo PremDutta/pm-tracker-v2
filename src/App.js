@@ -16,10 +16,13 @@ const themes = {
     gradient3: 'linear-gradient(135deg,#4facfe 0%,#00f2fe 100%)',
     gradient4: 'linear-gradient(135deg,#43e97b 0%,#38f9d7 100%)',
     gradient5: 'linear-gradient(135deg,#fa709a 0%,#fee140 100%)',
-    cardBg: 'rgba(255,255,255,0.03)', cardBgHover: 'rgba(255,255,255,0.06)',
+    cardBg: 'rgba(255,255,255,0.04)', cardBgHover: 'rgba(255,255,255,0.08)',
+    templateBg: '#1e1e20',
     heroGradient: 'radial-gradient(ellipse 80% 50% at 50% -20%,rgba(120,119,198,0.3),transparent)',
     glassEffect: 'saturate(180%) blur(20px)',
-    codeBg: 'rgba(0,0,0,0.5)', codeColor: '#64d2ff',
+    codeBg: 'rgba(255,255,255,0.08)', codeColor: '#64d2ff',
+    badgeBg: 'rgba(255,255,255,0.13)', badgeText: '#f5f5f7',
+    inlineBg: 'rgba(255,255,255,0.06)',
   },
   light: {
     name: 'light', bg: '#ffffff', bgSecondary: '#f5f5f7',
@@ -35,12 +38,18 @@ const themes = {
     gradient4: 'linear-gradient(135deg,#43e97b 0%,#38f9d7 100%)',
     gradient5: 'linear-gradient(135deg,#fa709a 0%,#fee140 100%)',
     cardBg: 'rgba(0,0,0,0.02)', cardBgHover: 'rgba(0,0,0,0.04)',
+    templateBg: '#f7f7f9',
     heroGradient: 'radial-gradient(ellipse 80% 50% at 50% -20%,rgba(120,119,198,0.15),transparent)',
     glassEffect: 'saturate(180%) blur(20px)',
-    codeBg: 'rgba(0,0,0,0.04)', codeColor: '#0071e3',
+    codeBg: 'rgba(0,0,0,0.06)', codeColor: '#0055cc',
+    badgeBg: 'rgba(0,0,0,0.07)', badgeText: '#1d1d1f',
+    inlineBg: 'rgba(0,0,0,0.04)',
   }
 };
 
+// ─── PLATFORMS ───────────────────────────────────────────────────────────────
+const PLATFORMS = {
+  // India-first
 // ─── PLATFORMS ───────────────────────────────────────────────────────────────
 const PLATFORMS = {
   // India-first
@@ -57,7 +66,7 @@ const PLATFORMS = {
   // Global aggregators
   indeed:       { name:'Indeed',          icon:'🔍', color:'#2164F3', region:'global', priority:11,              getUrl:(r,l)=>`https://in.indeed.com/jobs?q=${encodeURIComponent(r)}&l=${encodeURIComponent(l)}&sort=date`, description:'Global aggregator, fresh daily' },
   glassdoor:    { name:'Glassdoor',       icon:'🚪', color:'#0CAA41', region:'global', priority:12,              getUrl:(r)=>`https://www.glassdoor.co.in/Job/india-${r.toLowerCase().replace(/\s+/g,'-')}-jobs-SRCH_IL.0,5_IN115_KO6,${6+r.length}.htm?sortBy=date_desc`, description:'Reviews + salary + jobs' },
-  wellfound:    { name:'Wellfound',       icon:'😇', color:'#4A4A4A', region:'global', priority:13, badge:'Equity',getUrl:()=>`https://wellfound.com/role/l/product-manager/india`, description:'Startup equity-first' },
+  wellfound:    { name:'Wellfound',       icon:'😇', color:'#8B8BFF', region:'global', priority:13, badge:'Equity',getUrl:()=>`https://wellfound.com/role/l/product-manager/india`, description:'Startup equity-first' },
   levelsfyi:    { name:'Levels.fyi',      icon:'📊', color:'#00D4AA', region:'global', priority:14,              getUrl:()=>`https://www.levels.fyi/jobs?searchText=Product%20Manager&countryId=115`, description:'Comp-transparent listings' },
   // Remote
   remoteok:     { name:'RemoteOK',        icon:'🌍', color:'#00D4AA', region:'remote', priority:15,              getUrl:()=>'https://remoteok.com/remote-product-manager-jobs', description:'Remote-first PM jobs' },
@@ -486,7 +495,7 @@ export default function App() {
                   <div style={{ flex:1, minWidth:0 }}>
                     <div style={{ display:'flex', alignItems:'center', gap:'8px', marginBottom:'3px' }}>
                       <span style={{ fontSize:'15px', fontWeight:'600' }}>{p.name}</span>
-                      {p.badge && <span style={{ ...badge(theme==='dark'?'#fff':'#000', theme==='dark'?'rgba(255,255,255,0.12)':'rgba(0,0,0,0.08)'), fontSize:'9px' }}>{p.badge}</span>}
+                      {p.badge && <span style={{ ...badge(t.badgeText, t.badgeBg), fontSize:'9px' }}>{p.badge}</span>}
                     </div>
                     <div style={{ fontSize:'12px', color:t.textSecondary, whiteSpace:'nowrap', overflow:'hidden', textOverflow:'ellipsis' }}>{p.description}</div>
                   </div>
@@ -549,7 +558,7 @@ export default function App() {
                       <div>
                         <div style={{ display:'flex', alignItems:'center', gap:'8px', marginBottom:'3px' }}>
                           <h3 style={{ margin:0, fontSize:'16px', fontWeight:'600' }}>{h.title}</h3>
-                          {h.badge && <span style={{ ...badge(theme==='dark'?'#FFD60A':'#b45309','rgba(255,214,10,0.15)') }}>{h.badge}</span>}
+                          {h.badge && <span style={{ ...badge(theme==='dark'?'#FFD60A':'#92400e','rgba(255,214,10,0.18)') }}>{h.badge}</span>}
                         </div>
                         <p style={{ margin:0, fontSize:'12px', color:t.textSecondary }}>{h.tip}</p>
                       </div>
@@ -641,7 +650,7 @@ export default function App() {
                   'Write a shortlist of 20 target companies — check their careers pages weekly',
                   'Connect with 5 PMs at your target companies on LinkedIn this week',
                 ].map((item,i) => (
-                  <div key={i} style={{ display:'flex', alignItems:'flex-start', gap:'12px', padding:'12px 16px', background:t.cardBg, borderRadius:'12px', border:`1px solid ${t.border}` }}>
+                  <div key={i} style={{ display:'flex', alignItems:'flex-start', gap:'12px', padding:'12px 16px', background:t.inlineBg, borderRadius:'12px', border:`1px solid ${t.border}` }}>
                     <div style={{ width:'22px', height:'22px', borderRadius:'6px', border:`2px solid ${t.border}`, flexShrink:0, marginTop:'1px' }}/>
                     <span style={{ fontSize:'14px', lineHeight:'1.5' }}>{item}</span>
                   </div>
@@ -663,7 +672,7 @@ export default function App() {
                 <h3 style={{ margin:'0 0 18px', fontSize:'17px', fontWeight:'600', display:'flex', alignItems:'center', gap:'10px' }}><span style={{ fontSize:'22px' }}>{section.icon}</span>{section.title}</h3>
                 <div style={{ display:'grid', gap:'8px' }}>
                   {section.items.map((item,j) => (
-                    <div key={j} style={{ display:'flex', alignItems:'center', justifyContent:'space-between', padding:'12px 16px', background:t.cardBg, borderRadius:'12px', gap:'12px', flexWrap:'wrap' }}>
+                    <div key={j} style={{ display:'flex', alignItems:'center', justifyContent:'space-between', padding:'12px 16px', background:t.inlineBg, borderRadius:'12px', gap:'12px', flexWrap:'wrap' }}>
                       <span style={{ fontSize:'14px' }}>{item.name}{item.tip && <span style={{ color:t.textSecondary }}> — {item.tip}</span>}</span>
                       {item.url && <a href={item.url} target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, padding:'7px 14px', fontSize:'12px' }}>Open <ExternalLink size={11}/></a>}
                     </div>
@@ -700,7 +709,7 @@ export default function App() {
                   <div>
                     <h4 style={{ margin:'0 0 12px', fontSize:'12px', color:t.textSecondary, textTransform:'uppercase', letterSpacing:'0.5px' }}>Sponsor-Friendly</h4>
                     <div style={{ display:'flex', flexWrap:'wrap', gap:'6px' }}>
-                      {data.sponsors.map((c,i) => <span key={i} style={{ padding:'5px 10px', background:t.cardBg, border:`1px solid ${t.border}`, borderRadius:'8px', fontSize:'12px' }}>{c}</span>)}
+                      {data.sponsors.map((c,i) => <span key={i} style={{ padding:'5px 10px', background:t.inlineBg, border:`1px solid ${t.border}`, borderRadius:'8px', fontSize:'12px', color:t.text }}>{c}</span>)}
                     </div>
                   </div>
                 </div>
@@ -729,7 +738,7 @@ export default function App() {
                 {expandedSections[cat] && (
                   <div style={{ border:`1px solid ${t.border}`, borderTop:'none', borderRadius:'0 0 16px 16px', overflow:'hidden' }}>
                     {temps.map((tmpl,i) => (
-                      <div key={tmpl.id} style={{ padding:'22px', borderBottom:i<temps.length-1?`1px solid ${t.border}`:'none', background:t.surfaceSolid }}>
+                      <div key={tmpl.id} style={{ padding:'22px', borderBottom:i<temps.length-1?`1px solid ${t.border}`:'none', background:t.templateBg, color:t.text }}>
                         <div style={{ display:'flex', justifyContent:'space-between', alignItems:'flex-start', marginBottom:'14px', flexWrap:'wrap', gap:'10px' }}>
                           <div>
                             <h4 style={{ margin:'0 0 3px', fontSize:'15px', fontWeight:'600' }}>{tmpl.title}</h4>
