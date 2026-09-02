@@ -50,34 +50,66 @@ const themes = {
 // ─── PLATFORMS ───────────────────────────────────────────────────────────────
 const PLATFORMS = {
   // India-first
-  linkedin:     { name:'LinkedIn',       icon:'💼', color:'#0A66C2', region:'global', priority:1, badge:'🔥 Top',    getUrl:(r,l)=>`https://www.linkedin.com/jobs/search/?keywords=${encodeURIComponent(r)}&location=${encodeURIComponent(l+', India')}&sortBy=DD&f_TPR=r86400`, description:'Professional network, newest first' },
-  naukri:       { name:'Naukri',          icon:'🔵', color:'#4A67FF', region:'india',  priority:2, badge:'#1 India', getUrl:(r,l)=>`https://www.naukri.com/${r.toLowerCase().replace(/\s+/g,'-')}-jobs-in-${l.toLowerCase().replace(/\s+/g,'-')}?sort=date`, description:'Largest Indian job board' },
-  iimjobs:      { name:'IIMJobs',         icon:'🎓', color:'#C0392B', region:'india',  priority:3, badge:'Senior',  getUrl:(r)=>`https://www.iimjobs.com/j/${r.toLowerCase().replace(/\s+/g,'-')}-jobs-0-1.html`, description:'Senior & management roles' },
+  linkedin:     { name:'LinkedIn',       icon:'💼', color:'#0A66C2', region:'global', priority:1, badge:'🔥 Top',    getUrl:(r,l,o)=>{
+    // Was hardcoding "<city>, India" even under Remote/International — searches silently stayed India-only there.
+    const region = o?.region;
+    const locationParam = region==='india' ? `&location=${encodeURIComponent(l+', India')}` : (l ? `&location=${encodeURIComponent(l)}` : '');
+    const remoteParam = region==='remote' ? '&f_WT=2' : ''; // LinkedIn's real "Remote" work-type filter
+    return `https://www.linkedin.com/jobs/search/?keywords=${encodeURIComponent(r)}&sortBy=DD${locationParam}${remoteParam}${o?.freshness?.linkedinSec?`&f_TPR=r${o.freshness.linkedinSec}`:''}${o?.experience?.linkedinE?`&f_E=${o.experience.linkedinE}`:''}`;
+  }, description:'Professional network, newest first' },
+  naukri:       { name:'Naukri',          icon:'🔵', color:'#4A67FF', region:'india',  priority:2, badge:'#1 India', getUrl:(r,l,o)=>{
+    const citySlug = l.toLowerCase().replace(/\s+/g,'-');
+    // k=, l=, sort=f (date) and jobAge= all confirmed via real captured naukri.com URLs.
+    return `https://www.naukri.com/${r.toLowerCase().replace(/\s+/g,'-')}-jobs-in-${citySlug}?sort=f&k=${encodeURIComponent(r)}&l=${encodeURIComponent(citySlug)}${o?.freshness?.days?`&jobAge=${o.freshness.days}`:''}${o?.experience?.min!=null?`&experience=${o.experience.min}`:''}`;
+  }, description:'Largest Indian job board' },
+  iimjobs:      { name:'IIMJobs',         icon:'🎓', color:'#C0392B', region:'india',  priority:3, badge:'Senior',  getUrl:(r)=>`https://www.iimjobs.com/search/${r.toLowerCase().replace(/\s+/g,'-')}-jobs`, description:'Senior & management roles' },
   instahyre:    { name:'Instahyre',       icon:'🚀', color:'#FF6B35', region:'india',  priority:4, badge:'Startup', getUrl:(r)=>`https://www.instahyre.com/search-jobs/?job_types=fulltime&job_titles=${encodeURIComponent(r)}`, description:'Curated startup jobs' },
   cutshort:     { name:'Cutshort',        icon:'⚡', color:'#FF4757', region:'india',  priority:5,               getUrl:(r)=>`https://cutshort.io/jobs/${r.toLowerCase().replace(/\s+/g,'-')}-jobs`, description:'AI-matched, fast responses' },
-  foundit:      { name:'Foundit',         icon:'🎯', color:'#E91E63', region:'india',  priority:6,               getUrl:(r,l)=>`https://www.foundit.in/srp/results?query=${encodeURIComponent(r)}&locations=${encodeURIComponent(l)}&sort=1`, description:'Monster India rebranded' },
+  foundit:      { name:'Foundit',         icon:'🎯', color:'#E91E63', region:'india',  priority:6,               getUrl:(r,l)=>{
+    // Route + query shape confirmed via a real captured foundit.in URL — the old
+    // /srp/results?...&sort=1 guess never actually matched what the site renders.
+    const isGurgaon = /gurgaon|gurugram/i.test(l);
+    const citySlug = isGurgaon ? 'gurgaon-gurugram' : l.toLowerCase().replace(/\s+/g,'-');
+    const locLabel = isGurgaon ? 'Gurgaon / Gurugram' : l;
+    return `https://www.foundit.in/search/${r.toLowerCase().replace(/\s+/g,'-')}-jobs-in-${citySlug}?query=${encodeURIComponent(r)}&queryEntity=${encodeURIComponent(r+':DESIGNATION')}&locations=${encodeURIComponent(locLabel)}&queryDerived=true`;
+  }, description:'Monster India rebranded' },
   shine:        { name:'Shine',           icon:'✨', color:'#FF9800', region:'india',  priority:7,               getUrl:(r,l)=>`https://www.shine.com/job-search/${r.toLowerCase().replace(/\s+/g,'-')}-jobs-in-${l.toLowerCase()}`, description:'Mid-level roles, clean UX' },
-  hirist:       { name:'Hirist',          icon:'💻', color:'#2ECC71', region:'india',  priority:8,               getUrl:(r)=>`https://www.hirist.tech/j/${r.toLowerCase().replace(/\s+/g,'-')}-jobs-0-1.html`, description:'Tech & digital focused' },
+  hirist:       { name:'Hirist',          icon:'💻', color:'#2ECC71', region:'india',  priority:8,               getUrl:(r)=>`https://www.hirist.tech/search/${r.toLowerCase().replace(/\s+/g,'-')}-jobs`, description:'Tech & digital focused' },
   hirect:       { name:'Hirect',          icon:'💬', color:'#9B59B6', region:'india',  priority:9, badge:'Chat',   getUrl:()=>`https://hirect.in/`, description:'Chat directly with founders' },
-  apna:         { name:'Apna',            icon:'👥', color:'#1ABC9C', region:'india',  priority:10,              getUrl:()=>`https://apna.co/jobs/product-manager`, description:'Vernacular job discovery' },
+  apna:         { name:'Apna',            icon:'👥', color:'#1ABC9C', region:'india',  priority:10,              getUrl:(r,l)=>`https://apna.co/jobs/title_${r.toLowerCase().replace(/\s+/g,'_')}-jobs-in-${(l||'india').toLowerCase()}`, description:'Vernacular job discovery' },
   // Global aggregators
-  indeed:       { name:'Indeed',          icon:'🔍', color:'#2164F3', region:'global', priority:11,              getUrl:(r,l)=>`https://in.indeed.com/jobs?q=${encodeURIComponent(r)}&l=${encodeURIComponent(l)}&sort=date`, description:'Global aggregator, fresh daily' },
-  glassdoor:    { name:'Glassdoor',       icon:'🚪', color:'#0CAA41', region:'global', priority:12,              getUrl:(r)=>`https://www.glassdoor.co.in/Job/india-${r.toLowerCase().replace(/\s+/g,'-')}-jobs-SRCH_IL.0,5_IN115_KO6,${6+r.length}.htm?sortBy=date_desc`, description:'Reviews + salary + jobs' },
-  wellfound:    { name:'Wellfound',       icon:'😇', color:'#8B8BFF', region:'global', priority:13, badge:'Equity',getUrl:()=>`https://wellfound.com/role/l/product-manager/india`, description:'Startup equity-first' },
-  levelsfyi:    { name:'Levels.fyi',      icon:'📊', color:'#00D4AA', region:'global', priority:14,              getUrl:()=>`https://www.levels.fyi/jobs?searchText=Product%20Manager&countryId=115`, description:'Comp-transparent listings' },
+  indeed:       { name:'Indeed',          icon:'🔍', color:'#2164F3', region:'global', priority:11,              getUrl:(r,l,o)=>{
+    // Was hardcoded to the India subdomain (in.indeed.com) + l=India even under Remote/International.
+    if (o?.region==='india') return `https://in.indeed.com/jobs?q=${encodeURIComponent(r)}&l=${encodeURIComponent(l)}&sort=date${o?.freshness?.days?`&fromage=${o.freshness.days}`:''}`;
+    return `https://www.indeed.com/jobs?q=${encodeURIComponent(r)}&sort=date${o?.freshness?.days?`&fromage=${o.freshness.days}`:''}`;
+  }, description:'Global aggregator, fresh daily' },
+  glassdoor:    { name:'Glassdoor',       icon:'🚪', color:'#0CAA41', region:'global', priority:12,              getUrl:(r,l,o)=>{
+    // Was hardcoded to locId=115 (India) unconditionally, even under Remote/International.
+    if (o?.region==='india') return `https://www.glassdoor.co.in/Job/jobs.htm?sc.keyword=${encodeURIComponent(r)}&locT=N&locId=115&sortBy=date_desc`;
+    return `https://www.glassdoor.com/Job/jobs.htm?sc.keyword=${encodeURIComponent(r)}&sortBy=date_desc`;
+  }, description:'Reviews + salary + jobs' },
+  wellfound:    { name:'Wellfound',       icon:'😇', color:'#8B8BFF', region:'global', priority:13, badge:'Equity',getUrl:()=>`https://wellfound.com/role/product-manager`, description:'Startup equity-first (fka AngelList)' },
+  levelsfyi:    { name:'Levels.fyi',      icon:'📊', color:'#00D4AA', region:'global', priority:14,              getUrl:(r,l,o)=>{
+    // Was hardcoded to /jobs/location/india unconditionally, even under Remote/International.
+    return o?.region==='india' ? `https://www.levels.fyi/jobs/location/india` : `https://www.levels.fyi/jobs`;
+  }, description:'Comp-transparent listings' },
   // Remote
   remoteok:     { name:'RemoteOK',        icon:'🌍', color:'#00D4AA', region:'remote', priority:15,              getUrl:()=>'https://remoteok.com/remote-product-manager-jobs', description:'Remote-first PM jobs' },
   weworkremotely:{ name:'WeWorkRemotely', icon:'🏠', color:'#2D3748', region:'remote', priority:16,              getUrl:()=>'https://weworkremotely.com/categories/remote-product-jobs', description:'Top remote board globally' },
   remoteco:     { name:'Remote.co',       icon:'🌐', color:'#3182CE', region:'remote', priority:17,              getUrl:()=>'https://remote.co/remote-jobs/product/', description:'Curated remote roles' },
-  flexjobs:     { name:'FlexJobs',        icon:'🤸', color:'#6B46C1', region:'remote', priority:18,              getUrl:()=>'https://www.flexjobs.com/search?search=product+manager', description:'Vetted remote & flexible' },
+  flexjobs:     { name:'FlexJobs',        icon:'🤸', color:'#6B46C1', region:'remote', priority:18,              getUrl:(r)=>`https://www.flexjobs.com/search?search=${encodeURIComponent(r)}`, description:'Vetted remote & flexible' },
   // US/UK/International
   builtin:      { name:'Built In',        icon:'🏙️', color:'#0066FF', region:'us',     priority:19,              getUrl:()=>'https://builtin.com/jobs/product-management', description:'US tech hub jobs' },
-  otta:         { name:'Otta',            icon:'⭐', color:'#FF6B6B', region:'global', priority:20,              getUrl:()=>'https://otta.com/jobs?title=Product+Manager', description:'Curated tech roles' },
+  wttj:         { name:'Welcome to the Jungle', icon:'🌴', color:'#FFCF52', region:'global', priority:20, badge:'fka Otta', getUrl:(r)=>`https://www.welcometothejungle.com/en/jobs?query=${encodeURIComponent(r)}`, description:'Euro tech jobs — acquired Otta in 2024' },
   underdog:     { name:'Underdog.io',     icon:'🥷', color:'#1A1A2E', region:'us',     priority:21, badge:'Invite',getUrl:()=>'https://underdog.io/', description:'Apply once, many startups' },
   phmind:       { name:'Mind the Product',icon:'🧠', color:'#E53E3E', region:'global', priority:22,              getUrl:()=>'https://www.mindtheproduct.com/jobs/', description:'PM-specific community board' },
-  productboard: { name:'ProductHunt Jobs',icon:'🐱', color:'#DA552F', region:'global', priority:23,              getUrl:()=>'https://www.producthunt.com/jobs?roles[]=Product+Manager', description:'Startup & innovative cos' },
+  naukrigulf:   { name:'NaukriGulf',      icon:'🕌', color:'#00A65A', region:'global', priority:23,              getUrl:(r)=>`https://www.naukrigulf.com/${r.toLowerCase().replace(/\s+/g,'-')}-jobs`, description:'UAE, Saudi & Gulf PM roles' },
   y_combinator: { name:'YC Job Board',    icon:'🔶', color:'#FF6600', region:'global', priority:24, badge:'YC',   getUrl:()=>'https://www.ycombinator.com/jobs/role/product-manager', description:'YC-backed startup jobs' },
-  simplyhired:  { name:'SimplyHired',     icon:'🔎', color:'#3B88C3', region:'global', priority:25,              getUrl:(r,l)=>`https://www.simplyhired.co.in/search?q=${encodeURIComponent(r)}&l=${encodeURIComponent(l)}&sb=dd`, description:'India + global aggregator' },
+  simplyhired:  { name:'SimplyHired',     icon:'🔎', color:'#3B88C3', region:'global', priority:25,              getUrl:(r,l,o)=>{
+    // Was hardcoded to the .co.in domain + l=India even under Remote/International.
+    if (o?.region==='india') return `https://www.simplyhired.co.in/search?q=${encodeURIComponent(r)}&l=${encodeURIComponent(l)}&sb=dd`;
+    return `https://www.simplyhired.com/search?q=${encodeURIComponent(r)}&sb=dd`;
+  }, description:'India + global aggregator' },
   timesjobs:    { name:'TimesJobs',       icon:'⏰', color:'#E44D26', region:'india',  priority:26,              getUrl:(r,l)=>`https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=${encodeURIComponent(r)}&txtLocation=${encodeURIComponent(l)}`, description:'Times Group board' },
 };
 
@@ -87,6 +119,38 @@ const INDIA_LOCATIONS = [
   {id:'bangalore',name:'Bengaluru'},{id:'hyderabad',name:'Hyderabad'},{id:'mumbai',name:'Mumbai'},
   {id:'pune',name:'Pune'},{id:'chennai',name:'Chennai'},{id:'kolkata',name:'Kolkata'},
   {id:'ahmedabad',name:'Ahmedabad'},{id:'jaipur',name:'Jaipur'},{id:'kochi',name:'Kochi'},
+];
+
+// ─── ROLES ───────────────────────────────────────────────────────────────────
+// `keyword` (not `label`) is what gets sent into every job-board URL/slug.
+// Keeping them separate stops "Senior PM" from producing broken slugs like
+// naukri.com/senior-pm-jobs-in-... instead of .../senior-product-manager-jobs-in-...
+const ROLES = [
+  { label:'Product Manager', keyword:'Product Manager' },
+  { label:'Senior PM',       keyword:'Senior Product Manager' },
+];
+
+// Posted-date filter — only LinkedIn (f_TPR, seconds), Naukri (jobAge, days) and
+// Indeed (fromage, days) expose a real freshness param on their public search URLs.
+// Every other platform ignores this; there's no documented equivalent for them.
+const FRESHNESS_OPTIONS = [
+  { id:'any',   label:'Any time',      days:null, linkedinSec:null },
+  { id:'24h',   label:'Past 24 hours', days:1,    linkedinSec:86400 },
+  { id:'3d',    label:'Past 3 days',   days:3,    linkedinSec:259200 },
+  { id:'7d',    label:'Past week',     days:7,    linkedinSec:604800 },
+];
+
+// Experience filter — approximate mapping onto the two platforms with a real
+// structured experience param: LinkedIn's f_E title-seniority buckets and
+// Naukri's experience-in-years range. Everything else has no such filter, so
+// role text (see ROLES) is the only lever available on those boards.
+const EXPERIENCE_LEVELS = [
+  { id:'any',   label:'Any experience', min:null, max:null, linkedinE:null },
+  { id:'0-2',   label:'0-2 yrs',        min:0,    max:2,    linkedinE:2 },
+  { id:'3-5',   label:'3-5 yrs',        min:3,    max:5,    linkedinE:3 },
+  { id:'6-9',   label:'6-9 yrs',        min:6,    max:9,    linkedinE:4 },
+  { id:'10-15', label:'10-15 yrs',      min:10,   max:15,   linkedinE:5 },
+  { id:'15+',   label:'15+ yrs',        min:15,   max:20,   linkedinE:6 },
 ];
 
 // ─── GOOGLE HACKS ─────────────────────────────────────────────────────────────
@@ -196,8 +260,8 @@ const REMOTE_STRATEGIES = [
     { name:'We Work Remotely', url:'https://weworkremotely.com/categories/remote-product-jobs', tip:'Premium remote board' },
     { name:'Remote.co', url:'https://remote.co/remote-jobs/product/', tip:'Curated quality listings' },
     { name:'FlexJobs', url:'https://www.flexjobs.com/search?search=product+manager', tip:'Vetted, no scam listings' },
-    { name:'Himalayas', url:'https://himalayas.app/jobs?q=product+manager', tip:'Growing remote-first board' },
-    { name:'NoDesk', url:'https://nodesk.co/remote-jobs/product-management/', tip:'Curated remote PM roles' },
+    { name:'Himalayas', url:'https://himalayas.app/jobs/product-manager', tip:'Growing remote-first board' },
+    { name:'NoDesk', url:'https://nodesk.co/remote-jobs/product-manager/', tip:'Curated remote PM roles' },
   ]},
   { title:'Remote-First Companies (Hire Globally)', icon:'🏢', items:[
     { name:'GitLab • Fully async, no office required' },
@@ -224,7 +288,7 @@ const INTL_STRATEGIES = {
     { name:'LinkedIn US Remote', url:'https://www.linkedin.com/jobs/search/?keywords=product%20manager&location=United%20States&f_WT=2&sortBy=DD' },
   ], tips:['US resume: no photo, no DOB, no marital status','Target Series B+ funded startups for H1B sponsorship','Build US LinkedIn network before applying','Be explicit: "open to relocation, will require H1B"'], sponsors:['Google','Meta','Amazon','Microsoft','Stripe','Airbnb','Uber','Databricks','Confluent','Figma'] },
   uk: { title:'🇬🇧 United Kingdom', platforms:[
-    { name:'Otta London', url:'https://otta.com/jobs?title=Product+Manager&location=London' },
+    { name:'Welcome to the Jungle (fka Otta)', url:'https://uk.welcometothejungle.com/en/jobs?query=Product%20Manager' },
     { name:'Indeed UK', url:'https://uk.indeed.com/jobs?q=product+manager&sort=date' },
     { name:'TotalJobs', url:'https://www.totaljobs.com/jobs/product-manager' },
   ], tips:['Skilled Worker visa — employer must be licensed sponsor','UK CV: max 2 pages, achievements-led','Mention "eligible for Skilled Worker visa" in cover letter','Fintech & healthtech biggest PM demand'], sponsors:['Revolut','Monzo','Wise','Deliveroo','Checkout.com','OakNorth','Starling Bank'] },
@@ -242,11 +306,11 @@ const INTL_STRATEGIES = {
 // ─── JOB ALERT TIPS ───────────────────────────────────────────────────────────
 const ALERT_TIPS = [
   { icon:'🔔', title:'LinkedIn Job Alerts', desc:'Set up "Product Manager" alert for each city — email as-it-happens', url:'https://www.linkedin.com/jobs/search/?keywords=product+manager&location=India&sortBy=DD', tip:'Enable alerts for ALL 8 cities separately — different pools' },
-  { icon:'📊', title:'Naukri Job Alerts', desc:'Set daily digest for PM roles — arrives 7 AM IST', url:'https://www.naukri.com/mnjuser/jobAlert', tip:'Premium: get alerts before free users see listings' },
-  { icon:'🔍', title:'Google Alerts (Free Hack)', desc:'Create alert for job postings — no sign-in required', url:'https://www.google.com/alerts?q=%22product+manager%22+%22we+are+hiring%22+india', tip:'Create separate alerts for each ATS domain' },
+  { icon:'📊', title:'Naukri Job Alerts', desc:'Set daily digest for PM roles — arrives 7 AM IST', url:'https://www.naukri.com/free-job-alerts', tip:'Premium: get alerts before free users see listings' },
+  { icon:'🔍', title:'Google Alerts (Free Hack)', desc:'Paste the query below into google.com/alerts — no sign-in required to preview, sign-in to save', url:'https://www.google.com/alerts', tip:'Paste: "product manager" "we are hiring" india — create separate alerts per ATS domain' },
   { icon:'📡', title:'Indeed Email Alert', desc:'Instant notifications when new PM jobs post', url:'https://in.indeed.com/jobs?q=product+manager&l=India&sort=date', tip:'Set frequency to "As they happen" not daily digest' },
   { icon:'⚡', title:'Instahyre Recommendations', desc:'AI matches you automatically when PM roles post', url:'https://www.instahyre.com/search-jobs/?job_types=fulltime&job_titles=Product%20Manager', tip:'Keep profile updated — system auto-notifies employers about you' },
-  { icon:'🤖', title:'Naukri RSS Feed Hack', desc:'Subscribe to Naukri job feed via any RSS reader', url:'https://www.naukri.com/rss/product-manager-jobs.xml', tip:'Use Feedly or Inoreader for real-time new postings' },
+  { icon:'🤖', title:'Job RSS Aggregator (Feedspot)', desc:'Curated feed list of Indian career/job RSS feeds in one reader', url:'https://rss.feedspot.com/indian_career_rss_feeds/', tip:'Naukri retired its public per-role RSS endpoints — this curated list is the current working alternative' },
 ];
 
 // ─── FIRST-APPLICANT STRATEGY ─────────────────────────────────────────────────
@@ -263,7 +327,10 @@ export default function App() {
   const [theme, setTheme]         = useState('dark');
   const [activeTab, setActiveTab] = useState('home');
   const [selectedRegion, setSelectedRegion] = useState('india');
-  const [selectedRole, setSelectedRole]     = useState('Product Manager');
+  const [selectedRole, setSelectedRole]     = useState(ROLES[0].keyword);
+  const [selectedLocation, setSelectedLocation] = useState('Bengaluru');
+  const [selectedFreshness, setSelectedFreshness] = useState(FRESHNESS_OPTIONS[1]); // default: past 24h
+  const [selectedExperience, setSelectedExperience] = useState(EXPERIENCE_LEVELS[0]); // default: any
   const [copiedId, setCopiedId]   = useState(null);
   const [expandedSections, setExpandedSections] = useState({});
   const [hackCategory, setHackCategory]   = useState('all');
@@ -322,6 +389,7 @@ export default function App() {
     .sort((a,b) => a[1].priority - b[1].priority);
 
   const filteredHacks = hackCategory === 'all' ? GOOGLE_HACKS : GOOGLE_HACKS.filter(h => h.category === hackCategory);
+  const filterOpts = { freshness: selectedFreshness, experience: selectedExperience };
 
   const HACK_CATEGORIES = [
     { id:'all',      label:'All Hacks',    icon:'🔮' },
@@ -332,11 +400,19 @@ export default function App() {
     { id:'remote',   label:'Remote',       icon:'🌍' },
   ];
 
-  // Quick-launch URLs per region
-  const QUICK_URLS = {
-    india:  ['https://www.linkedin.com/jobs/search/?keywords=product%20manager&location=India&sortBy=DD&f_TPR=r86400','https://www.naukri.com/product-manager-jobs?sort=date','https://www.iimjobs.com/j/product-manager-jobs-0-1.html','https://www.instahyre.com/search-jobs/?job_types=fulltime&job_titles=Product%20Manager','https://in.indeed.com/jobs?q=product+manager&sort=date','https://cutshort.io/jobs/product-manager-jobs'],
-    remote: ['https://remoteok.com/remote-product-manager-jobs','https://weworkremotely.com/categories/remote-product-jobs','https://www.linkedin.com/jobs/search/?keywords=product%20manager&f_WT=2&sortBy=DD','https://wellfound.com/role/l/product-manager','https://himalayas.app/jobs?q=product+manager'],
-    intl:   ['https://www.linkedin.com/jobs/search/?keywords=product%20manager&location=United%20States&f_WT=2&sortBy=DD','https://builtin.com/jobs/product-management','https://www.ycombinator.com/jobs/role/product-manager','https://otta.com/jobs?title=Product+Manager'],
+  // Quick-launch URLs: built live from PLATFORMS so they always reflect the
+  // current role (Product Manager vs Senior PM) and city — the old version
+  // was a static list hardcoded to "Product Manager" regardless of toggle.
+  const getQuickLaunchUrls = (region, role, location, opts) => {
+    const wantsRegion = ([p]) =>
+      region==='india'  ? (p.region==='india'  || p.region==='global') :
+      region==='remote' ? (p.region==='remote' || p.region==='global') :
+                           (p.region==='us'     || p.region==='global');
+    return Object.entries(PLATFORMS)
+      .filter(wantsRegion)
+      .sort((a,b) => a[1].priority - b[1].priority)
+      .slice(0, 6)
+      .map(([,p]) => p.getUrl(role, region==='india' ? location : '', { ...opts, region }));
   };
 
   return (
@@ -356,8 +432,8 @@ export default function App() {
           </div>
           <div style={{ display:'flex', alignItems:'center', gap:'12px' }}>
             <div style={{ display:'flex', gap:'6px', padding:'4px 8px', background:t.cardBg, border:`1px solid ${t.border}`, borderRadius:'12px' }}>
-              {['Product Manager','Senior PM'].map(r => (
-                <button key={r} onClick={()=>setSelectedRole(r)} style={{ padding:'6px 12px', borderRadius:'8px', border:'none', background:selectedRole===r?t.accent:'transparent', color:selectedRole===r?'#fff':t.textSecondary, fontSize:'12px', fontWeight:'500', cursor:'pointer' }}>{r}</button>
+              {ROLES.map(r => (
+                <button key={r.keyword} onClick={()=>setSelectedRole(r.keyword)} style={{ padding:'6px 12px', borderRadius:'8px', border:'none', background:selectedRole===r.keyword?t.accent:'transparent', color:selectedRole===r.keyword?'#fff':t.textSecondary, fontSize:'12px', fontWeight:'500', cursor:'pointer' }}>{r.label}</button>
               ))}
             </div>
             <button onClick={()=>setTheme(theme==='dark'?'light':'dark')} style={{ width:'40px', height:'40px', borderRadius:'50%', background:t.cardBg, border:`1px solid ${t.border}`, color:t.text, cursor:'pointer', display:'flex', alignItems:'center', justifyContent:'center' }}>
@@ -398,10 +474,10 @@ export default function App() {
                 Find every PM job.<br/><span style={{ background:t.gradient3, WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', backgroundClip:'text' }}>Apply first. Win.</span>
               </h1>
               <p style={{ fontSize:'20px', color:t.textSecondary, lineHeight:'1.6', maxWidth:'580px', margin:'0 auto 40px', fontWeight:'400' }}>
-                26 platforms • 17 Google hacks • Alert systems •<br/>LinkedIn templates. Everything to land your next PM role.
+                26 platforms • 18 Google hacks • Alert systems •<br/>LinkedIn templates. Everything to land your next PM role.
               </p>
               <div style={{ display:'flex', gap:'14px', justifyContent:'center', flexWrap:'wrap' }}>
-                <button onClick={()=>openMultiple(QUICK_URLS.india)} style={btnPrimary}><Zap size={18}/>Open All India Platforms<ArrowRight size={16}/></button>
+                <button onClick={()=>openMultiple(getQuickLaunchUrls('india', selectedRole, selectedLocation, filterOpts))} style={btnPrimary}><Zap size={18}/>Open All India Platforms<ArrowRight size={16}/></button>
                 <button onClick={()=>setActiveTab('hacks')} style={btnSecondary}><Lightbulb size={16}/>Unlock Hacks</button>
               </div>
             </section>
@@ -410,7 +486,7 @@ export default function App() {
             <section style={{ display:'grid', gridTemplateColumns:'repeat(auto-fit,minmax(180px,1fr))', gap:'16px', marginBottom:'72px' }}>
               {[
                 { n:'26+', label:'Job Platforms',    icon:<Briefcase size={22}/>, g:t.gradient1 },
-                { n:'17',  label:'Search Hacks',     icon:<Lightbulb size={22}/>, g:t.gradient5 },
+                { n:'18',  label:'Search Hacks',     icon:<Lightbulb size={22}/>, g:t.gradient5 },
                 { n:'12',  label:'Indian Cities',    icon:<MapPin size={22}/>,    g:t.gradient4 },
                 { n:'6',   label:'Alert Systems',    icon:<Bell size={22}/>,      g:t.gradient3 },
                 { n:'10+', label:'Templates',        icon:<MessageSquare size={22}/>, g:t.gradient2 },
@@ -430,7 +506,7 @@ export default function App() {
               <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fit,minmax(280px,1fr))', gap:'20px' }}>
                 {[
                   { title:'All Job Platforms', desc:'26 boards — Indian, global, remote, startup. Sorted newest first.', icon:'💼', tab:'jobs', color:t.gradient1 },
-                  { title:'Google Hacks',       desc:'17 secret queries to find unlisted jobs in ATS and direct career pages.', icon:'🔍', tab:'hacks', color:t.gradient5 },
+                  { title:'Google Hacks',       desc:'18 secret queries to find unlisted jobs in ATS and direct career pages.', icon:'🔍', tab:'hacks', color:t.gradient5 },
                   { title:'Alert Setup',        desc:'Set up 6 real-time alert systems so new jobs reach YOU first.', icon:'🔔', tab:'alerts', color:t.gradient3 },
                   { title:'Be First to Apply',  desc:'Step-by-step strategy to be in the top 5 applicants every time.', icon:'⚡', tab:'firstapply', color:t.gradient2 },
                   { title:'Remote & International', desc:'Remote boards, IST-friendly companies, US/UK/Canada/Singapore.', icon:'🌍', tab:'remote', color:t.gradient4 },
@@ -450,7 +526,7 @@ export default function App() {
             <div style={{ ...card, background:theme==='dark'?'linear-gradient(135deg,rgba(255,214,10,0.1) 0%,rgba(255,149,0,0.1) 100%)':'linear-gradient(135deg,rgba(255,214,10,0.08) 0%,rgba(255,149,0,0.08) 100%)', padding:'36px', textAlign:'center' }}>
               <Award size={36} style={{ color:t.warning, marginBottom:'12px' }}/>
               <h3 style={{ margin:'0 0 10px', fontSize:'22px', fontWeight:'600' }}>The #1 Proven Tactic</h3>
-              <p style={{ margin:'0 0 20px', fontSize:'17px', color:t.textSecondary, maxWidth:'500px', margin:'0 auto 24px', lineHeight:'1.6' }}>Applying in the <strong style={{ color:t.text }}>first 10 applicants</strong> makes you <strong style={{ color:t.text }}>4x more likely</strong> to hear back. Set alerts → apply same hour → chase referral.</p>
+              <p style={{ margin:'0 auto 24px', fontSize:'17px', color:t.textSecondary, maxWidth:'500px', lineHeight:'1.6' }}>Applying in the <strong style={{ color:t.text }}>first 10 applicants</strong> makes you <strong style={{ color:t.text }}>4x more likely</strong> to hear back. Set alerts → apply same hour → chase referral.</p>
               <button onClick={()=>setActiveTab('firstapply')} style={btnPrimary}><Zap size={16}/>See the "Be First" Strategy</button>
             </div>
           </div>
@@ -460,7 +536,7 @@ export default function App() {
         {activeTab==='jobs' && (
           <div>
             <div style={{ display:'flex', gap:'10px', marginBottom:'28px', flexWrap:'wrap' }}>
-              {[{id:'india',label:'🇮🇳 India',desc:'12 cities'},{id:'remote',label:'🌍 Remote',desc:'Work anywhere'},{id:'intl',label:'🌐 International',desc:'US, UK, CA, SG'}].map(r => (
+              {[{id:'india',label:'🇮🇳 India',desc:'12 cities'},{id:'remote',label:'🌍 Remote',desc:'Work anywhere'},{id:'intl',label:'🌐 International',desc:'Global reach — see US/UK/CA/SG tab for per-country detail'}].map(r => (
                 <button key={r.id} onClick={()=>setSelectedRegion(r.id)} style={{ padding:'18px 24px', background:selectedRegion===r.id?t.accent:t.cardBg, border:`1px solid ${selectedRegion===r.id?t.accent:t.border}`, borderRadius:'16px', color:selectedRegion===r.id?'#fff':t.text, cursor:'pointer', textAlign:'left', transition:'all 0.2s ease' }}>
                   <div style={{ fontSize:'17px', fontWeight:'600', marginBottom:'3px' }}>{r.label}</div>
                   <div style={{ fontSize:'12px', opacity:0.7 }}>{r.desc}</div>
@@ -473,10 +549,34 @@ export default function App() {
               <div style={{ display:'flex', alignItems:'center', justifyContent:'space-between', flexWrap:'wrap', gap:'16px' }}>
                 <div>
                   <h3 style={{ margin:'0 0 4px', fontSize:'17px', fontWeight:'600' }}>⚡ Quick Launch</h3>
-                  <p style={{ margin:0, fontSize:'13px', color:t.textSecondary }}>Open top platforms for <strong>{selectedRole}</strong> — newest first</p>
+                  <p style={{ margin:0, fontSize:'13px', color:t.textSecondary }}>Open top platforms for <strong>{selectedRole}</strong>{selectedRegion==='india'?<> in <strong>{selectedLocation}</strong></>:null} — newest first</p>
                 </div>
-                <button onClick={()=>openMultiple(QUICK_URLS[selectedRegion]||QUICK_URLS.india)} style={btnPrimary}><Rocket size={16}/>Launch All</button>
+                <div style={{ display:'flex', alignItems:'center', gap:'10px', flexWrap:'wrap' }}>
+                  {selectedRegion==='india' && (
+                    <select value={selectedLocation} onChange={e=>setSelectedLocation(e.target.value)} style={{ padding:'10px 14px', borderRadius:'980px', border:`1px solid ${t.border}`, background:t.cardBg, color:t.text, fontSize:'13px', cursor:'pointer' }}>
+                      {INDIA_LOCATIONS.map(l => <option key={l.id} value={l.name}>{l.name}</option>)}
+                    </select>
+                  )}
+                  <button onClick={()=>openMultiple(getQuickLaunchUrls(selectedRegion, selectedRole, selectedLocation, filterOpts))} style={btnPrimary}><Rocket size={16}/>Launch All</button>
+                </div>
               </div>
+            </div>
+
+            {/* Filters — only LinkedIn / Naukri / Indeed honor these (see FRESHNESS_OPTIONS / EXPERIENCE_LEVELS comments); every other board has no documented equivalent param */}
+            <div style={{ display:'flex', gap:'10px', flexWrap:'wrap', marginBottom:'20px' }}>
+              <div>
+                <div style={{ fontSize:'11px', color:t.textSecondary, marginBottom:'5px', textTransform:'uppercase', letterSpacing:'0.5px' }}>Posted</div>
+                <select value={selectedFreshness.id} onChange={e=>setSelectedFreshness(FRESHNESS_OPTIONS.find(f=>f.id===e.target.value))} style={{ padding:'9px 14px', borderRadius:'980px', border:`1px solid ${t.border}`, background:t.cardBg, color:t.text, fontSize:'13px', cursor:'pointer' }}>
+                  {FRESHNESS_OPTIONS.map(f => <option key={f.id} value={f.id}>{f.label}</option>)}
+                </select>
+              </div>
+              <div>
+                <div style={{ fontSize:'11px', color:t.textSecondary, marginBottom:'5px', textTransform:'uppercase', letterSpacing:'0.5px' }}>Experience</div>
+                <select value={selectedExperience.id} onChange={e=>setSelectedExperience(EXPERIENCE_LEVELS.find(x=>x.id===e.target.value))} style={{ padding:'9px 14px', borderRadius:'980px', border:`1px solid ${t.border}`, background:t.cardBg, color:t.text, fontSize:'13px', cursor:'pointer' }}>
+                  {EXPERIENCE_LEVELS.map(x => <option key={x.id} value={x.id}>{x.label}</option>)}
+                </select>
+              </div>
+              <p style={{ alignSelf:'flex-end', fontSize:'11px', color:t.textTertiary, margin:'0 0 4px' }}>Applied on LinkedIn, Naukri &amp; Indeed only — other boards don't expose these as URL filters</p>
             </div>
 
             {/* Platform grid */}
@@ -486,7 +586,7 @@ export default function App() {
             </h3>
             <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(270px,1fr))', gap:'12px', marginBottom:'48px' }}>
               {filteredPlatforms.map(([id, p]) => (
-                <a key={id} href={p.getUrl(selectedRole, selectedRegion==='india'?'Bengaluru':'India')} target="_blank" rel="noopener noreferrer"
+                <a key={id} href={p.getUrl(selectedRole, selectedRegion==='india'?selectedLocation:'', { ...filterOpts, region:selectedRegion })} target="_blank" rel="noopener noreferrer"
                   style={{ ...card, textDecoration:'none', color:t.text, display:'flex', alignItems:'center', gap:'14px', padding:'18px 20px' }}>
                   <span style={{ fontSize:'28px', flexShrink:0 }}>{p.icon}</span>
                   <div style={{ flex:1, minWidth:0 }}>
@@ -506,7 +606,7 @@ export default function App() {
               <h3 style={{ margin:'0 0 16px', fontSize:'18px', fontWeight:'600' }}>📍 Search by City on LinkedIn</h3>
               <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(130px,1fr))', gap:'10px', marginBottom:'32px' }}>
                 {INDIA_LOCATIONS.map(l => (
-                  <a key={l.id} href={`https://www.linkedin.com/jobs/search/?keywords=${encodeURIComponent(selectedRole)}&location=${encodeURIComponent(l.name+', India')}&sortBy=DD&f_TPR=r86400`} target="_blank" rel="noopener noreferrer"
+                  <a key={l.id} href={PLATFORMS.linkedin.getUrl(selectedRole, l.name, { ...filterOpts, region:'india' })} target="_blank" rel="noopener noreferrer"
                     style={{ ...card, textDecoration:'none', color:t.text, textAlign:'center', padding:'18px 14px' }}>
                     <MapPin size={18} style={{ color:t.accent, marginBottom:'7px' }}/>
                     <div style={{ fontSize:'14px', fontWeight:'500' }}>{l.name}</div>
@@ -518,7 +618,7 @@ export default function App() {
               <h3 style={{ margin:'0 0 16px', fontSize:'18px', fontWeight:'600' }}>🔵 Naukri by City</h3>
               <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(130px,1fr))', gap:'10px' }}>
                 {INDIA_LOCATIONS.map(l => (
-                  <a key={l.id} href={`https://www.naukri.com/${selectedRole.toLowerCase().replace(/\s+/g,'-')}-jobs-in-${l.name.toLowerCase()}?sort=date`} target="_blank" rel="noopener noreferrer"
+                  <a key={l.id} href={PLATFORMS.naukri.getUrl(selectedRole, l.name, { ...filterOpts, region:'india' })} target="_blank" rel="noopener noreferrer"
                     style={{ ...card, textDecoration:'none', color:t.text, textAlign:'center', padding:'18px 14px', borderColor:'rgba(74,103,255,0.3)' }}>
                     <span style={{ fontSize:'18px', display:'block', marginBottom:'7px' }}>🔵</span>
                     <div style={{ fontSize:'14px', fontWeight:'500' }}>{l.name}</div>
@@ -533,7 +633,7 @@ export default function App() {
         {activeTab==='hacks' && (
           <div>
             <div style={{ textAlign:'center', marginBottom:'40px' }}>
-              <h2 style={{ fontSize:'34px', fontWeight:'700', letterSpacing:'-0.02em', marginBottom:'10px' }}>17 Google Search Hacks</h2>
+              <h2 style={{ fontSize:'34px', fontWeight:'700', letterSpacing:'-0.02em', marginBottom:'10px' }}>18 Google Search Hacks</h2>
               <p style={{ fontSize:'16px', color:t.textSecondary, maxWidth:'520px', margin:'0 auto' }}>Discover jobs before they hit job boards. Find hidden listings, referral opportunities, and salary-transparent roles.</p>
             </div>
 
