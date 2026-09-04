@@ -1,0 +1,37 @@
+name: Scan for new PM jobs
+
+on:
+  schedule:
+    # Every 6 hours. Free and unlimited on a public repo.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab to test
+
+permissions:
+  contents: write # needed to commit the updated agent/seen-jobs.json back
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run job scan
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node agent/scan-jobs.mjs
+
+      - name: Commit updated seen-jobs.json
+        run: |
+          git config user.name "pm-job-scan-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add agent/seen-jobs.json
+          git diff --staged --quiet || git commit -m "Update seen jobs [skip ci]"
+          git push

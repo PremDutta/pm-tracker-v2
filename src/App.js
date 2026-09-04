@@ -1,5 +1,10 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { Search, MapPin, ExternalLink, Zap, Globe, Copy, Check, Briefcase, Target, Lightbulb, MessageSquare, Users, Clock, Star, ChevronDown, ChevronUp, Mail, Sun, Moon, Sparkles, ArrowRight, Award, Rocket, Bell } from 'lucide-react';
+import { Search, MapPin, ExternalLink, Zap, Globe, Copy, Check, Briefcase, Target, Lightbulb, MessageSquare, Users, Clock, Star, ChevronDown, ChevronUp, Mail, Sun, Moon, Sparkles, ArrowRight, Award, Rocket, Bell, ClipboardList, Building2, FileSearch, ThumbsUp } from 'lucide-react';
+import { getProfile, getPlatformMeta, markPlatformChecked, markPlatformUseful, timeAgo } from './storage';
+import ProfileEditor from './components/ProfileEditor';
+import Tracker from './components/Tracker';
+import Watchlist from './components/Watchlist';
+import ResumeMatch from './components/ResumeMatch';
 
 // ─── THEMES ──────────────────────────────────────────────────────────────────
 const themes = {
@@ -335,7 +340,38 @@ export default function App() {
   const [expandedSections, setExpandedSections] = useState({});
   const [hackCategory, setHackCategory]   = useState('all');
   const [isLoaded, setIsLoaded]   = useState(false);
+  const [profile, setProfileState] = useState(() => getProfile());
+  const [platformMeta, setPlatformMeta] = useState(() => getPlatformMeta());
   const t = themes[theme];
+
+  const trackPlatformClick = (platformId) => setPlatformMeta(markPlatformChecked(platformId));
+  const trackPlatformUseful = (platformId, e) => { e.preventDefault(); e.stopPropagation(); setPlatformMeta(markPlatformUseful(platformId)); };
+
+  // Fills the constant parts of a template from the saved profile —
+  // recipient-specific brackets ([Name], [Company]) are left for you to fill,
+  // since those shouldn't be templated verbatim.
+  const fillTemplate = (message) => {
+    if (!profile) return message;
+    let out = message;
+    if (profile.years) {
+      out = out.replace(/\[X\] years/g, `${profile.years} years`);
+      out = out.replace(/\[X years\]/g, `${profile.years}-year`);
+    }
+    if (profile.domain) {
+      out = out.replace(/\[domain\]/g, profile.domain);
+      out = out.replace(/\[Domain expertise\]/g, `${profile.domain} expertise`);
+    }
+    const achievements = (profile.achievements || []).filter(Boolean);
+    if (achievements[0]) {
+      out = out.replace(/\[Achievement 1 with metric, e\.g\. "Grew DAU 40% in Q2"\]/g, achievements[0]);
+      out = out.replace(/\[Achievement 1 — quantified\]/g, achievements[0]);
+    }
+    if (achievements[1]) {
+      out = out.replace(/\[Achievement 2 with metric\]/g, achievements[1]);
+      out = out.replace(/\[Achievement 2 — quantified\]/g, achievements[1]);
+    }
+    return out;
+  };
 
   useEffect(() => { setIsLoaded(true); }, []);
 
@@ -448,6 +484,9 @@ export default function App() {
         {[
           { id:'home',      icon:<Sparkles size={14}/>,   label:'Home' },
           { id:'jobs',      icon:<Briefcase size={14}/>,  label:'All Jobs' },
+          { id:'tracker',   icon:<ClipboardList size={14}/>, label:'Tracker' },
+          { id:'watchlist', icon:<Building2 size={14}/>,  label:'Watchlist' },
+          { id:'resumematch',icon:<FileSearch size={14}/>,label:'Resume Match' },
           { id:'hacks',     icon:<Lightbulb size={14}/>,  label:'Hacks' },
           { id:'alerts',    icon:<Bell size={14}/>,        label:'Alerts' },
           { id:'firstapply',icon:<Zap size={14}/>,         label:'Be First' },
@@ -585,8 +624,11 @@ export default function App() {
               <span style={{ marginLeft:'10px', fontSize:'13px', color:t.textSecondary, fontWeight:'400' }}>{filteredPlatforms.length} platforms</span>
             </h3>
             <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(270px,1fr))', gap:'12px', marginBottom:'48px' }}>
-              {filteredPlatforms.map(([id, p]) => (
+              {filteredPlatforms.map(([id, p]) => {
+                const meta = platformMeta[id] || {};
+                return (
                 <a key={id} href={p.getUrl(selectedRole, selectedRegion==='india'?selectedLocation:'', { ...filterOpts, region:selectedRegion })} target="_blank" rel="noopener noreferrer"
+                  onClick={()=>trackPlatformClick(id)}
                   style={{ ...card, textDecoration:'none', color:t.text, display:'flex', alignItems:'center', gap:'14px', padding:'18px 20px' }}>
                   <span style={{ fontSize:'28px', flexShrink:0 }}>{p.icon}</span>
                   <div style={{ flex:1, minWidth:0 }}>
@@ -595,10 +637,17 @@ export default function App() {
                       {p.badge && <span style={{ ...badge(t.badgeText, t.badgeBg), fontSize:'9px' }}>{p.badge}</span>}
                     </div>
                     <div style={{ fontSize:'12px', color:t.textSecondary, whiteSpace:'nowrap', overflow:'hidden', textOverflow:'ellipsis' }}>{p.description}</div>
+                    <div style={{ fontSize:'10px', color:t.textTertiary, marginTop:'3px' }}>
+                      {meta.lastChecked ? `Checked ${timeAgo(meta.lastChecked)}` : 'Not checked yet'}
+                      {meta.usefulCount ? ` • 👍 ${meta.usefulCount}` : ''}
+                    </div>
                   </div>
+                  <button onClick={(e)=>trackPlatformUseful(id,e)} title="Mark this platform as having gotten you a response" style={{ background:'none', border:`1px solid ${t.border}`, borderRadius:'8px', padding:'6px', color:t.textTertiary, cursor:'pointer', flexShrink:0 }}>
+                    <ThumbsUp size={13}/>
+                  </button>
                   <ExternalLink size={15} style={{ color:t.textTertiary, flexShrink:0 }}/>
                 </a>
-              ))}
+              );})}
             </div>
 
             {/* City search */}
@@ -628,6 +677,15 @@ export default function App() {
             </>)}
           </div>
         )}
+
+        {/* ── TRACKER ── */}
+        {activeTab==='tracker' && <Tracker t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} />}
+
+        {/* ── WATCHLIST ── */}
+        {activeTab==='watchlist' && <Watchlist t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} profile={profile} />}
+
+        {/* ── RESUME MATCH ── */}
+        {activeTab==='resumematch' && <ResumeMatch t={t} card={card} />}
 
         {/* ── HACKS ── */}
         {activeTab==='hacks' && (
@@ -822,6 +880,7 @@ export default function App() {
               <h2 style={{ fontSize:'34px', fontWeight:'700', letterSpacing:'-0.02em', marginBottom:'10px' }}>LinkedIn Templates</h2>
               <p style={{ fontSize:'16px', color:t.textSecondary }}>Copy-paste messages — customize the [brackets], send in seconds</p>
             </div>
+            <ProfileEditor t={t} card={card} btnPrimary={btnPrimary} profile={profile} onChange={setProfileState} />
             {Object.entries(MESSAGE_TEMPLATES).map(([cat,temps]) => (
               <div key={cat} style={{ marginBottom:'16px' }}>
                 <button onClick={()=>toggleSection(cat)} style={{ width:'100%', display:'flex', alignItems:'center', justifyContent:'space-between', padding:'16px 22px', background:t.cardBg, border:`1px solid ${t.border}`, borderRadius:expandedSections[cat]?'16px 16px 0 0':'16px', color:t.text, cursor:'pointer', fontSize:'15px', fontWeight:'600', transition:'all 0.2s ease' }}>
@@ -841,11 +900,11 @@ export default function App() {
                             <h4 style={{ margin:'0 0 3px', fontSize:'15px', fontWeight:'600' }}>{tmpl.title}</h4>
                             <p style={{ margin:0, fontSize:'12px', color:t.textSecondary }}>{tmpl.context}</p>
                           </div>
-                          <button onClick={()=>copyToClipboard(tmpl.message,tmpl.id)} style={{ ...btnPrimary, padding:'9px 16px', fontSize:'13px', background:copiedId===tmpl.id?t.success:t.accent }}>
+                          <button onClick={()=>copyToClipboard(fillTemplate(tmpl.message),tmpl.id)} style={{ ...btnPrimary, padding:'9px 16px', fontSize:'13px', background:copiedId===tmpl.id?t.success:t.accent }}>
                             {copiedId===tmpl.id?<><Check size={14}/> Copied!</>:<><Copy size={14}/> Copy</>}
                           </button>
                         </div>
-                        <div style={{ padding:'16px', background:t.codeBg, borderRadius:'12px', fontSize:'13px', lineHeight:'1.75', whiteSpace:'pre-wrap', color:t.text }}>{tmpl.message}</div>
+                        <div style={{ padding:'16px', background:t.codeBg, borderRadius:'12px', fontSize:'13px', lineHeight:'1.75', whiteSpace:'pre-wrap', color:t.text }}>{fillTemplate(tmpl.message)}</div>
                       </div>
                     ))}
                   </div>
