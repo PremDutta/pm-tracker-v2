@@ -1,218 +1,59 @@
-# 🎯 PM Jobs Tracker
+# PM Jobs Tracker
 
-A beautiful, Apple-inspired job aggregator for Product Manager & Senior PM roles across India.
+[![CI](https://github.com/PremDutta/pm-tracker-v2/actions/workflows/ci.yml/badge.svg)](https://github.com/PremDutta/pm-tracker-v2/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
 
-![PM Jobs Tracker](https://img.shields.io/badge/PM%20Jobs-Tracker-blue?style=for-the-badge)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+A job search toolkit for Product Manager roles in India — a curated multi-platform launcher, an application tracker, a target-company watchlist with recruiter-outreach drafting, a resume/JD keyword-gap checker, and a free background agent that watches company ATS feeds and general aggregators for new postings.
 
-## ✨ Features
+It's a static React app (no backend, no database) plus one small standalone Node script that runs on a schedule via GitHub Actions. Data you enter (applications, watchlist, profile) lives only in your browser's `localStorage` — there's no server it's sent to.
 
-- 🔗 **12 Job Platforms**: LinkedIn, Naukri, Instahyre, Indeed, Glassdoor, Foundit, Wellfound, Cutshort, Levels.fyi, Hirist, Shine, Apna
-- 📍 **5 Locations**: Noida, Delhi, Gurugram, Bengaluru, Hyderabad
-- 🎯 **2 Roles**: Product Manager & Senior Product Manager
-- ⚡ **120 Search Combinations**: All jobs sorted by most recent
-- 🎨 **Apple-inspired Design**: Clean, dark mode interface
-- 📱 **Fully Responsive**: Works on all devices
+## Features
 
-## 🚀 Quick Start
+- **26 job platforms** — India-specific boards (Naukri, IIMJobs, Instahyre, Foundit, Shine, Hirist, Hirect, Apna, Cutshort, TimesJobs, NaukriGulf), global aggregators (LinkedIn, Indeed, Glassdoor, Wellfound, Levels.fyi, Welcome to the Jungle), remote boards (RemoteOK, We Work Remotely, Remote.co, FlexJobs), and US-focused ones (Built In, Underdog.io, YC Jobs, SimplyHired, Mind the Product) — filterable by city (12 Indian cities), role (Product Manager / Senior PM), posted-within window, and experience level (the last two apply wherever the destination site actually supports them: LinkedIn, Naukri, Indeed).
+- **Application Tracker** — a persistent Applied → Screening → Interview → Offer/Rejected board.
+- **Target Company Watchlist** — per-company deep links to the careers page, a Google-dork for unlisted postings, a LinkedIn recruiter search, and an auto-generated, profile-personalized outreach draft.
+- **Resume ↔ JD Match** — paste both, get a client-side keyword-overlap check. Nothing leaves the browser.
+- **18 Google search hacks** — `site:` queries for ATS-hosted listings (Greenhouse, Lever, Workday, Ashby), referral posts, and salary-transparent roles.
+- **Job alert setup guide, "be first to apply" playbook, remote/international strategy pages, and LinkedIn message templates** that auto-fill from a saved profile.
+- **A free background scanning agent** (`agent/`) — runs every 6 hours on GitHub Actions, pulls from Adzuna, JSearch, and direct ATS APIs (Greenhouse, Lever, Ashby, SmartRecruiters, Workable) for companies you list, and messages you on Telegram only when something's new. See [`agent/README.md`](agent/README.md) for setup.
 
-### Option 1: Deploy to GitHub Pages (Free Hosting)
-
-#### Step 1: Create GitHub Repository
-
-1. Go to [github.com](https://github.com) and sign in
-2. Click the **+** icon → **New repository**
-3. Name it `pm-jobs-tracker`
-4. Keep it **Public**
-5. Click **Create repository**
-
-#### Step 2: Upload Files
-
-**Option A: Using GitHub Web Interface (Easiest)**
-
-1. In your new repo, click **"uploading an existing file"**
-2. Drag and drop ALL the files from this project
-3. Click **Commit changes**
-
-**Option B: Using Git Command Line**
+## Local development
 
 ```bash
-# Clone your empty repo
-git clone https://github.com/YOUR_USERNAME/pm-jobs-tracker.git
-cd pm-jobs-tracker
-
-# Copy all project files here, then:
-git add .
-git commit -m "Initial commit"
-git push origin main
-```
-
-#### Step 3: Update package.json
-
-Edit `package.json` and replace `YOUR_GITHUB_USERNAME` with your actual GitHub username:
-
-```json
-"homepage": "https://YOUR_GITHUB_USERNAME.github.io/pm-jobs-tracker"
-```
-
-#### Step 4: Enable GitHub Pages
-
-1. Go to your repo → **Settings** → **Pages**
-2. Under "Build and deployment":
-   - Source: **GitHub Actions**
-3. Create a file `.github/workflows/deploy.yml` with this content:
-
-```yaml
-name: Deploy to GitHub Pages
-
-on:
-  push:
-    branches: [ main ]
-
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - uses: actions/checkout@v3
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-          
-      - name: Install dependencies
-        run: npm install
-        
-      - name: Build
-        run: npm run build
-        
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-```
-
-#### Step 5: Access Your Site
-
-After a few minutes, your site will be live at:
-```
-https://YOUR_USERNAME.github.io/pm-jobs-tracker
-```
-
----
-
-### Option 2: Deploy to Vercel (Even Easier)
-
-1. Go to [vercel.com](https://vercel.com) and sign in with GitHub
-2. Click **"New Project"**
-3. Import your `pm-jobs-tracker` repository
-4. Click **Deploy**
-5. Done! Your site is live in ~60 seconds
-
----
-
-### Option 3: Deploy to Netlify
-
-1. Go to [netlify.com](https://netlify.com) and sign in
-2. Drag & drop the `build` folder (after running `npm run build`)
-3. Or connect your GitHub repo for auto-deploys
-
----
-
-## 🛠 Local Development
-
-```bash
-# Install dependencies
 npm install
-
-# Start development server
-npm start
-
-# Build for production
-npm run build
+npm start       # dev server at localhost:3000
+npm test        # Jest + React Testing Library
+npm run build   # production build
 ```
 
-## 📁 Project Structure
+Requires Node 18+.
+
+## Project structure
 
 ```
-pm-jobs-tracker/
-├── public/
-│   ├── index.html
-│   └── manifest.json
+pm-tracker-v2/
+├── agent/                    # standalone job-scan agent (see agent/README.md)
+│   ├── scan-jobs.mjs
+│   └── companies.json        # your target companies for the ATS scanner
+├── .github/workflows/
+│   ├── ci.yml                 # tests + build on every push/PR
+│   └── job-scan.yml           # runs the agent on a schedule
 ├── src/
-│   ├── App.js          # Main component
-│   └── index.js        # Entry point
-├── package.json
-├── .gitignore
-└── README.md
+│   ├── App.js                 # main app: platform data, tabs, filters
+│   ├── storage.js             # localStorage persistence helpers
+│   └── components/            # Tracker, Watchlist, ResumeMatch, ProfileEditor
+└── public/
 ```
 
-## 🎨 Customization
+## Why no backend
 
-### Add More Locations
+Every "job board" here is a link to that platform's own search — the app never scrapes or stores third-party job listings itself. Several platforms (LinkedIn, Naukri) explicitly prohibit automated scraping in their terms of service; the background agent only queries sources with a genuinely public, licensed API (Adzuna, JSearch) or an ATS feed companies deliberately expose for embedding (Greenhouse, Lever, Ashby, SmartRecruiters, Workable).
 
-Edit the `LOCATIONS` array in `src/App.js`:
+## Deployment
 
-```javascript
-const LOCATIONS = [
-  { id: 'noida', name: 'Noida', state: 'UP' },
-  { id: 'mumbai', name: 'Mumbai', state: 'Maharashtra' },  // Add new
-  // ...
-];
-```
+Not currently deployed anywhere live — it runs locally via `npm start`. To put it on a public URL, connect the repo to [Vercel](https://vercel.com) (auto-detects the CRA build, deploys on every push) or enable GitHub Pages.
 
-### Add More Roles
+## License
 
-Edit the `ROLES` array:
-
-```javascript
-const ROLES = [
-  { id: 'pm', name: 'Product Manager', keywords: 'product+manager' },
-  { id: 'gpm', name: 'Group Product Manager', keywords: 'group+product+manager' },  // Add new
-  // ...
-];
-```
-
-### Add More Platforms
-
-Add to the `PLATFORMS` object:
-
-```javascript
-const PLATFORMS = {
-  // ... existing platforms
-  newplatform: {
-    name: 'New Platform',
-    icon: '🆕',
-    color: '#123456',
-    bgColor: 'rgba(18, 52, 86, 0.15)',
-    priority: 13,
-    getUrl: (role, location) => `https://newplatform.com/search?q=${role}&loc=${location}`,
-    description: 'Platform description'
-  }
-};
-```
-
-## 📱 Mobile Support
-
-The app is fully responsive and works great on:
-- 📱 iPhone / Android phones
-- 📱 iPad / Android tablets
-- 💻 Desktop browsers
-
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 📄 License
-
-MIT License - feel free to use this for your own job search!
-
----
-
-Made with ❤️ for Product Managers in India
+[MIT](LICENSE)

@@ -1,7 +1,17 @@
 {
   "name": "pm-jobs-tracker",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "private": true,
+  "description": "Job search toolkit for Product Manager roles in India: a curated multi-platform launcher, application tracker, target-company watchlist, resume/JD match checker, and a free GitHub Actions agent that watches Greenhouse/Lever/Ashby/SmartRecruiters/Workable + Adzuna/JSearch for new postings.",
+  "author": "PremDutta",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PremDutta/pm-tracker-v2.git"
+  },
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
