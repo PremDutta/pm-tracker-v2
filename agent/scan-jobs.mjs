@@ -181,12 +181,29 @@ async function fetchWorkable(company) {
   }));
 }
 
+// Verified live: GET https://{slug}.recruitee.com/api/offers/
+// -> { offers: [{ id, title, location, careers_apply_url }] }
+async function fetchRecruitee(company) {
+  const res = await fetch(`https://${company.slug}.recruitee.com/api/offers/`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  return (data.offers || []).map(j => ({
+    id: `recruitee-${company.slug}-${j.id}`,
+    title: j.title,
+    company: company.name,
+    location: j.location || '',
+    url: j.careers_apply_url,
+    source: `Recruitee (${company.name})`,
+  }));
+}
+
 const ATS_FETCHERS = {
   greenhouse: fetchGreenhouse,
   lever: fetchLever,
   ashby: fetchAshby,
   smartrecruiters: fetchSmartRecruiters,
   workable: fetchWorkable,
+  recruitee: fetchRecruitee,
 };
 
 async function fetchCompanyATS() {

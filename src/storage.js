@@ -85,6 +85,29 @@ export const markPlatformUseful = (platformId) => {
   return meta;
 };
 
+// ─── Resume Match: the active draft + named saved versions ──────────────────
+// Auto-persists whatever's in the textarea (so the tab isn't blank every
+// visit) plus lets you save labeled versions (startup/enterprise/general —
+// the app's own "Be First" tab already recommends keeping a few).
+const RESUME_DRAFT_KEY = 'pmt_resume_draft';
+export const getSavedResume = () => safeGet(RESUME_DRAFT_KEY, '');
+export const setSavedResume = (text) => safeSet(RESUME_DRAFT_KEY, text);
+
+const RESUME_VERSIONS_KEY = 'pmt_resume_versions';
+export const getResumeVersions = () => safeGet(RESUME_VERSIONS_KEY, []);
+
+export const saveResumeVersion = (label, text) => {
+  const next = [...getResumeVersions(), { id: Date.now().toString(36), label, text, savedAt: new Date().toISOString().slice(0, 10) }];
+  safeSet(RESUME_VERSIONS_KEY, next);
+  return next;
+};
+
+export const deleteResumeVersion = (id) => {
+  const next = getResumeVersions().filter(v => v.id !== id);
+  safeSet(RESUME_VERSIONS_KEY, next);
+  return next;
+};
+
 export const timeAgo = (timestamp) => {
   if (!timestamp) return null;
   const diffMs = Date.now() - timestamp;

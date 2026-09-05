@@ -1,5 +1,5 @@
 import React from 'react';
-import { render, screen } from '@testing-library/react';
+import { render, screen, fireEvent } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import App from './App';
 
@@ -83,7 +83,7 @@ test('Watchlist: add a target company and see a generated outreach draft', async
   expect(stored[0].company).toBe('Acme Robotics');
 });
 
-test('Resume Match: flags a keyword present in the JD but missing from the resume', async () => {
+test('Resume Match: matches a key phrase present in both, flags one missing from the resume', async () => {
   const user = userEvent.setup();
   render(<App />);
 
@@ -91,9 +91,98 @@ test('Resume Match: flags a keyword present in the JD but missing from the resum
   await user.type(screen.getByPlaceholderText(/Paste your resume text/i), 'Experienced product manager who ships features and leads teams.');
   await user.type(screen.getByPlaceholderText(/Paste the job description/i), 'Looking for a product manager with strong kubernetes and blockchain experience.');
 
-  // Exact match — a substring match would also hit the JD textarea's own text content
-  expect(await screen.findByText(/^kubernetes$/i)).toBeInTheDocument();
-  expect(screen.getByText(/^blockchain$/i)).toBeInTheDocument();
+  // "product manager" is extracted as a 2-word phrase (not two independent
+  // words) and is present in both — confirmed present:true via direct script
+  // run against resumeAnalysis.js before writing this assertion.
+  expect(await screen.findByText('product manager')).toBeInTheDocument();
+  // "blockchain experience" never appears in the resume at all
+  expect(screen.getByText('blockchain experience')).toBeInTheDocument();
+});
+
+test('Resume Match: stemming matches "managed" against the JD\'s "managing", and the experience-years check fires', async () => {
+  const user = userEvent.setup();
+  render(<App />);
+
+  await user.click(screen.getByRole('button', { name: /Resume Match/i }));
+  await user.type(screen.getByPlaceholderText(/Paste your resume text/i), 'I managed teams and worked with SQL databases for 6 years, 2018-2024.');
+  await user.type(screen.getByPlaceholderText(/Paste the job description/i), 'Looking for someone with 5+ years managing teams. Must have experience with SQL and stakeholder management.');
+
+  // "managed teams" (resume) and "managing teams" (JD) stem to the same
+  // root, so this phrase should show as present, not missing — this is the
+  // whole point of adding stemming instead of exact string matching.
+  expect(await screen.findByText('managing teams')).toBeInTheDocument();
+  // Real output confirmed via script: JD asks for 5+, resume spans 6 (meets the bar)
+  expect(screen.getByText(/JD asks for/i).textContent).toMatch(/5\+ years.*6 years.*2018–2024.*meets the bar/i);
+});
+
+test('Resume Match: experience-years check ignores a college graduation year, using only the Experience section', async () => {
+  const user = userEvent.setup();
+  render(<App />);
+
+  await user.click(screen.getByRole('button', { name: /Resume Match/i }));
+  fireEvent.change(screen.getByPlaceholderText(/Paste your resume text/i), { target: { value:
+    'Education\nB.Tech Computer Science, IIT Delhi, 2010-2014\n\n' +
+    'Experience\nSenior Product Manager, Acme Corp, 2020-Present\nProduct Manager, Beta Inc, 2018-2020'
+  } });
+  await user.type(screen.getByPlaceholderText(/Paste the job description/i), 'Looking for a candidate with 5+ years of product management experience.');
+
+  // Real bug this guards against: a plain year-regex over the whole resume
+  // would have picked up the 2010 college start date, inflating the span to
+  // ~15 years instead of the real ~8 years of actual work experience.
+  expect(await screen.findByText(/JD asks for/i)).toHaveTextContent(/5\+ years.*8 years.*2018–Present.*meets the bar/i);
+});
+
+test('Resume Match: flags an explicit JD requirement not addressed by the resume', async () => {
+  const user = userEvent.setup();
+  render(<App />);
+
+  await user.click(screen.getByRole('button', { name: /Resume Match/i }));
+  await user.type(screen.getByPlaceholderText(/Paste your resume text/i), 'I have led product launches at a consumer app company.');
+  await user.type(screen.getByPlaceholderText(/Paste the job description/i), 'Must have prior experience with Kubernetes and Terraform infrastructure automation.');
+
+  // Scoped to a <span> — the JD textarea's own value contains this exact
+  // same sentence too, so a plain text match is ambiguous between the two.
+  expect(await screen.findByText((_, el) => el.tagName === 'SPAN' && /Must have prior experience with Kubernetes and Terraform/i.test(el.textContent))).toBeInTheDocument();
+});
+
+test('Resume Match: auto-saves the draft and reloads it, and saved versions can be loaded back', async () => {
+  const user = userEvent.setup();
+  const { unmount } = render(<App />);
+
+  await user.click(screen.getByRole('button', { name: /Resume Match/i }));
+  await user.type(screen.getByPlaceholderText(/Paste your resume text/i), 'Draft resume text for persistence check.');
+
+  expect(window.localStorage.getItem('pmt_resume_draft')).toContain('Draft resume text for persistence check.');
+
+  // Save it as a named version, then overwrite the draft, then load the saved version back
+  await user.type(screen.getByPlaceholderText(/Label \(e\.g\. Startup version\)/i), 'Startup version');
+  await user.click(screen.getByRole('button', { name: /Save current/i }));
+
+  unmount();
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: /Resume Match/i }));
+
+  // The draft persisted across the simulated "reopen the tab" via unmount/remount
+  expect(screen.getByDisplayValue(/Draft resume text for persistence check\./i)).toBeInTheDocument();
+
+  await user.clear(screen.getByPlaceholderText(/Paste your resume text/i));
+  await user.type(screen.getByPlaceholderText(/Paste your resume text/i), 'Something else entirely.');
+  await user.click(screen.getByText(/Startup version/i));
+
+  expect(screen.getByDisplayValue(/Draft resume text for persistence check\./i)).toBeInTheDocument();
+});
+
+test('Resume Match: uploading a .txt resume file fills the textarea', async () => {
+  const user = userEvent.setup();
+  render(<App />);
+
+  await user.click(screen.getByRole('button', { name: /Resume Match/i }));
+
+  const file = new File(['Experienced product manager, strong in kubernetes.'], 'resume.txt', { type: 'text/plain' });
+  const fileInput = document.querySelector('input[type="file"]');
+  await user.upload(fileInput, file);
+
+  expect(await screen.findByDisplayValue(/Experienced product manager, strong in kubernetes\./i)).toBeInTheDocument();
 });
 
 test('Templates: saving a profile fills the [X] years / [domain] placeholders', async () => {

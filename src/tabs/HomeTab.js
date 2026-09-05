@@ -2,7 +2,7 @@ import React from 'react';
 import { Briefcase, Lightbulb, MapPin, Bell, MessageSquare, Globe, Zap, ArrowRight, Award } from 'lucide-react';
 
 const STATS = [
-  { n:'26+', label:'Job Platforms', icon: Briefcase, gradientKey:'gradient1' },
+  { n:'28+', label:'Job Platforms', icon: Briefcase, gradientKey:'gradient1' },
   { n:'18',  label:'Search Hacks',  icon: Lightbulb, gradientKey:'gradient5' },
   { n:'12',  label:'Indian Cities', icon: MapPin,     gradientKey:'gradient4' },
   { n:'6',   label:'Alert Systems', icon: Bell,        gradientKey:'gradient3' },
@@ -14,7 +14,7 @@ const FEATURES = [
   { title:'Application Tracker', desc:'Track every application through Applied, Screening, Interview, Offer. New.', icon:'📋', tab:'tracker', gradientKey:'gradient2', badge:'NEW' },
   { title:'Target Company Watchlist', desc:'Track specific companies with recruiter search + auto-drafted outreach. New.', icon:'🏢', tab:'watchlist', gradientKey:'gradient4', badge:'NEW' },
   { title:'Resume ↔ JD Match',  desc:'Paste a resume and JD, see missing keywords instantly. New.', icon:'📄', tab:'resumematch', gradientKey:'gradient3', badge:'NEW' },
-  { title:'All Job Platforms', desc:'26 boards — Indian, global, remote, startup. Sorted newest first.', icon:'💼', tab:'jobs', gradientKey:'gradient1' },
+  { title:'All Job Platforms', desc:'28 boards — Indian, global, remote, startup. Sorted newest first.', icon:'💼', tab:'jobs', gradientKey:'gradient1' },
   { title:'Google Hacks',       desc:'18 secret queries to find unlisted jobs in ATS and direct career pages.', icon:'🔍', tab:'hacks', gradientKey:'gradient5' },
   { title:'Alert Setup',        desc:'Set up 6 real-time alert systems so new jobs reach YOU first.', icon:'🔔', tab:'alerts', gradientKey:'gradient3' },
   { title:'Be First to Apply',  desc:'Step-by-step strategy to be in the top 5 applicants every time.', icon:'⚡', tab:'firstapply', gradientKey:'gradient2' },
@@ -41,13 +41,13 @@ export default function HomeTab({
       <section style={{ textAlign:'center', padding:'60px 0 72px' }}>
         <div style={{ display:'inline-flex', alignItems:'center', gap:'8px', padding:'7px 16px', background:t.name==='dark'?'rgba(48,209,88,0.15)':'rgba(52,199,89,0.1)', borderRadius:'980px', marginBottom:'24px' }}>
           <div style={{ width:'7px', height:'7px', borderRadius:'50%', background:t.success, animation:'pulse 2s infinite' }}/>
-          <span style={{ fontSize:'13px', color:t.success, fontWeight:'600' }}>Live • 26 platforms connected</span>
+          <span style={{ fontSize:'13px', color:t.success, fontWeight:'600' }}>Live • 28 platforms connected</span>
         </div>
         <h1 style={{ fontSize:'clamp(44px,10vw,80px)', fontWeight:'700', letterSpacing:'-0.04em', lineHeight:'1.05', margin:'0 0 24px', color:t.text }}>
           Find every PM job.<br/><span style={{ background:t.gradient3, WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', backgroundClip:'text' }}>Apply first. Win.</span>
         </h1>
         <p style={{ fontSize:'20px', color:t.textSecondary, lineHeight:'1.6', maxWidth:'580px', margin:'0 auto 40px', fontWeight:'400' }}>
-          26 platforms • Application tracker • Company watchlist •<br/>Resume match. Everything to land your next PM role.
+          28 platforms • Application tracker • Company watchlist •<br/>Resume match. Everything to land your next PM role.
         </p>
         <div style={{ display:'flex', gap:'14px', justifyContent:'center', flexWrap:'wrap' }}>
           <button onClick={openAllIndia} style={btnPrimary}><Zap size={18}/>{isOpening?'Opening…':'Open All India Platforms'}<ArrowRight size={16}/></button>

@@ -64,4 +64,6 @@ export const PLATFORMS = {
     return `https://www.simplyhired.com/search?q=${encodeURIComponent(r)}&sb=dd`;
   }, description:'India + global aggregator' },
   timesjobs:    { name:'TimesJobs',       icon:'⏰', color:'#E44D26', region:'india',  priority:26,              getUrl:(r,l)=>`https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=${encodeURIComponent(r)}&txtLocation=${encodeURIComponent(l)}`, description:'Times Group board' },
+  dice:         { name:'Dice',            icon:'🎲', color:'#005A9C', region:'us',     priority:27,              getUrl:(r)=>`https://www.dice.com/jobs/q-${encodeURIComponent(r).replace(/%20/g,'+')}-jobs`, description:'US tech-focused board' },
+  bayt:         { name:'Bayt.com',        icon:'🌴', color:'#00A19A', region:'global', priority:28,              getUrl:(r)=>`https://www.bayt.com/en/international/jobs/${r.toLowerCase().replace(/\s+/g,'-')}-jobs/`, description:'Leading MENA/Gulf board' },
 };

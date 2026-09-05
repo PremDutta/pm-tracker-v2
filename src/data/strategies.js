@@ -44,5 +44,7 @@ export const INTL_STRATEGIES = {
   sg: { title:'🇸🇬 Singapore', platforms:[
     { name:'LinkedIn SG', url:'https://www.linkedin.com/jobs/search/?keywords=product%20manager&location=Singapore&sortBy=DD' },
     { name:'MyCareersFuture', url:'https://www.mycareersfuture.gov.sg/search?search=product+manager&sortBy=new_posting_date' },
+    { name:'Jobstreet SG', url:'https://sg.jobstreet.com/product-manager-jobs' },
+    { name:'Glints', url:'https://glints.com/jobs' },
   ], tips:['Employment Pass: salary > SGD 5,000/mo needed','No-visa onboarding for many Indian PMs initially','Gateway to SEA market exposure'], sponsors:['Sea Group','Grab','Shopee','DBS','Gojek Singapore'] },
 };

@@ -80,7 +80,7 @@ export default function App() {
             <div style={{ width:'40px', height:'40px', borderRadius:'12px', background:t.gradient1, display:'flex', alignItems:'center', justifyContent:'center', fontSize:'20px', boxShadow:'0 4px 12px rgba(102,126,234,0.4)' }}>🎯</div>
             <div>
               <h1 style={{ margin:0, fontSize:'19px', fontWeight:'600', letterSpacing:'-0.3px', color:t.text }}>PM Jobs Tracker</h1>
-              <p style={{ margin:0, fontSize:'11px', color:t.textSecondary }}>26 platforms • updated daily</p>
+              <p style={{ margin:0, fontSize:'11px', color:t.textSecondary }}>28 platforms • updated daily</p>
             </div>
           </button>
           <div style={{ display:'flex', alignItems:'center', gap:'12px' }}>
@@ -166,7 +166,7 @@ export default function App() {
         {activeTab==='watchlist' && <Watchlist t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} profile={profile} />}
 
         {/* ── RESUME MATCH ── */}
-        {activeTab==='resumematch' && <ResumeMatch t={t} card={card} />}
+        {activeTab==='resumematch' && <ResumeMatch t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} />}
 
         {/* ── HACKS ── */}
         {activeTab==='hacks' && <HacksTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} isLoaded={isLoaded} />}
@@ -189,7 +189,7 @@ export default function App() {
       </main>
 
       <footer style={{ borderTop:`1px solid ${t.border}`, padding:'20px', textAlign:'center', position:'relative', zIndex:10 }}>
-        <p style={{ fontSize:'12px', color:t.textSecondary, margin:0 }}>PM Jobs Tracker • 26 platforms • Built for Product Managers in India 🇮🇳</p>
+        <p style={{ fontSize:'12px', color:t.textSecondary, margin:0 }}>PM Jobs Tracker • 28 platforms • Built for Product Managers in India 🇮🇳</p>
       </footer>
 
       <style>{`
