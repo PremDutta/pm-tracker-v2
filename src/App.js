@@ -452,7 +452,7 @@ export default function App() {
   };
 
   return (
-    <div style={{ minHeight:'100vh', background:t.bg, color:t.text, fontFamily:'-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text",system-ui,sans-serif', transition:'background 0.5s ease,color 0.3s ease' }}>
+    <div style={{ minHeight:'100vh', background:t.bg, color:t.text, fontFamily:'"Inter",-apple-system,BlinkMacSystemFont,system-ui,sans-serif', transition:'background 0.5s ease,color 0.3s ease' }}>
       {/* Hero glow */}
       <div style={{ position:'fixed', top:0, left:0, right:0, bottom:0, background:t.heroGradient, pointerEvents:'none', zIndex:0, opacity:isLoaded?1:0, transition:'opacity 1s ease' }} />
 
@@ -922,6 +922,7 @@ export default function App() {
 
       <style>{`
         *{box-sizing:border-box;margin:0;padding:0;}
+        h1,h2,h3,h4{font-family:"Space Grotesk",Inter,-apple-system,BlinkMacSystemFont,system-ui,sans-serif;}
         @keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:0.6;transform:scale(0.9);}}
         ::-webkit-scrollbar{width:8px;height:8px;}
         ::-webkit-scrollbar-track{background:transparent;}
