@@ -1,10 +1,17 @@
 import React, { useState } from 'react';
-import { Plus, Trash2, Briefcase } from 'lucide-react';
+import { Plus, Trash2, Briefcase, Clock } from 'lucide-react';
 import { getApplications, addApplication, updateApplication, deleteApplication, APPLICATION_STATUSES } from '../storage';
 
 const STATUS_COLORS = {
   Applied: '#0A84FF', Screening: '#FFD60A', Interview: '#FF9500', Offer: '#30D158', Rejected: '#FF453A',
 };
+
+// The app's own "Be First" advice is built around chasing things up — but
+// nothing ever reminded you to actually do it. An application sitting in
+// "Applied" for a week with no movement is exactly when a follow-up matters.
+const FOLLOW_UP_AFTER_DAYS = 7;
+const daysSince = (dateString) => Math.floor((Date.now() - new Date(dateString).getTime()) / 86400000);
+const needsFollowUp = (a) => a.status === 'Applied' && daysSince(a.appliedDate) >= FOLLOW_UP_AFTER_DAYS;
 
 export default function Tracker({ t, card, btnPrimary, btnSecondary }) {
   const [apps, setApps] = useState(getApplications());
@@ -23,6 +30,7 @@ export default function Tracker({ t, card, btnPrimary, btnSecondary }) {
   const remove = (id) => setApps(deleteApplication(id));
 
   const grouped = APPLICATION_STATUSES.map(status => ({ status, items: apps.filter(a => a.status === status) }));
+  const followUpCount = apps.filter(needsFollowUp).length;
 
   return (
     <div>
@@ -47,6 +55,15 @@ export default function Tracker({ t, card, btnPrimary, btnSecondary }) {
         <button type="submit" style={{ ...btnPrimary, padding: '10px 16px', fontSize: '13px', justifySelf: 'start' }}><Plus size={14} /> Add</button>
       </form>
 
+      {followUpCount > 0 && (
+        <div style={{ ...card, marginBottom: '20px', display: 'flex', alignItems: 'center', gap: '12px', padding: '14px 20px', borderColor: t.warning }}>
+          <Clock size={18} style={{ color: t.warning, flexShrink: 0 }} />
+          <span style={{ fontSize: '13px' }}>
+            <strong>{followUpCount}</strong> application{followUpCount === 1 ? '' : 's'} applied {FOLLOW_UP_AFTER_DAYS}+ days ago with no update — worth a follow-up message (see the Templates tab).
+          </span>
+        </div>
+      )}
+
       {apps.length === 0 ? (
         <div style={{ ...card, textAlign: 'center', padding: '48px', color: t.textSecondary }}>
           <Briefcase size={32} style={{ marginBottom: '12px', opacity: 0.5 }} />
@@ -63,13 +80,19 @@ export default function Tracker({ t, card, btnPrimary, btnSecondary }) {
               </div>
               <div style={{ display: 'grid', gap: '8px' }}>
                 {items.map(a => (
-                  <div key={a.id} style={{ ...card, padding: '14px 16px' }}>
+                  <div key={a.id} style={{ ...card, padding: '14px 16px', ...(needsFollowUp(a) ? { borderColor: t.warning } : {}) }}>
                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: '8px' }}>
                       <div style={{ minWidth: 0 }}>
                         <div style={{ fontSize: '14px', fontWeight: '600' }}>{a.company}</div>
                         {a.role && <div style={{ fontSize: '12px', color: t.textSecondary }}>{a.role}</div>}
                         {a.platform && <div style={{ fontSize: '11px', color: t.textTertiary, marginTop: '2px' }}>via {a.platform}</div>}
-                        <div style={{ fontSize: '10px', color: t.textTertiary, marginTop: '4px' }}>{a.appliedDate}</div>
+                        {needsFollowUp(a) ? (
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '4px', fontSize: '10px', color: t.warning, marginTop: '4px', fontWeight: '600' }}>
+                            <Clock size={11} /> Follow up — applied {daysSince(a.appliedDate)}d ago
+                          </div>
+                        ) : (
+                          <div style={{ fontSize: '10px', color: t.textTertiary, marginTop: '4px' }}>{a.appliedDate}</div>
+                        )}
                       </div>
                       <button onClick={() => remove(a.id)} style={{ background: 'none', border: 'none', color: t.textTertiary, cursor: 'pointer', padding: '2px', flexShrink: 0 }}>
                         <Trash2 size={14} />

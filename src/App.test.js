@@ -47,6 +47,24 @@ test('Tracker: add an application, see it under Applied, move it to Interview', 
   expect(updated[0].status).toBe('Interview');
 });
 
+test('Tracker: an application applied 10 days ago with no update shows a follow-up nudge', async () => {
+  const user = userEvent.setup();
+  const tenDaysAgo = new Date(Date.now() - 10 * 86400000).toISOString().slice(0, 10);
+  window.localStorage.setItem('pmt_applications', JSON.stringify([
+    { id: 'old1', company: 'Stale Corp', role: 'PM', platform: '', status: 'Applied', appliedDate: tenDaysAgo },
+  ]));
+
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: 'Tracker' }));
+
+  expect(screen.getByText('Stale Corp')).toBeInTheDocument();
+  expect(screen.getByText(/Follow up — applied 10d ago/i)).toBeInTheDocument();
+  // Custom matcher, not a plain string/regex — the banner's count is inside a
+  // <strong> tag, so its text is split across sibling nodes and the default
+  // text matcher won't find it; checking textContent directly sidesteps that.
+  expect(screen.getByText((_, el) => el.tagName === 'SPAN' && el.textContent.includes('applied 7+ days ago with no update'))).toBeInTheDocument();
+});
+
 test('Watchlist: add a target company and see a generated outreach draft', async () => {
   const user = userEvent.setup();
   render(<App />);
