@@ -340,6 +340,8 @@ export default function App() {
   const [expandedSections, setExpandedSections] = useState({});
   const [hackCategory, setHackCategory]   = useState('all');
   const [isLoaded, setIsLoaded]   = useState(false);
+  const [blockedUrls, setBlockedUrls] = useState([]);
+  const [isOpening, setIsOpening] = useState(false);
   const [profile, setProfileState] = useState(() => getProfile());
   const [platformMeta, setPlatformMeta] = useState(() => getPlatformMeta());
   const t = themes[theme];
@@ -383,7 +385,18 @@ export default function App() {
   }, []);
 
   const toggleSection = (id) => setExpandedSections(p => ({ ...p, [id]: !p[id] }));
-  const openMultiple  = (urls) => urls.forEach((u, i) => setTimeout(() => window.open(u, '_blank', 'noopener'), i * 350));
+  // Was staggering window.open() calls via setTimeout — that breaks the
+  // "direct user click" requirement popup blockers enforce, so most/all of
+  // the tabs silently never opened (the button looked broken, but the click
+  // handler was actually firing fine). Opening synchronously in the same
+  // click-handler tick is what popup blockers allow; anything still blocked
+  // (a browser can cap how many at once) gets surfaced instead of silently lost.
+  const openMultiple = (urls) => {
+    setIsOpening(true);
+    setTimeout(() => setIsOpening(false), 500);
+    const blocked = urls.filter(u => !window.open(u, '_blank', 'noopener'));
+    setBlockedUrls(blocked);
+  };
 
   // Style helpers
   const card = {
@@ -459,13 +472,13 @@ export default function App() {
       {/* NAV */}
       <nav style={{ position:'sticky', top:0, zIndex:1000, backdropFilter:t.glassEffect, WebkitBackdropFilter:t.glassEffect, background:theme==='dark'?'rgba(0,0,0,0.75)':'rgba(255,255,255,0.75)', borderBottom:`0.5px solid ${t.border}` }}>
         <div style={{ maxWidth:'1200px', margin:'0 auto', padding:'12px 24px', display:'flex', alignItems:'center', justifyContent:'space-between' }}>
-          <div style={{ display:'flex', alignItems:'center', gap:'14px' }}>
+          <button onClick={()=>setActiveTab('home')} style={{ display:'flex', alignItems:'center', gap:'14px', background:'none', border:'none', cursor:'pointer', padding:0, textAlign:'left' }}>
             <div style={{ width:'40px', height:'40px', borderRadius:'12px', background:t.gradient1, display:'flex', alignItems:'center', justifyContent:'center', fontSize:'20px', boxShadow:'0 4px 12px rgba(102,126,234,0.4)' }}>🎯</div>
             <div>
-              <h1 style={{ margin:0, fontSize:'19px', fontWeight:'600', letterSpacing:'-0.3px' }}>PM Jobs Tracker</h1>
+              <h1 style={{ margin:0, fontSize:'19px', fontWeight:'600', letterSpacing:'-0.3px', color:t.text }}>PM Jobs Tracker</h1>
               <p style={{ margin:0, fontSize:'11px', color:t.textSecondary }}>26 platforms • updated daily</p>
             </div>
-          </div>
+          </button>
           <div style={{ display:'flex', alignItems:'center', gap:'12px' }}>
             <div style={{ display:'flex', gap:'6px', padding:'4px 8px', background:t.cardBg, border:`1px solid ${t.border}`, borderRadius:'12px' }}>
               {ROLES.map(r => (
@@ -484,9 +497,9 @@ export default function App() {
         {[
           { id:'home',      icon:<Sparkles size={14}/>,   label:'Home' },
           { id:'jobs',      icon:<Briefcase size={14}/>,  label:'All Jobs' },
-          { id:'tracker',   icon:<ClipboardList size={14}/>, label:'Tracker' },
-          { id:'watchlist', icon:<Building2 size={14}/>,  label:'Watchlist' },
-          { id:'resumematch',icon:<FileSearch size={14}/>,label:'Resume Match' },
+          { id:'tracker',   icon:<ClipboardList size={14}/>, label:'Tracker', isNew:true },
+          { id:'watchlist', icon:<Building2 size={14}/>,  label:'Watchlist', isNew:true },
+          { id:'resumematch',icon:<FileSearch size={14}/>,label:'Resume Match', isNew:true },
           { id:'hacks',     icon:<Lightbulb size={14}/>,  label:'Hacks' },
           { id:'alerts',    icon:<Bell size={14}/>,        label:'Alerts' },
           { id:'firstapply',icon:<Zap size={14}/>,         label:'Be First' },
@@ -494,11 +507,28 @@ export default function App() {
           { id:'intl',      icon:<Target size={14}/>,      label:'US/UK/CA/SG' },
           { id:'templates', icon:<MessageSquare size={14}/>, label:'Templates' },
         ].map(tab => (
-          <button key={tab.id} onClick={()=>setActiveTab(tab.id)} style={tabStyle(activeTab===tab.id)}>{tab.icon}{tab.label}</button>
+          <button key={tab.id} onClick={()=>setActiveTab(tab.id)} style={{ ...tabStyle(activeTab===tab.id), position:'relative' }}>
+            {tab.icon}{tab.label}
+            {tab.isNew && <span style={{ width:'6px', height:'6px', borderRadius:'50%', background:t.success }}/>}
+          </button>
         ))}
       </div>
 
       {/* MAIN */}
+      {blockedUrls.length > 0 && (
+        <div style={{ maxWidth:'1200px', margin:'16px auto 0', padding:'0 24px', position:'relative', zIndex:10 }}>
+          <div style={{ ...card, padding:'16px 20px', display:'flex', alignItems:'center', gap:'14px', flexWrap:'wrap' }}>
+            <span style={{ fontSize:'13px', color:t.textSecondary, flex:1, minWidth:'200px' }}>
+              Your browser blocked {blockedUrls.length} tab{blockedUrls.length===1?'':'s'} from opening — click to open manually:
+            </span>
+            <div style={{ display:'flex', gap:'8px', flexWrap:'wrap' }}>
+              {blockedUrls.map((u,i) => <a key={i} href={u} target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, padding:'7px 14px', fontSize:'12px' }}>Open #{i+1}</a>)}
+            </div>
+            <button onClick={()=>setBlockedUrls([])} style={{ background:'none', border:'none', color:t.textTertiary, cursor:'pointer', fontSize:'18px', padding:'0 4px' }}>&times;</button>
+          </div>
+        </div>
+      )}
+
       <main style={{ maxWidth:'1200px', margin:'0 auto', padding:'24px 24px 80px', position:'relative', zIndex:10 }}>
 
         {/* ── HOME ── */}
@@ -513,10 +543,10 @@ export default function App() {
                 Find every PM job.<br/><span style={{ background:t.gradient3, WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', backgroundClip:'text' }}>Apply first. Win.</span>
               </h1>
               <p style={{ fontSize:'20px', color:t.textSecondary, lineHeight:'1.6', maxWidth:'580px', margin:'0 auto 40px', fontWeight:'400' }}>
-                26 platforms • 18 Google hacks • Alert systems •<br/>LinkedIn templates. Everything to land your next PM role.
+26 platforms • Application tracker • Company watchlist •<br/>Resume match. Everything to land your next PM role.
               </p>
               <div style={{ display:'flex', gap:'14px', justifyContent:'center', flexWrap:'wrap' }}>
-                <button onClick={()=>openMultiple(getQuickLaunchUrls('india', selectedRole, selectedLocation, filterOpts))} style={btnPrimary}><Zap size={18}/>Open All India Platforms<ArrowRight size={16}/></button>
+                <button onClick={()=>{ openMultiple(getQuickLaunchUrls('india', selectedRole, selectedLocation, filterOpts)); setSelectedRegion('india'); setActiveTab('jobs'); }} style={btnPrimary}><Zap size={18}/>{isOpening?'Opening…':'Open All India Platforms'}<ArrowRight size={16}/></button>
                 <button onClick={()=>setActiveTab('hacks')} style={btnSecondary}><Lightbulb size={16}/>Unlock Hacks</button>
               </div>
             </section>
@@ -544,6 +574,9 @@ export default function App() {
               <h2 style={{ fontSize:'30px', fontWeight:'700', letterSpacing:'-0.02em', textAlign:'center', marginBottom:'40px' }}>Your complete PM job toolkit</h2>
               <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fit,minmax(280px,1fr))', gap:'20px' }}>
                 {[
+                  { title:'Application Tracker', desc:'Track every application through Applied, Screening, Interview, Offer. New.', icon:'📋', tab:'tracker', color:t.gradient2, badge:'NEW' },
+                  { title:'Target Company Watchlist', desc:'Track specific companies with recruiter search + auto-drafted outreach. New.', icon:'🏢', tab:'watchlist', color:t.gradient4, badge:'NEW' },
+                  { title:'Resume ↔ JD Match',  desc:'Paste a resume and JD, see missing keywords instantly. New.', icon:'📄', tab:'resumematch', color:t.gradient3, badge:'NEW' },
                   { title:'All Job Platforms', desc:'26 boards — Indian, global, remote, startup. Sorted newest first.', icon:'💼', tab:'jobs', color:t.gradient1 },
                   { title:'Google Hacks',       desc:'18 secret queries to find unlisted jobs in ATS and direct career pages.', icon:'🔍', tab:'hacks', color:t.gradient5 },
                   { title:'Alert Setup',        desc:'Set up 6 real-time alert systems so new jobs reach YOU first.', icon:'🔔', tab:'alerts', color:t.gradient3 },
@@ -552,7 +585,10 @@ export default function App() {
                   { title:'LinkedIn Templates', desc:'Copy-paste messages for connections, referrals, cold outreach.', icon:'💬', tab:'templates', color:'linear-gradient(135deg,#a18cd1 0%,#fbc2eb 100%)' },
                 ].map((f,i) => (
                   <button key={i} onClick={()=>setActiveTab(f.tab)} style={{ ...card, textAlign:'left', cursor:'pointer', opacity:isLoaded?1:0, transform:isLoaded?'translateY(0)':'translateY(20px)', transition:`all 0.6s cubic-bezier(0.25,0.1,0.25,1) ${i*0.08+0.2}s` }}>
-                    <div style={{ width:'48px', height:'48px', borderRadius:'14px', background:f.color, display:'flex', alignItems:'center', justifyContent:'center', fontSize:'22px', marginBottom:'16px' }}>{f.icon}</div>
+                    <div style={{ display:'flex', alignItems:'center', justifyContent:'space-between', marginBottom:'16px' }}>
+                      <div style={{ width:'48px', height:'48px', borderRadius:'14px', background:f.color, display:'flex', alignItems:'center', justifyContent:'center', fontSize:'22px' }}>{f.icon}</div>
+                      {f.badge && <span style={badge(t.success, theme==='dark'?'rgba(48,209,88,0.15)':'rgba(52,199,89,0.1)')}>{f.badge}</span>}
+                    </div>
                     <h3 style={{ margin:'0 0 8px', fontSize:'18px', fontWeight:'600' }}>{f.title}</h3>
                     <p style={{ margin:'0 0 16px', fontSize:'14px', color:t.textSecondary, lineHeight:'1.6' }}>{f.desc}</p>
                     <div style={{ color:t.accent, fontSize:'13px', fontWeight:'500', display:'flex', alignItems:'center', gap:'4px' }}>Explore <ArrowRight size={13}/></div>
@@ -596,7 +632,7 @@ export default function App() {
                       {INDIA_LOCATIONS.map(l => <option key={l.id} value={l.name}>{l.name}</option>)}
                     </select>
                   )}
-                  <button onClick={()=>openMultiple(getQuickLaunchUrls(selectedRegion, selectedRole, selectedLocation, filterOpts))} style={btnPrimary}><Rocket size={16}/>Launch All</button>
+                  <button onClick={()=>openMultiple(getQuickLaunchUrls(selectedRegion, selectedRole, selectedLocation, filterOpts))} style={btnPrimary}><Rocket size={16}/>{isOpening?'Opening…':'Launch All'}</button>
                 </div>
               </div>
             </div>

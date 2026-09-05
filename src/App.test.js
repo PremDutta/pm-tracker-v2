@@ -26,7 +26,8 @@ test('Tracker: add an application, see it under Applied, move it to Interview', 
   const user = userEvent.setup();
   render(<App />);
 
-  await user.click(screen.getByRole('button', { name: /Tracker/i }));
+  // Exact match — a substring match would also hit the Home page's "Application Tracker" feature card
+  await user.click(screen.getByRole('button', { name: 'Tracker' }));
   await user.type(screen.getByPlaceholderText('Company *'), 'Zeta Test Co');
   await user.type(screen.getByPlaceholderText('Role'), 'Senior PM');
   await user.click(screen.getByRole('button', { name: /Add$/i }));
@@ -50,7 +51,8 @@ test('Watchlist: add a target company and see a generated outreach draft', async
   const user = userEvent.setup();
   render(<App />);
 
-  await user.click(screen.getByRole('button', { name: /Watchlist/i }));
+  // Exact match — a substring match would also hit the Home page's "Target Company Watchlist" feature card
+  await user.click(screen.getByRole('button', { name: 'Watchlist' }));
   await user.type(screen.getByPlaceholderText('Company *'), 'Acme Robotics');
   await user.click(screen.getByRole('button', { name: /Add company/i }));
 
