@@ -283,7 +283,11 @@ async function main() {
     console.log('No new jobs since last run.');
   }
 
-  await saveSeen([...seen.ids, ...allJobs.map(j => j.id)]);
+  // Dedupe — without this, a job that's still listed on a later run (the
+  // common case, since postings stay up for weeks) gets re-appended every
+  // single run, silently filling the 500-id cap with repeats of the same
+  // handful of jobs instead of real history.
+  await saveSeen([...new Set([...seen.ids, ...allJobs.map(j => j.id)])]);
 }
 
 main().catch(err => {
