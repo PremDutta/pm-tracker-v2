@@ -1,0 +1,23 @@
+name: Weekly platform link check
+
+on:
+  schedule:
+    # Mondays at 06:00 UTC. Free and unlimited on a public repo.
+    - cron: '0 6 * * 1'
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab to test
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check platform links
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node agent/check-links.mjs

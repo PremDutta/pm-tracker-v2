@@ -23,6 +23,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { sendTelegram } from './notify.mjs';
 
 const AGENT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const SEEN_FILE = path.join(AGENT_DIR, 'seen-jobs.json');
@@ -228,10 +229,8 @@ async function fetchCompanyATS() {
   return results.flat();
 }
 
-async function sendTelegram(newJobs) {
-  const token = env('TELEGRAM_BOT_TOKEN');
-  const chatId = env('TELEGRAM_CHAT_ID');
-  if (!token || !chatId) {
+async function alertNewJobs(newJobs) {
+  if (!env('TELEGRAM_BOT_TOKEN') || !env('TELEGRAM_CHAT_ID')) {
     console.log('Telegram: skipped (TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set) — new jobs found but not sent:', newJobs.length);
     return;
   }
@@ -239,15 +238,7 @@ async function sendTelegram(newJobs) {
   const lines = shown.map(j => `• ${j.title} — ${j.company} (${j.location || 'India'})\n  ${j.url}\n  [${j.source}]`);
   let text = `🎯 ${newJobs.length} new PM job${newJobs.length === 1 ? '' : 's'} found:\n\n${lines.join('\n\n')}`;
   if (newJobs.length > shown.length) text += `\n\n…and ${newJobs.length - shown.length} more.`;
-  // Telegram caps messages at 4096 chars — trim defensively rather than fail the send
-  if (text.length > 4000) text = text.slice(0, 3990) + '\n…(truncated)';
-
-  const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ chat_id: chatId, text, disable_web_page_preview: true }),
-  });
-  if (!res.ok) console.error('Telegram send failed:', await res.text());
+  await sendTelegram(text);
 }
 
 async function loadSeen() {
@@ -278,7 +269,7 @@ async function main() {
     console.log('First run — recording current jobs as a baseline, not sending an alert for all of them.');
   } else if (newJobs.length > 0) {
     console.log(`${newJobs.length} new job(s) since last run.`);
-    await sendTelegram(newJobs);
+    await alertNewJobs(newJobs);
   } else {
     console.log('No new jobs since last run.');
   }

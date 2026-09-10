@@ -83,6 +83,35 @@ test('Watchlist: add a target company and see a generated outreach draft', async
   expect(stored[0].company).toBe('Acme Robotics');
 });
 
+test('Watchlist: logging an application creates a Tracker entry, and an ATS-tagged company can be copied for the agent', async () => {
+  const user = userEvent.setup();
+  render(<App />);
+
+  await user.click(screen.getByRole('button', { name: 'Watchlist' }));
+  await user.type(screen.getByPlaceholderText('Company *'), 'Acme Robotics');
+  await user.type(screen.getByPlaceholderText('Target role'), 'Senior PM');
+  await user.selectOptions(screen.getByRole('combobox'), 'greenhouse');
+  await user.type(screen.getByPlaceholderText(/ATS slug/i), 'acmerobotics');
+  await user.click(screen.getByRole('button', { name: /Add company/i }));
+
+  // Watchlist entry keeps the ats/atsSlug fields so it can seed agent/companies.json
+  const watchlist = JSON.parse(window.localStorage.getItem('pmt_watchlist'));
+  expect(watchlist[0]).toMatchObject({ company: 'Acme Robotics', ats: 'greenhouse', atsSlug: 'acmerobotics' });
+
+  // Logging the application writes straight to the Tracker's own storage key,
+  // without needing to open the Tracker tab or retype anything.
+  await user.click(screen.getByRole('button', { name: /Log application/i }));
+  expect(await screen.findByRole('button', { name: /Logged!/i })).toBeInTheDocument();
+  const apps = JSON.parse(window.localStorage.getItem('pmt_applications'));
+  expect(apps).toHaveLength(1);
+  expect(apps[0]).toMatchObject({ company: 'Acme Robotics', role: 'Senior PM', platform: 'Watchlist' });
+
+  // Copy-for-agent only appears once both ats + atsSlug are set, and copies the companies.json-shaped snippet
+  const writeText = jest.spyOn(navigator.clipboard, 'writeText');
+  await user.click(screen.getByRole('button', { name: /Copy for agent/i }));
+  expect(writeText).toHaveBeenCalledWith(JSON.stringify({ name: 'Acme Robotics', ats: 'greenhouse', slug: 'acmerobotics' }, null, 2));
+});
+
 test('Resume Match: matches a key phrase present in both, flags one missing from the resume', async () => {
   const user = userEvent.setup();
   render(<App />);

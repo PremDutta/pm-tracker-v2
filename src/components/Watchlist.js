@@ -1,6 +1,16 @@
 import React, { useState } from 'react';
-import { Plus, Trash2, Building2, Search, ExternalLink, Copy, Check } from 'lucide-react';
-import { getWatchlist, addWatchlistCompany, removeWatchlistCompany } from '../storage';
+import { Plus, Trash2, Building2, Search, ExternalLink, Copy, Check, ClipboardList } from 'lucide-react';
+import { getWatchlist, addWatchlistCompany, removeWatchlistCompany, addApplication } from '../storage';
+
+const ATS_OPTIONS = [
+  { value: '', label: 'No ATS (skip agent scanning)' },
+  { value: 'greenhouse', label: 'Greenhouse' },
+  { value: 'lever', label: 'Lever' },
+  { value: 'ashby', label: 'Ashby' },
+  { value: 'smartrecruiters', label: 'SmartRecruiters' },
+  { value: 'workable', label: 'Workable' },
+  { value: 'recruitee', label: 'Recruitee' },
+];
 
 // Draft generator for scaled, personalized outreach — this app has no backend
 // and can't send email, so this produces a per-company draft you copy into
@@ -15,21 +25,43 @@ const buildDraft = (company, role, profile) => {
 
 export default function Watchlist({ t, card, btnPrimary, btnSecondary, profile }) {
   const [list, setList] = useState(getWatchlist());
-  const [form, setForm] = useState({ company: '', domain: '', careersUrl: '', role: '' });
+  const [form, setForm] = useState({ company: '', domain: '', careersUrl: '', role: '', ats: '', atsSlug: '' });
   const [copiedId, setCopiedId] = useState(null);
+  const [loggedId, setLoggedId] = useState(null);
   const inputStyle = { padding: '10px 12px', borderRadius: '10px', border: `1px solid ${t.border}`, background: t.inlineBg, color: t.text, fontSize: '13px' };
+  const selectStyle = { ...inputStyle, cursor: 'pointer' };
 
   const submit = (e) => {
     e.preventDefault();
     if (!form.company.trim()) return;
     setList(addWatchlistCompany(form));
-    setForm({ company: '', domain: '', careersUrl: '', role: '' });
+    setForm({ company: '', domain: '', careersUrl: '', role: '', ats: '', atsSlug: '' });
   };
 
   const remove = (id) => setList(removeWatchlistCompany(id));
 
   const copy = (text, id) => {
     navigator.clipboard.writeText(text).catch(() => {}).finally(() => { setCopiedId(id); setTimeout(() => setCopiedId(null), 2000); });
+  };
+
+  // Bridges Watchlist -> Tracker: you copy a draft, actually apply, and this
+  // logs it as an application without re-typing the company name by hand.
+  // Tracker reads its own list fresh from storage each time you open that
+  // tab, so this just needs to persist — no shared state to wire up.
+  const logApplication = (w) => {
+    addApplication({ company: w.company, role: w.role, platform: 'Watchlist', link: w.careersUrl });
+    setLoggedId(w.id);
+    setTimeout(() => setLoggedId(null), 2000);
+  };
+
+  // The Watchlist (browser localStorage) and the background agent's
+  // companies.json (in the git repo) are two separate lists with no shared
+  // backend to sync them automatically -- this copies the exact JSON entry
+  // you'd paste into companies.json, same manual-bridge pattern as the
+  // "copy gap summary for AI" button in Resume Match.
+  const copyForAgent = (w) => {
+    const snippet = JSON.stringify({ name: w.company, ats: w.ats, slug: w.atsSlug }, null, 2);
+    copy(snippet, `agent-${w.id}`);
   };
 
   return (
@@ -44,6 +76,12 @@ export default function Watchlist({ t, card, btnPrimary, btnSecondary, profile }
         <div><input style={inputStyle} placeholder="Domain (acme.com)" value={form.domain} onChange={e => setForm({ ...form, domain: e.target.value })} /></div>
         <div><input style={inputStyle} placeholder="Careers page URL" value={form.careersUrl} onChange={e => setForm({ ...form, careersUrl: e.target.value })} /></div>
         <div><input style={inputStyle} placeholder="Target role" value={form.role} onChange={e => setForm({ ...form, role: e.target.value })} /></div>
+        <div>
+          <select style={selectStyle} value={form.ats} onChange={e => setForm({ ...form, ats: e.target.value })}>
+            {ATS_OPTIONS.map(o => <option key={o.value} value={o.value}>{o.label}</option>)}
+          </select>
+        </div>
+        {form.ats && <div><input style={inputStyle} placeholder="ATS slug (from their careers URL)" value={form.atsSlug} onChange={e => setForm({ ...form, atsSlug: e.target.value })} /></div>}
         <button type="submit" style={{ ...btnPrimary, padding: '10px 16px', fontSize: '13px', justifySelf: 'start' }}><Plus size={14} /> Add company</button>
       </form>
 
@@ -74,9 +112,19 @@ export default function Watchlist({ t, card, btnPrimary, btnSecondary, profile }
                   {w.domain && <a href="https://hunter.io/" target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, padding: '8px 14px', fontSize: '12px' }} title={`Paste domain: ${w.domain}`}>Hunter.io (paste: {w.domain})</a>}
                 </div>
                 <div style={{ background: t.codeBg, padding: '14px 16px', borderRadius: '12px', fontSize: '13px', lineHeight: '1.7', whiteSpace: 'pre-wrap', color: t.text, marginBottom: '10px' }}>{draft}</div>
-                <button onClick={() => copy(draft, w.id)} style={{ ...btnSecondary, padding: '7px 14px', fontSize: '12px' }}>
-                  {copiedId === w.id ? <><Check size={12} /> Copied!</> : <><Copy size={12} /> Copy draft</>}
-                </button>
+                <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                  <button onClick={() => copy(draft, w.id)} style={{ ...btnSecondary, padding: '7px 14px', fontSize: '12px' }}>
+                    {copiedId === w.id ? <><Check size={12} /> Copied!</> : <><Copy size={12} /> Copy draft</>}
+                  </button>
+                  <button onClick={() => logApplication(w)} style={{ ...btnSecondary, padding: '7px 14px', fontSize: '12px' }}>
+                    {loggedId === w.id ? <><Check size={12} /> Logged!</> : <><ClipboardList size={12} /> Log application</>}
+                  </button>
+                  {w.ats && w.atsSlug && (
+                    <button onClick={() => copyForAgent(w)} style={{ ...btnSecondary, padding: '7px 14px', fontSize: '12px' }} title="Copy the JSON entry to paste into agent/companies.json">
+                      {copiedId === `agent-${w.id}` ? <><Check size={12} /> Copied!</> : <><Copy size={12} /> Copy for agent</>}
+                    </button>
+                  )}
+                </div>
               </div>
             );
           })}
