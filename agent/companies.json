@@ -1,4 +1,25 @@
 [
   { "name": "Asana", "ats": "greenhouse", "slug": "asana" },
-  { "name": "Ashby", "ats": "ashby", "slug": "Ashby" }
+  { "name": "Ashby", "ats": "ashby", "slug": "Ashby" },
+
+  { "name": "OpenAI", "ats": "ashby", "slug": "openai" },
+  { "name": "Anthropic", "ats": "greenhouse", "slug": "anthropic" },
+  { "name": "Perplexity", "ats": "ashby", "slug": "perplexity" },
+  { "name": "Cohere", "ats": "ashby", "slug": "cohere" },
+  { "name": "Scale AI", "ats": "greenhouse", "slug": "scaleai" },
+  { "name": "Stability AI", "ats": "greenhouse", "slug": "stabilityai" },
+
+  { "name": "Runway", "ats": "ashby", "slug": "runway" },
+  { "name": "Pika", "ats": "ashby", "slug": "pika" },
+  { "name": "Descript", "ats": "greenhouse", "slug": "descript" },
+  { "name": "ElevenLabs", "ats": "ashby", "slug": "elevenlabs" },
+  { "name": "Deepgram", "ats": "ashby", "slug": "deepgram" },
+  { "name": "Photoroom", "ats": "ashby", "slug": "photoroom" },
+
+  { "name": "Figma", "ats": "greenhouse", "slug": "figma" },
+  { "name": "Notion", "ats": "ashby", "slug": "notion" },
+  { "name": "Linear", "ats": "ashby", "slug": "linear" },
+  { "name": "Discord", "ats": "greenhouse", "slug": "discord" },
+  { "name": "Spotify", "ats": "lever", "slug": "spotify" },
+  { "name": "Ramp", "ats": "ashby", "slug": "ramp" }
 ]
