@@ -12,6 +12,10 @@
 //      explicitly prohibit this and which we hit 403s against ourselves this
 //      session. Every endpoint below was verified live against a real company
 //      before being wired in, not guessed from docs.
+//   3. Indian government / PSU / govt-backed career boards that expose a
+//      public JSON feed (NPCI + subsidiaries, CSC e-Governance, and the
+//      Bharat Digital public-interest tech board). These use a looser title
+//      filter, since govt orgs rarely title roles "Product Manager".
 //
 // Diffs against what it saw last run (agent/seen-jobs.json, committed back to
 // the repo by the workflow), and pings Telegram only with what's new.
@@ -229,12 +233,84 @@ async function fetchCompanyATS() {
   return results.flat();
 }
 
+// ─── Government / PSU sources ───────────────────────────────────────────────
+// Govt orgs post PM work as "Lead Product Management", "Senior Associate NACH
+// Product", "Associate Director - Product" and so on, which PM_TITLE_REGEX
+// misses. So for these feeds: any title with the word "product", minus the
+// clearly-not-PM ones (design, marketing, sales, support).
+const GOVT_PRODUCT_REGEX = /\bproduct\b/i;
+const GOVT_EXCLUDE_REGEX = /design|\bux\b|\bui\b|marketing|sales|support/i;
+const isGovtPmTitle = (title) => GOVT_PRODUCT_REGEX.test(title) && !GOVT_EXCLUDE_REGEX.test(title);
+
+// Zoho Recruit public career-site API. Verified live 2026-09-25:
+// GET https://{host}/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite
+// -> { data: [{ id, Posting_Title, City, $url, Client_Name:{name} }] }
+// NPCI's board also carries its subsidiaries; Client_Name is prefixed "NBBL"/"NIPL".
+const GOVT_ZOHO_BOARDS = [
+  { name: 'NPCI', host: 'careers.npci.org.in', subsidiaries: { NBBL: 'NPCI Bharat BillPay', NIPL: 'NPCI International' } },
+  { name: 'CSC e-Governance', host: 'csc.zohorecruit.in' },
+];
+
+async function fetchGovtZoho(board) {
+  const res = await fetch(`https://${board.host}/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  return (data.data || []).map(j => {
+    const dept = j.Client_Name?.name || '';
+    const sub = Object.keys(board.subsidiaries || {}).find(prefix => dept.startsWith(prefix));
+    return {
+      id: `govt-zoho-${board.host}-${j.id}`,
+      title: j.Posting_Title,
+      company: sub ? board.subsidiaries[sub] : board.name,
+      location: j.City || '',
+      url: j['$url'],
+      source: `🏛️ Govt (${board.name} careers)`,
+    };
+  });
+}
+
+// Bharat Digital public-interest tech board. Verified live 2026-09-25:
+// GET https://jobs.bharatdigital.io/api/jobs
+// -> [{ id, title, applicationUrl, city, isActive, company:{name} }]
+// Mixes govt bodies (C-DAC, SEBI, IHMCL, state missions) with non-profits.
+async function fetchBharatDigital() {
+  const res = await fetch('https://jobs.bharatdigital.io/api/jobs');
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  return (Array.isArray(data) ? data : []).filter(j => j.isActive !== false).map(j => ({
+    id: `govt-bharatdigital-${j.id}`,
+    title: j.title,
+    company: j.company?.name || 'Unknown',
+    location: j.city || '',
+    url: j.applicationUrl || `https://jobs.bharatdigital.io/`,
+    source: '🏛️ Govt (Bharat Digital)',
+  }));
+}
+
+async function fetchGovt() {
+  const sources = [
+    ...GOVT_ZOHO_BOARDS.map(b => ({ label: b.name, run: () => fetchGovtZoho(b) })),
+    { label: 'Bharat Digital', run: fetchBharatDigital },
+  ];
+  const results = await Promise.all(sources.map(async ({ label, run }) => {
+    try {
+      return (await run()).filter(j => j.title && isGovtPmTitle(j.title));
+    } catch (err) {
+      console.error(`Govt source ${label} fetch failed:`, err.message);
+      return [];
+    }
+  }));
+  return results.flat();
+}
+
 async function alertNewJobs(newJobs) {
   if (!env('TELEGRAM_BOT_TOKEN') || !env('TELEGRAM_CHAT_ID')) {
     console.log('Telegram: skipped (TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set) — new jobs found but not sent:', newJobs.length);
     return;
   }
-  const shown = newJobs.slice(0, 15);
+  // Govt roles first: they're rarer, and must never fall below the 15-item cut.
+  const ordered = [...newJobs.filter(j => j.id.startsWith('govt-')), ...newJobs.filter(j => !j.id.startsWith('govt-'))];
+  const shown = ordered.slice(0, 15);
   const lines = shown.map(j => `• ${j.title} — ${j.company} (${j.location || 'India'})\n  ${j.url}\n  [${j.source}]`);
   let text = `🎯 ${newJobs.length} new PM job${newJobs.length === 1 ? '' : 's'} found:\n\n${lines.join('\n\n')}`;
   if (newJobs.length > shown.length) text += `\n\n…and ${newJobs.length - shown.length} more.`;
@@ -257,9 +333,9 @@ async function saveSeen(ids) {
 }
 
 async function main() {
-  const [adzuna, jsearch, companyATS] = await Promise.all([fetchAdzuna(), fetchJSearch(), fetchCompanyATS()]);
-  const allJobs = [...adzuna, ...jsearch, ...companyATS];
-  console.log(`Fetched ${adzuna.length} from Adzuna, ${jsearch.length} from JSearch, ${companyATS.length} from company ATS feeds (${allJobs.length} total).`);
+  const [adzuna, jsearch, companyATS, govt] = await Promise.all([fetchAdzuna(), fetchJSearch(), fetchCompanyATS(), fetchGovt()]);
+  const allJobs = [...adzuna, ...jsearch, ...companyATS, ...govt];
+  console.log(`Fetched ${adzuna.length} from Adzuna, ${jsearch.length} from JSearch, ${companyATS.length} from company ATS feeds, ${govt.length} from govt/PSU boards (${allJobs.length} total).`);
 
   const seen = await loadSeen();
   const seenSet = new Set(seen.ids);

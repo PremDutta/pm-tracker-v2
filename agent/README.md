@@ -12,6 +12,8 @@ Pings you on Telegram only when something new shows up. No server, no cost, no s
 1. **Adzuna + JSearch** — general aggregators, searches "Product Manager" broadly across India.
 2. **Direct ATS feeds** (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee) for the specific companies you list in `agent/companies.json`. This is the same technique TrueUp's core data layer uses — these APIs are public and unauthenticated *because companies deliberately expose them* to be embedded on their own careers pages, unlike LinkedIn/Naukri, which explicitly prohibit automated access (we hit real 403s from those this session; every ATS endpoint here was instead verified live, returning real job data, before being wired in).
 
+3. **Government / PSU boards** with a public JSON feed: NPCI (including NBBL and NIPL), CSC e-Governance, and the Bharat Digital public-interest tech board. Govt orgs rarely title roles "Product Manager", so these use a looser filter: any title containing "product", minus design/marketing/sales/support (see `isGovtPmTitle` in `scan-jobs.mjs`). Govt roles are listed first in each Telegram alert. Most other PSUs only publish PDF notices, so they're covered by the app's **Govt & PSU** tab instead.
+
 **Does not cover Naukri, IIMJobs, Hirist, Foundit, or Shine** — no legal API exists for those. Keep checking those through the app's own platform grid (it now tracks "last checked" per platform for exactly this reason).
 
 ## Adding your own target companies

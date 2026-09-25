@@ -22,6 +22,28 @@ test('renders the home page without crashing', () => {
   expect(screen.getByText(/Find every PM job/i)).toBeInTheDocument();
 });
 
+test('Govt & PSU: filters orgs, and opening a careers page records it as checked', async () => {
+  const user = userEvent.setup();
+  render(<App />);
+
+  await user.click(screen.getByRole('button', { name: /Govt & PSU/i }));
+  expect(screen.getByRole('heading', { name: 'Government & PSU' })).toBeInTheDocument();
+  expect(screen.getByText('60 not checked in the last 7 days')).toBeInTheDocument();
+
+  // Search narrows the directory to the matching org
+  await user.type(screen.getByLabelText('Search government organisations'), 'NPCI');
+  const npciCareers = screen.getByRole('link', { name: 'NPCI careers page' });
+  expect(npciCareers).toHaveAttribute('href', 'https://careers.npci.org.in/jobs/Careers');
+  expect(screen.queryByRole('link', { name: 'ONDC careers page' })).not.toBeInTheDocument();
+
+  // Clicking through stamps "last checked" in the shared platform meta store
+  fireEvent.click(npciCareers);
+  const meta = JSON.parse(window.localStorage.getItem('pmt_platform_meta'));
+  expect(meta['govt-npci'].lastChecked).toBeGreaterThan(0);
+  expect(screen.getByText('Checked just now')).toBeInTheDocument();
+  expect(screen.getByText('59 not checked in the last 7 days')).toBeInTheDocument();
+});
+
 test('Tracker: add an application, see it under Applied, move it to Interview', async () => {
   const user = userEvent.setup();
   render(<App />);

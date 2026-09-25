@@ -1,0 +1,111 @@
+// Indian government, PSU and government-backed organisations that hire (or
+// have hired) for product / digital roles. Generated from the curl-verified
+// registry in ~/ai-job-search/.agents/skills/india-govt-search/orgs.json
+// (verified 2026-09-13), keeping only orgs rated high/medium PM relevance.
+// Re-generate from that registry rather than hand-editing, so the two don't drift.
+//
+// relevance: 'high' = has hired for product roles directly; 'medium' = digital /
+// tech-heavy org where PM-shaped roles appear under other titles.
+// listedOn: the org has no working page of its own; its openings appear on that org's portal.
+
+export const GOVT_CATEGORIES = {
+  govt_backed_other: 'Govt-backed tech',
+  section8_govt:     'Govt Section 8 co.',
+  autonomous_body:   'Autonomous body',
+  statutory_body:    'Statutory body',
+  govt_dept:         'Govt department',
+  maharatna:         'Maharatna PSU',
+  navratna:          'Navratna PSU',
+  miniratna:         'Miniratna PSU',
+  cpse_other:        'Other CPSE',
+  psb:               'Public sector bank',
+  psu_insurer:       'PSU insurer',
+};
+
+export const GOVT_ORGS = [
+  {id:"abdm", short:"ABDM", name:"Ayushman Bharat Digital Mission", category:"statutory_body", relevance:"high", careersUrl:"https://abdm.gov.in/careers", domain:"abdm.gov.in", parent:"National Health Authority"},
+  {id:"dibd", short:"DIBD", name:"Digital India Bhashini Division", category:"section8_govt", relevance:"high", careersUrl:"https://bhashini.gov.in/career", domain:"bhashini.gov.in", parent:"MeitY / Digital India Corporation"},
+  {id:"dic", short:"DIC", name:"Digital India Corporation", category:"section8_govt", relevance:"high", careersUrl:"https://dic.gov.in/careers/", domain:"dic.gov.in", parent:"MeitY"},
+  {id:"dic-ora", short:"DIC ORA", name:"Digital India Corporation - Online Recruitment Application (ORA) portal", category:"section8_govt", relevance:"high", careersUrl:"https://ora.digitalindiacorporation.in/", domain:"digitalindiacorporation.in", parent:"MeitY", location:"New Delhi"},
+  {id:"digilocker", short:"DigiLocker", name:"DigiLocker", category:"section8_govt", relevance:"high", careersUrl:"https://www.digilocker.gov.in/careers", domain:"digilocker.gov.in", parent:"NeGD / MeitY"},
+  {id:"ihmcl", short:"IHMCL", name:"Indian Highways Management Company Ltd", category:"govt_backed_other", relevance:"high", careersUrl:"https://ihmcl.co.in/careers/", domain:"ihmcl.co.in", parent:"NHAI (promoted company)"},
+  {id:"indiaai", short:"IndiaAI", name:"IndiaAI Mission (IndiaAI Independent Business Division)", category:"section8_govt", relevance:"high", careersUrl:"https://ora.digitalindiacorporation.in/", domain:"digitalindiacorporation.in", parent:"MeitY / Digital India Corporation", listedOn:"DIC ORA"},
+  {id:"invest-india", short:"Invest India", name:"Invest India", category:"section8_govt", relevance:"high", careersUrl:"https://www.investindia.gov.in/careers", domain:"investindia.gov.in", parent:"DPIIT"},
+  {id:"kb", short:"KB", name:"Karmayogi Bharat", category:"section8_govt", relevance:"high", careersUrl:"https://karmayogibharat.gov.in/careers", domain:"karmayogibharat.gov.in", parent:"DoPT (listed in DPE Schedule A)"},
+  {id:"nbbl", short:"NBBL", name:"NPCI Bharat BillPay Ltd", category:"govt_backed_other", relevance:"high", careersUrl:"https://careers.npci.org.in/jobs/Careers", domain:"npci.org.in", parent:"NPCI", listedOn:"NPCI"},
+  {id:"negd", short:"NeGD", name:"National e-Governance Division", category:"section8_govt", relevance:"high", careersUrl:"https://negd.gov.in/careers/", domain:"negd.gov.in", parent:"MeitY / Digital India Corporation"},
+  {id:"nha", short:"NHA", name:"National Health Authority", category:"statutory_body", relevance:"high", careersUrl:"https://nha.gov.in/Careers", domain:"nha.gov.in", parent:"MoHFW"},
+  {id:"nipl", short:"NIPL", name:"NPCI International Payments Ltd", category:"govt_backed_other", relevance:"high", careersUrl:"https://careers.npci.org.in/jobs/Careers", domain:"npci.org.in", parent:"NPCI", listedOn:"NPCI"},
+  {id:"npci", short:"NPCI", name:"National Payments Corporation of India", category:"govt_backed_other", relevance:"high", careersUrl:"https://careers.npci.org.in/jobs/Careers", domain:"npci.org.in", parent:"RBI / IBA (bank-owned, RBI-promoted)", location:"Mumbai"},
+  {id:"ondc", short:"ONDC", name:"Open Network for Digital Commerce", category:"section8_govt", relevance:"high", careersUrl:"https://ondc.org/pages/careers.html", domain:"ondc.org", parent:"DPIIT (Section 8, govt-promoted)"},
+  {id:"rbih", short:"RBIH", name:"Reserve Bank Innovation Hub", category:"govt_backed_other", relevance:"high", careersUrl:"https://rbihub.in/careers", domain:"rbihub.in", parent:"RBI (wholly owned subsidiary)", location:"Bengaluru"},
+  {id:"bob", short:"BoB", name:"Bank of Baroda", category:"psb", relevance:"medium", careersUrl:"https://bankofbaroda.bank.in/career/current-opportunities", domain:"bankofbaroda.bank.in", parent:"DFS, MoF"},
+  {id:"boi", short:"BOI", name:"Bank of India", category:"psb", relevance:"medium", careersUrl:"https://bankofindia.bank.in/career", domain:"bankofindia.bank.in", parent:"DFS, MoF"},
+  {id:"bsnl", short:"BSNL", name:"Bharat Sanchar Nigam Ltd", category:"miniratna", relevance:"medium", careersUrl:"https://www.bsnl.co.in/opencms/bsnl/BSNL/about_us/hrd/jobs.html", domain:"bsnl.co.in", parent:"DoT"},
+  {id:"c-dac", short:"C-DAC", name:"Centre for Development of Advanced Computing", category:"autonomous_body", relevance:"medium", careersUrl:"https://www.cdac.in/index.aspx?id=current_jobs", domain:"cdac.in", parent:"MeitY"},
+  {id:"c-dot", short:"C-DOT", name:"Centre for Development of Telematics", category:"autonomous_body", relevance:"medium", careersUrl:"https://www.cdot.in/cdotweb/web/current_openings.php?lang=en", domain:"cdot.in", parent:"Department of Telecommunications"},
+  {id:"canara", short:"Canara", name:"Canara Bank", category:"psb", relevance:"medium", careersUrl:"https://www.canarabank.bank.in/pages/Recruitment", domain:"canarabank.bank.in", parent:"DFS, MoF"},
+  {id:"cris", short:"CRIS", name:"Centre for Railway Information Systems", category:"autonomous_body", relevance:"medium", careersUrl:"https://cris.org.in/loadpage?page=indexcareer", domain:"cris.org.in", parent:"Ministry of Railways"},
+  {id:"csc-spv", short:"CSC SPV", name:"CSC e-Governance Services India Ltd", category:"govt_backed_other", relevance:"medium", careersUrl:"https://csc.zohorecruit.in/jobs/Careers", domain:"csc.zohorecruit.in", parent:"MeitY"},
+  {id:"ecil", short:"ECIL", name:"Electronics Corporation of India Ltd", category:"cpse_other", relevance:"medium", careersUrl:"https://www.ecil.co.in/jobopenings", domain:"ecil.co.in", parent:"Department of Atomic Energy"},
+  {id:"edcil", short:"EdCIL", name:"EdCIL (India) Ltd", category:"miniratna", relevance:"medium", careersUrl:"https://www.edcilindia.co.in/Careers", domain:"edcilindia.co.in", parent:"Ministry of Education"},
+  {id:"exim", short:"EXIM", name:"Export-Import Bank of India", category:"statutory_body", relevance:"medium", careersUrl:"https://www.eximbankindia.in/careers", domain:"eximbankindia.in", parent:"MoF"},
+  {id:"gem", short:"GeM", name:"Government e-Marketplace", category:"section8_govt", relevance:"medium", careersUrl:"https://gem.gov.in/landing/index/careers", domain:"gem.gov.in", parent:"Ministry of Commerce (GeM SPV)"},
+  {id:"gstn", short:"GSTN", name:"Goods and Services Tax Network", category:"section8_govt", relevance:"medium", careersUrl:"https://www.gstn.org.in/careers", domain:"gstn.org.in", parent:"Ministry of Finance (Centre + States)"},
+  {id:"idbi", short:"IDBI", name:"IDBI Bank", category:"govt_backed_other", relevance:"medium", careersUrl:"https://www.idbi.bank.in/idbi-bank-careers-current-openings.aspx", domain:"idbi.bank.in", parent:"GoI + LIC majority owned"},
+  {id:"ifsca", short:"IFSCA", name:"International Financial Services Centres Authority", category:"statutory_body", relevance:"medium", careersUrl:"https://ifsca.gov.in/Career", domain:"ifsca.gov.in", parent:"Ministry of Finance"},
+  {id:"indian-bank", short:"Indian Bank", name:"Indian Bank", category:"psb", relevance:"medium", careersUrl:"https://indianbank.bank.in/career/", domain:"indianbank.bank.in", parent:"DFS, MoF"},
+  {id:"ippb", short:"IPPB", name:"India Post Payments Bank", category:"cpse_other", relevance:"medium", careersUrl:"https://ippbonline.bank.in/web/ippb/current-openings", domain:"ippbonline.bank.in", parent:"Department of Posts"},
+  {id:"irctc", short:"IRCTC", name:"Indian Railway Catering and Tourism Corporation Ltd", category:"navratna", relevance:"medium", careersUrl:"https://www.irctc.com/new-openings.php", domain:"irctc.com", parent:"Ministry of Railways"},
+  {id:"iti", short:"ITI", name:"ITI Ltd", category:"cpse_other", relevance:"medium", careersUrl:"https://www.itiltd.in/careers.php?lan=en", domain:"itiltd.in", parent:"DoT"},
+  {id:"lic", short:"LIC", name:"Life Insurance Corporation of India", category:"psu_insurer", relevance:"medium", careersUrl:"https://licindia.in/careers", domain:"licindia.in", parent:"MoF"},
+  {id:"meity", short:"MeitY", name:"Ministry of Electronics & IT - Vacancies", category:"govt_dept", relevance:"medium", careersUrl:"https://www.meity.gov.in/vacancies", domain:"meity.gov.in", parent:"Government of India"},
+  {id:"mstc", short:"MSTC", name:"MSTC Ltd", category:"miniratna", relevance:"medium", careersUrl:"https://www.mstcindia.co.in/MSTC_Careers/", domain:"mstcindia.co.in", parent:"Ministry of Steel"},
+  {id:"mygov", short:"MyGov", name:"MyGov (Independent Business Division of DIC)", category:"section8_govt", relevance:"medium", careersUrl:"https://ora.digitalindiacorporation.in/", domain:"digitalindiacorporation.in", parent:"MeitY / Digital India Corporation", listedOn:"DIC ORA"},
+  {id:"nabard", short:"NABARD", name:"National Bank for Agriculture and Rural Development", category:"statutory_body", relevance:"medium", careersUrl:"https://www.nabard.org/ftrcontent.aspx?id=660", domain:"nabard.org", parent:"MoF / RBI"},
+  {id:"nabfid", short:"NaBFID", name:"National Bank for Financing Infrastructure and Development", category:"statutory_body", relevance:"medium", careersUrl:"https://nabfid.org/careers", domain:"nabfid.org", parent:"MoF"},
+  {id:"nfdc", short:"NFDC", name:"National Film Development Corporation", category:"miniratna", relevance:"medium", careersUrl:"https://nfdcindia.com/careers", domain:"nfdcindia.com", parent:"MoI&B (Miniratna-II)"},
+  {id:"nicsi", short:"NICSI", name:"National Informatics Centre Services Inc.", category:"section8_govt", relevance:"medium", careersUrl:"https://nicsi.nic.in/nicsi/vacancies/", domain:"nicsi.nic.in", parent:"MeitY / NIC"},
+  {id:"niti", short:"NITI", name:"NITI Aayog", category:"govt_dept", relevance:"medium", careersUrl:"https://www.niti.gov.in/work-niti/vacancy-circular", domain:"niti.gov.in", parent:"Government of India"},
+  {id:"nixi", short:"NIXI", name:"National Internet Exchange of India", category:"section8_govt", relevance:"medium", careersUrl:"https://nixi.in/careers/", domain:"nixi.in", parent:"MeitY"},
+  {id:"nldsl", short:"NLDSL", name:"NICDC Logistics Data Services Ltd", category:"govt_backed_other", relevance:"medium", careersUrl:"https://nldsl.in/current_opening.aspx?mpgid=36&pgidtrail=68", domain:"nldsl.in", parent:"NICDIT / DPIIT"},
+  {id:"nsdc", short:"NSDC", name:"National Skill Development Corporation", category:"govt_backed_other", relevance:"medium", careersUrl:"https://www.nsdcindia.org/careers", domain:"nsdcindia.org", parent:"MSDE (PPP)"},
+  {id:"pesb", short:"PESB", name:"Public Enterprises Selection Board", category:"govt_dept", relevance:"medium", careersUrl:"https://pesb.gov.in/en/", domain:"pesb.gov.in", parent:"DoPT"},
+  {id:"pnb", short:"PNB", name:"Punjab National Bank", category:"psb", relevance:"medium", careersUrl:"https://pnb.bank.in/Recruitments.aspx", domain:"pnb.bank.in", parent:"DFS, MoF"},
+  {id:"prasar-bharati", short:"Prasar Bharati", name:"Prasar Bharati", category:"statutory_body", relevance:"medium", careersUrl:"https://prasarbharati.gov.in/pbvacancies/", domain:"prasarbharati.gov.in", parent:"MoI&B"},
+  {id:"railtel", short:"RailTel", name:"RailTel Corporation of India Ltd", category:"navratna", relevance:"medium", careersUrl:"https://www.railtel.in/careers.html", domain:"railtel.in", parent:"Ministry of Railways"},
+  {id:"rbi", short:"RBI", name:"Reserve Bank of India - Opportunities", category:"statutory_body", relevance:"medium", careersUrl:"https://opportunities.rbi.org.in/Scripts/Vacancies.aspx", domain:"rbi.org.in", parent:"Government of India"},
+  {id:"sbi", short:"SBI", name:"State Bank of India", category:"psb", relevance:"medium", careersUrl:"https://sbi.bank.in/web/careers/current-openings", domain:"sbi.bank.in", parent:"DFS, MoF"},
+  {id:"sebi", short:"SEBI", name:"Securities and Exchange Board of India", category:"statutory_body", relevance:"medium", careersUrl:"https://www.sebi.gov.in/sebiweb/about/AboutAction.do?doVacancies=yes", domain:"sebi.gov.in", parent:"MoF"},
+  {id:"sidbi", short:"SIDBI", name:"Small Industries Development Bank of India", category:"statutory_body", relevance:"medium", careersUrl:"https://www.sidbi.in/en/careers", domain:"sidbi.in", parent:"Ministry of Finance / DFS"},
+  {id:"startup-india", short:"Startup India", name:"Startup India", category:"section8_govt", relevance:"medium", careersUrl:"https://www.investindia.gov.in/careers", domain:"investindia.gov.in", parent:"DPIIT / Invest India"},
+  {id:"stpi", short:"STPI", name:"Software Technology Parks of India", category:"autonomous_body", relevance:"medium", careersUrl:"https://stpi.in/en/main-career", domain:"stpi.in", parent:"MeitY"},
+  {id:"tcil", short:"TCIL", name:"Telecommunications Consultants India Ltd", category:"miniratna", relevance:"medium", careersUrl:"https://www.tcil.net.in/", domain:"tcil.net.in", parent:"DoT"},
+  {id:"ubi", short:"UBI", name:"Union Bank of India", category:"psb", relevance:"medium", careersUrl:"https://www.unionbankofindia.bank.in/en/common/recruitment", domain:"unionbankofindia.bank.in", parent:"DFS, MoF"},
+  {id:"uidai", short:"UIDAI", name:"Unique Identification Authority of India", category:"statutory_body", relevance:"medium", careersUrl:"https://career.uidai.gov.in/", domain:"uidai.gov.in", parent:"MeitY"},
+];
+
+// Boards that aggregate government / public-interest openings. Each URL was
+// checked live (HTTP 200) on 2026-09-25.
+export const GOVT_BOARDS = [
+  { name:'Bharat Digital',       url:'https://jobs.bharatdigital.io/',            tip:'Public-interest tech roles: C-DAC, SEBI, IHMCL, ONDC, eGov, state missions' },
+  { name:'DIC ORA portal',       url:'https://ora.digitalindiacorporation.in/',   tip:'Digital India Corporation hiring: IndiaAI, Bhashini, MyGov, NeGD projects' },
+  { name:'National Career Service', url:'https://www.ncs.gov.in/',                tip:'Ministry of Labour portal, many PSU and ministry vacancies are cross-posted' },
+  { name:'FreeJobAlert',         url:'https://www.freejobalert.com/',             tip:'Fastest aggregator of PSU / bank notices, check the "Latest" list' },
+  { name:'Sarkari Result',       url:'https://www.sarkariresult.com/',            tip:'Official notification PDFs with last dates' },
+  { name:'IndGovtJobs',          url:'https://www.indgovtjobs.in/',               tip:'Good for contractual / consultant roles in ministries' },
+];
+
+// Google searches for PM-shaped roles in the public sector. Govt orgs rarely
+// say "Product Manager": the same job is posted as Consultant, Specialist
+// Officer, Manager (Digital), or Lead / Senior Associate - Product.
+export const GOVT_SEARCHES = [
+  { title:'Product roles on gov.in / nic.in', query:'"product manager" OR "product management" (site:gov.in OR site:nic.in)' },
+  { title:'Consultant (Product / Digital)',   query:'("consultant" OR "senior consultant") ("product" OR "digital") (site:gov.in OR site:nic.in) "last date"' },
+  { title:'PSU bank specialist officers',     query:'"specialist officer" ("product" OR "digital banking") (site:bank.in OR site:sbi.co.in) recruitment' },
+  { title:'PSU lateral hiring: digital',      query:'"lateral" ("product" OR "digital") (PSU OR "public sector") recruitment notification' },
+  { title:'MeitY / Digital India openings',   query:'("product" OR "programme manager") (site:digitalindiacorporation.in OR site:meity.gov.in OR site:negd.gov.in)' },
+];
+
+export const googleUrl = (query) => `https://www.google.com/search?q=${encodeURIComponent(query)}&tbs=qdr:m`;
+export const orgPmSearchUrl = (org) => googleUrl(`site:${org.domain} ("product" OR "digital") (recruitment OR vacancy OR career OR consultant)`);

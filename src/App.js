@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Zap, Globe, Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, Bell, ClipboardList, Building2, FileSearch } from 'lucide-react';
+import { Zap, Globe, Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, Bell, ClipboardList, Building2, FileSearch, Landmark } from 'lucide-react';
 import { getProfile } from './storage';
 import Tracker from './components/Tracker';
 import Watchlist from './components/Watchlist';
@@ -12,6 +12,7 @@ import HacksTab from './tabs/HacksTab';
 import TemplatesTab from './tabs/TemplatesTab';
 import HomeTab from './tabs/HomeTab';
 import JobsTab from './tabs/JobsTab';
+import GovtTab from './tabs/GovtTab';
 import { themes } from './theme';
 import { getCardStyle, getBtnPrimaryStyle, getBtnSecondaryStyle, getTabButtonStyle, getBadgeStyle } from './styles';
 import { PLATFORMS } from './data/platforms';
@@ -101,6 +102,7 @@ export default function App() {
         {[
           { id:'home',      icon:<Sparkles size={14}/>,   label:'Home' },
           { id:'jobs',      icon:<Briefcase size={14}/>,  label:'All Jobs' },
+          { id:'govt',      icon:<Landmark size={14}/>,   label:'Govt & PSU', isNew:true },
           { id:'tracker',   icon:<ClipboardList size={14}/>, label:'Tracker', isNew:true },
           { id:'watchlist', icon:<Building2 size={14}/>,  label:'Watchlist', isNew:true },
           { id:'resumematch',icon:<FileSearch size={14}/>,label:'Resume Match', isNew:true },
@@ -158,6 +160,9 @@ export default function App() {
             openMultiple={openMultiple} isOpening={isOpening} getQuickLaunchUrls={getQuickLaunchUrls}
           />
         )}
+
+        {/* ── GOVT & PSU ── */}
+        {activeTab==='govt' && <GovtTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} />}
 
         {/* ── TRACKER ── */}
         {activeTab==='tracker' && <Tracker t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} />}
