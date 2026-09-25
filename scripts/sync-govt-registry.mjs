@@ -3,8 +3,9 @@
 // scanner, and that registry never drift apart:
 //
 //   src/data/govtOrgsList.js  - the app's Govt & PSU directory (high/medium PM relevance)
-//   agent/govt-sources.json   - every org the scanner can read as structured JSON
-//                               (json_api / embedded_json), plus JSON job boards
+//   agent/govt-sources.json   - every org the scanner can read: structured JSON
+//                               (json_api / embedded_json), careers pages of notice
+//                               links (html_links / pdf_list), plus JSON job boards
 //
 // Usage:
 //   node scripts/sync-govt-registry.mjs [path/to/orgs.json]
@@ -69,8 +70,9 @@ ${directory.map(o => '  ' + toJs(o) + ',').join('\n')}
 `;
 
 // ── Scanner sources ─────────────────────────────────────────────────────────
+const KIND = { json_api: 'api', embedded_json: 'embedded', html_links: 'notices', pdf_list: 'notices' };
 const sources = registry.orgs
-  .filter(o => (o.fetch_method === 'json_api' && o.api) || (o.fetch_method === 'embedded_json' && o.embedded))
+  .filter(o => KIND[o.fetch_method] && (KIND[o.fetch_method] === 'notices' || o.api || o.embedded))
   .map(o => ({
     name: o.name,
     short: o.short,
@@ -78,8 +80,9 @@ const sources = registry.orgs
     relevance: o.pm_relevance,
     careersUrl: o.careers_url,
     ...(o.location && { location: o.location }),
-    kind: o.fetch_method === 'json_api' ? 'api' : 'embedded',
-    config: o.api || o.embedded,
+    ...(o.extra_urls?.length && { extraUrls: o.extra_urls }),
+    kind: KIND[o.fetch_method],
+    ...((o.api || o.embedded) && { config: o.api || o.embedded }),
   }));
 
 for (const feed of registry.feeds || []) {

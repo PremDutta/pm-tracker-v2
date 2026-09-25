@@ -8,12 +8,14 @@
 // below are a port of that skill's cli/src/structured.ts + extract.ts, so the
 // Telegram alerts and the ai-job-search daily digest judge a notice the same way.
 //
-// Most PSUs only publish PDF notices; those aren't read here. They're covered by
-// the app's Govt & PSU tab (7-day "last checked" tracking) and the digest.
+// Orgs with no feed (most PSUs: a careers page of notice links / PDFs) are read
+// by govt-notices.mjs.
 
 import fs from 'node:fs/promises';
+import https from 'node:https';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { extractNotices, isAlertableNotice } from './govt-notices.mjs';
 
 const AGENT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const SOURCES_FILE = path.join(AGENT_DIR, 'govt-sources.json');
@@ -184,23 +186,88 @@ export function embeddedRecords(html, cfg) {
   return records;
 }
 
+const CERT_ERROR_RE = /CERT|UNABLE_TO_GET_ISSUER|UNABLE_TO_VERIFY_LEAF|SELF_SIGNED|ERR_TLS_CERT/;
+
+// Many Indian govt sites serve an incomplete certificate chain: browsers repair
+// it, Node refuses it. These are public pages and nothing is sent, so on that
+// specific error, retry without chain verification (same as india-govt-search).
+function getInsecure(url, redirects = 3) {
+  return new Promise((resolve, reject) => {
+    const req = https.get(url, { rejectUnauthorized: false, headers: { 'User-Agent': BROWSER_UA }, timeout: 30000 }, (res) => {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location && redirects > 0) {
+        res.resume();
+        return resolve(getInsecure(new URL(res.headers.location, url).href, redirects - 1));
+      }
+      if (res.statusCode >= 400) { res.resume(); return reject(new Error(`HTTP ${res.statusCode}`)); }
+      let body = '';
+      res.setEncoding('utf8');
+      res.on('data', (c) => { body += c; });
+      res.on('end', () => resolve(body));
+    });
+    req.on('timeout', () => req.destroy(new Error('timeout')));
+    req.on('error', reject);
+  });
+}
+
+async function fetchText(url, init = {}) {
+  try {
+    const res = await fetch(url, { ...init, headers: { 'User-Agent': BROWSER_UA, ...init.headers }, signal: AbortSignal.timeout(30000) });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return await res.text();
+  } catch (err) {
+    if (!init.method && url.startsWith('https:') && CERT_ERROR_RE.test(err.cause?.code || '')) return getInsecure(url);
+    throw err;
+  }
+}
+
 async function fetchSourceRecords(source) {
   const cfg = source.config;
   const url = cfg.url || source.careersUrl;
-  const init = { headers: { 'User-Agent': BROWSER_UA, Accept: source.kind === 'api' ? 'application/json' : 'text/html' }, signal: AbortSignal.timeout(30000) };
+  const init = { headers: { Accept: source.kind === 'api' ? 'application/json' : 'text/html' } };
   if (cfg.method === 'POST') {
     init.method = 'POST';
     const form = new FormData();
     for (const [k, v] of Object.entries(cfg.form || {})) form.append(k, v);
     init.body = form;
   }
-  const res = await fetch(url, init);
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  if (source.kind === 'embedded') return embeddedRecords(await res.text(), cfg);
-  const body = await res.json();
+  const text = await fetchText(url, init);
+  if (source.kind === 'embedded') return embeddedRecords(text, cfg);
+  const body = JSON.parse(text);
   const list = cfg.list ? getPath(body, cfg.list) : body;
   if (!Array.isArray(list)) throw new Error(`no record list at "${cfg.list || '(root)'}"`);
   return list;
+}
+
+/** Alertable notices from a careers page (plus any extra listing pages). */
+async function fetchNoticeSource(source) {
+  const pages = [source.careersUrl, ...(source.extraUrls || [])];
+  const byUrl = new Map();
+  for (const page of pages) {
+    for (const n of extractNotices(await fetchText(page), page, source)) byUrl.set(n.url, n);
+  }
+  // The same notice is often linked twice (English + Hindi PDF, or on both the
+  // careers and the "current openings" page): keep one per title.
+  const byTitle = new Map();
+  for (const n of byUrl.values()) {
+    if (!isAlertableNotice(n, source.relevance)) continue;
+    const key = n.title.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+    if (!byTitle.has(key)) byTitle.set(key, n);
+  }
+  return [...byTitle.values()];
+}
+
+// A few sources at a time: ~140 simultaneous requests get throttled or dropped
+// by the slower govt servers.
+async function mapLimited(items, limit, fn) {
+  const results = new Array(items.length);
+  let next = 0;
+  await Promise.all(Array.from({ length: limit }, async () => {
+    while (next < items.length) {
+      const i = next++;
+      results[i] = await fn(items[i]);
+    }
+  }));
+  return results;
 }
 
 export function jobsFromRecords(records, source) {
@@ -213,24 +280,36 @@ export function jobsFromRecords(records, source) {
 }
 
 /**
- * Current PM-shaped govt openings across every structured source.
- * Returns { jobs, failed } - `failed` lists source shorts that couldn't be read,
- * so the caller can keep their last-known openings instead of dropping them.
+ * Current PM-shaped govt openings across every source (feeds, embedded JSON,
+ * and careers pages). Returns { jobs, failed, readOk, noticePagesRead }:
+ * `failed` lists source shorts that couldn't be read (the caller keeps their
+ * last-known openings); `readOk` the ones read this run; `noticePagesRead` the
+ * careers-page sources among them.
  */
 export async function fetchGovtOpenings() {
   const { sources } = JSON.parse(await fs.readFile(SOURCES_FILE, 'utf8'));
   const failed = [];
-  const perSource = await Promise.all(sources.map(async (source) => {
+  const readOk = [];
+  const noticePagesRead = [];
+  const perSource = await mapLimited(sources, 8, async (source) => {
     try {
-      const all = jobsFromRecords(await fetchSourceRecords(source), source);
-      const pm = all.filter(j => isGovtPmTitle(j.title) && !j.flags.includes('deputation_or_govt_employees_only'));
-      console.log(`  Govt ${source.short}: ${all.length} openings, ${pm.length} product roles`);
-      return pm;
+      let jobs;
+      if (source.kind === 'notices') {
+        jobs = await fetchNoticeSource(source);
+      } else {
+        const all = jobsFromRecords(await fetchSourceRecords(source), source);
+        jobs = all.filter(j => isGovtPmTitle(j.title) && !j.flags.includes('deputation_or_govt_employees_only'));
+      }
+      if (jobs.length) console.log(`  Govt ${source.short}: ${jobs.length} matching`);
+      readOk.push(source.short);
+      if (source.kind === 'notices') noticePagesRead.push(source.short);
+      return jobs;
     } catch (err) {
-      console.error(`  Govt ${source.short} fetch failed: ${err.message}`);
+      console.error(`  Govt ${source.short} fetch failed: ${err.cause?.code || err.message}`);
       failed.push(source.short);
       return [];
     }
-  }));
-  return { jobs: perSource.flat(), failed };
+  });
+  console.log(`  Govt sources: ${readOk.length} read, ${failed.length} unreachable`);
+  return { jobs: perSource.flat(), failed, readOk, noticePagesRead };
 }

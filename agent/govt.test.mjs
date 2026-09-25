@@ -53,3 +53,50 @@ test('API records: subsidiary prefix sets the company', () => {
   const [job] = jobsFromRecords([{ id: '1', Posting_Title: 'Lead Product Management', $url: 'https://careers.npci.org.in/jobs/1', Client_Name: { name: 'NBBL Product Development' } }], { ...source, name: 'NPCI', short: 'NPCI', config });
   assert.equal(job.company, 'NPCI Bharat BillPay Ltd');
 });
+
+// ─── Careers-page notices ───────────────────────────────────────────────────
+import { extractNotices, isAlertableNotice } from './govt-notices.mjs';
+import { chunkText } from './notify.mjs';
+
+const TODAY = '2026-09-25';
+const PSU = { name: 'Some PSU Ltd', short: 'SPL', category: 'navratna', location: 'Delhi' };
+const page = `
+<header><nav><a href="/digital">Digital Banking Services and Products</a></nav></header>
+<script>var x = '<a href="/x">Product Manager script leak</a>';</script>
+<table>
+  <tr><td><a href="/rect/pm.pdf">Engagement of Senior Product Manager on contract basis</a></td><td>Last date: 10.10.2026</td></tr>
+  <tr><td>Programme Manager - Digital Transformation</td><td><a href="/rect/prog.pdf">Click here</a></td><td>01.10.2026</td></tr>
+  <tr><td><a href="/rect/old.pdf">Recruitment of Product Manager</a></td><td>12.01.2025</td></tr>
+  <tr><td><a href="/rect/closed.pdf">Product Lead (Status : Closed)</a></td></tr>
+  <tr><td><a href="/uploads/2023/pm-notice.pdf">Product Manager (On Contract)</a></td></tr>
+  <tr><td><a href="/rect/sl.pdf">Shortlisted candidates for Product Manager interview</a></td></tr>
+  <tr><td><a href="/rect/it.pdf">Recruitment of IT Officer (Scale I)</a></td><td>30.10.2026</td></tr>
+  <tr><td><a href="/rect/trainee.pdf">Recruitment of Management Trainee (Product)</a></td></tr>
+</table>`;
+
+test('careers page: keeps live product / PM-adjacent notices, drops chrome, closed, stale, outcomes, trainees', () => {
+  const notices = extractNotices(page, 'https://spl.co.in/careers', PSU, TODAY).filter(n => isAlertableNotice(n, 'medium'));
+  assert.deepEqual(notices.map(n => n.title).sort(), [
+    'Engagement of Senior Product Manager on contract basis',
+    'Programme Manager - Digital Transformation',
+  ].sort());
+  const pm = notices.find(n => n.title.startsWith('Engagement'));
+  assert.equal(pm.deadline, '2026-10-10');
+  assert.equal(pm.url, 'https://spl.co.in/rect/pm.pdf');
+  assert.ok(pm.flags.includes('contract'));
+  assert.match(pm.id, /^govt-notice-[0-9a-f]{16}$/);
+});
+
+test('careers page: PM-adjacent digital roles need a high/medium PM-relevance org', () => {
+  const notices = extractNotices(page, 'https://spl.co.in/careers', PSU, TODAY);
+  const prog = notices.find(n => n.title.startsWith('Programme Manager'));
+  assert.ok(isAlertableNotice(prog, 'medium'));
+  assert.ok(!isAlertableNotice(prog, 'low'));
+});
+
+test('WhatsApp chunking splits on lines and keeps every line', () => {
+  const text = Array.from({ length: 60 }, (_, i) => `• Job ${i} — https://example.gov.in/careers/${i}`).join('\n');
+  const chunks = chunkText(text, 500);
+  assert.ok(chunks.length > 1 && chunks.every(c => c.length <= 500));
+  assert.equal(chunks.join('\n'), text);
+});

@@ -11,7 +11,7 @@
 // clean (no daily noise for a check that's expected to almost always pass).
 import { PLATFORMS } from '../src/data/platforms.js';
 import { GOVT_ORGS } from '../src/data/govtOrgsList.js';
-import { sendTelegram } from './notify.mjs';
+import { sendAlert } from './notify.mjs';
 
 const NOISE_STATUSES = new Set([401, 403, 405, 429, 503]);
 const SAMPLE_ROLE = 'Product Manager';
@@ -49,14 +49,16 @@ async function checkPlatform(id, platform) {
     }
   }
   const code = lastError.cause?.code || lastError.message;
-  // Several govt sites (UIDAI, RailTel, PESB...) time out or refuse connections
-  // from outside India, and GitHub's runners are in the US. For those pages only
-  // a missing domain means dead; anything else is logged, not alerted.
-  if (platform.geoBlockable && !/ENOTFOUND/.test(code)) {
-    console.log(`  ~ ${platform.name}: unreachable from this runner (${code}), likely geo-blocked; not flagged`);
+  // A timeout or reset isn't evidence a link is dead: several govt sites (UIDAI,
+  // RailTel, PESB...) refuse connections from outside India, where GitHub's
+  // runners are, and busy boards (Remote.co, FlexJobs, NaukriGulf) reset bot
+  // connections. Only a domain that no longer resolves is flagged; the rest is
+  // logged, not alerted.
+  if (!/ENOTFOUND/.test(code)) { // EAI_AGAIN is a transient DNS hiccup, not a dead domain
+    console.log(`  ~ ${platform.name}: unreachable from this runner (${code}); not flagged`);
     return null;
   }
-  return { id, name: platform.name, url, problem: `Fetch failed: ${code}` };
+  return { id, name: platform.name, url, problem: `Domain not found (${code})` };
 }
 
 // A few at a time: ~75 simultaneous requests from one runner get throttled or
@@ -80,7 +82,7 @@ const govtTargets = () => {
   const byUrl = new Map();
   for (const o of GOVT_ORGS) {
     if (o.blocksBots || byUrl.has(o.careersUrl)) continue;
-    byUrl.set(o.careersUrl, [`govt-${o.id}`, { name: `${o.short} careers (govt)`, getUrl: () => o.careersUrl, geoBlockable: true }]);
+    byUrl.set(o.careersUrl, [`govt-${o.id}`, { name: `${o.short} careers (govt)`, getUrl: () => o.careersUrl }]);
   }
   return [...byUrl.values()];
 };
@@ -97,7 +99,7 @@ async function main() {
 
   const lines = broken.map(b => `• ${b.name}: ${b.problem}${b.url ? `\n  ${b.url}` : ''}`);
   const text = `⚠️ Weekly link check: ${broken.length} platform${broken.length === 1 ? '' : 's'} may be broken:\n\n${lines.join('\n\n')}\n\nSome of these can be false alarms (a site blocking automated requests, not an actual dead link) — worth a manual click before editing src/data/platforms.js (job platforms) or the india-govt-search registry + scripts/sync-govt-registry.mjs (govt careers pages).`;
-  await sendTelegram(text);
+  await sendAlert(text);
 }
 
 main().catch(err => {

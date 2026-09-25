@@ -7,7 +7,7 @@ Two scheduled GitHub Actions jobs, both free and unlimited on this public repo, 
 
 ## Job scanning (`scan-jobs.mjs`)
 
-Pings you on Telegram only when something new shows up. No server, no cost, no scraping. Two kinds of sources, both legal:
+Pings you on Telegram and/or WhatsApp only when something new shows up. No server, no cost, no scraping. Three kinds of sources, all legal:
 
 1. **Adzuna + JSearch** — general aggregators, searches "Product Manager" broadly across India.
 2. **Direct ATS feeds** (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee) for the specific companies you list in `agent/companies.json`. This is the same technique TrueUp's core data layer uses — these APIs are public and unauthenticated *because companies deliberately expose them* to be embedded on their own careers pages, unlike LinkedIn/Naukri, which explicitly prohibit automated access (we hit real 403s from those this session; every ATS endpoint here was instead verified live, returning real job data, before being wired in).
@@ -16,7 +16,8 @@ Pings you on Telegram only when something new shows up. No server, no cost, no s
    - Govt orgs rarely title roles "Product Manager", so these use a looser filter: any title with "product", minus design/marketing/sales/support and apprentice/trainee/fresher schemes.
    - Eligibility rules are the same as the ai-job-search digest: deputation / serving-govt-employee-only roles are dropped; age limit, MBA, contract and corrigendum are shown as flags. Alerts include the last date when the source has one, and govt roles are listed first.
    - Every run writes the current openings to `govt-openings.json`, which the app's **Govt & PSU** tab reads live from GitHub. A source that fails in a run keeps its last-known openings instead of vanishing.
-   - Most PSUs only publish PDF notices; those aren't scanned here. They're covered by the app's org directory (7-day "last checked" tracking) and the ai-job-search digest.
+4. **Govt careers pages with no feed** (`govt-notices.mjs`): the other 132 orgs in the registry, most PSUs, PSU banks, insurers and ministries, which publish a page of notice links (often PDFs). Each page's links are read and kept only if they look like a live opening: site menus, scripts, tenders, results, shortlists, forms, closed notices, fresher/trainee schemes and anything whose dates are all 120+ days old are dropped (port of the `india-govt-search` extractor, with stricter rules because these become phone alerts). A notice alerts only if its **title** is a product role, or PM-shaped digital leadership (Programme Manager, Head - Digital, Digital Banking / Transformation...) at an org rated high/medium for PM work. Plain IT roles (IT Officer, Data Scientist) don't. The first read of a page with a backlog (4+ matches) is recorded without alerting.
+   - Some sites can't be read from GitHub's US runners (they block non-Indian traffic or need JavaScript). `govt-openings.json` records each org's last successful read, and the app marks every org as **✓ Auto-scanned** or **Check manually** from it, so you know exactly which ones still need a manual look.
    - Tests: `node --test agent/govt.test.mjs` (also run in CI).
 
 **Does not cover Naukri, IIMJobs, Hirist, Foundit, or Shine** — no legal API exists for those. Keep checking those through the app's own platform grid (it now tracks "last checked" per platform for exactly this reason).
@@ -66,16 +67,26 @@ To test it manually: **Actions** tab → **Weekly platform link check** → **Ru
 2. Message your new bot anything (e.g. "hi") so it can see your chat.
 3. Run: `curl https://api.telegram.org/bot<YOUR_TOKEN>/getUpdates` and find `"chat":{"id":...}` in the response — that number is your chat ID.
 
+### 4. WhatsApp (optional, alongside or instead of Telegram)
+Uses [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/)'s free personal WhatsApp API: it can only message the number that activated it, which is exactly what alerts to yourself need.
+1. Save CallMeBot's number in your phone contacts. It's listed on the page above (it was **+34 694 23 41 84** on 2026-09-25; use whatever the page shows now).
+2. From your WhatsApp, send it: `I allow callmebot to send me messages`
+3. Within a couple of minutes it replies with your API key.
+
+Messages pass through CallMeBot's servers (job titles and links only, nothing personal). Long alerts arrive as numbered parts (1/2, 2/2).
+
 ## Add the secrets to GitHub
 
-In this repo: **Settings → Secrets and variables → Actions → New repository secret**, add all five:
+In this repo: **Settings → Secrets and variables → Actions → New repository secret**. Alerts go to every channel whose secrets are set:
 
 - `ADZUNA_APP_ID`
 - `ADZUNA_APP_KEY`
 - `RAPIDAPI_KEY`
-- `TELEGRAM_BOT_TOKEN`
-- `TELEGRAM_CHAT_ID`
+- Telegram: `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`
+- WhatsApp: `WHATSAPP_PHONE` (your number with country code, e.g. `+919812345678`), `CALLMEBOT_APIKEY`
+
+Or from a terminal: `gh secret set WHATSAPP_PHONE` and `gh secret set CALLMEBOT_APIKEY` (each prompts for the value).
 
 ## Test it
 
-Go to the **Actions** tab → **Scan for new PM jobs** → **Run workflow** to trigger it manually instead of waiting for the next scheduled run. Check the run's logs — it prints how many jobs it found per source (Adzuna, JSearch, and "company ATS feeds"), and confirms on the first run that it recorded a baseline without alerting. Every run after that only messages you about what's actually new.
+Go to the **Actions** tab → **Scan for new PM jobs** → **Run workflow** to trigger it manually instead of waiting for the next scheduled run. Check the run's logs — it prints how many jobs it found per source (Adzuna, JSearch, company ATS feeds, govt sources) and which channels each alert was sent to, and confirms on the first run that it recorded a baseline without alerting. Every run after that only messages you about what's actually new.

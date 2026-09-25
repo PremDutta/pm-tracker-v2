@@ -27,7 +27,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { sendTelegram } from './notify.mjs';
+import { sendAlert } from './notify.mjs';
 import { fetchGovtOpenings } from './govt.mjs';
 
 const AGENT_DIR = path.dirname(fileURLToPath(import.meta.url));
@@ -246,49 +246,69 @@ function govtNote(job) {
   return bits.length ? `\n  ⏳ ${bits.join(' · ')}` : '';
 }
 
-async function alertNewJobs(newJobs) {
-  if (!env('TELEGRAM_BOT_TOKEN') || !env('TELEGRAM_CHAT_ID')) {
-    console.log('Telegram: skipped (TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set) — new jobs found but not sent:', newJobs.length);
-    return;
+// Same title at the same company (NBBL often posts one role twice) is one line
+// with a count, not two identical alerts.
+function groupDuplicates(jobs) {
+  const groups = new Map();
+  for (const j of jobs) {
+    const key = `${j.title.toLowerCase().replace(/\s+/g, ' ').trim()}|${j.company.toLowerCase()}`;
+    const g = groups.get(key);
+    if (g) g.count++;
+    else groups.set(key, { ...j, count: 1 });
   }
+  return [...groups.values()];
+}
+
+async function alertNewJobs(newJobs) {
   // Govt roles first: they're rarer, and must never fall below the 15-item cut.
-  const ordered = [...newJobs.filter(j => j.id.startsWith('govt-')), ...newJobs.filter(j => !j.id.startsWith('govt-'))];
+  const grouped = groupDuplicates(newJobs);
+  const ordered = [...grouped.filter(j => j.id.startsWith('govt-')), ...grouped.filter(j => !j.id.startsWith('govt-'))];
   const shown = ordered.slice(0, 15);
-  const lines = shown.map(j => `• ${j.title} — ${j.company} (${j.location || 'India'})${govtNote(j)}\n  ${j.url}\n  [${j.source}]`);
+  const lines = shown.map(j => `• ${j.title} — ${j.company} (${j.location || 'India'})${j.count > 1 ? ` ×${j.count} openings` : ''}${govtNote(j)}\n  ${j.url}\n  [${j.source}]`);
   let text = `🎯 ${newJobs.length} new PM job${newJobs.length === 1 ? '' : 's'} found:\n\n${lines.join('\n\n')}`;
-  if (newJobs.length > shown.length) text += `\n\n…and ${newJobs.length - shown.length} more.`;
-  await sendTelegram(text);
+  if (ordered.length > shown.length) text += `\n\n…and ${ordered.length - shown.length} more.`;
+  if (shown.some(j => j.id.startsWith('govt-'))) text += '\n\nAll open govt roles: https://pm-tracker-v2.vercel.app (Govt & PSU tab)';
+  await sendAlert(text);
 }
 
 async function loadSeen() {
   try {
     const raw = await fs.readFile(SEEN_FILE, 'utf8');
-    return JSON.parse(raw);
+    return { baselinedOrgs: [], ...JSON.parse(raw) };
   } catch {
-    return { ids: [], firstRun: true };
+    return { ids: [], firstRun: true, baselinedOrgs: [] };
   }
 }
 
-async function saveSeen(ids) {
-  // Keep the file bounded — retain only the most recent 500 ids
-  const trimmed = ids.slice(-500);
-  await fs.writeFile(SEEN_FILE, JSON.stringify({ ids: trimmed, firstRun: false }, null, 2));
+async function saveSeen(ids, baselinedOrgs) {
+  // Keep the file bounded: the most recent 3000 ids (govt careers pages add a
+  // few hundred notice ids on top of the job feeds).
+  const trimmed = ids.slice(-3000);
+  await fs.writeFile(SEEN_FILE, JSON.stringify({ ids: trimmed, firstRun: false, baselinedOrgs: [...baselinedOrgs].sort() }, null, 2));
 }
 
 // Writes the current govt openings for the app. A source that failed this run
 // keeps its last-known openings rather than vanishing from the app; firstSeen
-// is carried over so the app can badge what's new.
-async function saveGovtOpenings({ jobs, failed }) {
-  let previous = [];
+// is carried over so the app can badge what's new. lastRead records, per org,
+// the last day the scanner could read it, so the app can say which orgs are
+// covered automatically and which (geo-blocked, JS-only) need a manual check.
+async function saveGovtOpenings({ jobs, failed, readOk }) {
+  let previous = { openings: [], lastRead: {} };
   try {
-    previous = JSON.parse(await fs.readFile(GOVT_OPENINGS_FILE, 'utf8')).openings || [];
+    previous = { ...previous, ...JSON.parse(await fs.readFile(GOVT_OPENINGS_FILE, 'utf8')) };
   } catch { /* first run */ }
-  const firstSeenById = new Map(previous.map(o => [o.id, o.firstSeen]));
+  const firstSeenById = new Map(previous.openings.map(o => [o.id, o.firstSeen]));
   const today = new Date().toISOString().slice(0, 10);
-  const kept = previous.filter(o => failed.includes(o.org));
+  // Carry-over is for a flaky day, not forever: once an org hasn't been read
+  // for 7 days its old openings drop out (the app then marks it "Check manually").
+  const weekAgo = new Date(Date.now() - 7 * 86_400_000).toISOString().slice(0, 10);
+  const kept = previous.openings.filter(o => failed.includes(o.org) && (previous.lastRead[o.org] || '') >= weekAgo);
   const openings = [...jobs.map(j => ({ ...j, firstSeen: firstSeenById.get(j.id) || today })), ...kept]
     .sort((a, b) => (b.firstSeen || '').localeCompare(a.firstSeen || '') || a.id.localeCompare(b.id));
-  await fs.writeFile(GOVT_OPENINGS_FILE, JSON.stringify({ openings }, null, 2) + '\n');
+  const lastRead = { ...previous.lastRead };
+  for (const org of readOk) lastRead[org] = today;
+  const sortedLastRead = Object.fromEntries(Object.entries(lastRead).sort(([a], [b]) => a.localeCompare(b)));
+  await fs.writeFile(GOVT_OPENINGS_FILE, JSON.stringify({ openings, lastRead: sortedLastRead }, null, 2) + '\n');
   return jobs;
 }
 
@@ -296,11 +316,21 @@ async function main() {
   const [adzuna, jsearch, companyATS, govtResult] = await Promise.all([fetchAdzuna(), fetchJSearch(), fetchCompanyATS(), fetchGovtOpenings()]);
   const govt = await saveGovtOpenings(govtResult);
   const allJobs = [...adzuna, ...jsearch, ...companyATS, ...govt];
-  console.log(`Fetched ${adzuna.length} from Adzuna, ${jsearch.length} from JSearch, ${companyATS.length} from company ATS feeds, ${govt.length} from govt/PSU boards (${allJobs.length} total).`);
+  console.log(`Fetched ${adzuna.length} from Adzuna, ${jsearch.length} from JSearch, ${companyATS.length} from company ATS feeds, ${govt.length} from govt/PSU sources (${allJobs.length} total).`);
 
   const seen = await loadSeen();
   const seenSet = new Set(seen.ids);
-  const newJobs = allJobs.filter(j => j.id && !seenSet.has(j.id));
+  // The first successful read of a govt careers page is a baseline: it can
+  // hold every notice currently up, so record those silently and only alert
+  // on what appears after. Per org, so a page that was unreachable for
+  // weeks doesn't flood the alert the day it comes back.
+  // Only a real backlog (4+ matching notices on that first read) is held back;
+  // with the notice filter this strict, one or two matches are worth an alert.
+  const baselined = new Set(seen.baselinedOrgs);
+  const noticeCount = (org) => govt.filter(j => j.org === org && j.id.startsWith('govt-notice-')).length;
+  const baselineNow = new Set(govtResult.noticePagesRead.filter(org => !baselined.has(org) && noticeCount(org) > 3));
+  const newJobs = allJobs.filter(j => j.id && !seenSet.has(j.id) && !(j.id.startsWith('govt-notice-') && baselineNow.has(j.org)));
+  if (baselineNow.size) console.log(`Govt careers pages with a backlog on first read (recorded, no alert): ${[...baselineNow].join(', ')}`);
 
   if (seen.firstRun) {
     console.log('First run — recording current jobs as a baseline, not sending an alert for all of them.');
@@ -313,9 +343,11 @@ async function main() {
 
   // Dedupe — without this, a job that's still listed on a later run (the
   // common case, since postings stay up for weeks) gets re-appended every
-  // single run, silently filling the 500-id cap with repeats of the same
+  // single run, silently filling the id cap with repeats of the same
   // handful of jobs instead of real history.
-  await saveSeen([...new Set([...seen.ids, ...allJobs.map(j => j.id)])]);
+  // Every careers page read this run is baselined, including ones with no
+  // matching notice yet, so the first real notice on it later does alert.
+  await saveSeen([...new Set([...seen.ids, ...allJobs.map(j => j.id)])], new Set([...baselined, ...govtResult.noticePagesRead]));
 }
 
 main().catch(err => {

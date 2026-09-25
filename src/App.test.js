@@ -36,7 +36,7 @@ test('Govt & PSU: filters orgs, and opening a careers page records it as checked
 
   await user.click(screen.getByRole('button', { name: /Govt & PSU/i }));
   expect(screen.getByRole('heading', { name: 'Government & PSU' })).toBeInTheDocument();
-  expect(screen.getByText('60 not checked in the last 7 days')).toBeInTheDocument();
+  expect(await screen.findByText('60 manual-check orgs not checked in 7 days')).toBeInTheDocument();
 
   // Search narrows the directory to the matching org
   await user.type(screen.getByLabelText('Search government organisations'), 'NPCI');
@@ -49,7 +49,7 @@ test('Govt & PSU: filters orgs, and opening a careers page records it as checked
   const meta = JSON.parse(window.localStorage.getItem('pmt_platform_meta'));
   expect(meta['govt-npci'].lastChecked).toBeGreaterThan(0);
   expect(screen.getByText('Checked just now')).toBeInTheDocument();
-  expect(screen.getByText('59 not checked in the last 7 days')).toBeInTheDocument();
+  expect(screen.getByText('59 manual-check orgs not checked in 7 days')).toBeInTheDocument();
 });
 
 test('Govt & PSU: shows live openings by deadline, hides closed ones, and logs one to the Tracker', async () => {
@@ -74,6 +74,23 @@ test('Govt & PSU: shows live openings by deadline, hides closed ones, and logs o
   await user.click(logButtons[0]);
   const apps = JSON.parse(window.localStorage.getItem('pmt_applications'));
   expect(apps[0]).toMatchObject({ company: 'NeGD', role: 'Technical Product Manager', platform: 'Govt (DIC ORA)', link: 'https://ora.digitalindiacorporation.in/?job=7' });
+});
+
+test('Govt & PSU: orgs the scanner read are marked auto-scanned and leave the manual count; duplicate postings are grouped', async () => {
+  const dup = { title: 'Senior Lead Product Development', company: 'NPCI Bharat BillPay Ltd', location: 'Mumbai', deadline: null, flags: [], org: 'NPCI', firstSeen: '2026-01-01' };
+  global.fetch = jest.fn(() => Promise.resolve({ ok: true, json: () => Promise.resolve({
+    openings: [{ ...dup, id: 'govt-npci-1', url: 'https://careers.npci.org.in/jobs/1' }, { ...dup, id: 'govt-npci-2', url: 'https://careers.npci.org.in/jobs/2' }],
+    lastRead: { NPCI: isoDaysFromToday(0), ONDC: isoDaysFromToday(-10) },
+  }) }));
+  const user = userEvent.setup();
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: /Govt & PSU/i }));
+
+  expect(await screen.findByText('1 open')).toBeInTheDocument();
+  expect(screen.getByText('×2 OPENINGS')).toBeInTheDocument();
+  // NPCI read today, plus NBBL and NIPL which are listed on NPCI's portal; ONDC's read is too old
+  expect(screen.getAllByText('✓ Auto-scanned')).toHaveLength(3);
+  expect(screen.getByText('57 manual-check orgs not checked in 7 days')).toBeInTheDocument();
 });
 
 test('Govt & PSU: a failed live-openings fetch still leaves the directory usable', async () => {

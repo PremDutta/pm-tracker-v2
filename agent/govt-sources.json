@@ -3,6 +3,14 @@
   "verified": "2026-09-13",
   "sources": [
     {
+      "name": "Indian Highways Management Company Ltd",
+      "short": "IHMCL",
+      "category": "govt_backed_other",
+      "relevance": "high",
+      "careersUrl": "https://ihmcl.co.in/careers/",
+      "kind": "notices"
+    },
+    {
       "name": "National Payments Corporation of India",
       "short": "NPCI",
       "category": "govt_backed_other",
@@ -64,6 +72,14 @@
       }
     },
     {
+      "name": "Digital India Corporation",
+      "short": "DIC",
+      "category": "section8_govt",
+      "relevance": "high",
+      "careersUrl": "https://dic.gov.in/careers/",
+      "kind": "notices"
+    },
+    {
       "name": "Digital India Corporation - Online Recruitment Application (ORA) portal",
       "short": "DIC ORA",
       "category": "section8_govt",
@@ -98,6 +114,86 @@
       }
     },
     {
+      "name": "Invest India",
+      "short": "Invest India",
+      "category": "section8_govt",
+      "relevance": "high",
+      "careersUrl": "https://www.investindia.gov.in/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "National e-Governance Division",
+      "short": "NeGD",
+      "category": "section8_govt",
+      "relevance": "high",
+      "careersUrl": "https://negd.gov.in/careers/",
+      "kind": "notices"
+    },
+    {
+      "name": "Open Network for Digital Commerce",
+      "short": "ONDC",
+      "category": "section8_govt",
+      "relevance": "high",
+      "careersUrl": "https://ondc.org/pages/careers.html",
+      "kind": "notices"
+    },
+    {
+      "name": "Centre for Development of Advanced Computing",
+      "short": "C-DAC",
+      "category": "autonomous_body",
+      "relevance": "medium",
+      "careersUrl": "https://www.cdac.in/index.aspx?id=current_jobs",
+      "kind": "notices"
+    },
+    {
+      "name": "Centre for Development of Telematics",
+      "short": "C-DOT",
+      "category": "autonomous_body",
+      "relevance": "medium",
+      "careersUrl": "https://www.cdot.in/cdotweb/web/current_openings.php?lang=en",
+      "kind": "notices"
+    },
+    {
+      "name": "Centre for Railway Information Systems",
+      "short": "CRIS",
+      "category": "autonomous_body",
+      "relevance": "medium",
+      "careersUrl": "https://cris.org.in/loadpage?page=indexcareer",
+      "kind": "notices"
+    },
+    {
+      "name": "Software Technology Parks of India",
+      "short": "STPI",
+      "category": "autonomous_body",
+      "relevance": "medium",
+      "careersUrl": "https://stpi.in/en/main-career",
+      "kind": "notices"
+    },
+    {
+      "name": "Electronics Corporation of India Ltd",
+      "short": "ECIL",
+      "category": "cpse_other",
+      "relevance": "medium",
+      "careersUrl": "https://www.ecil.co.in/jobopenings",
+      "kind": "notices"
+    },
+    {
+      "name": "ITI Ltd",
+      "short": "ITI",
+      "category": "cpse_other",
+      "relevance": "medium",
+      "careersUrl": "https://www.itiltd.in/careers.php?lan=en",
+      "kind": "notices"
+    },
+    {
+      "name": "India Post Payments Bank",
+      "short": "IPPB",
+      "category": "cpse_other",
+      "relevance": "medium",
+      "careersUrl": "https://ippbonline.bank.in/web/ippb/current-openings",
+      "kind": "notices"
+    },
+    {
       "name": "CSC e-Governance Services India Ltd",
       "short": "CSC SPV",
       "category": "govt_backed_other",
@@ -117,6 +213,950 @@
           "description": "Job_Description"
         }
       }
+    },
+    {
+      "name": "IDBI Bank",
+      "short": "IDBI",
+      "category": "govt_backed_other",
+      "relevance": "medium",
+      "careersUrl": "https://www.idbi.bank.in/idbi-bank-careers-current-openings.aspx",
+      "kind": "notices"
+    },
+    {
+      "name": "NICDC Logistics Data Services Ltd",
+      "short": "NLDSL",
+      "category": "govt_backed_other",
+      "relevance": "medium",
+      "careersUrl": "https://nldsl.in/current_opening.aspx?mpgid=36&pgidtrail=68",
+      "kind": "notices"
+    },
+    {
+      "name": "National Skill Development Corporation",
+      "short": "NSDC",
+      "category": "govt_backed_other",
+      "relevance": "medium",
+      "careersUrl": "https://www.nsdcindia.org/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "NITI Aayog",
+      "short": "NITI",
+      "category": "govt_dept",
+      "relevance": "medium",
+      "careersUrl": "https://www.niti.gov.in/work-niti/vacancy-circular",
+      "kind": "notices"
+    },
+    {
+      "name": "Public Enterprises Selection Board",
+      "short": "PESB",
+      "category": "govt_dept",
+      "relevance": "medium",
+      "careersUrl": "https://pesb.gov.in/en/",
+      "kind": "notices"
+    },
+    {
+      "name": "EdCIL (India) Ltd",
+      "short": "EdCIL",
+      "category": "miniratna",
+      "relevance": "medium",
+      "careersUrl": "https://www.edcilindia.co.in/Careers",
+      "kind": "notices"
+    },
+    {
+      "name": "MSTC Ltd",
+      "short": "MSTC",
+      "category": "miniratna",
+      "relevance": "medium",
+      "careersUrl": "https://www.mstcindia.co.in/MSTC_Careers/",
+      "kind": "notices"
+    },
+    {
+      "name": "Telecommunications Consultants India Ltd",
+      "short": "TCIL",
+      "category": "miniratna",
+      "relevance": "medium",
+      "careersUrl": "https://www.tcil.net.in/",
+      "kind": "notices"
+    },
+    {
+      "name": "Indian Railway Catering and Tourism Corporation Ltd",
+      "short": "IRCTC",
+      "category": "navratna",
+      "relevance": "medium",
+      "careersUrl": "https://www.irctc.com/new-openings.php",
+      "kind": "notices"
+    },
+    {
+      "name": "RailTel Corporation of India Ltd",
+      "short": "RailTel",
+      "category": "navratna",
+      "relevance": "medium",
+      "careersUrl": "https://www.railtel.in/careers.html",
+      "kind": "notices"
+    },
+    {
+      "name": "Bank of Baroda",
+      "short": "BoB",
+      "category": "psb",
+      "relevance": "medium",
+      "careersUrl": "https://bankofbaroda.bank.in/career/current-opportunities",
+      "kind": "notices"
+    },
+    {
+      "name": "Canara Bank",
+      "short": "Canara",
+      "category": "psb",
+      "relevance": "medium",
+      "careersUrl": "https://www.canarabank.bank.in/pages/Recruitment",
+      "kind": "notices"
+    },
+    {
+      "name": "Punjab National Bank",
+      "short": "PNB",
+      "category": "psb",
+      "relevance": "medium",
+      "careersUrl": "https://pnb.bank.in/Recruitments.aspx",
+      "kind": "notices"
+    },
+    {
+      "name": "State Bank of India",
+      "short": "SBI",
+      "category": "psb",
+      "relevance": "medium",
+      "careersUrl": "https://sbi.bank.in/web/careers/current-openings",
+      "kind": "notices"
+    },
+    {
+      "name": "Union Bank of India",
+      "short": "UBI",
+      "category": "psb",
+      "relevance": "medium",
+      "careersUrl": "https://www.unionbankofindia.bank.in/en/common/recruitment",
+      "kind": "notices"
+    },
+    {
+      "name": "Life Insurance Corporation of India",
+      "short": "LIC",
+      "category": "psu_insurer",
+      "relevance": "medium",
+      "careersUrl": "https://licindia.in/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Government e-Marketplace",
+      "short": "GeM",
+      "category": "section8_govt",
+      "relevance": "medium",
+      "careersUrl": "https://gem.gov.in/landing/index/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "National Informatics Centre Services Inc.",
+      "short": "NICSI",
+      "category": "section8_govt",
+      "relevance": "medium",
+      "careersUrl": "https://nicsi.nic.in/nicsi/vacancies/",
+      "kind": "notices"
+    },
+    {
+      "name": "Startup India",
+      "short": "Startup India",
+      "category": "section8_govt",
+      "relevance": "medium",
+      "careersUrl": "https://www.investindia.gov.in/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Export-Import Bank of India",
+      "short": "EXIM",
+      "category": "statutory_body",
+      "relevance": "medium",
+      "careersUrl": "https://www.eximbankindia.in/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "International Financial Services Centres Authority",
+      "short": "IFSCA",
+      "category": "statutory_body",
+      "relevance": "medium",
+      "careersUrl": "https://ifsca.gov.in/Career",
+      "kind": "notices"
+    },
+    {
+      "name": "National Bank for Agriculture and Rural Development",
+      "short": "NABARD",
+      "category": "statutory_body",
+      "relevance": "medium",
+      "careersUrl": "https://www.nabard.org/ftrcontent.aspx?id=660",
+      "kind": "notices"
+    },
+    {
+      "name": "National Bank for Financing Infrastructure and Development",
+      "short": "NaBFID",
+      "category": "statutory_body",
+      "relevance": "medium",
+      "careersUrl": "https://nabfid.org/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Prasar Bharati",
+      "short": "Prasar Bharati",
+      "category": "statutory_body",
+      "relevance": "medium",
+      "careersUrl": "https://prasarbharati.gov.in/pbvacancies/",
+      "kind": "notices"
+    },
+    {
+      "name": "Securities and Exchange Board of India",
+      "short": "SEBI",
+      "category": "statutory_body",
+      "relevance": "medium",
+      "careersUrl": "https://www.sebi.gov.in/sebiweb/about/AboutAction.do?doVacancies=yes",
+      "kind": "notices"
+    },
+    {
+      "name": "Small Industries Development Bank of India",
+      "short": "SIDBI",
+      "category": "statutory_body",
+      "relevance": "medium",
+      "careersUrl": "https://www.sidbi.in/en/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Bhaskaracharya National Institute for Space Applications & Geo-informatics",
+      "short": "BISAG-N",
+      "category": "autonomous_body",
+      "relevance": "low",
+      "careersUrl": "https://bisag-n.gov.in/",
+      "kind": "notices"
+    },
+    {
+      "name": "Advanced Weapons and Equipment India Ltd",
+      "short": "AWEIL",
+      "category": "cpse_other",
+      "relevance": "low",
+      "careersUrl": "https://aweil.in/career?lang=en&section=careers&view=current",
+      "kind": "notices"
+    },
+    {
+      "name": "Brahmaputra Cracker & Polymer Ltd",
+      "short": "BCPL",
+      "category": "cpse_other",
+      "relevance": "low",
+      "careersUrl": "https://bcplonline.co.in/Career/Index",
+      "kind": "notices"
+    },
+    {
+      "name": "Dedicated Freight Corridor Corporation of India Ltd",
+      "short": "DFCCIL",
+      "category": "cpse_other",
+      "relevance": "low",
+      "careersUrl": "https://dfccil.com/Carrer/index?Id=1",
+      "kind": "notices"
+    },
+    {
+      "name": "India Infrastructure Finance Company Ltd",
+      "short": "IIFCL",
+      "category": "cpse_other",
+      "relevance": "low",
+      "careersUrl": "https://www.iifcl.in/Careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Konkan Railway Corporation Ltd",
+      "short": "KRCL",
+      "category": "cpse_other",
+      "relevance": "low",
+      "careersUrl": "https://konkanrailway.com/en/current_notification",
+      "kind": "notices"
+    },
+    {
+      "name": "National Highways & Infrastructure Development Corporation Ltd",
+      "short": "NHIDCL",
+      "category": "cpse_other",
+      "relevance": "low",
+      "careersUrl": "https://nhidcl.com/en/current-jobs",
+      "kind": "notices"
+    },
+    {
+      "name": "NewSpace India Ltd",
+      "short": "NSIL",
+      "category": "cpse_other",
+      "relevance": "low",
+      "careersUrl": "https://www.nsilindia.co.in/career",
+      "kind": "notices"
+    },
+    {
+      "name": "State Trading Corporation of India Ltd",
+      "short": "STC",
+      "category": "cpse_other",
+      "relevance": "low",
+      "careersUrl": "https://stclimited.co.in/content/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "National Industrial Corridor Development Corporation",
+      "short": "NICDC",
+      "category": "govt_backed_other",
+      "relevance": "low",
+      "careersUrl": "https://nicdc.in/careers/nicdc-openings",
+      "kind": "notices"
+    },
+    {
+      "name": "Controller of Certifying Authorities",
+      "short": "CCA",
+      "category": "govt_dept",
+      "relevance": "low",
+      "careersUrl": "https://cca.gov.in/recruitment.html",
+      "kind": "notices"
+    },
+    {
+      "name": "Indian Space Research Organisation",
+      "short": "ISRO",
+      "category": "govt_dept",
+      "relevance": "low",
+      "careersUrl": "https://www.isro.gov.in/Careers.html",
+      "kind": "notices"
+    },
+    {
+      "name": "National Informatics Centre",
+      "short": "NIC",
+      "category": "govt_dept",
+      "relevance": "low",
+      "careersUrl": "https://recruitment.nic.in/",
+      "kind": "notices"
+    },
+    {
+      "name": "Bharat Heavy Electricals Ltd",
+      "short": "BHEL",
+      "category": "maharatna",
+      "relevance": "low",
+      "careersUrl": "https://careers.bhel.in/index.jsp",
+      "kind": "notices"
+    },
+    {
+      "name": "Bharat Petroleum Corporation Ltd",
+      "short": "BPCL",
+      "category": "maharatna",
+      "relevance": "low",
+      "careersUrl": "https://www.bharatpetroleum.in/careers/job-openings",
+      "kind": "notices"
+    },
+    {
+      "name": "Coal India Ltd",
+      "short": "CIL",
+      "category": "maharatna",
+      "relevance": "low",
+      "careersUrl": "https://www.coalindia.in/career-cil/jobs-coal-india/",
+      "kind": "notices"
+    },
+    {
+      "name": "GAIL (India) Ltd",
+      "short": "GAIL",
+      "category": "maharatna",
+      "relevance": "low",
+      "careersUrl": "https://www.gailonline.com/vacancies.html",
+      "kind": "notices"
+    },
+    {
+      "name": "Hindustan Petroleum Corporation Ltd",
+      "short": "HPCL",
+      "category": "maharatna",
+      "relevance": "low",
+      "careersUrl": "https://www.hindustanpetroleum.com/job-openings",
+      "kind": "notices"
+    },
+    {
+      "name": "NTPC Ltd",
+      "short": "NTPC",
+      "category": "maharatna",
+      "relevance": "low",
+      "careersUrl": "https://careers.ntpc.co.in/recruitment/",
+      "kind": "notices"
+    },
+    {
+      "name": "Oil & Natural Gas Corporation Ltd",
+      "short": "ONGC",
+      "category": "maharatna",
+      "relevance": "low",
+      "careersUrl": "https://ongcindia.com/web/eng/career/recruitment-notice",
+      "kind": "notices"
+    },
+    {
+      "name": "Oil India Ltd",
+      "short": "OIL",
+      "category": "maharatna",
+      "relevance": "low",
+      "careersUrl": "https://www.oil-india.com/advertisement-list",
+      "kind": "notices"
+    },
+    {
+      "name": "Power Grid Corporation of India Ltd",
+      "short": "POWERGRID",
+      "category": "maharatna",
+      "relevance": "low",
+      "careersUrl": "https://www.powergrid.in/job-opportunities",
+      "kind": "notices"
+    },
+    {
+      "name": "REC Ltd",
+      "short": "REC",
+      "category": "maharatna",
+      "relevance": "low",
+      "careersUrl": "https://recindia.nic.in/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Steel Authority of India Ltd",
+      "short": "SAIL",
+      "category": "maharatna",
+      "relevance": "low",
+      "careersUrl": "https://sailcareers.com/",
+      "kind": "notices"
+    },
+    {
+      "name": "Airports Authority of India",
+      "short": "AAI",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.aai.aero/en/careers/recruitment",
+      "kind": "notices"
+    },
+    {
+      "name": "Antrix Corporation Ltd",
+      "short": "Antrix",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.antrix.co.in/career",
+      "kind": "notices"
+    },
+    {
+      "name": "Armoured Vehicles Nigam Ltd",
+      "short": "AVNL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://avnl.co.in/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "BEML Ltd",
+      "short": "BEML",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.bemlindia.in/careers/",
+      "kind": "notices"
+    },
+    {
+      "name": "Balmer Lawrie & Co. Ltd",
+      "short": "Balmer Lawrie",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.balmerlawrie.com/careers/current-openings",
+      "kind": "notices"
+    },
+    {
+      "name": "Bharat Dynamics Ltd",
+      "short": "BDL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://bdl-india.in/recruitments",
+      "kind": "notices"
+    },
+    {
+      "name": "Bridge & Roof Co. (India) Ltd",
+      "short": "B&R",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.bridgeroof.co.in/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Broadcast Engineering Consultants India Ltd",
+      "short": "BECIL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.becil.com/vacancies",
+      "kind": "notices"
+    },
+    {
+      "name": "Central Electronics Ltd",
+      "short": "CEL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://celindia.co.in/career-opportunity",
+      "kind": "notices"
+    },
+    {
+      "name": "Cochin Shipyard Ltd",
+      "short": "CSL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://cochinshipyard.in/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Engineering Projects (India) Ltd",
+      "short": "EPIL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://epi.gov.in/career",
+      "kind": "notices"
+    },
+    {
+      "name": "Goa Shipyard Ltd",
+      "short": "GSL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://goashipyard.in/notice-board/career/advertisement",
+      "kind": "notices"
+    },
+    {
+      "name": "HLL Lifecare Ltd",
+      "short": "HLL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.lifecarehll.com/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Hindustan Copper Ltd",
+      "short": "HCL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.hindustancopper.com/Page/Career_new",
+      "kind": "notices"
+    },
+    {
+      "name": "IREL (India) Ltd",
+      "short": "IREL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.irel.co.in/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "India Optel Ltd",
+      "short": "IOL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://indiaoptel.in/",
+      "kind": "notices"
+    },
+    {
+      "name": "India Tourism Development Corporation Ltd",
+      "short": "ITDC",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://itdc.co.in/careers/",
+      "kind": "notices"
+    },
+    {
+      "name": "KIOCL Ltd",
+      "short": "KIOCL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.kioclltd.in/",
+      "kind": "notices"
+    },
+    {
+      "name": "MECON Ltd",
+      "short": "MECON",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.meconlimited.co.in/Career.aspx",
+      "kind": "notices"
+    },
+    {
+      "name": "MMTC Ltd",
+      "short": "MMTC",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://mmtclimited.com/pages/display/29-careers",
+      "kind": "notices"
+    },
+    {
+      "name": "MOIL Ltd",
+      "short": "MOIL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.moil.nic.in/public/career",
+      "kind": "notices"
+    },
+    {
+      "name": "Mineral Exploration and Consultancy Ltd",
+      "short": "MECL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.mecl.co.in/",
+      "kind": "notices"
+    },
+    {
+      "name": "Mishra Dhatu Nigam Ltd",
+      "short": "MIDHANI",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://midhani-india.in/department_hrd/career-at-midhani/",
+      "kind": "notices"
+    },
+    {
+      "name": "Munitions India Ltd",
+      "short": "MIL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://munitionsindia.in/career/",
+      "kind": "notices"
+    },
+    {
+      "name": "National Projects Construction Corporation Ltd",
+      "short": "NPCC",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://npcc.gov.in/",
+      "kind": "notices"
+    },
+    {
+      "name": "National Seeds Corporation Ltd",
+      "short": "NSC",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://indiaseeds.com/current-vacancy",
+      "kind": "notices"
+    },
+    {
+      "name": "National Small Industries Corporation Ltd",
+      "short": "NSIC",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.nsic.co.in/Careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Pawan Hans Ltd",
+      "short": "Pawan Hans",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.pawanhans.co.in/career.aspx",
+      "kind": "notices"
+    },
+    {
+      "name": "Projects & Development India Ltd",
+      "short": "PDIL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://pdilcareer.in/",
+      "kind": "notices"
+    },
+    {
+      "name": "Security Printing & Minting Corporation of India Ltd",
+      "short": "SPMCIL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.spmcil.com/en/",
+      "kind": "notices"
+    },
+    {
+      "name": "THDC India Ltd",
+      "short": "THDC",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://thdc.co.in/career/new-job-opening",
+      "kind": "notices"
+    },
+    {
+      "name": "The Cotton Corporation of India Ltd",
+      "short": "CCI",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://cotcorp.org.in/recruitment",
+      "kind": "notices"
+    },
+    {
+      "name": "WAPCOS Ltd",
+      "short": "WAPCOS",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://www.wapcos.co.in/hindi/career/",
+      "kind": "notices"
+    },
+    {
+      "name": "Yantra India Ltd",
+      "short": "YIL",
+      "category": "miniratna",
+      "relevance": "low",
+      "careersUrl": "https://yantraindia.co.in/en/career",
+      "kind": "notices"
+    },
+    {
+      "name": "Bharat Electronics Ltd",
+      "short": "BEL",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://bel-india.in/job-notifications/",
+      "kind": "notices"
+    },
+    {
+      "name": "Chennai Petroleum Corporation Ltd",
+      "short": "CPCL",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://www.cpcl.co.in/company/people/careers/",
+      "kind": "notices"
+    },
+    {
+      "name": "Engineers India Ltd",
+      "short": "EIL",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://recruitment.eil.co.in/",
+      "kind": "notices"
+    },
+    {
+      "name": "Garden Reach Shipbuilders & Engineers Ltd",
+      "short": "GRSE",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://www.grse.in/career/",
+      "kind": "notices"
+    },
+    {
+      "name": "Housing & Urban Development Corporation Ltd",
+      "short": "HUDCO",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://hudco.org.in/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Indian Railway Finance Corporation Ltd",
+      "short": "IRFC",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://irfc.co.in/active-jobs",
+      "kind": "notices"
+    },
+    {
+      "name": "Indian Renewable Energy Development Agency Ltd",
+      "short": "IREDA",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://www.ireda.in/IredaWebPortal/careers/recruitment-notifications",
+      "kind": "notices"
+    },
+    {
+      "name": "Ircon International Ltd",
+      "short": "IRCON",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://www.ircon.org/hr-career",
+      "kind": "notices"
+    },
+    {
+      "name": "Mahanagar Telephone Nigam Ltd",
+      "short": "MTNL",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://mtnl.in/",
+      "kind": "notices"
+    },
+    {
+      "name": "Mazagon Dock Shipbuilders Ltd",
+      "short": "MDL",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://mazagondock.in/English/career/Career-Executives",
+      "kind": "notices"
+    },
+    {
+      "name": "NBCC (India) Ltd",
+      "short": "NBCC",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://nbccindia.in/webEnglish/jobs",
+      "kind": "notices"
+    },
+    {
+      "name": "NHPC Ltd",
+      "short": "NHPC",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://www.nhpcindia.com/welcome/job",
+      "kind": "notices"
+    },
+    {
+      "name": "National Aluminium Company Ltd",
+      "short": "NALCO",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://nalcoindia.com/career/careers/",
+      "kind": "notices"
+    },
+    {
+      "name": "National Fertilizers Ltd",
+      "short": "NFL",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://www.nationalfertilizers.com/career/",
+      "kind": "notices"
+    },
+    {
+      "name": "Numaligarh Refinery Ltd",
+      "short": "NRL",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://www.nrl.co.in/Career",
+      "kind": "notices"
+    },
+    {
+      "name": "ONGC Videsh Ltd",
+      "short": "OVL",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://ongcvidesh.com/careers/",
+      "kind": "notices"
+    },
+    {
+      "name": "RITES Ltd",
+      "short": "RITES",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://rites.com/Career",
+      "kind": "notices"
+    },
+    {
+      "name": "Rashtriya Chemicals and Fertilizers Ltd",
+      "short": "RCF",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://www.rcfltd.com/hrrecruitment/recruitment-1",
+      "kind": "notices"
+    },
+    {
+      "name": "Rashtriya Ispat Nigam Ltd",
+      "short": "RINL",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://www.vizagsteel.com/myindex.asp?tm=9&url=code/tenders/viewjobads.asp",
+      "kind": "notices"
+    },
+    {
+      "name": "SJVN Ltd",
+      "short": "SJVN",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://sjvn.nic.in/current-job",
+      "kind": "notices"
+    },
+    {
+      "name": "Shipping Corporation of India Ltd",
+      "short": "SCI",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://www.shipindia.com/page/career",
+      "kind": "notices"
+    },
+    {
+      "name": "Solar Energy Corporation of India Ltd",
+      "short": "SECI",
+      "category": "navratna",
+      "relevance": "low",
+      "careersUrl": "https://www.seci.co.in/jobs",
+      "kind": "notices"
+    },
+    {
+      "name": "Central Bank of India",
+      "short": "CBI",
+      "category": "psb",
+      "relevance": "low",
+      "careersUrl": "https://centralbank.bank.in/en/recruitments",
+      "kind": "notices"
+    },
+    {
+      "name": "Indian Overseas Bank",
+      "short": "IOB",
+      "category": "psb",
+      "relevance": "low",
+      "careersUrl": "https://www.iob.bank.in/en/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "Punjab & Sind Bank",
+      "short": "PSB",
+      "category": "psb",
+      "relevance": "low",
+      "careersUrl": "https://punjabandsind.bank.in/content/recruitment",
+      "kind": "notices"
+    },
+    {
+      "name": "UCO Bank",
+      "short": "UCO",
+      "category": "psb",
+      "relevance": "low",
+      "careersUrl": "https://www.uco.bank.in/job-opportunities",
+      "kind": "notices"
+    },
+    {
+      "name": "ECGC Ltd",
+      "short": "ECGC",
+      "category": "psu_insurer",
+      "relevance": "low",
+      "careersUrl": "https://main.ecgc.in/career-opportunities/",
+      "kind": "notices"
+    },
+    {
+      "name": "General Insurance Corporation of India (GIC Re)",
+      "short": "GIC Re",
+      "category": "psu_insurer",
+      "relevance": "low",
+      "careersUrl": "https://www.gicre.in/en/careers",
+      "kind": "notices"
+    },
+    {
+      "name": "National Insurance Co. Ltd",
+      "short": "NICL",
+      "category": "psu_insurer",
+      "relevance": "low",
+      "careersUrl": "https://nationalinsurance.nic.co.in/recruitment",
+      "kind": "notices"
+    },
+    {
+      "name": "The New India Assurance Co. Ltd",
+      "short": "NIACL",
+      "category": "psu_insurer",
+      "relevance": "low",
+      "careersUrl": "https://www.newindia.co.in/recruitment/list",
+      "kind": "notices"
+    },
+    {
+      "name": "United India Insurance Co. Ltd",
+      "short": "UIIC",
+      "category": "psu_insurer",
+      "relevance": "low",
+      "careersUrl": "https://uiic.co.in/web/careers/recruitment",
+      "kind": "notices"
+    },
+    {
+      "name": "Employees' Provident Fund Organisation",
+      "short": "EPFO",
+      "category": "statutory_body",
+      "relevance": "low",
+      "careersUrl": "https://www.epfo.gov.in/recruitments/",
+      "kind": "notices"
+    },
+    {
+      "name": "Employees' State Insurance Corporation",
+      "short": "ESIC",
+      "category": "statutory_body",
+      "relevance": "low",
+      "careersUrl": "https://esic.gov.in/recruitments",
+      "kind": "notices"
+    },
+    {
+      "name": "Insurance Regulatory and Development Authority of India",
+      "short": "IRDAI",
+      "category": "statutory_body",
+      "relevance": "low",
+      "careersUrl": "https://irdai.gov.in/notifications/vacancies",
+      "kind": "notices"
     },
     {
       "name": "National Highways Authority of India",
@@ -144,6 +1184,22 @@
           "description": "body_value"
         }
       }
+    },
+    {
+      "name": "National Housing Bank",
+      "short": "NHB",
+      "category": "statutory_body",
+      "relevance": "low",
+      "careersUrl": "https://nhb.org.in/careers/",
+      "kind": "notices"
+    },
+    {
+      "name": "Telecom Regulatory Authority of India",
+      "short": "TRAI",
+      "category": "statutory_body",
+      "relevance": "low",
+      "careersUrl": "https://www.trai.gov.in/vacancies",
+      "kind": "notices"
     },
     {
       "name": "Bharat Digital job board",

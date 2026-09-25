@@ -24,18 +24,30 @@ const FLAG_LABELS = { age_limit_mentioned: 'Age limit', mba_mentioned: 'MBA aske
 
 const localToday = () => { const d = new Date(); d.setHours(0, 0, 0, 0); return d; };
 const daysUntil = (isoDay) => Math.round((new Date(`${isoDay}T00:00:00`) - localToday()) / DAY_MS);
+// NBBL often posts one role twice: same title + company is one row with a count.
+function groupDuplicates(openings) {
+  const groups = new Map();
+  for (const o of openings) {
+    const key = `${o.title.toLowerCase().replace(/\s+/g, ' ').trim()}|${(o.company || '').toLowerCase()}`;
+    const g = groups.get(key);
+    if (g) g.count++;
+    else groups.set(key, { ...o, count: 1 });
+  }
+  return [...groups.values()];
+}
+
 const byUrgency = (a, b) =>
   (a.deadline ? daysUntil(a.deadline) : 9999) - (b.deadline ? daysUntil(b.deadline) : 9999) ||
   (b.firstSeen || '').localeCompare(a.firstSeen || '');
 
 function useGovtOpenings() {
-  const [state, setState] = useState({ status: 'loading', openings: [] });
+  const [state, setState] = useState({ status: 'loading', openings: [], lastRead: {} });
   useEffect(() => {
     let cancelled = false;
     fetch(GOVT_OPENINGS_URL)
       .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
-      .then(d => { if (!cancelled) setState({ status: 'ready', openings: d.openings || [] }); })
-      .catch(() => { if (!cancelled) setState({ status: 'error', openings: [] }); });
+      .then(d => { if (!cancelled) setState({ status: 'ready', openings: d.openings || [], lastRead: d.lastRead || {} }); })
+      .catch(() => { if (!cancelled) setState({ status: 'error', openings: [], lastRead: {} }); });
     return () => { cancelled = true; };
   }, []);
   return state;
@@ -49,7 +61,12 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
   const [staleFirst, setStaleFirst] = useState(false);
   const [loggedId, setLoggedId] = useState(null);
   const live = useGovtOpenings();
-  const openNow = live.openings.filter(o => !o.deadline || daysUntil(o.deadline) >= 0).sort(byUrgency);
+  const openNow = groupDuplicates(live.openings.filter(o => !o.deadline || daysUntil(o.deadline) >= 0)).sort(byUrgency);
+
+  // An org is covered by the scanner when it (or the portal it's listed on)
+  // was read in the last 2 days. Those don't need a manual weekly check.
+  const autoScanned = (org) => [org.short, org.listedOn].some(k => k && live.lastRead[k] && daysUntil(live.lastRead[k]) >= -2);
+  const manualOrgs = GOVT_ORGS.filter(o => !autoScanned(o));
 
   const logOpening = (o) => {
     addApplication({ company: o.company, role: o.title, platform: `Govt (${o.org})`, link: o.url });
@@ -65,9 +82,10 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
     .filter(o => category === 'all' || o.category === category)
     .filter(o => !highOnly || o.relevance === 'high')
     .filter(o => !q || [o.short, o.name, o.parent, o.location].some(f => f && f.toLowerCase().includes(q)));
-  if (staleFirst) visible.sort((a, b) => (lastChecked(a) || 0) - (lastChecked(b) || 0));
+  // Manual-check orgs first (least recently checked leading), auto-scanned last.
+  if (staleFirst) visible.sort((a, b) => autoScanned(a) - autoScanned(b) || (lastChecked(a) || 0) - (lastChecked(b) || 0));
 
-  const dueCount = GOVT_ORGS.filter(o => !lastChecked(o) || Date.now() - lastChecked(o) > WEEK_MS).length;
+  const dueCount = manualOrgs.filter(o => !lastChecked(o) || Date.now() - lastChecked(o) > WEEK_MS).length;
   const categoryCounts = GOVT_ORGS.reduce((acc, o) => ({ ...acc, [o.category]: (acc[o.category] || 0) + 1 }), {});
 
   const chip = (active) => ({ padding:'7px 14px', borderRadius:'980px', border:`1px solid ${active ? t.accent : t.border}`, background:active ? t.accent : t.cardBg, color:active ? '#fff' : t.textSecondary, fontSize:'12px', fontWeight:'500', cursor:'pointer', whiteSpace:'nowrap' });
@@ -86,7 +104,7 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
             🟢 Open govt product roles
             {live.status === 'ready' && <span style={{ marginLeft:'10px', fontSize:'13px', color:t.textSecondary, fontWeight:'400' }}>{openNow.length} open</span>}
           </h3>
-          <span style={{ fontSize:'11px', color:t.textTertiary }}>Auto-scanned every 6h: NPCI, RBIH, DIC/NeGD, CSC, NHAI, Bharat Digital</span>
+          <span style={{ fontSize:'11px', color:t.textTertiary }}>Auto-scanned every 6h{live.status === 'ready' ? ` · ${GOVT_ORGS.length - manualOrgs.length} of ${GOVT_ORGS.length} orgs below covered` : ''}</span>
         </div>
         {live.status === 'loading' && <div style={{ fontSize:'13px', color:t.textSecondary }}>Loading live openings…</div>}
         {live.status === 'error' && <div style={{ fontSize:'13px', color:t.textSecondary }}>Couldn't load live openings right now. The org directory below still works.</div>}
@@ -101,6 +119,7 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
                   <div style={{ flex:'1 1 260px', minWidth:0 }}>
                     <div style={{ display:'flex', alignItems:'center', gap:'6px', flexWrap:'wrap', marginBottom:'3px' }}>
                       <span style={{ fontSize:'14px', fontWeight:'600' }}>{o.title}</span>
+                      {o.count > 1 && <span style={{ ...badge(t.badgeText, t.badgeBg), fontSize:'9px' }}>×{o.count} OPENINGS</span>}
                       {isNew && <span style={{ ...badge('#fff', t.accent), fontSize:'9px' }}>NEW</span>}
                       {left !== null && <span style={{ ...badge('#fff', left <= 3 ? t.error : t.warning), fontSize:'9px' }}>{left === 0 ? 'CLOSES TODAY' : `CLOSES IN ${left}D`}</span>}
                       {(o.flags || []).filter(f => FLAG_LABELS[f]).map(f => <span key={f} style={{ ...badge(t.badgeText, t.badgeBg), fontSize:'9px' }}>{FLAG_LABELS[f]}</span>)}
@@ -163,7 +182,7 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
           <span style={{ marginLeft:'10px', fontSize:'13px', color:t.textSecondary, fontWeight:'400' }}>{visible.length} shown</span>
         </h3>
         <span style={{ fontSize:'12px', color:dueCount ? t.warning : t.success }}>
-          {dueCount ? `${dueCount} not checked in the last 7 days` : 'All checked this week ✓'}
+          {dueCount ? `${dueCount} manual-check org${dueCount === 1 ? '' : 's'} not checked in 7 days` : 'All manual-check orgs checked this week ✓'}
         </span>
       </div>
 
@@ -189,7 +208,8 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
         <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(290px,1fr))', gap:'12px' }}>
           {visible.map(o => {
             const checked = lastChecked(o);
-            const stale = !checked || Date.now() - checked > WEEK_MS;
+            const auto = autoScanned(o);
+            const stale = !auto && (!checked || Date.now() - checked > WEEK_MS);
             return (
               <div key={o.id} style={{ ...card, padding:'16px 18px', display:'flex', flexDirection:'column', gap:'8px' }}>
                 <div style={{ display:'flex', alignItems:'center', gap:'8px', flexWrap:'wrap' }}>
@@ -207,8 +227,8 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
                     style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}>Careers <ExternalLink size={11}/></a>
                   <a href={orgPmSearchUrl(o)} target="_blank" rel="noopener noreferrer" title={`Google this org's site for product / digital openings`}
                     style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}><Search size={11}/> Search site</a>
-                  <span style={{ fontSize:'10px', color:stale ? t.warning : t.textTertiary, marginLeft:'auto' }}>
-                    {checked ? `Checked ${timeAgo(checked)}` : 'Not checked yet'}
+                  <span style={{ fontSize:'10px', color:stale ? t.warning : auto ? t.success : t.textTertiary, marginLeft:'auto' }} title={auto ? 'Read by the background scanner; new product roles show up above and in your alerts' : 'The scanner can\'t read this site (PDF-only, JS-only or blocks non-Indian traffic): check it yourself'}>
+                    {auto ? '✓ Auto-scanned' : checked ? `Checked ${timeAgo(checked)}` : 'Check manually'}
                   </span>
                 </div>
               </div>
