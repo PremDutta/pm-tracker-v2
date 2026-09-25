@@ -268,7 +268,7 @@ async function alertNewJobs(newJobs) {
   let text = `🎯 ${newJobs.length} new PM job${newJobs.length === 1 ? '' : 's'} found:\n\n${lines.join('\n\n')}`;
   if (ordered.length > shown.length) text += `\n\n…and ${ordered.length - shown.length} more.`;
   if (shown.some(j => j.id.startsWith('govt-'))) text += '\n\nAll open govt roles: https://pm-tracker-v2.vercel.app (Govt & PSU tab)';
-  await sendAlert(text);
+  return sendAlert(text);
 }
 
 async function loadSeen() {
@@ -332,11 +332,12 @@ async function main() {
   const newJobs = allJobs.filter(j => j.id && !seenSet.has(j.id) && !(j.id.startsWith('govt-notice-') && baselineNow.has(j.org)));
   if (baselineNow.size) console.log(`Govt careers pages with a backlog on first read (recorded, no alert): ${[...baselineNow].join(', ')}`);
 
+  let delivered = 0;
   if (seen.firstRun) {
     console.log('First run — recording current jobs as a baseline, not sending an alert for all of them.');
   } else if (newJobs.length > 0) {
     console.log(`${newJobs.length} new job(s) since last run.`);
-    await alertNewJobs(newJobs);
+    delivered = await alertNewJobs(newJobs);
   } else {
     console.log('No new jobs since last run.');
   }
@@ -347,7 +348,11 @@ async function main() {
   // handful of jobs instead of real history.
   // Every careers page read this run is baselined, including ones with no
   // matching notice yet, so the first real notice on it later does alert.
-  await saveSeen([...new Set([...seen.ids, ...allJobs.map(j => j.id)])], new Set([...baselined, ...govtResult.noticePagesRead]));
+  // Jobs whose alert reached no channel (secrets missing, API down) stay
+  // unseen, so they alert on the first run that can deliver them.
+  const undelivered = new Set(!seen.firstRun && delivered === 0 ? newJobs.map(j => j.id) : []);
+  if (undelivered.size) console.log(`${undelivered.size} new job(s) kept pending: no alert channel delivered this run.`);
+  await saveSeen([...new Set([...seen.ids, ...allJobs.map(j => j.id)])].filter(id => !undelivered.has(id)), new Set([...baselined, ...govtResult.noticePagesRead]));
 }
 
 main().catch(err => {
