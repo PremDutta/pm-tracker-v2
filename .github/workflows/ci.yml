@@ -19,4 +19,5 @@ jobs:
 
       - run: npm ci
       - run: CI=true npm test -- --watchAll=false
+      - run: node --test agent/govt.test.mjs
       - run: CI=true npm run build

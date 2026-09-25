@@ -10,6 +10,7 @@
 // Sends one Telegram digest of anything flagged; silent when everything's
 // clean (no daily noise for a check that's expected to almost always pass).
 import { PLATFORMS } from '../src/data/platforms.js';
+import { GOVT_ORGS } from '../src/data/govtOrgsList.js';
 import { sendTelegram } from './notify.mjs';
 
 const NOISE_STATUSES = new Set([401, 403, 405, 429, 503]);
@@ -18,6 +19,7 @@ const SAMPLE_LOCATION = 'Bangalore';
 // Several boards reject requests with no/generic User-Agent outright (their
 // own bot-defense, unrelated to whether the page itself is up) — a real
 // browser UA cuts down on that class of false positive.
+const CERT_ERROR_CODES = /CERT|UNABLE_TO_GET_ISSUER|UNABLE_TO_VERIFY_LEAF|SELF_SIGNED|ERR_TLS_CERT/;
 const BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
 
 async function checkPlatform(id, platform) {
@@ -28,32 +30,73 @@ async function checkPlatform(id, platform) {
     return { id, name: platform.name, url: null, problem: `getUrl() threw: ${err.message}` };
   }
 
-  try {
-    const res = await fetch(url, { redirect: 'follow', headers: { 'User-Agent': BROWSER_UA }, signal: AbortSignal.timeout(15000) });
-    if (res.status === 404 || res.status === 410) {
-      return { id, name: platform.name, url, problem: `HTTP ${res.status}` };
+  let lastError;
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const res = await fetch(url, { redirect: 'follow', headers: { 'User-Agent': BROWSER_UA }, signal: AbortSignal.timeout(20000) });
+      if (res.status === 404 || res.status === 410) {
+        return { id, name: platform.name, url, problem: `HTTP ${res.status}` };
+      }
+      if (!res.ok && !NOISE_STATUSES.has(res.status)) {
+        return { id, name: platform.name, url, problem: `HTTP ${res.status}` };
+      }
+      return null;
+    } catch (err) {
+      // Many Indian govt sites serve an incomplete certificate chain that
+      // Node rejects but browsers repair. The server answered, so the link isn't dead.
+      if (CERT_ERROR_CODES.test(err.cause?.code || '')) return null;
+      lastError = err;
     }
-    if (!res.ok && !NOISE_STATUSES.has(res.status)) {
-      return { id, name: platform.name, url, problem: `HTTP ${res.status}` };
-    }
-    return null;
-  } catch (err) {
-    return { id, name: platform.name, url, problem: `Fetch failed: ${err.message}` };
   }
+  const code = lastError.cause?.code || lastError.message;
+  // Several govt sites (UIDAI, RailTel, PESB...) time out or refuse connections
+  // from outside India, and GitHub's runners are in the US. For those pages only
+  // a missing domain means dead; anything else is logged, not alerted.
+  if (platform.geoBlockable && !/ENOTFOUND/.test(code)) {
+    console.log(`  ~ ${platform.name}: unreachable from this runner (${code}), likely geo-blocked; not flagged`);
+    return null;
+  }
+  return { id, name: platform.name, url, problem: `Fetch failed: ${code}` };
 }
 
+// A few at a time: ~75 simultaneous requests from one runner get throttled or
+// dropped by the slower govt servers, which then look "broken".
+async function mapLimited(items, limit, fn) {
+  const results = new Array(items.length);
+  let next = 0;
+  await Promise.all(Array.from({ length: limit }, async () => {
+    while (next < items.length) {
+      const i = next++;
+      results[i] = await fn(items[i]);
+    }
+  }));
+  return results;
+}
+
+// Govt careers pages, checked the same way as a platform. Several orgs share
+// one portal (NPCI's board, DIC's ORA), so each URL is requested once; sites
+// the registry marks as rejecting all bots are skipped.
+const govtTargets = () => {
+  const byUrl = new Map();
+  for (const o of GOVT_ORGS) {
+    if (o.blocksBots || byUrl.has(o.careersUrl)) continue;
+    byUrl.set(o.careersUrl, [`govt-${o.id}`, { name: `${o.short} careers (govt)`, getUrl: () => o.careersUrl, geoBlockable: true }]);
+  }
+  return [...byUrl.values()];
+};
+
 async function main() {
-  const entries = Object.entries(PLATFORMS);
-  const results = await Promise.all(entries.map(([id, platform]) => checkPlatform(id, platform)));
+  const entries = [...Object.entries(PLATFORMS), ...govtTargets()];
+  const results = await mapLimited(entries, 8, ([id, platform]) => checkPlatform(id, platform));
   const broken = results.filter(Boolean);
 
-  console.log(`Checked ${entries.length} platforms — ${broken.length} possibly broken.`);
+  console.log(`Checked ${entries.length} platforms + govt careers pages — ${broken.length} possibly broken.`);
   broken.forEach(b => console.log(`  ✗ ${b.name}: ${b.problem} (${b.url || 'n/a'})`));
 
   if (broken.length === 0) return;
 
   const lines = broken.map(b => `• ${b.name}: ${b.problem}${b.url ? `\n  ${b.url}` : ''}`);
-  const text = `⚠️ Weekly link check: ${broken.length} platform${broken.length === 1 ? '' : 's'} may be broken:\n\n${lines.join('\n\n')}\n\nSome of these can be false alarms (a site blocking automated requests, not an actual dead link) — worth a manual click before editing src/data/platforms.js.`;
+  const text = `⚠️ Weekly link check: ${broken.length} platform${broken.length === 1 ? '' : 's'} may be broken:\n\n${lines.join('\n\n')}\n\nSome of these can be false alarms (a site blocking automated requests, not an actual dead link) — worth a manual click before editing src/data/platforms.js (job platforms) or the india-govt-search registry + scripts/sync-govt-registry.mjs (govt careers pages).`;
   await sendTelegram(text);
 }
 

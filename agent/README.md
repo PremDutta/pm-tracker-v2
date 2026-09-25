@@ -12,7 +12,12 @@ Pings you on Telegram only when something new shows up. No server, no cost, no s
 1. **Adzuna + JSearch** — general aggregators, searches "Product Manager" broadly across India.
 2. **Direct ATS feeds** (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee) for the specific companies you list in `agent/companies.json`. This is the same technique TrueUp's core data layer uses — these APIs are public and unauthenticated *because companies deliberately expose them* to be embedded on their own careers pages, unlike LinkedIn/Naukri, which explicitly prohibit automated access (we hit real 403s from those this session; every ATS endpoint here was instead verified live, returning real job data, before being wired in).
 
-3. **Government / PSU boards** with a public JSON feed: NPCI (including NBBL and NIPL), CSC e-Governance, and the Bharat Digital public-interest tech board. Govt orgs rarely title roles "Product Manager", so these use a looser filter: any title containing "product", minus design/marketing/sales/support (see `isGovtPmTitle` in `scan-jobs.mjs`). Govt roles are listed first in each Telegram alert. Most other PSUs only publish PDF notices, so they're covered by the app's **Govt & PSU** tab instead.
+3. **Government / PSU sources with structured data** (`govt.mjs`): NPCI (including NBBL and NIPL), RBI Innovation Hub, Digital India Corporation's recruitment portal (NeGD, IndiaAI, Bhashini...), CSC e-Governance, NHAI, and the Bharat Digital public-interest tech board. Which sources exist and how their fields map is data in `govt-sources.json`, generated from the `india-govt-search` registry by `scripts/sync-govt-registry.mjs`, so adding a source is a registry edit plus a re-sync, not new code.
+   - Govt orgs rarely title roles "Product Manager", so these use a looser filter: any title with "product", minus design/marketing/sales/support and apprentice/trainee/fresher schemes.
+   - Eligibility rules are the same as the ai-job-search digest: deputation / serving-govt-employee-only roles are dropped; age limit, MBA, contract and corrigendum are shown as flags. Alerts include the last date when the source has one, and govt roles are listed first.
+   - Every run writes the current openings to `govt-openings.json`, which the app's **Govt & PSU** tab reads live from GitHub. A source that fails in a run keeps its last-known openings instead of vanishing.
+   - Most PSUs only publish PDF notices; those aren't scanned here. They're covered by the app's org directory (7-day "last checked" tracking) and the ai-job-search digest.
+   - Tests: `node --test agent/govt.test.mjs` (also run in CI).
 
 **Does not cover Naukri, IIMJobs, Hirist, Foundit, or Shine** — no legal API exists for those. Keep checking those through the app's own platform grid (it now tracks "last checked" per platform for exactly this reason).
 
@@ -38,6 +43,8 @@ Only postings whose title matches a product-management pattern (`Product Manager
 ## Weekly link health-check (`check-links.mjs`)
 
 The app's platform grid (`src/data/platforms.js`) hardcodes 28 search-URL builders — sites redesign their URL structure without notice, quietly turning a working link into a 404. This job requests every platform's generated URL once a week and flags only unambiguous breakage: a DNS/connection failure, or an HTTP 404/410.
+
+It also checks the careers page of every org in the app's Govt & PSU directory. Many Indian govt sites serve incomplete TLS certificate chains (browsers repair these, Node doesn't) and several time out or refuse connections from outside India, where GitHub's runners are, so for govt pages only a missing domain or a 404/410 is flagged; the rest is logged, not alerted. Requests go out 8 at a time with one retry.
 
 It deliberately ignores 401/403/405/429/503 — several boards (LinkedIn, Naukri, Glassdoor...) block plain automated requests outright even though the site is completely fine for a real visitor, so treating those as "broken" would just be weekly false-alarm noise. Silent when everything's clean; one Telegram digest listing anything flagged, so a genuine break gets caught before a user clicks a dead link — not a stale example someone happens to notice months later.
 

@@ -14,7 +14,15 @@ beforeEach(() => {
     configurable: true,
   });
   window.open = jest.fn();
+  // The Govt & PSU tab loads live openings from GitHub; tests never hit the network.
+  global.fetch = jest.fn(() => Promise.resolve({ ok: true, json: () => Promise.resolve({ openings: [] }) }));
 });
+
+const isoDaysFromToday = (n) => {
+  const d = new Date();
+  d.setDate(d.getDate() + n);
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+};
 
 test('renders the home page without crashing', () => {
   render(<App />);
@@ -42,6 +50,39 @@ test('Govt & PSU: filters orgs, and opening a careers page records it as checked
   expect(meta['govt-npci'].lastChecked).toBeGreaterThan(0);
   expect(screen.getByText('Checked just now')).toBeInTheDocument();
   expect(screen.getByText('59 not checked in the last 7 days')).toBeInTheDocument();
+});
+
+test('Govt & PSU: shows live openings by deadline, hides closed ones, and logs one to the Tracker', async () => {
+  global.fetch = jest.fn(() => Promise.resolve({ ok: true, json: () => Promise.resolve({ openings: [
+    { id: 'govt-npci-1', title: 'Lead Product Management', company: 'NPCI Bharat BillPay Ltd', location: 'Mumbai', url: 'https://careers.npci.org.in/jobs/1', deadline: null, flags: [], org: 'NPCI', firstSeen: '2026-01-01' },
+    { id: 'govt-dic-ora-7', title: 'Technical Product Manager', company: 'NeGD', location: 'Delhi', url: 'https://ora.digitalindiacorporation.in/?job=7', deadline: isoDaysFromToday(2), flags: ['mba_mentioned', 'contract'], org: 'DIC ORA', firstSeen: isoDaysFromToday(0) },
+    { id: 'govt-rbih-old', title: 'Product Manager (closed)', company: 'RBIH', location: 'Bengaluru', url: 'https://rbihub.in/career/old/', deadline: isoDaysFromToday(-1), flags: [], org: 'RBIH', firstSeen: '2026-01-01' },
+  ] }) }));
+  const user = userEvent.setup();
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: /Govt & PSU/i }));
+
+  expect(await screen.findByText('2 open')).toBeInTheDocument();
+  expect(screen.queryByText('Product Manager (closed)')).not.toBeInTheDocument();
+  // Soonest deadline first, with its urgency, NEW and eligibility badges
+  const logButtons = screen.getAllByRole('button', { name: /^Log application:/ });
+  expect(logButtons[0]).toHaveAccessibleName('Log application: Technical Product Manager');
+  expect(screen.getByText('CLOSES IN 2D')).toBeInTheDocument();
+  expect(screen.getByText('NEW')).toBeInTheDocument();
+  expect(screen.getByText('MBA asked')).toBeInTheDocument();
+
+  await user.click(logButtons[0]);
+  const apps = JSON.parse(window.localStorage.getItem('pmt_applications'));
+  expect(apps[0]).toMatchObject({ company: 'NeGD', role: 'Technical Product Manager', platform: 'Govt (DIC ORA)', link: 'https://ora.digitalindiacorporation.in/?job=7' });
+});
+
+test('Govt & PSU: a failed live-openings fetch still leaves the directory usable', async () => {
+  global.fetch = jest.fn(() => Promise.reject(new Error('offline')));
+  const user = userEvent.setup();
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: /Govt & PSU/i }));
+  expect(await screen.findByText(/Couldn't load live openings/)).toBeInTheDocument();
+  expect(screen.getByRole('link', { name: 'NPCI careers page' })).toBeInTheDocument();
 });
 
 test('Tracker: add an application, see it under Applied, move it to Interview', async () => {

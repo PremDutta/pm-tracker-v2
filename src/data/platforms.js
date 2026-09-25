@@ -29,7 +29,7 @@ export const PLATFORMS = {
   shine:        { name:'Shine',           icon:'✨', color:'#FF9800', region:'india',  priority:7,               getUrl:(r,l)=>`https://www.shine.com/job-search/${r.toLowerCase().replace(/\s+/g,'-')}-jobs-in-${l.toLowerCase()}`, description:'Mid-level roles, clean UX' },
   hirist:       { name:'Hirist',          icon:'💻', color:'#2ECC71', region:'india',  priority:8,               getUrl:(r)=>`https://www.hirist.tech/search/${r.toLowerCase().replace(/\s+/g,'-')}-jobs`, description:'Tech & digital focused' },
   hirect:       { name:'Hirect',          icon:'💬', color:'#9B59B6', region:'india',  priority:9, badge:'Chat',   getUrl:()=>`https://hirect.in/`, description:'Chat directly with founders' },
-  apna:         { name:'Apna',            icon:'👥', color:'#1ABC9C', region:'india',  priority:10,              getUrl:(r,l)=>`https://apna.co/jobs/title_${r.toLowerCase().replace(/\s+/g,'_')}-jobs-in-${(l||'india').toLowerCase()}`, description:'Vernacular job discovery' },
+  apna:         { name:'Apna',            icon:'👥', color:'#1ABC9C', region:'india',  priority:10,              getUrl:(r,l)=>`https://apna.co/jobs?search=true&text=${encodeURIComponent(r)}${l?`&location_name=${encodeURIComponent(l)}`:''}` /* old /jobs/title_... paths 404 since Sep 2026 */, description:'Vernacular job discovery' },
   // Global aggregators
   indeed:       { name:'Indeed',          icon:'🔍', color:'#2164F3', region:'global', priority:11,              getUrl:(r,l,o)=>{
     // Was hardcoded to the India subdomain (in.indeed.com) + l=India even under Remote/International.

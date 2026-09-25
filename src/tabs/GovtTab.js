@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
-import { ExternalLink, Search } from 'lucide-react';
-import { GOVT_ORGS, GOVT_CATEGORIES, GOVT_BOARDS, GOVT_SEARCHES, googleUrl, orgPmSearchUrl } from '../data/govtOrgs';
-import { getPlatformMeta, markPlatformChecked, timeAgo } from '../storage';
+import React, { useState, useEffect } from 'react';
+import { ExternalLink, Search, ClipboardList, Check } from 'lucide-react';
+import { GOVT_ORGS, GOVT_CATEGORIES, GOVT_BOARDS, GOVT_SEARCHES, GOVT_REGISTRY_VERIFIED, googleUrl, orgPmSearchUrl } from '../data/govtOrgs';
+import { getPlatformMeta, markPlatformChecked, addApplication, timeAgo } from '../storage';
 
 const GOVT_TIPS = [
   { icon:'🏷️', text:'Titles differ: look for Consultant, Specialist Officer, Manager (Digital), or Lead / Senior Associate - Product.' },
@@ -14,6 +14,32 @@ const GOVT_TIPS = [
 // grid, namespaced so a govt org id can never collide with a platform id.
 const metaKey = (org) => `govt-${org.id}`;
 const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+const DAY_MS = 24 * 60 * 60 * 1000;
+
+// Written every 6 hours by the background scanner (agent/govt-openings.json),
+// read straight from GitHub so it's fresh without redeploying the app.
+// REACT_APP_GOVT_OPENINGS_URL overrides it for local previews.
+export const GOVT_OPENINGS_URL = process.env.REACT_APP_GOVT_OPENINGS_URL || 'https://raw.githubusercontent.com/PremDutta/pm-tracker-v2/main/agent/govt-openings.json';
+const FLAG_LABELS = { age_limit_mentioned: 'Age limit', mba_mentioned: 'MBA asked', contract: 'Contract', corrigendum: 'Corrigendum' };
+
+const localToday = () => { const d = new Date(); d.setHours(0, 0, 0, 0); return d; };
+const daysUntil = (isoDay) => Math.round((new Date(`${isoDay}T00:00:00`) - localToday()) / DAY_MS);
+const byUrgency = (a, b) =>
+  (a.deadline ? daysUntil(a.deadline) : 9999) - (b.deadline ? daysUntil(b.deadline) : 9999) ||
+  (b.firstSeen || '').localeCompare(a.firstSeen || '');
+
+function useGovtOpenings() {
+  const [state, setState] = useState({ status: 'loading', openings: [] });
+  useEffect(() => {
+    let cancelled = false;
+    fetch(GOVT_OPENINGS_URL)
+      .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+      .then(d => { if (!cancelled) setState({ status: 'ready', openings: d.openings || [] }); })
+      .catch(() => { if (!cancelled) setState({ status: 'error', openings: [] }); });
+    return () => { cancelled = true; };
+  }, []);
+  return state;
+}
 
 export default function GovtTab({ t, card, btnSecondary, badge }) {
   const [meta, setMeta] = useState(() => getPlatformMeta());
@@ -21,6 +47,15 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
   const [category, setCategory] = useState('all');
   const [highOnly, setHighOnly] = useState(false);
   const [staleFirst, setStaleFirst] = useState(false);
+  const [loggedId, setLoggedId] = useState(null);
+  const live = useGovtOpenings();
+  const openNow = live.openings.filter(o => !o.deadline || daysUntil(o.deadline) >= 0).sort(byUrgency);
+
+  const logOpening = (o) => {
+    addApplication({ company: o.company, role: o.title, platform: `Govt (${o.org})`, link: o.url });
+    setLoggedId(o.id);
+    setTimeout(() => setLoggedId(null), 2000);
+  };
 
   const trackCheck = (org) => setMeta(markPlatformChecked(metaKey(org)));
   const lastChecked = (org) => meta[metaKey(org)]?.lastChecked;
@@ -42,6 +77,45 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
       <div style={{ textAlign:'center', marginBottom:'32px' }}>
         <h2 style={{ fontSize:'34px', fontWeight:'700', letterSpacing:'-0.02em', marginBottom:'10px' }}>Government & PSU</h2>
         <p style={{ fontSize:'16px', color:t.textSecondary }}>Product roles at {GOVT_ORGS.length} government, PSU and government-backed orgs, from NPCI and ONDC to PSU banks</p>
+      </div>
+
+      {/* Live openings from the scanner */}
+      <div style={{ ...card, marginBottom:'20px' }}>
+        <div style={{ display:'flex', alignItems:'baseline', justifyContent:'space-between', flexWrap:'wrap', gap:'8px', marginBottom:'14px' }}>
+          <h3 style={{ margin:0, fontSize:'17px', fontWeight:'600' }}>
+            🟢 Open govt product roles
+            {live.status === 'ready' && <span style={{ marginLeft:'10px', fontSize:'13px', color:t.textSecondary, fontWeight:'400' }}>{openNow.length} open</span>}
+          </h3>
+          <span style={{ fontSize:'11px', color:t.textTertiary }}>Auto-scanned every 6h: NPCI, RBIH, DIC/NeGD, CSC, NHAI, Bharat Digital</span>
+        </div>
+        {live.status === 'loading' && <div style={{ fontSize:'13px', color:t.textSecondary }}>Loading live openings…</div>}
+        {live.status === 'error' && <div style={{ fontSize:'13px', color:t.textSecondary }}>Couldn't load live openings right now. The org directory below still works.</div>}
+        {live.status === 'ready' && openNow.length === 0 && <div style={{ fontSize:'13px', color:t.textSecondary }}>No open product roles on the scanned boards right now. Check the PDF-only orgs below.</div>}
+        {openNow.length > 0 && (
+          <div style={{ display:'grid', gap:'8px' }}>
+            {openNow.map(o => {
+              const left = o.deadline ? daysUntil(o.deadline) : null;
+              const isNew = o.firstSeen && daysUntil(o.firstSeen) >= -3;
+              return (
+                <div key={o.id} style={{ display:'flex', alignItems:'center', gap:'12px', padding:'12px 14px', background:t.inlineBg, borderRadius:'12px', flexWrap:'wrap' }}>
+                  <div style={{ flex:'1 1 260px', minWidth:0 }}>
+                    <div style={{ display:'flex', alignItems:'center', gap:'6px', flexWrap:'wrap', marginBottom:'3px' }}>
+                      <span style={{ fontSize:'14px', fontWeight:'600' }}>{o.title}</span>
+                      {isNew && <span style={{ ...badge('#fff', t.accent), fontSize:'9px' }}>NEW</span>}
+                      {left !== null && <span style={{ ...badge('#fff', left <= 3 ? t.error : t.warning), fontSize:'9px' }}>{left === 0 ? 'CLOSES TODAY' : `CLOSES IN ${left}D`}</span>}
+                      {(o.flags || []).filter(f => FLAG_LABELS[f]).map(f => <span key={f} style={{ ...badge(t.badgeText, t.badgeBg), fontSize:'9px' }}>{FLAG_LABELS[f]}</span>)}
+                    </div>
+                    <div style={{ fontSize:'12px', color:t.textSecondary }}>{[o.company, o.location, o.deadline && `last date ${o.deadline}`].filter(Boolean).join(' · ')}</div>
+                  </div>
+                  <a href={o.url} target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}>Apply <ExternalLink size={11}/></a>
+                  <button onClick={()=>logOpening(o)} aria-label={`Log application: ${o.title}`} style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}>
+                    {loggedId === o.id ? <><Check size={12}/> Logged!</> : <><ClipboardList size={12}/> Log</>}
+                  </button>
+                </div>
+              );
+            })}
+          </div>
+        )}
       </div>
 
       {/* How govt hiring differs */}
@@ -144,7 +218,7 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
       )}
 
       <p style={{ fontSize:'11px', color:t.textTertiary, marginTop:'20px', textAlign:'center' }}>
-        Careers links verified 2026-09-13. Some government sites block automated checks but work in a browser.
+        Org list from the india-govt-search registry (verified {GOVT_REGISTRY_VERIFIED}); links re-checked weekly. Some govt sites block automated checks but work in a browser.
       </p>
     </div>
   );

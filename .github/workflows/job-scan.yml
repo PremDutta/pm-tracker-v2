@@ -7,7 +7,7 @@ on:
   workflow_dispatch: {} # lets you trigger a run manually from the Actions tab to test
 
 permissions:
-  contents: write # needed to commit the updated agent/seen-jobs.json back
+  contents: write # needed to commit agent/seen-jobs.json + agent/govt-openings.json back
 
 jobs:
   scan:
@@ -28,10 +28,10 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: node agent/scan-jobs.mjs
 
-      - name: Commit updated seen-jobs.json
+      - name: Commit updated seen-jobs.json + govt-openings.json
         run: |
           git config user.name "pm-job-scan-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add agent/seen-jobs.json
+          git add agent/seen-jobs.json agent/govt-openings.json
           git diff --staged --quiet || git commit -m "Update seen jobs [skip ci]"
           git push
