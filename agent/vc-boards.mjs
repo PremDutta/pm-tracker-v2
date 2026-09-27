@@ -22,7 +22,8 @@ async function fetchGetro(board, isPm) {
   for (let page = 0; page < MAX_PAGES; page++) {
     const res = await fetch(`https://api.getro.com/api/v2/collections/${board.collection}/search/jobs`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json', 'User-Agent': BROWSER_UA },
+      // Getro answers 406 without an explicit JSON Accept header.
+      headers: { 'Content-Type': 'application/json', Accept: 'application/json', 'User-Agent': BROWSER_UA },
       body: JSON.stringify({ hitsPerPage: 20, page, filters: { searchable_locations: ['India'] }, query: 'product manager' }),
       signal: AbortSignal.timeout(30000),
     });
