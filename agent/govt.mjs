@@ -119,6 +119,7 @@ export function recordToJob(item, cfg, source) {
 
   const rawId = valueText(getPath(item, f.id));
   let url = valueText(getPath(item, f.url));
+  if (url && cfg.url_prefix && url.startsWith('/')) url = cfg.url_prefix + url; // relative links, e.g. KSUM's "/career/<slug>"
   if (!/^https?:\/\//i.test(url)) url = cfg.url_template ? fillTemplate(cfg.url_template, item) : '';
   // No per-job page: point at the careers page, made unique per job for dedup.
   if (!url) url = `${source.careersUrl}${source.careersUrl.includes('?') ? '&' : '?'}job=${encodeURIComponent(rawId || title)}`;
@@ -238,6 +239,25 @@ async function fetchSourceRecords(source) {
   return list;
 }
 
+// Pages that list each role as an email-application link (ONDC):
+// mailto:careers@x.org?subject=Application - <title>.
+export function mailtoRoles(html, source) {
+  const roles = new Map();
+  for (const m of html.matchAll(/href=["']mailto:[^"'?]+\?subject=([^"'&]+)/gi)) {
+    let subject;
+    try { subject = decodeURIComponent(decodeEntities(m[1]).replace(/\+/g, ' ')); } catch { continue; }
+    const title = subject.replace(/^\s*(application|applying|apply)\s*(for|-|:|–)?\s*/i, '').trim();
+    if (!title || /open application|general application/i.test(title) || roles.has(title)) continue;
+    roles.set(title, {
+      id: `govt-${source.short.toLowerCase().replace(/[^a-z0-9]+/g, '-')}-${title.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`,
+      title, company: source.name, location: source.location || '',
+      url: source.careersUrl, date: null, deadline: null, flags: [],
+      org: source.short, category: source.category, source: `🏛️ Govt (${source.short} careers page)`,
+    });
+  }
+  return [...roles.values()];
+}
+
 /** Alertable notices from a careers page (plus any extra listing pages). */
 async function fetchNoticeSource(source) {
   const pages = [source.careersUrl, ...(source.extraUrls || [])];
@@ -296,6 +316,8 @@ export async function fetchGovtOpenings() {
       let jobs;
       if (source.kind === 'notices') {
         jobs = await fetchNoticeSource(source);
+      } else if (source.kind === 'mailto') {
+        jobs = mailtoRoles(await fetchText(source.careersUrl), source).filter(j => isGovtPmTitle(j.title));
       } else {
         const all = jobsFromRecords(await fetchSourceRecords(source), source);
         jobs = all.filter(j => isGovtPmTitle(j.title) && !j.flags.includes('deputation_or_govt_employees_only'));

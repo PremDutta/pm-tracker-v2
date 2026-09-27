@@ -119,3 +119,31 @@ export const timeAgo = (timestamp) => {
   const days = Math.floor(hours / 24);
   return `${days}d ago`;
 };
+
+// ─── Network: people you know and where they work now ───────────────────────
+// Warm referrals from ex-colleagues convert far better than cold applications,
+// so companies where you already know someone get flagged across the app.
+const NETWORK_KEY = 'pmt_network';
+export const getNetwork = () => safeGet(NETWORK_KEY, []);
+export const setNetwork = (people) => safeSet(NETWORK_KEY, people);
+
+/** "Name, Company, how you know them" per line -> [{ name, company, note }]. */
+export const parseNetwork = (text) => text.split('\n')
+  .map(line => line.split(',').map(s => s.trim()))
+  .filter(([name, company]) => name && company)
+  .map(([name, company, ...rest]) => ({ name, company, note: rest.join(', ') }));
+
+// "NPCI Bharat BillPay Ltd" and "npci bharat billpay" should match; so should
+// "Razorpay Software Pvt Ltd" and "Razorpay".
+const normalizeCompany = (name) => (name || '').toLowerCase()
+  .replace(/\b(private|pvt|limited|ltd|llp|inc|corp|corporation|co|company|technologies|technology|tech|solutions|services|software|india|labs)\b\.?/g, ' ')
+  .replace(/[^a-z0-9]+/g, ' ').trim();
+
+export const contactsAt = (company, network = getNetwork()) => {
+  const target = normalizeCompany(company);
+  if (!target) return [];
+  return network.filter(p => {
+    const theirs = normalizeCompany(p.company);
+    return theirs && (theirs === target || target.startsWith(theirs + ' ') || theirs.startsWith(target + ' '));
+  });
+};

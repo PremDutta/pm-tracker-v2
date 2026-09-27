@@ -1,8 +1,9 @@
 import React from 'react';
 import { ExternalLink, Star } from 'lucide-react';
 import { INTL_STRATEGIES } from '../data/strategies';
+import { fillRole } from '../data/roles';
 
-export default function IntlTab({ t, card, btnSecondary }) {
+export default function IntlTab({ t, card, btnSecondary, role }) {
   return (
     <div>
       <div style={{ textAlign:'center', marginBottom:'40px' }}>
@@ -16,7 +17,7 @@ export default function IntlTab({ t, card, btnSecondary }) {
             <div>
               <h4 style={{ margin:'0 0 12px', fontSize:'12px', color:t.textSecondary, textTransform:'uppercase', letterSpacing:'0.5px' }}>Platforms</h4>
               <div style={{ display:'flex', flexDirection:'column', gap:'8px' }}>
-                {data.platforms.map((p,i) => <a key={i} href={p.url} target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, justifyContent:'flex-start', fontSize:'13px' }}>{p.name} <ExternalLink size={12}/></a>)}
+                {data.platforms.map((p,i) => <a key={i} href={fillRole(p.url, role)} target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, justifyContent:'flex-start', fontSize:'13px' }}>{p.name} <ExternalLink size={12}/></a>)}
               </div>
             </div>
             <div>

@@ -1,10 +1,11 @@
 import React from 'react';
 import { FIRST_APPLY } from '../data/firstApply';
+import { fillRole } from '../data/roles';
 
 const CHECKLIST = [
   'Set LinkedIn job alert → "As it happens" (not daily)',
   'Set Naukri job alert with same role & city filters',
-  'Create Google Alert: "product manager" "we are hiring" india',
+  'Create Google Alert: {ROLE} "we are hiring" india',
   'Enable push notifications on LinkedIn + Naukri mobile apps',
   'Prepare 2 resume versions: startup-focused & enterprise-focused',
   'Draft 1 cover email template — personalize just the first 2 lines fast',
@@ -12,7 +13,7 @@ const CHECKLIST = [
   'Connect with 5 PMs at your target companies on LinkedIn this week',
 ];
 
-export default function FirstApplyTab({ t, card }) {
+export default function FirstApplyTab({ t, card, role }) {
   return (
     <div>
       <div style={{ textAlign:'center', marginBottom:'40px' }}>
@@ -41,7 +42,7 @@ export default function FirstApplyTab({ t, card }) {
           {CHECKLIST.map((item,i) => (
             <div key={i} style={{ display:'flex', alignItems:'flex-start', gap:'12px', padding:'12px 16px', background:t.inlineBg, borderRadius:'12px', border:`1px solid ${t.border}` }}>
               <div style={{ width:'22px', height:'22px', borderRadius:'6px', border:`2px solid ${t.border}`, flexShrink:0, marginTop:'1px' }}/>
-              <span style={{ fontSize:'14px', lineHeight:'1.5' }}>{item}</span>
+              <span style={{ fontSize:'14px', lineHeight:'1.5' }}>{fillRole(item, role)}</span>
             </div>
           ))}
         </div>

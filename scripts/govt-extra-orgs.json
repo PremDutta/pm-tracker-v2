@@ -1,0 +1,46 @@
+{
+  "_comment": "Orgs merged on top of the india-govt-search registry by sync-govt-registry.mjs (same fields as registry orgs). An entry whose `short` matches a registry org replaces it. Each source verified live 2026-09-27.",
+  "orgs": [
+    {
+      "name": "Open Network for Digital Commerce", "short": "ONDC", "category": "section8_govt", "parent": "DPIIT (Section 8, govt-promoted)",
+      "pm_relevance": "high", "careers_url": "https://ondc.org/pages/careers.html", "location": "New Delhi",
+      "fetch_method": "mailto_list",
+      "notes": "Static page; each role is a mailto:careers@ondc.org?subject=Application - <title> link. Its Zoho board exists but is empty."
+    },
+    {
+      "name": "eGov Foundation", "short": "eGov", "category": "dpi", "parent": "Digital public infrastructure (non-profit)",
+      "pm_relevance": "high", "careers_url": "https://careers.egov.org.in/", "location": "Bengaluru",
+      "fetch_method": "json_api",
+      "api": { "url": "https://egov.zohorecruit.in/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite", "list": "data",
+               "fields": { "id": "id", "title": "Posting_Title", "url": "$url", "date": "Date_Opened", "location": "City" } }
+    },
+    {
+      "name": "Wadhwani AI", "short": "Wadhwani AI", "category": "dpi", "parent": "Public-interest AI (non-profit, govt programmes)",
+      "pm_relevance": "high", "careers_url": "https://wadhwaniai.zohorecruit.in/jobs/Careers", "location": "New Delhi",
+      "fetch_method": "json_api",
+      "api": { "url": "https://wadhwaniai.zohorecruit.in/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite", "list": "data",
+               "fields": { "id": "id", "title": "Posting_Title", "url": "$url", "date": "Date_Opened", "location": "City" } }
+    },
+    {
+      "name": "CivicDataLab", "short": "CivicDataLab", "category": "dpi", "parent": "Civic tech / open data (non-profit)",
+      "pm_relevance": "medium", "careers_url": "https://jobs.civicdatalab.in/",
+      "fetch_method": "json_api",
+      "api": { "url": "https://civicdatalab.zohorecruit.in/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite", "list": "data",
+               "fields": { "id": "id", "title": "Posting_Title", "url": "$url", "date": "Date_Opened", "location": "City" } }
+    },
+    {
+      "name": "T-Hub", "short": "T-Hub", "category": "state_govt", "parent": "Government of Telangana",
+      "pm_relevance": "medium", "careers_url": "https://t-hub.zohorecruit.com/jobs/Careers", "location": "Hyderabad",
+      "fetch_method": "json_api",
+      "api": { "url": "https://t-hub.zohorecruit.com/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite", "list": "data",
+               "fields": { "id": "id", "title": "Posting_Title", "url": "$url", "date": "Date_Opened", "location": "City" } }
+    },
+    {
+      "name": "Kerala Startup Mission", "short": "KSUM", "category": "state_govt", "parent": "Government of Kerala",
+      "pm_relevance": "medium", "careers_url": "https://startupmission.kerala.gov.in/career", "location": "Thiruvananthapuram",
+      "fetch_method": "json_api",
+      "api": { "url": "https://startupmission.kerala.gov.in/api/public/career", "list": "data", "url_prefix": "https://startupmission.kerala.gov.in",
+               "fields": { "id": "slug", "title": "name", "url": "url", "deadline": "closing" } }
+    }
+  ]
+}

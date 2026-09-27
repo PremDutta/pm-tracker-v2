@@ -29,6 +29,9 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { sendAlert } from './notify.mjs';
 import { fetchGovtOpenings } from './govt.mjs';
+import { updateAtsSignals, saveSignals } from './signals.mjs';
+import { fetchFundingSignals } from './funding.mjs';
+import { fetchVcBoards } from './vc-boards.mjs';
 
 const AGENT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const SEEN_FILE = path.join(AGENT_DIR, 'seen-jobs.json');
@@ -205,6 +208,58 @@ async function fetchRecruitee(company) {
   }));
 }
 
+// ─── Indian ATS platforms (most Indian startups use these, not Greenhouse) ───
+// All verified live 2026-09-27.
+
+// Zoho Recruit: GET https://{slug}.zohorecruit.{in|com}/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite
+// -> { data: [{ id, Posting_Title, City, Country, $url }] }. `domain` defaults to .in.
+async function fetchZoho(company) {
+  const res = await fetch(`https://${company.slug}.zohorecruit.${company.domain || 'in'}/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  return (data.data || []).map(j => ({
+    id: `zoho-${company.slug}-${j.id}`,
+    title: j.Posting_Title,
+    company: company.name,
+    location: [j.City, j.Country].filter(Boolean).join(', '),
+    url: j['$url'],
+    source: `Zoho Recruit (${company.name})`,
+  }));
+}
+
+// Keka: GET https://{slug}.keka.com/careers/api/jobs/default/active
+// -> [{ id, title, jobLocations:[{ city, countryName }], publishedOn }]
+async function fetchKeka(company) {
+  const res = await fetch(`https://${company.slug}.keka.com/careers/api/jobs/default/active`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  return (Array.isArray(data) ? data : []).map(j => ({
+    id: `keka-${company.slug}-${j.id}`,
+    title: j.title,
+    company: company.name,
+    location: (j.jobLocations || []).map(l => l.city || l.countryName).filter(Boolean).join(', '),
+    url: `https://${company.slug}.keka.com/careers/jobdetails/${j.id}`,
+    source: `Keka (${company.name})`,
+  }));
+}
+
+// Freshteam: GET https://{slug}.freshteam.com/hire/widgets/jobs.json
+// -> { jobs: [{ id, title, url, branch_id, status, deleted }], branches: [{ id, location }] }
+async function fetchFreshteam(company) {
+  const res = await fetch(`https://${company.slug}.freshteam.com/hire/widgets/jobs.json`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  const branches = new Map((data.branches || []).map(b => [b.id, b.location]));
+  return (data.jobs || []).filter(j => j.status === 2 && !j.deleted).map(j => ({
+    id: `freshteam-${company.slug}-${j.id}`,
+    title: (j.title || '').trim(),
+    company: company.name,
+    location: branches.get(j.branch_id) || (j.remote ? 'Remote' : ''),
+    url: j.url,
+    source: `Freshteam (${company.name})`,
+  }));
+}
+
 const ATS_FETCHERS = {
   greenhouse: fetchGreenhouse,
   lever: fetchLever,
@@ -212,11 +267,17 @@ const ATS_FETCHERS = {
   smartrecruiters: fetchSmartRecruiters,
   workable: fetchWorkable,
   recruitee: fetchRecruitee,
+  zoho: fetchZoho,
+  keka: fetchKeka,
+  freshteam: fetchFreshteam,
 };
 
+// Returns { pmJobs, boards }: the PM postings, plus every company board read
+// successfully this run (all roles), which the hiring-signal checks use.
 async function fetchCompanyATS() {
   const companies = await loadCompanies();
-  if (companies.length === 0) return [];
+  if (companies.length === 0) return { pmJobs: [], boards: [] };
+  const boards = [];
 
   const results = await Promise.all(companies.map(async (company) => {
     const fetcher = ATS_FETCHERS[company.ats];
@@ -225,15 +286,16 @@ async function fetchCompanyATS() {
       return [];
     }
     try {
-      const jobs = await fetcher(company);
-      return jobs.filter(j => j.title && PM_TITLE_REGEX.test(j.title));
+      const jobs = (await fetcher(company)).filter(j => j.title);
+      boards.push({ company: company.name, jobs });
+      return jobs.filter(j => PM_TITLE_REGEX.test(j.title));
     } catch (err) {
       console.error(`${company.name} (${company.ats}) fetch failed:`, err.message);
       return [];
     }
   }));
 
-  return results.flat();
+  return { pmJobs: results.flat(), boards };
 }
 
 const FLAG_LABELS = { age_limit_mentioned: 'age limit', mba_mentioned: 'MBA asked', contract: 'contract', corrigendum: 'corrigendum' };
@@ -259,14 +321,17 @@ function groupDuplicates(jobs) {
   return [...groups.values()];
 }
 
-async function alertNewJobs(newJobs) {
+async function alertNewJobs(newJobs, signals = []) {
+  const reposted = new Set(signals.filter(s => s.type === 'reopened').map(s => s.id));
   // Govt roles first: they're rarer, and must never fall below the 15-item cut.
   const grouped = groupDuplicates(newJobs);
   const ordered = [...grouped.filter(j => j.id.startsWith('govt-')), ...grouped.filter(j => !j.id.startsWith('govt-'))];
   const shown = ordered.slice(0, 15);
-  const lines = shown.map(j => `• ${j.title} — ${j.company} (${j.location || 'India'})${j.count > 1 ? ` ×${j.count} openings` : ''}${govtNote(j)}\n  ${j.url}\n  [${j.source}]`);
+  const lines = shown.map(j => `• ${reposted.has(j.id) ? '🔁 REPOSTED (first hire fell through, move fast): ' : ''}${j.title} — ${j.company} (${j.location || 'India'})${j.count > 1 ? ` ×${j.count} openings` : ''}${govtNote(j)}\n  ${j.url}\n  [${j.source}]`);
   let text = `🎯 ${newJobs.length} new PM job${newJobs.length === 1 ? '' : 's'} found:\n\n${lines.join('\n\n')}`;
   if (ordered.length > shown.length) text += `\n\n…and ${ordered.length - shown.length} more.`;
+  const spikes = signals.filter(s => s.type === 'eng_spike' || (s.type === 'funding' && s.watched)).slice(0, 5);
+  if (spikes.length) text += `\n\n🔭 Hiring signals (PM roles likely soon):\n${spikes.map(s => s.type === 'funding' ? `• ${s.company} just raised: ${s.title}` : `• ${s.company}: ${s.detail}`).join('\n')}`;
   if (shown.some(j => j.id.startsWith('govt-'))) text += '\n\nAll open govt roles: https://pm-tracker-v2.vercel.app (Govt & PSU tab)';
   return sendAlert(text);
 }
@@ -313,10 +378,22 @@ async function saveGovtOpenings({ jobs, failed, readOk }) {
 }
 
 async function main() {
-  const [adzuna, jsearch, companyATS, govtResult] = await Promise.all([fetchAdzuna(), fetchJSearch(), fetchCompanyATS(), fetchGovtOpenings()]);
+  const isPm = (title) => PM_TITLE_REGEX.test(title);
+  const [adzuna, jsearch, atsResult, govtResult, vcResult, fundingSignals] = await Promise.all([
+    fetchAdzuna(), fetchJSearch(), fetchCompanyATS(), fetchGovtOpenings(), fetchVcBoards(isPm), fetchFundingSignals(),
+  ]);
+  const vc = vcResult.jobs;
+  const companyATS = atsResult.pmJobs;
   const govt = await saveGovtOpenings(govtResult);
-  const allJobs = [...adzuna, ...jsearch, ...companyATS, ...govt];
-  console.log(`Fetched ${adzuna.length} from Adzuna, ${jsearch.length} from JSearch, ${companyATS.length} from company ATS feeds, ${govt.length} from govt/PSU sources (${allJobs.length} total).`);
+  const today = new Date().toISOString().slice(0, 10);
+  // Funding news is shown for every raise in the app, but only raises at companies in
+  // companies.json make it into the phone alert.
+  const watched = new Set((await loadCompanies()).map(c => c.name.toLowerCase()));
+  const atsSignals = [...await updateAtsSignals(atsResult.boards, isPm, today), ...fundingSignals.map(s => ({ ...s, ...(watched.has(s.company.toLowerCase()) && { watched: true }) }))];
+  await saveSignals(atsSignals, today);
+  if (atsSignals.length) console.log(`Hiring signals: ${atsSignals.length} (${atsSignals.filter(s => s.type !== 'funding').map(s => `${s.type} @ ${s.company}`).join(', ') || 'funding news only'})`);
+  const allJobs = [...adzuna, ...jsearch, ...companyATS, ...govt, ...vc];
+  console.log(`Fetched ${adzuna.length} from Adzuna, ${jsearch.length} from JSearch, ${companyATS.length} from company ATS feeds, ${govt.length} from govt/PSU sources, ${vc.length} from VC portfolio boards (${allJobs.length} total).`);
 
   const seen = await loadSeen();
   const seenSet = new Set(seen.ids);
@@ -328,16 +405,21 @@ async function main() {
   // with the notice filter this strict, one or two matches are worth an alert.
   const baselined = new Set(seen.baselinedOrgs);
   const noticeCount = (org) => govt.filter(j => j.org === org && j.id.startsWith('govt-notice-')).length;
-  const baselineNow = new Set(govtResult.noticePagesRead.filter(org => !baselined.has(org) && noticeCount(org) > 3));
-  const newJobs = allJobs.filter(j => j.id && !seenSet.has(j.id) && !(j.id.startsWith('govt-notice-') && baselineNow.has(j.org)));
-  if (baselineNow.size) console.log(`Govt careers pages with a backlog on first read (recorded, no alert): ${[...baselineNow].join(', ')}`);
+  const vcCount = (key) => vc.filter(j => j.baselineKey === key).length;
+  const baselineNow = new Set([
+    ...govtResult.noticePagesRead.filter(org => !baselined.has(org) && noticeCount(org) > 3),
+    ...vcResult.readOk.filter(key => !baselined.has(key) && vcCount(key) > 3),   // VC boards list dozens of PM roles on first read
+  ]);
+  const inBaseline = (j) => (j.id.startsWith('govt-notice-') && baselineNow.has(j.org)) || (j.baselineKey && baselineNow.has(j.baselineKey));
+  const newJobs = allJobs.filter(j => j.id && !seenSet.has(j.id) && !inBaseline(j));
+  if (baselineNow.size) console.log(`Sources with a backlog on first read (recorded, no alert): ${[...baselineNow].join(', ')}`);
 
   let delivered = 0;
   if (seen.firstRun) {
     console.log('First run — recording current jobs as a baseline, not sending an alert for all of them.');
   } else if (newJobs.length > 0) {
     console.log(`${newJobs.length} new job(s) since last run.`);
-    delivered = await alertNewJobs(newJobs);
+    delivered = await alertNewJobs(newJobs, atsSignals);
   } else {
     console.log('No new jobs since last run.');
   }
@@ -352,7 +434,7 @@ async function main() {
   // unseen, so they alert on the first run that can deliver them.
   const undelivered = new Set(!seen.firstRun && delivered === 0 ? newJobs.map(j => j.id) : []);
   if (undelivered.size) console.log(`${undelivered.size} new job(s) kept pending: no alert channel delivered this run.`);
-  await saveSeen([...new Set([...seen.ids, ...allJobs.map(j => j.id)])].filter(id => !undelivered.has(id)), new Set([...baselined, ...govtResult.noticePagesRead]));
+  await saveSeen([...new Set([...seen.ids, ...allJobs.map(j => j.id)])].filter(id => !undelivered.has(id)), new Set([...baselined, ...govtResult.noticePagesRead, ...vcResult.readOk]));
 }
 
 main().catch(err => {

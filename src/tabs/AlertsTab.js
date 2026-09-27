@@ -1,8 +1,9 @@
 import React from 'react';
 import { Bell, ExternalLink, Star } from 'lucide-react';
 import { ALERT_TIPS } from '../data/alertTips';
+import { fillRole } from '../data/roles';
 
-export default function AlertsTab({ t, theme, card, btnPrimary }) {
+export default function AlertsTab({ t, theme, card, btnPrimary, role }) {
   return (
     <div>
       <div style={{ textAlign:'center', marginBottom:'40px' }}>
@@ -10,7 +11,7 @@ export default function AlertsTab({ t, theme, card, btnPrimary }) {
         <p style={{ fontSize:'16px', color:t.textSecondary, maxWidth:'520px', margin:'0 auto' }}>Set up these 6 alert channels so new PM jobs come to you — be in the first 10 applicants automatically.</p>
       </div>
       <div style={{ display:'grid', gap:'14px', marginBottom:'48px' }}>
-        {ALERT_TIPS.map((a,i) => (
+        {ALERT_TIPS.map(tip => ({ ...tip, desc: fillRole(tip.desc, role), tip: fillRole(tip.tip, role), url: fillRole(tip.url, role) })).map((a,i) => (
           <div key={i} style={{ ...card, display:'flex', alignItems:'flex-start', gap:'20px', flexWrap:'wrap' }}>
             <span style={{ fontSize:'32px', flexShrink:0 }}>{a.icon}</span>
             <div style={{ flex:1, minWidth:'200px' }}>

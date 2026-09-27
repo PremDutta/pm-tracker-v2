@@ -16,6 +16,8 @@ export const GOVT_CATEGORIES = {
   cpse_other:        'Other CPSE',
   psb:               'Public sector bank',
   psu_insurer:       'PSU insurer',
+  dpi:               'Digital public infra',
+  state_govt:        'State govt / mission',
 };
 
 // Boards that aggregate government / public-interest openings. Each URL was
@@ -33,7 +35,7 @@ export const GOVT_BOARDS = [
 // say "Product Manager": the same job is posted as Consultant, Specialist
 // Officer, Manager (Digital), or Lead / Senior Associate - Product.
 export const GOVT_SEARCHES = [
-  { title:'Product roles on gov.in / nic.in', query:'"product manager" OR "product management" (site:gov.in OR site:nic.in)' },
+  { title:'Product roles on gov.in / nic.in', query:'({ROLE} OR "product management") (site:gov.in OR site:nic.in)' },
   { title:'Consultant (Product / Digital)',   query:'("consultant" OR "senior consultant") ("product" OR "digital") (site:gov.in OR site:nic.in) "last date"' },
   { title:'PSU bank specialist officers',     query:'"specialist officer" ("product" OR "digital banking") (site:bank.in OR site:sbi.co.in) recruitment' },
   { title:'PSU lateral hiring: digital',      query:'"lateral" ("product" OR "digital") (PSU OR "public sector") recruitment notification' },

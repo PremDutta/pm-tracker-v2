@@ -1,9 +1,12 @@
-import React from 'react';
-import { Briefcase, Lightbulb, MapPin, Bell, MessageSquare, Globe, Zap, ArrowRight, Award } from 'lucide-react';
+import React, { useState } from 'react';
+import { Briefcase, Lightbulb, MapPin, Bell, MessageSquare, Globe, Zap, ArrowRight, Award, Sparkles } from 'lucide-react';
+import { GOOGLE_HACKS } from '../data/googleHacks';
+import { recentFeatures } from '../data/whatsNew';
+import NewBadge from '../components/NewBadge';
 
 const STATS = [
   { n:'28+', label:'Job Platforms', icon: Briefcase, gradientKey:'gradient1' },
-  { n:'18',  label:'Search Hacks',  icon: Lightbulb, gradientKey:'gradient5' },
+  { n:String(GOOGLE_HACKS.length), label:'Search Hacks', icon: Lightbulb, gradientKey:'gradient5' },
   { n:'12',  label:'Indian Cities', icon: MapPin,     gradientKey:'gradient4' },
   { n:'6',   label:'Alert Systems', icon: Bell,        gradientKey:'gradient3' },
   { n:'10+', label:'Templates',     icon: MessageSquare, gradientKey:'gradient2' },
@@ -11,11 +14,13 @@ const STATS = [
 ];
 
 const FEATURES = [
-  { title:'Application Tracker', desc:'Track every application through Applied, Screening, Interview, Offer. New.', icon:'📋', tab:'tracker', gradientKey:'gradient2', badge:'NEW' },
-  { title:'Target Company Watchlist', desc:'Track specific companies with recruiter search + auto-drafted outreach. New.', icon:'🏢', tab:'watchlist', gradientKey:'gradient4', badge:'NEW' },
-  { title:'Resume ↔ JD Match',  desc:'Paste a resume and JD, see missing keywords instantly. New.', icon:'📄', tab:'resumematch', gradientKey:'gradient3', badge:'NEW' },
+  { title:'Hiring Signals', desc:'Reposted PM roles, engineering spikes and fresh funding: spot roles before they are posted.', icon:'🔭', tab:'signals', gradientKey:'gradient5' },
+  { title:'Govt & PSU Jobs', desc:'Live product roles at NPCI, RBIH, NeGD, PSU banks and 130+ PSUs, auto-scanned every 6 hours.', icon:'🏛️', tab:'govt', gradientKey:'gradient3' },
+  { title:'Application Tracker', desc:'Track every application through Applied, Screening, Interview, Offer.', icon:'📋', tab:'tracker', gradientKey:'gradient2' },
+  { title:'Target Company Watchlist', desc:'Track specific companies with recruiter search + auto-drafted outreach.', icon:'🏢', tab:'watchlist', gradientKey:'gradient4' },
+  { title:'Resume ↔ JD Match',  desc:'Paste a resume and JD, see missing keywords instantly.', icon:'📄', tab:'resumematch', gradientKey:'gradient3' },
   { title:'All Job Platforms', desc:'28 boards — Indian, global, remote, startup. Sorted newest first.', icon:'💼', tab:'jobs', gradientKey:'gradient1' },
-  { title:'Google Hacks',       desc:'18 secret queries to find unlisted jobs in ATS and direct career pages.', icon:'🔍', tab:'hacks', gradientKey:'gradient5' },
+  { title:'Google Hacks',       desc:`${GOOGLE_HACKS.length} queries to find unlisted jobs, hidden posts and hiring signals before boards do.`, icon:'🔍', tab:'hacks', gradientKey:'gradient5' },
   { title:'Alert Setup',        desc:'Set up 6 real-time alert systems so new jobs reach YOU first.', icon:'🔔', tab:'alerts', gradientKey:'gradient3' },
   { title:'Be First to Apply',  desc:'Step-by-step strategy to be in the top 5 applicants every time.', icon:'⚡', tab:'firstapply', gradientKey:'gradient2' },
   { title:'Remote & International', desc:'Remote boards, IST-friendly companies, US/UK/Canada/Singapore.', icon:'🌍', tab:'remote', gradientKey:'gradient4' },
@@ -29,6 +34,8 @@ export default function HomeTab({
   openMultiple, getQuickLaunchUrls, isOpening,
 }) {
   const filterOpts = { freshness: selectedFreshness, experience: selectedExperience };
+  const [showAllNew, setShowAllNew] = useState(false);
+  const news = recentFeatures();
 
   const openAllIndia = () => {
     openMultiple(getQuickLaunchUrls('india', selectedRole, selectedLocation, filterOpts));
@@ -55,6 +62,28 @@ export default function HomeTab({
         </div>
       </section>
 
+      {/* What's new */}
+      {news.length > 0 && (
+        <section style={{ ...card, marginBottom:'40px' }}>
+          <h2 style={{ margin:'0 0 14px', fontSize:'18px', fontWeight:'600', display:'flex', alignItems:'center', gap:'8px' }}><Sparkles size={18} style={{ color:t.success }}/> What's new</h2>
+          <div style={{ display:'grid', gap:'8px' }}>
+            {(showAllNew ? news : news.slice(0, 5)).map(f => (
+              <button key={f.id} onClick={()=>setActiveTab(f.tab)} style={{ display:'flex', alignItems:'center', gap:'10px', padding:'10px 14px', background:t.inlineBg, border:'none', borderRadius:'12px', color:t.text, cursor:'pointer', textAlign:'left', flexWrap:'wrap' }}>
+                <NewBadge id={f.id} t={t} />
+                <span style={{ fontSize:'14px', fontWeight:'600' }}>{f.title}</span>
+                {f.desc && <span style={{ fontSize:'12px', color:t.textSecondary, flex:'1 1 240px' }}>{f.desc}</span>}
+                <span style={{ fontSize:'11px', color:t.textTertiary, marginLeft:'auto' }}>{f.date}</span>
+              </button>
+            ))}
+          </div>
+          {news.length > 5 && (
+            <button onClick={()=>setShowAllNew(v=>!v)} style={{ ...btnSecondary, marginTop:'10px', padding:'7px 14px', fontSize:'12px' }}>
+              {showAllNew ? 'Show less' : `Show all ${news.length} updates`}
+            </button>
+          )}
+        </section>
+      )}
+
       {/* Stats */}
       <section style={{ display:'grid', gridTemplateColumns:'repeat(auto-fit,minmax(180px,1fr))', gap:'16px', marginBottom:'72px' }}>
         {STATS.map((s,i) => {
@@ -76,7 +105,7 @@ export default function HomeTab({
             <button key={i} onClick={()=>setActiveTab(f.tab)} style={{ ...card, textAlign:'left', cursor:'pointer', opacity:isLoaded?1:0, transform:isLoaded?'translateY(0)':'translateY(20px)', transition:`all 0.6s cubic-bezier(0.25,0.1,0.25,1) ${i*0.08+0.2}s` }}>
               <div style={{ display:'flex', alignItems:'center', justifyContent:'space-between', marginBottom:'16px' }}>
                 <div style={{ width:'48px', height:'48px', borderRadius:'14px', background:f.gradient || t[f.gradientKey], display:'flex', alignItems:'center', justifyContent:'center', fontSize:'22px' }}>{f.icon}</div>
-                {f.badge && <span style={badge(t.success, t.name==='dark'?'rgba(48,209,88,0.15)':'rgba(52,199,89,0.1)')}>{f.badge}</span>}
+                <NewBadge id={`tab:${f.tab}`} t={t} style={{ fontSize:'10px', padding:'3px 9px' }} />
               </div>
               <h3 style={{ margin:'0 0 8px', fontSize:'18px', fontWeight:'600' }}>{f.title}</h3>
               <p style={{ margin:'0 0 16px', fontSize:'14px', color:t.textSecondary, lineHeight:'1.6' }}>{f.desc}</p>

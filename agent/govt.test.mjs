@@ -100,3 +100,65 @@ test('WhatsApp chunking splits on lines and keeps every line', () => {
   assert.ok(chunks.length > 1 && chunks.every(c => c.length <= 500));
   assert.equal(chunks.join('\n'), text);
 });
+
+// ─── Hiring signals from company boards ─────────────────────────────────────
+import { computeSignals, normTitle } from './signals.mjs';
+
+const isPm = (t) => /product manager/i.test(t);
+const board = (company, jobs) => ({ company, jobs: jobs.map(([id, title]) => ({ id, title, url: `https://jobs.example.com/${id}` })) });
+const run = (history, boards, day) => computeSignals(history, boards, isPm, day);
+
+test('reopened: a PM title that disappeared comes back under a new id', () => {
+  let h = { companies: {} };
+  ({ history: h } = run(h, [board('Acme', [['1', 'Senior Product Manager (Bengaluru)']])], '2026-09-01'));
+  ({ history: h } = run(h, [board('Acme', [])], '2026-09-05'));                       // closed
+  const { newSignals } = run(h, [board('Acme', [['2', 'Senior Product Manager (Remote)']])], '2026-09-20');
+  assert.equal(newSignals.length, 1);
+  assert.equal(newSignals[0].type, 'reopened');
+  assert.equal(newSignals[0].id, '2');
+});
+
+test('reopened: not raised for a role still open, a first sighting, or distinct titles', () => {
+  let h = { companies: {} };
+  ({ history: h } = run(h, [board('Acme', [['1', 'Product Manager - Payments']])], '2026-09-01'));
+  let r = run(h, [board('Acme', [['1', 'Product Manager - Payments'], ['3', 'Product Manager - Growth']])], '2026-09-02');
+  assert.deepEqual(r.newSignals, []);
+  assert.notEqual(normTitle('Product Manager - Payments'), normTitle('Product Manager - Growth'));
+});
+
+test('eng spike: needs 5+ days of history, fires once per day', () => {
+  let h = { companies: {} };
+  const eng = (n) => Array.from({ length: n }, (_, i) => [`e${n}-${i}`, `Software Engineer ${i}`]);
+  for (const d of ['2026-09-01', '2026-09-02', '2026-09-03', '2026-09-04']) ({ history: h } = run(h, [board('Acme', eng(4))], d));
+  assert.deepEqual(run(h, [board('Acme', eng(20))], '2026-09-05').newSignals, []);   // only 4 earlier days
+  ({ history: h } = run(h, [board('Acme', eng(4))], '2026-09-05'));
+  const first = run(h, [board('Acme', eng(12))], '2026-09-06');
+  assert.equal(first.newSignals[0]?.type, 'eng_spike');
+  assert.deepEqual(run(first.history, [board('Acme', eng(12))], '2026-09-06').newSignals, []); // same day rerun
+});
+
+// ─── Funding headlines + ONDC-style mailto listings ────────────────────────
+import { companyFromHeadline } from './funding.mjs';
+import { mailtoRoles } from './govt.mjs';
+
+test('funding: company names from real headlines; non-raises skipped', () => {
+  const cases = {
+    'Enterprise AI startup Ema raises $77 Mn in Series B led by Creaegis': 'Ema',
+    'Sauce leads seed round in preventive pain care brand betterhood': 'betterhood',
+    'Fintech and brokerage startup Definedge raises Rs 22 Cr in pre-Series A': 'Definedge',
+    'Exclusive: Drivn’s Indian entity raises Rs 45 Cr from Avaana Capital': 'Drivn',
+    'Exclusive: Disha (formerly Curelink) raises Series A led by General Catalyst': 'Disha',
+    'PhonePe enters UAE, secures IPA from Central Bank': null,
+    'Akamai lands $11.6B cloud computing deal with Anthropic': null,
+    'Aequs To Raise Rs 500 Cr Via Preferential Issue': null,
+  };
+  for (const [headline, want] of Object.entries(cases)) assert.equal(companyFromHeadline(headline), want, headline);
+});
+
+test('mailto listings: role titles from application subjects', () => {
+  const html = `<a href="mailto:careers@ondc.org?subject=Application%20-%20SVP%20Product%20(Product%20Head)">Apply</a>
+    <a href="mailto:careers@ondc.org?subject=Application%20-%20Open%20Application">Write to us</a>
+    <a href="mailto:careers@ondc.org?subject=Application%20-%20Product%20Lead%20%2F%20Principal%20Product%20Manager">Apply</a>`;
+  const roles = mailtoRoles(html, { name: 'ONDC', short: 'ONDC', careersUrl: 'https://ondc.org/pages/careers.html', category: 'section8_govt' });
+  assert.deepEqual(roles.map(r => r.title), ['SVP Product (Product Head)', 'Product Lead / Principal Product Manager']);
+});

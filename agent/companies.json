@@ -26,5 +26,16 @@
   { "name": "Postman", "ats": "greenhouse", "slug": "postman" },
   { "name": "Groww", "ats": "greenhouse", "slug": "groww" },
   { "name": "CRED", "ats": "lever", "slug": "cred" },
-  { "name": "Meesho", "ats": "lever", "slug": "meesho" }
+  { "name": "Meesho", "ats": "lever", "slug": "meesho" },
+
+  { "name": "MyOperator", "ats": "zoho", "slug": "myoperator" },
+  { "name": "Yubi", "ats": "zoho", "slug": "go-yubi" },
+  { "name": "Vedantu", "ats": "zoho", "slug": "vedantu" },
+  { "name": "Zluri", "ats": "keka", "slug": "zluri" },
+  { "name": "GoKwik", "ats": "keka", "slug": "gokwik" },
+  { "name": "GoComet", "ats": "keka", "slug": "gocomet" },
+  { "name": "Shopflo", "ats": "keka", "slug": "shopflo" },
+  { "name": "LetsTransport", "ats": "freshteam", "slug": "letstransport" },
+  { "name": "TravClan", "ats": "freshteam", "slug": "travclan" },
+  { "name": "Noise", "ats": "freshteam", "slug": "gonoise" }
 ]

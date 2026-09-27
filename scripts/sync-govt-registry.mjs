@@ -25,6 +25,11 @@ const siteDomain = (url) => new URL(url).hostname.toLowerCase().replace(/^(www|c
 const RELEVANCE_ORDER = { high: 0, medium: 1, low: 2 };
 
 const registry = JSON.parse(await fs.readFile(registryPath, 'utf8'));
+// Local additions (DPI orgs, state missions, source overrides) live in this repo
+// so the registry repo stays untouched; an extra with a registry org's `short` replaces it.
+const extras = JSON.parse(await fs.readFile(path.join(ROOT, 'scripts/govt-extra-orgs.json'), 'utf8')).orgs;
+const extraShorts = new Set(extras.map(o => o.short));
+registry.orgs = [...registry.orgs.filter(o => !extraShorts.has(o.short)), ...extras];
 const byName = new Map(registry.orgs.map(o => [o.name, o]));
 
 // ── App directory ───────────────────────────────────────────────────────────
@@ -70,9 +75,9 @@ ${directory.map(o => '  ' + toJs(o) + ',').join('\n')}
 `;
 
 // ── Scanner sources ─────────────────────────────────────────────────────────
-const KIND = { json_api: 'api', embedded_json: 'embedded', html_links: 'notices', pdf_list: 'notices' };
+const KIND = { json_api: 'api', embedded_json: 'embedded', html_links: 'notices', pdf_list: 'notices', mailto_list: 'mailto' };
 const sources = registry.orgs
-  .filter(o => KIND[o.fetch_method] && (KIND[o.fetch_method] === 'notices' || o.api || o.embedded))
+  .filter(o => KIND[o.fetch_method] && (['notices', 'mailto'].includes(KIND[o.fetch_method]) || o.api || o.embedded))
   .map(o => ({
     name: o.name,
     short: o.short,
@@ -106,4 +111,4 @@ const sourcesJson = JSON.stringify({
 
 await fs.writeFile(path.join(ROOT, 'src/data/govtOrgsList.js'), listJs);
 await fs.writeFile(path.join(ROOT, 'agent/govt-sources.json'), sourcesJson);
-console.log(`Wrote ${directory.length} orgs to src/data/govtOrgsList.js and ${sources.length} sources to agent/govt-sources.json (registry verified ${registry.verified}).`);
+console.log(`Merged ${extras.length} local extra orgs. Wrote ${directory.length} orgs to src/data/govtOrgsList.js and ${sources.length} sources to agent/govt-sources.json (registry verified ${registry.verified}).`);

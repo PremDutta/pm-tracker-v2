@@ -1,6 +1,9 @@
 import React, { useState } from 'react';
-import { Plus, Trash2, Briefcase, Clock } from 'lucide-react';
-import { getApplications, addApplication, updateApplication, deleteApplication, APPLICATION_STATUSES } from '../storage';
+import { Plus, Trash2, Briefcase, Clock, Copy, Check } from 'lucide-react';
+import { getApplications, addApplication, updateApplication, deleteApplication, getNetwork, APPLICATION_STATUSES } from '../storage';
+import { buildTeardownBrief } from '../teardown';
+import { ContactFlag } from './Network';
+import NewBadge from './NewBadge';
 
 const STATUS_COLORS = {
   Applied: '#0A84FF', Screening: '#FFD60A', Interview: '#FF9500', Offer: '#30D158', Rejected: '#FF453A',
@@ -13,8 +16,13 @@ const FOLLOW_UP_AFTER_DAYS = 7;
 const daysSince = (dateString) => Math.floor((Date.now() - new Date(dateString).getTime()) / 86400000);
 const needsFollowUp = (a) => a.status === 'Applied' && daysSince(a.appliedDate) >= FOLLOW_UP_AFTER_DAYS;
 
-export default function Tracker({ t, card, btnPrimary, btnSecondary }) {
+export default function Tracker({ t, card, btnPrimary, btnSecondary, profile }) {
   const [apps, setApps] = useState(getApplications());
+  const [network] = useState(() => getNetwork());
+  const [copiedId, setCopiedId] = useState(null);
+  const copyTeardown = (a) => {
+    navigator.clipboard.writeText(buildTeardownBrief(a, profile)).catch(() => {}).finally(() => { setCopiedId(a.id); setTimeout(() => setCopiedId(null), 2000); });
+  };
   const [form, setForm] = useState({ company: '', role: '', platform: '', link: '' });
 
   const inputStyle = { padding: '10px 12px', borderRadius: '10px', border: `1px solid ${t.border}`, background: t.inlineBg, color: t.text, fontSize: '13px' };
@@ -86,6 +94,7 @@ export default function Tracker({ t, card, btnPrimary, btnSecondary }) {
                         <div style={{ fontSize: '14px', fontWeight: '600' }}>{a.company}</div>
                         {a.role && <div style={{ fontSize: '12px', color: t.textSecondary }}>{a.role}</div>}
                         {a.platform && <div style={{ fontSize: '11px', color: t.textTertiary, marginTop: '2px' }}>via {a.platform}</div>}
+                        <ContactFlag company={a.company} t={t} network={network} />
                         {needsFollowUp(a) ? (
                           <div style={{ display: 'flex', alignItems: 'center', gap: '4px', fontSize: '10px', color: t.warning, marginTop: '4px', fontWeight: '600' }}>
                             <Clock size={11} /> Follow up — applied {daysSince(a.appliedDate)}d ago
@@ -102,6 +111,9 @@ export default function Tracker({ t, card, btnPrimary, btnSecondary }) {
                       {APPLICATION_STATUSES.map(s => <option key={s} value={s}>{s}</option>)}
                     </select>
                     {a.link && <a href={a.link} target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, marginTop: '8px', padding: '6px 12px', fontSize: '11px', width: '100%', justifyContent: 'center' }}>Open listing</a>}
+                    <button onClick={() => copyTeardown(a)} aria-label={`Copy teardown brief: ${a.company}`} title="Copies a brief for any AI assistant to draft a one-page product teardown you send the hiring manager with your application" style={{ ...btnSecondary, marginTop: '8px', padding: '6px 12px', fontSize: '11px', width: '100%', justifyContent: 'center' }}>
+                      {copiedId === a.id ? <><Check size={11} /> Copied, paste into any AI</> : <><Copy size={11} /> Teardown brief for AI <NewBadge id="tracker:teardown" t={t} /></>}
+                    </button>
                   </div>
                 ))}
               </div>

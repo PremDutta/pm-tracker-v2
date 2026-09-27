@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { Plus, Trash2, Building2, Search, ExternalLink, Copy, Check, ClipboardList } from 'lucide-react';
 import { getWatchlist, addWatchlistCompany, removeWatchlistCompany, addApplication } from '../storage';
+import { getNetwork } from '../storage';
+import { NetworkEditor, ContactFlag } from './Network';
 
 const ATS_OPTIONS = [
   { value: '', label: 'No ATS (skip agent scanning)' },
@@ -10,6 +12,9 @@ const ATS_OPTIONS = [
   { value: 'smartrecruiters', label: 'SmartRecruiters' },
   { value: 'workable', label: 'Workable' },
   { value: 'recruitee', label: 'Recruitee' },
+  { value: 'zoho', label: 'Zoho Recruit (NEW)' },
+  { value: 'keka', label: 'Keka (NEW)' },
+  { value: 'freshteam', label: 'Freshteam (NEW)' },
 ];
 
 // Draft generator for scaled, personalized outreach — this app has no backend
@@ -23,11 +28,12 @@ const buildDraft = (company, role, profile) => {
   return `Hi [Name],\n\nI noticed ${company} is hiring for ${role || '[Role]'} — it's the kind of problem I want to work on next. I'm a PM with ${years} in ${domain}, most recently: ${achievement}.\n\nWould you be open to a quick chat, or a referral if there's a fit?\n\nThanks,\n${name}`;
 };
 
-export default function Watchlist({ t, card, btnPrimary, btnSecondary, profile }) {
+export default function Watchlist({ t, card, btnPrimary, btnSecondary, profile, role }) {
   const [list, setList] = useState(getWatchlist());
   const [form, setForm] = useState({ company: '', domain: '', careersUrl: '', role: '', ats: '', atsSlug: '' });
   const [copiedId, setCopiedId] = useState(null);
   const [loggedId, setLoggedId] = useState(null);
+  const [network, setNetworkState] = useState(() => getNetwork());
   const inputStyle = { padding: '10px 12px', borderRadius: '10px', border: `1px solid ${t.border}`, background: t.inlineBg, color: t.text, fontSize: '13px' };
   const selectStyle = { ...inputStyle, cursor: 'pointer' };
 
@@ -85,6 +91,8 @@ export default function Watchlist({ t, card, btnPrimary, btnSecondary, profile }
         <button type="submit" style={{ ...btnPrimary, padding: '10px 16px', fontSize: '13px', justifySelf: 'start' }}><Plus size={14} /> Add company</button>
       </form>
 
+      <NetworkEditor t={t} card={card} btnPrimary={btnPrimary} onChange={setNetworkState} />
+
       {list.length === 0 ? (
         <div style={{ ...card, textAlign: 'center', padding: '48px', color: t.textSecondary }}>
           <Building2 size={32} style={{ marginBottom: '12px', opacity: 0.5 }} />
@@ -93,7 +101,7 @@ export default function Watchlist({ t, card, btnPrimary, btnSecondary, profile }
       ) : (
         <div style={{ display: 'grid', gap: '14px' }}>
           {list.map(w => {
-            const careerDork = `site:${w.domain || (w.company.toLowerCase().replace(/\s+/g, '') + '.com')}/careers "product manager"`;
+            const careerDork = `site:${w.domain || (w.company.toLowerCase().replace(/\s+/g, '') + '.com')}/careers ${role.searchTerm}`;
             const recruiterSearch = `https://www.linkedin.com/search/results/people/?keywords=${encodeURIComponent(w.company + ' recruiter OR "talent acquisition" OR "people team"')}`;
             const draft = buildDraft(w.company, w.role, profile);
             return (
@@ -102,6 +110,7 @@ export default function Watchlist({ t, card, btnPrimary, btnSecondary, profile }
                   <div>
                     <h3 style={{ margin: '0 0 3px', fontSize: '17px', fontWeight: '600' }}>{w.company}</h3>
                     {w.role && <p style={{ margin: 0, fontSize: '12px', color: t.textSecondary }}>Target: {w.role}</p>}
+                    <ContactFlag company={w.company} t={t} network={network} />
                   </div>
                   <button onClick={() => remove(w.id)} style={{ background: 'none', border: 'none', color: t.textTertiary, cursor: 'pointer' }}><Trash2 size={15} /></button>
                 </div>

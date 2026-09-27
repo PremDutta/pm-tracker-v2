@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { ExternalLink, Search, ClipboardList, Check } from 'lucide-react';
 import { GOVT_ORGS, GOVT_CATEGORIES, GOVT_BOARDS, GOVT_SEARCHES, GOVT_REGISTRY_VERIFIED, googleUrl, orgPmSearchUrl } from '../data/govtOrgs';
-import { getPlatformMeta, markPlatformChecked, addApplication, timeAgo } from '../storage';
+import { fillRole } from '../data/roles';
+import { getPlatformMeta, markPlatformChecked, addApplication, getNetwork, timeAgo } from '../storage';
+import { ContactFlag } from '../components/Network';
 
 const GOVT_TIPS = [
   { icon:'🏷️', text:'Titles differ: look for Consultant, Specialist Officer, Manager (Digital), or Lead / Senior Associate - Product.' },
@@ -53,13 +55,14 @@ function useGovtOpenings() {
   return state;
 }
 
-export default function GovtTab({ t, card, btnSecondary, badge }) {
+export default function GovtTab({ t, card, btnSecondary, badge, role }) {
   const [meta, setMeta] = useState(() => getPlatformMeta());
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState('all');
   const [highOnly, setHighOnly] = useState(false);
   const [staleFirst, setStaleFirst] = useState(false);
   const [loggedId, setLoggedId] = useState(null);
+  const [network] = useState(() => getNetwork());
   const live = useGovtOpenings();
   const openNow = groupDuplicates(live.openings.filter(o => !o.deadline || daysUntil(o.deadline) >= 0)).sort(byUrgency);
 
@@ -120,11 +123,12 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
                     <div style={{ display:'flex', alignItems:'center', gap:'6px', flexWrap:'wrap', marginBottom:'3px' }}>
                       <span style={{ fontSize:'14px', fontWeight:'600' }}>{o.title}</span>
                       {o.count > 1 && <span style={{ ...badge(t.badgeText, t.badgeBg), fontSize:'9px' }}>×{o.count} OPENINGS</span>}
-                      {isNew && <span style={{ ...badge('#fff', t.accent), fontSize:'9px' }}>NEW</span>}
+                      {isNew && <span style={{ ...badge('#fff', t.accent), fontSize:'9px' }}>NEW ROLE</span>}
                       {left !== null && <span style={{ ...badge('#fff', left <= 3 ? t.error : t.warning), fontSize:'9px' }}>{left === 0 ? 'CLOSES TODAY' : `CLOSES IN ${left}D`}</span>}
                       {(o.flags || []).filter(f => FLAG_LABELS[f]).map(f => <span key={f} style={{ ...badge(t.badgeText, t.badgeBg), fontSize:'9px' }}>{FLAG_LABELS[f]}</span>)}
                     </div>
                     <div style={{ fontSize:'12px', color:t.textSecondary }}>{[o.company, o.location, o.deadline && `last date ${o.deadline}`].filter(Boolean).join(' · ')}</div>
+                    <ContactFlag company={o.company} t={t} network={network} />
                   </div>
                   <a href={o.url} target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}>Apply <ExternalLink size={11}/></a>
                   <button onClick={()=>logOpening(o)} aria-label={`Log application: ${o.title}`} style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}>
@@ -165,7 +169,7 @@ export default function GovtTab({ t, card, btnSecondary, badge }) {
         <div style={card}>
           <h3 style={{ margin:'0 0 14px', fontSize:'17px', fontWeight:'600' }}>🔍 Google searches (past month)</h3>
           <div style={{ display:'grid', gap:'8px' }}>
-            {GOVT_SEARCHES.map(s => (
+            {GOVT_SEARCHES.map(g => ({ ...g, query: fillRole(g.query, role) })).map(s => (
               <a key={s.title} href={googleUrl(s.query)} target="_blank" rel="noopener noreferrer" style={{ display:'block', padding:'10px 14px', background:t.inlineBg, borderRadius:'12px', textDecoration:'none', color:t.text }}>
                 <div style={{ fontSize:'13px', fontWeight:'600', marginBottom:'3px', display:'flex', alignItems:'center', gap:'6px' }}>{s.title} <ExternalLink size={11} style={{ color:t.textTertiary }}/></div>
                 <code style={{ fontSize:'11px', color:t.codeColor, wordBreak:'break-word' }}>{s.query}</code>

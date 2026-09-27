@@ -1,8 +1,9 @@
 import React from 'react';
 import { ExternalLink } from 'lucide-react';
 import { REMOTE_STRATEGIES } from '../data/strategies';
+import { fillRole } from '../data/roles';
 
-export default function RemoteTab({ t, card, btnSecondary }) {
+export default function RemoteTab({ t, card, btnSecondary, role }) {
   return (
     <div>
       <div style={{ textAlign:'center', marginBottom:'40px' }}>
@@ -16,7 +17,7 @@ export default function RemoteTab({ t, card, btnSecondary }) {
             {section.items.map((item,j) => (
               <div key={j} style={{ display:'flex', alignItems:'center', justifyContent:'space-between', padding:'12px 16px', background:t.inlineBg, borderRadius:'12px', gap:'12px', flexWrap:'wrap' }}>
                 <span style={{ fontSize:'14px' }}>{item.name}{item.tip && <span style={{ color:t.textSecondary }}> — {item.tip}</span>}</span>
-                {item.url && <a href={item.url} target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, padding:'7px 14px', fontSize:'12px' }}>Open <ExternalLink size={11}/></a>}
+                {item.url && <a href={fillRole(item.url, role)} target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, padding:'7px 14px', fontSize:'12px' }}>Open <ExternalLink size={11}/></a>}
               </div>
             ))}
           </div>

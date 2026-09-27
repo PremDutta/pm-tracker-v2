@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Zap, Globe, Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, Bell, ClipboardList, Building2, FileSearch, Landmark } from 'lucide-react';
+import { Zap, Globe, Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, Bell, ClipboardList, Building2, FileSearch, Landmark, Radar } from 'lucide-react';
 import { getProfile } from './storage';
 import Tracker from './components/Tracker';
 import Watchlist from './components/Watchlist';
@@ -13,10 +13,12 @@ import TemplatesTab from './tabs/TemplatesTab';
 import HomeTab from './tabs/HomeTab';
 import JobsTab from './tabs/JobsTab';
 import GovtTab from './tabs/GovtTab';
+import SignalsTab from './tabs/SignalsTab';
 import { themes } from './theme';
+import NewBadge from './components/NewBadge';
 import { getCardStyle, getBtnPrimaryStyle, getBtnSecondaryStyle, getTabButtonStyle, getBadgeStyle } from './styles';
 import { PLATFORMS } from './data/platforms';
-import { ROLES, FRESHNESS_OPTIONS, EXPERIENCE_LEVELS } from './data/roles';
+import { ROLES, FRESHNESS_OPTIONS, EXPERIENCE_LEVELS, roleByKeyword } from './data/roles';
 
 export default function App() {
   const [theme, setTheme]         = useState('dark');
@@ -31,6 +33,7 @@ export default function App() {
   const [isOpening, setIsOpening] = useState(false);
   const [profile, setProfileState] = useState(() => getProfile());
   const t = themes[theme];
+  const role = roleByKeyword(selectedRole);
 
   useEffect(() => { setIsLoaded(true); }, []);
 
@@ -102,10 +105,11 @@ export default function App() {
         {[
           { id:'home',      icon:<Sparkles size={14}/>,   label:'Home' },
           { id:'jobs',      icon:<Briefcase size={14}/>,  label:'All Jobs' },
-          { id:'govt',      icon:<Landmark size={14}/>,   label:'Govt & PSU', isNew:true },
-          { id:'tracker',   icon:<ClipboardList size={14}/>, label:'Tracker', isNew:true },
-          { id:'watchlist', icon:<Building2 size={14}/>,  label:'Watchlist', isNew:true },
-          { id:'resumematch',icon:<FileSearch size={14}/>,label:'Resume Match', isNew:true },
+          { id:'govt',      icon:<Landmark size={14}/>,   label:'Govt & PSU' },
+          { id:'signals',   icon:<Radar size={14}/>,      label:'Signals' },
+          { id:'tracker',   icon:<ClipboardList size={14}/>, label:'Tracker' },
+          { id:'watchlist', icon:<Building2 size={14}/>,  label:'Watchlist' },
+          { id:'resumematch',icon:<FileSearch size={14}/>,label:'Resume Match' },
           { id:'hacks',     icon:<Lightbulb size={14}/>,  label:'Hacks' },
           { id:'alerts',    icon:<Bell size={14}/>,        label:'Alerts' },
           { id:'firstapply',icon:<Zap size={14}/>,         label:'Be First' },
@@ -113,9 +117,9 @@ export default function App() {
           { id:'intl',      icon:<Target size={14}/>,      label:'US/UK/CA/SG' },
           { id:'templates', icon:<MessageSquare size={14}/>, label:'Templates' },
         ].map(tab => (
-          <button key={tab.id} onClick={()=>setActiveTab(tab.id)} style={{ ...tabStyle(activeTab===tab.id), position:'relative' }}>
+          <button key={tab.id} onClick={()=>setActiveTab(tab.id)} aria-label={tab.label} aria-current={activeTab===tab.id ? 'page' : undefined} style={{ ...tabStyle(activeTab===tab.id), position:'relative' }}>
             {tab.icon}{tab.label}
-            {tab.isNew && <span style={{ width:'6px', height:'6px', borderRadius:'50%', background:t.success }}/>}
+            <NewBadge id={`tab:${tab.id}`} t={t} />
           </button>
         ))}
       </div>
@@ -162,31 +166,34 @@ export default function App() {
         )}
 
         {/* ── GOVT & PSU ── */}
-        {activeTab==='govt' && <GovtTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} />}
+        {activeTab==='govt' && <GovtTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
+
+        {/* ── SIGNALS ── */}
+        {activeTab==='signals' && <SignalsTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} setActiveTab={setActiveTab} />}
 
         {/* ── TRACKER ── */}
-        {activeTab==='tracker' && <Tracker t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} />}
+        {activeTab==='tracker' && <Tracker t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} profile={profile} />}
 
         {/* ── WATCHLIST ── */}
-        {activeTab==='watchlist' && <Watchlist t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} profile={profile} />}
+        {activeTab==='watchlist' && <Watchlist t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} profile={profile} role={role} />}
 
         {/* ── RESUME MATCH ── */}
         {activeTab==='resumematch' && <ResumeMatch t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} />}
 
         {/* ── HACKS ── */}
-        {activeTab==='hacks' && <HacksTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} isLoaded={isLoaded} />}
+        {activeTab==='hacks' && <HacksTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} isLoaded={isLoaded} role={role} />}
 
         {/* ── ALERTS ── */}
-        {activeTab==='alerts' && <AlertsTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} />}
+        {activeTab==='alerts' && <AlertsTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} role={role} />}
 
         {/* ── BE FIRST ── */}
-        {activeTab==='firstapply' && <FirstApplyTab t={t} card={card} />}
+        {activeTab==='firstapply' && <FirstApplyTab t={t} card={card} role={role} />}
 
         {/* ── REMOTE ── */}
-        {activeTab==='remote' && <RemoteTab t={t} card={card} btnSecondary={btnSecondary} />}
+        {activeTab==='remote' && <RemoteTab t={t} card={card} btnSecondary={btnSecondary} role={role} />}
 
         {/* ── INTL ── */}
-        {activeTab==='intl' && <IntlTab t={t} card={card} btnSecondary={btnSecondary} />}
+        {activeTab==='intl' && <IntlTab t={t} card={card} btnSecondary={btnSecondary} role={role} />}
 
         {/* ── TEMPLATES ── */}
         {activeTab==='templates' && <TemplatesTab t={t} card={card} btnPrimary={btnPrimary} profile={profile} onProfileChange={setProfileState} />}

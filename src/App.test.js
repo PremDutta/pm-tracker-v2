@@ -34,9 +34,9 @@ test('Govt & PSU: filters orgs, and opening a careers page records it as checked
   const user = userEvent.setup();
   render(<App />);
 
-  await user.click(screen.getByRole('button', { name: /Govt & PSU/i }));
+  await user.click(screen.getByRole('button', { name: 'Govt & PSU' }));
   expect(screen.getByRole('heading', { name: 'Government & PSU' })).toBeInTheDocument();
-  expect(await screen.findByText('60 manual-check orgs not checked in 7 days')).toBeInTheDocument();
+  expect(await screen.findByText('65 manual-check orgs not checked in 7 days')).toBeInTheDocument();
 
   // Search narrows the directory to the matching org
   await user.type(screen.getByLabelText('Search government organisations'), 'NPCI');
@@ -49,7 +49,7 @@ test('Govt & PSU: filters orgs, and opening a careers page records it as checked
   const meta = JSON.parse(window.localStorage.getItem('pmt_platform_meta'));
   expect(meta['govt-npci'].lastChecked).toBeGreaterThan(0);
   expect(screen.getByText('Checked just now')).toBeInTheDocument();
-  expect(screen.getByText('59 manual-check orgs not checked in 7 days')).toBeInTheDocument();
+  expect(screen.getByText('64 manual-check orgs not checked in 7 days')).toBeInTheDocument();
 });
 
 test('Govt & PSU: shows live openings by deadline, hides closed ones, and logs one to the Tracker', async () => {
@@ -60,7 +60,7 @@ test('Govt & PSU: shows live openings by deadline, hides closed ones, and logs o
   ] }) }));
   const user = userEvent.setup();
   render(<App />);
-  await user.click(screen.getByRole('button', { name: /Govt & PSU/i }));
+  await user.click(screen.getByRole('button', { name: 'Govt & PSU' }));
 
   expect(await screen.findByText('2 open')).toBeInTheDocument();
   expect(screen.queryByText('Product Manager (closed)')).not.toBeInTheDocument();
@@ -68,7 +68,7 @@ test('Govt & PSU: shows live openings by deadline, hides closed ones, and logs o
   const logButtons = screen.getAllByRole('button', { name: /^Log application:/ });
   expect(logButtons[0]).toHaveAccessibleName('Log application: Technical Product Manager');
   expect(screen.getByText('CLOSES IN 2D')).toBeInTheDocument();
-  expect(screen.getByText('NEW')).toBeInTheDocument();
+  expect(screen.getByText('NEW ROLE')).toBeInTheDocument();
   expect(screen.getByText('MBA asked')).toBeInTheDocument();
 
   await user.click(logButtons[0]);
@@ -84,20 +84,20 @@ test('Govt & PSU: orgs the scanner read are marked auto-scanned and leave the ma
   }) }));
   const user = userEvent.setup();
   render(<App />);
-  await user.click(screen.getByRole('button', { name: /Govt & PSU/i }));
+  await user.click(screen.getByRole('button', { name: 'Govt & PSU' }));
 
   expect(await screen.findByText('1 open')).toBeInTheDocument();
   expect(screen.getByText('×2 OPENINGS')).toBeInTheDocument();
   // NPCI read today, plus NBBL and NIPL which are listed on NPCI's portal; ONDC's read is too old
   expect(screen.getAllByText('✓ Auto-scanned')).toHaveLength(3);
-  expect(screen.getByText('57 manual-check orgs not checked in 7 days')).toBeInTheDocument();
+  expect(screen.getByText('62 manual-check orgs not checked in 7 days')).toBeInTheDocument();
 });
 
 test('Govt & PSU: a failed live-openings fetch still leaves the directory usable', async () => {
   global.fetch = jest.fn(() => Promise.reject(new Error('offline')));
   const user = userEvent.setup();
   render(<App />);
-  await user.click(screen.getByRole('button', { name: /Govt & PSU/i }));
+  await user.click(screen.getByRole('button', { name: 'Govt & PSU' }));
   expect(await screen.findByText(/Couldn't load live openings/)).toBeInTheDocument();
   expect(screen.getByRole('link', { name: 'NPCI careers page' })).toBeInTheDocument();
 });
@@ -308,4 +308,59 @@ test('Templates: saving a profile fills the [X] years / [domain] placeholders', 
   await user.click(screen.getByText(/Connection Request/i));
 
   expect(screen.getAllByText(/9 years in fintech/i).length).toBeGreaterThan(0);
+});
+
+test('Senior PM toggle: every search string switches to the senior term (incl. SPM), and no tab shows a raw placeholder', async () => {
+  const user = userEvent.setup();
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: 'Senior PM' }));
+
+  for (const tab of ['Hacks', 'Alerts', 'Be First', 'Remote', 'US/UK/CA/SG', 'Govt & PSU', 'Watchlist', 'Signals']) {
+    await user.click(screen.getByRole('button', { name: tab }));
+    expect(document.body.textContent).not.toMatch(/\{(ROLE|KW|KWTEXT|KW\+)\}/);
+    for (const a of document.querySelectorAll('a[href]')) expect(a.getAttribute('href')).not.toMatch(/\{(ROLE|KW)/);
+  }
+
+  await user.click(screen.getByRole('button', { name: 'Hacks' }));
+  const senior = '("senior product manager" OR "sr. product manager" OR "senior PM" OR "SPM")';
+  expect(screen.getAllByText((_, el) => el?.tagName === 'DIV' && el.textContent.startsWith(`site:boards.greenhouse.io ${senior}`)).length).toBeGreaterThan(0);
+  expect(document.body.textContent).not.toMatch(/site:jobs\.lever\.co "product manager"/);
+
+  await user.click(screen.getByRole('button', { name: 'Remote' }));
+  expect([...document.querySelectorAll('a[href*="flexjobs"]')].map(a => a.href)[0]).toContain('search=Senior+Product+Manager');
+});
+
+test('Network: a saved contact flags matching Watchlist and Tracker entries; Tracker copies a teardown brief', async () => {
+  window.localStorage.setItem('pmt_applications', JSON.stringify([{ id: 'a1', company: 'Razorpay Software Pvt Ltd', role: 'Senior PM', status: 'Applied', appliedDate: '2026-09-26', link: 'https://razorpay.com/jobs/1' }]));
+  const user = userEvent.setup();
+  render(<App />);
+
+  await user.click(screen.getByRole('button', { name: 'Watchlist' }));
+  await user.type(screen.getByLabelText('My network'), 'Asha Rao, Razorpay, ex-Aftershoot');
+  await user.click(screen.getByRole('button', { name: 'Save network' }));
+  expect(JSON.parse(window.localStorage.getItem('pmt_network'))).toEqual([{ name: 'Asha Rao', company: 'Razorpay', note: 'ex-Aftershoot' }]);
+
+  await user.click(screen.getByRole('button', { name: 'Tracker' }));
+  expect(screen.getByText(/You know Asha Rao \(ex-Aftershoot\)/)).toBeInTheDocument();
+
+  const writeText = jest.spyOn(navigator.clipboard, 'writeText');
+  await user.click(screen.getByRole('button', { name: 'Copy teardown brief: Razorpay Software Pvt Ltd' }));
+  const brief = writeText.mock.calls[0][0];
+  expect(brief).toMatch(/applying for the Senior PM role at Razorpay Software Pvt Ltd/);
+  expect(brief).toMatch(/one-page product teardown/);
+});
+
+test('Signals tab: renders reposted roles and spikes from the scanner feed', async () => {
+  global.fetch = jest.fn((url) => Promise.resolve({ ok: true, json: () => Promise.resolve(String(url).includes('signals')
+    ? { signals: [
+        { type: 'reopened', company: 'Acme', date: '2026-09-27', title: 'Senior Product Manager', url: 'https://jobs.example.com/2', detail: 'closed 2026-09-10, reposted today' },
+        { type: 'eng_spike', company: 'Globex', date: '2026-09-26', detail: '14 engineering openings vs a usual 5' },
+      ] }
+    : { openings: [] }) }));
+  const user = userEvent.setup();
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: 'Signals' }));
+  expect(await screen.findByText('Acme')).toBeInTheDocument();
+  expect(screen.getByText(/14 engineering openings vs a usual 5/)).toBeInTheDocument();
+  expect(screen.getByRole('link', { name: /Posting/ })).toHaveAttribute('href', 'https://jobs.example.com/2');
 });

@@ -7,7 +7,7 @@ Two scheduled GitHub Actions jobs, both free and unlimited on this public repo, 
 
 ## Job scanning (`scan-jobs.mjs`)
 
-Pings you on Telegram and/or WhatsApp only when something new shows up. No server, no cost, no scraping. Three kinds of sources, all legal:
+Pings you on Telegram and/or WhatsApp only when something new shows up. No server, no cost, no scraping. Several kinds of sources, all legal:
 
 1. **Adzuna + JSearch** — general aggregators, searches "Product Manager" broadly across India.
 2. **Direct ATS feeds** (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee) for the specific companies you list in `agent/companies.json`. This is the same technique TrueUp's core data layer uses — these APIs are public and unauthenticated *because companies deliberately expose them* to be embedded on their own careers pages, unlike LinkedIn/Naukri, which explicitly prohibit automated access (we hit real 403s from those this session; every ATS endpoint here was instead verified live, returning real job data, before being wired in).
@@ -19,6 +19,16 @@ Pings you on Telegram and/or WhatsApp only when something new shows up. No serve
 4. **Govt careers pages with no feed** (`govt-notices.mjs`): the other 132 orgs in the registry, most PSUs, PSU banks, insurers and ministries, which publish a page of notice links (often PDFs). Each page's links are read and kept only if they look like a live opening: site menus, scripts, tenders, results, shortlists, forms, closed notices, fresher/trainee schemes and anything whose dates are all 120+ days old are dropped (port of the `india-govt-search` extractor, with stricter rules because these become phone alerts). A notice alerts only if its **title** is a product role, or PM-shaped digital leadership (Programme Manager, Head - Digital, Digital Banking / Transformation...) at an org rated high/medium for PM work. Plain IT roles (IT Officer, Data Scientist) don't. The first read of a page with a backlog (4+ matches) is recorded without alerting.
    - Some sites can't be read from GitHub's US runners (they block non-Indian traffic or need JavaScript). `govt-openings.json` records each org's last successful read, and the app marks every org as **✓ Auto-scanned** or **Check manually** from it, so you know exactly which ones still need a manual look.
    - Tests: `node --test agent/govt.test.mjs` (also run in CI).
+
+5. **VC portfolio job boards** (`vc-boards.mjs`): Peak XV and Lightspeed (Consider boards) and Accel (Getro), PM-titled roles located in India. These list roles across a fund's whole portfolio that often never reach LinkedIn. The first read of each board (dozens of roles) is recorded without alerting.
+6. **Hiring signals** (`signals.mjs`, `funding.mjs`), written to `signals.json` for the app's **Signals** tab:
+   - **Reposted roles:** a PM title that disappeared from a company's board comes back under a new posting. Flagged 🔁 REPOSTED in the alert, since the first hire fell through.
+   - **Engineering hiring spikes:** engineering openings jump to 1.5x (and +5) a company's recent median. Needs about a week of history (`ats-history.json`).
+   - **Funding news:** raises from Entrackr, YourStory and Inc42 RSS, with the company name taken from the headline. All raises show in the app; only raises at companies in `companies.json` make the phone alert.
+
+**Indian ATS support:** besides Greenhouse, Lever, Ashby, SmartRecruiters, Workable and Recruitee, `companies.json` entries can use `zoho` (Zoho Recruit; add `"domain": "com"` for .com tenants), `keka` or `freshteam`, with the subdomain from their careers URL as `slug`. Darwinbox blocks automated requests (Cloudflare), so it isn't supported.
+
+**Extra govt orgs** not in the india-govt-search registry (ONDC's mailto-style careers page, eGov Foundation, Wadhwani AI, CivicDataLab, T-Hub, Kerala Startup Mission) live in `scripts/govt-extra-orgs.json` and are merged by the sync script.
 
 **Does not cover Naukri, IIMJobs, Hirist, Foundit, or Shine** — no legal API exists for those. Keep checking those through the app's own platform grid (it now tracks "last checked" per platform for exactly this reason).
 

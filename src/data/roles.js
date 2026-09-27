@@ -1,10 +1,28 @@
 // `keyword` (not `label`) is what gets sent into every job-board URL/slug.
 // Keeping them separate stops "Senior PM" from producing broken slugs like
 // naukri.com/senior-pm-jobs-in-... instead of .../senior-product-manager-jobs-in-...
+//
+// `searchTerm` is the phrase every Google / Alert search string uses. Senior
+// roles get posted under several spellings (and "SPM" in recruiter posts), so
+// the senior term ORs them; "SPM" never appears alone, since on its own it
+// matches unrelated pages.
 export const ROLES = [
-  { label:'Product Manager', keyword:'Product Manager' },
-  { label:'Senior PM',       keyword:'Senior Product Manager' },
+  { label:'Product Manager', keyword:'Product Manager',        searchTerm:'"product manager"' },
+  { label:'Senior PM',       keyword:'Senior Product Manager', searchTerm:'("senior product manager" OR "sr. product manager" OR "senior PM" OR "SPM")' },
 ];
+
+export const roleByKeyword = (keyword) => ROLES.find(r => r.keyword === keyword) || ROLES[0];
+
+// Fills role placeholders in search strings and URLs:
+//   {ROLE}   -> the role's Google search term
+//   {KWTEXT} -> the plain keyword ("Senior Product Manager")
+//   {KW}     -> URL-encoded keyword with %20 ("Senior%20Product%20Manager")
+//   {KW+}    -> URL-encoded keyword with + ("Senior+Product+Manager")
+export const fillRole = (text, role) => text && text
+  .replace(/\{ROLE\}/g, role.searchTerm)
+  .replace(/\{KWTEXT\}/g, role.keyword)
+  .replace(/\{KW\+\}/g, encodeURIComponent(role.keyword).replace(/%20/g, '+'))
+  .replace(/\{KW\}/g, encodeURIComponent(role.keyword));
 
 // Posted-date filter — only LinkedIn (f_TPR, seconds), Naukri (jobAge, days) and
 // Indeed (fromage, days) expose a real freshness param on their public search URLs.

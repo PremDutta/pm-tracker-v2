@@ -30,10 +30,10 @@ jobs:
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
         run: node agent/scan-jobs.mjs
 
-      - name: Commit updated seen-jobs.json + govt-openings.json
+      - name: Commit updated scanner state (seen jobs, govt openings, hiring signals)
         run: |
           git config user.name "pm-job-scan-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add agent/seen-jobs.json agent/govt-openings.json
+          git add agent/seen-jobs.json agent/govt-openings.json agent/ats-history.json agent/signals.json
           git diff --staged --quiet || git commit -m "Update seen jobs [skip ci]"
           git push

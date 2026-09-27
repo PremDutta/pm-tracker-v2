@@ -130,14 +130,6 @@
       "kind": "notices"
     },
     {
-      "name": "Open Network for Digital Commerce",
-      "short": "ONDC",
-      "category": "section8_govt",
-      "relevance": "high",
-      "careersUrl": "https://ondc.org/pages/careers.html",
-      "kind": "notices"
-    },
-    {
       "name": "Centre for Development of Advanced Computing",
       "short": "C-DAC",
       "category": "autonomous_body",
@@ -1200,6 +1192,114 @@
       "relevance": "low",
       "careersUrl": "https://www.trai.gov.in/vacancies",
       "kind": "notices"
+    },
+    {
+      "name": "Open Network for Digital Commerce",
+      "short": "ONDC",
+      "category": "section8_govt",
+      "relevance": "high",
+      "careersUrl": "https://ondc.org/pages/careers.html",
+      "location": "New Delhi",
+      "kind": "mailto"
+    },
+    {
+      "name": "eGov Foundation",
+      "short": "eGov",
+      "category": "dpi",
+      "relevance": "high",
+      "careersUrl": "https://careers.egov.org.in/",
+      "location": "Bengaluru",
+      "kind": "api",
+      "config": {
+        "url": "https://egov.zohorecruit.in/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite",
+        "list": "data",
+        "fields": {
+          "id": "id",
+          "title": "Posting_Title",
+          "url": "$url",
+          "date": "Date_Opened",
+          "location": "City"
+        }
+      }
+    },
+    {
+      "name": "Wadhwani AI",
+      "short": "Wadhwani AI",
+      "category": "dpi",
+      "relevance": "high",
+      "careersUrl": "https://wadhwaniai.zohorecruit.in/jobs/Careers",
+      "location": "New Delhi",
+      "kind": "api",
+      "config": {
+        "url": "https://wadhwaniai.zohorecruit.in/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite",
+        "list": "data",
+        "fields": {
+          "id": "id",
+          "title": "Posting_Title",
+          "url": "$url",
+          "date": "Date_Opened",
+          "location": "City"
+        }
+      }
+    },
+    {
+      "name": "CivicDataLab",
+      "short": "CivicDataLab",
+      "category": "dpi",
+      "relevance": "medium",
+      "careersUrl": "https://jobs.civicdatalab.in/",
+      "kind": "api",
+      "config": {
+        "url": "https://civicdatalab.zohorecruit.in/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite",
+        "list": "data",
+        "fields": {
+          "id": "id",
+          "title": "Posting_Title",
+          "url": "$url",
+          "date": "Date_Opened",
+          "location": "City"
+        }
+      }
+    },
+    {
+      "name": "T-Hub",
+      "short": "T-Hub",
+      "category": "state_govt",
+      "relevance": "medium",
+      "careersUrl": "https://t-hub.zohorecruit.com/jobs/Careers",
+      "location": "Hyderabad",
+      "kind": "api",
+      "config": {
+        "url": "https://t-hub.zohorecruit.com/recruit/v2/public/Job_Openings?pagename=Careers&source=CareerSite",
+        "list": "data",
+        "fields": {
+          "id": "id",
+          "title": "Posting_Title",
+          "url": "$url",
+          "date": "Date_Opened",
+          "location": "City"
+        }
+      }
+    },
+    {
+      "name": "Kerala Startup Mission",
+      "short": "KSUM",
+      "category": "state_govt",
+      "relevance": "medium",
+      "careersUrl": "https://startupmission.kerala.gov.in/career",
+      "location": "Thiruvananthapuram",
+      "kind": "api",
+      "config": {
+        "url": "https://startupmission.kerala.gov.in/api/public/career",
+        "list": "data",
+        "url_prefix": "https://startupmission.kerala.gov.in",
+        "fields": {
+          "id": "slug",
+          "title": "name",
+          "url": "url",
+          "deadline": "closing"
+        }
+      }
     },
     {
       "name": "Bharat Digital job board",
