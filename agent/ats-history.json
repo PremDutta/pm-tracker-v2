@@ -7,7 +7,7 @@
           "eng": 37
         },
         "2026-09-28": {
-          "total": 97,
+          "total": 98,
           "eng": 37
         }
       },
@@ -64,8 +64,8 @@
           "eng": 249
         },
         "2026-09-28": {
-          "total": 618,
-          "eng": 249
+          "total": 625,
+          "eng": 254
         }
       },
       "pm": {
@@ -219,8 +219,8 @@
           "eng": 55
         },
         "2026-09-28": {
-          "total": 147,
-          "eng": 55
+          "total": 145,
+          "eng": 56
         }
       },
       "pm": {
@@ -297,8 +297,8 @@
           "eng": 95
         },
         "2026-09-28": {
-          "total": 203,
-          "eng": 95
+          "total": 202,
+          "eng": 94
         }
       },
       "pm": {
@@ -396,26 +396,29 @@
           "eng": 2
         },
         "2026-09-28": {
-          "total": 15,
+          "total": 14,
           "eng": 2
         }
       },
       "pm": {
         "senior product manager smb e commerce growth": {
           "ids": [
-            "ashby-photoroom-cfe36a59-a475-44dd-925b-5cb4f93ec831"
+            "ashby-photoroom-cfe36a59-a475-44dd-925b-5cb4f93ec831",
+            "ashby-photoroom-022b6f5b-bb46-45b7-801a-8a5f3b92a968"
           ],
           "lastSeen": "2026-09-28"
         },
         "senior product manager core product": {
           "ids": [
-            "ashby-photoroom-3bd8a6ab-496b-4f54-b9df-eb0b13fb46d2"
+            "ashby-photoroom-3bd8a6ab-496b-4f54-b9df-eb0b13fb46d2",
+            "ashby-photoroom-d075be71-4a2d-489a-9879-18e43363094e"
           ],
           "lastSeen": "2026-09-28"
         },
         "staff product manager agentic ai platform": {
           "ids": [
-            "ashby-photoroom-e51e28e4-b740-44d6-922a-8a7b00a245a8"
+            "ashby-photoroom-e51e28e4-b740-44d6-922a-8a7b00a245a8",
+            "ashby-photoroom-7c34d35a-c405-4d19-bd6a-38f8dd2081a7"
           ],
           "lastSeen": "2026-09-28"
         },
@@ -486,8 +489,8 @@
           "eng": 47
         },
         "2026-09-28": {
-          "total": 206,
-          "eng": 47
+          "total": 201,
+          "eng": 46
         }
       },
       "pm": {}
@@ -577,7 +580,7 @@
           "eng": 45
         },
         "2026-09-28": {
-          "total": 128,
+          "total": 129,
           "eng": 45
         }
       },
@@ -590,7 +593,7 @@
           "eng": 404
         },
         "2026-09-28": {
-          "total": 829,
+          "total": 830,
           "eng": 404
         }
       },
@@ -747,7 +750,7 @@
           "eng": 0
         },
         "2026-09-28": {
-          "total": 12,
+          "total": 8,
           "eng": 0
         }
       },
@@ -805,7 +808,7 @@
           "eng": 6
         },
         "2026-09-28": {
-          "total": 54,
+          "total": 56,
           "eng": 6
         }
       },
@@ -826,11 +829,30 @@
           "ids": [
             "lever-meesho-2f1dba8f-bc99-4490-8200-d2cd7f92f544"
           ],
-          "lastSeen": "2026-09-28"
+          "lastSeen": "2026-09-28",
+          "closedOn": "2026-09-28"
         },
         "product manager i": {
           "ids": [
             "lever-meesho-4891a891-f431-4e98-99ae-0e31a21f0190"
+          ],
+          "lastSeen": "2026-09-28"
+        },
+        "product manager platforms": {
+          "ids": [
+            "lever-meesho-2f1dba8f-bc99-4490-8200-d2cd7f92f544"
+          ],
+          "lastSeen": "2026-09-28"
+        },
+        "senior product manager": {
+          "ids": [
+            "lever-meesho-2028b73c-2ae0-4fca-903e-481b8c500629"
+          ],
+          "lastSeen": "2026-09-28"
+        },
+        "senior product manager data analytics platform": {
+          "ids": [
+            "lever-meesho-97ce9e5a-a8bb-446d-a8db-9078603b106f"
           ],
           "lastSeen": "2026-09-28"
         }
@@ -994,8 +1016,8 @@
           "eng": 27
         },
         "2026-09-28": {
-          "total": 80,
-          "eng": 27
+          "total": 81,
+          "eng": 28
         }
       },
       "pm": {

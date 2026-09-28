@@ -2,6 +2,30 @@
   "signals": [
     {
       "type": "funding",
+      "company": "Alive App",
+      "title": "Alive App raises $1 Mn from Powerhouse, Flipkart Ventures",
+      "url": "https://entrackr.com/snippets/alive-app-raises-1-mn-from-powerhouse-flipkart-ventures-12583861",
+      "date": "2026-09-28",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Amaani",
+      "title": "Beauty and wellness startup Amaani raises $5 Mn led by BECO Capital",
+      "url": "https://entrackr.com/snippets/beauty-and-wellness-startup-amaani-raises-5-mn-led-by-beco-capital-12583526",
+      "date": "2026-09-28",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Balwaan Krishi",
+      "title": "Agricultural machinery company Balwaan Krishi raises Rs 100 Cr in Series B round",
+      "url": "https://entrackr.com/news/agricultural-machinery-company-balwaan-krishi-raises-rs-100-cr-in-series-b-round-12584408",
+      "date": "2026-09-28",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
       "company": "Dextr AI",
       "title": "Elevation Capital leads $6.7 Mn seed round in Dextr AI",
       "url": "https://entrackr.com/snippets/elevation-capital-leads-67-million-seed-round-in-dextr-ai-12574387",
