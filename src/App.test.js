@@ -323,7 +323,7 @@ test('Senior PM toggle: every search string switches to the senior term (incl. S
 
   await user.click(screen.getByRole('button', { name: 'Hacks' }));
   const senior = '("senior product manager" OR "sr. product manager" OR "senior PM" OR "SPM")';
-  expect(screen.getAllByText((_, el) => el?.tagName === 'DIV' && el.textContent.startsWith(`site:boards.greenhouse.io ${senior}`)).length).toBeGreaterThan(0);
+  expect(screen.getAllByText((_, el) => el?.tagName === 'DIV' && el.textContent.startsWith(`site:jobs.ashbyhq.com ${senior} (India OR`)).length).toBeGreaterThan(0);
   expect(document.body.textContent).not.toMatch(/site:jobs\.lever\.co "product manager"/);
 
   await user.click(screen.getByRole('button', { name: 'Remote' }));

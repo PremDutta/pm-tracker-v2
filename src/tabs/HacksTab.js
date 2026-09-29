@@ -60,7 +60,7 @@ export default function HacksTab({ t, theme, card, btnPrimary, btnSecondary, bad
               </div>
               <div style={{ display:'flex', gap:'8px', flexShrink:0 }}>
                 {h.googleJobsUrl && (
-                  <button onClick={()=>window.open(h.googleJobsUrl,'_blank')} style={{ ...btnSecondary, padding:'9px 16px', fontSize:'12px' }}><Search size={13}/>Google Jobs</button>
+                  <button onClick={()=>window.open(h.googleJobsUrl,'_blank')} style={{ ...btnSecondary, padding:'9px 16px', fontSize:'12px' }}><Search size={13}/>{h.altLabel || 'Google Jobs'}</button>
                 )}
                 <button onClick={()=>window.open(searchUrl(h),'_blank')} style={{ ...btnPrimary, padding:'9px 18px', fontSize:'13px' }}><Search size={14}/>Search Now</button>
               </div>
