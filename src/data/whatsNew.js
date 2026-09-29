@@ -39,7 +39,6 @@ export const WHATS_NEW = [
   { id:'hack:greenhouse', date:'2026-09-29', tab:'hacks', title:'Greenhouse: new job-boards domain added' },
   { id:'hack:lever', date:'2026-09-29', tab:'hacks', title:'Lever: now India-filtered' },
   { id:'hack:workday', date:'2026-09-29', tab:'hacks', title:'Workday: all tenants, not just wd5' },
-  { id:'hack:indian-ats', date:'2026-09-29', tab:'hacks', title:'Indian ATS: Darwinbox added' },
   { id:'network:matcher', date:'2026-09-27', tab:'watchlist', title:'My network: referral matcher', desc:'List ex-colleagues once; every company where you know someone is flagged in Watchlist, Tracker and Govt openings' },
   { id:'tracker:teardown', date:'2026-09-27', tab:'tracker', title:'Teardown brief for AI', desc:'One click on any application copies a brief to draft a product teardown for the hiring manager' },
   { id:'role:search',      date:'2026-09-27', tab:'hacks',       title:'Searches follow the PM / Senior PM toggle', desc:'Senior PM searches include "senior product manager", "sr. product manager", "senior PM" and "SPM"' },
