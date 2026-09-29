@@ -364,3 +364,14 @@ test('Signals tab: renders reposted roles and spikes from the scanner feed', asy
   expect(screen.getByText(/14 engineering openings vs a usual 5/)).toBeInTheDocument();
   expect(screen.getByRole('link', { name: /Posting/ })).toHaveAttribute('href', 'https://jobs.example.com/2');
 });
+
+test('opens in light theme by default, and remembers a switch to dark', async () => {
+  const user = userEvent.setup();
+  const { unmount } = render(<App />);
+  expect(document.querySelector('[data-theme]')).toHaveAttribute('data-theme', 'light');
+  await user.click(screen.getByRole('button', { name: 'Switch to dark theme' }));
+  expect(document.querySelector('[data-theme]')).toHaveAttribute('data-theme', 'dark');
+  unmount();
+  render(<App />);
+  expect(document.querySelector('[data-theme]')).toHaveAttribute('data-theme', 'dark');
+});

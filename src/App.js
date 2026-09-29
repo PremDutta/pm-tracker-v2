@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Zap, Globe, Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, Bell, ClipboardList, Building2, FileSearch, Landmark, Radar } from 'lucide-react';
-import { getProfile } from './storage';
+import { getProfile, getTheme, setTheme as saveTheme } from './storage';
 import Tracker from './components/Tracker';
 import Watchlist from './components/Watchlist';
 import ResumeMatch from './components/ResumeMatch';
@@ -21,7 +21,8 @@ import { PLATFORMS } from './data/platforms';
 import { ROLES, FRESHNESS_OPTIONS, EXPERIENCE_LEVELS, roleByKeyword } from './data/roles';
 
 export default function App() {
-  const [theme, setTheme]         = useState('dark');
+  const [theme, setThemeState]    = useState(() => getTheme()); // light by default; remembers your toggle
+  const setTheme = (next) => { setThemeState(next); saveTheme(next); };
   const [activeTab, setActiveTab] = useState('home');
   const [selectedRegion, setSelectedRegion] = useState('india');
   const [selectedRole, setSelectedRole]     = useState(ROLES[0].keyword);
@@ -73,7 +74,7 @@ export default function App() {
   };
 
   return (
-    <div style={{ minHeight:'100vh', background:t.bg, color:t.text, fontFamily:'"Inter",-apple-system,BlinkMacSystemFont,system-ui,sans-serif', transition:'background 0.5s ease,color 0.3s ease' }}>
+    <div data-theme={theme} style={{ minHeight:'100vh', background:t.bg, color:t.text, fontFamily:'"Inter",-apple-system,BlinkMacSystemFont,system-ui,sans-serif', transition:'background 0.5s ease,color 0.3s ease' }}>
       {/* Hero glow */}
       <div style={{ position:'fixed', top:0, left:0, right:0, bottom:0, background:t.heroGradient, pointerEvents:'none', zIndex:0, opacity:isLoaded?1:0, transition:'opacity 1s ease' }} />
 
@@ -93,7 +94,7 @@ export default function App() {
                 <button key={r.keyword} onClick={()=>setSelectedRole(r.keyword)} style={{ padding:'6px 12px', borderRadius:'8px', border:'none', background:selectedRole===r.keyword?t.accent:'transparent', color:selectedRole===r.keyword?'#fff':t.textSecondary, fontSize:'12px', fontWeight:'500', cursor:'pointer' }}>{r.label}</button>
               ))}
             </div>
-            <button onClick={()=>setTheme(theme==='dark'?'light':'dark')} style={{ width:'40px', height:'40px', borderRadius:'50%', background:t.cardBg, border:`1px solid ${t.border}`, color:t.text, cursor:'pointer', display:'flex', alignItems:'center', justifyContent:'center' }}>
+            <button onClick={()=>setTheme(theme==='dark'?'light':'dark')} aria-label={theme==='dark' ? 'Switch to light theme' : 'Switch to dark theme'} style={{ width:'40px', height:'40px', borderRadius:'50%', background:t.cardBg, border:`1px solid ${t.border}`, color:t.text, cursor:'pointer', display:'flex', alignItems:'center', justifyContent:'center' }}>
               {theme==='dark'?<Sun size={18}/>:<Moon size={18}/>}
             </button>
           </div>

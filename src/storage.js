@@ -18,6 +18,11 @@ const safeSet = (key, value) => {
   }
 };
 
+// ─── Theme: light by default, your last toggle remembered on this device ────
+const THEME_KEY = 'pmt_theme';
+export const getTheme = () => (safeGet(THEME_KEY, 'light') === 'dark' ? 'dark' : 'light');
+export const setTheme = (theme) => safeSet(THEME_KEY, theme);
+
 // ─── Profile (feeds template auto-fill + watchlist mail-merge drafts) ────────
 const PROFILE_KEY = 'pmt_profile';
 export const getProfile = () => safeGet(PROFILE_KEY, { name: '', years: '', domain: '', achievements: ['', '', ''] });
