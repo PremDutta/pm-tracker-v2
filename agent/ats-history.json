@@ -13,6 +13,10 @@
         "2026-09-29": {
           "total": 95,
           "eng": 37
+        },
+        "2026-09-30": {
+          "total": 95,
+          "eng": 37
         }
       },
       "pm": {
@@ -21,31 +25,31 @@
             "greenhouse-asana-8213887",
             "greenhouse-asana-8204614"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager adapt": {
           "ids": [
             "greenhouse-asana-8017552"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager command": {
           "ids": [
             "greenhouse-asana-7586960"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "senior product manager ai agents experience": {
           "ids": [
             "greenhouse-asana-8178264"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "senior product manager ai suite": {
           "ids": [
             "greenhouse-asana-8044815"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "senior product manager project task experience": {
           "ids": [
@@ -58,7 +62,7 @@
           "ids": [
             "greenhouse-asana-7901186"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -75,6 +79,10 @@
         "2026-09-29": {
           "total": 636,
           "eng": 263
+        },
+        "2026-09-30": {
+          "total": 637,
+          "eng": 262
         }
       },
       "pm": {
@@ -82,79 +90,79 @@
           "ids": [
             "greenhouse-anthropic-5397737008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager claude science": {
           "ids": [
             "greenhouse-anthropic-5394887008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager claude tag": {
           "ids": [
             "greenhouse-anthropic-5251866008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager cybersecurity": {
           "ids": [
             "greenhouse-anthropic-5393526008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager multi cloud growth google": {
           "ids": [
             "greenhouse-anthropic-5153924008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager multi cloud trust safety": {
           "ids": [
             "greenhouse-anthropic-5409934008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager new markets and monetization": {
           "ids": [
             "greenhouse-anthropic-5386182008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager public sector": {
           "ids": [
             "greenhouse-anthropic-5393452008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager research": {
           "ids": [
             "greenhouse-anthropic-5324349008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager safe access": {
           "ids": [
             "greenhouse-anthropic-5428898008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager safeguards": {
           "ids": [
             "greenhouse-anthropic-5413576008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager safeguards rare harms": {
           "ids": [
             "greenhouse-anthropic-5139628008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "research product manager labs": {
           "ids": [
             "greenhouse-anthropic-5096878008"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -169,6 +177,10 @@
           "eng": 30
         },
         "2026-09-29": {
+          "total": 67,
+          "eng": 30
+        },
+        "2026-09-30": {
           "total": 67,
           "eng": 30
         }
@@ -188,6 +200,10 @@
         "2026-09-29": {
           "total": 124,
           "eng": 48
+        },
+        "2026-09-30": {
+          "total": 124,
+          "eng": 48
         }
       },
       "pm": {
@@ -195,37 +211,37 @@
           "ids": [
             "ashby-perplexity-f25e190e-0508-4707-b575-fcaed358dc13"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager mobile apps": {
           "ids": [
             "ashby-perplexity-3c9c051f-e6ca-4a70-9abf-1f640e154ee1"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager core experience": {
           "ids": [
             "ashby-perplexity-6f3c5131-2efa-400c-8248-44203a4dbfbb"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager ai capabilities": {
           "ids": [
             "ashby-perplexity-7f880194-7276-4b46-8a50-58b48da8882e"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager growth": {
           "ids": [
             "ashby-perplexity-fa088d92-b08b-43f7-9232-275b0ae08827"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager smb growth": {
           "ids": [
             "ashby-perplexity-182ab2ec-6fb1-409b-a2dc-63c7832b0a13"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -242,6 +258,10 @@
         "2026-09-29": {
           "total": 144,
           "eng": 55
+        },
+        "2026-09-30": {
+          "total": 144,
+          "eng": 55
         }
       },
       "pm": {
@@ -249,19 +269,19 @@
           "ids": [
             "ashby-cohere-1d1b300d-254b-48c4-958f-99c6b907f295"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager integrations": {
           "ids": [
             "ashby-cohere-87e9fd4e-49ac-4242-97be-7da6f718020d"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager managed north": {
           "ids": [
             "ashby-cohere-fe2e2971-e2c0-43fd-9ab1-187571776a5d"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -276,6 +296,10 @@
           "eng": 3
         },
         "2026-09-29": {
+          "total": 4,
+          "eng": 3
+        },
+        "2026-09-30": {
           "total": 4,
           "eng": 3
         }
@@ -295,6 +319,10 @@
         "2026-09-29": {
           "total": 14,
           "eng": 7
+        },
+        "2026-09-30": {
+          "total": 14,
+          "eng": 7
         }
       },
       "pm": {
@@ -302,7 +330,7 @@
           "ids": [
             "ashby-pika-e0533e4b-28a2-4c18-be00-73111f84f326"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -317,6 +345,10 @@
           "eng": 5
         },
         "2026-09-29": {
+          "total": 6,
+          "eng": 5
+        },
+        "2026-09-30": {
           "total": 6,
           "eng": 5
         }
@@ -336,6 +368,10 @@
         "2026-09-29": {
           "total": 197,
           "eng": 90
+        },
+        "2026-09-30": {
+          "total": 191,
+          "eng": 85
         }
       },
       "pm": {
@@ -343,87 +379,88 @@
           "ids": [
             "greenhouse-scaleai-4609736005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "director of product management enterprise core platform": {
           "ids": [
             "greenhouse-scaleai-4714727005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-29",
+          "closedOn": "2026-09-30"
         },
         "forward deployed product manager enterprise": {
           "ids": [
             "greenhouse-scaleai-4673051005",
             "greenhouse-scaleai-4644742005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "forward deployed product manager public sector": {
           "ids": [
             "greenhouse-scaleai-4713648005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "head of product management forward deployed strategy": {
           "ids": [
             "greenhouse-scaleai-4702890005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager enterprise core platform": {
           "ids": [
             "greenhouse-scaleai-4699779005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager of ai applications global public sector": {
           "ids": [
             "greenhouse-scaleai-4589749005",
             "greenhouse-scaleai-4650514005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "senior ai product manager": {
           "ids": [
             "greenhouse-scaleai-4720501005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "senior ai product manager cybersecurity": {
           "ids": [
             "greenhouse-scaleai-4720213005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "senior ai product manager finance agents": {
           "ids": [
             "greenhouse-scaleai-4611776005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "staff product manager agentic platform": {
           "ids": [
             "greenhouse-scaleai-4612403005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "staff product manager gen ai": {
           "ids": [
             "greenhouse-scaleai-4675842005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "staff product manager physical ai data robotics": {
           "ids": [
             "greenhouse-scaleai-4718559005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "staff technical product manager": {
           "ids": [
             "greenhouse-scaleai-4683446005"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -440,6 +477,10 @@
         "2026-09-29": {
           "total": 14,
           "eng": 2
+        },
+        "2026-09-30": {
+          "total": 14,
+          "eng": 2
         }
       },
       "pm": {
@@ -448,27 +489,27 @@
             "ashby-photoroom-cfe36a59-a475-44dd-925b-5cb4f93ec831",
             "ashby-photoroom-022b6f5b-bb46-45b7-801a-8a5f3b92a968"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "senior product manager core product": {
           "ids": [
             "ashby-photoroom-3bd8a6ab-496b-4f54-b9df-eb0b13fb46d2",
             "ashby-photoroom-d075be71-4a2d-489a-9879-18e43363094e"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "staff product manager agentic ai platform": {
           "ids": [
             "ashby-photoroom-e51e28e4-b740-44d6-922a-8a7b00a245a8",
             "ashby-photoroom-7c34d35a-c405-4d19-bd6a-38f8dd2081a7"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager editing foundations": {
           "ids": [
             "ashby-photoroom-4886fd85-2b2c-4dca-bf48-1dbc370629bc"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -485,6 +526,10 @@
         "2026-09-29": {
           "total": 11,
           "eng": 2
+        },
+        "2026-09-30": {
+          "total": 11,
+          "eng": 2
         }
       },
       "pm": {
@@ -492,7 +537,7 @@
           "ids": [
             "greenhouse-descript-7868139003"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -509,6 +554,10 @@
         "2026-09-29": {
           "total": 91,
           "eng": 43
+        },
+        "2026-09-30": {
+          "total": 91,
+          "eng": 43
         }
       },
       "pm": {
@@ -516,19 +565,19 @@
           "ids": [
             "ashby-deepgram-3a12f539-7734-46fa-9e3b-28e041e56074"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "staff product manager agentic experiences": {
           "ids": [
             "ashby-deepgram-17f95148-fa1c-4c34-82c8-333589bef789"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "staff product manager": {
           "ids": [
             "ashby-deepgram-d0660127-6c26-4053-943c-c006990b8edc"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -543,6 +592,10 @@
           "eng": 44
         },
         "2026-09-29": {
+          "total": 183,
+          "eng": 36
+        },
+        "2026-09-30": {
           "total": 183,
           "eng": 36
         }
@@ -560,6 +613,10 @@
           "eng": 32
         },
         "2026-09-29": {
+          "total": 48,
+          "eng": 32
+        },
+        "2026-09-30": {
           "total": 48,
           "eng": 32
         }
@@ -587,6 +644,10 @@
         "2026-09-29": {
           "total": 162,
           "eng": 33
+        },
+        "2026-09-30": {
+          "total": 162,
+          "eng": 33
         }
       },
       "pm": {
@@ -594,25 +655,25 @@
           "ids": [
             "greenhouse-figma-6201114004"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager acquisition": {
           "ids": [
             "greenhouse-figma-6119781004"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager ai growth": {
           "ids": [
             "greenhouse-figma-5989185004"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager developer platform": {
           "ids": [
             "greenhouse-figma-6100482004"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -629,6 +690,10 @@
         "2026-09-29": {
           "total": 30,
           "eng": 12
+        },
+        "2026-09-30": {
+          "total": 30,
+          "eng": 12
         }
       },
       "pm": {
@@ -636,7 +701,7 @@
           "ids": [
             "ashby-linear-b7669c4b-eeca-421d-ba9a-d90203f6fcb2"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -651,6 +716,10 @@
           "eng": 47
         },
         "2026-09-29": {
+          "total": 128,
+          "eng": 46
+        },
+        "2026-09-30": {
           "total": 128,
           "eng": 46
         }
@@ -670,6 +739,10 @@
         "2026-09-29": {
           "total": 830,
           "eng": 406
+        },
+        "2026-09-30": {
+          "total": 839,
+          "eng": 409
         }
       },
       "pm": {
@@ -677,73 +750,73 @@
           "ids": [
             "ashby-openai-fc38c6bf-5330-435c-99b6-1bcf1f5829a8"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager sensitive deployments": {
           "ids": [
             "ashby-openai-05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager api infrastructure": {
           "ids": [
             "ashby-openai-7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager safety measurement": {
           "ids": [
             "ashby-openai-fbc7ebaf-3a26-406d-9ff6-f166f3e246a2"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager financial engineering": {
           "ids": [
             "ashby-openai-0f4da2b4-df8a-4560-809d-d0a6ac1ad9bc"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager core models": {
           "ids": [
             "ashby-openai-33b8effb-b048-4934-a279-87fff192a330"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager youth": {
           "ids": [
             "ashby-openai-cc0d0d86-eb9d-44a0-a6a4-42bbb6066b4b"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager learning": {
           "ids": [
             "ashby-openai-5953fed7-1466-4e90-94c9-43716a55e032"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager multimodal safety": {
           "ids": [
             "ashby-openai-70d5259a-f18c-4595-bf52-ec03eeeeac4c"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager enterprise identity": {
           "ids": [
             "ashby-openai-83f6d415-9462-4afc-a539-ca8d996e011a"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "rosalind life sciences product manager": {
           "ids": [
             "ashby-openai-2b5c3a30-8e8b-4845-be40-0617b0c9fd43"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager technology vertical": {
           "ids": [
             "ashby-openai-137e3df0-2bd4-4ad4-8edb-8455a7fdc912"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -760,6 +833,10 @@
         "2026-09-29": {
           "total": 155,
           "eng": 40
+        },
+        "2026-09-30": {
+          "total": 155,
+          "eng": 40
         }
       },
       "pm": {
@@ -767,25 +844,25 @@
           "ids": [
             "ashby-ramp-78b98c66-af59-4fa8-a5ae-d8af8d737976"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager vendor intelligence marketplace": {
           "ids": [
             "ashby-ramp-cf3516f6-4d6b-4872-831f-c8ef4a3078ee"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager tax": {
           "ids": [
             "ashby-ramp-881f9f7d-9ec5-4b69-b50d-a67000264ca8"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager international": {
           "ids": [
             "ashby-ramp-8baec095-2235-41ab-ab64-9abc57823b4b"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -800,6 +877,10 @@
           "eng": 0
         },
         "2026-09-29": {
+          "total": 7,
+          "eng": 0
+        },
+        "2026-09-30": {
           "total": 7,
           "eng": 0
         }
@@ -819,6 +900,10 @@
         "2026-09-29": {
           "total": 3,
           "eng": 2
+        },
+        "2026-09-30": {
+          "total": 3,
+          "eng": 2
         }
       },
       "pm": {
@@ -826,7 +911,7 @@
           "ids": [
             "freshteam-letstransport-2000049183"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -841,6 +926,10 @@
           "eng": 0
         },
         "2026-09-29": {
+          "total": 8,
+          "eng": 0
+        },
+        "2026-09-30": {
           "total": 8,
           "eng": 0
         }
@@ -860,6 +949,10 @@
         "2026-09-29": {
           "total": 35,
           "eng": 6
+        },
+        "2026-09-30": {
+          "total": 35,
+          "eng": 6
         }
       },
       "pm": {
@@ -867,19 +960,19 @@
           "ids": [
             "freshteam-gonoise-2000071781"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager growth": {
           "ids": [
             "freshteam-gonoise-2000074163"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "technical product manager wearables": {
           "ids": [
             "freshteam-gonoise-2000074122"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -894,6 +987,10 @@
           "eng": 15
         },
         "2026-09-29": {
+          "total": 18,
+          "eng": 15
+        },
+        "2026-09-30": {
           "total": 18,
           "eng": 15
         }
@@ -913,6 +1010,10 @@
         "2026-09-29": {
           "total": 55,
           "eng": 6
+        },
+        "2026-09-30": {
+          "total": 55,
+          "eng": 6
         }
       },
       "pm": {
@@ -920,13 +1021,13 @@
           "ids": [
             "lever-meesho-65435df1-9a07-416e-9b97-381045f9f970"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "group product manager": {
           "ids": [
             "lever-meesho-d7924eb1-301e-4098-ab7b-f3a4c92c210a"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager": {
           "ids": [
@@ -939,7 +1040,7 @@
           "ids": [
             "lever-meesho-4891a891-f431-4e98-99ae-0e31a21f0190"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager platforms": {
           "ids": [
@@ -952,13 +1053,13 @@
           "ids": [
             "lever-meesho-2028b73c-2ae0-4fca-903e-481b8c500629"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "senior product manager data analytics platform": {
           "ids": [
             "lever-meesho-97ce9e5a-a8bb-446d-a8db-9078603b106f"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -975,6 +1076,10 @@
         "2026-09-29": {
           "total": 2,
           "eng": 0
+        },
+        "2026-09-30": {
+          "total": 2,
+          "eng": 0
         }
       },
       "pm": {
@@ -982,7 +1087,7 @@
           "ids": [
             "zoho-vedantu-95146000003170110"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -999,6 +1104,10 @@
         "2026-09-29": {
           "total": 18,
           "eng": 4
+        },
+        "2026-09-30": {
+          "total": 18,
+          "eng": 4
         }
       },
       "pm": {
@@ -1006,7 +1115,7 @@
           "ids": [
             "zoho-myoperator-163599000034203948"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -1023,6 +1132,10 @@
         "2026-09-29": {
           "total": 275,
           "eng": 46
+        },
+        "2026-09-30": {
+          "total": 275,
+          "eng": 46
         }
       },
       "pm": {
@@ -1030,25 +1143,25 @@
           "ids": [
             "zoho-go-yubi-66789000036412626"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product owner": {
           "ids": [
             "zoho-go-yubi-66789000016378881"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager": {
           "ids": [
             "zoho-go-yubi-66789000036436848"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager ii": {
           "ids": [
             "zoho-go-yubi-66789000021551404"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -1063,6 +1176,10 @@
           "eng": 0
         },
         "2026-09-29": {
+          "total": 4,
+          "eng": 0
+        },
+        "2026-09-30": {
           "total": 4,
           "eng": 0
         }
@@ -1082,6 +1199,10 @@
         "2026-09-29": {
           "total": 8,
           "eng": 3
+        },
+        "2026-09-30": {
+          "total": 8,
+          "eng": 3
         }
       },
       "pm": {
@@ -1089,7 +1210,7 @@
           "ids": [
             "keka-zluri-89845"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -1106,6 +1227,10 @@
         "2026-09-29": {
           "total": 11,
           "eng": 2
+        },
+        "2026-09-30": {
+          "total": 11,
+          "eng": 2
         }
       },
       "pm": {
@@ -1113,7 +1238,7 @@
           "ids": [
             "keka-gocomet-122455"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -1130,6 +1255,10 @@
         "2026-09-29": {
           "total": 22,
           "eng": 2
+        },
+        "2026-09-30": {
+          "total": 22,
+          "eng": 2
         }
       },
       "pm": {
@@ -1137,7 +1266,7 @@
           "ids": [
             "keka-gokwik-150448"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -1154,6 +1283,10 @@
         "2026-09-29": {
           "total": 79,
           "eng": 30
+        },
+        "2026-09-30": {
+          "total": 79,
+          "eng": 30
         }
       },
       "pm": {
@@ -1161,49 +1294,49 @@
           "ids": [
             "lever-spotify-e2c7bbb8-f873-42c7-811f-0bd45bf452ae"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "principal product manager audio and media playback": {
           "ids": [
             "lever-spotify-080868dd-fc8c-4648-b6ab-6780d8ca3d63"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "principal product manager personalization": {
           "ids": [
             "lever-spotify-e74bfb24-55de-4d93-b228-ae38b8fdfbea"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager customer service platform": {
           "ids": [
             "lever-spotify-7f0a8faa-f4f5-4db9-9f51-4101d6a29b34"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "product manager data platform": {
           "ids": [
             "lever-spotify-03437e2a-2d5e-4593-9e97-11271014932e"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "senior product manager audiobooks format foundations": {
           "ids": [
             "lever-spotify-e7b01c1e-4246-4f31-83ea-9219c8b22c83"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "senior product manager subscriptions": {
           "ids": [
             "lever-spotify-a57db22d-dc0d-4f36-9a2e-34acdf1ec046"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         },
         "senior product manager user platform": {
           "ids": [
             "lever-spotify-ee45924c-894c-4ea0-9c93-c5221894063f"
           ],
-          "lastSeen": "2026-09-29"
+          "lastSeen": "2026-09-30"
         }
       }
     }
