@@ -485,6 +485,402 @@
       "url": "https://apply.workable.com/j/75D192CDBD",
       "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-anthropic-5195866008",
+      "title": "Product Management, Human Data Platform",
+      "company": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5195866008",
+      "source": "Greenhouse (Anthropic)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-anthropic-5123082008",
+      "title": "Product Management, Research",
+      "company": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5123082008",
+      "source": "Greenhouse (Anthropic)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-figma-6160732004",
+      "title": "Manager, Product Management - Figma Platform Experience",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/6160732004?gh_jid=6160732004",
+      "source": "Greenhouse (Figma)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-figma-6104919004",
+      "title": "Manager, Product Management - Roundtripping",
+      "company": "Figma",
+      "location": "New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/6104919004?gh_jid=6104919004",
+      "source": "Greenhouse (Figma)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-figma-6149007004",
+      "title": "Manager, Product Management - Roundtripping (London, United Kingdom)",
+      "company": "Figma",
+      "location": "London, England",
+      "url": "https://boards.greenhouse.io/figma/jobs/6149007004?gh_jid=6149007004",
+      "source": "Greenhouse (Figma)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "keka-gokwik-163589",
+      "title": "Principal Product Manager",
+      "company": "GoKwik",
+      "location": "Bangalore",
+      "url": "https://gokwik.keka.com/careers/jobdetails/163589",
+      "source": "Keka (GoKwik)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "freshteam-gonoise-2000074222",
+      "title": "Intern - Product Management (NPD)",
+      "company": "Noise",
+      "location": "Gurugram, India",
+      "url": "https://gonoise.freshteam.com/jobs/Z93vUwNpbrzK/intern-product-management-npd",
+      "source": "Freshteam (Noise)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "workday-adobe-/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043",
+      "title": "Principal Product Manager (DSP Advertising)",
+      "company": "Adobe",
+      "location": "Bangalore",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043",
+      "source": "Workday (Adobe)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "workday-adobe-/job/Bangalore/Product-Manager-3_R169439",
+      "title": "Internal Product Manager 3 - Sales Performance Management",
+      "company": "Adobe",
+      "location": "Bangalore",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager-3_R169439",
+      "source": "Workday (Adobe)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "workable-apna-75D192CDBD",
+      "title": "Product Manager",
+      "company": "Apna",
+      "location": "Bengaluru, India",
+      "url": "https://apply.workable.com/j/75D192CDBD",
+      "source": "Workable (Apna)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-druva-8697486002",
+      "title": "Senior Product Manager",
+      "company": "Druva",
+      "location": "Pune, Maharashtra, India",
+      "url": "https://www.druva.com/why-druva/explore/careers/jobs/8697486002/?gh_jid=8697486002",
+      "source": "Greenhouse (Druva)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "smartrecruiters-freshworks-744000150936730",
+      "title": "Staff Product Manager",
+      "company": "Freshworks",
+      "location": "Bengaluru, , India",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000150936730",
+      "source": "SmartRecruiters (Freshworks)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "smartrecruiters-freshworks-744000140661230",
+      "title": "Senior Director - Product Design",
+      "company": "Freshworks",
+      "location": "Bengaluru, KA, India",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000140661230",
+      "source": "SmartRecruiters (Freshworks)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-highradius-7611197003",
+      "title": "Director - Product Security",
+      "company": "HighRadius",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.highradius.com/about/careers-list/?gh_jid=7611197003",
+      "source": "Greenhouse (HighRadius)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-highradius-7707536003",
+      "title": "Senior Product Manager",
+      "company": "HighRadius",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.highradius.com/about/careers-list/?gh_jid=7707536003",
+      "source": "Greenhouse (HighRadius)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-inmobi-6918622",
+      "title": "Associate Product Manager - MSD Financial Systems and Transformation",
+      "company": "InMobi",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/6918622",
+      "source": "Greenhouse (InMobi)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "workable-innovaccer-analytics-A9A35765A4",
+      "title": "4483- Senior Product Manager, AI",
+      "company": "Innovaccer",
+      "location": "Noida, India",
+      "url": "https://apply.workable.com/j/A9A35765A4",
+      "source": "Workable (Innovaccer)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "workable-innovaccer-analytics-51FF43461F",
+      "title": "4521 -Product Manager-Risk & Quality",
+      "company": "Innovaccer",
+      "location": "Noida, India",
+      "url": "https://apply.workable.com/j/51FF43461F",
+      "source": "Workable (Innovaccer)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "workable-innovaccer-analytics-628BD2FEFE",
+      "title": "4622 -APM/Product Manager-Atlas",
+      "company": "Innovaccer",
+      "location": "Noida, India",
+      "url": "https://apply.workable.com/j/628BD2FEFE",
+      "source": "Workable (Innovaccer)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "lever-mindtickle-4365dc2a-87b1-4751-bd30-c90c70dea92c",
+      "title": "Group Product Manager (Manager Effectiveness)",
+      "company": "Mindtickle",
+      "location": "Pune, Maharashtra",
+      "url": "https://jobs.lever.co/mindtickle/4365dc2a-87b1-4751-bd30-c90c70dea92c",
+      "source": "Lever (Mindtickle)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "eightfold-qualcomm.com-446721309717",
+      "title": "Senior Android SW Product Manager",
+      "company": "Qualcomm",
+      "location": "Hyderabad, Telangāna, India",
+      "url": "https://careers.qualcomm.com/careers/job/446721309717",
+      "source": "Qualcomm careers",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "eightfold-qualcomm.com-446717846060",
+      "title": "Staff/Director – AI HW Product Management",
+      "company": "Qualcomm",
+      "location": "Bangalore, India",
+      "url": "https://careers.qualcomm.com/careers/job/446717846060",
+      "source": "Qualcomm careers",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4736965005",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
+      "source": "Greenhouse (Razorpay)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4729533005",
+      "title": "Product Manager II - Ads ",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
+      "source": "Greenhouse (Razorpay)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4699107005",
+      "title": "Product Manager II - AI ",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
+      "source": "Greenhouse (Razorpay)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000152588729",
+      "title": "Director, Product Design",
+      "company": "ServiceNow",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000152588729",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "smartrecruiters-swiggy-6000000001420615",
+      "title": "Product Manager I",
+      "company": "Swiggy",
+      "location": "Bengaluru, KA, India",
+      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001420615",
+      "source": "SmartRecruiters (Swiggy)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF084709W",
+      "title": "Product Manager",
+      "company": "Visa",
+      "location": "IN - Bengaluru, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF084709W",
+      "source": "Workday (Visa)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
+      "title": "Product Manager (Data Governance Platform, Metadata Management, Data Stewardship, Access Management) (6-12 years)",
+      "company": "Visa",
+      "location": "IN - Bengaluru, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
+      "source": "Workday (Visa)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577975",
+      "title": "Lead Digital Product Manager",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577975",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-570960-1",
+      "title": "Lead Digital Product Manager - CIAM",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-570960-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Senior-Lead-Digital-Product-Manager---Access---Entitlements-Platform_R-577570-1",
+      "title": "Senior Lead Digital Product Manager – Access & Entitlements Platform",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Lead-Digital-Product-Manager---Access---Entitlements-Platform_R-577570-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-zenoti-7513859003",
+      "title": "Director -  Product Management (Payments/Fintech)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7513859003",
+      "source": "Greenhouse (Zenoti)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-zenoti-7729933003",
+      "title": "Senior Manager - Product Management (AI Workflows)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7729933003",
+      "source": "Greenhouse (Zenoti)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "lever-zeta-8623c195-f912-4d87-952f-7114cd258413",
+      "title": "Product Manager I",
+      "company": "Zeta",
+      "location": "Bangalore - EC",
+      "url": "https://jobs.lever.co/zeta/8623c195-f912-4d87-952f-7114cd258413",
+      "source": "Lever (Zeta)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "lever-zeta-dbefd5b1-cc6a-4fe6-86d8-89800acee903",
+      "title": "Product Manager II",
+      "company": "Zeta",
+      "location": "Bangalore - EC",
+      "url": "https://jobs.lever.co/zeta/dbefd5b1-cc6a-4fe6-86d8-89800acee903",
+      "source": "Lever (Zeta)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "freshteam-zetwerk-2000008857",
+      "title": "Product Manager",
+      "company": "Zetwerk",
+      "location": "Bengaluru, India",
+      "url": "https://zetwerk.freshteam.com/jobs/nEIAu-qdTVWU/product-manager",
+      "source": "Freshteam (Zetwerk)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-95329470",
+      "title": "Associate Product Manager - SMB Lending (Bengaluru)",
+      "company": "Wibmo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.payu.in/job/Bengaluru-Associate-Product-Manager-SMB-Lending/54127980/",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-95000935",
+      "title": "Senior Manager - Product Management",
+      "company": "Scripbox",
+      "location": "United States, Bengaluru, Karnataka, India",
+      "url": "https://scripbox.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6a9a6072ec4e6?from=all",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-91054954",
+      "title": "Manager / Senior Manager - Product Management",
+      "company": "Emeritus",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://emeritus.darwinbox.in/ms/candidate/careers/a6a8c7f6664897",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-78244795",
+      "title": "Senior Manager - Product Management (AI Workflows)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/zenoti/jobs/7729933003",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-77920345",
+      "title": "Associate - Business Product Management",
+      "company": "Emeritus",
+      "location": "Mumbai, Maharashtra, India, Bengaluru, Karnataka, India",
+      "url": "https://emeritus.darwinbox.in/ms/candidate/careers/a69fdaaa05236b",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-53739736",
+      "title": "Intern - Product Management",
+      "company": "Niyo ",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://niyo.darwinbox.in/ms/candidate/careers/a6666e9a16a867",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-93507863",
+      "title": "Product Lead",
+      "company": "Zinier",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://zinier.breezy.hr/p/37eda7cf5d55-product-lead",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
     }
   ],
   "signals": [],

@@ -81,7 +81,7 @@
           "eng": 263
         },
         "2026-09-30": {
-          "total": 637,
+          "total": 635,
           "eng": 263
         }
       },
@@ -161,6 +161,18 @@
         "research product manager labs": {
           "ids": [
             "greenhouse-anthropic-5096878008"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management human data platform": {
+          "ids": [
+            "greenhouse-anthropic-5195866008"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management research": {
+          "ids": [
+            "greenhouse-anthropic-5123082008"
           ],
           "lastSeen": "2026-09-30"
         }
@@ -370,7 +382,7 @@
           "eng": 90
         },
         "2026-09-30": {
-          "total": 191,
+          "total": 192,
           "eng": 85
         }
       },
@@ -596,7 +608,7 @@
           "eng": 36
         },
         "2026-09-30": {
-          "total": 180,
+          "total": 181,
           "eng": 37
         }
       },
@@ -674,6 +686,18 @@
             "greenhouse-figma-6100482004"
           ],
           "lastSeen": "2026-09-30"
+        },
+        "manager product management figma platform experience": {
+          "ids": [
+            "greenhouse-figma-6160732004"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "manager product management roundtripping": {
+          "ids": [
+            "greenhouse-figma-6104919004"
+          ],
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -741,7 +765,7 @@
           "eng": 406
         },
         "2026-09-30": {
-          "total": 838,
+          "total": 837,
           "eng": 411
         }
       },
@@ -973,6 +997,12 @@
             "freshteam-gonoise-2000074122"
           ],
           "lastSeen": "2026-09-30"
+        },
+        "intern product management": {
+          "ids": [
+            "freshteam-gonoise-2000074222"
+          ],
+          "lastSeen": "2026-09-30"
         }
       }
     },
@@ -1012,7 +1042,7 @@
           "eng": 6
         },
         "2026-09-30": {
-          "total": 55,
+          "total": 56,
           "eng": 6
         }
       },
@@ -1058,6 +1088,12 @@
         "senior product manager data analytics platform": {
           "ids": [
             "lever-meesho-97ce9e5a-a8bb-446d-a8db-9078603b106f"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager ii user discovery": {
+          "ids": [
+            "lever-meesho-5dca8c71-9993-438f-ad51-da3c7f4be692"
           ],
           "lastSeen": "2026-09-30"
         }
@@ -1257,7 +1293,7 @@
           "eng": 2
         },
         "2026-09-30": {
-          "total": 22,
+          "total": 23,
           "eng": 4
         }
       },
@@ -1265,6 +1301,12 @@
         "senior product manager": {
           "ids": [
             "keka-gokwik-150448"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product manager": {
+          "ids": [
+            "keka-gokwik-163589"
           ],
           "lastSeen": "2026-09-30"
         }
@@ -1285,7 +1327,7 @@
           "eng": 30
         },
         "2026-09-30": {
-          "total": 78,
+          "total": 79,
           "eng": 30
         }
       },
@@ -1338,6 +1380,1605 @@
           ],
           "lastSeen": "2026-09-30",
           "closedOn": "2026-09-30"
+        }
+      }
+    },
+    "Postman": {
+      "daily": {
+        "2026-09-30": {
+          "total": 1,
+          "eng": 1
+        }
+      },
+      "pm": {}
+    },
+    "Apna": {
+      "daily": {
+        "2026-09-30": {
+          "total": 142,
+          "eng": 6
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "workable-apna-75D192CDBD"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Druva": {
+      "daily": {
+        "2026-09-30": {
+          "total": 34,
+          "eng": 13
+        }
+      },
+      "pm": {
+        "director product management security": {
+          "ids": [
+            "greenhouse-druva-8459688002"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager": {
+          "ids": [
+            "greenhouse-druva-8697486002"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Cisco": {
+      "daily": {
+        "2026-09-30": {
+          "total": 9,
+          "eng": 4
+        }
+      },
+      "pm": {}
+    },
+    "Amazon": {
+      "daily": {
+        "2026-09-30": {
+          "total": 91,
+          "eng": 4
+        }
+      },
+      "pm": {
+        "senior product manager tech": {
+          "ids": [
+            "amazon-10490006"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager amazon now": {
+          "ids": [
+            "amazon-10441689"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager private brands": {
+          "ids": [
+            "amazon-10496620"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager ii amazon send": {
+          "ids": [
+            "amazon-10561409"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager amazon business india": {
+          "ids": [
+            "amazon-10533854"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager amazon payment services": {
+          "ids": [
+            "amazon-10456178"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager amazon now": {
+          "ids": [
+            "amazon-10431401"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager in payments": {
+          "ids": [
+            "amazon-10463320"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager value added services": {
+          "ids": [
+            "amazon-10453422"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager amazon fashion": {
+          "ids": [
+            "amazon-10554308"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager progression intelligence": {
+          "ids": [
+            "amazon-3193772"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager abuse prevention": {
+          "ids": [
+            "amazon-10531031"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager amazon shipping": {
+          "ids": [
+            "amazon-10498328"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product manager rbs growth": {
+          "ids": [
+            "amazon-10502013"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager tech ahs": {
+          "ids": [
+            "amazon-10560449"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager amazon wholesale": {
+          "ids": [
+            "amazon-10459568"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager tech india ads": {
+          "ids": [
+            "amazon-10531006"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager amazon pay rewards": {
+          "ids": [
+            "amazon-10516486"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager tech iii finance automation": {
+          "ids": [
+            "amazon-10435313"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager orchestration shipment technologies": {
+          "ids": [
+            "amazon-10534230"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager cost of returns": {
+          "ids": [
+            "amazon-10530922"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager india global trade": {
+          "ids": [
+            "amazon-10490166"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager tech profit intelligence": {
+          "ids": [
+            "amazon-10503329"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager amazon business india": {
+          "ids": [
+            "amazon-10452548"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager tech amazon pharmacy": {
+          "ids": [
+            "amazon-10541182"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager amazon now amazon now": {
+          "ids": [
+            "amazon-10558784"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product manager technical associate experience": {
+          "ids": [
+            "amazon-10464978"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager rbs organization excellence": {
+          "ids": [
+            "amazon-10464724"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager row ats tech": {
+          "ids": [
+            "amazon-10521837"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager ies emerging stores": {
+          "ids": [
+            "amazon-10523475"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager tech alexa ads": {
+          "ids": [
+            "amazon-10510887"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager amazon sub same day": {
+          "ids": [
+            "amazon-10551513"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product manager tech featured merchant algorithm": {
+          "ids": [
+            "amazon-10487601"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager tech eu intech pgx": {
+          "ids": [
+            "amazon-10553130"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager service delivery standard work": {
+          "ids": [
+            "amazon-10556408"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager high confidence supply chain": {
+          "ids": [
+            "amazon-10561080"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager tech prime video advertising": {
+          "ids": [
+            "amazon-10495555"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager tech alexa smart properties": {
+          "ids": [
+            "amazon-10500266"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager tech amazon finance technology": {
+          "ids": [
+            "amazon-10483122"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager returns worldwide returns and recommerce": {
+          "ids": [
+            "amazon-10458117"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager iii technical amazon fulfillment technologies": {
+          "ids": [
+            "amazon-10559093"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager tech dsp da lifecycle solutions": {
+          "ids": [
+            "amazon-10423878"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager tech global transportation technology services": {
+          "ids": [
+            "amazon-10504416"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager tech just walk out technology": {
+          "ids": [
+            "amazon-10531853"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager fba inventory management ww fba": {
+          "ids": [
+            "amazon-10535683"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager operations evaluation worldwide returns and recommerce": {
+          "ids": [
+            "amazon-10476718"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager technical ww prime benefits pricing constructs": {
+          "ids": [
+            "amazon-10426228"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product manager tech prime video commerce international product": {
+          "ids": [
+            "amazon-10459442"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product manager retail business services rbs cost to serve": {
+          "ids": [
+            "amazon-10563526"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager credit and lending amazon credit and lending": {
+          "ids": [
+            "amazon-10496615"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager alexa automotive scaling initiatives amazon smart vehicles": {
+          "ids": [
+            "amazon-10469361"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product manager tech ai multi channel commerce amazon smart commerce": {
+          "ids": [
+            "amazon-10504461"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager tech just walk out technology physical store 3p": {
+          "ids": [
+            "amazon-10559319"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr manager product management tech india advertising": {
+          "ids": [
+            "amazon-10378944"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Glance": {
+      "daily": {
+        "2026-09-30": {
+          "total": 39,
+          "eng": 7
+        }
+      },
+      "pm": {
+        "group product manager u s growth": {
+          "ids": [
+            "greenhouse-glance-7921453"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager tokyo japan": {
+          "ids": [
+            "greenhouse-glance-8020136"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Freshworks": {
+      "daily": {
+        "2026-09-30": {
+          "total": 100,
+          "eng": 33
+        }
+      },
+      "pm": {
+        "staff product manager": {
+          "ids": [
+            "smartrecruiters-freshworks-744000150936730"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior director product design": {
+          "ids": [
+            "smartrecruiters-freshworks-744000140661230"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "HighRadius": {
+      "daily": {
+        "2026-09-30": {
+          "total": 79,
+          "eng": 25
+        }
+      },
+      "pm": {
+        "director product security": {
+          "ids": [
+            "greenhouse-highradius-7611197003"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product manager payments": {
+          "ids": [
+            "greenhouse-highradius-7806734003"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager": {
+          "ids": [
+            "greenhouse-highradius-7707536003"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Browserstack": {
+      "daily": {
+        "2026-09-30": {
+          "total": 30,
+          "eng": 3
+        }
+      },
+      "pm": {}
+    },
+    "InMobi": {
+      "daily": {
+        "2026-09-30": {
+          "total": 71,
+          "eng": 11
+        }
+      },
+      "pm": {
+        "associate product manager msd financial systems and transformation": {
+          "ids": [
+            "greenhouse-inmobi-6918622"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "director product management": {
+          "ids": [
+            "greenhouse-inmobi-7873845"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "director product management commerce exchange": {
+          "ids": [
+            "greenhouse-inmobi-7582059"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "director product marketing dsp": {
+          "ids": [
+            "greenhouse-inmobi-7747712"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Innovaccer": {
+      "daily": {
+        "2026-09-30": {
+          "total": 72,
+          "eng": 19
+        }
+      },
+      "pm": {
+        "4153 director product ai platform": {
+          "ids": [
+            "workable-innovaccer-analytics-F816AA3F7C"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "4291 senior director product services": {
+          "ids": [
+            "workable-innovaccer-analytics-FA3A28F749"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "4410 senior product manager public health": {
+          "ids": [
+            "workable-innovaccer-analytics-67F6B16D16"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "4412 senior product manager medicaid": {
+          "ids": [
+            "workable-innovaccer-analytics-3EB66331B2"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "4483 senior product manager ai": {
+          "ids": [
+            "workable-innovaccer-analytics-A9A35765A4"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "4521 product manager risk quality": {
+          "ids": [
+            "workable-innovaccer-analytics-51FF43461F"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "4622 apm product manager atlas": {
+          "ids": [
+            "workable-innovaccer-analytics-628BD2FEFE"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "4626 senior product manager prior authorization oncology": {
+          "ids": [
+            "workable-innovaccer-analytics-26430903A6"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "4665 head of product contact center": {
+          "ids": [
+            "workable-innovaccer-analytics-A96013EB04"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "director product population health": {
+          "ids": [
+            "workable-innovaccer-analytics-81AC1BF4F6"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager population health": {
+          "ids": [
+            "workable-innovaccer-analytics-B83AB55094"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior director of product management risk quality": {
+          "ids": [
+            "workable-innovaccer-analytics-1F3764CC6F"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager population health": {
+          "ids": [
+            "workable-innovaccer-analytics-461A138133"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Emergent": {
+      "daily": {
+        "2026-09-30": {
+          "total": 37,
+          "eng": 11
+        }
+      },
+      "pm": {}
+    },
+    "Dhan": {
+      "daily": {
+        "2026-09-30": {
+          "total": 25,
+          "eng": 1
+        }
+      },
+      "pm": {}
+    },
+    "Lowe's India": {
+      "daily": {
+        "2026-09-30": {
+          "total": 12,
+          "eng": 3
+        }
+      },
+      "pm": {}
+    },
+    "Fractal": {
+      "daily": {
+        "2026-09-30": {
+          "total": 50,
+          "eng": 33
+        }
+      },
+      "pm": {
+        "senior product owner": {
+          "ids": [
+            "workday-fractal-/job/Gurgaon/Senior-Product-Owner_SR-41535-1"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Adobe": {
+      "daily": {
+        "2026-09-30": {
+          "total": 90,
+          "eng": 37
+        }
+      },
+      "pm": {
+        "principal product manager": {
+          "ids": [
+            "workday-adobe-/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product manager firefly ui": {
+          "ids": [
+            "workday-adobe-/job/Noida/Senior-Product-Manager_R167941"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "internal product manager 3 sales performance management": {
+          "ids": [
+            "workday-adobe-/job/Bangalore/Product-Manager-3_R169439"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "HCLTech": {
+      "daily": {
+        "2026-09-30": {
+          "total": 60,
+          "eng": 0
+        }
+      },
+      "pm": {
+        "product manager product lead": {
+          "ids": [
+            "sf-careers.hcltech.com-172343"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "data product manager": {
+          "ids": [
+            "sf-careers.hcltech.com-168347"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "ai product manager i": {
+          "ids": [
+            "sf-careers.hcltech.com-150376"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Icertis": {
+      "daily": {
+        "2026-09-30": {
+          "total": 37,
+          "eng": 9
+        }
+      },
+      "pm": {}
+    },
+    "Mensa Brands (BRND.ME)": {
+      "daily": {
+        "2026-09-30": {
+          "total": 48,
+          "eng": 3
+        }
+      },
+      "pm": {}
+    },
+    "Netradyne": {
+      "daily": {
+        "2026-09-30": {
+          "total": 24,
+          "eng": 11
+        }
+      },
+      "pm": {
+        "product manager integrations": {
+          "ids": [
+            "greenhouse-netradyne-4735299005"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "technical product manager integrations": {
+          "ids": [
+            "greenhouse-netradyne-4722020005"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "JPMorgan Chase": {
+      "daily": {
+        "2026-09-30": {
+          "total": 100,
+          "eng": 35
+        }
+      },
+      "pm": {
+        "product owner digital platform services vice president": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210790718"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "credit monitoring product owner vice president": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210783992"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "account ssi platform product owner vice president": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210777938"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "technical product manager": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210786038"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management transformation vice president": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210784785"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager business banking smb client frontline experiences": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210793790"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "securities services data ai product manager vice president": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210786065"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "digital product management associate": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210791632"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "executive director senior ai product manager": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210794392"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product director metrics": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210782853"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Mindtickle": {
+      "daily": {
+        "2026-09-30": {
+          "total": 17,
+          "eng": 7
+        }
+      },
+      "pm": {
+        "group product manager": {
+          "ids": [
+            "lever-mindtickle-4365dc2a-87b1-4751-bd30-c90c70dea92c"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "KPMG India": {
+      "daily": {
+        "2026-09-30": {
+          "total": 100,
+          "eng": 13
+        }
+      },
+      "pm": {}
+    },
+    "Open Financial Technologies": {
+      "daily": {
+        "2026-09-30": {
+          "total": 1,
+          "eng": 0
+        }
+      },
+      "pm": {}
+    },
+    "PayPal": {
+      "daily": {
+        "2026-09-30": {
+          "total": 3,
+          "eng": 1
+        }
+      },
+      "pm": {}
+    },
+    "Oracle": {
+      "daily": {
+        "2026-09-30": {
+          "total": 7,
+          "eng": 3
+        }
+      },
+      "pm": {}
+    },
+    "Polygon Labs": {
+      "daily": {
+        "2026-09-30": {
+          "total": 3,
+          "eng": 0
+        }
+      },
+      "pm": {
+        "director of product wallets treasury": {
+          "ids": [
+            "ashby-polygon-labs-660f2496-a0de-4600-be88-4fcd130dd958"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Paytm": {
+      "daily": {
+        "2026-09-30": {
+          "total": 176,
+          "eng": 9
+        }
+      },
+      "pm": {
+        "product management ads product experience 3 8 yrs": {
+          "ids": [
+            "lever-paytm-6cee2f1c-6cae-4e46-9533-d62283f56734"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management data product experience 5 8 yrs": {
+          "ids": [
+            "lever-paytm-26a6a342-55db-4262-8e75-648bd8338fd0"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management lending product experience 4 8 yrs": {
+          "ids": [
+            "lever-paytm-75992181-c0d0-44e7-805a-6dddfd0fe23b"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management payment product experience 5 8 yrs": {
+          "ids": [
+            "lever-paytm-dcc0e5d5-79c9-4021-84be-a435f54c71d3"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management paytm insurance i exp 3 to 6 years": {
+          "ids": [
+            "lever-paytm-afab6a29-2a98-4f63-8b45-f4b0aaefc1b4"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management paytm insurance i exp 6 to 8 years": {
+          "ids": [
+            "lever-paytm-5e3ae6dd-e4a3-4cfc-acb7-ae8b9d030cc1"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management paytm money": {
+          "ids": [
+            "lever-paytm-d73b511b-ae92-46f0-9aa1-ac10f2fbb84a"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management pi agents smb": {
+          "ids": [
+            "lever-paytm-9c74fdd9-36e1-4e42-839a-d52577bb3d70"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management risk product experience 5 8 yrs": {
+          "ids": [
+            "lever-paytm-5dbd7403-b047-48e1-b433-574933914ff3"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management upi product experience 3 5 yrs": {
+          "ids": [
+            "lever-paytm-4ee74e43-4001-457f-9ad8-f574689991d5"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management upi product experience 6 9 yrs": {
+          "ids": [
+            "lever-paytm-fec8e98b-d09b-4edb-b5a9-fe04aa079a3c"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "PhonePe": {
+      "daily": {
+        "2026-09-30": {
+          "total": 90,
+          "eng": 21
+        }
+      },
+      "pm": {
+        "product manager people tech": {
+          "ids": [
+            "smartrecruiters-PHONEPELIMITED-1000000000003325"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager insurance": {
+          "ids": [
+            "smartrecruiters-PHONEPELIMITED-1000000000003026"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "head of product international": {
+          "ids": [
+            "smartrecruiters-PHONEPELIMITED-1000000000002471"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product lead": {
+          "ids": [
+            "smartrecruiters-PHONEPELIMITED-1000000000002128"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager": {
+          "ids": [
+            "smartrecruiters-PHONEPELIMITED-1000000000001869"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Razorpay": {
+      "daily": {
+        "2026-09-30": {
+          "total": 22,
+          "eng": 2
+        }
+      },
+      "pm": {
+        "product manager ii": {
+          "ids": [
+            "greenhouse-razorpaysoftwareprivatelimited-4736965005"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager ii ads": {
+          "ids": [
+            "greenhouse-razorpaysoftwareprivatelimited-4729533005"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager ii ai": {
+          "ids": [
+            "greenhouse-razorpaysoftwareprivatelimited-4699107005"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "PwC India": {
+      "daily": {
+        "2026-09-30": {
+          "total": 12,
+          "eng": 0
+        }
+      },
+      "pm": {}
+    },
+    "Samsung R&D India": {
+      "daily": {
+        "2026-09-30": {
+          "total": 18,
+          "eng": 11
+        }
+      },
+      "pm": {}
+    },
+    "Sarvam AI": {
+      "daily": {
+        "2026-09-30": {
+          "total": 59,
+          "eng": 28
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "ashby-sarvam-9e197c29-5164-42eb-8e74-4f691a794517"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager on device edge ai": {
+          "ids": [
+            "ashby-sarvam-f462051e-ec76-45cf-96c5-e0192dd4dcc6"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager growth": {
+          "ids": [
+            "ashby-sarvam-929e2e12-7a2f-4e28-9d27-f220910b2125"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager monetization retention": {
+          "ids": [
+            "ashby-sarvam-6390e602-7b98-4700-baa9-ced5be8b1651"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager media entertainment sarvam studio": {
+          "ids": [
+            "ashby-sarvam-adbc090f-3aad-4b12-af36-a2f4b55c017e"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager chanakya": {
+          "ids": [
+            "ashby-sarvam-c4099026-b194-4b16-8a12-c7ae1a9b51a0"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager model apis": {
+          "ids": [
+            "ashby-sarvam-45986600-4da3-4e46-a204-2865392df169"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "ServiceNow": {
+      "daily": {
+        "2026-09-30": {
+          "total": 100,
+          "eng": 33
+        }
+      },
+      "pm": {
+        "director product design": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000152588729"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "business systems product manager": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000152533129"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal inbound product manager": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000152318489"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr staff outbound product manager data analytics": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000152293509"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr staff product manager": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000152119424"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Mastercard": {
+      "daily": {
+        "2026-09-30": {
+          "total": 112,
+          "eng": 55
+        }
+      },
+      "pm": {
+        "sr specialist product management": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Sr-Specialist--Product-Management_R-288316"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "lead product manager technical data lake data warehouse": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product manager technical": {
+          "ids": [
+            "workday-mastercard-/job/Vancouver-Canada/Principal-Product-Manager--Technical_R-278438"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager technical": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291719"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "director product manager disputes": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Director--Product-Manager--Disputes_R-288064"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "manager product management": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-290035"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "director product management customer acquisition and engagement": {
+          "ids": [
+            "workday-mastercard-/job/Shanghai-China/Director--Product-Management_R-291279"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "specialist product manager": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Specialist-Product-Manager_R-290356"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "director product management technical ai transformation": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Director-Product-Management---Technical---AI-transformation_R-290799-1"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "lead product manager technical": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289421"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "manager product management product resilience": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Manager--Product-Management--Product-Resilience_R-287961"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Slice": {
+      "daily": {
+        "2026-09-30": {
+          "total": 29,
+          "eng": 8
+        }
+      },
+      "pm": {}
+    },
+    "NVIDIA": {
+      "daily": {
+        "2026-09-30": {
+          "total": 97,
+          "eng": 83
+        }
+      },
+      "pm": {}
+    },
+    "Skyroot Aerospace": {
+      "daily": {
+        "2026-09-30": {
+          "total": 6,
+          "eng": 5
+        }
+      },
+      "pm": {}
+    },
+    "Swiggy": {
+      "daily": {
+        "2026-09-30": {
+          "total": 100,
+          "eng": 1
+        }
+      },
+      "pm": {
+        "product manager i": {
+          "ids": [
+            "smartrecruiters-swiggy-6000000001420615"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Verse Innovation (Dailyhunt/Josh)": {
+      "daily": {
+        "2026-09-30": {
+          "total": 6,
+          "eng": 5
+        }
+      },
+      "pm": {}
+    },
+    "Uniphore": {
+      "daily": {
+        "2026-09-30": {
+          "total": 1,
+          "eng": 1
+        }
+      },
+      "pm": {}
+    },
+    "VMware/Broadcom": {
+      "daily": {
+        "2026-09-30": {
+          "total": 3,
+          "eng": 2
+        }
+      },
+      "pm": {}
+    },
+    "Salesforce": {
+      "daily": {
+        "2026-09-30": {
+          "total": 103,
+          "eng": 37
+        }
+      },
+      "pm": {
+        "product manager sr product manager mulesoft": {
+          "ids": [
+            "workday-salesforce-/job/India---Bangalore/Product-Manager---Commerce-Platform--Hyderabad-_JR321301"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager emerging technology": {
+          "ids": [
+            "workday-salesforce-/job/New-York---New-York/Senior-Product-Manager--Emerging-Technology_JR355248"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager finance systems workday": {
+          "ids": [
+            "workday-salesforce-/job/Virginia---Remote/Senior-Product-Manager--Finance-Systems---Workday_JR355801"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager customer success": {
+          "ids": [
+            "workday-salesforce-/job/Indiana---Indianapolis/Product-Manager--Customer-Success_JR354315"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior product manager it finance": {
+          "ids": [
+            "workday-salesforce-/job/California---San-Francisco/Senior-Manager-Product--IT-Finance_JR351635"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Morgan Stanley": {
+      "daily": {
+        "2026-09-30": {
+          "total": 24,
+          "eng": 4
+        }
+      },
+      "pm": {
+        "cash management product owner platforms director wealth management": {
+          "ids": [
+            "eightfold-morganstanley.com-549800313792"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product owner sbl collateral self directed digital lal platforms associate wealth management": {
+          "ids": [
+            "eightfold-morganstanley.com-549799564223"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "head product owner digital client experience platforms executive director wealth management": {
+          "ids": [
+            "eightfold-morganstanley.com-549796735797"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product control director associate product controllers": {
+          "ids": [
+            "eightfold-morganstanley.com-549783041795"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "investment management finance director product controllers": {
+          "ids": [
+            "eightfold-morganstanley.com-549799809963"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "equity investment team support director product support services": {
+          "ids": [
+            "eightfold-morganstanley.com-549799720630"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Zenoti": {
+      "daily": {
+        "2026-09-30": {
+          "total": 51,
+          "eng": 5
+        }
+      },
+      "pm": {
+        "director product management": {
+          "ids": [
+            "greenhouse-zenoti-7513859003"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior manager product management": {
+          "ids": [
+            "greenhouse-zenoti-7729933003"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Target India": {
+      "daily": {
+        "2026-09-30": {
+          "total": 28,
+          "eng": 9
+        }
+      },
+      "pm": {
+        "senior product manager core data decision intelligence": {
+          "ids": [
+            "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Senior-Product-Manager---Core-Data---Decision-Intelligence_R0000449196"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "director of product management": {
+          "ids": [
+            "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-of-Product-Management_R0000449194"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "director product management": {
+          "ids": [
+            "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management_R0000448638"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "sr product manager media measurements": {
+          "ids": [
+            "workday-target-/job/BangaloreIndia/Sr-Product-Manager_R0000442398-1"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Zeta": {
+      "daily": {
+        "2026-09-30": {
+          "total": 24,
+          "eng": 8
+        }
+      },
+      "pm": {
+        "product manager i": {
+          "ids": [
+            "lever-zeta-8623c195-f912-4d87-952f-7114cd258413"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager ii": {
+          "ids": [
+            "lever-zeta-dbefd5b1-cc6a-4fe6-86d8-89800acee903"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Visa": {
+      "daily": {
+        "2026-09-30": {
+          "total": 65,
+          "eng": 43
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF084709W"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Zetwerk": {
+      "daily": {
+        "2026-09-30": {
+          "total": 5,
+          "eng": 1
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "freshteam-zetwerk-2000008857"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Wipro": {
+      "daily": {
+        "2026-09-30": {
+          "total": 60,
+          "eng": 8
+        }
+      },
+      "pm": {
+        "product management": {
+          "ids": [
+            "sf-careers.wipro.com-198456"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager l1": {
+          "ids": [
+            "sf-careers.wipro.com-201119"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management consulting": {
+          "ids": [
+            "sf-careers.wipro.com-198709"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "cto product lead": {
+          "ids": [
+            "sf-careers.wipro.com-191386"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Wells Fargo": {
+      "daily": {
+        "2026-09-30": {
+          "total": 106,
+          "eng": 40
+        }
+      },
+      "pm": {
+        "lead digital product manager": {
+          "ids": [
+            "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577975"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "lead digital product manager ciam": {
+          "ids": [
+            "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-570960-1"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "senior lead digital product manager access entitlements platform": {
+          "ids": [
+            "workday-wf-/job/Bengaluru-India/Senior-Lead-Digital-Product-Manager---Access---Entitlements-Platform_R-577570-1"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Zensar": {
+      "daily": {
+        "2026-09-30": {
+          "total": 86,
+          "eng": 34
+        }
+      },
+      "pm": {}
+    },
+    "Accenture": {
+      "daily": {
+        "2026-09-30": {
+          "total": 200,
+          "eng": 35
+        }
+      },
+      "pm": {
+        "product owner": {
+          "ids": [
+            "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management analyst": {
+          "ids": [
+            "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management lead": {
+          "ids": [
+            "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "ai product management practitioner": {
+          "ids": [
+            "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "portal product owner life and annuity business unit": {
+          "ids": [
+            "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Qualcomm": {
+      "daily": {
+        "2026-09-30": {
+          "total": 74,
+          "eng": 47
+        }
+      },
+      "pm": {
+        "senior android sw product manager": {
+          "ids": [
+            "eightfold-qualcomm.com-446721309717"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "staff director ai hw product management": {
+          "ids": [
+            "eightfold-qualcomm.com-446717846060"
+          ],
+          "lastSeen": "2026-09-30"
         }
       }
     }
