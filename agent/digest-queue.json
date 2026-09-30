@@ -881,6 +881,42 @@
       "url": "https://zinier.breezy.hr/p/37eda7cf5d55-product-lead",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "amazon-10565669",
+      "title": "Senior Product Manager - Tech, Selection Monitoring",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10565669/senior-product-manager-tech-selection-monitoring",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000152746979",
+      "title": "Staff Inbound Product Manager",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000152746979",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "vc-accel-95285128",
+      "title": "Product Manager / Sr. Product Manager - Mulesoft",
+      "company": "Airkit",
+      "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
+      "url": "https://www.salesforce.com/company/careers/jobs/JR321301/product-manager-sr-product-manager-mulesoft/",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "vc-peakxv-5dca8c71-9993-438f-ad51-da3c7f4be692",
+      "title": "Product Manager II - User Discovery",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-01"
     }
   ],
   "signals": [],

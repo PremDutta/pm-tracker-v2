@@ -15,8 +15,8 @@
           "eng": 37
         },
         "2026-09-30": {
-          "total": 95,
-          "eng": 37
+          "total": 94,
+          "eng": 38
         }
       },
       "pm": {
@@ -81,8 +81,8 @@
           "eng": 263
         },
         "2026-09-30": {
-          "total": 635,
-          "eng": 263
+          "total": 637,
+          "eng": 264
         }
       },
       "pm": {
@@ -214,7 +214,7 @@
           "eng": 48
         },
         "2026-09-30": {
-          "total": 124,
+          "total": 125,
           "eng": 48
         }
       },
@@ -382,7 +382,7 @@
           "eng": 90
         },
         "2026-09-30": {
-          "total": 192,
+          "total": 193,
           "eng": 85
         }
       },
@@ -568,7 +568,7 @@
           "eng": 43
         },
         "2026-09-30": {
-          "total": 91,
+          "total": 88,
           "eng": 43
         }
       },
@@ -608,7 +608,7 @@
           "eng": 36
         },
         "2026-09-30": {
-          "total": 181,
+          "total": 177,
           "eng": 37
         }
       },
@@ -658,7 +658,7 @@
           "eng": 33
         },
         "2026-09-30": {
-          "total": 163,
+          "total": 165,
           "eng": 33
         }
       },
@@ -744,7 +744,7 @@
           "eng": 46
         },
         "2026-09-30": {
-          "total": 128,
+          "total": 130,
           "eng": 46
         }
       },
@@ -765,8 +765,8 @@
           "eng": 406
         },
         "2026-09-30": {
-          "total": 837,
-          "eng": 411
+          "total": 834,
+          "eng": 410
         }
       },
       "pm": {
@@ -1293,8 +1293,8 @@
           "eng": 2
         },
         "2026-09-30": {
-          "total": 23,
-          "eng": 4
+          "total": 22,
+          "eng": 3
         }
       },
       "pm": {
@@ -1327,8 +1327,8 @@
           "eng": 30
         },
         "2026-09-30": {
-          "total": 79,
-          "eng": 30
+          "total": 80,
+          "eng": 31
         }
       },
       "pm": {
@@ -1442,7 +1442,7 @@
     "Amazon": {
       "daily": {
         "2026-09-30": {
-          "total": 91,
+          "total": 92,
           "eng": 4
         }
       },
@@ -1770,13 +1770,19 @@
             "amazon-10378944"
           ],
           "lastSeen": "2026-09-30"
+        },
+        "senior product manager tech selection monitoring": {
+          "ids": [
+            "amazon-10565669"
+          ],
+          "lastSeen": "2026-09-30"
         }
       }
     },
     "Glance": {
       "daily": {
         "2026-09-30": {
-          "total": 39,
+          "total": 38,
           "eng": 7
         }
       },
@@ -1785,7 +1791,8 @@
           "ids": [
             "greenhouse-glance-7921453"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-09-30",
+          "closedOn": "2026-09-30"
         },
         "senior product manager tokyo japan": {
           "ids": [
@@ -1892,7 +1899,7 @@
       "daily": {
         "2026-09-30": {
           "total": 72,
-          "eng": 19
+          "eng": 21
         }
       },
       "pm": {
@@ -1900,7 +1907,8 @@
           "ids": [
             "workable-innovaccer-analytics-F816AA3F7C"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-09-30",
+          "closedOn": "2026-09-30"
         },
         "4291 senior director product services": {
           "ids": [
@@ -1948,7 +1956,8 @@
           "ids": [
             "workable-innovaccer-analytics-A96013EB04"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-09-30",
+          "closedOn": "2026-09-30"
         },
         "director product population health": {
           "ids": [
@@ -2006,8 +2015,8 @@
     "Fractal": {
       "daily": {
         "2026-09-30": {
-          "total": 50,
-          "eng": 33
+          "total": 47,
+          "eng": 31
         }
       },
       "pm": {
@@ -2256,7 +2265,7 @@
     "Paytm": {
       "daily": {
         "2026-09-30": {
-          "total": 176,
+          "total": 174,
           "eng": 9
         }
       },
@@ -2504,13 +2513,25 @@
             "smartrecruiters-ServiceNow-744000152119424"
           ],
           "lastSeen": "2026-09-30"
+        },
+        "sr staff outbound product manager ai assistant": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000152754744"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "staff inbound product manager": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000152746979"
+          ],
+          "lastSeen": "2026-09-30"
         }
       }
     },
     "Mastercard": {
       "daily": {
         "2026-09-30": {
-          "total": 112,
+          "total": 109,
           "eng": 55
         }
       },
@@ -2595,8 +2616,8 @@
     "NVIDIA": {
       "daily": {
         "2026-09-30": {
-          "total": 97,
-          "eng": 83
+          "total": 96,
+          "eng": 82
         }
       },
       "pm": {}
@@ -2629,8 +2650,8 @@
     "Verse Innovation (Dailyhunt/Josh)": {
       "daily": {
         "2026-09-30": {
-          "total": 6,
-          "eng": 5
+          "total": 5,
+          "eng": 4
         }
       },
       "pm": {}
@@ -2657,7 +2678,7 @@
       "daily": {
         "2026-09-30": {
           "total": 103,
-          "eng": 37
+          "eng": 38
         }
       },
       "pm": {
@@ -2665,7 +2686,8 @@
           "ids": [
             "workday-salesforce-/job/India---Bangalore/Product-Manager---Commerce-Platform--Hyderabad-_JR321301"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-09-30",
+          "closedOn": "2026-09-30"
         },
         "senior product manager emerging technology": {
           "ids": [
@@ -2764,7 +2786,7 @@
     "Target India": {
       "daily": {
         "2026-09-30": {
-          "total": 28,
+          "total": 27,
           "eng": 9
         }
       },
@@ -2879,15 +2901,16 @@
           "ids": [
             "sf-careers.wipro.com-191386"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-09-30",
+          "closedOn": "2026-09-30"
         }
       }
     },
     "Wells Fargo": {
       "daily": {
         "2026-09-30": {
-          "total": 106,
-          "eng": 40
+          "total": 92,
+          "eng": 29
         }
       },
       "pm": {
@@ -2901,20 +2924,22 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-570960-1"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-09-30",
+          "closedOn": "2026-09-30"
         },
         "senior lead digital product manager access entitlements platform": {
           "ids": [
             "workday-wf-/job/Bengaluru-India/Senior-Lead-Digital-Product-Manager---Access---Entitlements-Platform_R-577570-1"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-09-30",
+          "closedOn": "2026-09-30"
         }
       }
     },
     "Zensar": {
       "daily": {
         "2026-09-30": {
-          "total": 86,
+          "total": 83,
           "eng": 34
         }
       },
@@ -2963,8 +2988,8 @@
     "Qualcomm": {
       "daily": {
         "2026-09-30": {
-          "total": 74,
-          "eng": 47
+          "total": 69,
+          "eng": 44
         }
       },
       "pm": {
@@ -2977,6 +3002,46 @@
         "staff director ai hw product management": {
           "ids": [
             "eightfold-qualcomm.com-446717846060"
+          ],
+          "lastSeen": "2026-09-30"
+        }
+      }
+    },
+    "Microsoft": {
+      "daily": {
+        "2026-09-30": {
+          "total": 71,
+          "eng": 37
+        }
+      },
+      "pm": {
+        "senior product manager": {
+          "ids": [
+            "eightfold-microsoft.com-1970393556962532"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product manager": {
+          "ids": [
+            "eightfold-microsoft.com-1970393556998872"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product manager ii": {
+          "ids": [
+            "eightfold-microsoft.com-1970393556995338"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "principal product management": {
+          "ids": [
+            "eightfold-microsoft.com-1970393556962542"
+          ],
+          "lastSeen": "2026-09-30"
+        },
+        "product management intern": {
+          "ids": [
+            "eightfold-microsoft.com-1970393556978896"
           ],
           "lastSeen": "2026-09-30"
         }
