@@ -89,16 +89,19 @@ export function computeSignals(history, boards, isPm, today) {
   return { history: { companies }, newSignals };
 }
 
-/** Appends signals (deduped), drops ones older than SIGNAL_DAYS, writes the file. */
+/** Appends signals (deduped), drops ones older than SIGNAL_DAYS, writes the
+ *  file, and returns only the signals that weren't already in it. */
 export async function saveSignals(newSignals, today) {
   const existing = (await readJson(SIGNALS_FILE, { signals: [] })).signals || [];
   const key = (s) => `${s.type}|${s.company}|${s.title || ''}|${s.id || s.url || s.date}`;
   const seen = new Set(existing.map(key));
   const cutoff = dayOffset(today, -SIGNAL_DAYS);
-  const signals = [...existing, ...newSignals.filter(s => !seen.has(key(s)))]
+  const fresh = newSignals.filter(s => !seen.has(key(s)) && s.date >= cutoff);
+  const signals = [...existing, ...fresh]
     .filter(s => s.date >= cutoff)
     .sort((a, b) => b.date.localeCompare(a.date) || a.company.localeCompare(b.company));
   await fs.writeFile(SIGNALS_FILE, JSON.stringify({ signals }, null, 2) + '\n');
+  return fresh;
 }
 
 export async function updateAtsSignals(boards, isPm, today = new Date().toISOString().slice(0, 10)) {

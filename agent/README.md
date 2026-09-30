@@ -32,6 +32,17 @@ Pings you on Telegram and/or WhatsApp only when something new shows up. No serve
 
 **Does not cover Naukri, IIMJobs, Hirist, Foundit, or Shine** — no legal API exists for those. Keep checking those through the app's own platform grid (it now tracks "last checked" per platform for exactly this reason).
 
+## How alerts reach you (`digest.mjs`)
+
+Scans run every 6 hours, but they don't message you each time:
+
+- **Morning digest, 8:00 AM IST.** One message with everything new since the last digest: new govt & PSU roles, new PM roles, govt roles closing this week, and hiring signals (reposted roles, engineering spikes, funding at companies in `companies.json`). New jobs wait in `digest-queue.json` until a digest is actually delivered, so nothing is lost if WhatsApp or Telegram is down.
+- **Urgent, sent by any scan:** a new govt role closing within 3 days, a reminder when a govt deadline is **3 days** and again **1 day** away (each sent once, retried next scan if delivery fails), and reposted PM roles.
+- The scanner can't see your in-browser Tracker, so deadline reminders go out for every open govt role with a deadline, including ones you've already applied to.
+
+**Send the digest now:** Actions → *Scan for new PM jobs* → *Run workflow* → tick *Also send the digest now*.
+**Preview without sending:** `ALERTS_DRY_RUN=1 SEND_DIGEST=1 node agent/scan-jobs.mjs` prints the messages instead of sending them.
+
 ## Adding your own target companies
 
 Edit `agent/companies.json` — an array of `{ "name": ..., "ats": ..., "slug": ... }`. `ats` must be one of `greenhouse`, `lever`, `ashby`, `smartrecruiters`, `workable`, `recruitee`. To find a company's slug, look at their careers page URL:

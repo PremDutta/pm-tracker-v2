@@ -2,12 +2,26 @@ name: Scan for new PM jobs
 
 on:
   schedule:
-    # Every 6 hours. Free and unlimited on a public repo.
+    # Scan every 6 hours. New roles are queued, not sent; only urgent items
+    # (govt deadlines within 3 days, reposted roles) go out immediately.
     - cron: '0 */6 * * *'
-  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab to test
+    # 02:30 UTC = 8:00 AM IST: scan, then send the morning digest.
+    - cron: '30 2 * * *'
+  workflow_dispatch: # run manually from the Actions tab
+    inputs:
+      send_digest:
+        description: 'Also send the digest now (instead of waiting for 8 AM IST)'
+        type: boolean
+        default: false
+
+# Two runs never overlap (the 00:00 and 02:30 UTC runs are close), so they
+# can't race each other committing the scanner's state files.
+concurrency:
+  group: job-scan
+  cancel-in-progress: false
 
 permissions:
-  contents: write # needed to commit agent/seen-jobs.json + agent/govt-openings.json back
+  contents: write # needed to commit the scanner's state files back
 
 jobs:
   scan:
@@ -28,12 +42,15 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          SEND_DIGEST: ${{ (github.event.schedule == '30 2 * * *' || inputs.send_digest) && '1' || '0' }}
         run: node agent/scan-jobs.mjs
 
       - name: Commit updated scanner state (seen jobs, govt openings, hiring signals)
         run: |
           git config user.name "pm-job-scan-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add agent/seen-jobs.json agent/govt-openings.json agent/ats-history.json agent/signals.json
+          git add agent/seen-jobs.json agent/govt-openings.json agent/ats-history.json agent/signals.json agent/digest-queue.json
           git diff --staged --quiet || git commit -m "Update seen jobs [skip ci]"
-          git push
+          # The queue and reminder state must land, or a digest/reminder could be
+          # re-sent: if main moved during the run, rebase onto it and retry.
+          for i in 1 2 3; do git push && break; git pull --rebase origin main; done

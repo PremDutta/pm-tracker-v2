@@ -32,6 +32,7 @@ import { fetchGovtOpenings } from './govt.mjs';
 import { updateAtsSignals, saveSignals } from './signals.mjs';
 import { fetchFundingSignals } from './funding.mjs';
 import { fetchVcBoards } from './vc-boards.mjs';
+import { istToday, loadQueue, saveQueue, enqueue, urgentItems, urgentText, digestText, markReminders } from './digest.mjs';
 
 const AGENT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const SEEN_FILE = path.join(AGENT_DIR, 'seen-jobs.json');
@@ -298,44 +299,6 @@ async function fetchCompanyATS() {
   return { pmJobs: results.flat(), boards };
 }
 
-const FLAG_LABELS = { age_limit_mentioned: 'age limit', mba_mentioned: 'MBA asked', contract: 'contract', corrigendum: 'corrigendum' };
-
-// Deadline + eligibility flags, for govt notices that carry them.
-function govtNote(job) {
-  const bits = [];
-  if (job.deadline) bits.push(`closes ${job.deadline}`);
-  for (const f of job.flags || []) if (FLAG_LABELS[f]) bits.push(FLAG_LABELS[f]);
-  return bits.length ? `\n  ⏳ ${bits.join(' · ')}` : '';
-}
-
-// Same title at the same company (NBBL often posts one role twice) is one line
-// with a count, not two identical alerts.
-function groupDuplicates(jobs) {
-  const groups = new Map();
-  for (const j of jobs) {
-    const key = `${j.title.toLowerCase().replace(/\s+/g, ' ').trim()}|${j.company.toLowerCase()}`;
-    const g = groups.get(key);
-    if (g) g.count++;
-    else groups.set(key, { ...j, count: 1 });
-  }
-  return [...groups.values()];
-}
-
-async function alertNewJobs(newJobs, signals = []) {
-  const reposted = new Set(signals.filter(s => s.type === 'reopened').map(s => s.id));
-  // Govt roles first: they're rarer, and must never fall below the 15-item cut.
-  const grouped = groupDuplicates(newJobs);
-  const ordered = [...grouped.filter(j => j.id.startsWith('govt-')), ...grouped.filter(j => !j.id.startsWith('govt-'))];
-  const shown = ordered.slice(0, 15);
-  const lines = shown.map(j => `• ${reposted.has(j.id) ? '🔁 REPOSTED (first hire fell through, move fast): ' : ''}${j.title} — ${j.company} (${j.location || 'India'})${j.count > 1 ? ` ×${j.count} openings` : ''}${govtNote(j)}\n  ${j.url}\n  [${j.source}]`);
-  let text = `🎯 ${newJobs.length} new PM job${newJobs.length === 1 ? '' : 's'} found:\n\n${lines.join('\n\n')}`;
-  if (ordered.length > shown.length) text += `\n\n…and ${ordered.length - shown.length} more.`;
-  const spikes = signals.filter(s => s.type === 'eng_spike' || (s.type === 'funding' && s.watched)).slice(0, 5);
-  if (spikes.length) text += `\n\n🔭 Hiring signals (PM roles likely soon):\n${spikes.map(s => s.type === 'funding' ? `• ${s.company} just raised: ${s.title}` : `• ${s.company}: ${s.detail}`).join('\n')}`;
-  if (shown.some(j => j.id.startsWith('govt-'))) text += '\n\nAll open govt roles: https://pm-tracker-v2.vercel.app (Govt & PSU tab)';
-  return sendAlert(text);
-}
-
 async function loadSeen() {
   try {
     const raw = await fs.readFile(SEEN_FILE, 'utf8');
@@ -390,7 +353,7 @@ async function main() {
   // companies.json make it into the phone alert.
   const watched = new Set((await loadCompanies()).map(c => c.name.toLowerCase()));
   const atsSignals = [...await updateAtsSignals(atsResult.boards, isPm, today), ...fundingSignals.map(s => ({ ...s, ...(watched.has(s.company.toLowerCase()) && { watched: true }) }))];
-  await saveSignals(atsSignals, today);
+  const freshSignals = await saveSignals(atsSignals, today);
   if (atsSignals.length) console.log(`Hiring signals: ${atsSignals.length} (${atsSignals.filter(s => s.type !== 'funding').map(s => `${s.type} @ ${s.company}`).join(', ') || 'funding news only'})`);
   const allJobs = [...adzuna, ...jsearch, ...companyATS, ...govt, ...vc];
   console.log(`Fetched ${adzuna.length} from Adzuna, ${jsearch.length} from JSearch, ${companyATS.length} from company ATS feeds, ${govt.length} from govt/PSU sources, ${vc.length} from VC portfolio boards (${allJobs.length} total).`);
@@ -414,15 +377,44 @@ async function main() {
   const newJobs = allJobs.filter(j => j.id && !seenSet.has(j.id) && !inBaseline(j));
   if (baselineNow.size) console.log(`Sources with a backlog on first read (recorded, no alert): ${[...baselineNow].join(', ')}`);
 
-  let delivered = 0;
+  // Every new job goes into the digest queue and is marked seen: the queue,
+  // not the seen list, is what holds it until a digest is delivered.
+  let queue = await loadQueue();
+  const todayIst = istToday();
+  const digestSignals = freshSignals.filter(s => s.type !== 'funding' || s.watched);
   if (seen.firstRun) {
     console.log('First run — recording current jobs as a baseline, not sending an alert for all of them.');
-  } else if (newJobs.length > 0) {
-    console.log(`${newJobs.length} new job(s) since last run.`);
-    delivered = await alertNewJobs(newJobs, atsSignals);
   } else {
-    console.log('No new jobs since last run.');
+    console.log(newJobs.length ? `${newJobs.length} new job(s) since last run, queued for the morning digest.` : 'No new jobs since last run.');
+    // Jobs left unseen by older runs that had no alert channel are picked up here too.
+    queue = enqueue(queue, newJobs, digestSignals, todayIst);
   }
+
+  // Urgent: can't wait for 8 AM.
+  const openings = JSON.parse(await fs.readFile(GOVT_OPENINGS_FILE, 'utf8')).openings || [];
+  const urgent = urgentItems({ newJobs: seen.firstRun ? [] : newJobs, openings, signals: freshSignals, reminders: queue.reminders, today: todayIst });
+  const urgentMsg = urgentText(urgent, todayIst);
+  if (urgentMsg) {
+    console.log(`Urgent: ${urgent.newClosing.length} new govt role(s) closing soon, ${urgent.reminders.length} deadline reminder(s), ${urgent.reposted.length} reposted role(s).`);
+    if (await sendAlert(urgentMsg)) queue = { ...queue, reminders: markReminders(queue.reminders, urgent.reminders, openings, todayIst) };
+    else console.log('Urgent alert not delivered; reminders will retry next run.');
+  }
+  queue = { ...queue, reminders: markReminders(queue.reminders, [], openings, todayIst) };
+
+  // Morning digest: the 8 AM IST run (or a manual run with send_digest) sets SEND_DIGEST=1.
+  if (env('SEND_DIGEST') === '1') {
+    const text = digestText(queue, openings, todayIst);
+    if (!text) console.log('Digest: nothing new to send.');
+    else if (await sendAlert(text)) {
+      console.log(`Digest sent: ${queue.jobs.length} job(s), ${queue.signals.length} signal(s).`);
+      queue = { ...queue, jobs: [], signals: [] };
+    } else {
+      console.log(`Digest not delivered; ${queue.jobs.length} job(s) stay queued for the next digest.`);
+    }
+  } else if (queue.jobs.length) {
+    console.log(`Digest queue: ${queue.jobs.length} job(s), ${queue.signals.length} signal(s) waiting for 8:00 AM IST.`);
+  }
+  await saveQueue(queue);
 
   // Dedupe — without this, a job that's still listed on a later run (the
   // common case, since postings stay up for weeks) gets re-appended every
@@ -430,14 +422,26 @@ async function main() {
   // handful of jobs instead of real history.
   // Every careers page read this run is baselined, including ones with no
   // matching notice yet, so the first real notice on it later does alert.
-  // Jobs whose alert reached no channel (secrets missing, API down) stay
-  // unseen, so they alert on the first run that can deliver them.
-  const undelivered = new Set(!seen.firstRun && delivered === 0 ? newJobs.map(j => j.id) : []);
-  if (undelivered.size) console.log(`${undelivered.size} new job(s) kept pending: no alert channel delivered this run.`);
-  await saveSeen([...new Set([...seen.ids, ...allJobs.map(j => j.id)])].filter(id => !undelivered.has(id)), new Set([...baselined, ...govtResult.noticePagesRead, ...vcResult.readOk]));
+  await saveSeen([...new Set([...seen.ids, ...allJobs.map(j => j.id)])], new Set([...baselined, ...govtResult.noticePagesRead, ...vcResult.readOk]));
 }
 
-main().catch(err => {
-  console.error('Agent run failed:', err);
+// Keep the process alive until main() settles. The per-request timeouts
+// (AbortSignal.timeout) use unref'd timers, so if every remaining request
+// stalls, Node would otherwise exit 0 mid-run, silently, leaving the state files
+// half-updated for the commit step. With the loop held open those timeouts
+// fire and the stalled requests fail normally; the watchdog is the backstop.
+const keepAlive = setInterval(() => {}, 60_000);
+const watchdog = setTimeout(() => {
+  console.error('Agent run exceeded 15 minutes; aborting without saving.');
   process.exit(1);
-});
+}, 15 * 60_000);
+
+main()
+  .catch(err => {
+    console.error('Agent run failed:', err);
+    process.exitCode = 1;
+  })
+  .finally(() => {
+    clearInterval(keepAlive);
+    clearTimeout(watchdog);
+  });

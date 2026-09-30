@@ -162,3 +162,49 @@ test('mailto listings: role titles from application subjects', () => {
   const roles = mailtoRoles(html, { name: 'ONDC', short: 'ONDC', careersUrl: 'https://ondc.org/pages/careers.html', category: 'section8_govt' });
   assert.deepEqual(roles.map(r => r.title), ['SVP Product (Product Head)', 'Product Lead / Principal Product Manager']);
 });
+
+// ─── Digest + urgent alerts ─────────────────────────────────────────────────
+import { istToday, daysLeft, enqueue, urgentItems, urgentText, digestText, markReminders } from './digest.mjs';
+
+test('istToday uses India time: 20:00 UTC is already the next day in IST', () => {
+  assert.equal(istToday(new Date('2026-09-30T20:00:00Z')), '2026-10-01');
+  assert.equal(istToday(new Date('2026-09-30T18:00:00Z')), '2026-09-30');
+  assert.equal(daysLeft('2026-10-03', '2026-09-30'), 3);
+});
+
+const opening = (id, deadline) => ({ id, title: `Role ${id}`, company: 'NeGD', url: `https://x.gov.in/${id}`, deadline, flags: [] });
+
+test('urgent: new govt roles closing within 3 days, and each reminder stage fires once', () => {
+  const today = '2026-09-30';
+  const openings = [opening('govt-a', '2026-10-03'), opening('govt-b', '2026-10-01'), opening('govt-c', '2026-10-20'), opening('govt-d', '2026-09-29')];
+  const newJobs = [opening('govt-new', '2026-10-02'), { ...opening('pm-1', null), id: 'ashby-x-1' }];
+  let u = urgentItems({ newJobs, openings, signals: [], reminders: {}, today });
+  assert.deepEqual(u.newClosing.map(j => j.id), ['govt-new']);
+  assert.deepEqual(u.reminders.map(o => [o.id, o.stage]), [['govt-a', '3d'], ['govt-b', '1d']]);   // not c (20 days), not d (closed)
+  assert.match(urgentText(u, today), /closing within 3 days[\s\S]*deadline reminder/);
+
+  const reminders = markReminders({}, u.reminders, openings, today);
+  u = urgentItems({ newJobs: [], openings, signals: [], reminders, today });
+  assert.deepEqual(u.reminders, []);                                             // same day: nothing repeats
+  u = urgentItems({ newJobs: [], openings, signals: [], reminders, today: '2026-10-02' });
+  assert.deepEqual(u.reminders.map(o => [o.id, o.stage]), [['govt-a', '1d']]);  // a moves to its 1-day stage
+  assert.equal(urgentText({ newClosing: [], reminders: [], reposted: [] }, today), '');
+});
+
+test('digest: queue dedupes, sections by type, empty when there is nothing', () => {
+  const today = '2026-09-30';
+  let q = { jobs: [], signals: [], reminders: {} };
+  const pm = { id: 'ashby-x-1', title: 'Senior Product Manager', company: 'Acme', url: 'https://jobs.ashbyhq.com/acme/1', source: 'Ashby' };
+  q = enqueue(q, [pm, opening('govt-a', '2026-10-05')], [{ type: 'funding', company: 'Acme', title: 'Acme raises $5M', watched: true, date: today }], today);
+  q = enqueue(q, [pm], [{ type: 'funding', company: 'Acme', title: 'Acme raises $5M', watched: true, date: today }], today);
+  assert.equal(q.jobs.length, 2);
+  assert.equal(q.signals.length, 1);
+  const text = digestText(q, [opening('govt-a', '2026-10-05')], today);
+  assert.match(text, /PM jobs digest, 30\/09\/2026/);
+  assert.match(text, /New govt & PSU roles \(1\)[\s\S]*New PM roles \(1\)[\s\S]*Acme just raised/);
+  assert.match(digestText({ ...q, jobs: [pm] }, [opening('govt-a', '2026-10-05')], today), /closing this week \(1\)/);
+  assert.equal(digestText({ jobs: [], signals: [], reminders: {} }, [], today), '');
+  // A role that is both new and closing this week is listed once, under new roles.
+  const both = digestText(q, [opening('govt-a', '2026-10-05')], today);
+  assert.equal((both.match(/Role govt-a/g) || []).length, 1);
+});

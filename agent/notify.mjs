@@ -4,6 +4,7 @@
 // live in one place:
 //
 //   Telegram: TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID
+//   (ALERTS_DRY_RUN=1 prints instead of sending, for previews and tests)
 //   WhatsApp: WHATSAPP_PHONE (with country code, e.g. +9198XXXXXXXX) +
 //             CALLMEBOT_APIKEY, via CallMeBot's free personal WhatsApp API
 //             (https://www.callmebot.com/blog/free-api-whatsapp-messages/)
@@ -81,6 +82,12 @@ export async function sendWhatsApp(text) {
 }
 
 export async function sendAlert(text) {
+  // ALERTS_DRY_RUN=1 prints the message instead of sending it and counts it as
+  // delivered: for previewing a digest or testing the flow without secrets.
+  if (process.env.ALERTS_DRY_RUN === '1') {
+    console.log(`\n----- ALERT (dry run, not sent) -----\n${text}\n----- END ALERT -----\n`);
+    return 1;
+  }
   const channels = [['Telegram', sendTelegram], ['WhatsApp', sendWhatsApp]];
   let delivered = 0;
   for (const [name, send] of channels) {
