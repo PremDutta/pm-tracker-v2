@@ -1,0 +1,456 @@
+{
+  "jobs": [
+    {
+      "id": "ashby-photoroom-022b6f5b-bb46-45b7-801a-8a5f3b92a968",
+      "title": "Senior Product Manager, SMB e-commerce Growth",
+      "company": "Photoroom",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/photoroom/022b6f5b-bb46-45b7-801a-8a5f3b92a968",
+      "source": "Ashby (Photoroom)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "ashby-photoroom-7c34d35a-c405-4d19-bd6a-38f8dd2081a7",
+      "title": "Staff Product Manager, Agentic & AI Platform",
+      "company": "Photoroom",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/photoroom/7c34d35a-c405-4d19-bd6a-38f8dd2081a7",
+      "source": "Ashby (Photoroom)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "ashby-photoroom-d075be71-4a2d-489a-9879-18e43363094e",
+      "title": "Senior Product Manager, Core Product",
+      "company": "Photoroom",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/photoroom/d075be71-4a2d-489a-9879-18e43363094e",
+      "source": "Ashby (Photoroom)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "lever-meesho-2028b73c-2ae0-4fca-903e-481b8c500629",
+      "title": "Senior Product Manager",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/2028b73c-2ae0-4fca-903e-481b8c500629",
+      "source": "Lever (Meesho)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "lever-meesho-97ce9e5a-a8bb-446d-a8db-9078603b106f",
+      "title": "Senior Product Manager - Data & Analytics Platform",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/97ce9e5a-a8bb-446d-a8db-9078603b106f",
+      "source": "Lever (Meesho)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "zoho-myoperator-163599000034203948",
+      "title": "Product Manager - Conversational AI",
+      "company": "MyOperator",
+      "location": "Noida, India",
+      "url": "https://careers.myoperator.com/jobs/Careers/163599000034203948/Product-Manager-Conversational-AI?source=CareerSite",
+      "source": "Zoho Recruit (MyOperator)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "zoho-go-yubi-66789000036436848",
+      "title": "Product Manager",
+      "company": "Yubi",
+      "location": "Bangalore, India",
+      "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036436848/Product-Manager?source=CareerSite",
+      "source": "Zoho Recruit (Yubi)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "zoho-go-yubi-66789000036412626",
+      "title": "Senior Product Manager",
+      "company": "Yubi",
+      "location": "Bangalore South, India",
+      "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
+      "source": "Zoho Recruit (Yubi)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "zoho-go-yubi-66789000016213700",
+      "title": "Senior Product Manager",
+      "company": "Yubi",
+      "location": "Chennai, India",
+      "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
+      "source": "Zoho Recruit (Yubi)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "zoho-go-yubi-66789000016378881",
+      "title": "Product Owner",
+      "company": "Yubi",
+      "location": "Ahmadabad City, India",
+      "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016378881/Product-Owner?source=CareerSite",
+      "source": "Zoho Recruit (Yubi)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "zoho-go-yubi-66789000021551404",
+      "title": "Product Manager - II",
+      "company": "Yubi",
+      "location": "Chennai, India",
+      "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000021551404/Product-Manager-II?source=CareerSite",
+      "source": "Zoho Recruit (Yubi)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "zoho-vedantu-95146000003170110",
+      "title": "AI Product Manager",
+      "company": "Vedantu",
+      "location": "Bangalore, India",
+      "url": "https://vedantu.zohorecruit.in/jobs/Careers/95146000003170110/AI-Product-Manager?source=CareerSite",
+      "source": "Zoho Recruit (Vedantu)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "keka-zluri-89845",
+      "title": "Senior Product Manager",
+      "company": "Zluri",
+      "location": "",
+      "url": "https://zluri.keka.com/careers/jobdetails/89845",
+      "source": "Keka (Zluri)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "keka-gokwik-150448",
+      "title": "Senior Product Manager",
+      "company": "GoKwik",
+      "location": "Bangalore",
+      "url": "https://gokwik.keka.com/careers/jobdetails/150448",
+      "source": "Keka (GoKwik)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "keka-gocomet-122455",
+      "title": "Product Manager",
+      "company": "GoComet",
+      "location": "Bangalore",
+      "url": "https://gocomet.keka.com/careers/jobdetails/122455",
+      "source": "Keka (GoComet)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "freshteam-letstransport-2000049183",
+      "title": "Product Manager",
+      "company": "LetsTransport",
+      "location": "Bengaluru, India",
+      "url": "https://letstransport.freshteam.com/jobs/J2_Td7V_HRv5/product-manager",
+      "source": "Freshteam (LetsTransport)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "freshteam-gonoise-2000071781",
+      "title": "AD/Director - Product NFA",
+      "company": "Noise",
+      "location": "Gurugram, India",
+      "url": "https://gonoise.freshteam.com/jobs/psTecFY1YPBK/ad-director-product-nfa",
+      "source": "Freshteam (Noise)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "freshteam-gonoise-2000074163",
+      "title": "Product Manager - Growth",
+      "company": "Noise",
+      "location": "Gurugram, India",
+      "url": "https://gonoise.freshteam.com/jobs/koWP5BCPNaP7/product-manager-growth",
+      "source": "Freshteam (Noise)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "freshteam-gonoise-2000074122",
+      "title": "Technical Product Manager (R&D) – Wearables",
+      "company": "Noise",
+      "location": "Gurgaon, India",
+      "url": "https://gonoise.freshteam.com/jobs/QvyYK4S4dY7c/technical-product-manager-r-d-wearables",
+      "source": "Freshteam (Noise)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-npci-190737000005755350",
+      "title": "Lead NETC Product Development",
+      "company": "National Payments Corporation of India",
+      "location": "Mumbai",
+      "url": "https://careers.npci.org.in/jobs/Careers/190737000005755350/Lead-NETC-Product-Development?source=CareerSite",
+      "source": "🏛️ Govt (NPCI)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-npci-190737000005599109",
+      "title": "Lead Product Management",
+      "company": "NPCI Bharat BillPay Ltd",
+      "location": "Mumbai",
+      "url": "https://careers.npci.org.in/jobs/Careers/190737000005599109/Lead-Product-Management?source=CareerSite",
+      "source": "🏛️ Govt (NPCI)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-npci-190737000003275827",
+      "title": "Senior Associate NACH Product",
+      "company": "National Payments Corporation of India",
+      "location": "Mumbai",
+      "url": "https://careers.npci.org.in/jobs/Careers/190737000003275827/Senior-Associate-NACH-Product?source=CareerSite",
+      "source": "🏛️ Govt (NPCI)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-npci-190737000003275811",
+      "title": "Senior Associate Product Development NACH",
+      "company": "National Payments Corporation of India",
+      "location": "Mumbai",
+      "url": "https://careers.npci.org.in/jobs/Careers/190737000003275811/Senior-Associate-Product-Development-NACH?source=CareerSite",
+      "source": "🏛️ Govt (NPCI)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-npci-190737000004112255",
+      "title": "Senior Associate - IMPS Product Management",
+      "company": "National Payments Corporation of India",
+      "location": "Mumbai",
+      "url": "https://careers.npci.org.in/jobs/Careers/190737000004112255/Senior-Associate-IMPS-Product-Management?source=CareerSite",
+      "source": "🏛️ Govt (NPCI)",
+      "deadline": null,
+      "flags": [
+        "mba_mentioned"
+      ],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-npci-190737000001786230",
+      "title": "Senior Lead Product Development",
+      "company": "NPCI Bharat BillPay Ltd",
+      "location": "Mumbai",
+      "url": "https://careers.npci.org.in/jobs/Careers/190737000001786230/Senior-Lead-Product-Development?source=CareerSite",
+      "source": "🏛️ Govt (NPCI)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-npci-190737000002631850",
+      "title": "Senior Lead Product Development",
+      "company": "NPCI Bharat BillPay Ltd",
+      "location": "Mumbai",
+      "url": "https://careers.npci.org.in/jobs/Careers/190737000002631850/Senior-Lead-Product-Development?source=CareerSite",
+      "source": "🏛️ Govt (NPCI)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-rbih-product-manager-lending",
+      "title": "Product Manager — Lending",
+      "company": "Reserve Bank Innovation Hub",
+      "location": "Bengaluru (On-site)",
+      "url": "https://rbihub.in/career/product-manager-lending/",
+      "source": "🏛️ Govt (RBIH)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-rbih-product-manager-new-initiatives-and-platform",
+      "title": "Product Manager – New Initiatives & Platform",
+      "company": "Reserve Bank Innovation Hub",
+      "location": "Bengaluru (On-site)",
+      "url": "https://rbihub.in/career/product-manager-new-initiatives-and-platform/",
+      "source": "🏛️ Govt (RBIH)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-rbih-senior-product-manager",
+      "title": "Senior Product Manager",
+      "company": "Reserve Bank Innovation Hub",
+      "location": "Bengaluru / Mumbai",
+      "url": "https://rbihub.in/career/senior-product-manager/",
+      "source": "🏛️ Govt (RBIH)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-rbih-product-manager",
+      "title": "Product Manager",
+      "company": "Reserve Bank Innovation Hub",
+      "location": "Bengaluru / Mumbai",
+      "url": "https://rbihub.in/career/product-manager/",
+      "source": "🏛️ Govt (RBIH)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-notice-026924a956f8c74b",
+      "title": "Program Manager / General Manager Delhi-NCR",
+      "company": "National e-Governance Division",
+      "location": "",
+      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/09/Vacancy-Advertisement-for-OPOP-Project-Positions-Sep-2026.pdf",
+      "source": "🏛️ Govt (NeGD careers page)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-ondc-svp-product-product-head-",
+      "title": "SVP Product (Product Head)",
+      "company": "Open Network for Digital Commerce",
+      "location": "New Delhi",
+      "url": "https://ondc.org/pages/careers.html",
+      "source": "🏛️ Govt (ONDC careers page)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-ondc-product-lead-principal-product-manager",
+      "title": "Product Lead / Principal Product Manager",
+      "company": "Open Network for Digital Commerce",
+      "location": "New Delhi",
+      "url": "https://ondc.org/pages/careers.html",
+      "source": "🏛️ Govt (ONDC careers page)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-egov-91566000002454192",
+      "title": "Product Manager - Digital Health (Public Health)",
+      "company": "eGov Foundation",
+      "location": "Bengaluru",
+      "url": "https://careers.egov.org.in/jobs/Careers/91566000002454192/Product-Manager-Digital-Health-Public-Health?source=CareerSite",
+      "source": "🏛️ Govt (eGov)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-wadhwani-ai-146520000006119605",
+      "title": "Associate Director - Product",
+      "company": "Wadhwani AI",
+      "location": "New Delhi",
+      "url": "https://wadhwaniai.zohorecruit.in/jobs/Careers/146520000006119605/Associate-Director-Product?source=CareerSite",
+      "source": "🏛️ Govt (Wadhwani AI)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "govt-bharat-digital-job-board-cmugmln3k0029yk2wdavhcayc",
+      "title": "Associate Director - Product",
+      "company": "Wadhwani AI",
+      "location": "New Delhi",
+      "url": "https://wadhwaniai.zohorecruit.in/jobs/Careers/146520000006119605/Associate-Director---Product?source=CareerSite",
+      "source": "🏛️ Govt (Bharat Digital job board)",
+      "deadline": "2026-10-22",
+      "flags": [],
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-95110732",
+      "title": "Product Manager (AML, Sanctions, Fraud, Transaction Monitoring, Screening, KYC) (6-10 Years)",
+      "company": "Pismo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF087040W",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-95105656",
+      "title": "Principal Product Manager",
+      "company": "Ethos Life",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/ethoslife/jobs/8853171002",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-95054952",
+      "title": "Associate Product Manager (B2C)",
+      "company": "Credgenics",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/associate-product-manager-b2c-at-credgenics-4472718783",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-95020750",
+      "title": "Senior Product Manager",
+      "company": "Cohesity",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Bangalore---India-Office/Senior-Product-Manager_R04821-1",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-94997268",
+      "title": "Product Manager (Data Governance Platform, Metadata Management, Data Stewardship, Access Management) (6-12 years)",
+      "company": "Pismo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-94984367",
+      "title": "Product Manager - Remote",
+      "company": "Sprinto ",
+      "location": "India, Remote",
+      "url": "https://jobs.lever.co/Sprinto/1880a0c2-4378-473e-9868-25710741dd28",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-accel-82636843",
+      "title": "Principal Product Manager",
+      "company": "UiPath",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jobs.ashbyhq.com/uipath/d3ef8c17-984f-4138-a853-cca29eaa7133",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-peakxv-4736965005",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-peakxv-2028b73c-2ae0-4fca-903e-481b8c500629",
+      "title": "Senior Product Manager",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/2028b73c-2ae0-4fca-903e-481b8c500629",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-09-30"
+    },
+    {
+      "id": "vc-peakxv-97ce9e5a-a8bb-446d-a8db-9078603b106f",
+      "title": "Senior Product Manager - Data & Analytics Platform",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/97ce9e5a-a8bb-446d-a8db-9078603b106f",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-09-30"
+    }
+  ],
+  "signals": [],
+  "reminders": {}
+}
