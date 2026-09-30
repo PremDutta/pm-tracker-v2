@@ -23,7 +23,7 @@
   { "name": "Spotify", "ats": "lever", "slug": "spotify" },
   { "name": "Ramp", "ats": "ashby", "slug": "ramp" },
 
-  { "name": "Postman", "ats": "greenhouse", "slug": "postman" },
+  { "name": "Postman", "ats": "workday", "slug": { "tenant": "postman", "wd": 108, "site": "careers" } },
   { "name": "Groww", "ats": "greenhouse", "slug": "groww" },
   { "name": "CRED", "ats": "lever", "slug": "cred" },
   { "name": "Meesho", "ats": "lever", "slug": "meesho" },

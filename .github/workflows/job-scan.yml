@@ -49,7 +49,7 @@ jobs:
         run: |
           git config user.name "pm-job-scan-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add agent/seen-jobs.json agent/govt-openings.json agent/ats-history.json agent/signals.json agent/digest-queue.json
+          git add agent/seen-jobs.json agent/govt-openings.json agent/ats-history.json agent/signals.json agent/digest-queue.json agent/company-roles.json
           git diff --staged --quiet || git commit -m "Update seen jobs [skip ci]"
           # The queue and reminder state must land, or a digest/reminder could be
           # re-sent: if main moved during the run, rebase onto it and retry.

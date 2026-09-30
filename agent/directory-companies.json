@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Accenture",
+    "ats": "workday",
+    "slug": {
+      "tenant": "accenture",
+      "wd": 103,
+      "site": "AccentureCareers"
+    }
+  },
+  {
+    "name": "Adobe",
+    "ats": "workday",
+    "slug": {
+      "tenant": "adobe",
+      "wd": 5,
+      "site": "external_experienced"
+    }
+  },
+  {
+    "name": "Amazon",
+    "ats": "amazon",
+    "slug": {
+      "site": "amazon.jobs"
+    }
+  },
+  {
+    "name": "Apna",
+    "ats": "workable",
+    "slug": "apna"
+  },
+  {
+    "name": "Browserstack",
+    "ats": "workday",
+    "slug": {
+      "tenant": "browserstack",
+      "wd": 3,
+      "site": "External"
+    }
+  },
+  {
+    "name": "Cisco",
+    "ats": "workday",
+    "slug": {
+      "tenant": "cisco",
+      "wd": 5,
+      "site": "Cisco_Careers"
+    }
+  },
+  {
+    "name": "CRED",
+    "ats": "lever",
+    "slug": "cred"
+  },
+  {
+    "name": "Dhan",
+    "ats": "keka",
+    "slug": "dhan"
+  },
+  {
+    "name": "Druva",
+    "ats": "greenhouse",
+    "slug": "druva"
+  },
+  {
+    "name": "Emergent",
+    "ats": "greenhouse",
+    "slug": "emergentlabsinc"
+  },
+  {
+    "name": "Fractal",
+    "ats": "workday",
+    "slug": {
+      "tenant": "fractal",
+      "wd": 1,
+      "site": "Careers"
+    }
+  },
+  {
+    "name": "Freshworks",
+    "ats": "smartrecruiters",
+    "slug": "freshworks"
+  },
+  {
+    "name": "Glance",
+    "ats": "greenhouse",
+    "slug": "glance"
+  },
+  {
+    "name": "Groww",
+    "ats": "greenhouse",
+    "slug": "groww"
+  },
+  {
+    "name": "HCLTech",
+    "ats": "successfactors",
+    "slug": {
+      "host": "careers.hcltech.com",
+      "countryFacet": "India"
+    }
+  },
+  {
+    "name": "HighRadius",
+    "ats": "greenhouse",
+    "slug": "highradius"
+  },
+  {
+    "name": "Icertis",
+    "ats": "oracle",
+    "slug": {
+      "host": "iaaviz.fa.ocs.oraclecloud.com",
+      "siteNumber": "CX_1"
+    }
+  },
+  {
+    "name": "InMobi",
+    "ats": "greenhouse",
+    "slug": "inmobi"
+  },
+  {
+    "name": "Innovaccer",
+    "ats": "workable",
+    "slug": "innovaccer-analytics"
+  },
+  {
+    "name": "JPMorgan Chase",
+    "ats": "oracle",
+    "slug": {
+      "host": "jpmc.fa.oraclecloud.com",
+      "siteNumber": "CX_1001",
+      "locationId": "300000000289360"
+    }
+  },
+  {
+    "name": "KPMG India",
+    "ats": "oracle",
+    "slug": {
+      "host": "ejgk.fa.em2.oraclecloud.com",
+      "siteNumber": "CX_3",
+      "locationId": "300000000296042"
+    }
+  },
+  {
+    "name": "Lowe's India",
+    "ats": "workday",
+    "slug": {
+      "tenant": "lowes",
+      "wd": 5,
+      "site": "LWS_External_CS"
+    }
+  },
+  {
+    "name": "Mastercard",
+    "ats": "workday",
+    "slug": {
+      "tenant": "mastercard",
+      "wd": 1,
+      "site": "CorporateCareers"
+    }
+  },
+  {
+    "name": "Meesho",
+    "ats": "lever",
+    "slug": "meesho"
+  },
+  {
+    "name": "Mensa Brands (BRND.ME)",
+    "ats": "keka",
+    "slug": "mensa"
+  },
+  {
+    "name": "Microsoft",
+    "ats": "eightfold",
+    "slug": {
+      "host": "apply.careers.microsoft.com",
+      "domain": "microsoft.com"
+    }
+  },
+  {
+    "name": "Mindtickle",
+    "ats": "lever",
+    "slug": "mindtickle"
+  },
+  {
+    "name": "Morgan Stanley",
+    "ats": "eightfold",
+    "slug": {
+      "host": "morganstanley.eightfold.ai",
+      "domain": "morganstanley.com"
+    }
+  },
+  {
+    "name": "Netradyne",
+    "ats": "greenhouse",
+    "slug": "netradyne"
+  },
+  {
+    "name": "NVIDIA",
+    "ats": "workday",
+    "slug": {
+      "tenant": "nvidia",
+      "wd": 5,
+      "site": "NVIDIAExternalCareerSite"
+    }
+  },
+  {
+    "name": "Open Financial Technologies",
+    "ats": "keka",
+    "slug": "openfinancial"
+  },
+  {
+    "name": "Oracle",
+    "ats": "oracle",
+    "slug": {
+      "host": "eeho.fa.us2.oraclecloud.com",
+      "siteNumber": "CX_45001",
+      "locationId": "300000000106947"
+    }
+  },
+  {
+    "name": "PayPal",
+    "ats": "eightfold",
+    "slug": {
+      "host": "paypal.eightfold.ai",
+      "domain": "paypal.com"
+    }
+  },
+  {
+    "name": "Paytm",
+    "ats": "lever",
+    "slug": "paytm"
+  },
+  {
+    "name": "PhonePe",
+    "ats": "smartrecruiters",
+    "slug": "PHONEPELIMITED"
+  },
+  {
+    "name": "Polygon Labs",
+    "ats": "ashby",
+    "slug": "polygon-labs"
+  },
+  {
+    "name": "Postman",
+    "ats": "workday",
+    "slug": {
+      "tenant": "postman",
+      "wd": 108,
+      "site": "careers"
+    }
+  },
+  {
+    "name": "PwC India",
+    "ats": "workday",
+    "slug": {
+      "tenant": "pwc",
+      "wd": 3,
+      "site": "Global_Experienced_Careers"
+    }
+  },
+  {
+    "name": "Qualcomm",
+    "ats": "eightfold",
+    "slug": {
+      "host": "careers.qualcomm.com",
+      "domain": "qualcomm.com"
+    }
+  },
+  {
+    "name": "Razorpay",
+    "ats": "greenhouse",
+    "slug": "razorpaysoftwareprivatelimited"
+  },
+  {
+    "name": "Salesforce",
+    "ats": "workday",
+    "slug": {
+      "tenant": "salesforce",
+      "wd": 12,
+      "site": "External_Career_Site"
+    }
+  },
+  {
+    "name": "Samsung R&D India",
+    "ats": "workday",
+    "slug": {
+      "tenant": "sec",
+      "wd": 3,
+      "site": "Samsung_Careers"
+    }
+  },
+  {
+    "name": "Sarvam AI",
+    "ats": "ashby",
+    "slug": "sarvam"
+  },
+  {
+    "name": "ServiceNow",
+    "ats": "smartrecruiters",
+    "slug": "ServiceNow"
+  },
+  {
+    "name": "Skyroot Aerospace",
+    "ats": "zoho",
+    "slug": "skyroot"
+  },
+  {
+    "name": "Slice",
+    "ats": "greenhouse",
+    "slug": "slice"
+  },
+  {
+    "name": "Swiggy",
+    "ats": "smartrecruiters",
+    "slug": "swiggy"
+  },
+  {
+    "name": "Target India",
+    "ats": "workday",
+    "slug": {
+      "tenant": "target",
+      "wd": 5,
+      "site": "targetcareers"
+    }
+  },
+  {
+    "name": "Uniphore",
+    "ats": "workday",
+    "slug": {
+      "tenant": "uniphore",
+      "wd": 503,
+      "site": "Uniphore"
+    }
+  },
+  {
+    "name": "Vedantu",
+    "ats": "zoho",
+    "slug": "vedantu"
+  },
+  {
+    "name": "Verse Innovation (Dailyhunt/Josh)",
+    "ats": "greenhouse",
+    "slug": "verse"
+  },
+  {
+    "name": "Visa",
+    "ats": "workday",
+    "slug": {
+      "tenant": "visa",
+      "wd": 5,
+      "site": "Visa"
+    }
+  },
+  {
+    "name": "VMware/Broadcom",
+    "ats": "workday",
+    "slug": {
+      "tenant": "broadcom",
+      "wd": 1,
+      "site": "External_Career"
+    }
+  },
+  {
+    "name": "Wells Fargo",
+    "ats": "workday",
+    "slug": {
+      "tenant": "wf",
+      "wd": 1,
+      "site": "WellsFargoJobs",
+      "host": "wd1.myworkdaysite.com"
+    }
+  },
+  {
+    "name": "Wipro",
+    "ats": "successfactors",
+    "slug": {
+      "host": "careers.wipro.com",
+      "location": "India"
+    }
+  },
+  {
+    "name": "Yubi",
+    "ats": "zoho",
+    "slug": "go-yubi"
+  },
+  {
+    "name": "Zenoti",
+    "ats": "greenhouse",
+    "slug": "zenoti"
+  },
+  {
+    "name": "Zensar",
+    "ats": "oracle",
+    "slug": {
+      "host": "fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com",
+      "siteNumber": "CX_1",
+      "locationId": "300000000435151"
+    }
+  },
+  {
+    "name": "Zeta",
+    "ats": "lever",
+    "slug": "zeta"
+  },
+  {
+    "name": "Zetwerk",
+    "ats": "freshteam",
+    "slug": "zetwerk"
+  }
+]

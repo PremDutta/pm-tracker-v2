@@ -14,6 +14,7 @@ const STATS = [
 ];
 
 const FEATURES = [
+  { title:'Top Companies', desc:'MNCs, IT majors, big tech and Indian unicorns: careers pages plus live open product roles in India.', icon:'🏢', tab:'companies', gradientKey:'gradient1' },
   { title:'Hiring Signals', desc:'Reposted PM roles, engineering spikes and fresh funding: spot roles before they are posted.', icon:'🔭', tab:'signals', gradientKey:'gradient5' },
   { title:'Govt & PSU Jobs', desc:'Live product roles at NPCI, RBIH, NeGD, PSU banks and 130+ PSUs, auto-scanned every 6 hours.', icon:'🏛️', tab:'govt', gradientKey:'gradient3' },
   { title:'Application Tracker', desc:'Track every application through Applied, Screening, Interview, Offer.', icon:'📋', tab:'tracker', gradientKey:'gradient2' },

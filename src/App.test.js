@@ -315,7 +315,7 @@ test('Senior PM toggle: every search string switches to the senior term (incl. S
   render(<App />);
   await user.click(screen.getByRole('button', { name: 'Senior PM' }));
 
-  for (const tab of ['Hacks', 'Alerts', 'Be First', 'Remote', 'US/UK/CA/SG', 'Govt & PSU', 'Watchlist', 'Signals']) {
+  for (const tab of ['Hacks', 'Alerts', 'Be First', 'Remote', 'US/UK/CA/SG', 'Govt & PSU', 'Watchlist', 'Signals', 'Companies']) {
     await user.click(screen.getByRole('button', { name: tab }));
     expect(document.body.textContent).not.toMatch(/\{(ROLE|KW|KWTEXT|KW\+)\}/);
     for (const a of document.querySelectorAll('a[href]')) expect(a.getAttribute('href')).not.toMatch(/\{(ROLE|KW)/);
@@ -374,4 +374,20 @@ test('opens in light theme by default, and remembers a switch to dark', async ()
   unmount();
   render(<App />);
   expect(document.querySelector('[data-theme]')).toHaveAttribute('data-theme', 'dark');
+});
+
+test('Companies: shows live open PM roles per company, expands them, and Watch adds to the Watchlist', async () => {
+  global.fetch = jest.fn((url) => Promise.resolve({ ok: true, json: () => Promise.resolve(String(url).includes('company-roles')
+    ? { roles: { NVIDIA: [{ id: 'workday-nvidia-1', title: 'Senior Product Manager, AI Platform', location: 'India, Bengaluru', url: 'https://nvidia.wd5.myworkdayjobs.com/x/1', firstSeen: '2026-01-01' }] }, lastRead: { NVIDIA: '2026-09-30' } }
+    : { openings: [], signals: [] }) }));
+  const user = userEvent.setup();
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: 'Companies' }));
+  await user.type(screen.getByLabelText('Search companies'), 'NVIDIA');
+  expect(await screen.findByText('1 open product role in India')).toBeInTheDocument();
+  await user.click(screen.getByRole('button', { name: 'Show open roles at NVIDIA' }));
+  expect(screen.getByRole('link', { name: /Senior Product Manager, AI Platform/ })).toHaveAttribute('href', 'https://nvidia.wd5.myworkdayjobs.com/x/1');
+  await user.click(screen.getByRole('button', { name: 'Add NVIDIA to Watchlist' }));
+  expect(JSON.parse(window.localStorage.getItem('pmt_watchlist'))[0]).toMatchObject({ company: 'NVIDIA' });
+  expect(screen.getByRole('button', { name: 'Add NVIDIA to Watchlist' })).toBeDisabled();
 });

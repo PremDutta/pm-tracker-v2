@@ -278,7 +278,7 @@ async function fetchNoticeSource(source) {
 
 // A few sources at a time: ~140 simultaneous requests get throttled or dropped
 // by the slower govt servers.
-async function mapLimited(items, limit, fn) {
+export async function mapLimited(items, limit, fn) {
   const results = new Array(items.length);
   let next = 0;
   await Promise.all(Array.from({ length: limit }, async () => {

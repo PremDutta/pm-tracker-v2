@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Zap, Globe, Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, Bell, ClipboardList, Building2, FileSearch, Landmark, Radar } from 'lucide-react';
+import { Zap, Globe, Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, Bell, ClipboardList, Building2, FileSearch, Landmark, Radar, Building } from 'lucide-react';
 import { getProfile, getTheme, setTheme as saveTheme } from './storage';
 import Tracker from './components/Tracker';
 import Watchlist from './components/Watchlist';
@@ -14,6 +14,7 @@ import HomeTab from './tabs/HomeTab';
 import JobsTab from './tabs/JobsTab';
 import GovtTab from './tabs/GovtTab';
 import SignalsTab from './tabs/SignalsTab';
+import CompaniesTab from './tabs/CompaniesTab';
 import { themes } from './theme';
 import NewBadge from './components/NewBadge';
 import { getCardStyle, getBtnPrimaryStyle, getBtnSecondaryStyle, getTabButtonStyle, getBadgeStyle } from './styles';
@@ -107,6 +108,7 @@ export default function App() {
           { id:'home',      icon:<Sparkles size={14}/>,   label:'Home' },
           { id:'jobs',      icon:<Briefcase size={14}/>,  label:'All Jobs' },
           { id:'govt',      icon:<Landmark size={14}/>,   label:'Govt & PSU' },
+          { id:'companies', icon:<Building size={14}/>,   label:'Companies' },
           { id:'signals',   icon:<Radar size={14}/>,      label:'Signals' },
           { id:'tracker',   icon:<ClipboardList size={14}/>, label:'Tracker' },
           { id:'watchlist', icon:<Building2 size={14}/>,  label:'Watchlist' },
@@ -168,6 +170,9 @@ export default function App() {
 
         {/* ── GOVT & PSU ── */}
         {activeTab==='govt' && <GovtTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
+
+        {/* ── COMPANIES ── */}
+        {activeTab==='companies' && <CompaniesTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
 
         {/* ── SIGNALS ── */}
         {activeTab==='signals' && <SignalsTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} setActiveTab={setActiveTab} />}
