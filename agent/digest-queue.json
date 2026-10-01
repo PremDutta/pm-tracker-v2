@@ -980,8 +980,65 @@
       "url": "https://jobs.lever.co/zeta/632d6320-6db1-4504-8640-a89aed0bbd2b",
       "source": "Lever (Zeta)",
       "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210783441",
+      "title": "Technical Product Manager - ETL, Data Reporting, SQL",
+      "company": "JPMorgan Chase",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783441",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
+      "title": "Lead Digital Product Manager - CIAM",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "govt-notice-9c082ac453b65702",
+      "title": "Programme Manager Delhi",
+      "company": "National e-Governance Division",
+      "location": "",
+      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/10/Vacancy-Advert.-NCIP-01.10.2026.pdf",
+      "source": "🏛️ Govt (NeGD careers page)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "vc-accel-95391990",
+      "title": "Senior Product Manager (Integrations)",
+      "company": "Jifflenow",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://indiacareers-cvent.icims.com/jobs/10943/login",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "vc-accel-95372538",
+      "title": "Product Manager",
+      "company": "Pismo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF084709W",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-01"
     }
   ],
-  "signals": [],
+  "signals": [
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-10-01",
+      "title": "Lead Digital Product Manager - CIAM",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
+      "detail": "closed 2026-09-30, reposted today"
+    }
+  ],
   "reminders": {}
 }

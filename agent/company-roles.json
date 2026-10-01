@@ -186,17 +186,17 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10551512",
-        "title": "Senior Product Manager, Amazon - Sub Same Day",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10551512/senior-product-manager-amazon-sub-same-day",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10551513",
         "title": "Senior Product Manager, Amazon - Sub Same Day",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10551512",
+        "title": "Senior Product Manager, Amazon - Sub Same Day",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10551512/senior-product-manager-amazon-sub-same-day",
         "firstSeen": "2026-09-30"
       },
       {
@@ -326,17 +326,17 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10531340",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10521530",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10531340",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
         "firstSeen": "2026-09-30"
       },
       {
@@ -583,13 +583,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -601,6 +594,13 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "firstSeen": "2026-09-30"
       },
       {
@@ -743,6 +743,13 @@
         "location": "Hyderabad, Telangana, India",
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786038",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210783441",
+        "title": "Technical Product Manager - ETL, Data Reporting, SQL",
+        "location": "Mumbai, Maharashtra, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783441",
+        "firstSeen": "2026-10-01"
       }
     ],
     "LetsTransport": [
@@ -1418,6 +1425,13 @@
         "location": "Bengaluru, India",
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577975",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
+        "title": "Lead Digital Product Manager - CIAM",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
+        "firstSeen": "2026-10-01"
       }
     ],
     "Wipro": [
@@ -1443,10 +1457,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.wipro.com-198887",
+        "id": "sf-careers.wipro.com-200048",
         "title": "Product Management Consulting",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198887-en_US/",
+        "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
         "firstSeen": "2026-09-30"
       },
       {

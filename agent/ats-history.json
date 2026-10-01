@@ -89,7 +89,7 @@
           "eng": 264
         },
         "2026-10-01": {
-          "total": 636,
+          "total": 635,
           "eng": 263
         }
       },
@@ -292,7 +292,7 @@
           "eng": 55
         },
         "2026-10-01": {
-          "total": 137,
+          "total": 138,
           "eng": 55
         }
       },
@@ -660,7 +660,7 @@
           "eng": 37
         },
         "2026-10-01": {
-          "total": 177,
+          "total": 176,
           "eng": 37
         }
       },
@@ -718,7 +718,7 @@
           "eng": 33
         },
         "2026-10-01": {
-          "total": 164,
+          "total": 165,
           "eng": 33
         }
       },
@@ -844,8 +844,8 @@
           "eng": 410
         },
         "2026-10-01": {
-          "total": 836,
-          "eng": 411
+          "total": 835,
+          "eng": 412
         }
       },
       "pm": {
@@ -1428,7 +1428,7 @@
           "eng": 3
         },
         "2026-10-01": {
-          "total": 24,
+          "total": 26,
           "eng": 4
         }
       },
@@ -1466,8 +1466,8 @@
           "eng": 31
         },
         "2026-10-01": {
-          "total": 79,
-          "eng": 31
+          "total": 80,
+          "eng": 32
         }
       },
       "pm": {
@@ -1562,8 +1562,8 @@
           "eng": 13
         },
         "2026-10-01": {
-          "total": 35,
-          "eng": 14
+          "total": 34,
+          "eng": 13
         }
       },
       "pm": {
@@ -2223,8 +2223,8 @@
           "eng": 31
         },
         "2026-10-01": {
-          "total": 47,
-          "eng": 31
+          "total": 46,
+          "eng": 30
         }
       },
       "pm": {
@@ -2429,6 +2429,12 @@
             "oracle-jpmc.fa.oraclecloud.com-210793227"
           ],
           "lastSeen": "2026-10-01"
+        },
+        "technical product manager etl data reporting sql": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210783441"
+          ],
+          "lastSeen": "2026-10-01"
         }
       }
     },
@@ -2485,7 +2491,7 @@
           "eng": 1
         },
         "2026-10-01": {
-          "total": 3,
+          "total": 2,
           "eng": 1
         }
       },
@@ -2498,8 +2504,8 @@
           "eng": 3
         },
         "2026-10-01": {
-          "total": 6,
-          "eng": 2
+          "total": 4,
+          "eng": 0
         }
       },
       "pm": {}
@@ -2617,8 +2623,8 @@
           "eng": 21
         },
         "2026-10-01": {
-          "total": 91,
-          "eng": 21
+          "total": 90,
+          "eng": 20
         }
       },
       "pm": {
@@ -2661,8 +2667,8 @@
           "eng": 2
         },
         "2026-10-01": {
-          "total": 21,
-          "eng": 2
+          "total": 22,
+          "eng": 3
         }
       },
       "pm": {
@@ -2832,8 +2838,8 @@
           "eng": 55
         },
         "2026-10-01": {
-          "total": 112,
-          "eng": 55
+          "total": 113,
+          "eng": 56
         }
       },
       "pm": {
@@ -3017,8 +3023,8 @@
           "eng": 38
         },
         "2026-10-01": {
-          "total": 103,
-          "eng": 38
+          "total": 104,
+          "eng": 39
         }
       },
       "pm": {
@@ -3113,7 +3119,7 @@
           "eng": 5
         },
         "2026-10-01": {
-          "total": 50,
+          "total": 49,
           "eng": 5
         }
       },
@@ -3139,8 +3145,8 @@
           "eng": 9
         },
         "2026-10-01": {
-          "total": 30,
-          "eng": 10
+          "total": 29,
+          "eng": 9
         }
       },
       "pm": {
@@ -3204,8 +3210,8 @@
           "eng": 43
         },
         "2026-10-01": {
-          "total": 67,
-          "eng": 44
+          "total": 68,
+          "eng": 45
         }
       },
       "pm": {
@@ -3245,7 +3251,7 @@
         },
         "2026-10-01": {
           "total": 60,
-          "eng": 12
+          "eng": 4
         }
       },
       "pm": {
@@ -3284,7 +3290,7 @@
         },
         "2026-10-01": {
           "total": 92,
-          "eng": 30
+          "eng": 31
         }
       },
       "pm": {
@@ -3296,10 +3302,10 @@
         },
         "lead digital product manager ciam": {
           "ids": [
-            "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-570960-1"
+            "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-570960-1",
+            "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1"
           ],
-          "lastSeen": "2026-09-30",
-          "closedOn": "2026-09-30"
+          "lastSeen": "2026-10-01"
         },
         "senior lead digital product manager access entitlements platform": {
           "ids": [
@@ -3318,7 +3324,7 @@
         },
         "2026-10-01": {
           "total": 89,
-          "eng": 36
+          "eng": 37
         }
       },
       "pm": {}
@@ -3330,8 +3336,8 @@
           "eng": 35
         },
         "2026-10-01": {
-          "total": 200,
-          "eng": 35
+          "total": 199,
+          "eng": 33
         }
       },
       "pm": {

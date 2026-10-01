@@ -1,6 +1,22 @@
 {
   "openings": [
     {
+      "id": "govt-notice-9c082ac453b65702",
+      "title": "Programme Manager Delhi",
+      "company": "National e-Governance Division",
+      "location": "",
+      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/10/Vacancy-Advert.-NCIP-01.10.2026.pdf",
+      "date": "2026-10-10",
+      "deadline": null,
+      "flags": [],
+      "role": "digital_it",
+      "isPdf": true,
+      "org": "NeGD",
+      "category": "section8_govt",
+      "source": "🏛️ Govt (NeGD careers page)",
+      "firstSeen": "2026-10-01"
+    },
+    {
       "id": "govt-egov-91566000002454192",
       "title": "Product Manager - Digital Health (Public Health)",
       "company": "eGov Foundation",
@@ -68,22 +84,6 @@
       "org": "Bharat Digital job board",
       "category": "job_board",
       "source": "🏛️ Govt (Bharat Digital job board)",
-      "firstSeen": "2026-09-25"
-    },
-    {
-      "id": "govt-notice-026924a956f8c74b",
-      "title": "Program Manager / General Manager Delhi-NCR",
-      "company": "National e-Governance Division",
-      "location": "",
-      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/09/Vacancy-Advertisement-for-OPOP-Project-Positions-Sep-2026.pdf",
-      "date": "2026-10-06",
-      "deadline": null,
-      "flags": [],
-      "role": "management",
-      "isPdf": true,
-      "org": "NeGD",
-      "category": "section8_govt",
-      "source": "🏛️ Govt (NeGD careers page)",
       "firstSeen": "2026-09-25"
     },
     {
