@@ -917,6 +917,24 @@
       "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "ashby-notion-be6e1a35-d467-48e6-96bf-62afc4ad0126",
+      "title": "Product Manager",
+      "company": "Notion",
+      "location": "San Francisco, California",
+      "url": "https://jobs.ashbyhq.com/notion/be6e1a35-d467-48e6-96bf-62afc4ad0126",
+      "source": "Ashby (Notion)",
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "amazon-10566206",
+      "title": "Sr. Technical Product Manager, Trust CX Innovations",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10566206/sr-technical-product-manager-trust-cx-innovations",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-01"
     }
   ],
   "signals": [],
