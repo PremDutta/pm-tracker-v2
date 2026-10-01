@@ -137,13 +137,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10490006",
-        "title": "Senior Product Manager - Tech",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10490006/senior-product-manager-tech",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10510887",
         "title": "Senior Product Manager - Tech, Alexa Ads",
         "location": "Bengaluru, Karnataka, IND",
@@ -193,13 +186,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10551513",
-        "title": "Senior Product Manager, Amazon - Sub Same Day",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10551512",
         "title": "Senior Product Manager, Amazon - Sub Same Day",
         "location": "Bengaluru, Karnataka, IND",
@@ -207,10 +193,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10452548",
-        "title": "Senior Product Manager, Amazon Business India",
+        "id": "amazon-10551513",
+        "title": "Senior Product Manager, Amazon - Sub Same Day",
         "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10452548/senior-product-manager-amazon-business-india",
+        "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
         "firstSeen": "2026-09-30"
       },
       {
@@ -340,17 +326,17 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10521530",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10531340",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10521530",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
         "firstSeen": "2026-09-30"
       },
       {
@@ -724,6 +710,13 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210793227",
+        "title": "Product Manager",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793227",
+        "firstSeen": "2026-10-01"
+      },
+      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210793790",
         "title": "Product Manager – Business Banking -SMB Client & Frontline Experiences (Engage & Deepen)",
         "location": "Hyderabad, Telangana, India",
@@ -782,6 +775,13 @@
         "location": "Pune, India",
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "workday-mastercard-/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2",
+        "title": "Lead Product Manager Technical",
+        "location": "Vadodara, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2",
+        "firstSeen": "2026-10-01"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289421",
@@ -866,6 +866,13 @@
         "location": "Pune, India",
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist-Product-Manager_R-290356",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "workday-mastercard-/job/Gurgaon-India/Specialist--Product-Management_R-289494",
+        "title": "Specialist, Product Management",
+        "location": "Gurgaon, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist--Product-Management_R-289494",
+        "firstSeen": "2026-10-01"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Sr-Specialist--Product-Management_R-288316",
@@ -1016,13 +1023,6 @@
     ],
     "Morgan Stanley": [
       {
-        "id": "eightfold-morganstanley.com-549800313792",
-        "title": "Cash Management Product Owner, Platforms, Director, Wealth Management",
-        "location": "Mumbai, Maharashtra, India",
-        "url": "https://morganstanley.eightfold.ai/careers/job/549800313792",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-morganstanley.com-549799720630",
         "title": "Equity Investment Team Support - Director- Product Support & Services",
         "location": "Mumbai, Maharashtra, India",
@@ -1104,6 +1104,13 @@
         "location": "Bangalore, Karnataka",
         "url": "https://jobs.lever.co/paytm/6cee2f1c-6cae-4e46-9533-d62283f56734",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "lever-paytm-cf1076c8-e8be-4fc4-8112-aa55051de742",
+        "title": "Product Management - Associate Product Manager - Travel.",
+        "location": "Noida, Uttar Pradesh",
+        "url": "https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742",
+        "firstSeen": "2026-10-01"
       },
       {
         "id": "lever-paytm-26a6a342-55db-4262-8e75-648bd8338fd0",
@@ -1552,6 +1559,13 @@
         "location": "Bangalore - EC",
         "url": "https://jobs.lever.co/zeta/8623c195-f912-4d87-952f-7114cd258413",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "lever-zeta-632d6320-6db1-4504-8640-a89aed0bbd2b",
+        "title": "Product Manager II",
+        "location": "Bangalore - DD",
+        "url": "https://jobs.lever.co/zeta/632d6320-6db1-4504-8640-a89aed0bbd2b",
+        "firstSeen": "2026-10-01"
       },
       {
         "id": "lever-zeta-dbefd5b1-cc6a-4fe6-86d8-89800acee903",

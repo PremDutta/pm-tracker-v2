@@ -90,7 +90,7 @@
         },
         "2026-10-01": {
           "total": 636,
-          "eng": 264
+          "eng": 263
         }
       },
       "pm": {
@@ -205,7 +205,7 @@
           "eng": 30
         },
         "2026-10-01": {
-          "total": 68,
+          "total": 67,
           "eng": 30
         }
       },
@@ -685,8 +685,8 @@
           "eng": 32
         },
         "2026-10-01": {
-          "total": 49,
-          "eng": 32
+          "total": 51,
+          "eng": 34
         }
       },
       "pm": {
@@ -718,7 +718,7 @@
           "eng": 33
         },
         "2026-10-01": {
-          "total": 165,
+          "total": 164,
           "eng": 33
         }
       },
@@ -812,8 +812,8 @@
           "eng": 46
         },
         "2026-10-01": {
-          "total": 131,
-          "eng": 46
+          "total": 132,
+          "eng": 47
         }
       },
       "pm": {
@@ -844,8 +844,8 @@
           "eng": 410
         },
         "2026-10-01": {
-          "total": 835,
-          "eng": 410
+          "total": 836,
+          "eng": 411
         }
       },
       "pm": {
@@ -1149,7 +1149,7 @@
           "eng": 6
         },
         "2026-10-01": {
-          "total": 56,
+          "total": 57,
           "eng": 6
         }
       },
@@ -1289,7 +1289,7 @@
           "eng": 46
         },
         "2026-10-01": {
-          "total": 275,
+          "total": 274,
           "eng": 46
         }
       },
@@ -1428,8 +1428,8 @@
           "eng": 3
         },
         "2026-10-01": {
-          "total": 22,
-          "eng": 3
+          "total": 24,
+          "eng": 4
         }
       },
       "pm": {
@@ -1466,7 +1466,7 @@
           "eng": 31
         },
         "2026-10-01": {
-          "total": 80,
+          "total": 79,
           "eng": 31
         }
       },
@@ -1562,8 +1562,8 @@
           "eng": 13
         },
         "2026-10-01": {
-          "total": 34,
-          "eng": 13
+          "total": 35,
+          "eng": 14
         }
       },
       "pm": {
@@ -1601,7 +1601,7 @@
           "eng": 4
         },
         "2026-10-01": {
-          "total": 93,
+          "total": 91,
           "eng": 4
         }
       },
@@ -1610,7 +1610,8 @@
           "ids": [
             "amazon-10490006"
           ],
-          "lastSeen": "2026-10-01"
+          "lastSeen": "2026-10-01",
+          "closedOn": "2026-10-01"
         },
         "product manager amazon now": {
           "ids": [
@@ -1748,7 +1749,8 @@
           "ids": [
             "amazon-10452548"
           ],
-          "lastSeen": "2026-10-01"
+          "lastSeen": "2026-10-01",
+          "closedOn": "2026-10-01"
         },
         "sr product manager tech amazon pharmacy": {
           "ids": [
@@ -1794,7 +1796,8 @@
         },
         "senior product manager amazon sub same day": {
           "ids": [
-            "amazon-10551513"
+            "amazon-10551513",
+            "amazon-10551512"
           ],
           "lastSeen": "2026-10-01"
         },
@@ -2036,7 +2039,7 @@
           "eng": 3
         },
         "2026-10-01": {
-          "total": 30,
+          "total": 27,
           "eng": 3
         }
       },
@@ -2050,7 +2053,7 @@
         },
         "2026-10-01": {
           "total": 71,
-          "eng": 11
+          "eng": 10
         }
       },
       "pm": {
@@ -2181,8 +2184,8 @@
           "eng": 11
         },
         "2026-10-01": {
-          "total": 37,
-          "eng": 11
+          "total": 41,
+          "eng": 13
         }
       },
       "pm": {}
@@ -2240,8 +2243,8 @@
           "eng": 37
         },
         "2026-10-01": {
-          "total": 90,
-          "eng": 37
+          "total": 87,
+          "eng": 36
         }
       },
       "pm": {
@@ -2357,7 +2360,7 @@
         },
         "2026-10-01": {
           "total": 100,
-          "eng": 34
+          "eng": 44
         }
       },
       "pm": {
@@ -2418,6 +2421,12 @@
         "product director metrics": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210782853"
+          ],
+          "lastSeen": "2026-10-01"
+        },
+        "product manager": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210793227"
           ],
           "lastSeen": "2026-10-01"
         }
@@ -2489,8 +2498,8 @@
           "eng": 3
         },
         "2026-10-01": {
-          "total": 7,
-          "eng": 3
+          "total": 6,
+          "eng": 2
         }
       },
       "pm": {}
@@ -2522,7 +2531,7 @@
           "eng": 9
         },
         "2026-10-01": {
-          "total": 174,
+          "total": 175,
           "eng": 9
         }
       },
@@ -2592,6 +2601,12 @@
             "lever-paytm-fec8e98b-d09b-4edb-b5a9-fe04aa079a3c"
           ],
           "lastSeen": "2026-10-01"
+        },
+        "product management associate product manager travel": {
+          "ids": [
+            "lever-paytm-cf1076c8-e8be-4fc4-8112-aa55051de742"
+          ],
+          "lastSeen": "2026-10-01"
         }
       }
     },
@@ -2602,7 +2617,7 @@
           "eng": 21
         },
         "2026-10-01": {
-          "total": 90,
+          "total": 91,
           "eng": 21
         }
       },
@@ -2646,7 +2661,7 @@
           "eng": 2
         },
         "2026-10-01": {
-          "total": 22,
+          "total": 21,
           "eng": 2
         }
       },
@@ -2791,7 +2806,8 @@
         },
         "sr staff product manager": {
           "ids": [
-            "smartrecruiters-ServiceNow-744000152119424"
+            "smartrecruiters-ServiceNow-744000152119424",
+            "smartrecruiters-ServiceNow-744000152870449"
           ],
           "lastSeen": "2026-10-01"
         },
@@ -2816,7 +2832,7 @@
           "eng": 55
         },
         "2026-10-01": {
-          "total": 109,
+          "total": 112,
           "eng": 55
         }
       },
@@ -2877,13 +2893,20 @@
         },
         "lead product manager technical": {
           "ids": [
-            "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289421"
+            "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289421",
+            "workday-mastercard-/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2"
           ],
           "lastSeen": "2026-10-01"
         },
         "manager product management product resilience": {
           "ids": [
             "workday-mastercard-/job/Pune-India/Manager--Product-Management--Product-Resilience_R-287961"
+          ],
+          "lastSeen": "2026-10-01"
+        },
+        "specialist product management": {
+          "ids": [
+            "workday-mastercard-/job/Gurgaon-India/Specialist--Product-Management_R-289494"
           ],
           "lastSeen": "2026-10-01"
         }
@@ -2994,7 +3017,7 @@
           "eng": 38
         },
         "2026-10-01": {
-          "total": 102,
+          "total": 103,
           "eng": 38
         }
       },
@@ -3048,7 +3071,8 @@
           "ids": [
             "eightfold-morganstanley.com-549800313792"
           ],
-          "lastSeen": "2026-10-01"
+          "lastSeen": "2026-10-01",
+          "closedOn": "2026-10-01"
         },
         "product owner sbl collateral self directed digital lal platforms associate wealth management": {
           "ids": [
@@ -3089,7 +3113,7 @@
           "eng": 5
         },
         "2026-10-01": {
-          "total": 52,
+          "total": 50,
           "eng": 5
         }
       },
@@ -3115,8 +3139,8 @@
           "eng": 9
         },
         "2026-10-01": {
-          "total": 27,
-          "eng": 9
+          "total": 30,
+          "eng": 10
         }
       },
       "pm": {
@@ -3153,7 +3177,7 @@
           "eng": 8
         },
         "2026-10-01": {
-          "total": 24,
+          "total": 25,
           "eng": 8
         }
       },
@@ -3166,7 +3190,8 @@
         },
         "product manager ii": {
           "ids": [
-            "lever-zeta-dbefd5b1-cc6a-4fe6-86d8-89800acee903"
+            "lever-zeta-dbefd5b1-cc6a-4fe6-86d8-89800acee903",
+            "lever-zeta-632d6320-6db1-4504-8640-a89aed0bbd2b"
           ],
           "lastSeen": "2026-10-01"
         }
@@ -3179,7 +3204,7 @@
           "eng": 43
         },
         "2026-10-01": {
-          "total": 66,
+          "total": 67,
           "eng": 44
         }
       },
@@ -3220,7 +3245,7 @@
         },
         "2026-10-01": {
           "total": 60,
-          "eng": 8
+          "eng": 12
         }
       },
       "pm": {
@@ -3258,7 +3283,7 @@
           "eng": 29
         },
         "2026-10-01": {
-          "total": 88,
+          "total": 92,
           "eng": 30
         }
       },
@@ -3292,8 +3317,8 @@
           "eng": 34
         },
         "2026-10-01": {
-          "total": 82,
-          "eng": 33
+          "total": 89,
+          "eng": 36
         }
       },
       "pm": {}
@@ -3306,7 +3331,7 @@
         },
         "2026-10-01": {
           "total": 200,
-          "eng": 144
+          "eng": 35
         }
       },
       "pm": {
@@ -3314,36 +3339,31 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1"
           ],
-          "lastSeen": "2026-09-30",
-          "closedOn": "2026-10-01"
+          "lastSeen": "2026-10-01"
         },
         "product management analyst": {
           "ids": [
             "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
           ],
-          "lastSeen": "2026-09-30",
-          "closedOn": "2026-10-01"
+          "lastSeen": "2026-10-01"
         },
         "product management lead": {
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-09-30",
-          "closedOn": "2026-10-01"
+          "lastSeen": "2026-10-01"
         },
         "ai product management practitioner": {
           "ids": [
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1"
           ],
-          "lastSeen": "2026-09-30",
-          "closedOn": "2026-10-01"
+          "lastSeen": "2026-10-01"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-09-30",
-          "closedOn": "2026-10-01"
+          "lastSeen": "2026-10-01"
         }
       }
     },
@@ -3354,8 +3374,8 @@
           "eng": 44
         },
         "2026-10-01": {
-          "total": 69,
-          "eng": 44
+          "total": 68,
+          "eng": 42
         }
       },
       "pm": {

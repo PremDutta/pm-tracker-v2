@@ -2,6 +2,38 @@
   "signals": [
     {
       "type": "funding",
+      "company": "Bangalore Watch Company",
+      "title": "Bangalore Watch Company raises $1.4 Mn in seed round from customers, family office, HNIs",
+      "url": "https://entrackr.com/snippets/bangalore-watch-company-raises-14-mn-in-seed-round-from-customers-family-office-hnis-12611688",
+      "date": "2026-10-01",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Seeds Fincap",
+      "title": "Seeds Fincap raises Rs 100 Cr in Series B led by Michael & Susan Dell Foundation",
+      "url": "https://entrackr.com/news/seeds-fincap-raises-rs-100-cr-in-series-b-led-by-michael-susan-dell-foundation-12611889",
+      "date": "2026-10-01",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Unveilr AI",
+      "title": "Unveilr AI raises pre-seed round from AJVC at Rs 16.7 Cr valuation",
+      "url": "https://entrackr.com/snippets/unveilr-ai-raises-pre-seed-round-from-ajvc-at-rs-167-cr-valuation-12611816",
+      "date": "2026-10-01",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Zaperon",
+      "title": "IPV leads Rs 7 Cr seed round in cybersecurity startup Zaperon",
+      "url": "https://entrackr.com/snippets/ipv-leads-rs-7-cr-seed-round-in-cybersecurity-startup-zaperon-12612485",
+      "date": "2026-10-01",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
       "company": "Arivihan",
       "title": "Arivihan raises $10M as AI-led edtech targets India’s smaller cities",
       "url": "https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities",
@@ -127,6 +159,14 @@
       "url": "https://entrackr.com/news/enterprise-ai-startup-ema-raises-77-mn-in-series-b-led-by-creaegis-12570021",
       "date": "2026-09-24",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Ema",
+      "title": "Enterprise AI startup Ema raises $77M in Series B round led by Creaegis",
+      "url": "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis",
+      "date": "2026-09-24",
+      "detail": "via YourStory"
     },
     {
       "type": "funding",

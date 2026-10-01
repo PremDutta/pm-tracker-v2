@@ -935,6 +935,51 @@
       "url": "https://www.amazon.jobs/en/jobs/10566206/sr-technical-product-manager-trust-cx-innovations",
       "source": "Amazon careers",
       "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210793227",
+      "title": "Product Manager",
+      "company": "JPMorgan Chase",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793227",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "workday-mastercard-/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2",
+      "title": "Lead Product Manager Technical",
+      "company": "Mastercard",
+      "location": "Vadodara, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "workday-mastercard-/job/Gurgaon-India/Specialist--Product-Management_R-289494",
+      "title": "Specialist, Product Management",
+      "company": "Mastercard",
+      "location": "Gurgaon, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist--Product-Management_R-289494",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "lever-paytm-cf1076c8-e8be-4fc4-8112-aa55051de742",
+      "title": "Product Management - Associate Product Manager - Travel.",
+      "company": "Paytm",
+      "location": "Noida, Uttar Pradesh",
+      "url": "https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742",
+      "source": "Lever (Paytm)",
+      "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "lever-zeta-632d6320-6db1-4504-8640-a89aed0bbd2b",
+      "title": "Product Manager II",
+      "company": "Zeta",
+      "location": "Bangalore - DD",
+      "url": "https://jobs.lever.co/zeta/632d6320-6db1-4504-8640-a89aed0bbd2b",
+      "source": "Lever (Zeta)",
+      "queuedOn": "2026-10-01"
     }
   ],
   "signals": [],
