@@ -1027,6 +1027,33 @@
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF084709W",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-01"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
+      "title": "Senior Product Manager",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-02"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager--Web-and-Mobile-Banking_R-571322",
+      "title": "Lead Digital Product Manager –Web and Mobile Banking",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager--Web-and-Mobile-Banking_R-571322",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-02"
+    },
+    {
+      "id": "vc-accel-95421229",
+      "title": "Lead - Product Manager",
+      "company": "moneyview",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://moneyview.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6abdfeea012b7",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-02"
     }
   ],
   "signals": [

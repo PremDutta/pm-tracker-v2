@@ -89,8 +89,8 @@
           "eng": 264
         },
         "2026-10-01": {
-          "total": 635,
-          "eng": 263
+          "total": 637,
+          "eng": 264
         }
       },
       "pm": {
@@ -98,7 +98,8 @@
           "ids": [
             "greenhouse-anthropic-5397737008"
           ],
-          "lastSeen": "2026-10-01"
+          "lastSeen": "2026-10-01",
+          "closedOn": "2026-10-01"
         },
         "product manager claude science": {
           "ids": [
@@ -170,7 +171,8 @@
           "ids": [
             "greenhouse-anthropic-5096878008"
           ],
-          "lastSeen": "2026-10-01"
+          "lastSeen": "2026-10-01",
+          "closedOn": "2026-10-01"
         },
         "product management human data platform": {
           "ids": [
@@ -205,7 +207,7 @@
           "eng": 30
         },
         "2026-10-01": {
-          "total": 67,
+          "total": 65,
           "eng": 30
         }
       },
@@ -231,7 +233,7 @@
         },
         "2026-10-01": {
           "total": 125,
-          "eng": 48
+          "eng": 49
         }
       },
       "pm": {
@@ -292,8 +294,8 @@
           "eng": 55
         },
         "2026-10-01": {
-          "total": 138,
-          "eng": 55
+          "total": 132,
+          "eng": 53
         }
       },
       "pm": {
@@ -419,7 +421,7 @@
         },
         "2026-10-01": {
           "total": 193,
-          "eng": 84
+          "eng": 85
         }
       },
       "pm": {
@@ -616,8 +618,8 @@
           "eng": 43
         },
         "2026-10-01": {
-          "total": 88,
-          "eng": 43
+          "total": 93,
+          "eng": 44
         }
       },
       "pm": {
@@ -660,7 +662,7 @@
           "eng": 37
         },
         "2026-10-01": {
-          "total": 176,
+          "total": 173,
           "eng": 37
         }
       },
@@ -812,8 +814,8 @@
           "eng": 46
         },
         "2026-10-01": {
-          "total": 132,
-          "eng": 47
+          "total": 134,
+          "eng": 49
         }
       },
       "pm": {
@@ -844,8 +846,8 @@
           "eng": 410
         },
         "2026-10-01": {
-          "total": 835,
-          "eng": 412
+          "total": 836,
+          "eng": 414
         }
       },
       "pm": {
@@ -871,7 +873,8 @@
           "ids": [
             "ashby-openai-fbc7ebaf-3a26-406d-9ff6-f166f3e246a2"
           ],
-          "lastSeen": "2026-10-01"
+          "lastSeen": "2026-10-01",
+          "closedOn": "2026-10-01"
         },
         "product manager financial engineering": {
           "ids": [
@@ -942,7 +945,7 @@
           "eng": 40
         },
         "2026-10-01": {
-          "total": 156,
+          "total": 158,
           "eng": 40
         }
       },
@@ -1466,7 +1469,7 @@
           "eng": 31
         },
         "2026-10-01": {
-          "total": 80,
+          "total": 79,
           "eng": 32
         }
       },
@@ -1562,7 +1565,7 @@
           "eng": 13
         },
         "2026-10-01": {
-          "total": 34,
+          "total": 35,
           "eng": 13
         }
       },
@@ -2007,7 +2010,7 @@
           "eng": 25
         },
         "2026-10-01": {
-          "total": 79,
+          "total": 80,
           "eng": 25
         }
       },
@@ -2039,7 +2042,7 @@
           "eng": 3
         },
         "2026-10-01": {
-          "total": 27,
+          "total": 29,
           "eng": 3
         }
       },
@@ -2052,8 +2055,8 @@
           "eng": 11
         },
         "2026-10-01": {
-          "total": 71,
-          "eng": 10
+          "total": 72,
+          "eng": 9
         }
       },
       "pm": {
@@ -2090,7 +2093,7 @@
           "eng": 21
         },
         "2026-10-01": {
-          "total": 72,
+          "total": 74,
           "eng": 21
         }
       },
@@ -2197,7 +2200,7 @@
           "eng": 1
         },
         "2026-10-01": {
-          "total": 25,
+          "total": 26,
           "eng": 1
         }
       },
@@ -2243,7 +2246,7 @@
           "eng": 37
         },
         "2026-10-01": {
-          "total": 87,
+          "total": 88,
           "eng": 36
         }
       },
@@ -2307,7 +2310,7 @@
           "eng": 9
         },
         "2026-10-01": {
-          "total": 37,
+          "total": 38,
           "eng": 9
         }
       },
@@ -2360,7 +2363,7 @@
         },
         "2026-10-01": {
           "total": 100,
-          "eng": 44
+          "eng": 43
         }
       },
       "pm": {
@@ -2466,7 +2469,7 @@
         },
         "2026-10-01": {
           "total": 100,
-          "eng": 13
+          "eng": 11
         }
       },
       "pm": {}
@@ -2491,7 +2494,7 @@
           "eng": 1
         },
         "2026-10-01": {
-          "total": 2,
+          "total": 3,
           "eng": 1
         }
       },
@@ -2504,8 +2507,8 @@
           "eng": 3
         },
         "2026-10-01": {
-          "total": 4,
-          "eng": 0
+          "total": 10,
+          "eng": 6
         }
       },
       "pm": {}
@@ -2623,8 +2626,8 @@
           "eng": 21
         },
         "2026-10-01": {
-          "total": 90,
-          "eng": 20
+          "total": 89,
+          "eng": 19
         }
       },
       "pm": {
@@ -2782,7 +2785,7 @@
         },
         "2026-10-01": {
           "total": 100,
-          "eng": 32
+          "eng": 28
         }
       },
       "pm": {
@@ -2802,7 +2805,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000152318489"
           ],
-          "lastSeen": "2026-10-01"
+          "lastSeen": "2026-10-01",
+          "closedOn": "2026-10-01"
         },
         "sr staff outbound product manager data analytics": {
           "ids": [
@@ -2828,6 +2832,18 @@
             "smartrecruiters-ServiceNow-744000152746979"
           ],
           "lastSeen": "2026-10-01"
+        },
+        "senior director product unified security and exposure management": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000153034225"
+          ],
+          "lastSeen": "2026-10-01"
+        },
+        "principal inbound product manager now engage": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000153020371"
+          ],
+          "lastSeen": "2026-10-01"
         }
       }
     },
@@ -2838,8 +2854,8 @@
           "eng": 55
         },
         "2026-10-01": {
-          "total": 113,
-          "eng": 56
+          "total": 117,
+          "eng": 58
         }
       },
       "pm": {
@@ -2875,7 +2891,8 @@
         },
         "manager product management": {
           "ids": [
-            "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-290035"
+            "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-290035",
+            "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-291944"
           ],
           "lastSeen": "2026-10-01"
         },
@@ -2965,7 +2982,7 @@
         },
         "2026-10-01": {
           "total": 100,
-          "eng": 1
+          "eng": 0
         }
       },
       "pm": {
@@ -3023,8 +3040,8 @@
           "eng": 38
         },
         "2026-10-01": {
-          "total": 104,
-          "eng": 39
+          "total": 101,
+          "eng": 38
         }
       },
       "pm": {
@@ -3057,7 +3074,8 @@
           "ids": [
             "workday-salesforce-/job/California---San-Francisco/Senior-Manager-Product--IT-Finance_JR351635"
           ],
-          "lastSeen": "2026-10-01"
+          "lastSeen": "2026-10-01",
+          "closedOn": "2026-10-01"
         }
       }
     },
@@ -3068,7 +3086,7 @@
           "eng": 4
         },
         "2026-10-01": {
-          "total": 24,
+          "total": 25,
           "eng": 4
         }
       },
@@ -3119,7 +3137,7 @@
           "eng": 5
         },
         "2026-10-01": {
-          "total": 49,
+          "total": 48,
           "eng": 5
         }
       },
@@ -3210,8 +3228,8 @@
           "eng": 43
         },
         "2026-10-01": {
-          "total": 68,
-          "eng": 45
+          "total": 67,
+          "eng": 44
         }
       },
       "pm": {
@@ -3289,8 +3307,8 @@
           "eng": 29
         },
         "2026-10-01": {
-          "total": 92,
-          "eng": 31
+          "total": 82,
+          "eng": 25
         }
       },
       "pm": {
@@ -3311,8 +3329,19 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Senior-Lead-Digital-Product-Manager---Access---Entitlements-Platform_R-577570-1"
           ],
-          "lastSeen": "2026-09-30",
-          "closedOn": "2026-09-30"
+          "lastSeen": "2026-10-01"
+        },
+        "senior product manager": {
+          "ids": [
+            "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-575518-1"
+          ],
+          "lastSeen": "2026-10-01"
+        },
+        "lead digital product manager web and mobile banking": {
+          "ids": [
+            "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager--Web-and-Mobile-Banking_R-571322"
+          ],
+          "lastSeen": "2026-10-01"
         }
       }
     },
@@ -3324,7 +3353,7 @@
         },
         "2026-10-01": {
           "total": 89,
-          "eng": 37
+          "eng": 38
         }
       },
       "pm": {}
@@ -3337,7 +3366,7 @@
         },
         "2026-10-01": {
           "total": 199,
-          "eng": 33
+          "eng": 36
         }
       },
       "pm": {
