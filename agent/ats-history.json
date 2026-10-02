@@ -23,7 +23,7 @@
           "eng": 38
         },
         "2026-10-02": {
-          "total": 95,
+          "total": 97,
           "eng": 38
         }
       },
@@ -71,6 +71,12 @@
             "greenhouse-asana-7901186"
           ],
           "lastSeen": "2026-10-02"
+        },
+        "senior product manager ai studio": {
+          "ids": [
+            "greenhouse-asana-8180874"
+          ],
+          "lastSeen": "2026-10-02"
         }
       }
     },
@@ -97,8 +103,8 @@
           "eng": 264
         },
         "2026-10-02": {
-          "total": 637,
-          "eng": 262
+          "total": 639,
+          "eng": 263
         }
       },
       "pm": {
@@ -219,7 +225,7 @@
           "eng": 30
         },
         "2026-10-02": {
-          "total": 60,
+          "total": 61,
           "eng": 29
         }
       },
@@ -456,7 +462,7 @@
           "eng": 85
         },
         "2026-10-02": {
-          "total": 191,
+          "total": 192,
           "eng": 83
         }
       },
@@ -667,7 +673,7 @@
           "eng": 44
         },
         "2026-10-02": {
-          "total": 94,
+          "total": 95,
           "eng": 43
         }
       },
@@ -883,7 +889,7 @@
           "eng": 49
         },
         "2026-10-02": {
-          "total": 136,
+          "total": 138,
           "eng": 49
         }
       },
@@ -920,7 +926,7 @@
         },
         "2026-10-02": {
           "total": 829,
-          "eng": 414
+          "eng": 415
         }
       },
       "pm": {
@@ -1412,7 +1418,8 @@
       "pm": {
         "senior product manager": {
           "ids": [
-            "zoho-go-yubi-66789000036412626"
+            "zoho-go-yubi-66789000036412626",
+            "zoho-go-yubi-66789000016213700"
           ],
           "lastSeen": "2026-10-02"
         },
@@ -1602,8 +1609,8 @@
           "eng": 32
         },
         "2026-10-02": {
-          "total": 80,
-          "eng": 32
+          "total": 82,
+          "eng": 33
         }
       },
       "pm": {
@@ -1710,8 +1717,8 @@
           "eng": 13
         },
         "2026-10-02": {
-          "total": 35,
-          "eng": 13
+          "total": 34,
+          "eng": 12
         }
       },
       "pm": {
@@ -2146,7 +2153,7 @@
         },
         "2026-10-02": {
           "total": 100,
-          "eng": 33
+          "eng": 34
         }
       },
       "pm": {
@@ -2580,7 +2587,7 @@
         },
         "2026-10-02": {
           "total": 100,
-          "eng": 42
+          "eng": 41
         }
       },
       "pm": {
@@ -3054,7 +3061,7 @@
         },
         "2026-10-02": {
           "total": 100,
-          "eng": 29
+          "eng": 30
         }
       },
       "pm": {
@@ -3128,8 +3135,8 @@
           "eng": 58
         },
         "2026-10-02": {
-          "total": 118,
-          "eng": 58
+          "total": 115,
+          "eng": 57
         }
       },
       "pm": {
@@ -3204,6 +3211,12 @@
         "specialist product management": {
           "ids": [
             "workday-mastercard-/job/Gurgaon-India/Specialist--Product-Management_R-289494"
+          ],
+          "lastSeen": "2026-10-02"
+        },
+        "manager product management scheme and regulatory compliance": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Manager--Product-Management--Scheme-and-Regulatory-Compliance_R-291500"
           ],
           "lastSeen": "2026-10-02"
         }
@@ -3346,8 +3359,8 @@
           "eng": 38
         },
         "2026-10-02": {
-          "total": 103,
-          "eng": 38
+          "total": 102,
+          "eng": 37
         }
       },
       "pm": {
@@ -3554,8 +3567,8 @@
           "eng": 44
         },
         "2026-10-02": {
-          "total": 66,
-          "eng": 45
+          "total": 64,
+          "eng": 43
         }
       },
       "pm": {
@@ -3615,13 +3628,15 @@
         },
         "product manager l1": {
           "ids": [
-            "sf-careers.wipro.com-201119"
+            "sf-careers.wipro.com-201119",
+            "sf-careers.wipro.com-203307"
           ],
           "lastSeen": "2026-10-02"
         },
         "product management consulting": {
           "ids": [
-            "sf-careers.wipro.com-198709"
+            "sf-careers.wipro.com-198709",
+            "sf-careers.wipro.com-198887"
           ],
           "lastSeen": "2026-10-02"
         },
@@ -3645,7 +3660,7 @@
           "eng": 25
         },
         "2026-10-02": {
-          "total": 79,
+          "total": 76,
           "eng": 23
         }
       },
@@ -3694,8 +3709,8 @@
           "eng": 38
         },
         "2026-10-02": {
-          "total": 90,
-          "eng": 38
+          "total": 87,
+          "eng": 36
         }
       },
       "pm": {}
@@ -3790,7 +3805,7 @@
           "eng": 37
         },
         "2026-10-02": {
-          "total": 73,
+          "total": 72,
           "eng": 37
         }
       },
@@ -3806,7 +3821,8 @@
             "eightfold-microsoft.com-1970393556998872",
             "eightfold-microsoft.com-1970393556997831",
             "eightfold-microsoft.com-1970393556944984",
-            "eightfold-microsoft.com-1970393556999250"
+            "eightfold-microsoft.com-1970393556999250",
+            "eightfold-microsoft.com-1970393556911401"
           ],
           "lastSeen": "2026-10-02"
         },
