@@ -2442,7 +2442,7 @@
           "eng": 36
         },
         "2026-10-02": {
-          "total": 88,
+          "total": 89,
           "eng": 36
         }
       },
@@ -2514,7 +2514,7 @@
           "eng": 9
         },
         "2026-10-02": {
-          "total": 43,
+          "total": 42,
           "eng": 11
         }
       },
@@ -3270,7 +3270,7 @@
         },
         "2026-10-02": {
           "total": 100,
-          "eng": 0
+          "eng": 1
         }
       },
       "pm": {
@@ -3552,8 +3552,8 @@
           "eng": 44
         },
         "2026-10-02": {
-          "total": 65,
-          "eng": 44
+          "total": 66,
+          "eng": 45
         }
       },
       "pm": {
@@ -3601,7 +3601,7 @@
         },
         "2026-10-02": {
           "total": 60,
-          "eng": 8
+          "eng": 4
         }
       },
       "pm": {
@@ -3710,7 +3710,7 @@
         },
         "2026-10-02": {
           "total": 200,
-          "eng": 132
+          "eng": 37
         }
       },
       "pm": {
@@ -3718,36 +3718,31 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1"
           ],
-          "lastSeen": "2026-10-01",
-          "closedOn": "2026-10-02"
+          "lastSeen": "2026-10-02"
         },
         "product management analyst": {
           "ids": [
             "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
           ],
-          "lastSeen": "2026-10-01",
-          "closedOn": "2026-10-02"
+          "lastSeen": "2026-10-02"
         },
         "product management lead": {
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-01",
-          "closedOn": "2026-10-02"
+          "lastSeen": "2026-10-02"
         },
         "ai product management practitioner": {
           "ids": [
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1"
           ],
-          "lastSeen": "2026-10-01",
-          "closedOn": "2026-10-02"
+          "lastSeen": "2026-10-02"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-01",
-          "closedOn": "2026-10-02"
+          "lastSeen": "2026-10-02"
         }
       }
     },
@@ -3802,7 +3797,8 @@
         "principal product manager": {
           "ids": [
             "eightfold-microsoft.com-1970393556998872",
-            "eightfold-microsoft.com-1970393556997831"
+            "eightfold-microsoft.com-1970393556997831",
+            "eightfold-microsoft.com-1970393556944984"
           ],
           "lastSeen": "2026-10-02"
         },
