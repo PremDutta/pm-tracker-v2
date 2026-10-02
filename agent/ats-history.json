@@ -23,7 +23,7 @@
           "eng": 38
         },
         "2026-10-02": {
-          "total": 96,
+          "total": 95,
           "eng": 38
         }
       },
@@ -219,8 +219,8 @@
           "eng": 30
         },
         "2026-10-02": {
-          "total": 64,
-          "eng": 30
+          "total": 60,
+          "eng": 29
         }
       },
       "pm": {}
@@ -314,8 +314,8 @@
           "eng": 53
         },
         "2026-10-02": {
-          "total": 132,
-          "eng": 53
+          "total": 136,
+          "eng": 55
         }
       },
       "pm": {
@@ -456,8 +456,8 @@
           "eng": 85
         },
         "2026-10-02": {
-          "total": 194,
-          "eng": 85
+          "total": 191,
+          "eng": 83
         }
       },
       "pm": {
@@ -540,7 +540,8 @@
           "ids": [
             "greenhouse-scaleai-4718559005"
           ],
-          "lastSeen": "2026-10-02"
+          "lastSeen": "2026-10-02",
+          "closedOn": "2026-10-02"
         },
         "staff technical product manager": {
           "ids": [
@@ -666,7 +667,7 @@
           "eng": 44
         },
         "2026-10-02": {
-          "total": 92,
+          "total": 94,
           "eng": 43
         }
       },
@@ -714,7 +715,7 @@
           "eng": 37
         },
         "2026-10-02": {
-          "total": 172,
+          "total": 171,
           "eng": 37
         }
       },
@@ -780,7 +781,7 @@
           "eng": 33
         },
         "2026-10-02": {
-          "total": 164,
+          "total": 163,
           "eng": 33
         }
       },
@@ -882,7 +883,7 @@
           "eng": 49
         },
         "2026-10-02": {
-          "total": 134,
+          "total": 136,
           "eng": 49
         }
       },
@@ -918,8 +919,8 @@
           "eng": 414
         },
         "2026-10-02": {
-          "total": 833,
-          "eng": 415
+          "total": 829,
+          "eng": 414
         }
       },
       "pm": {
@@ -2579,7 +2580,7 @@
         },
         "2026-10-02": {
           "total": 100,
-          "eng": 41
+          "eng": 42
         }
       },
       "pm": {
@@ -2744,7 +2745,7 @@
         },
         "2026-10-02": {
           "total": 9,
-          "eng": 5
+          "eng": 4
         }
       },
       "pm": {}
@@ -3053,7 +3054,7 @@
         },
         "2026-10-02": {
           "total": 100,
-          "eng": 27
+          "eng": 29
         }
       },
       "pm": {
@@ -3080,7 +3081,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000152293509"
           ],
-          "lastSeen": "2026-10-02"
+          "lastSeen": "2026-10-02",
+          "closedOn": "2026-10-02"
         },
         "sr staff product manager": {
           "ids": [
@@ -3344,7 +3346,7 @@
           "eng": 38
         },
         "2026-10-02": {
-          "total": 101,
+          "total": 103,
           "eng": 38
         }
       },
@@ -3449,7 +3451,7 @@
           "eng": 5
         },
         "2026-10-02": {
-          "total": 48,
+          "total": 49,
           "eng": 5
         }
       },
@@ -3479,7 +3481,7 @@
           "eng": 9
         },
         "2026-10-02": {
-          "total": 29,
+          "total": 28,
           "eng": 9
         }
       },
@@ -3601,7 +3603,7 @@
         },
         "2026-10-02": {
           "total": 60,
-          "eng": 4
+          "eng": 8
         }
       },
       "pm": {
@@ -3644,7 +3646,7 @@
         },
         "2026-10-02": {
           "total": 79,
-          "eng": 22
+          "eng": 23
         }
       },
       "pm": {
@@ -3692,7 +3694,7 @@
           "eng": 38
         },
         "2026-10-02": {
-          "total": 89,
+          "total": 90,
           "eng": 38
         }
       },
@@ -3710,7 +3712,7 @@
         },
         "2026-10-02": {
           "total": 200,
-          "eng": 37
+          "eng": 134
         }
       },
       "pm": {
@@ -3718,31 +3720,36 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1"
           ],
-          "lastSeen": "2026-10-02"
+          "lastSeen": "2026-10-02",
+          "closedOn": "2026-10-02"
         },
         "product management analyst": {
           "ids": [
             "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
           ],
-          "lastSeen": "2026-10-02"
+          "lastSeen": "2026-10-02",
+          "closedOn": "2026-10-02"
         },
         "product management lead": {
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-02"
+          "lastSeen": "2026-10-02",
+          "closedOn": "2026-10-02"
         },
         "ai product management practitioner": {
           "ids": [
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1"
           ],
-          "lastSeen": "2026-10-02"
+          "lastSeen": "2026-10-02",
+          "closedOn": "2026-10-02"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-02"
+          "lastSeen": "2026-10-02",
+          "closedOn": "2026-10-02"
         }
       }
     },
@@ -3798,7 +3805,8 @@
           "ids": [
             "eightfold-microsoft.com-1970393556998872",
             "eightfold-microsoft.com-1970393556997831",
-            "eightfold-microsoft.com-1970393556944984"
+            "eightfold-microsoft.com-1970393556944984",
+            "eightfold-microsoft.com-1970393556999250"
           ],
           "lastSeen": "2026-10-02"
         },
