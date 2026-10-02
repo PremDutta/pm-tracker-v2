@@ -97,8 +97,8 @@
           "eng": 264
         },
         "2026-10-02": {
-          "total": 638,
-          "eng": 263
+          "total": 637,
+          "eng": 262
         }
       },
       "pm": {
@@ -714,7 +714,7 @@
           "eng": 37
         },
         "2026-10-02": {
-          "total": 173,
+          "total": 172,
           "eng": 37
         }
       },
@@ -780,7 +780,7 @@
           "eng": 33
         },
         "2026-10-02": {
-          "total": 165,
+          "total": 164,
           "eng": 33
         }
       },
@@ -2210,7 +2210,7 @@
           "eng": 3
         },
         "2026-10-02": {
-          "total": 29,
+          "total": 30,
           "eng": 3
         }
       },
@@ -2743,8 +2743,8 @@
           "eng": 6
         },
         "2026-10-02": {
-          "total": 10,
-          "eng": 6
+          "total": 9,
+          "eng": 5
         }
       },
       "pm": {}
@@ -2784,7 +2784,7 @@
           "eng": 9
         },
         "2026-10-02": {
-          "total": 175,
+          "total": 174,
           "eng": 9
         }
       },
@@ -2922,8 +2922,8 @@
           "eng": 3
         },
         "2026-10-02": {
-          "total": 22,
-          "eng": 3
+          "total": 21,
+          "eng": 2
         }
       },
       "pm": {
@@ -3126,7 +3126,7 @@
           "eng": 58
         },
         "2026-10-02": {
-          "total": 117,
+          "total": 118,
           "eng": 58
         }
       },
@@ -3552,7 +3552,7 @@
           "eng": 44
         },
         "2026-10-02": {
-          "total": 67,
+          "total": 65,
           "eng": 44
         }
       },
@@ -3643,7 +3643,7 @@
           "eng": 25
         },
         "2026-10-02": {
-          "total": 78,
+          "total": 79,
           "eng": 22
         }
       },
@@ -3786,6 +3786,10 @@
         "2026-09-30": {
           "total": 71,
           "eng": 37
+        },
+        "2026-10-02": {
+          "total": 73,
+          "eng": 37
         }
       },
       "pm": {
@@ -3793,31 +3797,32 @@
           "ids": [
             "eightfold-microsoft.com-1970393556962532"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-10-02"
         },
         "principal product manager": {
           "ids": [
-            "eightfold-microsoft.com-1970393556998872"
+            "eightfold-microsoft.com-1970393556998872",
+            "eightfold-microsoft.com-1970393556997831"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-10-02"
         },
         "product manager ii": {
           "ids": [
             "eightfold-microsoft.com-1970393556995338"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-10-02"
         },
         "principal product management": {
           "ids": [
             "eightfold-microsoft.com-1970393556962542"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-10-02"
         },
         "product management intern": {
           "ids": [
             "eightfold-microsoft.com-1970393556978896"
           ],
-          "lastSeen": "2026-09-30"
+          "lastSeen": "2026-10-02"
         }
       }
     }
