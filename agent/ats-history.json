@@ -2656,7 +2656,7 @@
           "eng": 36
         },
         "2026-10-03": {
-          "total": 89,
+          "total": 88,
           "eng": 36
         }
       },
@@ -3417,7 +3417,7 @@
           "eng": 57
         },
         "2026-10-03": {
-          "total": 116,
+          "total": 115,
           "eng": 57
         }
       },
@@ -4006,8 +4006,8 @@
           "eng": 23
         },
         "2026-10-03": {
-          "total": 73,
-          "eng": 23
+          "total": 64,
+          "eng": 22
         }
       },
       "pm": {
@@ -4015,20 +4015,23 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577975"
           ],
-          "lastSeen": "2026-10-03"
+          "lastSeen": "2026-10-03",
+          "closedOn": "2026-10-03"
         },
         "lead digital product manager ciam": {
           "ids": [
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-570960-1",
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1"
           ],
-          "lastSeen": "2026-10-03"
+          "lastSeen": "2026-10-03",
+          "closedOn": "2026-10-03"
         },
         "senior lead digital product manager access entitlements platform": {
           "ids": [
             "workday-wf-/job/Bengaluru-India/Senior-Lead-Digital-Product-Manager---Access---Entitlements-Platform_R-577570-1"
           ],
-          "lastSeen": "2026-10-03"
+          "lastSeen": "2026-10-03",
+          "closedOn": "2026-10-03"
         },
         "senior product manager": {
           "ids": [
@@ -4040,7 +4043,8 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager--Web-and-Mobile-Banking_R-571322"
           ],
-          "lastSeen": "2026-10-03"
+          "lastSeen": "2026-10-03",
+          "closedOn": "2026-10-03"
         }
       }
     },
@@ -4059,7 +4063,7 @@
           "eng": 36
         },
         "2026-10-03": {
-          "total": 85,
+          "total": 83,
           "eng": 35
         }
       },
@@ -4081,7 +4085,7 @@
         },
         "2026-10-03": {
           "total": 200,
-          "eng": 131
+          "eng": 35
         }
       },
       "pm": {
@@ -4089,36 +4093,31 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1"
           ],
-          "lastSeen": "2026-10-03",
-          "closedOn": "2026-10-03"
+          "lastSeen": "2026-10-03"
         },
         "product management analyst": {
           "ids": [
             "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
           ],
-          "lastSeen": "2026-10-03",
-          "closedOn": "2026-10-03"
+          "lastSeen": "2026-10-03"
         },
         "product management lead": {
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-03",
-          "closedOn": "2026-10-03"
+          "lastSeen": "2026-10-03"
         },
         "ai product management practitioner": {
           "ids": [
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1"
           ],
-          "lastSeen": "2026-10-03",
-          "closedOn": "2026-10-03"
+          "lastSeen": "2026-10-03"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-03",
-          "closedOn": "2026-10-03"
+          "lastSeen": "2026-10-03"
         }
       }
     },
