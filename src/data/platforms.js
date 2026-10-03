@@ -16,7 +16,7 @@ export const PLATFORMS = {
     return `https://www.naukri.com/${r.toLowerCase().replace(/\s+/g,'-')}-jobs-in-${citySlug}?sort=f&k=${encodeURIComponent(r)}&l=${encodeURIComponent(citySlug)}${o?.freshness?.days?`&jobAge=${o.freshness.days}`:''}${o?.experience?.min!=null?`&experience=${o.experience.min}`:''}`;
   }, description:'Largest Indian job board' },
   iimjobs:      { name:'IIMJobs',         icon:'🎓', color:'#C0392B', region:'india',  priority:3, badge:'Senior',  getUrl:(r)=>`https://www.iimjobs.com/search/${r.toLowerCase().replace(/\s+/g,'-')}-jobs`, description:'Senior & management roles' },
-  instahyre:    { name:'Instahyre',       icon:'🚀', color:'#FF6B35', region:'india',  priority:4, badge:'Startup', getUrl:(r)=>`https://www.instahyre.com/search-jobs/?job_types=fulltime&job_titles=${encodeURIComponent(r)}`, description:'Curated startup jobs' },
+  instahyre:    { name:'Instahyre',       icon:'🚀', color:'#FF6B35', region:'india',  priority:4, badge:'Startup', getUrl:()=>'https://www.instahyre.com/search-jobs?company_size=0&isLandingPage=true&job_type=0&offset=0&search=true&skills=Product+Management' /* Instahyre's Product Management skill search; same for PM and Senior PM */, description:'Curated startup jobs' },
   cutshort:     { name:'Cutshort',        icon:'⚡', color:'#FF4757', region:'india',  priority:5,               getUrl:(r)=>`https://cutshort.io/jobs/${r.toLowerCase().replace(/\s+/g,'-')}-jobs`, description:'AI-matched, fast responses' },
   foundit:      { name:'Foundit',         icon:'🎯', color:'#E91E63', region:'india',  priority:6,               getUrl:(r,l)=>{
     // Route + query shape confirmed via a real captured foundit.in URL — the old
