@@ -111,7 +111,7 @@
           "eng": 263
         },
         "2026-10-03": {
-          "total": 641,
+          "total": 640,
           "eng": 263
         }
       },
@@ -346,8 +346,8 @@
           "eng": 55
         },
         "2026-10-03": {
-          "total": 136,
-          "eng": 55
+          "total": 137,
+          "eng": 56
         }
       },
       "pm": {
@@ -1004,7 +1004,7 @@
           "eng": 415
         },
         "2026-10-03": {
-          "total": 830,
+          "total": 828,
           "eng": 412
         }
       },
@@ -1367,7 +1367,7 @@
           "eng": 6
         },
         "2026-10-03": {
-          "total": 57,
+          "total": 56,
           "eng": 6
         }
       },
@@ -1841,7 +1841,7 @@
           "eng": 6
         },
         "2026-10-03": {
-          "total": 142,
+          "total": 145,
           "eng": 6
         }
       },
@@ -1924,7 +1924,7 @@
           "eng": 4
         },
         "2026-10-03": {
-          "total": 89,
+          "total": 88,
           "eng": 4
         }
       },
@@ -2128,7 +2128,8 @@
           "ids": [
             "amazon-10487601"
           ],
-          "lastSeen": "2026-10-03"
+          "lastSeen": "2026-10-03",
+          "closedOn": "2026-10-03"
         },
         "senior product manager tech eu intech pgx": {
           "ids": [
@@ -2462,7 +2463,7 @@
           "eng": 21
         },
         "2026-10-03": {
-          "total": 74,
+          "total": 73,
           "eng": 21
         }
       },
@@ -3045,7 +3046,7 @@
           "eng": 9
         },
         "2026-10-03": {
-          "total": 175,
+          "total": 173,
           "eng": 9
         }
       },
@@ -4080,7 +4081,7 @@
         },
         "2026-10-03": {
           "total": 200,
-          "eng": 35
+          "eng": 131
         }
       },
       "pm": {
@@ -4088,31 +4089,36 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1"
           ],
-          "lastSeen": "2026-10-03"
+          "lastSeen": "2026-10-03",
+          "closedOn": "2026-10-03"
         },
         "product management analyst": {
           "ids": [
             "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
           ],
-          "lastSeen": "2026-10-03"
+          "lastSeen": "2026-10-03",
+          "closedOn": "2026-10-03"
         },
         "product management lead": {
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-03"
+          "lastSeen": "2026-10-03",
+          "closedOn": "2026-10-03"
         },
         "ai product management practitioner": {
           "ids": [
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1"
           ],
-          "lastSeen": "2026-10-03"
+          "lastSeen": "2026-10-03",
+          "closedOn": "2026-10-03"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-03"
+          "lastSeen": "2026-10-03",
+          "closedOn": "2026-10-03"
         }
       }
     },
