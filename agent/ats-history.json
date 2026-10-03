@@ -1924,7 +1924,7 @@
           "eng": 4
         },
         "2026-10-03": {
-          "total": 91,
+          "total": 89,
           "eng": 4
         }
       },
@@ -2200,7 +2200,8 @@
           "ids": [
             "amazon-10535683"
           ],
-          "lastSeen": "2026-10-03"
+          "lastSeen": "2026-10-03",
+          "closedOn": "2026-10-03"
         },
         "sr product manager operations evaluation worldwide returns and recommerce": {
           "ids": [
@@ -3044,7 +3045,7 @@
           "eng": 9
         },
         "2026-10-03": {
-          "total": 174,
+          "total": 175,
           "eng": 9
         }
       },
@@ -3415,7 +3416,7 @@
           "eng": 57
         },
         "2026-10-03": {
-          "total": 115,
+          "total": 116,
           "eng": 57
         }
       },
@@ -3899,7 +3900,7 @@
           "eng": 43
         },
         "2026-10-03": {
-          "total": 67,
+          "total": 68,
           "eng": 43
         }
       },
@@ -4057,8 +4058,8 @@
           "eng": 36
         },
         "2026-10-03": {
-          "total": 87,
-          "eng": 36
+          "total": 85,
+          "eng": 35
         }
       },
       "pm": {}
