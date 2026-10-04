@@ -831,8 +831,8 @@
           "eng": 37
         },
         "2026-10-04": {
-          "total": 171,
-          "eng": 39
+          "total": 169,
+          "eng": 36
         }
       },
       "pm": {}
@@ -1831,8 +1831,8 @@
           "eng": 4
         },
         "2026-10-04": {
-          "total": 26,
-          "eng": 4
+          "total": 23,
+          "eng": 1
         }
       },
       "pm": {
@@ -3029,7 +3029,7 @@
         },
         "2026-10-04": {
           "total": 100,
-          "eng": 37
+          "eng": 35
         }
       },
       "pm": {
@@ -3097,7 +3097,8 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210793227"
           ],
-          "lastSeen": "2026-10-04"
+          "lastSeen": "2026-10-04",
+          "closedOn": "2026-10-04"
         },
         "technical product manager etl data reporting sql": {
           "ids": [
@@ -3689,7 +3690,7 @@
           "eng": 57
         },
         "2026-10-04": {
-          "total": 116,
+          "total": 115,
           "eng": 57
         }
       },
@@ -3704,7 +3705,8 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933"
           ],
-          "lastSeen": "2026-10-04"
+          "lastSeen": "2026-10-04",
+          "closedOn": "2026-10-04"
         },
         "principal product manager technical": {
           "ids": [
@@ -4136,7 +4138,7 @@
           "eng": 9
         },
         "2026-10-04": {
-          "total": 28,
+          "total": 27,
           "eng": 9
         }
       },
@@ -4225,8 +4227,8 @@
           "eng": 43
         },
         "2026-10-04": {
-          "total": 68,
-          "eng": 43
+          "total": 67,
+          "eng": 42
         }
       },
       "pm": {
@@ -4342,7 +4344,7 @@
           "eng": 22
         },
         "2026-10-04": {
-          "total": 63,
+          "total": 61,
           "eng": 22
         }
       },
@@ -4403,8 +4405,8 @@
           "eng": 35
         },
         "2026-10-04": {
-          "total": 80,
-          "eng": 33
+          "total": 66,
+          "eng": 29
         }
       },
       "pm": {}
@@ -4429,7 +4431,7 @@
         },
         "2026-10-04": {
           "total": 200,
-          "eng": 35
+          "eng": 36
         }
       },
       "pm": {
@@ -4518,7 +4520,7 @@
           "eng": 37
         },
         "2026-10-04": {
-          "total": 68,
+          "total": 67,
           "eng": 35
         }
       },

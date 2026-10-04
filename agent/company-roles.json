@@ -319,17 +319,17 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10521530",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10531340",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10521530",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
         "firstSeen": "2026-09-30"
       },
       {
@@ -562,13 +562,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -580,6 +573,13 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "firstSeen": "2026-09-30"
       },
       {
@@ -696,13 +696,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210793227",
-        "title": "Product Manager",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793227",
-        "firstSeen": "2026-10-01"
-      },
-      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210793790",
         "title": "Product Manager – Business Banking -SMB Client & Frontline Experiences (Engage & Deepen)",
         "location": "Hyderabad, Telangana, India",
@@ -760,13 +753,6 @@
         "title": "Director, Product Manager –Disputes",
         "location": "Pune, India",
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Manager--Disputes_R-288064",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
-        "title": "Lead Product Manager - Technical - Data Lake/ Data Warehouse",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
         "firstSeen": "2026-09-30"
       },
       {
@@ -935,6 +921,20 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "eightfold-microsoft.com-1970393556944984",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556983966",
+        "title": "Principal Product Manager",
+        "location": "India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556983966",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393556998872",
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
@@ -949,13 +949,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556911401",
-        "title": "Principal Product Manager",
-        "location": "India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393556999250",
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad",
@@ -963,17 +956,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556944984",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393556983966",
+        "id": "eightfold-microsoft.com-1970393556911401",
         "title": "Principal Product Manager",
         "location": "India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556983966",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
         "firstSeen": "2026-09-30"
       },
       {
@@ -991,6 +977,13 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "eightfold-microsoft.com-1970393556962532",
+        "title": "Senior Product Manager",
+        "location": "India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556962532",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393556971850",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
@@ -1002,13 +995,6 @@
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556988910",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393556962532",
-        "title": "Senior Product Manager",
-        "location": "India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556962532",
         "firstSeen": "2026-09-30"
       }
     ],
@@ -1429,6 +1415,13 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.wipro.com-198887",
+        "title": "Product Management Consulting",
+        "location": "Hyderabad, IND-36, IND, 500032<br/>",
+        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198887-en_US/",
+        "firstSeen": "2026-10-04"
+      },
+      {
         "id": "sf-careers.wipro.com-198709",
         "title": "Product Management Consulting",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
@@ -1436,25 +1429,11 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.wipro.com-200048",
+        "id": "sf-careers.wipro.com-198887",
         "title": "Product Management Consulting",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
+        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198887-en_US/",
         "firstSeen": "2026-10-04"
-      },
-      {
-        "id": "sf-careers.wipro.com-200048",
-        "title": "Product Management Consulting",
-        "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
-        "firstSeen": "2026-10-04"
-      },
-      {
-        "id": "sf-careers.wipro.com-201119",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Pune, IND-27, IND, 411005<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/201119-en_US/",
-        "firstSeen": "2026-09-30"
       },
       {
         "id": "sf-careers.wipro.com-203307",
@@ -1464,17 +1443,17 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.wipro.com-201119",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Pune, IND-27, IND, 411005<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/201119-en_US/",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "sf-careers.wipro.com-204599",
         "title": "PRODUCT MANAGER L1",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/204599-en_US/",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.wipro.com-198488",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
         "firstSeen": "2026-09-30"
       },
       {
@@ -1489,6 +1468,13 @@
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198486-en_US/",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.wipro.com-198488",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
         "firstSeen": "2026-09-30"
       },
       {
