@@ -1450,6 +1450,24 @@
       "url": "https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8052/",
       "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "workday-mastercard-/job/Gurgaon-India/Manager--Product-Management_R-291979",
+      "title": "Manager, Product Management",
+      "company": "Mastercard",
+      "location": "Gurgaon, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Management_R-291979",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
+      "title": "Lead Product Management – Technical – AI Transformation",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-05"
     }
   ],
   "signals": [

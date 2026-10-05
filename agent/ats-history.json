@@ -302,8 +302,8 @@
           "eng": 49
         },
         "2026-10-05": {
-          "total": 127,
-          "eng": 49
+          "total": 128,
+          "eng": 50
         }
       },
       "pm": {
@@ -883,8 +883,8 @@
           "eng": 36
         },
         "2026-10-05": {
-          "total": 168,
-          "eng": 35
+          "total": 164,
+          "eng": 36
         }
       },
       "pm": {}
@@ -1148,7 +1148,7 @@
           "eng": 412
         },
         "2026-10-05": {
-          "total": 828,
+          "total": 829,
           "eng": 411
         }
       },
@@ -1567,7 +1567,7 @@
           "eng": 6
         },
         "2026-10-05": {
-          "total": 58,
+          "total": 59,
           "eng": 6
         }
       },
@@ -1959,7 +1959,7 @@
           "eng": 1
         },
         "2026-10-05": {
-          "total": 26,
+          "total": 27,
           "eng": 1
         }
       },
@@ -2064,8 +2064,7 @@
           "ids": [
             "lever-spotify-ee45924c-894c-4ea0-9c93-c5221894063f"
           ],
-          "lastSeen": "2026-09-30",
-          "closedOn": "2026-09-30"
+          "lastSeen": "2026-10-05"
         }
       }
     },
@@ -2121,7 +2120,7 @@
           "eng": 6
         },
         "2026-10-05": {
-          "total": 145,
+          "total": 144,
           "eng": 6
         }
       },
@@ -2768,8 +2767,8 @@
           "eng": 9
         },
         "2026-10-05": {
-          "total": 72,
-          "eng": 10
+          "total": 71,
+          "eng": 9
         }
       },
       "pm": {
@@ -3151,8 +3150,8 @@
           "eng": 11
         },
         "2026-10-05": {
-          "total": 41,
-          "eng": 11
+          "total": 40,
+          "eng": 10
         }
       },
       "pm": {}
@@ -3252,7 +3251,7 @@
         },
         "2026-10-05": {
           "total": 100,
-          "eng": 35
+          "eng": 39
         }
       },
       "pm": {
@@ -3392,7 +3391,7 @@
         },
         "2026-10-05": {
           "total": 100,
-          "eng": 9
+          "eng": 8
         }
       },
       "pm": {}
@@ -3705,7 +3704,7 @@
           "eng": 2
         },
         "2026-10-05": {
-          "total": 20,
+          "total": 19,
           "eng": 2
         }
       },
@@ -3753,7 +3752,7 @@
           "eng": 0
         },
         "2026-10-05": {
-          "total": 12,
+          "total": 13,
           "eng": 0
         }
       },
@@ -3884,7 +3883,7 @@
         },
         "2026-10-05": {
           "total": 100,
-          "eng": 30
+          "eng": 31
         }
       },
       "pm": {
@@ -3970,8 +3969,8 @@
           "eng": 57
         },
         "2026-10-05": {
-          "total": 117,
-          "eng": 57
+          "total": 124,
+          "eng": 60
         }
       },
       "pm": {
@@ -4009,7 +4008,8 @@
         "manager product management": {
           "ids": [
             "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-290035",
-            "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-291944"
+            "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-291944",
+            "workday-mastercard-/job/Gurgaon-India/Manager--Product-Management_R-291979"
           ],
           "lastSeen": "2026-10-05"
         },
@@ -4054,6 +4054,18 @@
         "manager product management scheme and regulatory compliance": {
           "ids": [
             "workday-mastercard-/job/Pune-India/Manager--Product-Management--Scheme-and-Regulatory-Compliance_R-291500"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "lead product management technical ai transformation": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "cyber risk quantification product manager": {
+          "ids": [
+            "workday-mastercard-/job/Besiktas-Istanbul-Turkey/Cyber-Risk-Quantification-Product-Manager_R-287126"
           ],
           "lastSeen": "2026-10-05"
         }
@@ -4292,7 +4304,7 @@
           "eng": 36
         },
         "2026-10-05": {
-          "total": 102,
+          "total": 103,
           "eng": 37
         }
       },
@@ -4463,7 +4475,7 @@
           "eng": 9
         },
         "2026-10-05": {
-          "total": 24,
+          "total": 28,
           "eng": 9
         }
       },
@@ -4561,8 +4573,8 @@
           "eng": 42
         },
         "2026-10-05": {
-          "total": 66,
-          "eng": 41
+          "total": 70,
+          "eng": 44
         }
       },
       "pm": {
@@ -4690,7 +4702,7 @@
           "eng": 22
         },
         "2026-10-05": {
-          "total": 73,
+          "total": 77,
           "eng": 23
         }
       },
@@ -4762,8 +4774,8 @@
           "eng": 29
         },
         "2026-10-05": {
-          "total": 68,
-          "eng": 30
+          "total": 69,
+          "eng": 32
         }
       },
       "pm": {}
@@ -4792,7 +4804,7 @@
         },
         "2026-10-05": {
           "total": 200,
-          "eng": 147,
+          "eng": 35,
           "spike": true
         }
       },
@@ -4801,36 +4813,31 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1"
           ],
-          "lastSeen": "2026-10-05",
-          "closedOn": "2026-10-05"
+          "lastSeen": "2026-10-05"
         },
         "product management analyst": {
           "ids": [
             "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
           ],
-          "lastSeen": "2026-10-05",
-          "closedOn": "2026-10-05"
+          "lastSeen": "2026-10-05"
         },
         "product management lead": {
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-05",
-          "closedOn": "2026-10-05"
+          "lastSeen": "2026-10-05"
         },
         "ai product management practitioner": {
           "ids": [
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1"
           ],
-          "lastSeen": "2026-10-05",
-          "closedOn": "2026-10-05"
+          "lastSeen": "2026-10-05"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-05",
-          "closedOn": "2026-10-05"
+          "lastSeen": "2026-10-05"
         }
       }
     },
@@ -4857,8 +4864,8 @@
           "eng": 42
         },
         "2026-10-05": {
-          "total": 68,
-          "eng": 42
+          "total": 67,
+          "eng": 41
         }
       },
       "pm": {
@@ -5021,8 +5028,8 @@
     "Databricks": {
       "daily": {
         "2026-10-05": {
-          "total": 888,
-          "eng": 575
+          "total": 890,
+          "eng": 576
         }
       },
       "pm": {
@@ -5042,7 +5049,8 @@
           "ids": [
             "greenhouse-databricks-8780470002"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
         },
         "product management intern amsterdam": {
           "ids": [
@@ -5088,7 +5096,8 @@
         },
         "sr product manager compute platform": {
           "ids": [
-            "greenhouse-databricks-8200284002"
+            "greenhouse-databricks-8200284002",
+            "greenhouse-databricks-8200462002"
           ],
           "lastSeen": "2026-10-05"
         },
@@ -5160,7 +5169,8 @@
         },
         "staff product manager security": {
           "ids": [
-            "greenhouse-databricks-7110509002"
+            "greenhouse-databricks-7110509002",
+            "greenhouse-databricks-7110499002"
           ],
           "lastSeen": "2026-10-05"
         },
@@ -5234,19 +5244,22 @@
         },
         "product manager agent security governance": {
           "ids": [
-            "greenhouse-gleanwork-4525297005"
+            "greenhouse-gleanwork-4525297005",
+            "greenhouse-gleanwork-4694761005"
           ],
           "lastSeen": "2026-10-05"
         },
         "product manager ai quality": {
           "ids": [
-            "greenhouse-gleanwork-4525518005"
+            "greenhouse-gleanwork-4525518005",
+            "greenhouse-gleanwork-4694764005"
           ],
           "lastSeen": "2026-10-05"
         },
         "product manager api platform": {
           "ids": [
-            "greenhouse-gleanwork-4731372005"
+            "greenhouse-gleanwork-4731372005",
+            "greenhouse-gleanwork-4731388005"
           ],
           "lastSeen": "2026-10-05"
         },
@@ -5258,7 +5271,8 @@
         },
         "product manager core experience": {
           "ids": [
-            "greenhouse-gleanwork-4702368005"
+            "greenhouse-gleanwork-4702368005",
+            "greenhouse-gleanwork-4702147005"
           ],
           "lastSeen": "2026-10-05"
         },
@@ -5301,7 +5315,7 @@
     "Autodesk": {
       "daily": {
         "2026-10-05": {
-          "total": 26,
+          "total": 28,
           "eng": 14
         }
       },
@@ -5333,8 +5347,8 @@
     "Harness": {
       "daily": {
         "2026-10-05": {
-          "total": 68,
-          "eng": 31
+          "total": 67,
+          "eng": 30
         }
       },
       "pm": {
@@ -5392,7 +5406,7 @@
     "Hevo Data": {
       "daily": {
         "2026-10-05": {
-          "total": 53,
+          "total": 52,
           "eng": 19
         }
       },
@@ -5499,7 +5513,8 @@
         },
         "senior product manager": {
           "ids": [
-            "greenhouse-mongodb-8128356"
+            "greenhouse-mongodb-8128356",
+            "greenhouse-mongodb-7113803"
           ],
           "lastSeen": "2026-10-05"
         },
@@ -5649,7 +5664,7 @@
     "OneTrust": {
       "daily": {
         "2026-10-05": {
-          "total": 90,
+          "total": 91,
           "eng": 43
         }
       },
@@ -5711,7 +5726,7 @@
     "Rubrik": {
       "daily": {
         "2026-10-05": {
-          "total": 128,
+          "total": 129,
           "eng": 38
         }
       },
@@ -5769,7 +5784,7 @@
     "Rippling": {
       "daily": {
         "2026-10-05": {
-          "total": 652,
+          "total": 653,
           "eng": 183
         }
       },
@@ -5875,7 +5890,7 @@
     "Saviynt": {
       "daily": {
         "2026-10-05": {
-          "total": 71,
+          "total": 70,
           "eng": 36
         }
       },
@@ -5929,7 +5944,7 @@
     "Snowflake": {
       "daily": {
         "2026-10-05": {
-          "total": 348,
+          "total": 347,
           "eng": 177
         }
       },
@@ -6027,7 +6042,7 @@
     "UiPath": {
       "daily": {
         "2026-10-05": {
-          "total": 98,
+          "total": 100,
           "eng": 38
         }
       },
