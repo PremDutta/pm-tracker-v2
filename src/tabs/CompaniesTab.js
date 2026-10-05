@@ -11,6 +11,7 @@ export const COMPANY_ROLES_URL = process.env.REACT_APP_COMPANY_ROLES_URL || 'htt
 
 export const GROUPS = {
   unicorn:           'Indian unicorns',
+  ai:                'AI companies',
   big_tech:          'Big tech',
   it_services:       'IT services',
   bfsi_gcc:          'Banks, fintech & GCCs',
@@ -23,9 +24,11 @@ const DAY_MS = 86_400_000;
 const isFresh = (isoDay) => isoDay && (Date.now() - new Date(`${isoDay}T00:00:00`).getTime()) <= 3 * DAY_MS;
 const googleRoles = (name, role) => `https://www.google.com/search?q=${encodeURIComponent(`"${name}" ${role.searchTerm} India (careers OR jobs)`)}&tbs=qdr:m`;
 
-export default function CompaniesTab({ t, card, btnSecondary, badge, role }) {
+export default function CompaniesTab({ t, card, btnSecondary, badge, role, focus }) {
   const [live, setLive] = useState({ status: 'loading', roles: {}, lastRead: {} });
-  const [group, setGroup] = useState('all');
+  const [group, setGroup] = useState(focus?.companyGroup || 'all');
+  // "Go to feature" from the announcements opens a specific group.
+  useEffect(() => { if (focus?.companyGroup) setGroup(focus.companyGroup); }, [focus?.nonce, focus?.companyGroup]);
   const [query, setQuery] = useState('');
   const [hiringOnly, setHiringOnly] = useState(false);
   const [open, setOpen] = useState(null);

@@ -31,6 +31,22 @@
     "sector": "other"
   },
   {
+    "name": "Atlan",
+    "ats": "ashby",
+    "slug": "atlan",
+    "sector": "ai"
+  },
+  {
+    "name": "Autodesk",
+    "ats": "workday",
+    "slug": {
+      "tenant": "autodesk",
+      "wd": 1,
+      "site": "Ext"
+    },
+    "sector": "ai"
+  },
+  {
     "name": "Browserstack",
     "ats": "workday",
     "slug": {
@@ -50,10 +66,34 @@
     }
   },
   {
+    "name": "Composio",
+    "ats": "ashby",
+    "slug": "composio",
+    "sector": "ai"
+  },
+  {
+    "name": "Confluent",
+    "ats": "ashby",
+    "slug": "confluent",
+    "sector": "ai"
+  },
+  {
+    "name": "Couchbase",
+    "ats": "greenhouse",
+    "slug": "couchbaseinc",
+    "sector": "ai"
+  },
+  {
     "name": "CRED",
     "ats": "lever",
     "slug": "cred",
     "sector": "fintech"
+  },
+  {
+    "name": "Databricks",
+    "ats": "greenhouse",
+    "slug": "databricks",
+    "sector": "ai"
   },
   {
     "name": "Dhan",
@@ -66,6 +106,12 @@
     "ats": "greenhouse",
     "slug": "druva",
     "sector": "saas"
+  },
+  {
+    "name": "Ema",
+    "ats": "ashby",
+    "slug": "ema",
+    "sector": "ai"
   },
   {
     "name": "Emergent",
@@ -96,10 +142,46 @@
     "sector": "ai"
   },
   {
+    "name": "Glean",
+    "ats": "greenhouse",
+    "slug": "gleanwork",
+    "sector": "ai"
+  },
+  {
     "name": "Groww",
     "ats": "greenhouse",
     "slug": "groww",
     "sector": "fintech"
+  },
+  {
+    "name": "Gushwork",
+    "ats": "lever",
+    "slug": "gushwork",
+    "sector": "ai"
+  },
+  {
+    "name": "GW RhythmX",
+    "ats": "greenhouse",
+    "slug": "rhythmx-ai",
+    "sector": "ai"
+  },
+  {
+    "name": "HackerOne",
+    "ats": "ashby",
+    "slug": "HackerOne",
+    "sector": "ai"
+  },
+  {
+    "name": "Haptik",
+    "ats": "freshteam",
+    "slug": "haptik",
+    "sector": "ai"
+  },
+  {
+    "name": "Harness",
+    "ats": "greenhouse",
+    "slug": "harnessinc",
+    "sector": "ai"
   },
   {
     "name": "HCLTech",
@@ -110,10 +192,26 @@
     }
   },
   {
+    "name": "Hevo Data",
+    "ats": "lever",
+    "slug": "hevodata",
+    "sector": "ai"
+  },
+  {
     "name": "HighRadius",
     "ats": "greenhouse",
     "slug": "highradius",
     "sector": "saas"
+  },
+  {
+    "name": "HPE",
+    "ats": "workday",
+    "slug": {
+      "tenant": "hpe",
+      "wd": 5,
+      "site": "Jobsathpe"
+    },
+    "sector": "ai"
   },
   {
     "name": "Icertis",
@@ -146,6 +244,12 @@
     }
   },
   {
+    "name": "Karat",
+    "ats": "greenhouse",
+    "slug": "karat",
+    "sector": "ai"
+  },
+  {
     "name": "KPMG India",
     "ats": "oracle",
     "slug": {
@@ -162,6 +266,12 @@
       "wd": 5,
       "site": "LWS_External_CS"
     }
+  },
+  {
+    "name": "Lyzr",
+    "ats": "keka",
+    "slug": "lyzr",
+    "sector": "ai"
   },
   {
     "name": "Mastercard",
@@ -193,10 +303,22 @@
     }
   },
   {
+    "name": "Mihup",
+    "ats": "keka",
+    "slug": "mihup",
+    "sector": "ai"
+  },
+  {
     "name": "Mindtickle",
     "ats": "lever",
     "slug": "mindtickle",
     "sector": "saas"
+  },
+  {
+    "name": "MongoDB",
+    "ats": "greenhouse",
+    "slug": "mongodb",
+    "sector": "ai"
   },
   {
     "name": "Morgan Stanley",
@@ -207,9 +329,37 @@
     }
   },
   {
+    "name": "Motorola Solutions",
+    "ats": "workday",
+    "slug": {
+      "tenant": "motorolasolutions",
+      "wd": 5,
+      "site": "Careers"
+    },
+    "sector": "ai"
+  },
+  {
+    "name": "Netomi",
+    "ats": "lever",
+    "slug": "netomi",
+    "sector": "ai"
+  },
+  {
     "name": "Netradyne",
     "ats": "greenhouse",
     "slug": "netradyne",
+    "sector": "ai"
+  },
+  {
+    "name": "Neuron7.ai",
+    "ats": "lever",
+    "slug": "neuron7",
+    "sector": "ai"
+  },
+  {
+    "name": "Nurix AI",
+    "ats": "keka",
+    "slug": "nurix",
     "sector": "ai"
   },
   {
@@ -220,6 +370,18 @@
       "wd": 5,
       "site": "NVIDIAExternalCareerSite"
     }
+  },
+  {
+    "name": "Observe.AI",
+    "ats": "greenhouse",
+    "slug": "observeai",
+    "sector": "ai"
+  },
+  {
+    "name": "OneTrust",
+    "ats": "greenhouse",
+    "slug": "onetrust",
+    "sector": "ai"
   },
   {
     "name": "Open Financial Technologies",
@@ -296,6 +458,18 @@
     "sector": "fintech"
   },
   {
+    "name": "Rippling",
+    "ats": "rippling",
+    "slug": "rippling",
+    "sector": "ai"
+  },
+  {
+    "name": "Rubrik",
+    "ats": "greenhouse",
+    "slug": "rubrik",
+    "sector": "ai"
+  },
+  {
     "name": "Salesforce",
     "ats": "workday",
     "slug": {
@@ -320,9 +494,27 @@
     "sector": "ai"
   },
   {
+    "name": "Saviynt",
+    "ats": "lever",
+    "slug": "saviynt",
+    "sector": "ai"
+  },
+  {
     "name": "ServiceNow",
     "ats": "smartrecruiters",
     "slug": "ServiceNow"
+  },
+  {
+    "name": "Sigmoid",
+    "ats": "greenhouse",
+    "slug": "sigmoid",
+    "sector": "ai"
+  },
+  {
+    "name": "Simpplr",
+    "ats": "greenhouse",
+    "slug": "simpplr",
+    "sector": "ai"
   },
   {
     "name": "Skyroot Aerospace",
@@ -335,6 +527,34 @@
     "ats": "greenhouse",
     "slug": "slice",
     "sector": "fintech"
+  },
+  {
+    "name": "Snowflake",
+    "ats": "ashby",
+    "slug": "snowflake",
+    "sector": "ai"
+  },
+  {
+    "name": "SpotDraft",
+    "ats": "ashby",
+    "slug": "spotdraft",
+    "sector": "ai"
+  },
+  {
+    "name": "Sprinklr",
+    "ats": "workday",
+    "slug": {
+      "tenant": "sprinklr",
+      "wd": 1,
+      "site": "careers"
+    },
+    "sector": "ai"
+  },
+  {
+    "name": "Spyne",
+    "ats": "keka",
+    "slug": "spyneai",
+    "sector": "ai"
   },
   {
     "name": "Swiggy",
@@ -350,6 +570,12 @@
       "wd": 5,
       "site": "targetcareers"
     }
+  },
+  {
+    "name": "UiPath",
+    "ats": "ashby",
+    "slug": "uipath",
+    "sector": "ai"
   },
   {
     "name": "Uniphore",
@@ -402,6 +628,12 @@
     }
   },
   {
+    "name": "Wing Assistant (M32 AI)",
+    "ats": "lever",
+    "slug": "getwingapp",
+    "sector": "ai"
+  },
+  {
     "name": "Wipro",
     "ats": "successfactors",
     "slug": {
@@ -414,6 +646,16 @@
     "ats": "zoho",
     "slug": "go-yubi",
     "sector": "fintech"
+  },
+  {
+    "name": "Zendesk",
+    "ats": "workday",
+    "slug": {
+      "tenant": "zendesk",
+      "wd": 1,
+      "site": "zendesk"
+    },
+    "sector": "ai"
   },
   {
     "name": "Zenoti",

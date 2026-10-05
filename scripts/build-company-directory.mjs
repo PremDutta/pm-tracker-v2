@@ -14,7 +14,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 // ATS readers the scanner has (agent/scan-jobs.mjs ATS_FETCHERS).
-const SCANNABLE = new Set(['greenhouse', 'lever', 'ashby', 'smartrecruiters', 'workable', 'recruitee', 'zoho', 'keka', 'freshteam', 'workday', 'eightfold', 'oracle', 'successfactors', 'amazon']);
+const SCANNABLE = new Set(['greenhouse', 'lever', 'ashby', 'smartrecruiters', 'workable', 'recruitee', 'zoho', 'keka', 'freshteam', 'workday', 'eightfold', 'oracle', 'successfactors', 'amazon', 'rippling']);
 
 const src = JSON.parse(await fs.readFile(path.join(ROOT, 'scripts/company-directory.json'), 'utf8'));
 const companies = src.companies;

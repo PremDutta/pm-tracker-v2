@@ -65,7 +65,7 @@ export default function AiPmTab({ t, theme, card, btnPrimary, btnSecondary, badg
           AI Product Roles <NewBadge id="tab:ai" t={t} style={{ fontSize:'11px', padding:'3px 10px' }} />
         </h2>
         <p style={{ fontSize:'16px', color:t.textSecondary, maxWidth:'640px', margin:'0 auto' }}>
-          PM, Senior PM and Group PM roles in AI, ML and GenAI, in India or remote-open-to-India. Collected every 6 hours from 185 companies' job boards, VC portfolio boards and YC startups.
+          PM, Senior PM and Group PM roles in AI, ML and GenAI, in India or remote-open-to-India. Collected every 6 hours from {COMPANY_DIRECTORY.length} companies' job boards, VC portfolio boards and YC startups.
         </p>
       </div>
 

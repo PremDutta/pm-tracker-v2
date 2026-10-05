@@ -318,6 +318,22 @@ async function fetchWorkday(company) {
   }));
 }
 
+// Rippling ATS: GET https://api.rippling.com/platform/api/ats/v1/board/{slug}/jobs
+// -> [{ uuid, name, url, workLocation: { label } }]. Verified live 2026-10-05.
+async function fetchRippling(company) {
+  const res = await fetch(`https://api.rippling.com/platform/api/ats/v1/board/${company.slug}/jobs`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  return (Array.isArray(data) ? data : []).map(j => ({
+    id: `rippling-${company.slug}-${j.uuid}`,
+    title: j.name,
+    company: company.name,
+    location: j.workLocation?.label || '',
+    url: j.url,
+    source: `Rippling (${company.name})`,
+  }));
+}
+
 const ATS_FETCHERS = {
   greenhouse: fetchGreenhouse,
   lever: fetchLever,
@@ -333,6 +349,7 @@ const ATS_FETCHERS = {
   oracle: fetchOracle,
   successfactors: fetchSuccessFactors,
   amazon: fetchAmazon,
+  rippling: fetchRippling,
 };
 
 // Returns { pmJobs, boards }: the PM postings, plus every company board read

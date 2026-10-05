@@ -28,10 +28,10 @@ export default function App() {
   const setTheme = (next) => { setThemeState(next); saveTheme(next); };
   const [activeTab, setActiveTab] = useState('home');
   // Set by "Go to feature": which Hacks category to open; nonce re-triggers it.
-  const [focus, setFocus] = useState({ hackCategory: null, nonce: 0 });
+  const [focus, setFocus] = useState({ hackCategory: null, companyGroup: null, nonce: 0 });
   const goToFeature = (f) => {
     setActiveTab(f.tab);
-    setFocus(prev => ({ hackCategory: f.hackCategory || null, nonce: prev.nonce + 1 }));
+    setFocus(prev => ({ hackCategory: f.hackCategory || null, companyGroup: f.companyGroup || null, nonce: prev.nonce + 1 }));
     window.scrollTo({ top: 0 });
     if (f.target) setTimeout(() => document.getElementById(f.target)?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 250);
   };
@@ -187,7 +187,7 @@ export default function App() {
         {activeTab==='ai' && <AiPmTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} role={role} />}
 
         {/* ── COMPANIES ── */}
-        {activeTab==='companies' && <CompaniesTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
+        {activeTab==='companies' && <CompaniesTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} focus={focus} />}
 
         {/* ── SIGNALS ── */}
         {activeTab==='signals' && <SignalsTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} setActiveTab={setActiveTab} />}

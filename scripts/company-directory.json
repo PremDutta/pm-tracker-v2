@@ -122,12 +122,34 @@
       "readable": false
     },
     {
+      "name": "Atlan",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://atlan.com/careers",
+      "ats": "ashby",
+      "slug": "atlan",
+      "readable": true
+    },
+    {
       "name": "Atlassian",
       "group": "big_tech",
       "careersUrl": "https://www.atlassian.com/company/careers/all-jobs",
       "ats": "icims",
       "searchUrl": "https://www.atlassian.com/company/careers/all-jobs?search=product%20manager&location=India",
       "readable": false
+    },
+    {
+      "name": "Autodesk",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+      "ats": "workday",
+      "slug": {
+        "tenant": "autodesk",
+        "wd": 1,
+        "site": "Ext"
+      },
+      "readable": true
     },
     {
       "name": "Bharatpe",
@@ -257,6 +279,15 @@
       "readable": false
     },
     {
+      "name": "CleverTap",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://clevertap.com/careers/",
+      "ats": "darwinbox",
+      "readable": false,
+      "note": "Darwinbox careers site blocks automated reads: check it directly."
+    },
+    {
       "name": "Coforge",
       "group": "it_services",
       "careersUrl": "https://careers.coforge.com/coforge/",
@@ -287,6 +318,33 @@
       "readable": false
     },
     {
+      "name": "Composio",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://composio.dev/careers",
+      "ats": "ashby",
+      "slug": "composio",
+      "readable": true
+    },
+    {
+      "name": "Confluent",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://careers.confluent.io",
+      "ats": "ashby",
+      "slug": "confluent",
+      "readable": true
+    },
+    {
+      "name": "Couchbase",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.couchbase.com/careers/",
+      "ats": "greenhouse",
+      "slug": "couchbaseinc",
+      "readable": true
+    },
+    {
       "name": "CRED",
       "group": "unicorn",
       "careersUrl": "https://careers.cred.club",
@@ -311,6 +369,15 @@
       "sector": "saas",
       "readable": false,
       "note": "Darwinbox careers site blocks automated reads: check it directly."
+    },
+    {
+      "name": "Databricks",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.databricks.com/company/careers",
+      "ats": "greenhouse",
+      "slug": "databricks",
+      "readable": true
     },
     {
       "name": "DealShare",
@@ -398,6 +465,15 @@
       "ats": "unknown",
       "sector": "ecommerce",
       "readable": false
+    },
+    {
+      "name": "Ema",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.ema.co/careers",
+      "ats": "ashby",
+      "slug": "ema",
+      "readable": true
     },
     {
       "name": "Emergent",
@@ -508,6 +584,15 @@
       "readable": true
     },
     {
+      "name": "Glean",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.glean.com/careers",
+      "ats": "greenhouse",
+      "slug": "gleanwork",
+      "readable": true
+    },
+    {
       "name": "GlobalBees",
       "group": "unicorn",
       "careersUrl": "https://www.globalbees.com/career.html",
@@ -550,6 +635,51 @@
       "note": "Valuation below $1B or struggling; check before applying."
     },
     {
+      "name": "Gushwork",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://jobs.lever.co/gushwork",
+      "ats": "lever",
+      "slug": "gushwork",
+      "readable": true
+    },
+    {
+      "name": "GW RhythmX",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://job-boards.greenhouse.io/rhythmx-ai",
+      "ats": "greenhouse",
+      "slug": "rhythmx-ai",
+      "readable": true
+    },
+    {
+      "name": "HackerOne",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.hackerone.com/careers",
+      "ats": "ashby",
+      "slug": "HackerOne",
+      "readable": true
+    },
+    {
+      "name": "Haptik",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.haptik.ai/careers",
+      "ats": "freshteam",
+      "slug": "haptik",
+      "readable": true
+    },
+    {
+      "name": "Harness",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.harness.io/company/careers",
+      "ats": "greenhouse",
+      "slug": "harnessinc",
+      "readable": true
+    },
+    {
       "name": "Hasura",
       "group": "unicorn",
       "careersUrl": "https://hasura.io/careers",
@@ -577,12 +707,34 @@
       "readable": false
     },
     {
+      "name": "Hevo Data",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://hevodata.com/careers/",
+      "ats": "lever",
+      "slug": "hevodata",
+      "readable": true
+    },
+    {
       "name": "HighRadius",
       "group": "unicorn",
       "careersUrl": "https://www.highradius.com/careers/",
       "ats": "greenhouse",
       "sector": "saas",
       "slug": "highradius",
+      "readable": true
+    },
+    {
+      "name": "HPE",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe",
+      "ats": "workday",
+      "slug": {
+        "tenant": "hpe",
+        "wd": 5,
+        "site": "Jobsathpe"
+      },
       "readable": true
     },
     {
@@ -715,6 +867,23 @@
       "readable": false
     },
     {
+      "name": "Karat",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://karat.com/careers/",
+      "ats": "greenhouse",
+      "slug": "karat",
+      "readable": true
+    },
+    {
+      "name": "Kore.ai",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.kore.ai/careers",
+      "ats": "rippling",
+      "readable": false
+    },
+    {
       "name": "KPMG India",
       "group": "consulting",
       "careersUrl": "https://kpmg.com/in/en/careers.html",
@@ -735,6 +904,14 @@
       "sector": "fintech",
       "readable": false,
       "note": "Darwinbox careers site blocks automated reads: check it directly."
+    },
+    {
+      "name": "Krutrim",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.krutrim.com/careers",
+      "ats": "unknown",
+      "readable": false
     },
     {
       "name": "Lead",
@@ -796,6 +973,15 @@
       "careersUrl": "https://www.ltm.com/careers",
       "ats": "custom",
       "readable": false
+    },
+    {
+      "name": "Lyzr",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.lyzr.ai/careers/",
+      "ats": "keka",
+      "slug": "lyzr",
+      "readable": true
     },
     {
       "name": "MakeMyTrip",
@@ -876,6 +1062,15 @@
       "readable": true
     },
     {
+      "name": "Mihup",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://mihup.ai/careers",
+      "ats": "keka",
+      "slug": "mihup",
+      "readable": true
+    },
+    {
       "name": "Mindtickle",
       "group": "unicorn",
       "careersUrl": "https://jobs.lever.co/mindtickle",
@@ -920,6 +1115,15 @@
       "note": "Darwinbox careers site blocks automated reads: check it directly."
     },
     {
+      "name": "MongoDB",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.mongodb.com/company/careers",
+      "ats": "greenhouse",
+      "slug": "mongodb",
+      "readable": true
+    },
+    {
       "name": "Morgan Stanley",
       "group": "bfsi_gcc",
       "careersUrl": "https://morganstanley.eightfold.ai/careers",
@@ -928,6 +1132,19 @@
       "slug": {
         "host": "morganstanley.eightfold.ai",
         "domain": "morganstanley.com"
+      },
+      "readable": true
+    },
+    {
+      "name": "Motorola Solutions",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers",
+      "ats": "workday",
+      "slug": {
+        "tenant": "motorolasolutions",
+        "wd": 5,
+        "site": "Careers"
       },
       "readable": true
     },
@@ -947,6 +1164,15 @@
       "readable": false
     },
     {
+      "name": "Netomi",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.netomi.com/careers",
+      "ats": "lever",
+      "slug": "netomi",
+      "readable": true
+    },
+    {
       "name": "Netradyne",
       "group": "unicorn",
       "careersUrl": "https://www.netradyne.com/careers",
@@ -956,12 +1182,30 @@
       "readable": true
     },
     {
+      "name": "Neuron7.ai",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.neuron7.ai/careers",
+      "ats": "lever",
+      "slug": "neuron7",
+      "readable": true
+    },
+    {
       "name": "NoBroker",
       "group": "unicorn",
       "careersUrl": "https://www.nobroker.in/careers",
       "ats": "unknown",
       "sector": "other",
       "readable": false
+    },
+    {
+      "name": "Nurix AI",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.nurix.ai/careers",
+      "ats": "keka",
+      "slug": "nurix",
+      "readable": true
     },
     {
       "name": "NVIDIA",
@@ -984,6 +1228,15 @@
       "sector": "ecommerce",
       "status": "listed",
       "readable": false
+    },
+    {
+      "name": "Observe.AI",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.observe.ai/careers",
+      "ats": "greenhouse",
+      "slug": "observeai",
+      "readable": true
     },
     {
       "name": "OfBusiness",
@@ -1025,6 +1278,15 @@
       "ats": "unknown",
       "sector": "fintech",
       "readable": false
+    },
+    {
+      "name": "OneTrust",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.onetrust.com/careers/",
+      "ats": "greenhouse",
+      "slug": "onetrust",
+      "readable": true
     },
     {
       "name": "Open Financial Technologies",
@@ -1282,6 +1544,32 @@
       "readable": false
     },
     {
+      "name": "Rippling",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://ats.rippling.com/rippling/jobs",
+      "ats": "rippling",
+      "readable": true,
+      "slug": "rippling"
+    },
+    {
+      "name": "Rocketlane",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://careers.kula.ai/rocketlane",
+      "ats": "kula",
+      "readable": false
+    },
+    {
+      "name": "Rubrik",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.rubrik.com/company/careers",
+      "ats": "greenhouse",
+      "slug": "rubrik",
+      "readable": true
+    },
+    {
       "name": "Salesforce",
       "group": "big_tech",
       "careersUrl": "https://careers.salesforce.com/",
@@ -1325,6 +1613,15 @@
       "readable": true
     },
     {
+      "name": "Saviynt",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://saviynt.com/careers",
+      "ats": "lever",
+      "slug": "saviynt",
+      "readable": true
+    },
+    {
       "name": "ServiceNow",
       "group": "big_tech",
       "careersUrl": "https://careers.servicenow.com/jobs/",
@@ -1359,6 +1656,24 @@
       "note": "Valuation below $1B or struggling; check before applying."
     },
     {
+      "name": "Sigmoid",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.sigmoid.com/careers/",
+      "ats": "greenhouse",
+      "slug": "sigmoid",
+      "readable": true
+    },
+    {
+      "name": "Simpplr",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.simpplr.com/careers/",
+      "ats": "greenhouse",
+      "slug": "simpplr",
+      "readable": true
+    },
+    {
       "name": "Skyroot Aerospace",
       "group": "unicorn",
       "careersUrl": "https://skyroot.zohorecruit.in/jobs/Careers",
@@ -1386,6 +1701,15 @@
       "note": "Valuation below $1B or struggling; check before applying."
     },
     {
+      "name": "Snowflake",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://careers.snowflake.com",
+      "ats": "ashby",
+      "slug": "snowflake",
+      "readable": true
+    },
+    {
       "name": "Spinny",
       "group": "unicorn",
       "careersUrl": "https://spinzone.darwinbox.in/ms/candidate/careers",
@@ -1393,6 +1717,37 @@
       "sector": "ecommerce",
       "readable": false,
       "note": "Darwinbox careers site blocks automated reads: check it directly."
+    },
+    {
+      "name": "SpotDraft",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.spotdraft.com/careers",
+      "ats": "ashby",
+      "slug": "spotdraft",
+      "readable": true
+    },
+    {
+      "name": "Sprinklr",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://sprinklr.wd1.myworkdayjobs.com/careers",
+      "ats": "workday",
+      "slug": {
+        "tenant": "sprinklr",
+        "wd": 1,
+        "site": "careers"
+      },
+      "readable": true
+    },
+    {
+      "name": "Spyne",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.spyne.ai/careers",
+      "ats": "keka",
+      "slug": "spyneai",
+      "readable": true
     },
     {
       "name": "Square Yards",
@@ -1477,6 +1832,15 @@
       "ats": "unknown",
       "sector": "ecommerce",
       "readable": false
+    },
+    {
+      "name": "UiPath",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.uipath.com/careers",
+      "ats": "ashby",
+      "slug": "uipath",
+      "readable": true
     },
     {
       "name": "Unacademy",
@@ -1594,6 +1958,15 @@
       "readable": true
     },
     {
+      "name": "Wing Assistant (M32 AI)",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://jobs.lever.co/getwingapp",
+      "ats": "lever",
+      "slug": "getwingapp",
+      "readable": true
+    },
+    {
       "name": "Wipro",
       "group": "it_services",
       "careersUrl": "https://careers.wipro.com/",
@@ -1614,12 +1987,33 @@
       "readable": false
     },
     {
+      "name": "Yellow.ai",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://careers.yellow.ai/jobs/Careers",
+      "ats": "zoho",
+      "readable": false
+    },
+    {
       "name": "Yubi",
       "group": "unicorn",
       "careersUrl": "https://www.go-yubi.com/careers",
       "ats": "zoho",
       "sector": "fintech",
       "slug": "go-yubi",
+      "readable": true
+    },
+    {
+      "name": "Zendesk",
+      "group": "ai",
+      "sector": "ai",
+      "careersUrl": "https://www.zendesk.com/jobs/",
+      "ats": "workday",
+      "slug": {
+        "tenant": "zendesk",
+        "wd": 1,
+        "site": "zendesk"
+      },
       "readable": true
     },
     {
