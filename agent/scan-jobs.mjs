@@ -406,7 +406,7 @@ async function saveCompanyRoles(pmJobs, boards) {
   const read = new Set(boards.map(b => b.company));
   const roles = {};
   for (const [company, list] of Object.entries(previous.roles)) {
-    if (!read.has(company) && (previous.lastRead[company] || '') >= weekAgo) roles[company] = list;
+    if (!read.has(company) && (previous.lastRead[company] || '') >= weekAgo) roles[company] = list.map(r => ({ ...r, level: r.level || roleLevel(r.title) }));
   }
   const firstSeen = new Map(Object.values(previous.roles).flat().map(r => [r.id, r.firstSeen]));
   for (const j of pmJobs.filter(j => INDIA_RE.test(j.location || ''))) {
