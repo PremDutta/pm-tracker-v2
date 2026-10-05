@@ -18,6 +18,15 @@ const safeSet = (key, value) => {
   }
 };
 
+// ─── Announcements: which release notes this viewer has acknowledged ────────
+const SEEN_RELEASES_KEY = 'pmt_seen_releases';
+export const getSeenReleases = () => safeGet(SEEN_RELEASES_KEY, []);
+export const markReleasesSeen = (ids) => {
+  const next = [...new Set([...getSeenReleases(), ...ids])];
+  safeSet(SEEN_RELEASES_KEY, next);
+  return next;
+};
+
 // ─── Theme: light by default, your last toggle remembered on this device ────
 const THEME_KEY = 'pmt_theme';
 export const getTheme = () => (safeGet(THEME_KEY, 'light') === 'dark' ? 'dark' : 'light');

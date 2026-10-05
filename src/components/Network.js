@@ -29,7 +29,7 @@ export function NetworkEditor({ t, card, btnPrimary, onChange }) {
     setTimeout(() => setSaved(false), 1500);
   };
   return (
-    <div style={{ ...card, marginBottom: '28px' }}>
+    <div id="network" style={{ ...card, marginBottom: '28px', scrollMarginTop: '140px' }}>
       <h3 style={{ margin: '0 0 4px', fontSize: '16px', fontWeight: '600', display: 'flex', alignItems: 'center', gap: '8px' }}>
         <Users size={16} /> My network <NewBadge id="network:matcher" t={t} />
       </h3>

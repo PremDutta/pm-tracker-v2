@@ -1,7 +1,9 @@
 import React from 'react';
-import { render, screen, fireEvent } from '@testing-library/react';
+import { render, screen, fireEvent, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import App from './App';
+import { WHATS_NEW } from './data/whatsNew';
+import * as clock from './clock';
 
 beforeEach(() => {
   window.localStorage.clear();
@@ -14,8 +16,14 @@ beforeEach(() => {
     configurable: true,
   });
   window.open = jest.fn();
+  // jsdom doesn't implement scrolling; "Go to feature" scrolls to the section.
+  window.scrollTo = jest.fn();
+  Element.prototype.scrollIntoView = jest.fn();
   // The Govt & PSU tab loads live openings from GitHub; tests never hit the network.
   global.fetch = jest.fn(() => Promise.resolve({ ok: true, json: () => Promise.resolve({ openings: [] }) }));
+  // Every release already acknowledged, so the announcement dialog stays out of
+  // the way; the announcement tests clear this themselves.
+  window.localStorage.setItem('pmt_seen_releases', JSON.stringify(WHATS_NEW.map(f => f.id)));
 });
 
 const isoDaysFromToday = (n) => {
@@ -390,4 +398,70 @@ test('Companies: shows live open PM roles per company, expands them, and Watch a
   await user.click(screen.getByRole('button', { name: 'Add NVIDIA to Watchlist' }));
   expect(JSON.parse(window.localStorage.getItem('pmt_watchlist'))[0]).toMatchObject({ company: 'NVIDIA' });
   expect(screen.getByRole('button', { name: 'Add NVIDIA to Watchlist' })).toBeDisabled();
+});
+
+test('Announcements: unseen releases pop up once with Go to feature; the megaphone lists every release', async () => {
+  window.localStorage.removeItem('pmt_seen_releases');
+  jest.spyOn(clock, 'now').mockReturnValue(new Date('2026-10-06T10:00:00'));
+  const user = userEvent.setup();
+  const { unmount } = render(<App />);
+
+  const dialog = screen.getByRole('dialog', { name: 'New features' });
+  expect(within(dialog).getByText('AI PM tab: AI product roles at every level')).toBeInTheDocument();
+  await user.click(within(dialog).getByRole('button', { name: 'Go to feature: AI PM tab: AI product roles at every level' }));
+  expect(screen.queryByRole('dialog')).not.toBeInTheDocument();
+  expect(screen.getByRole('heading', { name: /AI Product Roles/ })).toBeInTheDocument();
+
+  // Acknowledged: no popup next visit, and no unread count on the megaphone.
+  unmount();
+  render(<App />);
+  expect(screen.queryByRole('dialog')).not.toBeInTheDocument();
+  await user.click(screen.getByRole('button', { name: "What's new" }));
+  const notes = screen.getByRole('dialog', { name: 'Release notes' });
+  expect(within(notes).getByText('Govt & PSU jobs')).toBeInTheDocument();          // older releases stay listed
+  await user.click(within(notes).getByRole('button', { name: /Go to feature: YC startups/ }));
+  expect(screen.getByText(/YC startups: PM roles open to India/)).toBeInTheDocument();
+  clock.now.mockRestore?.();
+});
+
+test('Announcements: nothing pops up once releases are older than 14 days', () => {
+  window.localStorage.removeItem('pmt_seen_releases');
+  jest.spyOn(clock, 'now').mockReturnValue(new Date('2027-01-15T10:00:00'));
+  render(<App />);
+  expect(screen.queryByRole('dialog')).not.toBeInTheDocument();
+  expect(screen.getByRole('button', { name: "What's new" })).toBeInTheDocument();
+  jest.restoreAllMocks();
+});
+
+test('AI PM tab: level and YC filters, remote badge, and logging to the Tracker', async () => {
+  global.fetch = jest.fn((url) => Promise.resolve({ ok: true, json: () => Promise.resolve(String(url).includes('ai-roles') ? { roles: [
+    { id: 'ashby-sarvam-1', title: 'Product Manager - Chanakya', company: 'Sarvam AI', location: 'Delhi', url: 'https://jobs.ashbyhq.com/sarvam/1', level: 'pm', firstSeen: '2026-10-01' },
+    { id: 'workday-x-2', title: 'Senior Product Manager, GenAI', company: 'Adobe', location: 'Noida, India', url: 'https://adobe.wd5.myworkdayjobs.com/x/2', level: 'senior', firstSeen: '2026-10-01' },
+    { id: 'yc-3', title: 'Lead/Group Product Manager', company: 'Noora Health', location: 'Remote', url: 'https://www.ycombinator.com/companies/noora/jobs/3', level: 'group', eligibility: 'remote', firstSeen: '2026-10-01' },
+  ] } : { openings: [], roles: [], signals: [] }) }));
+  const user = userEvent.setup();
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: 'AI PM' }));
+  expect(await screen.findByText('3 of 3')).toBeInTheDocument();
+
+  await user.click(screen.getByRole('button', { name: /^Senior PM · 1$/ }));
+  expect(screen.getByText('1 of 3')).toBeInTheDocument();
+  expect(screen.getByText('Senior Product Manager, GenAI')).toBeInTheDocument();
+  await user.click(screen.getByRole('button', { name: /^Group \/ Principal \/ Lead · 1$/ }));
+  expect(screen.getByText('2 of 3')).toBeInTheDocument();
+  await user.click(screen.getByRole('button', { name: 'All levels' }));
+  await user.click(screen.getByRole('button', { name: /YC startups only/ }));
+  expect(screen.getByText('1 of 3')).toBeInTheDocument();
+  expect(screen.getByText('REMOTE')).toBeInTheDocument();
+
+  await user.click(screen.getByRole('button', { name: 'Log application: Lead/Group Product Manager at Noora Health' }));
+  expect(JSON.parse(window.localStorage.getItem('pmt_applications'))[0]).toMatchObject({ company: 'Noora Health', platform: 'AI PM tab' });
+});
+
+test('Group PM toggle: searches switch to the group / principal / lead PM term', async () => {
+  const user = userEvent.setup();
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: 'Group PM' }));
+  await user.click(screen.getByRole('button', { name: 'Hacks' }));
+  expect(document.body.textContent).toContain('("group product manager" OR "GPM" OR "principal product manager" OR "lead product manager")');
 });

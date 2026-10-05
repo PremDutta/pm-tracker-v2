@@ -208,3 +208,34 @@ test('digest: queue dedupes, sections by type, empty when there is nothing', () 
   const both = digestText(q, [opening('govt-a', '2026-10-05')], today);
   assert.equal((both.match(/Role govt-a/g) || []).length, 1);
 });
+
+// ─── YC + AI role snapshots ─────────────────────────────────────────────────
+import { indiaEligibility, jobsFromYcPage } from './yc.mjs';
+import { roleLevel, isAiTitle } from './snapshots.mjs';
+
+test('YC / remote eligibility: India-based or remote-open-to-India only', () => {
+  const cases = {
+    'Bengaluru, KA, IN / Bengaluru, Karnataka, IN': 'india', 'IN / Remote (IN)': 'india', 'ID / MY / IN / Remote (ID; MY; IN)': 'india',
+    'Remote': 'remote', 'Remote (Anywhere)': 'remote', 'Remote (US)': null, 'USA - Remote': null, 'US remote': null,
+    'San Francisco, CA or Remote, US': null, 'Remote-Friendly (Travel-Required) |  Washington, DC': null,
+    'Remote in Europe': null, 'Berlin, BE, DE / Remote': null, 'New York, NY, US': null,
+  };
+  for (const [loc, want] of Object.entries(cases)) assert.equal(indiaEligibility(loc), want, loc);
+});
+
+test('YC pages: job list parsed from the data-page attribute', () => {
+  const props = { props: { jobPostings: [{ id: 7, title: 'Senior Product Manager', url: '/companies/x/jobs/7', location: 'Bengaluru, KA, IN', role: 'product', companyName: 'X & Co' }] } };
+  const html = `<div id="root" data-page="${JSON.stringify(props).replace(/&/g, '&amp;').replace(/"/g, '&quot;')}"></div>`;
+  const [job] = jobsFromYcPage(html);
+  assert.equal(job.companyName, 'X & Co');
+  assert.equal(jobsFromYcPage('<html>no data</html>').length, 0);
+});
+
+test('role level and AI title detection', () => {
+  assert.equal(roleLevel('Staff/Director – AI HW Product Management'), 'leadership');
+  assert.equal(roleLevel('Lead/Group Product Manager'), 'group');
+  assert.equal(roleLevel('Sr. Product Manager - Tech, Profit Intelligence'), 'senior');
+  assert.equal(roleLevel('Product Manager - Conversational AI'), 'pm');
+  for (const t of ['AI Product Manager I', 'Product Manager - AI Agents', 'Senior Product Manager, GenAI', 'Product Manager (Models)', 'Product Manager 3- Data Platform']) assert.ok(isAiTitle(t), t);
+  for (const t of ['Product Manager - Payments', 'Senior Product Manager, Growth', 'Product Owner - Lending']) assert.ok(!isAiTitle(t), t);
+});

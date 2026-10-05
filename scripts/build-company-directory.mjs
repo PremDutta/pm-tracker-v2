@@ -55,7 +55,7 @@ ${app.map(c => '  ' + toJs(c) + ',').join('\n')}
 `);
 
 await fs.writeFile(path.join(ROOT, 'agent/directory-companies.json'), JSON.stringify(
-  scannable.map(c => ({ name: c.name, ats: c.ats, slug: c.slug })), null, 2) + '\n');
+  scannable.map(c => ({ name: c.name, ats: c.ats, slug: c.slug, ...(c.sector && { sector: c.sector }) })), null, 2) + '\n');
 
 const byGroup = app.reduce((acc, c) => ({ ...acc, [c.group]: (acc[c.group] || 0) + 1 }), {});
 console.log(`${app.length} companies (${Object.entries(byGroup).map(([g, n]) => `${g} ${n}`).join(', ')}); ${scannable.length} scanned.`);

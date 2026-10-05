@@ -14,6 +14,7 @@ const STATS = [
 ];
 
 const FEATURES = [
+  { title:'AI Product Roles', desc:'PM, Senior PM and Group PM roles in AI / ML / GenAI in India or remote, plus YC startups, refreshed every 6 hours.', icon:'🤖', tab:'ai', gradientKey:'gradient3' },
   { title:'Top Companies', desc:'MNCs, IT majors, big tech and Indian unicorns: careers pages plus live open product roles in India.', icon:'🏢', tab:'companies', gradientKey:'gradient1' },
   { title:'Hiring Signals', desc:'Reposted PM roles, engineering spikes and fresh funding: spot roles before they are posted.', icon:'🔭', tab:'signals', gradientKey:'gradient5' },
   { title:'Govt & PSU Jobs', desc:'Live product roles at NPCI, RBIH, NeGD, PSU banks and 130+ PSUs, auto-scanned every 6 hours.', icon:'🏛️', tab:'govt', gradientKey:'gradient3' },
@@ -30,7 +31,7 @@ const FEATURES = [
 
 export default function HomeTab({
   t, card, btnPrimary, btnSecondary, badge, isLoaded,
-  setActiveTab, setSelectedRegion,
+  setActiveTab, setSelectedRegion, goToFeature,
   selectedRole, selectedLocation, selectedFreshness, selectedExperience,
   openMultiple, getQuickLaunchUrls, isOpening,
 }) {
@@ -69,7 +70,7 @@ export default function HomeTab({
           <h2 style={{ margin:'0 0 14px', fontSize:'18px', fontWeight:'600', display:'flex', alignItems:'center', gap:'8px' }}><Sparkles size={18} style={{ color:t.success }}/> What's new</h2>
           <div style={{ display:'grid', gap:'8px' }}>
             {(showAllNew ? news : news.slice(0, 5)).map(f => (
-              <button key={f.id} onClick={()=>setActiveTab(f.tab)} style={{ display:'flex', alignItems:'center', gap:'10px', padding:'10px 14px', background:t.inlineBg, border:'none', borderRadius:'12px', color:t.text, cursor:'pointer', textAlign:'left', flexWrap:'wrap' }}>
+              <button key={f.id} onClick={()=>goToFeature(f)} style={{ display:'flex', alignItems:'center', gap:'10px', padding:'10px 14px', background:t.inlineBg, border:'none', borderRadius:'12px', color:t.text, cursor:'pointer', textAlign:'left', flexWrap:'wrap' }}>
                 <NewBadge id={f.id} t={t} />
                 <span style={{ fontSize:'14px', fontWeight:'600' }}>{f.title}</span>
                 {f.desc && <span style={{ fontSize:'12px', color:t.textSecondary, flex:'1 1 240px' }}>{f.desc}</span>}

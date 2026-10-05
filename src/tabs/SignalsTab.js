@@ -62,7 +62,7 @@ export default function SignalsTab({ t, card, btnSecondary, badge, role, setActi
         ))}
       </div>
 
-      <div style={{ ...card, padding:'14px 16px', marginBottom:'20px', display:'flex', alignItems:'center', gap:'10px', flexWrap:'wrap' }}>
+      <div id="signals-vc" style={{ ...card, padding:'14px 16px', marginBottom:'20px', display:'flex', alignItems:'center', gap:'10px', flexWrap:'wrap', scrollMarginTop:'140px' }}>
         <span style={{ fontSize:'14px', fontWeight:'600' }}>💼 VC portfolio job boards</span>
         <NewBadge id="signals:vc-boards" t={t} />
         <span style={{ fontSize:'12px', color:t.textSecondary, flex:'1 1 260px' }}>PM roles in India from these boards now arrive in your alerts automatically.</span>

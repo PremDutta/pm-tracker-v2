@@ -27,7 +27,8 @@
   {
     "name": "Apna",
     "ats": "workable",
-    "slug": "apna"
+    "slug": "apna",
+    "sector": "other"
   },
   {
     "name": "Browserstack",
@@ -36,7 +37,8 @@
       "tenant": "browserstack",
       "wd": 3,
       "site": "External"
-    }
+    },
+    "sector": "saas"
   },
   {
     "name": "Cisco",
@@ -50,22 +52,26 @@
   {
     "name": "CRED",
     "ats": "lever",
-    "slug": "cred"
+    "slug": "cred",
+    "sector": "fintech"
   },
   {
     "name": "Dhan",
     "ats": "keka",
-    "slug": "dhan"
+    "slug": "dhan",
+    "sector": "fintech"
   },
   {
     "name": "Druva",
     "ats": "greenhouse",
-    "slug": "druva"
+    "slug": "druva",
+    "sector": "saas"
   },
   {
     "name": "Emergent",
     "ats": "greenhouse",
-    "slug": "emergentlabsinc"
+    "slug": "emergentlabsinc",
+    "sector": "ai"
   },
   {
     "name": "Fractal",
@@ -74,22 +80,26 @@
       "tenant": "fractal",
       "wd": 1,
       "site": "Careers"
-    }
+    },
+    "sector": "ai"
   },
   {
     "name": "Freshworks",
     "ats": "smartrecruiters",
-    "slug": "freshworks"
+    "slug": "freshworks",
+    "sector": "saas"
   },
   {
     "name": "Glance",
     "ats": "greenhouse",
-    "slug": "glance"
+    "slug": "glance",
+    "sector": "ai"
   },
   {
     "name": "Groww",
     "ats": "greenhouse",
-    "slug": "groww"
+    "slug": "groww",
+    "sector": "fintech"
   },
   {
     "name": "HCLTech",
@@ -102,7 +112,8 @@
   {
     "name": "HighRadius",
     "ats": "greenhouse",
-    "slug": "highradius"
+    "slug": "highradius",
+    "sector": "saas"
   },
   {
     "name": "Icertis",
@@ -110,17 +121,20 @@
     "slug": {
       "host": "iaaviz.fa.ocs.oraclecloud.com",
       "siteNumber": "CX_1"
-    }
+    },
+    "sector": "saas"
   },
   {
     "name": "InMobi",
     "ats": "greenhouse",
-    "slug": "inmobi"
+    "slug": "inmobi",
+    "sector": "ai"
   },
   {
     "name": "Innovaccer",
     "ats": "workable",
-    "slug": "innovaccer-analytics"
+    "slug": "innovaccer-analytics",
+    "sector": "healthtech"
   },
   {
     "name": "JPMorgan Chase",
@@ -161,12 +175,14 @@
   {
     "name": "Meesho",
     "ats": "lever",
-    "slug": "meesho"
+    "slug": "meesho",
+    "sector": "ecommerce"
   },
   {
     "name": "Mensa Brands (BRND.ME)",
     "ats": "keka",
-    "slug": "mensa"
+    "slug": "mensa",
+    "sector": "d2c"
   },
   {
     "name": "Microsoft",
@@ -179,7 +195,8 @@
   {
     "name": "Mindtickle",
     "ats": "lever",
-    "slug": "mindtickle"
+    "slug": "mindtickle",
+    "sector": "saas"
   },
   {
     "name": "Morgan Stanley",
@@ -192,7 +209,8 @@
   {
     "name": "Netradyne",
     "ats": "greenhouse",
-    "slug": "netradyne"
+    "slug": "netradyne",
+    "sector": "ai"
   },
   {
     "name": "NVIDIA",
@@ -206,7 +224,8 @@
   {
     "name": "Open Financial Technologies",
     "ats": "keka",
-    "slug": "openfinancial"
+    "slug": "openfinancial",
+    "sector": "fintech"
   },
   {
     "name": "Oracle",
@@ -228,17 +247,20 @@
   {
     "name": "Paytm",
     "ats": "lever",
-    "slug": "paytm"
+    "slug": "paytm",
+    "sector": "fintech"
   },
   {
     "name": "PhonePe",
     "ats": "smartrecruiters",
-    "slug": "PHONEPELIMITED"
+    "slug": "PHONEPELIMITED",
+    "sector": "fintech"
   },
   {
     "name": "Polygon Labs",
     "ats": "ashby",
-    "slug": "polygon-labs"
+    "slug": "polygon-labs",
+    "sector": "other"
   },
   {
     "name": "Postman",
@@ -247,7 +269,8 @@
       "tenant": "postman",
       "wd": 108,
       "site": "careers"
-    }
+    },
+    "sector": "saas"
   },
   {
     "name": "PwC India",
@@ -269,7 +292,8 @@
   {
     "name": "Razorpay",
     "ats": "greenhouse",
-    "slug": "razorpaysoftwareprivatelimited"
+    "slug": "razorpaysoftwareprivatelimited",
+    "sector": "fintech"
   },
   {
     "name": "Salesforce",
@@ -292,7 +316,8 @@
   {
     "name": "Sarvam AI",
     "ats": "ashby",
-    "slug": "sarvam"
+    "slug": "sarvam",
+    "sector": "ai"
   },
   {
     "name": "ServiceNow",
@@ -302,17 +327,20 @@
   {
     "name": "Skyroot Aerospace",
     "ats": "zoho",
-    "slug": "skyroot"
+    "slug": "skyroot",
+    "sector": "other"
   },
   {
     "name": "Slice",
     "ats": "greenhouse",
-    "slug": "slice"
+    "slug": "slice",
+    "sector": "fintech"
   },
   {
     "name": "Swiggy",
     "ats": "smartrecruiters",
-    "slug": "swiggy"
+    "slug": "swiggy",
+    "sector": "ecommerce"
   },
   {
     "name": "Target India",
@@ -330,17 +358,20 @@
       "tenant": "uniphore",
       "wd": 503,
       "site": "Uniphore"
-    }
+    },
+    "sector": "ai"
   },
   {
     "name": "Vedantu",
     "ats": "zoho",
-    "slug": "vedantu"
+    "slug": "vedantu",
+    "sector": "edtech"
   },
   {
     "name": "Verse Innovation (Dailyhunt/Josh)",
     "ats": "greenhouse",
-    "slug": "verse"
+    "slug": "verse",
+    "sector": "other"
   },
   {
     "name": "Visa",
@@ -381,12 +412,14 @@
   {
     "name": "Yubi",
     "ats": "zoho",
-    "slug": "go-yubi"
+    "slug": "go-yubi",
+    "sector": "fintech"
   },
   {
     "name": "Zenoti",
     "ats": "greenhouse",
-    "slug": "zenoti"
+    "slug": "zenoti",
+    "sector": "saas"
   },
   {
     "name": "Zensar",
@@ -400,11 +433,13 @@
   {
     "name": "Zeta",
     "ats": "lever",
-    "slug": "zeta"
+    "slug": "zeta",
+    "sector": "fintech"
   },
   {
     "name": "Zetwerk",
     "ats": "freshteam",
-    "slug": "zetwerk"
+    "slug": "zetwerk",
+    "sector": "ecommerce"
   }
 ]

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Zap, Globe, Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, Bell, ClipboardList, Building2, FileSearch, Landmark, Radar, Building } from 'lucide-react';
+import { Zap, Globe, Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, Bell, ClipboardList, Building2, FileSearch, Landmark, Radar, Building, Bot } from 'lucide-react';
 import { getProfile, getTheme, setTheme as saveTheme } from './storage';
 import Tracker from './components/Tracker';
 import Watchlist from './components/Watchlist';
@@ -15,8 +15,10 @@ import JobsTab from './tabs/JobsTab';
 import GovtTab from './tabs/GovtTab';
 import SignalsTab from './tabs/SignalsTab';
 import CompaniesTab from './tabs/CompaniesTab';
+import AiPmTab from './tabs/AiPmTab';
 import { themes } from './theme';
 import NewBadge from './components/NewBadge';
+import Announcements from './components/Announcements';
 import { getCardStyle, getBtnPrimaryStyle, getBtnSecondaryStyle, getTabButtonStyle, getBadgeStyle } from './styles';
 import { PLATFORMS } from './data/platforms';
 import { ROLES, FRESHNESS_OPTIONS, EXPERIENCE_LEVELS, roleByKeyword } from './data/roles';
@@ -25,6 +27,14 @@ export default function App() {
   const [theme, setThemeState]    = useState(() => getTheme()); // light by default; remembers your toggle
   const setTheme = (next) => { setThemeState(next); saveTheme(next); };
   const [activeTab, setActiveTab] = useState('home');
+  // Set by "Go to feature": which Hacks category to open; nonce re-triggers it.
+  const [focus, setFocus] = useState({ hackCategory: null, nonce: 0 });
+  const goToFeature = (f) => {
+    setActiveTab(f.tab);
+    setFocus(prev => ({ hackCategory: f.hackCategory || null, nonce: prev.nonce + 1 }));
+    window.scrollTo({ top: 0 });
+    if (f.target) setTimeout(() => document.getElementById(f.target)?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 250);
+  };
   const [selectedRegion, setSelectedRegion] = useState('india');
   const [selectedRole, setSelectedRole]     = useState(ROLES[0].keyword);
   const [selectedLocation, setSelectedLocation] = useState('Bengaluru');
@@ -81,20 +91,21 @@ export default function App() {
 
       {/* NAV */}
       <nav style={{ position:'sticky', top:0, zIndex:1000, backdropFilter:t.glassEffect, WebkitBackdropFilter:t.glassEffect, background:theme==='dark'?'rgba(0,0,0,0.75)':'rgba(255,255,255,0.75)', borderBottom:`0.5px solid ${t.border}` }}>
-        <div style={{ maxWidth:'1200px', margin:'0 auto', padding:'12px 24px', display:'flex', alignItems:'center', justifyContent:'space-between' }}>
+        <div className="nav-inner" style={{ maxWidth:'1200px', margin:'0 auto', padding:'12px 24px', display:'flex', alignItems:'center', justifyContent:'space-between', flexWrap:'wrap', gap:'10px' }}>
           <button onClick={()=>setActiveTab('home')} style={{ display:'flex', alignItems:'center', gap:'14px', background:'none', border:'none', cursor:'pointer', padding:0, textAlign:'left' }}>
             <div style={{ width:'40px', height:'40px', borderRadius:'12px', background:t.gradient1, display:'flex', alignItems:'center', justifyContent:'center', fontSize:'20px', boxShadow:'0 4px 12px rgba(102,126,234,0.4)' }}>🎯</div>
             <div>
               <h1 style={{ margin:0, fontSize:'19px', fontWeight:'600', letterSpacing:'-0.3px', color:t.text }}>PM Jobs Tracker</h1>
-              <p style={{ margin:0, fontSize:'11px', color:t.textSecondary }}>28 platforms • updated daily</p>
+              <p className="nav-sub" style={{ margin:0, fontSize:'11px', color:t.textSecondary }}>28 platforms • updated daily</p>
             </div>
           </button>
-          <div style={{ display:'flex', alignItems:'center', gap:'12px' }}>
-            <div style={{ display:'flex', gap:'6px', padding:'4px 8px', background:t.cardBg, border:`1px solid ${t.border}`, borderRadius:'12px' }}>
+          <div className="nav-controls" style={{ display:'flex', alignItems:'center', gap:'12px', flexWrap:'wrap' }}>
+            <div className="role-toggle" role="group" aria-label="Role level" style={{ display:'flex', gap:'6px', padding:'4px 8px', background:t.cardBg, border:`1px solid ${t.border}`, borderRadius:'12px' }}>
               {ROLES.map(r => (
                 <button key={r.keyword} onClick={()=>setSelectedRole(r.keyword)} style={{ padding:'6px 12px', borderRadius:'8px', border:'none', background:selectedRole===r.keyword?t.accent:'transparent', color:selectedRole===r.keyword?'#fff':t.textSecondary, fontSize:'12px', fontWeight:'500', cursor:'pointer' }}>{r.label}</button>
               ))}
             </div>
+            <Announcements t={t} onGo={goToFeature} />
             <button onClick={()=>setTheme(theme==='dark'?'light':'dark')} aria-label={theme==='dark' ? 'Switch to light theme' : 'Switch to dark theme'} style={{ width:'40px', height:'40px', borderRadius:'50%', background:t.cardBg, border:`1px solid ${t.border}`, color:t.text, cursor:'pointer', display:'flex', alignItems:'center', justifyContent:'center' }}>
               {theme==='dark'?<Sun size={18}/>:<Moon size={18}/>}
             </button>
@@ -107,6 +118,7 @@ export default function App() {
         {[
           { id:'home',      icon:<Sparkles size={14}/>,   label:'Home' },
           { id:'jobs',      icon:<Briefcase size={14}/>,  label:'All Jobs' },
+          { id:'ai',        icon:<Bot size={14}/>,        label:'AI PM' },
           { id:'govt',      icon:<Landmark size={14}/>,   label:'Govt & PSU' },
           { id:'companies', icon:<Building size={14}/>,   label:'Companies' },
           { id:'signals',   icon:<Radar size={14}/>,      label:'Signals' },
@@ -148,7 +160,7 @@ export default function App() {
         {activeTab==='home' && (
           <HomeTab
             t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} isLoaded={isLoaded}
-            setActiveTab={setActiveTab} setSelectedRegion={setSelectedRegion}
+            setActiveTab={setActiveTab} setSelectedRegion={setSelectedRegion} goToFeature={goToFeature}
             selectedRole={selectedRole} selectedLocation={selectedLocation}
             selectedFreshness={selectedFreshness} selectedExperience={selectedExperience}
             openMultiple={openMultiple} getQuickLaunchUrls={getQuickLaunchUrls} isOpening={isOpening}
@@ -171,6 +183,9 @@ export default function App() {
         {/* ── GOVT & PSU ── */}
         {activeTab==='govt' && <GovtTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
 
+        {/* ── AI PM ── */}
+        {activeTab==='ai' && <AiPmTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} role={role} />}
+
         {/* ── COMPANIES ── */}
         {activeTab==='companies' && <CompaniesTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
 
@@ -187,7 +202,7 @@ export default function App() {
         {activeTab==='resumematch' && <ResumeMatch t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} />}
 
         {/* ── HACKS ── */}
-        {activeTab==='hacks' && <HacksTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} isLoaded={isLoaded} role={role} />}
+        {activeTab==='hacks' && <HacksTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} isLoaded={isLoaded} role={role} focus={focus} />}
 
         {/* ── ALERTS ── */}
         {activeTab==='alerts' && <AlertsTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} role={role} />}
@@ -196,7 +211,7 @@ export default function App() {
         {activeTab==='firstapply' && <FirstApplyTab t={t} card={card} role={role} />}
 
         {/* ── REMOTE ── */}
-        {activeTab==='remote' && <RemoteTab t={t} card={card} btnSecondary={btnSecondary} role={role} />}
+        {activeTab==='remote' && <RemoteTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
 
         {/* ── INTL ── */}
         {activeTab==='intl' && <IntlTab t={t} card={card} btnSecondary={btnSecondary} role={role} />}
@@ -220,6 +235,14 @@ export default function App() {
         ::-webkit-scrollbar-thumb:hover{background:${t.textTertiary};}
         ::selection{background:${t.accent};color:#fff;}
         a:hover,button:hover{opacity:0.88;}
+        /* Phones: drop the subtitle, tighten the role toggle, let controls wrap to a second row. */
+        @media (max-width:560px){
+          .nav-inner{padding:10px 16px !important;}
+          .nav-sub{display:none;}
+          .nav-controls{gap:8px !important;}
+          .role-toggle{gap:2px !important;padding:3px !important;}
+          .role-toggle button{padding:6px 8px !important;font-size:11px !important;}
+        }
       `}</style>
     </div>
   );

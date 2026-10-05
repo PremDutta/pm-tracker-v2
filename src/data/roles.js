@@ -9,6 +9,7 @@
 export const ROLES = [
   { label:'Product Manager', keyword:'Product Manager',        searchTerm:'"product manager"' },
   { label:'Senior PM',       keyword:'Senior Product Manager', searchTerm:'("senior product manager" OR "sr. product manager" OR "senior PM" OR "SPM")' },
+  { label:'Group PM',        keyword:'Group Product Manager',  searchTerm:'("group product manager" OR "GPM" OR "principal product manager" OR "lead product manager")' },
 ];
 
 export const roleByKeyword = (keyword) => ROLES.find(r => r.keyword === keyword) || ROLES[0];

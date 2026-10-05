@@ -33,6 +33,8 @@ import { updateAtsSignals, saveSignals } from './signals.mjs';
 import { fetchFundingSignals } from './funding.mjs';
 import { fetchVcBoards } from './vc-boards.mjs';
 import { fetchEightfold, fetchOracle, fetchSuccessFactors, fetchAmazon } from './enterprise-ats.mjs';
+import { fetchYcJobs, indiaEligibility } from './yc.mjs';
+import { saveRoleSnapshot, isAiTitle } from './snapshots.mjs';
 import { istToday, loadQueue, saveQueue, enqueue, urgentItems, urgentText, digestText, markReminders } from './digest.mjs';
 
 const AGENT_DIR = path.dirname(fileURLToPath(import.meta.url));
@@ -45,6 +47,8 @@ const GOVT_OPENINGS_FILE = path.join(AGENT_DIR, 'govt-openings.json');
 const DIRECTORY_FILE = path.join(AGENT_DIR, 'directory-companies.json');
 // Open PM roles in India per company, read live by the app's Companies tab.
 const COMPANY_ROLES_FILE = path.join(AGENT_DIR, 'company-roles.json');
+const YC_ROLES_FILE = path.join(AGENT_DIR, 'yc-roles.json');
+const AI_ROLES_FILE = path.join(AGENT_DIR, 'ai-roles.json');
 const INDIA_RE = /india|bengaluru|bangalore|mumbai|delhi|gurgaon|gurugram|noida|hyderabad|pune|chennai|kolkata|ahmedabad|jaipur|kochi|chandigarh|indore|coimbatore|\bncr\b/i;
 const env = (name) => process.env[name];
 
@@ -425,9 +429,11 @@ async function saveGovtOpenings({ jobs, failed, readOk }) {
 
 async function main() {
   const isPm = (title) => PM_TITLE_REGEX.test(title);
-  const [adzuna, jsearch, atsResult, govtResult, vcResult, fundingSignals] = await Promise.all([
-    fetchAdzuna(), fetchJSearch(), fetchCompanyATS(), fetchGovtOpenings(), fetchVcBoards(isPm), fetchFundingSignals(),
+  const [adzuna, jsearch, atsResult, govtResult, vcResult, fundingSignals, ycResult] = await Promise.all([
+    fetchAdzuna(), fetchJSearch(), fetchCompanyATS(), fetchGovtOpenings(), fetchVcBoards(isPm), fetchFundingSignals(), fetchYcJobs(isPm),
   ]);
+  const yc = ycResult.jobs;
+  if (ycResult.ok) await saveRoleSnapshot(YC_ROLES_FILE, yc);
   const vc = vcResult.jobs;
   const companyATS = atsResult.pmJobs;
   await saveCompanyRoles(companyATS, atsResult.boards);
@@ -439,8 +445,18 @@ async function main() {
   const atsSignals = [...await updateAtsSignals(atsResult.boards, isPm, today), ...fundingSignals.map(s => ({ ...s, ...(watched.has(s.company.toLowerCase()) && { watched: true }) }))];
   const freshSignals = await saveSignals(atsSignals, today);
   if (atsSignals.length) console.log(`Hiring signals: ${atsSignals.length} (${atsSignals.filter(s => s.type !== 'funding').map(s => `${s.type} @ ${s.company}`).join(', ') || 'funding news only'})`);
-  const allJobs = [...adzuna, ...jsearch, ...companyATS, ...govt, ...vc];
-  console.log(`Fetched ${adzuna.length} from Adzuna, ${jsearch.length} from JSearch, ${companyATS.length} from company ATS feeds, ${govt.length} from govt/PSU sources, ${vc.length} from VC portfolio boards (${allJobs.length} total).`);
+  const allJobs = [...adzuna, ...jsearch, ...companyATS, ...govt, ...vc, ...yc];
+  console.log(`Fetched ${adzuna.length} from Adzuna, ${jsearch.length} from JSearch, ${companyATS.length} from company ATS feeds, ${govt.length} from govt/PSU sources, ${vc.length} from VC portfolio boards, ${yc.length} from YC (${allJobs.length} total).`);
+
+  // AI PM roles: an AI-flavoured title anywhere, or any PM role at an AI-native
+  // company; India-based or remote-open-to-India only. Govt roles excluded.
+  const aiCompanies = new Set((await loadCompanies()).filter(c => c.sector === 'ai').map(c => c.name.toLowerCase()));
+  const aiRoles = [...companyATS, ...vc, ...yc, ...adzuna, ...jsearch]
+    .filter(j => indiaEligibility(j.location || '') || /india/i.test(j.source || ''))
+    .map(j => (isAiTitle(j.title) ? { ...j, aiMatch: 'title' } : aiCompanies.has((j.company || '').toLowerCase()) ? { ...j, aiMatch: 'company' } : null))
+    .filter(Boolean);
+  await saveRoleSnapshot(AI_ROLES_FILE, aiRoles);
+  console.log(`AI PM roles (India / remote-India): ${aiRoles.length}`);
 
   const seen = await loadSeen();
   const seenSet = new Set(seen.ids);
@@ -457,6 +473,7 @@ async function main() {
     ...govtResult.noticePagesRead.filter(org => !baselined.has(org) && noticeCount(org) > 3),
     ...vcResult.readOk.filter(key => !baselined.has(key) && vcCount(key) > 3),   // VC boards list dozens of PM roles on first read
     ...atsResult.directoryRead.filter(key => !baselined.has(key) && companyATS.filter(j => j.baselineKey === key).length > 3),
+    ...(ycResult.ok && !baselined.has('yc') && yc.length > 3 ? ['yc'] : []),
   ]);
   const inBaseline = (j) => (j.id.startsWith('govt-notice-') && baselineNow.has(j.org)) || (j.baselineKey && baselineNow.has(j.baselineKey));
   const newJobs = allJobs.filter(j => j.id && !seenSet.has(j.id) && !inBaseline(j));
@@ -507,7 +524,7 @@ async function main() {
   // handful of jobs instead of real history.
   // Every careers page read this run is baselined, including ones with no
   // matching notice yet, so the first real notice on it later does alert.
-  await saveSeen([...new Set([...seen.ids, ...allJobs.map(j => j.id)])], new Set([...baselined, ...govtResult.noticePagesRead, ...vcResult.readOk, ...atsResult.directoryRead]));
+  await saveSeen([...new Set([...seen.ids, ...allJobs.map(j => j.id)])], new Set([...baselined, ...govtResult.noticePagesRead, ...vcResult.readOk, ...atsResult.directoryRead, ...(ycResult.ok ? ['yc'] : [])]));
 }
 
 // Keep the process alive until main() settles. The per-request timeouts

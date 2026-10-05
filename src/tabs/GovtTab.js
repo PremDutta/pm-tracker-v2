@@ -101,7 +101,7 @@ export default function GovtTab({ t, card, btnSecondary, badge, role }) {
       </div>
 
       {/* Live openings from the scanner */}
-      <div style={{ ...card, marginBottom:'20px' }}>
+      <div id="govt-openings" style={{ ...card, marginBottom:'20px', scrollMarginTop:'140px' }}>
         <div style={{ display:'flex', alignItems:'baseline', justifyContent:'space-between', flexWrap:'wrap', gap:'8px', marginBottom:'14px' }}>
           <h3 style={{ margin:0, fontSize:'17px', fontWeight:'600' }}>
             🟢 Open govt product roles
@@ -180,7 +180,7 @@ export default function GovtTab({ t, card, btnSecondary, badge, role }) {
       </div>
 
       {/* Org directory */}
-      <div style={{ display:'flex', alignItems:'baseline', justifyContent:'space-between', flexWrap:'wrap', gap:'10px', marginBottom:'14px' }}>
+      <div id="govt-orgs" style={{ scrollMarginTop:'140px', display:'flex', alignItems:'baseline', justifyContent:'space-between', flexWrap:'wrap', gap:'10px', marginBottom:'14px' }}>
         <h3 style={{ margin:0, fontSize:'18px', fontWeight:'600' }}>
           🏢 Organisations
           <span style={{ marginLeft:'10px', fontSize:'13px', color:t.textSecondary, fontWeight:'400' }}>{visible.length} shown</span>
