@@ -35,7 +35,7 @@
           "eng": 38
         },
         "2026-10-05": {
-          "total": 97,
+          "total": 98,
           "eng": 38
         }
       },
@@ -127,8 +127,8 @@
           "eng": 263
         },
         "2026-10-05": {
-          "total": 638,
-          "eng": 264
+          "total": 637,
+          "eng": 263
         }
       },
       "pm": {
@@ -576,8 +576,8 @@
           "eng": 83
         },
         "2026-10-05": {
-          "total": 192,
-          "eng": 83
+          "total": 191,
+          "eng": 82
         }
       },
       "pm": {
@@ -883,7 +883,7 @@
           "eng": 36
         },
         "2026-10-05": {
-          "total": 164,
+          "total": 166,
           "eng": 36
         }
       },
@@ -1149,7 +1149,7 @@
         },
         "2026-10-05": {
           "total": 829,
-          "eng": 411
+          "eng": 412
         }
       },
       "pm": {
@@ -1619,6 +1619,13 @@
         "product manager ii user discovery": {
           "ids": [
             "lever-meesho-5dca8c71-9993-438f-ad51-da3c7f4be692"
+          ],
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
+        },
+        "product manager ii": {
+          "ids": [
+            "lever-meesho-b56573f0-c701-422a-abfa-ac8bbdbfa645"
           ],
           "lastSeen": "2026-10-05"
         }
@@ -3969,8 +3976,8 @@
           "eng": 57
         },
         "2026-10-05": {
-          "total": 124,
-          "eng": 60
+          "total": 125,
+          "eng": 61
         }
       },
       "pm": {
@@ -5331,8 +5338,8 @@
     "HackerOne": {
       "daily": {
         "2026-10-05": {
-          "total": 14,
-          "eng": 8
+          "total": 15,
+          "eng": 9
         }
       },
       "pm": {
@@ -5488,8 +5495,8 @@
     "MongoDB": {
       "daily": {
         "2026-10-05": {
-          "total": 387,
-          "eng": 164
+          "total": 388,
+          "eng": 165
         }
       },
       "pm": {
@@ -5556,13 +5563,15 @@
         },
         "staff product manager": {
           "ids": [
-            "greenhouse-mongodb-8111736"
+            "greenhouse-mongodb-8111736",
+            "greenhouse-mongodb-8177034"
           ],
           "lastSeen": "2026-10-05"
         },
         "staff product manager ai builder experience": {
           "ids": [
-            "greenhouse-mongodb-8129885"
+            "greenhouse-mongodb-8129885",
+            "greenhouse-mongodb-8129887"
           ],
           "lastSeen": "2026-10-05"
         },
@@ -5664,7 +5673,7 @@
     "OneTrust": {
       "daily": {
         "2026-10-05": {
-          "total": 91,
+          "total": 92,
           "eng": 43
         }
       },
@@ -5944,7 +5953,7 @@
     "Snowflake": {
       "daily": {
         "2026-10-05": {
-          "total": 347,
+          "total": 348,
           "eng": 177
         }
       },
