@@ -44,6 +44,7 @@ export const WHATS_NEW = [
   { id:'hack:greenhouse', date:'2026-09-29', tab:'hacks', title:'Greenhouse: new job-boards domain added' },
   { id:'hack:lever', date:'2026-09-29', tab:'hacks', title:'Lever: now India-filtered' },
   { id:'hack:workday', date:'2026-09-29', tab:'hacks', title:'Workday: all tenants, not just wd5' },
+  { id:'companies:refresh', date:'2026-10-05', tab:'companies', title:'Companies: refresh + role filters', desc:'See when the last scan ran, refresh to the latest results, and filter open roles by level, city and "New (3 days)"' },
   { id:'companies:ai', companyGroup:'ai', date:'2026-10-05', tab:'companies', title:'42 AI companies hiring PMs in India', desc:'Glean, Databricks, Snowflake, MongoDB, Netomi, SpotDraft, Spyne, HackerOne, Rippling and more: 37 scanned every 6 hours, their AI roles feed the AI PM tab' },
   { id:'tab:ai', target:'ai-roles', date:'2026-10-05', tab:'ai', title:'AI PM tab: AI product roles at every level', desc:'Live AI / ML / GenAI product roles in India or remote, filterable by PM, Senior PM, Group / Principal and Head / Director, plus 8 AI-specific searches' },
   { id:'remote:yc', target:'yc-roles', date:'2026-10-05', tab:'remote', title:'YC startups: PM roles open to India', desc:'Y Combinator startups\' PM roles that are India-based or remote with India allowed, checked every 6 hours (also in the AI PM tab under "YC startups only")' },

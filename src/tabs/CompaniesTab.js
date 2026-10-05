@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { ExternalLink, Search, ChevronDown, ChevronUp, Plus, Check } from 'lucide-react';
+import { ExternalLink, Search, ChevronDown, ChevronUp, Plus, Check, RefreshCw } from 'lucide-react';
+import { LEVELS } from './AiPmTab';
+import { timeAgo } from '../storage';
 import { COMPANY_DIRECTORY, COMPANY_DIRECTORY_VERIFIED } from '../data/companyDirectory';
 import { addWatchlistCompany, getWatchlist, getNetwork } from '../storage';
 import { ContactFlag } from '../components/Network';
@@ -25,7 +27,11 @@ const isFresh = (isoDay) => isoDay && (Date.now() - new Date(`${isoDay}T00:00:00
 const googleRoles = (name, role) => `https://www.google.com/search?q=${encodeURIComponent(`"${name}" ${role.searchTerm} India (careers OR jobs)`)}&tbs=qdr:m`;
 
 export default function CompaniesTab({ t, card, btnSecondary, badge, role, focus }) {
-  const [live, setLive] = useState({ status: 'loading', roles: {}, lastRead: {} });
+  const [live, setLive] = useState({ status: 'loading', roles: {}, lastRead: {}, scannedAt: null });
+  const [reload, setReload] = useState(0);
+  const [levels, setLevels] = useState([]);   // empty = all levels
+  const [city, setCity] = useState('all');
+  const [newOnly, setNewOnly] = useState(false);
   const [group, setGroup] = useState(focus?.companyGroup || 'all');
   // "Go to feature" from the announcements opens a specific group.
   useEffect(() => { if (focus?.companyGroup) setGroup(focus.companyGroup); }, [focus?.nonce, focus?.companyGroup]);
@@ -35,21 +41,32 @@ export default function CompaniesTab({ t, card, btnSecondary, badge, role, focus
   const [watched, setWatched] = useState(() => new Set(getWatchlist().map(w => w.company.toLowerCase())));
   const [network] = useState(() => getNetwork());
 
+  // Refresh re-reads the scanner's latest file (the cache-buster skips the CDN copy).
   useEffect(() => {
     let cancelled = false;
-    fetch(COMPANY_ROLES_URL)
+    setLive(l => ({ ...l, status: l.status === 'ready' ? 'refreshing' : 'loading' }));
+    fetch(reload ? `${COMPANY_ROLES_URL}?t=${Date.now()}` : COMPANY_ROLES_URL)
       .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
-      .then(d => { if (!cancelled) setLive({ status: 'ready', roles: d.roles || {}, lastRead: d.lastRead || {} }); })
-      .catch(() => { if (!cancelled) setLive({ status: 'error', roles: {}, lastRead: {} }); });
+      .then(d => { if (!cancelled) setLive({ status: 'ready', roles: d.roles || {}, lastRead: d.lastRead || {}, scannedAt: d.scannedAt || null }); })
+      .catch(() => { if (!cancelled) setLive(l => ({ ...l, status: Object.keys(l.roles).length ? 'ready' : 'error' })); });
     return () => { cancelled = true; };
-  }, []);
+  }, [reload]);
 
-  const rolesOf = (c) => live.roles[c.name] || [];
+  // Role filters apply to the counts, the "Hiring PMs now" filter and the expanded lists.
+  const CITIES = ['Bengaluru|Bangalore', 'Delhi|Gurugram|Gurgaon|Noida|NCR', 'Hyderabad', 'Mumbai', 'Pune', 'Chennai', 'Remote'];
+  const cityLabel = (c) => c.split('|')[0] + (c.startsWith('Delhi') ? ' NCR' : '');
+  const roleMatches = (r) =>
+    (!levels.length || levels.includes(r.level || 'pm')) &&
+    (city === 'all' || new RegExp(city, 'i').test(r.location || '')) &&
+    (!newOnly || isFresh(r.firstSeen));
+  const allRolesOf = (c) => live.roles[c.name] || [];
+  const rolesOf = (c) => allRolesOf(c).filter(roleMatches);
+  const filtersOn = levels.length > 0 || city !== 'all' || newOnly;
   const q = query.trim().toLowerCase();
   const visible = COMPANY_DIRECTORY
     .filter(c => group === 'all' || c.group === group)
     .filter(c => !q || [c.name, c.sector, GROUPS[c.group]].some(f => f && f.toLowerCase().includes(q)))
-    .filter(c => !hiringOnly || rolesOf(c).length > 0)
+    .filter(c => !(hiringOnly || filtersOn) || rolesOf(c).length > 0)
     .sort((a, b) => rolesOf(b).length - rolesOf(a).length || a.name.localeCompare(b.name));
 
   const counts = COMPANY_DIRECTORY.reduce((acc, c) => ({ ...acc, [c.group]: (acc[c.group] || 0) + 1 }), {});
@@ -73,9 +90,19 @@ export default function CompaniesTab({ t, card, btnSecondary, badge, role, focus
         <p style={{ fontSize:'16px', color:t.textSecondary, maxWidth:'640px', margin:'0 auto' }}>
           {COMPANY_DIRECTORY.length} MNCs, IT majors, big tech and Indian unicorns with their careers pages. For the {scannedCount} with a readable job feed, open product roles in India are checked every 6 hours.
         </p>
-        {live.status === 'ready' && (
-          <p style={{ fontSize:'13px', color:t.success, marginTop:'8px', fontWeight:'600' }}>{openTotal} open product roles in India right now, across {hiringCompanies} companies</p>
+        {(live.status === 'ready' || live.status === 'refreshing') && (
+          <p style={{ fontSize:'13px', color:t.success, marginTop:'8px', fontWeight:'600' }}>{openTotal} open product roles in India{filtersOn ? ' matching your filters' : ' right now'}, across {hiringCompanies} companies</p>
         )}
+        <div style={{ display:'flex', alignItems:'center', justifyContent:'center', gap:'10px', marginTop:'10px', flexWrap:'wrap', fontSize:'12px', color:t.textSecondary }}>
+          <span>Auto-scanned every 6 hours{live.scannedAt ? ` · last scan ${timeAgo(Date.parse(live.scannedAt))}` : ''}</span>
+          <button onClick={()=>setReload(n=>n+1)} disabled={live.status === 'refreshing' || live.status === 'loading'} aria-label="Refresh roles"
+            style={{ ...btnSecondary, padding:'5px 12px', fontSize:'12px' }}>
+            <RefreshCw size={12} style={{ animation: live.status === 'refreshing' ? 'spin 1s linear infinite' : 'none' }}/> {live.status === 'refreshing' ? 'Refreshing…' : 'Refresh'}
+          </button>
+          <a href="https://github.com/PremDutta/pm-tracker-v2/actions/workflows/job-scan.yml" target="_blank" rel="noopener noreferrer"
+            title="Opens the scanner on GitHub: press 'Run workflow' to scan now (repo owner only). Takes ~2 minutes, then hit Refresh."
+            style={{ color:t.accent, textDecoration:'none' }}>Run a fresh scan ↗</a>
+        </div>
         {live.status === 'error' && <p style={{ fontSize:'13px', color:t.textTertiary, marginTop:'8px' }}>Couldn't load live roles right now; careers links below still work.</p>}
       </div>
 
@@ -86,6 +113,18 @@ export default function CompaniesTab({ t, card, btnSecondary, badge, role, focus
             style={{ border:'none', outline:'none', background:'transparent', color:t.text, fontSize:'13px', width:'100%' }}/>
         </div>
         <button onClick={()=>setHiringOnly(v=>!v)} style={chip(hiringOnly)}>Hiring PMs now</button>
+        <button onClick={()=>setNewOnly(v=>!v)} aria-pressed={newOnly} style={chip(newOnly)}>New (3 days)</button>
+        <select value={city} onChange={e=>setCity(e.target.value)} aria-label="Filter roles by city"
+          style={{ ...chip(city !== 'all'), appearance:'auto' }}>
+          <option value="all">All cities</option>
+          {CITIES.map(c => <option key={c} value={c}>{cityLabel(c)}</option>)}
+        </select>
+      </div>
+      <div style={{ display:'flex', gap:'6px', flexWrap:'wrap', marginBottom:'12px' }}>
+        <button onClick={()=>setLevels([])} style={chip(!levels.length)}>All levels</button>
+        {LEVELS.map(l => (
+          <button key={l.id} onClick={()=>setLevels(ls => ls.includes(l.id) ? ls.filter(x => x !== l.id) : [...ls, l.id])} aria-pressed={levels.includes(l.id)} style={chip(levels.includes(l.id))}>{l.label}</button>
+        ))}
       </div>
       <div style={{ display:'flex', gap:'6px', overflowX:'auto', paddingBottom:'6px', marginBottom:'16px' }}>
         <button onClick={()=>setGroup('all')} style={chip(group==='all')}>All · {COMPANY_DIRECTORY.length}</button>
@@ -103,7 +142,7 @@ export default function CompaniesTab({ t, card, btnSecondary, badge, role, focus
             const isOpen = open === c.name;
             // On a company's first read every role is "new"; only highlight new
             // roles once some older ones exist, so NEW means posted since we started watching.
-            const fresh = (r) => isFresh(r.firstSeen) && roles.some(o => !isFresh(o.firstSeen));
+            const fresh = (r) => isFresh(r.firstSeen) && allRolesOf(c).some(o => !isFresh(o.firstSeen));
             const newCount = roles.filter(fresh).length;
             return (
               <div key={c.name} style={{ ...card, padding:'16px 18px', display:'flex', flexDirection:'column', gap:'8px', minWidth:0 }}>
@@ -115,7 +154,7 @@ export default function CompaniesTab({ t, card, btnSecondary, badge, role, focus
                 <ContactFlag company={c.name} t={t} network={network} />
                 <div style={{ fontSize:'12px', color: roles.length ? t.success : t.textTertiary, fontWeight: roles.length ? 600 : 400 }}>
                   {c.scanned
-                    ? (live.status !== 'ready' ? 'Checking open roles…'
+                    ? (live.status === 'loading' ? 'Checking open roles…'
                       : roles.length ? `${roles.length} open product role${roles.length === 1 ? '' : 's'} in India${newCount ? ` · ${newCount} new` : ''}`
                         : 'No open product roles in India right now')
                     : `Not auto-scanned (${c.ats === 'custom' || c.ats === 'unknown' ? 'custom careers site' : c.ats}): use the links`}

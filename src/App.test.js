@@ -465,3 +465,28 @@ test('Group PM toggle: searches switch to the group / principal / lead PM term',
   await user.click(screen.getByRole('button', { name: 'Hacks' }));
   expect(document.body.textContent).toContain('("group product manager" OR "GPM" OR "principal product manager" OR "lead product manager")');
 });
+
+test('Companies: role filters (level, city, new) narrow counts; Refresh re-fetches the latest scan', async () => {
+  const roles = { NVIDIA: [
+    { id: 'a', title: 'Senior Product Manager, AI', location: 'India, Bengaluru', url: 'https://x/a', level: 'senior', firstSeen: '2026-01-01' },
+    { id: 'b', title: 'Product Manager', location: 'Pune, India', url: 'https://x/b', level: 'pm', firstSeen: '2026-01-01' },
+  ] };
+  global.fetch = jest.fn((url) => Promise.resolve({ ok: true, json: () => Promise.resolve(String(url).includes('company-roles')
+    ? { scannedAt: new Date(Date.now() - 2 * 3600e3).toISOString(), roles, lastRead: { NVIDIA: '2026-10-05' } }
+    : { openings: [], roles: [], signals: [] }) }));
+  const user = userEvent.setup();
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: 'Companies' }));
+  expect(await screen.findByText(/last scan 2h ago/)).toBeInTheDocument();
+  expect(screen.getByText(/^2 open product roles in India right now/)).toBeInTheDocument();
+
+  await user.click(screen.getByRole('button', { name: 'Senior PM' , pressed: false }));
+  expect(screen.getByText(/^1 open product roles in India matching your filters/)).toBeInTheDocument();
+  await user.selectOptions(screen.getByLabelText('Filter roles by city'), 'Pune');
+  expect(screen.getByText(/^0 open product roles in India matching your filters/)).toBeInTheDocument();
+
+  const calls = global.fetch.mock.calls.length;
+  await user.click(screen.getByRole('button', { name: 'Refresh roles' }));
+  expect(global.fetch.mock.calls.slice(calls).some(([u]) => /company-roles\.json\?t=\d+/.test(String(u)))).toBe(true);
+});
+

@@ -228,6 +228,7 @@ export default function App() {
       <style>{`
         *{box-sizing:border-box;margin:0;padding:0;}
         h1,h2,h3,h4{font-family:"Space Grotesk",Inter,-apple-system,BlinkMacSystemFont,system-ui,sans-serif;}
+        @keyframes spin{to{transform:rotate(360deg);}}
         @keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:0.6;transform:scale(0.9);}}
         ::-webkit-scrollbar{width:8px;height:8px;}
         ::-webkit-scrollbar-track{background:transparent;}

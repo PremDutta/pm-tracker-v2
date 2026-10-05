@@ -34,7 +34,7 @@ import { fetchFundingSignals } from './funding.mjs';
 import { fetchVcBoards } from './vc-boards.mjs';
 import { fetchEightfold, fetchOracle, fetchSuccessFactors, fetchAmazon } from './enterprise-ats.mjs';
 import { fetchYcJobs, indiaEligibility } from './yc.mjs';
-import { saveRoleSnapshot, isAiTitle } from './snapshots.mjs';
+import { saveRoleSnapshot, isAiTitle, roleLevel } from './snapshots.mjs';
 import { istToday, loadQueue, saveQueue, enqueue, urgentItems, urgentText, digestText, markReminders } from './digest.mjs';
 
 const AGENT_DIR = path.dirname(fileURLToPath(import.meta.url));
@@ -410,13 +410,13 @@ async function saveCompanyRoles(pmJobs, boards) {
   }
   const firstSeen = new Map(Object.values(previous.roles).flat().map(r => [r.id, r.firstSeen]));
   for (const j of pmJobs.filter(j => INDIA_RE.test(j.location || ''))) {
-    (roles[j.company] ||= []).push({ id: j.id, title: j.title, location: j.location, url: j.url, firstSeen: firstSeen.get(j.id) || today });
+    (roles[j.company] ||= []).push({ id: j.id, title: j.title, location: j.location, url: j.url, level: roleLevel(j.title), firstSeen: firstSeen.get(j.id) || today });
   }
   const lastRead = { ...previous.lastRead };
   for (const c of read) lastRead[c] = today;
   const sorted = (o) => Object.fromEntries(Object.entries(o).sort(([a], [b]) => a.localeCompare(b)));
   for (const list of Object.values(roles)) list.sort((a, b) => a.title.localeCompare(b.title));
-  await fs.writeFile(COMPANY_ROLES_FILE, JSON.stringify({ roles: sorted(roles), lastRead: sorted(lastRead) }, null, 2) + '\n');
+  await fs.writeFile(COMPANY_ROLES_FILE, JSON.stringify({ scannedAt: new Date().toISOString(), roles: sorted(roles), lastRead: sorted(lastRead) }, null, 2) + '\n');
 }
 
 // Writes the current govt openings for the app. A source that failed this run
