@@ -1,6 +1,12 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-05",
+      "detail": "147 engineering openings vs a usual 36"
+    },
+    {
       "type": "funding",
       "company": "Scooter",
       "title": "Sales hiring startup Scooter raises Rs 1.5 Cr pre-seed round",
@@ -104,6 +110,14 @@
       "url": "https://entrackr.com/snippets/longevity-startup-vytalyou-raises-rs-9-cr-in-pre-series-a-round-12593640",
       "date": "2026-09-30",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "WillJini",
+      "title": "WillJini raises first round at $3.5M valuation, without pitching a single VC",
+      "url": "https://yourstory.com/2026/09/willjini-raises-first-round-35m-valuation-without-pitching-single-vc",
+      "date": "2026-09-30",
+      "detail": "via YourStory"
     },
     {
       "type": "funding",

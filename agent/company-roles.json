@@ -172,17 +172,17 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10551513",
-        "title": "Senior Product Manager, Amazon - Sub Same Day",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10551512",
         "title": "Senior Product Manager, Amazon - Sub Same Day",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10551512/senior-product-manager-amazon-sub-same-day",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10551513",
+        "title": "Senior Product Manager, Amazon - Sub Same Day",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
         "firstSeen": "2026-09-30"
       },
       {
@@ -312,17 +312,17 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10521530",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10531340",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10521530",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
         "firstSeen": "2026-09-30"
       },
       {
@@ -454,6 +454,24 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "Autodesk": [
+      {
+        "id": "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
+        "title": "Product Manager (Data Ingestion & Delivery)",
+        "location": "Pune, IND",
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
+        "firstSeen": "2026-10-05"
+      }
+    ],
+    "Couchbase": [
+      {
+        "id": "greenhouse-couchbaseinc-4701380006",
+        "title": "Senior Product Manager",
+        "location": "Bangalore, India",
+        "url": "https://job-boards.greenhouse.io/couchbaseinc/jobs/4701380006",
+        "firstSeen": "2026-10-05"
+      }
+    ],
     "Druva": [
       {
         "id": "greenhouse-druva-8697486002",
@@ -461,6 +479,15 @@
         "location": "Pune, Maharashtra, India",
         "url": "https://www.druva.com/why-druva/explore/careers/jobs/8697486002/?gh_jid=8697486002",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "Ema": [
+      {
+        "id": "ashby-ema-74540ab2-9782-476f-ad0d-78cc2e7717ed",
+        "title": "Product Manager",
+        "location": "India - Bengaluru",
+        "url": "https://jobs.ashbyhq.com/ema/74540ab2-9782-476f-ad0d-78cc2e7717ed",
+        "firstSeen": "2026-10-05"
       }
     ],
     "Freshworks": [
@@ -477,6 +504,29 @@
         "location": "Bengaluru, , India",
         "url": "https://jobs.smartrecruiters.com/Freshworks/744000150936730",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "Glean": [
+      {
+        "id": "greenhouse-gleanwork-4726336005",
+        "title": "Product Manager",
+        "location": "Bangalore, India",
+        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "greenhouse-gleanwork-4629292005",
+        "title": "Product Manager, Connectors",
+        "location": "Bangalore, India",
+        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4629292005",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "greenhouse-gleanwork-4641940005",
+        "title": "Product Manager, Glean Protect (Security & Governance)",
+        "location": "Bangalore, India",
+        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
+        "firstSeen": "2026-10-05"
       }
     ],
     "GoComet": [
@@ -502,6 +552,42 @@
         "location": "Bangalore",
         "url": "https://gokwik.keka.com/careers/jobdetails/150448",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "Gushwork": [
+      {
+        "id": "lever-gushwork-c03a9615-f124-424c-8bbd-90d209a68f3d",
+        "title": "Product Manager",
+        "location": "Bengaluru",
+        "url": "https://jobs.lever.co/gushwork/c03a9615-f124-424c-8bbd-90d209a68f3d",
+        "firstSeen": "2026-10-05"
+      }
+    ],
+    "GW RhythmX": [
+      {
+        "id": "greenhouse-rhythmx-ai-5320938008",
+        "title": "Technical Product Manager – AI Platform & Interoperability",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://job-boards.greenhouse.io/rhythmx-ai/jobs/5320938008",
+        "firstSeen": "2026-10-05"
+      }
+    ],
+    "HackerOne": [
+      {
+        "id": "ashby-HackerOne-c061590a-f169-4741-a0ae-a3f9b310cc09",
+        "title": "AI Product Manager",
+        "location": "Pune",
+        "url": "https://jobs.ashbyhq.com/HackerOne/c061590a-f169-4741-a0ae-a3f9b310cc09",
+        "firstSeen": "2026-10-05"
+      }
+    ],
+    "Harness": [
+      {
+        "id": "greenhouse-harnessinc-5176776007",
+        "title": "Staff Product Manager - Continuous Deployment",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://www.harness.io/company/jobs/apply?gh_jid=5176776007&gh_jid=5176776007",
+        "firstSeen": "2026-10-05"
       }
     ],
     "HCLTech": [
@@ -604,6 +690,15 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "Hevo Data": [
+      {
+        "id": "lever-hevodata-c665b22f-6336-4ec2-88d8-4165f51d5396",
+        "title": "Product Manager",
+        "location": "Bangalore, India",
+        "url": "https://jobs.lever.co/hevodata/c665b22f-6336-4ec2-88d8-4165f51d5396",
+        "firstSeen": "2026-10-05"
+      }
+    ],
     "HighRadius": [
       {
         "id": "greenhouse-highradius-7611197003",
@@ -618,6 +713,43 @@
         "location": "Hyderabad, Telangana, India",
         "url": "https://www.highradius.com/about/careers-list/?gh_jid=7707536003",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "HPE": [
+      {
+        "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3",
+        "title": "Principal Product Manager - Switching",
+        "location": "Bengaluru, Karnātaka, India",
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Cloud-SRX-Firewall_1209735-2",
+        "title": "Product Manager - Cloud SRX Firewall",
+        "location": "Bengaluru, Karnātaka, India",
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager---Cloud-SRX-Firewall_1209735-2",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Support-Insights_1209606-2",
+        "title": "Product Manager - Support Insights",
+        "location": "Bengaluru, Karnātaka, India",
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager---Support-Insights_1209606-2",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager--DCN_1197630-2",
+        "title": "Product Manager- DCN",
+        "location": "Bengaluru, Karnātaka, India",
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager--DCN_1197630-2",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1",
+        "title": "Sr. Product Owner",
+        "location": "Bengaluru, Karnātaka, India",
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1",
+        "firstSeen": "2026-10-05"
       }
     ],
     "InMobi": [
@@ -724,6 +856,22 @@
         "firstSeen": "2026-10-01"
       }
     ],
+    "Karat": [
+      {
+        "id": "greenhouse-karat-8842979002",
+        "title": "Principal Product Manager - Hiring Manager Experience (India)",
+        "location": "Remote (India - Bangalore ONLY)",
+        "url": "https://job-boards.greenhouse.io/karat/jobs/8842979002",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "greenhouse-karat-8843016002",
+        "title": "Senior Product Manager - Recruiter Experience (India)",
+        "location": "Remote (India - Bangalore ONLY)",
+        "url": "https://job-boards.greenhouse.io/karat/jobs/8843016002",
+        "firstSeen": "2026-10-05"
+      }
+    ],
     "LetsTransport": [
       {
         "id": "freshteam-letstransport-2000049183",
@@ -731,6 +879,15 @@
         "location": "Bengaluru, India",
         "url": "https://letstransport.freshteam.com/jobs/J2_Td7V_HRv5/product-manager",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "Lyzr": [
+      {
+        "id": "keka-lyzr-41788",
+        "title": "Product Manager",
+        "location": "Bengaluru, Chennai",
+        "url": "https://lyzr.keka.com/careers/jobdetails/41788",
+        "firstSeen": "2026-10-05"
       }
     ],
     "Mastercard": [
@@ -921,17 +1078,17 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556911401",
-        "title": "Principal Product Manager",
-        "location": "India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393556999250",
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556999250",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556911401",
+        "title": "Principal Product Manager",
+        "location": "India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
         "firstSeen": "2026-09-30"
       },
       {
@@ -970,6 +1127,15 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "Mihup": [
+      {
+        "id": "keka-mihup-160594",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://mihup.keka.com/careers/jobdetails/160594",
+        "firstSeen": "2026-10-05"
+      }
+    ],
     "Mindtickle": [
       {
         "id": "lever-mindtickle-4365dc2a-87b1-4751-bd30-c90c70dea92c",
@@ -977,6 +1143,15 @@
         "location": "Pune, Maharashtra",
         "url": "https://jobs.lever.co/mindtickle/4365dc2a-87b1-4751-bd30-c90c70dea92c",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "MongoDB": [
+      {
+        "id": "greenhouse-mongodb-8094528",
+        "title": "Senior Product Manager",
+        "location": "Gurugram",
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=8094528",
+        "firstSeen": "2026-10-05"
       }
     ],
     "Morgan Stanley": [
@@ -1016,6 +1191,15 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "Motorola Solutions": [
+      {
+        "id": "workday-motorolasolutions-/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654",
+        "title": "Product Manager - Business Intelligence & Analytics",
+        "location": "Bangalore, India",
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654",
+        "firstSeen": "2026-10-05"
+      }
+    ],
     "MyOperator": [
       {
         "id": "zoho-myoperator-163599000034203948",
@@ -1023,6 +1207,24 @@
         "location": "Noida, India",
         "url": "https://careers.myoperator.com/jobs/Careers/163599000034203948/Product-Manager-Conversational-AI?source=CareerSite",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "Netomi": [
+      {
+        "id": "lever-netomi-a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
+        "title": "Agentic Product Manager",
+        "location": "Gurugram",
+        "url": "https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
+        "firstSeen": "2026-10-05"
+      }
+    ],
+    "Neuron7.ai": [
+      {
+        "id": "lever-neuron7-e9d47d0d-6f19-4a59-8bf9-561d721b9efe",
+        "title": "Lead Product Manager – Agentic Experiences | Bangalore",
+        "location": "Bengaluru",
+        "url": "https://jobs.lever.co/neuron7/e9d47d0d-6f19-4a59-8bf9-561d721b9efe",
+        "firstSeen": "2026-10-05"
       }
     ],
     "Noise": [
@@ -1053,6 +1255,24 @@
         "location": "Gurgaon, India",
         "url": "https://gonoise.freshteam.com/jobs/QvyYK4S4dY7c/technical-product-manager-r-d-wearables",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "Nurix AI": [
+      {
+        "id": "keka-nurix-17249",
+        "title": "Product Manager",
+        "location": "Bengaluru",
+        "url": "https://nurix.keka.com/careers/jobdetails/17249",
+        "firstSeen": "2026-10-05"
+      }
+    ],
+    "OneTrust": [
+      {
+        "id": "greenhouse-onetrust-8207523",
+        "title": "Staff Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://job-boards.greenhouse.io/onetrust/jobs/8207523",
+        "firstSeen": "2026-10-05"
       }
     ],
     "Paytm": [
@@ -1231,6 +1451,66 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "Rippling": [
+      {
+        "id": "rippling-rippling-d8797dce-0abf-406a-bf5f-0f288b9800ad",
+        "title": " Director of Product, Global Tax Platform",
+        "location": "Bangalore, India",
+        "url": "https://ats.rippling.com/rippling/jobs/d8797dce-0abf-406a-bf5f-0f288b9800ad",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "rippling-rippling-c91bdb38-16ba-48b3-9f58-fccc622c3154",
+        "title": "Product Lead, Accounting Platform",
+        "location": "Bangalore, India",
+        "url": "https://ats.rippling.com/rippling/jobs/c91bdb38-16ba-48b3-9f58-fccc622c3154",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "rippling-rippling-9276fd2e-0929-4843-9f5e-c7b7bb9119ab",
+        "title": "Product Lead, Benefits Marketplace & PEO",
+        "location": "Bangalore, India",
+        "url": "https://ats.rippling.com/rippling/jobs/9276fd2e-0929-4843-9f5e-c7b7bb9119ab",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "rippling-rippling-dc87eb0d-23ed-4539-9298-17f52f81ff7e",
+        "title": "Product Lead, Finance Experience",
+        "location": "Bangalore, India",
+        "url": "https://ats.rippling.com/rippling/jobs/dc87eb0d-23ed-4539-9298-17f52f81ff7e",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "rippling-rippling-ac5e20fe-de0e-422f-ac7c-0112c4769e26",
+        "title": "Product Lead, Payroll",
+        "location": "Bangalore, India",
+        "url": "https://ats.rippling.com/rippling/jobs/ac5e20fe-de0e-422f-ac7c-0112c4769e26",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "rippling-rippling-30ecc735-369a-429f-8df5-585b1516cef7",
+        "title": "Product Manager, Payroll Integrations",
+        "location": "Bangalore, India",
+        "url": "https://ats.rippling.com/rippling/jobs/30ecc735-369a-429f-8df5-585b1516cef7",
+        "firstSeen": "2026-10-05"
+      }
+    ],
+    "Rubrik": [
+      {
+        "id": "greenhouse-rubrik-7508560",
+        "title": "Director,Product Design",
+        "location": "Bangalore,India",
+        "url": "https://www.rubrik.com/company/careers/departments/job.7508560?gh_jid=7508560",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "greenhouse-rubrik-7976001",
+        "title": "Senior Product Manager-Identity Resilience",
+        "location": "Bangalore, India",
+        "url": "https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001",
+        "firstSeen": "2026-10-05"
+      }
+    ],
     "Sarvam AI": [
       {
         "id": "ashby-sarvam-c4bb3b2c-7608-4d57-8761-650b4222ac13",
@@ -1289,6 +1569,15 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "Saviynt": [
+      {
+        "id": "lever-saviynt-53b6e38f-ed8d-4764-bc39-8671961ca8c7",
+        "title": "Staff Product Manager (Partner & Developer Ecosystem)",
+        "location": "Bengaluru",
+        "url": "https://jobs.lever.co/saviynt/53b6e38f-ed8d-4764-bc39-8671961ca8c7",
+        "firstSeen": "2026-10-05"
+      }
+    ],
     "ServiceNow": [
       {
         "id": "smartrecruiters-ServiceNow-744000152588729",
@@ -1303,6 +1592,63 @@
         "location": "Hyderabad, Telangana, India",
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000152746979",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "Sigmoid": [
+      {
+        "id": "greenhouse-sigmoid-8041196002",
+        "title": "Product Manager",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
+        "firstSeen": "2026-10-05"
+      }
+    ],
+    "Simpplr": [
+      {
+        "id": "greenhouse-simpplr-6138700004",
+        "title": "Senior Product Manager – Enterprise Search",
+        "location": "Bengaluru, India; Gurugram, India",
+        "url": "https://job-boards.greenhouse.io/simpplr/jobs/6138700004",
+        "firstSeen": "2026-10-05"
+      }
+    ],
+    "SpotDraft": [
+      {
+        "id": "ashby-spotdraft-e9146208-bd24-443b-b1d8-96aabd292538",
+        "title": "Associate Product Manager",
+        "location": "SpotDraft HQ, Bengaluru",
+        "url": "https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "ashby-spotdraft-4c635c45-27c4-4e53-892d-da09156ef0e6",
+        "title": "Product Manager",
+        "location": "SpotDraft HQ, Bengaluru",
+        "url": "https://jobs.ashbyhq.com/spotdraft/4c635c45-27c4-4e53-892d-da09156ef0e6",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "ashby-spotdraft-88fc1f00-e546-463a-8ba0-78bc89a95cc6",
+        "title": "Product Manager - AI",
+        "location": "SpotDraft HQ, Bengaluru",
+        "url": "https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6",
+        "firstSeen": "2026-10-05"
+      }
+    ],
+    "Spyne": [
+      {
+        "id": "keka-spyneai-63606",
+        "title": "AI Product Manager",
+        "location": "Gurgaon",
+        "url": "https://spyneai.keka.com/careers/jobdetails/63606",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "keka-spyneai-49785",
+        "title": "Director - Product",
+        "location": "Gurgaon",
+        "url": "https://spyneai.keka.com/careers/jobdetails/49785",
+        "firstSeen": "2026-10-05"
       }
     ],
     "Swiggy": [
@@ -1368,6 +1714,15 @@
         "title": "Senior Digital Product Manager",
         "location": "Hyderabad, India",
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Digital-Product-Manager_R-567333",
+        "firstSeen": "2026-10-05"
+      }
+    ],
+    "Wing Assistant (M32 AI)": [
+      {
+        "id": "lever-getwingapp-c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
+        "title": "Product Manager - AI",
+        "location": "India",
+        "url": "https://jobs.lever.co/getwingapp/c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
         "firstSeen": "2026-10-05"
       }
     ],
@@ -1487,6 +1842,29 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "Zendesk": [
+      {
+        "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R33982",
+        "title": "Senior Product Manager",
+        "location": "Pune, India",
+        "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R33982",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "workday-zendesk-/job/Pune-India/Principal-Product-Manager_R35027-1",
+        "title": "Senior Product Manager",
+        "location": "Pune, India",
+        "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Principal-Product-Manager_R35027-1",
+        "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R34220",
+        "title": "Senior Product Manager",
+        "location": "Pune, India",
+        "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R34220",
+        "firstSeen": "2026-10-05"
+      }
+    ],
     "Zenoti": [
       {
         "id": "greenhouse-zenoti-7513859003",
@@ -1544,45 +1922,70 @@
     "Apna": "2026-10-05",
     "Asana": "2026-10-05",
     "Ashby": "2026-10-05",
+    "Atlan": "2026-10-05",
+    "Autodesk": "2026-10-05",
     "Browserstack": "2026-10-05",
     "Cisco": "2026-10-05",
     "Cohere": "2026-10-05",
+    "Composio": "2026-10-05",
+    "Confluent": "2026-10-05",
+    "Couchbase": "2026-10-05",
     "CRED": "2026-10-05",
+    "Databricks": "2026-10-05",
     "Deepgram": "2026-10-05",
     "Descript": "2026-10-05",
     "Dhan": "2026-10-05",
     "Discord": "2026-10-05",
     "Druva": "2026-10-05",
     "ElevenLabs": "2026-10-05",
+    "Ema": "2026-10-05",
     "Emergent": "2026-10-05",
     "Figma": "2026-10-05",
     "Fractal": "2026-10-05",
     "Freshworks": "2026-10-05",
     "Glance": "2026-10-05",
+    "Glean": "2026-10-05",
     "GoComet": "2026-10-05",
     "GoKwik": "2026-10-05",
     "Groww": "2026-10-05",
+    "Gushwork": "2026-10-05",
+    "GW RhythmX": "2026-10-05",
+    "HackerOne": "2026-10-05",
+    "Haptik": "2026-10-05",
+    "Harness": "2026-10-05",
     "HCLTech": "2026-10-05",
+    "Hevo Data": "2026-10-05",
     "HighRadius": "2026-10-05",
+    "HPE": "2026-10-05",
     "Icertis": "2026-10-05",
     "InMobi": "2026-10-05",
     "Innovaccer": "2026-10-05",
     "JPMorgan Chase": "2026-10-05",
+    "Karat": "2026-10-05",
     "KPMG India": "2026-10-05",
     "LetsTransport": "2026-10-05",
     "Linear": "2026-10-05",
     "Lowe's India": "2026-10-05",
+    "Lyzr": "2026-10-05",
     "Mastercard": "2026-10-05",
     "Meesho": "2026-10-05",
     "Mensa Brands (BRND.ME)": "2026-10-05",
     "Microsoft": "2026-10-05",
+    "Mihup": "2026-10-05",
     "Mindtickle": "2026-10-05",
+    "MongoDB": "2026-10-05",
     "Morgan Stanley": "2026-10-05",
+    "Motorola Solutions": "2026-10-05",
     "MyOperator": "2026-10-05",
+    "Netomi": "2026-10-05",
     "Netradyne": "2026-10-05",
+    "Neuron7.ai": "2026-10-05",
     "Noise": "2026-10-05",
     "Notion": "2026-10-05",
+    "Nurix AI": "2026-10-05",
     "NVIDIA": "2026-10-05",
+    "Observe.AI": "2026-10-05",
+    "OneTrust": "2026-10-05",
     "Open Financial Technologies": "2026-10-05",
     "OpenAI": "2026-10-05",
     "Oracle": "2026-10-05",
@@ -1598,28 +2001,40 @@
     "Qualcomm": "2026-10-05",
     "Ramp": "2026-10-05",
     "Razorpay": "2026-10-05",
+    "Rippling": "2026-10-05",
+    "Rubrik": "2026-10-05",
     "Runway": "2026-10-05",
     "Salesforce": "2026-10-05",
     "Samsung R&D India": "2026-10-05",
     "Sarvam AI": "2026-10-05",
+    "Saviynt": "2026-10-05",
     "Scale AI": "2026-10-05",
     "ServiceNow": "2026-10-05",
     "Shopflo": "2026-10-05",
+    "Sigmoid": "2026-10-05",
+    "Simpplr": "2026-10-05",
     "Skyroot Aerospace": "2026-10-05",
     "Slice": "2026-10-05",
+    "Snowflake": "2026-10-05",
+    "SpotDraft": "2026-10-05",
     "Spotify": "2026-10-05",
+    "Sprinklr": "2026-10-05",
+    "Spyne": "2026-10-05",
     "Stability AI": "2026-10-05",
     "Swiggy": "2026-10-05",
     "Target India": "2026-10-05",
     "TravClan": "2026-10-05",
+    "UiPath": "2026-10-05",
     "Uniphore": "2026-10-05",
     "Vedantu": "2026-10-05",
     "Verse Innovation (Dailyhunt/Josh)": "2026-10-05",
     "Visa": "2026-10-05",
     "VMware/Broadcom": "2026-10-05",
     "Wells Fargo": "2026-10-05",
+    "Wing Assistant (M32 AI)": "2026-10-05",
     "Wipro": "2026-10-05",
     "Yubi": "2026-10-05",
+    "Zendesk": "2026-10-05",
     "Zenoti": "2026-10-05",
     "Zensar": "2026-10-05",
     "Zeta": "2026-10-05",

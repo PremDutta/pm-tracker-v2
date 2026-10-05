@@ -1567,7 +1567,7 @@
           "eng": 6
         },
         "2026-10-05": {
-          "total": 57,
+          "total": 58,
           "eng": 6
         }
       },
@@ -2121,7 +2121,7 @@
           "eng": 6
         },
         "2026-10-05": {
-          "total": 144,
+          "total": 145,
           "eng": 6
         }
       },
@@ -2228,7 +2228,7 @@
           "eng": 4
         },
         "2026-10-05": {
-          "total": 88,
+          "total": 89,
           "eng": 4
         }
       },
@@ -2691,8 +2691,8 @@
           "eng": 25
         },
         "2026-10-05": {
-          "total": 80,
-          "eng": 25
+          "total": 79,
+          "eng": 24
         }
       },
       "pm": {
@@ -3055,8 +3055,8 @@
           "eng": 36
         },
         "2026-10-05": {
-          "total": 89,
-          "eng": 35
+          "total": 87,
+          "eng": 33
         }
       },
       "pm": {
@@ -3151,7 +3151,7 @@
           "eng": 11
         },
         "2026-10-05": {
-          "total": 42,
+          "total": 41,
           "eng": 11
         }
       },
@@ -3252,7 +3252,7 @@
         },
         "2026-10-05": {
           "total": 100,
-          "eng": 34
+          "eng": 35
         }
       },
       "pm": {
@@ -3392,7 +3392,7 @@
         },
         "2026-10-05": {
           "total": 100,
-          "eng": 10
+          "eng": 9
         }
       },
       "pm": {}
@@ -3705,7 +3705,7 @@
           "eng": 2
         },
         "2026-10-05": {
-          "total": 21,
+          "total": 20,
           "eng": 2
         }
       },
@@ -3884,7 +3884,7 @@
         },
         "2026-10-05": {
           "total": 100,
-          "eng": 29
+          "eng": 30
         }
       },
       "pm": {
@@ -3970,8 +3970,8 @@
           "eng": 57
         },
         "2026-10-05": {
-          "total": 118,
-          "eng": 58
+          "total": 117,
+          "eng": 57
         }
       },
       "pm": {
@@ -4690,8 +4690,8 @@
           "eng": 22
         },
         "2026-10-05": {
-          "total": 72,
-          "eng": 22
+          "total": 73,
+          "eng": 23
         }
       },
       "pm": {
@@ -4792,7 +4792,8 @@
         },
         "2026-10-05": {
           "total": 200,
-          "eng": 35
+          "eng": 147,
+          "spike": true
         }
       },
       "pm": {
@@ -4800,31 +4801,36 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
         },
         "product management analyst": {
           "ids": [
             "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
         },
         "product management lead": {
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
         },
         "ai product management practitioner": {
           "ids": [
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
         }
       }
     },
@@ -4927,6 +4933,1236 @@
         "product management intern": {
           "ids": [
             "eightfold-microsoft.com-1970393556978896"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Atlan": {
+      "daily": {
+        "2026-10-05": {
+          "total": 6,
+          "eng": 2
+        }
+      },
+      "pm": {}
+    },
+    "Composio": {
+      "daily": {
+        "2026-10-05": {
+          "total": 29,
+          "eng": 15
+        }
+      },
+      "pm": {}
+    },
+    "Confluent": {
+      "daily": {
+        "2026-10-05": {
+          "total": 17,
+          "eng": 11
+        }
+      },
+      "pm": {
+        "senior product manager cluster linking": {
+          "ids": [
+            "ashby-confluent-f60bba87-9470-4238-bf6f-dce1b4da8006"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager kafka connect": {
+          "ids": [
+            "ashby-confluent-21082b9f-440a-4ba6-a469-c70d339d1aa9"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager cloud networking": {
+          "ids": [
+            "ashby-confluent-1946b144-eaa5-482f-b235-63cc06104ecc"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager real time data analytics platform": {
+          "ids": [
+            "ashby-confluent-81b94a4e-53d3-40d5-9c04-af57bd01961c"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager cloud networking": {
+          "ids": [
+            "ashby-confluent-e70deb8a-3308-49dd-b9c7-b537333c5645"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Couchbase": {
+      "daily": {
+        "2026-10-05": {
+          "total": 18,
+          "eng": 9
+        }
+      },
+      "pm": {
+        "principal product manager": {
+          "ids": [
+            "greenhouse-couchbaseinc-4712069006"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager": {
+          "ids": [
+            "greenhouse-couchbaseinc-4701380006"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Databricks": {
+      "daily": {
+        "2026-10-05": {
+          "total": 888,
+          "eng": 575
+        }
+      },
+      "pm": {
+        "associate product manager new grad": {
+          "ids": [
+            "greenhouse-databricks-7586263002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "director product marketing ai": {
+          "ids": [
+            "greenhouse-databricks-8487145002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "lead learning product manager": {
+          "ids": [
+            "greenhouse-databricks-8780470002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product management intern amsterdam": {
+          "ids": [
+            "greenhouse-databricks-8133715002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product management intern belgrade": {
+          "ids": [
+            "greenhouse-databricks-8863328002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product management intern berlin": {
+          "ids": [
+            "greenhouse-databricks-8145776002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product management intern": {
+          "ids": [
+            "greenhouse-databricks-6883068002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager new grad amsterdam": {
+          "ids": [
+            "greenhouse-databricks-8133727002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager new grad belgrade": {
+          "ids": [
+            "greenhouse-databricks-8863326002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager new grad berlin": {
+          "ids": [
+            "greenhouse-databricks-8145800002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "sr product manager compute platform": {
+          "ids": [
+            "greenhouse-databricks-8200284002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "sr product manager databricks ai": {
+          "ids": [
+            "greenhouse-databricks-8136071002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "sr product manager databricks free edition": {
+          "ids": [
+            "greenhouse-databricks-7680573002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "sr product manager databricks repos": {
+          "ids": [
+            "greenhouse-databricks-8326570002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "sr product manager data engineering": {
+          "ids": [
+            "greenhouse-databricks-6322654002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "sr product manager data governance": {
+          "ids": [
+            "greenhouse-databricks-7863365002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "sr product manager employee experience": {
+          "ids": [
+            "greenhouse-databricks-8203285002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "sr product manager lakeflow": {
+          "ids": [
+            "greenhouse-databricks-8186386002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "sr product manager technical": {
+          "ids": [
+            "greenhouse-databricks-8387085002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager": {
+          "ids": [
+            "greenhouse-databricks-7649411002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager agentic ai applications": {
+          "ids": [
+            "greenhouse-databricks-8560772002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager sap": {
+          "ids": [
+            "greenhouse-databricks-8679974002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager security": {
+          "ids": [
+            "greenhouse-databricks-7110509002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager serverless workspaces": {
+          "ids": [
+            "greenhouse-databricks-8427954002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager technical": {
+          "ids": [
+            "greenhouse-databricks-8394060002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager us public sector": {
+          "ids": [
+            "greenhouse-databricks-8831555002"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Ema": {
+      "daily": {
+        "2026-10-05": {
+          "total": 41,
+          "eng": 21
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "ashby-ema-74540ab2-9782-476f-ad0d-78cc2e7717ed"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager uk": {
+          "ids": [
+            "ashby-ema-089e8993-acf5-4d11-a7d3-f437f058d194"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Glean": {
+      "daily": {
+        "2026-10-05": {
+          "total": 128,
+          "eng": 37
+        }
+      },
+      "pm": {
+        "head of product design": {
+          "ids": [
+            "greenhouse-gleanwork-4506459005"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product management lead": {
+          "ids": [
+            "greenhouse-gleanwork-4559476005"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager": {
+          "ids": [
+            "greenhouse-gleanwork-4726336005"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager agent security governance": {
+          "ids": [
+            "greenhouse-gleanwork-4525297005"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager ai quality": {
+          "ids": [
+            "greenhouse-gleanwork-4525518005"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager api platform": {
+          "ids": [
+            "greenhouse-gleanwork-4731372005"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager connectors": {
+          "ids": [
+            "greenhouse-gleanwork-4629292005"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager core experience": {
+          "ids": [
+            "greenhouse-gleanwork-4702368005"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager enterprise intelligence": {
+          "ids": [
+            "greenhouse-gleanwork-4701912005"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager glean protect": {
+          "ids": [
+            "greenhouse-gleanwork-4641940005"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager growth": {
+          "ids": [
+            "greenhouse-gleanwork-4702151005"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "GW RhythmX": {
+      "daily": {
+        "2026-10-05": {
+          "total": 1,
+          "eng": 0
+        }
+      },
+      "pm": {
+        "technical product manager ai platform interoperability": {
+          "ids": [
+            "greenhouse-rhythmx-ai-5320938008"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Autodesk": {
+      "daily": {
+        "2026-10-05": {
+          "total": 26,
+          "eng": 14
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "HackerOne": {
+      "daily": {
+        "2026-10-05": {
+          "total": 14,
+          "eng": 8
+        }
+      },
+      "pm": {
+        "ai product manager": {
+          "ids": [
+            "ashby-HackerOne-c061590a-f169-4741-a0ae-a3f9b310cc09"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Harness": {
+      "daily": {
+        "2026-10-05": {
+          "total": 68,
+          "eng": 31
+        }
+      },
+      "pm": {
+        "principal director product management code container security": {
+          "ids": [
+            "greenhouse-harnessinc-5175674007"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior outbound product manager": {
+          "ids": [
+            "greenhouse-harnessinc-5249763007"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior staff product manager continuous delivery": {
+          "ids": [
+            "greenhouse-harnessinc-5233068007"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager continuous deployment": {
+          "ids": [
+            "greenhouse-harnessinc-5176776007"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Gushwork": {
+      "daily": {
+        "2026-10-05": {
+          "total": 13,
+          "eng": 3
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "lever-gushwork-c03a9615-f124-424c-8bbd-90d209a68f3d"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Haptik": {
+      "daily": {
+        "2026-10-05": {
+          "total": 16,
+          "eng": 5
+        }
+      },
+      "pm": {}
+    },
+    "Hevo Data": {
+      "daily": {
+        "2026-10-05": {
+          "total": 53,
+          "eng": 19
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "lever-hevodata-c665b22f-6336-4ec2-88d8-4165f51d5396"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "vp product marketing": {
+          "ids": [
+            "lever-hevodata-ec8d8975-d200-4c20-a53c-e095c964230e"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Karat": {
+      "daily": {
+        "2026-10-05": {
+          "total": 10,
+          "eng": 3
+        }
+      },
+      "pm": {
+        "principal product manager hiring manager experience": {
+          "ids": [
+            "greenhouse-karat-8842979002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "principal product manager interview innovation": {
+          "ids": [
+            "greenhouse-karat-8842934002"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager recruiter experience": {
+          "ids": [
+            "greenhouse-karat-8843016002"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Lyzr": {
+      "daily": {
+        "2026-10-05": {
+          "total": 16,
+          "eng": 9
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "keka-lyzr-41788"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Mihup": {
+      "daily": {
+        "2026-10-05": {
+          "total": 4,
+          "eng": 0
+        }
+      },
+      "pm": {
+        "senior product manager": {
+          "ids": [
+            "keka-mihup-160594"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "MongoDB": {
+      "daily": {
+        "2026-10-05": {
+          "total": 387,
+          "eng": 164
+        }
+      },
+      "pm": {
+        "product manager internal financial data": {
+          "ids": [
+            "greenhouse-mongodb-7908293"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior data product manager product telemetry": {
+          "ids": [
+            "greenhouse-mongodb-7428476"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior director product management growth": {
+          "ids": [
+            "greenhouse-mongodb-8157328"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager": {
+          "ids": [
+            "greenhouse-mongodb-8128356"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager client libraries": {
+          "ids": [
+            "greenhouse-mongodb-8143805"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager order to cash": {
+          "ids": [
+            "greenhouse-mongodb-8082623"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager post sales": {
+          "ids": [
+            "greenhouse-mongodb-7975695"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior staff product manager atlas clusters": {
+          "ids": [
+            "greenhouse-mongodb-8127995"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior staff product manager query": {
+          "ids": [
+            "greenhouse-mongodb-7993419"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "sr director it product management post sales and partner technology": {
+          "ids": [
+            "greenhouse-mongodb-8003065"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager": {
+          "ids": [
+            "greenhouse-mongodb-8111736"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager ai builder experience": {
+          "ids": [
+            "greenhouse-mongodb-8129885"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager atlas clusters": {
+          "ids": [
+            "greenhouse-mongodb-8177496"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager internal ai": {
+          "ids": [
+            "greenhouse-mongodb-7781724"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager it go to market": {
+          "ids": [
+            "greenhouse-mongodb-8119628"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Motorola Solutions": {
+      "daily": {
+        "2026-10-05": {
+          "total": 52,
+          "eng": 27
+        }
+      },
+      "pm": {
+        "product manager business intelligence analytics": {
+          "ids": [
+            "workday-motorolasolutions-/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "new product introduction product owner": {
+          "ids": [
+            "workday-motorolasolutions-/job/Illinois-Remote-Work/New-Product-Introduction--NPI--Product-Owner--US-Remote-_R66252"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior oracle cpq product owner": {
+          "ids": [
+            "workday-motorolasolutions-/job/Chicago-IL/Senior-Oracle-CPQ-Product-Owner_R66428"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "global services and systems integration product owner": {
+          "ids": [
+            "workday-motorolasolutions-/job/Illinois-Remote-Work/Global-Services-and-Systems-Integration-Product-Owner--US-Remote-_R66254"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Neuron7.ai": {
+      "daily": {
+        "2026-10-05": {
+          "total": 20,
+          "eng": 13
+        }
+      },
+      "pm": {
+        "lead product manager agentic experiences bangalore": {
+          "ids": [
+            "lever-neuron7-e9d47d0d-6f19-4a59-8bf9-561d721b9efe"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Nurix AI": {
+      "daily": {
+        "2026-10-05": {
+          "total": 11,
+          "eng": 5
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "keka-nurix-17249"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Observe.AI": {
+      "daily": {
+        "2026-10-05": {
+          "total": 12,
+          "eng": 6
+        }
+      },
+      "pm": {}
+    },
+    "OneTrust": {
+      "daily": {
+        "2026-10-05": {
+          "total": 90,
+          "eng": 43
+        }
+      },
+      "pm": {
+        "staff product manager": {
+          "ids": [
+            "greenhouse-onetrust-8207523"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager ai detection discovery": {
+          "ids": [
+            "greenhouse-onetrust-8222894"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "HPE": {
+      "daily": {
+        "2026-10-05": {
+          "total": 200,
+          "eng": 116
+        }
+      },
+      "pm": {
+        "product manager dcn": {
+          "ids": [
+            "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager--DCN_1197630-2"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "principal product manager switching": {
+          "ids": [
+            "workday-hpe-/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager support insights": {
+          "ids": [
+            "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Support-Insights_1209606-2"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager cloud srx firewall": {
+          "ids": [
+            "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Cloud-SRX-Firewall_1209735-2"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "sr product owner": {
+          "ids": [
+            "workday-hpe-/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Rubrik": {
+      "daily": {
+        "2026-10-05": {
+          "total": 128,
+          "eng": 38
+        }
+      },
+      "pm": {
+        "director product design": {
+          "ids": [
+            "greenhouse-rubrik-7576642"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior director it product management gtm customer experience": {
+          "ids": [
+            "greenhouse-rubrik-8144296"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior it product manager cpq": {
+          "ids": [
+            "greenhouse-rubrik-8130460"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager control plane rsc g government": {
+          "ids": [
+            "greenhouse-rubrik-8225580"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager identity resilience": {
+          "ids": [
+            "greenhouse-rubrik-7976001"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff platform product manager platform cloud security": {
+          "ids": [
+            "greenhouse-rubrik-7423902"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager it gtm": {
+          "ids": [
+            "greenhouse-rubrik-7885055"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager virtual platforms": {
+          "ids": [
+            "greenhouse-rubrik-8120738"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Rippling": {
+      "daily": {
+        "2026-10-05": {
+          "total": 652,
+          "eng": 183
+        }
+      },
+      "pm": {
+        "director of product app platform": {
+          "ids": [
+            "rippling-rippling-ea9eda50-a3a8-40e9-b6d3-a525f420eece"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "director of product global tax platform": {
+          "ids": [
+            "rippling-rippling-d8797dce-0abf-406a-bf5f-0f288b9800ad"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "director of product it": {
+          "ids": [
+            "rippling-rippling-5d644235-e32c-46d1-a839-baa93cb292c1"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "director product marketing": {
+          "ids": [
+            "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product lead accounting platform": {
+          "ids": [
+            "rippling-rippling-c91bdb38-16ba-48b3-9f58-fccc622c3154"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product lead ai experience": {
+          "ids": [
+            "rippling-rippling-6babbe32-f11a-4385-b97a-1ce1fab5a75d"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product lead benefits marketplace peo": {
+          "ids": [
+            "rippling-rippling-9276fd2e-0929-4843-9f5e-c7b7bb9119ab"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product lead employee data lifecycle": {
+          "ids": [
+            "rippling-rippling-25491329-5f96-4a11-81b6-99512adf8081"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product lead finance experience": {
+          "ids": [
+            "rippling-rippling-dc87eb0d-23ed-4539-9298-17f52f81ff7e"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product lead it": {
+          "ids": [
+            "rippling-rippling-7d6f9194-b55e-47a5-b1db-caeb396ba3ab"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product lead payments": {
+          "ids": [
+            "rippling-rippling-a5b9d8bf-f3e4-4f6d-812f-0b85af42e5b0"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product lead payroll": {
+          "ids": [
+            "rippling-rippling-ac5e20fe-de0e-422f-ac7c-0112c4769e26"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product lead scheduling": {
+          "ids": [
+            "rippling-rippling-dd676f12-3f1e-4658-8435-9cb22563f265"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product lead talent products": {
+          "ids": [
+            "rippling-rippling-0889e2ac-a30c-43b7-8c8c-5312264416db"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product lead workflow studio": {
+          "ids": [
+            "rippling-rippling-e3620017-195f-4ea7-934c-f14669bf1136"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager payroll integrations": {
+          "ids": [
+            "rippling-rippling-30ecc735-369a-429f-8df5-585b1516cef7"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Saviynt": {
+      "daily": {
+        "2026-10-05": {
+          "total": 71,
+          "eng": 36
+        }
+      },
+      "pm": {
+        "director product management privileged access management": {
+          "ids": [
+            "lever-saviynt-766418c4-bf0e-4455-8dce-5702562ea450"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager": {
+          "ids": [
+            "lever-saviynt-53b6e38f-ed8d-4764-bc39-8671961ca8c7"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Sigmoid": {
+      "daily": {
+        "2026-10-05": {
+          "total": 36,
+          "eng": 8
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "greenhouse-sigmoid-8041196002"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Simpplr": {
+      "daily": {
+        "2026-10-05": {
+          "total": 3,
+          "eng": 1
+        }
+      },
+      "pm": {
+        "senior product manager enterprise search": {
+          "ids": [
+            "greenhouse-simpplr-6138700004"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Snowflake": {
+      "daily": {
+        "2026-10-05": {
+          "total": 348,
+          "eng": 177
+        }
+      },
+      "pm": {
+        "staff product manager ai fde": {
+          "ids": [
+            "ashby-snowflake-775f7c0e-f4ca-4334-a3c5-100811daf192"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager data observability": {
+          "ids": [
+            "ashby-snowflake-157bd8e6-7201-4d37-96ca-0b76a2bc1446"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager streaming platform": {
+          "ids": [
+            "ashby-snowflake-e90e34f4-9746-483d-8d53-c3d297e06ff9"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager ai migrations": {
+          "ids": [
+            "ashby-snowflake-8e88251e-e77e-428e-bccf-dc1ccadc22ef"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager interactive analytics": {
+          "ids": [
+            "ashby-snowflake-e72df92e-951f-4c64-8016-1def8cf7e05d"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager enterprise ai": {
+          "ids": [
+            "ashby-snowflake-5ee9f5f0-2942-4c17-81bf-f2ffec3a64b9"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager openflow": {
+          "ids": [
+            "ashby-snowflake-61d48d79-aeb8-45fb-806a-5b6e9f625de7"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "director product management snowflake transactions": {
+          "ids": [
+            "ashby-snowflake-82f841ea-c0f8-4f5a-b170-212cc9da8c72"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "senior product manager identity access intelligence": {
+          "ids": [
+            "ashby-snowflake-4dccc2f2-48b2-4c2e-ae37-c7368e77a6d6"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "staff product manager": {
+          "ids": [
+            "ashby-snowflake-7576ec7f-01c9-41b9-b451-8cd43e62bf3b"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "SpotDraft": {
+      "daily": {
+        "2026-10-05": {
+          "total": 15,
+          "eng": 1
+        }
+      },
+      "pm": {
+        "product manager": {
+          "ids": [
+            "ashby-spotdraft-4c635c45-27c4-4e53-892d-da09156ef0e6"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager ai": {
+          "ids": [
+            "ashby-spotdraft-88fc1f00-e546-463a-8ba0-78bc89a95cc6"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "associate product manager": {
+          "ids": [
+            "ashby-spotdraft-e9146208-bd24-443b-b1d8-96aabd292538"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "UiPath": {
+      "daily": {
+        "2026-10-05": {
+          "total": 98,
+          "eng": 38
+        }
+      },
+      "pm": {
+        "director product management governance": {
+          "ids": [
+            "ashby-uipath-bd2f849d-7704-4911-9b1c-81d826b5742b"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "principal product manager agentic business orchestration automation": {
+          "ids": [
+            "ashby-uipath-156df09a-6227-477a-9b91-0b44ce5d8232"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "principal product manager": {
+          "ids": [
+            "ashby-uipath-e41372e5-177d-4ed4-9dbf-a434af42458f"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager agentic orchestration automation": {
+          "ids": [
+            "ashby-uipath-8a690471-c33d-4283-a839-dfe3c6dbd014"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Sprinklr": {
+      "daily": {
+        "2026-10-05": {
+          "total": 22,
+          "eng": 1
+        }
+      },
+      "pm": {
+        "senior vice president product management sprinklr service": {
+          "ids": [
+            "workday-sprinklr-/job/United-States---Texas---Austin/Senior-Vice-President--Product-Management--Sprinklr-Service_113262-JOB"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Spyne": {
+      "daily": {
+        "2026-10-05": {
+          "total": 28,
+          "eng": 10
+        }
+      },
+      "pm": {
+        "ai product manager": {
+          "ids": [
+            "keka-spyneai-63606"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "director product": {
+          "ids": [
+            "keka-spyneai-49785"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Wing Assistant (M32 AI)": {
+      "daily": {
+        "2026-10-05": {
+          "total": 382,
+          "eng": 18
+        }
+      },
+      "pm": {
+        "customer success product manager": {
+          "ids": [
+            "lever-getwingapp-5f472a55-aff5-40fd-88cd-fc1c928c5880"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager ai": {
+          "ids": [
+            "lever-getwingapp-0de43985-8dcc-4d98-bd58-8307e9e064ec"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager ai sales tech": {
+          "ids": [
+            "lever-getwingapp-9a1ddc3d-c080-41d4-8601-53eb0e95b082"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "product manager b2b saas ai": {
+          "ids": [
+            "lever-getwingapp-178725c3-1606-4561-b300-2df99db48fd6"
+          ],
+          "lastSeen": "2026-10-05"
+        },
+        "technical product manager b2b saas ai": {
+          "ids": [
+            "lever-getwingapp-eb983330-cecc-4800-b65f-f0ca883b1ee5"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Zendesk": {
+      "daily": {
+        "2026-10-05": {
+          "total": 15,
+          "eng": 4
+        }
+      },
+      "pm": {
+        "senior product manager": {
+          "ids": [
+            "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R33982"
+          ],
+          "lastSeen": "2026-10-05"
+        }
+      }
+    },
+    "Netomi": {
+      "daily": {
+        "2026-10-05": {
+          "total": 23,
+          "eng": 12
+        }
+      },
+      "pm": {
+        "agentic product manager": {
+          "ids": [
+            "lever-netomi-a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84"
           ],
           "lastSeen": "2026-10-05"
         }

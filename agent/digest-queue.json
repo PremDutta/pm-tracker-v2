@@ -1126,6 +1126,330 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Digital-Product-Manager_R-567333",
       "source": "Workday (Wells Fargo)",
       "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
+      "title": "Product Manager (Data Ingestion & Delivery)",
+      "company": "Autodesk",
+      "location": "Pune, IND",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
+      "source": "Workday (Autodesk)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-couchbaseinc-4701380006",
+      "title": "Senior Product Manager",
+      "company": "Couchbase",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/couchbaseinc/jobs/4701380006",
+      "source": "Greenhouse (Couchbase)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "ashby-ema-74540ab2-9782-476f-ad0d-78cc2e7717ed",
+      "title": "Product Manager",
+      "company": "Ema",
+      "location": "India - Bengaluru",
+      "url": "https://jobs.ashbyhq.com/ema/74540ab2-9782-476f-ad0d-78cc2e7717ed",
+      "source": "Ashby (Ema)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-gleanwork-4726336005",
+      "title": "Product Manager",
+      "company": "Glean",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
+      "source": "Greenhouse (Glean)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-gleanwork-4629292005",
+      "title": "Product Manager, Connectors",
+      "company": "Glean",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4629292005",
+      "source": "Greenhouse (Glean)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-gleanwork-4641940005",
+      "title": "Product Manager, Glean Protect (Security & Governance)",
+      "company": "Glean",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
+      "source": "Greenhouse (Glean)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "lever-gushwork-c03a9615-f124-424c-8bbd-90d209a68f3d",
+      "title": "Product Manager",
+      "company": "Gushwork",
+      "location": "Bengaluru",
+      "url": "https://jobs.lever.co/gushwork/c03a9615-f124-424c-8bbd-90d209a68f3d",
+      "source": "Lever (Gushwork)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-rhythmx-ai-5320938008",
+      "title": "Technical Product Manager – AI Platform & Interoperability",
+      "company": "GW RhythmX",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/rhythmx-ai/jobs/5320938008",
+      "source": "Greenhouse (GW RhythmX)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "ashby-HackerOne-c061590a-f169-4741-a0ae-a3f9b310cc09",
+      "title": "AI Product Manager",
+      "company": "HackerOne",
+      "location": "Pune",
+      "url": "https://jobs.ashbyhq.com/HackerOne/c061590a-f169-4741-a0ae-a3f9b310cc09",
+      "source": "Ashby (HackerOne)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-harnessinc-5176776007",
+      "title": "Staff Product Manager - Continuous Deployment",
+      "company": "Harness",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.harness.io/company/jobs/apply?gh_jid=5176776007&gh_jid=5176776007",
+      "source": "Greenhouse (Harness)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "lever-hevodata-c665b22f-6336-4ec2-88d8-4165f51d5396",
+      "title": "Product Manager",
+      "company": "Hevo Data",
+      "location": "Bangalore, India",
+      "url": "https://jobs.lever.co/hevodata/c665b22f-6336-4ec2-88d8-4165f51d5396",
+      "source": "Lever (Hevo Data)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-karat-8842979002",
+      "title": "Principal Product Manager - Hiring Manager Experience (India)",
+      "company": "Karat",
+      "location": "Remote (India - Bangalore ONLY)",
+      "url": "https://job-boards.greenhouse.io/karat/jobs/8842979002",
+      "source": "Greenhouse (Karat)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-karat-8843016002",
+      "title": "Senior Product Manager - Recruiter Experience (India)",
+      "company": "Karat",
+      "location": "Remote (India - Bangalore ONLY)",
+      "url": "https://job-boards.greenhouse.io/karat/jobs/8843016002",
+      "source": "Greenhouse (Karat)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "keka-lyzr-41788",
+      "title": "Product Manager",
+      "company": "Lyzr",
+      "location": "Bengaluru, Chennai",
+      "url": "https://lyzr.keka.com/careers/jobdetails/41788",
+      "source": "Keka (Lyzr)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "keka-mihup-160594",
+      "title": "Senior Product Manager",
+      "company": "Mihup",
+      "location": "Bengaluru",
+      "url": "https://mihup.keka.com/careers/jobdetails/160594",
+      "source": "Keka (Mihup)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-mongodb-8094528",
+      "title": "Senior Product Manager",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8094528",
+      "source": "Greenhouse (MongoDB)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654",
+      "title": "Product Manager - Business Intelligence & Analytics",
+      "company": "Motorola Solutions",
+      "location": "Bangalore, India",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654",
+      "source": "Workday (Motorola Solutions)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "lever-netomi-a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
+      "title": "Agentic Product Manager",
+      "company": "Netomi",
+      "location": "Gurugram",
+      "url": "https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
+      "source": "Lever (Netomi)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "lever-neuron7-e9d47d0d-6f19-4a59-8bf9-561d721b9efe",
+      "title": "Lead Product Manager – Agentic Experiences | Bangalore",
+      "company": "Neuron7.ai",
+      "location": "Bengaluru",
+      "url": "https://jobs.lever.co/neuron7/e9d47d0d-6f19-4a59-8bf9-561d721b9efe",
+      "source": "Lever (Neuron7.ai)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "keka-nurix-17249",
+      "title": "Product Manager",
+      "company": "Nurix AI",
+      "location": "Bengaluru",
+      "url": "https://nurix.keka.com/careers/jobdetails/17249",
+      "source": "Keka (Nurix AI)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-onetrust-8207523",
+      "title": "Staff Product Manager",
+      "company": "OneTrust",
+      "location": "Bengaluru, India",
+      "url": "https://job-boards.greenhouse.io/onetrust/jobs/8207523",
+      "source": "Greenhouse (OneTrust)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-rubrik-7508560",
+      "title": "Director,Product Design",
+      "company": "Rubrik",
+      "location": "Bangalore,India",
+      "url": "https://www.rubrik.com/company/careers/departments/job.7508560?gh_jid=7508560",
+      "source": "Greenhouse (Rubrik)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-rubrik-7976001",
+      "title": "Senior Product Manager-Identity Resilience",
+      "company": "Rubrik",
+      "location": "Bangalore, India",
+      "url": "https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001",
+      "source": "Greenhouse (Rubrik)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "lever-saviynt-53b6e38f-ed8d-4764-bc39-8671961ca8c7",
+      "title": "Staff Product Manager (Partner & Developer Ecosystem)",
+      "company": "Saviynt",
+      "location": "Bengaluru",
+      "url": "https://jobs.lever.co/saviynt/53b6e38f-ed8d-4764-bc39-8671961ca8c7",
+      "source": "Lever (Saviynt)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-sigmoid-8041196002",
+      "title": "Product Manager",
+      "company": "Sigmoid",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
+      "source": "Greenhouse (Sigmoid)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-simpplr-6138700004",
+      "title": "Senior Product Manager – Enterprise Search",
+      "company": "Simpplr",
+      "location": "Bengaluru, India; Gurugram, India",
+      "url": "https://job-boards.greenhouse.io/simpplr/jobs/6138700004",
+      "source": "Greenhouse (Simpplr)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "ashby-spotdraft-4c635c45-27c4-4e53-892d-da09156ef0e6",
+      "title": "Product Manager",
+      "company": "SpotDraft",
+      "location": "SpotDraft HQ, Bengaluru",
+      "url": "https://jobs.ashbyhq.com/spotdraft/4c635c45-27c4-4e53-892d-da09156ef0e6",
+      "source": "Ashby (SpotDraft)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "ashby-spotdraft-88fc1f00-e546-463a-8ba0-78bc89a95cc6",
+      "title": "Product Manager - AI",
+      "company": "SpotDraft",
+      "location": "SpotDraft HQ, Bengaluru",
+      "url": "https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6",
+      "source": "Ashby (SpotDraft)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "ashby-spotdraft-e9146208-bd24-443b-b1d8-96aabd292538",
+      "title": "Associate Product Manager",
+      "company": "SpotDraft",
+      "location": "SpotDraft HQ, Bengaluru",
+      "url": "https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538",
+      "source": "Ashby (SpotDraft)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "keka-spyneai-63606",
+      "title": "AI Product Manager",
+      "company": "Spyne",
+      "location": "Gurgaon",
+      "url": "https://spyneai.keka.com/careers/jobdetails/63606",
+      "source": "Keka (Spyne)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "keka-spyneai-49785",
+      "title": "Director - Product",
+      "company": "Spyne",
+      "location": "Gurgaon",
+      "url": "https://spyneai.keka.com/careers/jobdetails/49785",
+      "source": "Keka (Spyne)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "lever-getwingapp-c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
+      "title": "Product Manager - AI",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "India",
+      "url": "https://jobs.lever.co/getwingapp/c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R33982",
+      "title": "Senior Product Manager",
+      "company": "Zendesk",
+      "location": "Pune, India",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R33982",
+      "source": "Workday (Zendesk)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "workday-zendesk-/job/Pune-India/Principal-Product-Manager_R35027-1",
+      "title": "Senior Product Manager",
+      "company": "Zendesk",
+      "location": "Pune, India",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Principal-Product-Manager_R35027-1",
+      "source": "Workday (Zendesk)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R34220",
+      "title": "Senior Product Manager",
+      "company": "Zendesk",
+      "location": "Pune, India",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R34220",
+      "source": "Workday (Zendesk)",
+      "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "vc-lightspeed-8052",
+      "title": "Product Manager",
+      "company": "Infoblox",
+      "location": "Bangalore, Karnataka, India, Infoblox Technical Support and Software Development Private Limited, Bangalore, Karnataka, IN",
+      "url": "https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8052/",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-10-05"
     }
   ],
   "signals": [
@@ -1137,6 +1461,12 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
       "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
       "detail": "closed 2026-09-30, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-05",
+      "detail": "147 engineering openings vs a usual 36"
     }
   ],
   "reminders": {}
