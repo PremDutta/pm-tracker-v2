@@ -21,6 +21,7 @@ import NewBadge from './components/NewBadge';
 import Announcements from './components/Announcements';
 import { getCardStyle, getBtnPrimaryStyle, getBtnSecondaryStyle, getTabButtonStyle, getBadgeStyle } from './styles';
 import { PLATFORMS } from './data/platforms';
+import { COMPANY_DIRECTORY } from './data/companyDirectory';
 import { ROLES, FRESHNESS_OPTIONS, EXPERIENCE_LEVELS, roleByKeyword } from './data/roles';
 
 export default function App() {
@@ -96,7 +97,7 @@ export default function App() {
             <div style={{ width:'40px', height:'40px', borderRadius:'12px', background:t.gradient1, display:'flex', alignItems:'center', justifyContent:'center', fontSize:'20px', boxShadow:'0 4px 12px rgba(102,126,234,0.4)' }}>🎯</div>
             <div>
               <h1 style={{ margin:0, fontSize:'19px', fontWeight:'600', letterSpacing:'-0.3px', color:t.text }}>PM Jobs Tracker</h1>
-              <p className="nav-sub" style={{ margin:0, fontSize:'11px', color:t.textSecondary }}>28 platforms • updated daily</p>
+              <p className="nav-sub" style={{ margin:0, fontSize:'11px', color:t.textSecondary }}>PM roles in India · scanned every 6 hours</p>
             </div>
           </button>
           <div className="nav-controls" style={{ display:'flex', alignItems:'center', gap:'12px', flexWrap:'wrap' }}>
@@ -222,7 +223,7 @@ export default function App() {
       </main>
 
       <footer style={{ borderTop:`1px solid ${t.border}`, padding:'20px', textAlign:'center', position:'relative', zIndex:10 }}>
-        <p style={{ fontSize:'12px', color:t.textSecondary, margin:0 }}>PM Jobs Tracker • 28 platforms • Built for Product Managers in India 🇮🇳</p>
+        <p style={{ fontSize:'12px', color:t.textSecondary, margin:0 }}>PM Jobs Tracker · {COMPANY_DIRECTORY.length} companies · {Object.keys(PLATFORMS).length} job boards · Built for Product Managers in India 🇮🇳</p>
       </footer>
 
       <style>{`

@@ -35,7 +35,8 @@ const isoDaysFromToday = (n) => {
 test('renders the home page without crashing', () => {
   render(<App />);
   expect(screen.getByText('PM Jobs Tracker')).toBeInTheDocument();
-  expect(screen.getByText(/Find every PM job/i)).toBeInTheDocument();
+  expect(screen.getByRole('heading', { name: /Every PM role in India\.\s*Found before the crowd\./ })).toBeInTheDocument();
+  expect(screen.getByText(/Live · \d+ companies, YC & \d+ govt orgs scanned every 6 hours/)).toBeInTheDocument();
 });
 
 test('Govt & PSU: filters orgs, and opening a careers page records it as checked', async () => {

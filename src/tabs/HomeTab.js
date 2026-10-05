@@ -1,16 +1,28 @@
 import React, { useState } from 'react';
-import { Briefcase, Lightbulb, MapPin, Bell, MessageSquare, Globe, Zap, ArrowRight, Award, Sparkles } from 'lucide-react';
+import { Briefcase, Lightbulb, Zap, ArrowRight, Award, Sparkles, Building, RefreshCw, Bot, Landmark } from 'lucide-react';
+import { COMPANY_DIRECTORY } from '../data/companyDirectory';
+import { GOVT_ORGS } from '../data/govtOrgs';
+import { PLATFORMS } from '../data/platforms';
 import { GOOGLE_HACKS } from '../data/googleHacks';
 import { recentFeatures } from '../data/whatsNew';
 import NewBadge from '../components/NewBadge';
 
+// Counted from the data, so the landing page never goes stale again.
+const COUNTS = {
+  companies: COMPANY_DIRECTORY.length,
+  scanned: COMPANY_DIRECTORY.filter(c => c.scanned).length,
+  ai: COMPANY_DIRECTORY.filter(c => c.sector === 'ai').length,
+  govt: GOVT_ORGS.length,
+  boards: Object.keys(PLATFORMS).length,
+};
+
 const STATS = [
-  { n:'28+', label:'Job Platforms', icon: Briefcase, gradientKey:'gradient1' },
-  { n:String(GOOGLE_HACKS.length), label:'Search Hacks', icon: Lightbulb, gradientKey:'gradient5' },
-  { n:'12',  label:'Indian Cities', icon: MapPin,     gradientKey:'gradient4' },
-  { n:'6',   label:'Alert Systems', icon: Bell,        gradientKey:'gradient3' },
-  { n:'10+', label:'Templates',     icon: MessageSquare, gradientKey:'gradient2' },
-  { n:'4',   label:'Countries',     icon: Globe, gradient:'linear-gradient(135deg,#a18cd1 0%,#fbc2eb 100%)' },
+  { n:String(COUNTS.companies), label:'Companies tracked', icon: Building, gradientKey:'gradient1' },
+  { n:String(COUNTS.scanned), label:'Scanned every 6 hours', icon: RefreshCw, gradientKey:'gradient4' },
+  { n:String(COUNTS.ai), label:'AI companies', icon: Bot, gradientKey:'gradient3' },
+  { n:String(COUNTS.govt), label:'Govt & PSU orgs', icon: Landmark, gradientKey:'gradient2' },
+  { n:String(COUNTS.boards), label:'Job boards', icon: Briefcase, gradientKey:'gradient5' },
+  { n:String(GOOGLE_HACKS.length), label:'Search hacks', icon: Lightbulb, gradient:'linear-gradient(135deg,#a18cd1 0%,#fbc2eb 100%)' },
 ];
 
 const FEATURES = [
@@ -50,17 +62,22 @@ export default function HomeTab({
       <section style={{ textAlign:'center', padding:'60px 0 72px' }}>
         <div style={{ display:'inline-flex', alignItems:'center', gap:'8px', padding:'7px 16px', background:t.name==='dark'?'rgba(48,209,88,0.15)':'rgba(52,199,89,0.1)', borderRadius:'980px', marginBottom:'24px' }}>
           <div style={{ width:'7px', height:'7px', borderRadius:'50%', background:t.success, animation:'pulse 2s infinite' }}/>
-          <span style={{ fontSize:'13px', color:t.success, fontWeight:'600' }}>Live • 28 platforms connected</span>
+          <span style={{ fontSize:'13px', color:t.success, fontWeight:'600' }}>Live · {COUNTS.scanned} companies, YC & {COUNTS.govt} govt orgs scanned every 6 hours</span>
         </div>
         <h1 style={{ fontSize:'clamp(44px,10vw,80px)', fontWeight:'700', letterSpacing:'-0.04em', lineHeight:'1.05', margin:'0 0 24px', color:t.text }}>
-          Find every PM job.<br/><span style={{ background:t.gradient3, WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', backgroundClip:'text' }}>Apply first. Win.</span>
+          Every PM role in India.<br/><span style={{ background:t.gradient3, WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', backgroundClip:'text' }}>Found before the crowd.</span>
         </h1>
-        <p style={{ fontSize:'20px', color:t.textSecondary, lineHeight:'1.6', maxWidth:'580px', margin:'0 auto 40px', fontWeight:'400' }}>
-          28 platforms • Application tracker • Company watchlist •<br/>Resume match. Everything to land your next PM role.
+        <p style={{ fontSize:'20px', color:t.textSecondary, lineHeight:'1.6', maxWidth:'640px', margin:'0 auto 40px', fontWeight:'400' }}>
+          Senior, Group and AI PM roles from {COUNTS.companies} companies, YC startups and govt & PSU orgs, plus hiring signals that show who's about to hire. One 8&nbsp;AM digest, so you apply first.
         </p>
         <div style={{ display:'flex', gap:'14px', justifyContent:'center', flexWrap:'wrap' }}>
-          <button onClick={openAllIndia} style={btnPrimary}><Zap size={18}/>{isOpening?'Opening…':'Open All India Platforms'}<ArrowRight size={16}/></button>
-          <button onClick={()=>setActiveTab('hacks')} style={btnSecondary}><Lightbulb size={16}/>Unlock Hacks</button>
+          <button onClick={()=>setActiveTab('companies')} style={btnPrimary}><Building size={18}/>See live PM roles<ArrowRight size={16}/></button>
+          <button onClick={()=>setActiveTab('ai')} style={btnSecondary}><Bot size={16}/>AI PM roles</button>
+        </div>
+        <div style={{ marginTop:'14px' }}>
+          <button onClick={openAllIndia} style={{ background:'none', border:'none', color:t.textSecondary, fontSize:'13px', cursor:'pointer', display:'inline-flex', alignItems:'center', gap:'6px' }}>
+            <Zap size={13}/>{isOpening ? 'Opening…' : `Or open all ${COUNTS.boards} job boards at once`}
+          </button>
         </div>
       </section>
 
