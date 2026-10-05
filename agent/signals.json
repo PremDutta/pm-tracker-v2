@@ -2,6 +2,14 @@
   "signals": [
     {
       "type": "funding",
+      "company": "Scooter",
+      "title": "Sales hiring startup Scooter raises Rs 1.5 Cr pre-seed round",
+      "url": "https://entrackr.com/snippets/sales-hiring-startup-scooter-raises-rs-15-cr-pre-seed-round-12624249",
+      "date": "2026-10-05",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
       "company": "Bangalore Watch Company",
       "title": "Bangalore Watch Company raises $1.4 Mn in seed round from customers, family office, HNIs",
       "url": "https://entrackr.com/snippets/bangalore-watch-company-raises-14-mn-in-seed-round-from-customers-family-office-hnis-12611688",
@@ -120,6 +128,14 @@
       "url": "https://entrackr.com/snippets/beauty-and-wellness-startup-amaani-raises-5-mn-led-by-beco-capital-12583526",
       "date": "2026-09-28",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Amaani",
+      "title": "Amaani raises $5M in Series A",
+      "url": "https://yourstory.com/2026/09/amaani-raises-5-million-in-series-a",
+      "date": "2026-09-28",
+      "detail": "via YourStory"
     },
     {
       "type": "funding",

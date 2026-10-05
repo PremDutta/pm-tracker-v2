@@ -127,7 +127,7 @@
           "eng": 263
         },
         "2026-10-05": {
-          "total": 639,
+          "total": 638,
           "eng": 264
         }
       },
@@ -386,7 +386,7 @@
           "eng": 56
         },
         "2026-10-05": {
-          "total": 137,
+          "total": 136,
           "eng": 56
         }
       },
@@ -883,8 +883,8 @@
           "eng": 36
         },
         "2026-10-05": {
-          "total": 169,
-          "eng": 36
+          "total": 168,
+          "eng": 35
         }
       },
       "pm": {}
@@ -1148,7 +1148,7 @@
           "eng": 412
         },
         "2026-10-05": {
-          "total": 827,
+          "total": 828,
           "eng": 411
         }
       },
@@ -1567,7 +1567,7 @@
           "eng": 6
         },
         "2026-10-05": {
-          "total": 56,
+          "total": 57,
           "eng": 6
         }
       },
@@ -1959,7 +1959,7 @@
           "eng": 1
         },
         "2026-10-05": {
-          "total": 23,
+          "total": 26,
           "eng": 1
         }
       },
@@ -2121,7 +2121,7 @@
           "eng": 6
         },
         "2026-10-05": {
-          "total": 145,
+          "total": 144,
           "eng": 6
         }
       },
@@ -2228,7 +2228,7 @@
           "eng": 4
         },
         "2026-10-05": {
-          "total": 89,
+          "total": 88,
           "eng": 4
         }
       },
@@ -2395,7 +2395,8 @@
           "ids": [
             "amazon-10464978"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
         },
         "senior product manager rbs organization excellence": {
           "ids": [
@@ -2768,7 +2769,7 @@
         },
         "2026-10-05": {
           "total": 72,
-          "eng": 9
+          "eng": 10
         }
       },
       "pm": {
@@ -2931,7 +2932,7 @@
           "eng": 13
         },
         "2026-10-05": {
-          "total": 40,
+          "total": 42,
           "eng": 13
         }
       },
@@ -2989,7 +2990,7 @@
           "eng": 3
         },
         "2026-10-05": {
-          "total": 12,
+          "total": 11,
           "eng": 3
         }
       },
@@ -3054,8 +3055,8 @@
           "eng": 36
         },
         "2026-10-05": {
-          "total": 88,
-          "eng": 36
+          "total": 89,
+          "eng": 35
         }
       },
       "pm": {
@@ -3251,7 +3252,7 @@
         },
         "2026-10-05": {
           "total": 100,
-          "eng": 35
+          "eng": 34
         }
       },
       "pm": {
@@ -3391,7 +3392,7 @@
         },
         "2026-10-05": {
           "total": 100,
-          "eng": 11
+          "eng": 10
         }
       },
       "pm": {}
@@ -3477,8 +3478,8 @@
           "eng": 4
         },
         "2026-10-05": {
-          "total": 8,
-          "eng": 4
+          "total": 6,
+          "eng": 2
         }
       },
       "pm": {}
@@ -3704,7 +3705,7 @@
           "eng": 2
         },
         "2026-10-05": {
-          "total": 20,
+          "total": 21,
           "eng": 2
         }
       },
@@ -3969,8 +3970,8 @@
           "eng": 57
         },
         "2026-10-05": {
-          "total": 115,
-          "eng": 57
+          "total": 118,
+          "eng": 58
         }
       },
       "pm": {
@@ -4028,7 +4029,8 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Director-Product-Management---Technical---AI-transformation_R-290799-1"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
         },
         "lead product manager technical": {
           "ids": [
@@ -4290,8 +4292,8 @@
           "eng": 36
         },
         "2026-10-05": {
-          "total": 101,
-          "eng": 36
+          "total": 102,
+          "eng": 37
         }
       },
       "pm": {
@@ -4352,7 +4354,7 @@
           "eng": 4
         },
         "2026-10-05": {
-          "total": 25,
+          "total": 24,
           "eng": 4
         }
       },
@@ -4461,7 +4463,7 @@
           "eng": 9
         },
         "2026-10-05": {
-          "total": 27,
+          "total": 24,
           "eng": 9
         }
       },
@@ -4482,7 +4484,8 @@
           "ids": [
             "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management_R0000448638"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
         },
         "sr product manager media measurements": {
           "ids": [
@@ -4558,8 +4561,8 @@
           "eng": 42
         },
         "2026-10-05": {
-          "total": 67,
-          "eng": 42
+          "total": 66,
+          "eng": 41
         }
       },
       "pm": {
@@ -4687,7 +4690,7 @@
           "eng": 22
         },
         "2026-10-05": {
-          "total": 60,
+          "total": 72,
           "eng": 22
         }
       },
@@ -4718,7 +4721,8 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-575518-1"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
         },
         "lead digital product manager web and mobile banking": {
           "ids": [
@@ -4726,6 +4730,12 @@
           ],
           "lastSeen": "2026-10-03",
           "closedOn": "2026-10-03"
+        },
+        "senior digital product manager": {
+          "ids": [
+            "workday-wf-/job/Hyderabad-India/Senior-Digital-Product-Manager_R-567333"
+          ],
+          "lastSeen": "2026-10-05"
         }
       }
     },
@@ -4752,8 +4762,8 @@
           "eng": 29
         },
         "2026-10-05": {
-          "total": 65,
-          "eng": 28
+          "total": 68,
+          "eng": 30
         }
       },
       "pm": {}
@@ -4782,7 +4792,7 @@
         },
         "2026-10-05": {
           "total": 200,
-          "eng": 36
+          "eng": 35
         }
       },
       "pm": {
@@ -4879,8 +4889,8 @@
           "eng": 35
         },
         "2026-10-05": {
-          "total": 67,
-          "eng": 35
+          "total": 69,
+          "eng": 37
         }
       },
       "pm": {
@@ -4911,7 +4921,8 @@
           "ids": [
             "eightfold-microsoft.com-1970393556962542"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-05",
+          "closedOn": "2026-10-05"
         },
         "product management intern": {
           "ids": [
