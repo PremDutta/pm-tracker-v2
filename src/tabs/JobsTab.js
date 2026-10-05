@@ -2,7 +2,9 @@ import React, { useState } from 'react';
 import { MapPin, ExternalLink, Rocket, ThumbsUp } from 'lucide-react';
 import { PLATFORMS } from '../data/platforms';
 import { INDIA_LOCATIONS } from '../data/locations';
-import { FRESHNESS_OPTIONS, EXPERIENCE_LEVELS } from '../data/roles';
+import { FRESHNESS_OPTIONS, EXPERIENCE_LEVELS, roleByKeyword } from '../data/roles';
+import { linkedinSinceUrl, linkedinSemanticUrl } from '../data/linkedin';
+import NewBadge from '../components/NewBadge';
 import { getPlatformMeta, markPlatformChecked, markPlatformUseful, timeAgo } from '../storage';
 
 const REGIONS = [
@@ -46,6 +48,36 @@ export default function JobsTab({
           </button>
         ))}
       </div>
+
+      {/* LinkedIn power links: its newer semantic search + "posted since" cutoff */}
+      {(() => {
+        const role = roleByKeyword(selectedRole);
+        const last = platformMeta.linkedin?.lastChecked;
+        const links = [
+          { label: last ? `New since your last check (${timeAgo(last)})` : 'Posted in the last 24 hours', href: linkedinSinceUrl(role, last), primary: true },
+          { label: 'AI search: all levels & work modes', href: linkedinSemanticUrl(role) },
+          { label: 'AI search: AI / GenAI / ML roles', href: linkedinSemanticUrl(role, { ai: true }) },
+        ];
+        return (
+          <div id="linkedin-power" style={{ ...card, marginBottom:'28px', scrollMarginTop:'140px' }}>
+            <div style={{ display:'flex', alignItems:'center', gap:'8px', marginBottom:'4px', flexWrap:'wrap' }}>
+              <h3 style={{ margin:0, fontSize:'17px', fontWeight:'600' }}>💼 LinkedIn power links</h3>
+              <NewBadge id="jobs:linkedin-power" t={t} />
+            </div>
+            <p style={{ margin:'0 0 12px', fontSize:'13px', color:t.textSecondary }}>
+              LinkedIn's newer AI job search for <strong>{role.keyword}</strong> in India. "New since your last check" shows only jobs posted after you last opened LinkedIn from here: no repeats, nothing missed.
+            </p>
+            <div style={{ display:'flex', gap:'8px', flexWrap:'wrap' }}>
+              {links.map(l => (
+                <a key={l.label} href={l.href} target="_blank" rel="noopener noreferrer" onClick={()=>trackPlatformClick('linkedin')}
+                  style={{ ...(l.primary ? btnPrimary : { ...btnPrimary, background:t.cardBg, color:t.text, border:`1px solid ${t.border}`, boxShadow:'none' }), padding:'9px 16px', fontSize:'13px' }}>
+                  {l.label} <ExternalLink size={12}/>
+                </a>
+              ))}
+            </div>
+          </div>
+        );
+      })()}
 
       {/* Quick Launch */}
       <div style={{ ...card, marginBottom:'28px', background:t.name==='dark'?'linear-gradient(135deg,rgba(10,132,255,0.12) 0%,rgba(102,126,234,0.12) 100%)':'linear-gradient(135deg,rgba(0,113,227,0.06) 0%,rgba(102,126,234,0.06) 100%)' }}>
