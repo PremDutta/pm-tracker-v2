@@ -1477,6 +1477,42 @@
       "url": "https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645",
       "source": "Lever (Meesho)",
       "queuedOn": "2026-10-05"
+    },
+    {
+      "id": "ashby-ramp-3f4509ad-1858-478b-a7fb-bcd792d9575a",
+      "title": "Product Manager | Procurement",
+      "company": "Ramp",
+      "location": "New York, NY (HQ)",
+      "url": "https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a",
+      "source": "Ashby (Ramp)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000153567049",
+      "title": "Sr Inbound Product Manager",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153567049",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "vc-lightspeed-32f0fce0-7106-4eb9-911e-b445daa7abab",
+      "title": "Product Manager (Expense Management)",
+      "company": "Aspire",
+      "location": "IN (Gurgaon), India",
+      "url": "https://revolutpeople.com/aspire/public/careers/position/32f0fce0-7106-4eb9-911e-b445daa7abab/",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "vc-lightspeed-4699107005",
+      "title": "Product Manager II - AI",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-10-06"
     }
   ],
   "signals": [
