@@ -135,8 +135,8 @@
           "eng": 268
         },
         "2026-10-06": {
-          "total": 644,
-          "eng": 269
+          "total": 643,
+          "eng": 268
         }
       },
       "pm": {
@@ -937,7 +937,7 @@
         },
         "2026-10-06": {
           "total": 140,
-          "eng": 32
+          "eng": 33
         }
       },
       "pm": {}
@@ -1034,7 +1034,7 @@
           "eng": 33
         },
         "2026-10-06": {
-          "total": 162,
+          "total": 161,
           "eng": 33
         }
       },
@@ -2274,8 +2274,8 @@
           "eng": 6
         },
         "2026-10-06": {
-          "total": 144,
-          "eng": 6
+          "total": 143,
+          "eng": 5
         }
       },
       "pm": {
@@ -2314,8 +2314,8 @@
           "eng": 12
         },
         "2026-10-06": {
-          "total": 34,
-          "eng": 12
+          "total": 35,
+          "eng": 13
         }
       },
       "pm": {
@@ -2393,7 +2393,7 @@
           "eng": 4
         },
         "2026-10-06": {
-          "total": 88,
+          "total": 87,
           "eng": 4
         }
       },
@@ -2445,7 +2445,8 @@
           "ids": [
             "amazon-10463320"
           ],
-          "lastSeen": "2026-10-06"
+          "lastSeen": "2026-10-06",
+          "closedOn": "2026-10-06"
         },
         "product manager value added services": {
           "ids": [
@@ -2776,7 +2777,7 @@
           "eng": 7
         },
         "2026-10-06": {
-          "total": 37,
+          "total": 38,
           "eng": 6
         }
       },
@@ -2954,8 +2955,8 @@
           "eng": 10
         },
         "2026-10-06": {
-          "total": 72,
-          "eng": 10
+          "total": 71,
+          "eng": 9
         }
       },
       "pm": {
@@ -3126,8 +3127,8 @@
           "eng": 13
         },
         "2026-10-06": {
-          "total": 42,
-          "eng": 13
+          "total": 43,
+          "eng": 14
         }
       },
       "pm": {}
@@ -3192,7 +3193,7 @@
           "eng": 3
         },
         "2026-10-06": {
-          "total": 11,
+          "total": 10,
           "eng": 3
         }
       },
@@ -3225,7 +3226,7 @@
           "eng": 30
         },
         "2026-10-06": {
-          "total": 46,
+          "total": 45,
           "eng": 30
         }
       },
@@ -3266,7 +3267,7 @@
         },
         "2026-10-06": {
           "total": 85,
-          "eng": 33
+          "eng": 32
         }
       },
       "pm": {
@@ -3435,8 +3436,8 @@
           "eng": 11
         },
         "2026-10-06": {
-          "total": 23,
-          "eng": 11
+          "total": 24,
+          "eng": 12
         }
       },
       "pm": {
@@ -3482,7 +3483,7 @@
         },
         "2026-10-06": {
           "total": 100,
-          "eng": 41
+          "eng": 44
         }
       },
       "pm": {
@@ -3632,7 +3633,7 @@
         },
         "2026-10-06": {
           "total": 100,
-          "eng": 7
+          "eng": 6
         }
       },
       "pm": {}
@@ -3803,7 +3804,7 @@
           "eng": 9
         },
         "2026-10-06": {
-          "total": 174,
+          "total": 176,
           "eng": 9
         }
       },
@@ -3909,7 +3910,7 @@
           "eng": 19
         },
         "2026-10-06": {
-          "total": 91,
+          "total": 90,
           "eng": 19
         }
       },
@@ -3973,8 +3974,8 @@
           "eng": 2
         },
         "2026-10-06": {
-          "total": 19,
-          "eng": 2
+          "total": 21,
+          "eng": 3
         }
       },
       "pm": {
@@ -4091,8 +4092,8 @@
           "eng": 28
         },
         "2026-10-06": {
-          "total": 59,
-          "eng": 28
+          "total": 60,
+          "eng": 30
         }
       },
       "pm": {
@@ -4168,7 +4169,7 @@
         },
         "2026-10-06": {
           "total": 100,
-          "eng": 34
+          "eng": 32
         }
       },
       "pm": {
@@ -4243,6 +4244,12 @@
             "smartrecruiters-ServiceNow-744000153539584"
           ],
           "lastSeen": "2026-10-06"
+        },
+        "sr staff inbound product manager": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000153663349"
+          ],
+          "lastSeen": "2026-10-06"
         }
       }
     },
@@ -4273,8 +4280,8 @@
           "eng": 59
         },
         "2026-10-06": {
-          "total": 121,
-          "eng": 58
+          "total": 127,
+          "eng": 61
         }
       },
       "pm": {
@@ -4370,6 +4377,12 @@
         "cyber risk quantification product manager": {
           "ids": [
             "workday-mastercard-/job/Besiktas-Istanbul-Turkey/Cyber-Risk-Quantification-Product-Manager_R-287126"
+          ],
+          "lastSeen": "2026-10-06"
+        },
+        "lead product manager": {
+          "ids": [
+            "workday-mastercard-/job/Gurgaon-India/Lead-Product-Manager_R-292425-1"
           ],
           "lastSeen": "2026-10-06"
         }
@@ -4502,7 +4515,7 @@
         },
         "2026-10-06": {
           "total": 100,
-          "eng": 1
+          "eng": 2
         }
       },
       "pm": {
@@ -4640,8 +4653,8 @@
           "eng": 37
         },
         "2026-10-06": {
-          "total": 98,
-          "eng": 37
+          "total": 97,
+          "eng": 36
         }
       },
       "pm": {
@@ -4777,7 +4790,7 @@
           "eng": 5
         },
         "2026-10-06": {
-          "total": 49,
+          "total": 50,
           "eng": 5
         }
       },
@@ -4824,7 +4837,7 @@
         },
         "2026-10-06": {
           "total": 24,
-          "eng": 9
+          "eng": 10
         }
       },
       "pm": {
@@ -4832,7 +4845,8 @@
           "ids": [
             "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Senior-Product-Manager---Core-Data---Decision-Intelligence_R0000449196"
           ],
-          "lastSeen": "2026-10-06"
+          "lastSeen": "2026-10-06",
+          "closedOn": "2026-10-06"
         },
         "director of product management": {
           "ids": [
@@ -4929,8 +4943,8 @@
           "eng": 44
         },
         "2026-10-06": {
-          "total": 69,
-          "eng": 44
+          "total": 70,
+          "eng": 46
         }
       },
       "pm": {
@@ -5011,7 +5025,7 @@
         },
         "2026-10-06": {
           "total": 60,
-          "eng": 8
+          "eng": 9
         }
       },
       "pm": {
@@ -5071,8 +5085,8 @@
           "eng": 23
         },
         "2026-10-06": {
-          "total": 77,
-          "eng": 23
+          "total": 81,
+          "eng": 25
         }
       },
       "pm": {
@@ -5148,8 +5162,8 @@
           "eng": 31
         },
         "2026-10-06": {
-          "total": 66,
-          "eng": 31
+          "total": 67,
+          "eng": 32
         }
       },
       "pm": {}
@@ -5244,6 +5258,10 @@
         "2026-10-05": {
           "total": 67,
           "eng": 41
+        },
+        "2026-10-06": {
+          "total": 70,
+          "eng": 44
         }
       },
       "pm": {
@@ -5251,13 +5269,13 @@
           "ids": [
             "eightfold-qualcomm.com-446721309717"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-06"
         },
         "staff director ai hw product management": {
           "ids": [
             "eightfold-qualcomm.com-446717846060"
           ],
-          "lastSeen": "2026-10-05"
+          "lastSeen": "2026-10-06"
         }
       }
     },
@@ -5430,7 +5448,7 @@
           "eng": 575
         },
         "2026-10-06": {
-          "total": 887,
+          "total": 886,
           "eng": 573
         }
       },
@@ -5705,7 +5723,8 @@
         },
         "product manager growth": {
           "ids": [
-            "greenhouse-gleanwork-4702151005"
+            "greenhouse-gleanwork-4702151005",
+            "greenhouse-gleanwork-4702367005"
           ],
           "lastSeen": "2026-10-06"
         }
@@ -5747,7 +5766,8 @@
           "ids": [
             "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1"
           ],
-          "lastSeen": "2026-10-06"
+          "lastSeen": "2026-10-06",
+          "closedOn": "2026-10-06"
         }
       }
     },
@@ -5758,8 +5778,8 @@
           "eng": 9
         },
         "2026-10-06": {
-          "total": 15,
-          "eng": 9
+          "total": 14,
+          "eng": 8
         }
       },
       "pm": {
@@ -5778,8 +5798,8 @@
           "eng": 31
         },
         "2026-10-06": {
-          "total": 67,
-          "eng": 31
+          "total": 66,
+          "eng": 30
         }
       },
       "pm": {
@@ -5948,7 +5968,7 @@
           "eng": 165
         },
         "2026-10-06": {
-          "total": 392,
+          "total": 393,
           "eng": 165
         }
       },
@@ -6095,7 +6115,7 @@
           "eng": 13
         },
         "2026-10-06": {
-          "total": 19,
+          "total": 18,
           "eng": 12
         }
       },
@@ -6135,7 +6155,7 @@
           "eng": 6
         },
         "2026-10-06": {
-          "total": 11,
+          "total": 12,
           "eng": 6
         }
       },
@@ -6148,7 +6168,7 @@
           "eng": 43
         },
         "2026-10-06": {
-          "total": 91,
+          "total": 92,
           "eng": 43
         }
       },
@@ -6174,8 +6194,8 @@
           "eng": 115
         },
         "2026-10-06": {
-          "total": 200,
-          "eng": 115
+          "total": 198,
+          "eng": 114
         }
       },
       "pm": {
@@ -6218,8 +6238,8 @@
           "eng": 38
         },
         "2026-10-06": {
-          "total": 129,
-          "eng": 38
+          "total": 130,
+          "eng": 39
         }
       },
       "pm": {
@@ -6281,7 +6301,7 @@
         },
         "2026-10-06": {
           "total": 656,
-          "eng": 183
+          "eng": 184
         }
       },
       "pm": {
@@ -6416,7 +6436,7 @@
           "eng": 8
         },
         "2026-10-06": {
-          "total": 36,
+          "total": 37,
           "eng": 8
         }
       },
@@ -6456,7 +6476,7 @@
           "eng": 178
         },
         "2026-10-06": {
-          "total": 350,
+          "total": 351,
           "eng": 179
         }
       },

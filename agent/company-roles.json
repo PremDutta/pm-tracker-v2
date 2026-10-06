@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-06T05:13:13.942Z",
+  "scannedAt": "2026-10-06T09:13:02.864Z",
   "roles": {
     "Adobe": [
       {
@@ -189,18 +189,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10551513",
-        "title": "Senior Product Manager, Amazon - Sub Same Day",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10551512",
         "title": "Senior Product Manager, Amazon - Sub Same Day",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10551512/senior-product-manager-amazon-sub-same-day",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10551513",
+        "title": "Senior Product Manager, Amazon - Sub Same Day",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -453,14 +453,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10463320",
-        "title": "Sr. Product Manager, IN Payments",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10463320/sr-product-manager-in-payments",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10476718",
         "title": "Sr. Product Manager, Operations Evaluation, Worldwide Returns and Recommerce",
         "location": "Hyderabad, Telangana, IND",
@@ -509,16 +501,6 @@
         "url": "https://apply.workable.com/j/75D192CDBD",
         "level": "pm",
         "firstSeen": "2026-09-30"
-      }
-    ],
-    "Autodesk": [
-      {
-        "id": "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
-        "title": "Product Manager (Data Ingestion & Delivery)",
-        "location": "Pune, IND",
-        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
       }
     ],
     "Couchbase": [
@@ -729,18 +711,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
+        "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -753,10 +727,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158038",
+        "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1003,6 +985,14 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
         "level": "group",
         "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "workday-mastercard-/job/Gurgaon-India/Lead-Product-Manager_R-292425-1",
+        "title": "Lead Product Manager",
+        "location": "Gurgaon, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Lead-Product-Manager_R-292425-1",
+        "level": "group",
+        "firstSeen": "2026-10-06"
       },
       {
         "id": "workday-mastercard-/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2",
@@ -1793,6 +1783,14 @@
         "firstSeen": "2026-10-05"
       },
       {
+        "id": "smartrecruiters-ServiceNow-744000153663349",
+        "title": "Sr Staff Inbound Product Manager",
+        "location": "Hyderabad, , India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153663349",
+        "level": "group",
+        "firstSeen": "2026-10-06"
+      },
+      {
         "id": "smartrecruiters-ServiceNow-744000153660649",
         "title": "Staff Inbound Product Manager",
         "location": "Hyderabad, Telangana, India",
@@ -1893,14 +1891,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Senior-Product-Manager---Core-Data---Decision-Intelligence_R0000449196",
-        "title": "Senior Product Manager - Core Data & Decision Intelligence",
-        "location": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Senior-Product-Manager---Core-Data---Decision-Intelligence_R0000449196",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "workday-target-/job/BangaloreIndia/Sr-Product-Manager_R0000442398-1",
         "title": "Sr Product Manager  - Media Measurements",
         "location": "Bangalore,India",
@@ -1949,14 +1939,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.wipro.com-198887",
-        "title": "Product Management Consulting",
-        "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198887-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
-      },
-      {
         "id": "sf-careers.wipro.com-198709",
         "title": "Product Management Consulting",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
@@ -1973,12 +1955,12 @@
         "firstSeen": "2026-10-05"
       },
       {
-        "id": "sf-careers.wipro.com-203307",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/203307-en_US/",
+        "id": "sf-careers.wipro.com-200048",
+        "title": "Product Management Consulting",
+        "location": "Hyderabad, IND-36, IND, 500032<br/>",
+        "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
         "level": "pm",
-        "firstSeen": "2026-09-30"
+        "firstSeen": "2026-10-05"
       },
       {
         "id": "sf-careers.wipro.com-201119",
@@ -1989,10 +1971,26 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.wipro.com-203307",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/203307-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "sf-careers.wipro.com-204599",
         "title": "PRODUCT MANAGER L1",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/204599-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.wipro.com-198488",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       },
@@ -2009,14 +2007,6 @@
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198486-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.wipro.com-198488",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       },
@@ -2055,18 +2045,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "zoho-go-yubi-66789000036412626",
-        "title": "Senior Product Manager",
-        "location": "Bangalore South, India",
-        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "zoho-go-yubi-66789000016213700",
         "title": "Senior Product Manager",
         "location": "Chennai, India",
         "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "zoho-go-yubi-66789000036412626",
+        "title": "Senior Product Manager",
+        "location": "Bangalore South, India",
+        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
         "level": "senior",
         "firstSeen": "2026-09-30"
       }
@@ -2236,7 +2226,7 @@
     "Polygon Labs": "2026-10-06",
     "Postman": "2026-10-06",
     "PwC India": "2026-10-06",
-    "Qualcomm": "2026-10-05",
+    "Qualcomm": "2026-10-06",
     "Ramp": "2026-10-06",
     "Razorpay": "2026-10-06",
     "Rippling": "2026-10-06",

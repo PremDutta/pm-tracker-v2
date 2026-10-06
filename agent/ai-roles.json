@@ -34,6 +34,17 @@
       "firstSeen": "2026-10-06"
     },
     {
+      "id": "eightfold-qualcomm.com-446717846060",
+      "title": "Staff/Director – AI HW Product Management",
+      "company": "Qualcomm",
+      "location": "Bangalore, India",
+      "url": "https://careers.qualcomm.com/careers/job/446717846060",
+      "source": "Qualcomm careers",
+      "level": "leadership",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-06"
+    },
+    {
       "id": "vc-peakxv-4699107005",
       "title": "Product Manager II - AI",
       "company": "Razorpay",
@@ -130,17 +141,6 @@
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
-      "title": "Product Manager (Data Ingestion & Delivery)",
-      "company": "Autodesk",
-      "location": "Pune, IND",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
-      "source": "Workday (Autodesk)",
-      "level": "pm",
-      "aiMatch": "company",
       "firstSeen": "2026-10-05"
     },
     {
@@ -1032,17 +1032,6 @@
       "source": "VC board (Accel portfolio)",
       "level": "leadership",
       "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Senior-Product-Manager---Core-Data---Decision-Intelligence_R0000449196",
-      "title": "Senior Product Manager - Core Data & Decision Intelligence",
-      "company": "Target India",
-      "location": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Senior-Product-Manager---Core-Data---Decision-Intelligence_R0000449196",
-      "source": "Workday (Target India)",
-      "level": "senior",
-      "aiMatch": "title",
       "firstSeen": "2026-10-05"
     },
     {
