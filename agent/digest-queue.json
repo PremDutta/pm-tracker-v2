@@ -1513,6 +1513,42 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
       "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000153660649",
+      "title": "Staff Inbound Product Manager",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153660649",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "vc-peakxv-59400",
+      "title": "Product Manager - Credit Card",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59400",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "vc-peakxv-b56573f0-c701-422a-abfa-ac8bbdbfa645",
+      "title": "Product Manager II",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-06"
     }
   ],
   "signals": [

@@ -1,6 +1,30 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "Beyond Appliances",
+      "title": "Fireside leads Rs 110 Cr Series B round in Beyond Appliances",
+      "url": "https://entrackr.com/news/fireside-leads-rs-110-cr-series-b-round-in-beyond-appliances-12627573",
+      "date": "2026-10-06",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "CurvetAI",
+      "title": "CurvetAI raises Rs 6 Cr pre-seed round led by Merak Ventures",
+      "url": "https://entrackr.com/snippets/curvetai-raises-rs-6-cr-pre-seed-round-led-by-merak-ventures-12627784",
+      "date": "2026-10-06",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Kinetic Age",
+      "title": "Kinetic Age raises $250K from AJVC, Agrasar Ventures",
+      "url": "https://entrackr.com/snippets/kinetic-age-raises-250k-from-ajvc-agrasar-ventures-12627734",
+      "date": "2026-10-06",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-10-05",
