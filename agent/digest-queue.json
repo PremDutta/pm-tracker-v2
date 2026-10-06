@@ -1675,6 +1675,60 @@
       "url": "https://job-boards.greenhouse.io/twinhealth/jobs/6217968004",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "greenhouse-asana-8260059",
+      "title": "Product Manager",
+      "company": "Asana",
+      "location": "Vancouver, BC",
+      "url": "https://www.asana.com/jobs/apply/8260059?gh_jid=8260059",
+      "source": "Greenhouse (Asana)",
+      "queuedOn": "2026-10-07"
+    },
+    {
+      "id": "greenhouse-asana-8194540",
+      "title": "Product Manager",
+      "company": "Asana",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8194540?gh_jid=8194540",
+      "source": "Greenhouse (Asana)",
+      "queuedOn": "2026-10-07"
+    },
+    {
+      "id": "ashby-openai-a8210588-a178-4afe-91e7-1fa2d269d2e8",
+      "title": "Product Manager, Financial Services",
+      "company": "OpenAI",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/a8210588-a178-4afe-91e7-1fa2d269d2e8",
+      "source": "Ashby (OpenAI)",
+      "queuedOn": "2026-10-07"
+    },
+    {
+      "id": "ashby-ramp-e0b64893-0459-4d84-ac4f-7b50966ef024",
+      "title": "Product Manager | Growth",
+      "company": "Ramp",
+      "location": "New York, NY (HQ)",
+      "url": "https://jobs.ashbyhq.com/ramp/e0b64893-0459-4d84-ac4f-7b50966ef024",
+      "source": "Ashby (Ramp)",
+      "queuedOn": "2026-10-07"
+    },
+    {
+      "id": "vc-peakxv-4736585005",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-07"
+    },
+    {
+      "id": "vc-peakxv-4715389005",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-07"
     }
   ],
   "signals": [

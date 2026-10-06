@@ -188,28 +188,6 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "vc-lightspeed-ef285596-5640-47e2-a882-cccebe127c45",
-      "title": "AI Product Manager, FinCrime",
-      "company": "Aspire",
-      "location": "IN (Bengaluru), India, IN (Gurgaon), India",
-      "url": "https://revolutpeople.com/aspire/public/careers/position/ef285596-5640-47e2-a882-cccebe127c45/",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "vc-lightspeed-441247",
-      "title": "Product Manager - AI Agents",
-      "company": "Bridgetown Research",
-      "location": "Bangalore",
-      "url": "https://www.instahyre.com/job-441247-product-manager-ai-agents-at-bridgetown-research-bangalore/",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "greenhouse-couchbaseinc-4701380006",
       "title": "Senior Product Manager",
       "company": "Couchbase",
@@ -254,34 +232,12 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "vc-lightspeed-4726336005",
-      "title": "Product Manager",
-      "company": "Glean",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "greenhouse-gleanwork-4629292005",
       "title": "Product Manager, Connectors",
       "company": "Glean",
       "location": "Bangalore, India",
       "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4629292005",
       "source": "Greenhouse (Glean)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "vc-lightspeed-4629292005",
-      "title": "Product Manager, Connectors",
-      "company": "Glean",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4629292005",
-      "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"
@@ -298,34 +254,12 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "vc-lightspeed-4641940005",
-      "title": "Product Manager, Glean Protect (Security & Governance)",
-      "company": "Glean",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "lever-gushwork-c03a9615-f124-424c-8bbd-90d209a68f3d",
       "title": "Product Manager",
       "company": "Gushwork",
       "location": "Bengaluru",
       "url": "https://jobs.lever.co/gushwork/c03a9615-f124-424c-8bbd-90d209a68f3d",
       "source": "Lever (Gushwork)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "vc-lightspeed-c03a9615-f124-424c-8bbd-90d209a68f3d",
-      "title": "Product Manager",
-      "company": "Gushwork",
-      "location": "Bengaluru",
-      "url": "https://jobs.lever.co/gushwork/c03a9615-f124-424c-8bbd-90d209a68f3d",
-      "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"
@@ -749,17 +683,6 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "vc-lightspeed-30ecc735-369a-429f-8df5-585b1516cef7",
-      "title": "Product Manager, Payroll Integrations",
-      "company": "Rippling",
-      "location": "Bangalore, India",
-      "url": "https://ats.rippling.com/rippling/jobs/30ecc735-369a-429f-8df5-585b1516cef7",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "greenhouse-rubrik-7508560",
       "title": "Director,Product Design",
       "company": "Rubrik",
@@ -793,34 +716,12 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "vc-lightspeed-c4bb3b2c-7608-4d57-8761-650b4222ac13",
-      "title": "Product Manager",
-      "company": "Sarvam AI",
-      "location": "Bengaluru, Karnataka, India, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "ashby-sarvam-c4099026-b194-4b16-8a12-c7ae1a9b51a0",
       "title": "Product Manager - Chanakya",
       "company": "Sarvam AI",
       "location": "Delhi",
       "url": "https://jobs.ashbyhq.com/sarvam/c4099026-b194-4b16-8a12-c7ae1a9b51a0",
       "source": "Ashby (Sarvam AI)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "vc-lightspeed-c4099026-b194-4b16-8a12-c7ae1a9b51a0",
-      "title": "Product Manager - Chanakya",
-      "company": "Sarvam AI",
-      "location": "Delhi, Delhi, India, Delhi",
-      "url": "https://jobs.ashbyhq.com/sarvam/c4099026-b194-4b16-8a12-c7ae1a9b51a0",
-      "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"
@@ -837,34 +738,12 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "vc-lightspeed-adbc090f-3aad-4b12-af36-a2f4b55c017e",
-      "title": "Product Manager – Media & Entertainment, Sarvam Studio",
-      "company": "Sarvam AI",
-      "location": "Bengaluru, Karnataka, India, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/sarvam/adbc090f-3aad-4b12-af36-a2f4b55c017e",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "ashby-sarvam-9e197c29-5164-42eb-8e74-4f691a794517",
       "title": "Product Manager (Models)",
       "company": "Sarvam AI",
       "location": "Bengaluru",
       "url": "https://jobs.ashbyhq.com/sarvam/9e197c29-5164-42eb-8e74-4f691a794517",
       "source": "Ashby (Sarvam AI)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "vc-lightspeed-9e197c29-5164-42eb-8e74-4f691a794517",
-      "title": "Product Manager (Models)",
-      "company": "Sarvam AI",
-      "location": "Bengaluru, Karnataka, India, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/sarvam/9e197c29-5164-42eb-8e74-4f691a794517",
-      "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-05"
@@ -881,34 +760,12 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "vc-lightspeed-f462051e-ec76-45cf-96c5-e0192dd4dcc6",
-      "title": "Product Manager On-Device & Edge AI",
-      "company": "Sarvam AI",
-      "location": "Bengaluru, Karnataka, India, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/sarvam/f462051e-ec76-45cf-96c5-e0192dd4dcc6",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "ashby-sarvam-929e2e12-7a2f-4e28-9d27-f220910b2125",
       "title": "Product Manager, Growth",
       "company": "Sarvam AI",
       "location": "Bengaluru",
       "url": "https://jobs.ashbyhq.com/sarvam/929e2e12-7a2f-4e28-9d27-f220910b2125",
       "source": "Ashby (Sarvam AI)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "vc-lightspeed-929e2e12-7a2f-4e28-9d27-f220910b2125",
-      "title": "Product Manager, Growth",
-      "company": "Sarvam AI",
-      "location": "Bengaluru, Karnataka, India, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/sarvam/929e2e12-7a2f-4e28-9d27-f220910b2125",
-      "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"
@@ -925,34 +782,12 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "vc-lightspeed-45986600-4da3-4e46-a204-2865392df169",
-      "title": "Product Manager, Model APIs",
-      "company": "Sarvam AI",
-      "location": "Bengaluru, Karnataka, India, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/sarvam/45986600-4da3-4e46-a204-2865392df169",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "ashby-sarvam-6390e602-7b98-4700-baa9-ced5be8b1651",
       "title": "Product Manager, Monetization & Retention",
       "company": "Sarvam AI",
       "location": "Bengaluru",
       "url": "https://jobs.ashbyhq.com/sarvam/6390e602-7b98-4700-baa9-ced5be8b1651",
       "source": "Ashby (Sarvam AI)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "vc-lightspeed-6390e602-7b98-4700-baa9-ced5be8b1651",
-      "title": "Product Manager, Monetization & Retention",
-      "company": "Sarvam AI",
-      "location": "Bengaluru, Karnataka, India, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/sarvam/6390e602-7b98-4700-baa9-ced5be8b1651",
-      "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"
