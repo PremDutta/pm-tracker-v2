@@ -407,8 +407,8 @@
           "eng": 55
         },
         "2026-10-06": {
-          "total": 135,
-          "eng": 55
+          "total": 131,
+          "eng": 52
         }
       },
       "pm": {
@@ -613,8 +613,8 @@
           "eng": 82
         },
         "2026-10-06": {
-          "total": 188,
-          "eng": 82
+          "total": 187,
+          "eng": 81
         }
       },
       "pm": {
@@ -936,8 +936,8 @@
           "eng": 32
         },
         "2026-10-06": {
-          "total": 140,
-          "eng": 33
+          "total": 138,
+          "eng": 35
         }
       },
       "pm": {}
@@ -1221,7 +1221,7 @@
           "eng": 413
         },
         "2026-10-06": {
-          "total": 823,
+          "total": 822,
           "eng": 412
         }
       },
@@ -1340,7 +1340,7 @@
           "eng": 40
         },
         "2026-10-06": {
-          "total": 159,
+          "total": 160,
           "eng": 40
         }
       },
@@ -1997,8 +1997,8 @@
           "eng": 3
         },
         "2026-10-06": {
-          "total": 8,
-          "eng": 3
+          "total": 9,
+          "eng": 4
         }
       },
       "pm": {
@@ -2101,7 +2101,7 @@
           "eng": 1
         },
         "2026-10-06": {
-          "total": 27,
+          "total": 25,
           "eng": 1
         }
       },
@@ -2159,8 +2159,8 @@
           "eng": 33
         },
         "2026-10-06": {
-          "total": 80,
-          "eng": 33
+          "total": 76,
+          "eng": 30
         }
       },
       "pm": {
@@ -2922,7 +2922,7 @@
           "eng": 3
         },
         "2026-10-06": {
-          "total": 30,
+          "total": 31,
           "eng": 3
         }
       },
@@ -2955,8 +2955,8 @@
           "eng": 10
         },
         "2026-10-06": {
-          "total": 71,
-          "eng": 9
+          "total": 70,
+          "eng": 8
         }
       },
       "pm": {
@@ -3193,7 +3193,7 @@
           "eng": 3
         },
         "2026-10-06": {
-          "total": 10,
+          "total": 11,
           "eng": 3
         }
       },
@@ -3266,8 +3266,8 @@
           "eng": 33
         },
         "2026-10-06": {
-          "total": 85,
-          "eng": 32
+          "total": 82,
+          "eng": 29
         }
       },
       "pm": {
@@ -3483,7 +3483,7 @@
         },
         "2026-10-06": {
           "total": 100,
-          "eng": 44
+          "eng": 45
         }
       },
       "pm": {
@@ -3698,7 +3698,7 @@
           "eng": 1
         },
         "2026-10-06": {
-          "total": 3,
+          "total": 6,
           "eng": 1
         }
       },
@@ -3910,8 +3910,8 @@
           "eng": 19
         },
         "2026-10-06": {
-          "total": 90,
-          "eng": 19
+          "total": 89,
+          "eng": 18
         }
       },
       "pm": {
@@ -3974,14 +3974,15 @@
           "eng": 2
         },
         "2026-10-06": {
-          "total": 21,
-          "eng": 3
+          "total": 24,
+          "eng": 4
         }
       },
       "pm": {
         "product manager ii": {
           "ids": [
-            "greenhouse-razorpaysoftwareprivatelimited-4736965005"
+            "greenhouse-razorpaysoftwareprivatelimited-4736965005",
+            "greenhouse-razorpaysoftwareprivatelimited-4715389005"
           ],
           "lastSeen": "2026-10-06"
         },
@@ -3994,6 +3995,13 @@
         "product manager ii ai": {
           "ids": [
             "greenhouse-razorpaysoftwareprivatelimited-4699107005"
+          ],
+          "lastSeen": "2026-10-06",
+          "closedOn": "2026-10-06"
+        },
+        "senior product manager": {
+          "ids": [
+            "greenhouse-razorpaysoftwareprivatelimited-4736585005"
           ],
           "lastSeen": "2026-10-06"
         }
@@ -4092,8 +4100,8 @@
           "eng": 28
         },
         "2026-10-06": {
-          "total": 60,
-          "eng": 30
+          "total": 54,
+          "eng": 26
         }
       },
       "pm": {
@@ -4169,7 +4177,7 @@
         },
         "2026-10-06": {
           "total": 100,
-          "eng": 32
+          "eng": 31
         }
       },
       "pm": {
@@ -4250,6 +4258,24 @@
             "smartrecruiters-ServiceNow-744000153663349"
           ],
           "lastSeen": "2026-10-06"
+        },
+        "sr staff product manager network security": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000153744559"
+          ],
+          "lastSeen": "2026-10-06"
+        },
+        "staff inbound product manager servicenow university": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000153739678"
+          ],
+          "lastSeen": "2026-10-06"
+        },
+        "staff technical product manager ai llm expertise ai evaluation science": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000153729109"
+          ],
+          "lastSeen": "2026-10-06"
         }
       }
     },
@@ -4280,8 +4306,8 @@
           "eng": 59
         },
         "2026-10-06": {
-          "total": 127,
-          "eng": 61
+          "total": 129,
+          "eng": 63
         }
       },
       "pm": {
@@ -4385,6 +4411,12 @@
             "workday-mastercard-/job/Gurgaon-India/Lead-Product-Manager_R-292425-1"
           ],
           "lastSeen": "2026-10-06"
+        },
+        "consumer credit analytics global product manager specialist": {
+          "ids": [
+            "workday-mastercard-/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1"
+          ],
+          "lastSeen": "2026-10-06"
         }
       }
     },
@@ -4448,8 +4480,8 @@
           "eng": 84
         },
         "2026-10-06": {
-          "total": 98,
-          "eng": 84
+          "total": 97,
+          "eng": 83
         }
       },
       "pm": {}
@@ -4943,8 +4975,8 @@
           "eng": 44
         },
         "2026-10-06": {
-          "total": 70,
-          "eng": 46
+          "total": 73,
+          "eng": 48
         }
       },
       "pm": {
@@ -5025,7 +5057,7 @@
         },
         "2026-10-06": {
           "total": 60,
-          "eng": 9
+          "eng": 8
         }
       },
       "pm": {
@@ -5085,8 +5117,8 @@
           "eng": 23
         },
         "2026-10-06": {
-          "total": 81,
-          "eng": 25
+          "total": 84,
+          "eng": 26
         }
       },
       "pm": {
@@ -5163,7 +5195,7 @@
         },
         "2026-10-06": {
           "total": 67,
-          "eng": 32
+          "eng": 34
         }
       },
       "pm": {}
@@ -5197,7 +5229,7 @@
         },
         "2026-10-06": {
           "total": 200,
-          "eng": 36
+          "eng": 35
         }
       },
       "pm": {
@@ -5302,8 +5334,8 @@
           "eng": 38
         },
         "2026-10-06": {
-          "total": 71,
-          "eng": 38
+          "total": 76,
+          "eng": 40
         }
       },
       "pm": {
@@ -5523,7 +5555,8 @@
         },
         "sr product manager databricks ai": {
           "ids": [
-            "greenhouse-databricks-8136071002"
+            "greenhouse-databricks-8136071002",
+            "greenhouse-databricks-8136204002"
           ],
           "lastSeen": "2026-10-06"
         },
@@ -5574,7 +5607,8 @@
         },
         "staff product manager": {
           "ids": [
-            "greenhouse-databricks-7649411002"
+            "greenhouse-databricks-7649411002",
+            "greenhouse-databricks-7649409002"
           ],
           "lastSeen": "2026-10-06"
         },
@@ -5778,8 +5812,8 @@
           "eng": 9
         },
         "2026-10-06": {
-          "total": 14,
-          "eng": 8
+          "total": 13,
+          "eng": 7
         }
       },
       "pm": {
@@ -5798,8 +5832,8 @@
           "eng": 31
         },
         "2026-10-06": {
-          "total": 66,
-          "eng": 30
+          "total": 62,
+          "eng": 27
         }
       },
       "pm": {
@@ -5826,7 +5860,8 @@
           "ids": [
             "greenhouse-harnessinc-5176776007"
           ],
-          "lastSeen": "2026-10-06"
+          "lastSeen": "2026-10-06",
+          "closedOn": "2026-10-06"
         }
       }
     },
@@ -5968,8 +6003,8 @@
           "eng": 165
         },
         "2026-10-06": {
-          "total": 393,
-          "eng": 165
+          "total": 395,
+          "eng": 166
         }
       },
       "pm": {
@@ -6077,8 +6112,8 @@
           "eng": 28
         },
         "2026-10-06": {
-          "total": 53,
-          "eng": 28
+          "total": 54,
+          "eng": 29
         }
       },
       "pm": {
@@ -6169,7 +6204,7 @@
         },
         "2026-10-06": {
           "total": 92,
-          "eng": 43
+          "eng": 42
         }
       },
       "pm": {
@@ -6184,6 +6219,12 @@
             "greenhouse-onetrust-8222894"
           ],
           "lastSeen": "2026-10-06"
+        },
+        "principal product manager ai build governance": {
+          "ids": [
+            "greenhouse-onetrust-8192394"
+          ],
+          "lastSeen": "2026-10-06"
         }
       }
     },
@@ -6194,8 +6235,8 @@
           "eng": 115
         },
         "2026-10-06": {
-          "total": 198,
-          "eng": 114
+          "total": 200,
+          "eng": 115
         }
       },
       "pm": {
@@ -6238,8 +6279,8 @@
           "eng": 38
         },
         "2026-10-06": {
-          "total": 130,
-          "eng": 39
+          "total": 131,
+          "eng": 40
         }
       },
       "pm": {
@@ -6300,8 +6341,8 @@
           "eng": 184
         },
         "2026-10-06": {
-          "total": 656,
-          "eng": 184
+          "total": 659,
+          "eng": 185
         }
       },
       "pm": {
@@ -6410,8 +6451,8 @@
           "eng": 36
         },
         "2026-10-06": {
-          "total": 70,
-          "eng": 36
+          "total": 68,
+          "eng": 34
         }
       },
       "pm": {
@@ -6582,8 +6623,8 @@
           "eng": 38
         },
         "2026-10-06": {
-          "total": 100,
-          "eng": 38
+          "total": 102,
+          "eng": 39
         }
       },
       "pm": {
@@ -6640,7 +6681,7 @@
           "eng": 10
         },
         "2026-10-06": {
-          "total": 28,
+          "total": 29,
           "eng": 10
         }
       },
@@ -6656,6 +6697,12 @@
             "keka-spyneai-49785"
           ],
           "lastSeen": "2026-10-06"
+        },
+        "senior product manager": {
+          "ids": [
+            "keka-spyneai-136045"
+          ],
+          "lastSeen": "2026-10-06"
         }
       }
     },
@@ -6666,7 +6713,7 @@
           "eng": 18
         },
         "2026-10-06": {
-          "total": 377,
+          "total": 378,
           "eng": 18
         }
       },

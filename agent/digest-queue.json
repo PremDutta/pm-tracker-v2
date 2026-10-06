@@ -1567,6 +1567,114 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153663349",
       "source": "SmartRecruiters (ServiceNow)",
       "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "sf-careers.hcltech.com-159220",
+      "title": "AI Product Manager I",
+      "company": "HCLTech",
+      "location": "Chennai",
+      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/159220-en_US/",
+      "source": "HCLTech careers",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "workday-mastercard-/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
+      "title": "Consumer Credit Analytics – Global Product Manager - Specialist",
+      "company": "Mastercard",
+      "location": "Gurgaon, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557016561",
+      "title": "Senior Product Manager",
+      "company": "Microsoft",
+      "location": "India, Telangana, Hyderabad",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557016594",
+      "title": "Product Manager II",
+      "company": "Microsoft",
+      "location": "India, Telangana, Hyderabad",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016594",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "greenhouse-onetrust-8192394",
+      "title": "Principal Product Manager, AI Build Governance",
+      "company": "OneTrust",
+      "location": "Bengaluru, India",
+      "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192394",
+      "source": "Greenhouse (OneTrust)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4715389005",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
+      "source": "Greenhouse (Razorpay)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
+      "source": "Greenhouse (Razorpay)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000153729109",
+      "title": "Staff Technical Product Manager – AI/LLM expertise + AI Evaluation Science",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153729109",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "keka-spyneai-136045",
+      "title": "Senior Product Manager (Conversational AI)",
+      "company": "Spyne",
+      "location": "Gurgaon",
+      "url": "https://spyneai.keka.com/careers/jobdetails/136045",
+      "source": "Keka (Spyne)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "vc-accel-95924777",
+      "title": "Assistant Technical Product Manager 1 (Mumbai, IN)",
+      "company": "Wibmo",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://careers.payu.in/PayU/job/Mumbai-Assistant-Technical-Product-Manager-1/54172880/",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "vc-accel-75678188",
+      "title": "Senior Product Manager (Conversational AI)",
+      "company": "Spyne",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://spyneai.keka.com/careers/jobdetails/136045",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-06"
+    },
+    {
+      "id": "vc-peakxv-6217968004",
+      "title": "Product Manager",
+      "company": "Twin Health",
+      "location": "Chennai, Tamil Nadu",
+      "url": "https://job-boards.greenhouse.io/twinhealth/jobs/6217968004",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-06"
     }
   ],
   "signals": [

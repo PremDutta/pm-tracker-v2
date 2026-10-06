@@ -12,6 +12,17 @@
       "firstSeen": "2026-10-06"
     },
     {
+      "id": "sf-careers.hcltech.com-159220",
+      "title": "AI Product Manager I",
+      "company": "HCLTech",
+      "location": "Chennai",
+      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/159220-en_US/",
+      "source": "HCLTech careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-06"
+    },
+    {
       "id": "vc-peakxv-lbtWSkK_VfSx",
       "title": "AI Native Product Manager",
       "company": "Leap Finance",
@@ -19,6 +30,17 @@
       "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
       "source": "VC board (Peak XV portfolio)",
       "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-06"
+    },
+    {
+      "id": "greenhouse-onetrust-8192394",
+      "title": "Principal Product Manager, AI Build Governance",
+      "company": "OneTrust",
+      "location": "Bengaluru, India",
+      "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192394",
+      "source": "Greenhouse (OneTrust)",
+      "level": "group",
       "aiMatch": "title",
       "firstSeen": "2026-10-06"
     },
@@ -67,6 +89,17 @@
       "firstSeen": "2026-10-06"
     },
     {
+      "id": "smartrecruiters-ServiceNow-744000153729109",
+      "title": "Staff Technical Product Manager – AI/LLM expertise + AI Evaluation Science",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153729109",
+      "source": "SmartRecruiters (ServiceNow)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-06"
+    },
+    {
       "id": "vc-peakxv-8041196002",
       "title": "Product Manager",
       "company": "Sigmoid",
@@ -75,6 +108,28 @@
       "source": "VC board (Peak XV portfolio)",
       "level": "pm",
       "aiMatch": "company",
+      "firstSeen": "2026-10-06"
+    },
+    {
+      "id": "keka-spyneai-136045",
+      "title": "Senior Product Manager (Conversational AI)",
+      "company": "Spyne",
+      "location": "Gurgaon",
+      "url": "https://spyneai.keka.com/careers/jobdetails/136045",
+      "source": "Keka (Spyne)",
+      "level": "senior",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-06"
+    },
+    {
+      "id": "vc-accel-75678188",
+      "title": "Senior Product Manager (Conversational AI)",
+      "company": "Spyne",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://spyneai.keka.com/careers/jobdetails/136045",
+      "source": "VC board (Accel portfolio)",
+      "level": "senior",
+      "aiMatch": "title",
       "firstSeen": "2026-10-06"
     },
     {
@@ -295,17 +350,6 @@
       "source": "Ashby (HackerOne)",
       "level": "pm",
       "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-harnessinc-5176776007",
-      "title": "Staff Product Manager - Continuous Deployment",
-      "company": "Harness",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.harness.io/company/jobs/apply?gh_jid=5176776007&gh_jid=5176776007",
-      "source": "Greenhouse (Harness)",
-      "level": "group",
-      "aiMatch": "company",
       "firstSeen": "2026-10-05"
     },
     {
@@ -598,7 +642,7 @@
       "id": "keka-nurix-17249",
       "title": "Product Manager",
       "company": "Nurix AI",
-      "location": "Bengaluru",
+      "location": "Benguluru, Bengaluru",
       "url": "https://nurix.keka.com/careers/jobdetails/17249",
       "source": "Keka (Nurix AI)",
       "level": "pm",
@@ -635,17 +679,6 @@
       "url": "https://www.rapidcanvas.ai/careers/product-manager",
       "source": "VC board (Accel portfolio)",
       "level": "senior",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-razorpaysoftwareprivatelimited-4699107005",
-      "title": "Product Manager II - AI ",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
-      "source": "Greenhouse (Razorpay)",
-      "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-05"
     },
