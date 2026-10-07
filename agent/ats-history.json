@@ -150,8 +150,8 @@
           "eng": 266
         },
         "2026-10-07": {
-          "total": 641,
-          "eng": 266
+          "total": 640,
+          "eng": 265
         }
       },
       "pm": {
@@ -995,7 +995,7 @@
           "eng": 33
         },
         "2026-10-07": {
-          "total": 137,
+          "total": 136,
           "eng": 33
         }
       },
@@ -1300,7 +1300,7 @@
           "eng": 418
         },
         "2026-10-07": {
-          "total": 824,
+          "total": 823,
           "eng": 417
         }
       },
@@ -1793,8 +1793,8 @@
           "eng": 6
         },
         "2026-10-07": {
-          "total": 59,
-          "eng": 6
+          "total": 63,
+          "eng": 8
         }
       },
       "pm": {
@@ -2136,8 +2136,8 @@
           "eng": 4
         },
         "2026-10-07": {
-          "total": 9,
-          "eng": 4
+          "total": 10,
+          "eng": 5
         }
       },
       "pm": {
@@ -2310,7 +2310,7 @@
           "eng": 31
         },
         "2026-10-07": {
-          "total": 75,
+          "total": 74,
           "eng": 31
         }
       },
@@ -2361,7 +2361,8 @@
           "ids": [
             "lever-spotify-ee45924c-894c-4ea0-9c93-c5221894063f"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         }
       }
     },
@@ -2477,8 +2478,8 @@
           "eng": 13
         },
         "2026-10-07": {
-          "total": 35,
-          "eng": 13
+          "total": 37,
+          "eng": 15
         }
       },
       "pm": {
@@ -3146,7 +3147,7 @@
           "eng": 8
         },
         "2026-10-07": {
-          "total": 71,
+          "total": 70,
           "eng": 8
         }
       },
@@ -3155,7 +3156,8 @@
           "ids": [
             "greenhouse-inmobi-6918622"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         },
         "director product management": {
           "ids": [
@@ -3482,7 +3484,7 @@
         },
         "2026-10-07": {
           "total": 74,
-          "eng": 24
+          "eng": 23
         }
       },
       "pm": {
@@ -3504,6 +3506,12 @@
           ],
           "lastSeen": "2026-10-06",
           "closedOn": "2026-10-06"
+        },
+        "product manager": {
+          "ids": [
+            "workday-adobe-/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407"
+          ],
+          "lastSeen": "2026-10-07"
         }
       }
     },
@@ -3594,8 +3602,8 @@
           "eng": 10
         },
         "2026-10-07": {
-          "total": 41,
-          "eng": 10
+          "total": 40,
+          "eng": 9
         }
       },
       "pm": {}
@@ -3719,7 +3727,7 @@
         },
         "2026-10-07": {
           "total": 100,
-          "eng": 40
+          "eng": 41
         }
       },
       "pm": {
@@ -3832,7 +3840,7 @@
           "eng": 7
         },
         "2026-10-07": {
-          "total": 19,
+          "total": 20,
           "eng": 7
         }
       },
@@ -4068,7 +4076,7 @@
           "eng": 9
         },
         "2026-10-07": {
-          "total": 176,
+          "total": 174,
           "eng": 9
         }
       },
@@ -4178,7 +4186,7 @@
           "eng": 18
         },
         "2026-10-07": {
-          "total": 89,
+          "total": 90,
           "eng": 18
         }
       },
@@ -4246,15 +4254,16 @@
           "eng": 5
         },
         "2026-10-07": {
-          "total": 24,
-          "eng": 5
+          "total": 29,
+          "eng": 4
         }
       },
       "pm": {
         "product manager ii": {
           "ids": [
             "greenhouse-razorpaysoftwareprivatelimited-4736965005",
-            "greenhouse-razorpaysoftwareprivatelimited-4715389005"
+            "greenhouse-razorpaysoftwareprivatelimited-4715389005",
+            "greenhouse-razorpaysoftwareprivatelimited-4699107005"
           ],
           "lastSeen": "2026-10-07"
         },
@@ -4391,8 +4400,8 @@
           "eng": 26
         },
         "2026-10-07": {
-          "total": 54,
-          "eng": 26
+          "total": 44,
+          "eng": 21
         }
       },
       "pm": {
@@ -4412,7 +4421,8 @@
           "ids": [
             "ashby-sarvam-929e2e12-7a2f-4e28-9d27-f220910b2125"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         },
         "product manager monetization retention": {
           "ids": [
@@ -4611,8 +4621,8 @@
           "eng": 64
         },
         "2026-10-07": {
-          "total": 128,
-          "eng": 64
+          "total": 133,
+          "eng": 68
         }
       },
       "pm": {
@@ -4645,7 +4655,8 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Director--Product-Manager--Disputes_R-288064"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         },
         "manager product management": {
           "ids": [
@@ -4793,8 +4804,8 @@
           "eng": 83
         },
         "2026-10-07": {
-          "total": 97,
-          "eng": 83
+          "total": 98,
+          "eng": 84
         }
       },
       "pm": {}
@@ -4876,7 +4887,8 @@
           "ids": [
             "smartrecruiters-swiggy-6000000001420615"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         }
       }
     },
@@ -5099,7 +5111,7 @@
           "eng": 3
         },
         "2026-10-07": {
-          "total": 23,
+          "total": 21,
           "eng": 3
         }
       },
@@ -5115,7 +5127,8 @@
           "ids": [
             "eightfold-morganstanley.com-549799564223"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         },
         "head product owner digital client experience platforms executive director wealth management": {
           "ids": [
@@ -5346,8 +5359,8 @@
           "eng": 49
         },
         "2026-10-07": {
-          "total": 75,
-          "eng": 49
+          "total": 77,
+          "eng": 50
         }
       },
       "pm": {
@@ -5500,8 +5513,8 @@
           "eng": 23
         },
         "2026-10-07": {
-          "total": 76,
-          "eng": 24
+          "total": 78,
+          "eng": 25
         }
       },
       "pm": {
@@ -5581,8 +5594,8 @@
           "eng": 36
         },
         "2026-10-07": {
-          "total": 71,
-          "eng": 36
+          "total": 81,
+          "eng": 40
         }
       },
       "pm": {}
@@ -5620,7 +5633,7 @@
         },
         "2026-10-07": {
           "total": 200,
-          "eng": 137,
+          "eng": 37,
           "spike": true
         }
       },
@@ -5629,36 +5642,37 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1"
           ],
-          "lastSeen": "2026-10-06",
-          "closedOn": "2026-10-07"
+          "lastSeen": "2026-10-07"
         },
         "product management analyst": {
           "ids": [
             "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
           ],
-          "lastSeen": "2026-10-06",
-          "closedOn": "2026-10-07"
+          "lastSeen": "2026-10-07"
         },
         "product management lead": {
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-06",
-          "closedOn": "2026-10-07"
+          "lastSeen": "2026-10-07"
         },
         "ai product management practitioner": {
           "ids": [
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1"
           ],
-          "lastSeen": "2026-10-06",
-          "closedOn": "2026-10-07"
+          "lastSeen": "2026-10-07"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-06",
-          "closedOn": "2026-10-07"
+          "lastSeen": "2026-10-07"
+        },
+        "product management specialist aftermarket service supply chain": {
+          "ids": [
+            "workday-accenture-/job/Boston-888-Boylston-Corp/Product-Management-Specialist_14695248-1"
+          ],
+          "lastSeen": "2026-10-07"
         }
       }
     },
@@ -5693,8 +5707,8 @@
           "eng": 44
         },
         "2026-10-07": {
-          "total": 70,
-          "eng": 44
+          "total": 71,
+          "eng": 45
         }
       },
       "pm": {
@@ -5739,8 +5753,8 @@
           "eng": 40
         },
         "2026-10-07": {
-          "total": 74,
-          "eng": 37
+          "total": 75,
+          "eng": 39
         }
       },
       "pm": {
@@ -5905,8 +5919,8 @@
           "eng": 573
         },
         "2026-10-07": {
-          "total": 889,
-          "eng": 574
+          "total": 888,
+          "eng": 573
         }
       },
       "pm": {
@@ -6232,7 +6246,7 @@
           "eng": 14
         },
         "2026-10-07": {
-          "total": 29,
+          "total": 30,
           "eng": 14
         }
       },
@@ -6241,8 +6255,7 @@
           "ids": [
             "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1"
           ],
-          "lastSeen": "2026-10-06",
-          "closedOn": "2026-10-06"
+          "lastSeen": "2026-10-07"
         }
       }
     },
@@ -6325,7 +6338,7 @@
           "eng": 3
         },
         "2026-10-07": {
-          "total": 13,
+          "total": 12,
           "eng": 3
         }
       },
@@ -6481,7 +6494,7 @@
         },
         "2026-10-07": {
           "total": 394,
-          "eng": 163
+          "eng": 164
         }
       },
       "pm": {
@@ -6538,7 +6551,8 @@
         "senior staff product manager query": {
           "ids": [
             "greenhouse-mongodb-7993419",
-            "greenhouse-mongodb-8028593"
+            "greenhouse-mongodb-8028593",
+            "greenhouse-mongodb-8028587"
           ],
           "lastSeen": "2026-10-07"
         },
@@ -6738,7 +6752,7 @@
         },
         "2026-10-07": {
           "total": 200,
-          "eng": 114
+          "eng": 115
         }
       },
       "pm": {
@@ -6785,8 +6799,8 @@
           "eng": 40
         },
         "2026-10-07": {
-          "total": 131,
-          "eng": 40
+          "total": 132,
+          "eng": 41
         }
       },
       "pm": {
@@ -6851,8 +6865,8 @@
           "eng": 190
         },
         "2026-10-07": {
-          "total": 636,
-          "eng": 190
+          "total": 640,
+          "eng": 191
         }
       },
       "pm": {
@@ -6966,7 +6980,7 @@
         },
         "2026-10-07": {
           "total": 69,
-          "eng": 34
+          "eng": 33
         }
       },
       "pm": {
@@ -6980,7 +6994,8 @@
           "ids": [
             "lever-saviynt-53b6e38f-ed8d-4764-bc39-8671961ca8c7"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         }
       }
     },
@@ -6995,7 +7010,7 @@
           "eng": 8
         },
         "2026-10-07": {
-          "total": 37,
+          "total": 36,
           "eng": 8
         }
       },
@@ -7043,7 +7058,7 @@
           "eng": 182
         },
         "2026-10-07": {
-          "total": 356,
+          "total": 357,
           "eng": 182
         }
       },

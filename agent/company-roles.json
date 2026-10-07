@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-07T04:40:44.763Z",
+  "scannedAt": "2026-10-07T09:02:05.515Z",
   "roles": {
     "Adobe": [
       {
@@ -9,6 +9,14 @@
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043",
         "level": "group",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "workday-adobe-/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407",
+        "title": "Product Manager (Growth - B2B Enterprise)",
+        "location": "Bangalore",
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407",
+        "level": "pm",
+        "firstSeen": "2026-10-07"
       }
     ],
     "Amazon": [
@@ -495,6 +503,16 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "Autodesk": [
+      {
+        "id": "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
+        "title": "Product Manager (Data Ingestion & Delivery)",
+        "location": "Pune, IND",
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
+        "level": "pm",
+        "firstSeen": "2026-10-07"
+      }
+    ],
     "Couchbase": [
       {
         "id": "greenhouse-couchbaseinc-4701380006",
@@ -701,22 +719,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158038",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-159765",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -733,10 +735,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-168375",
+        "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/168375-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-159765",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -817,16 +827,6 @@
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1",
         "level": "senior",
         "firstSeen": "2026-10-05"
-      }
-    ],
-    "InMobi": [
-      {
-        "id": "greenhouse-inmobi-6918622",
-        "title": "Associate Product Manager - MSD Financial Systems and Transformation",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/inmobi/jobs/6918622",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Innovaccer": [
@@ -967,14 +967,6 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
         "level": "pm",
         "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "workday-mastercard-/job/Pune-India/Director--Product-Manager--Disputes_R-288064",
-        "title": "Director, Product Manager –Disputes",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Manager--Disputes_R-288064",
-        "level": "leadership",
-        "firstSeen": "2026-09-30"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
@@ -1181,10 +1173,10 @@
     ],
     "Microsoft": [
       {
-        "id": "eightfold-microsoft.com-1970393556944984",
+        "id": "eightfold-microsoft.com-1970393556997831",
         "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1197,18 +1189,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556911401",
+        "id": "eightfold-microsoft.com-1970393556944984",
         "title": "Principal Product Manager",
-        "location": "India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556997831",
+        "id": "eightfold-microsoft.com-1970393556911401",
         "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
+        "location": "India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1330,14 +1322,6 @@
         "location": "Mumbai, Maharashtra, India",
         "url": "https://morganstanley.eightfold.ai/careers/job/549783041795",
         "level": "leadership",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "eightfold-morganstanley.com-549799564223",
-        "title": "Product Owner - SBL: Collateral/ self directed Digital LAL, Platforms, Associate, Wealth Management",
-        "location": "Mumbai, Maharashtra, India",
-        "url": "https://morganstanley.eightfold.ai/careers/job/549799564223",
-        "level": "pm",
         "firstSeen": "2026-09-30"
       },
       {
@@ -1627,12 +1611,12 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4715389005",
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4699107005",
         "title": "Product Manager II",
         "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
         "level": "pm",
-        "firstSeen": "2026-10-06"
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4736965005",
@@ -1643,12 +1627,12 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4699107005",
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4715389005",
         "title": "Product Manager II",
         "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
         "level": "pm",
-        "firstSeen": "2026-09-30"
+        "firstSeen": "2026-10-06"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4729533005",
@@ -1737,14 +1721,6 @@
     ],
     "Sarvam AI": [
       {
-        "id": "ashby-sarvam-c4bb3b2c-7608-4d57-8761-650b4222ac13",
-        "title": "Product Manager",
-        "location": "Bengaluru",
-        "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "ashby-sarvam-c4099026-b194-4b16-8a12-c7ae1a9b51a0",
         "title": "Product Manager - Chanakya",
         "location": "Delhi",
@@ -1777,14 +1753,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "ashby-sarvam-929e2e12-7a2f-4e28-9d27-f220910b2125",
-        "title": "Product Manager, Growth",
-        "location": "Bengaluru",
-        "url": "https://jobs.ashbyhq.com/sarvam/929e2e12-7a2f-4e28-9d27-f220910b2125",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "ashby-sarvam-45986600-4da3-4e46-a204-2865392df169",
         "title": "Product Manager, Model APIs",
         "location": "Bengaluru",
@@ -1799,16 +1767,6 @@
         "url": "https://jobs.ashbyhq.com/sarvam/6390e602-7b98-4700-baa9-ced5be8b1651",
         "level": "pm",
         "firstSeen": "2026-09-30"
-      }
-    ],
-    "Saviynt": [
-      {
-        "id": "lever-saviynt-53b6e38f-ed8d-4764-bc39-8671961ca8c7",
-        "title": "Staff Product Manager (Partner & Developer Ecosystem)",
-        "location": "Bengaluru, India",
-        "url": "https://jobs.lever.co/saviynt/53b6e38f-ed8d-4764-bc39-8671961ca8c7",
-        "level": "group",
-        "firstSeen": "2026-10-05"
       }
     ],
     "ServiceNow": [
@@ -1917,16 +1875,6 @@
         "firstSeen": "2026-10-06"
       }
     ],
-    "Swiggy": [
-      {
-        "id": "smartrecruiters-swiggy-6000000001420615",
-        "title": "Product Manager I",
-        "location": "Bengaluru, KA, India",
-        "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001420615",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      }
-    ],
     "Target India": [
       {
         "id": "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-of-Product-Management_R0000449194",
@@ -1985,6 +1933,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.wipro.com-198887",
+        "title": "Product Management Consulting",
+        "location": "Hyderabad, IND-36, IND, 500032<br/>",
+        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198887-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-07"
+      },
+      {
         "id": "sf-careers.wipro.com-198709",
         "title": "Product Management Consulting",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
@@ -1999,22 +1955,6 @@
         "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
         "level": "pm",
         "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "sf-careers.wipro.com-200048",
-        "title": "Product Management Consulting",
-        "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "sf-careers.wipro.com-201119",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Pune, IND-27, IND, 411005<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/201119-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
       },
       {
         "id": "sf-careers.wipro.com-203307",
@@ -2033,14 +1973,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.wipro.com-198488",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.wipro.com-198487",
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
@@ -2053,6 +1985,14 @@
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198486-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.wipro.com-198488",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       },
