@@ -43,8 +43,8 @@
           "eng": 36
         },
         "2026-10-07": {
-          "total": 97,
-          "eng": 36
+          "total": 99,
+          "eng": 38
         }
       },
       "pm": {
@@ -150,7 +150,7 @@
           "eng": 266
         },
         "2026-10-07": {
-          "total": 640,
+          "total": 638,
           "eng": 265
         }
       },
@@ -656,8 +656,8 @@
           "eng": 83
         },
         "2026-10-07": {
-          "total": 190,
-          "eng": 83
+          "total": 187,
+          "eng": 80
         }
       },
       "pm": {
@@ -995,8 +995,8 @@
           "eng": 33
         },
         "2026-10-07": {
-          "total": 136,
-          "eng": 33
+          "total": 134,
+          "eng": 34
         }
       },
       "pm": {}
@@ -1793,7 +1793,7 @@
           "eng": 6
         },
         "2026-10-07": {
-          "total": 63,
+          "total": 60,
           "eng": 8
         }
       },
@@ -2248,7 +2248,7 @@
           "eng": 1
         },
         "2026-10-07": {
-          "total": 24,
+          "total": 23,
           "eng": 1
         }
       },
@@ -2263,7 +2263,8 @@
           "ids": [
             "keka-gokwik-163589"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         }
       }
     },
@@ -2310,8 +2311,8 @@
           "eng": 31
         },
         "2026-10-07": {
-          "total": 74,
-          "eng": 31
+          "total": 76,
+          "eng": 32
         }
       },
       "pm": {
@@ -2565,8 +2566,8 @@
           "eng": 4
         },
         "2026-10-07": {
-          "total": 87,
-          "eng": 4
+          "total": 85,
+          "eng": 3
         }
       },
       "pm": {
@@ -2953,8 +2954,8 @@
           "eng": 6
         },
         "2026-10-07": {
-          "total": 38,
-          "eng": 6
+          "total": 39,
+          "eng": 7
         }
       },
       "pm": {
@@ -3147,7 +3148,7 @@
           "eng": 8
         },
         "2026-10-07": {
-          "total": 70,
+          "total": 71,
           "eng": 8
         }
       },
@@ -3174,6 +3175,12 @@
         "director product marketing dsp": {
           "ids": [
             "greenhouse-inmobi-7747712"
+          ],
+          "lastSeen": "2026-10-07"
+        },
+        "product manager programmatic monetization": {
+          "ids": [
+            "greenhouse-inmobi-8232722"
           ],
           "lastSeen": "2026-10-07"
         }
@@ -3210,8 +3217,8 @@
           "eng": 23
         },
         "2026-10-07": {
-          "total": 75,
-          "eng": 23
+          "total": 76,
+          "eng": 24
         }
       },
       "pm": {
@@ -3328,7 +3335,7 @@
           "eng": 14
         },
         "2026-10-07": {
-          "total": 43,
+          "total": 44,
           "eng": 14
         }
       },
@@ -3439,7 +3446,7 @@
           "eng": 30
         },
         "2026-10-07": {
-          "total": 45,
+          "total": 46,
           "eng": 30
         }
       },
@@ -3483,8 +3490,8 @@
           "eng": 24
         },
         "2026-10-07": {
-          "total": 74,
-          "eng": 23
+          "total": 75,
+          "eng": 24
         }
       },
       "pm": {
@@ -3676,8 +3683,8 @@
           "eng": 12
         },
         "2026-10-07": {
-          "total": 24,
-          "eng": 12
+          "total": 25,
+          "eng": 13
         }
       },
       "pm": {
@@ -3727,7 +3734,7 @@
         },
         "2026-10-07": {
           "total": 100,
-          "eng": 41
+          "eng": 42
         }
       },
       "pm": {
@@ -3958,7 +3965,7 @@
           "eng": 1
         },
         "2026-10-07": {
-          "total": 5,
+          "total": 4,
           "eng": 1
         }
       },
@@ -3995,8 +4002,8 @@
           "eng": 1
         },
         "2026-10-07": {
-          "total": 6,
-          "eng": 2
+          "total": 5,
+          "eng": 1
         }
       },
       "pm": {}
@@ -4400,8 +4407,8 @@
           "eng": 26
         },
         "2026-10-07": {
-          "total": 44,
-          "eng": 21
+          "total": 42,
+          "eng": 19
         }
       },
       "pm": {
@@ -4482,7 +4489,7 @@
         },
         "2026-10-07": {
           "total": 100,
-          "eng": 29
+          "eng": 31
         }
       },
       "pm": {
@@ -4767,8 +4774,8 @@
           "eng": 8
         },
         "2026-10-07": {
-          "total": 29,
-          "eng": 8
+          "total": 25,
+          "eng": 6
         }
       },
       "pm": {}
@@ -5034,7 +5041,7 @@
           "eng": 36
         },
         "2026-10-07": {
-          "total": 100,
+          "total": 101,
           "eng": 36
         }
       },
@@ -5111,7 +5118,7 @@
           "eng": 3
         },
         "2026-10-07": {
-          "total": 21,
+          "total": 22,
           "eng": 3
         }
       },
@@ -5244,7 +5251,7 @@
           "eng": 10
         },
         "2026-10-07": {
-          "total": 23,
+          "total": 25,
           "eng": 10
         }
       },
@@ -5272,6 +5279,12 @@
         "sr product manager media measurements": {
           "ids": [
             "workday-target-/job/BangaloreIndia/Sr-Product-Manager_R0000442398-1"
+          ],
+          "lastSeen": "2026-10-07"
+        },
+        "principal product manager": {
+          "ids": [
+            "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1"
           ],
           "lastSeen": "2026-10-07"
         }
@@ -5359,7 +5372,7 @@
           "eng": 49
         },
         "2026-10-07": {
-          "total": 77,
+          "total": 78,
           "eng": 50
         }
       },
@@ -5594,7 +5607,7 @@
           "eng": 36
         },
         "2026-10-07": {
-          "total": 81,
+          "total": 82,
           "eng": 40
         }
       },
@@ -5658,7 +5671,8 @@
         },
         "ai product management practitioner": {
           "ids": [
-            "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1"
+            "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1",
+            "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1"
           ],
           "lastSeen": "2026-10-07"
         },
@@ -5753,8 +5767,8 @@
           "eng": 40
         },
         "2026-10-07": {
-          "total": 75,
-          "eng": 39
+          "total": 76,
+          "eng": 40
         }
       },
       "pm": {
@@ -5919,7 +5933,7 @@
           "eng": 573
         },
         "2026-10-07": {
-          "total": 888,
+          "total": 890,
           "eng": 573
         }
       },
@@ -6132,8 +6146,8 @@
           "eng": 39
         },
         "2026-10-07": {
-          "total": 134,
-          "eng": 40
+          "total": 133,
+          "eng": 39
         }
       },
       "pm": {
@@ -6247,13 +6261,19 @@
         },
         "2026-10-07": {
           "total": 30,
-          "eng": 14
+          "eng": 13
         }
       },
       "pm": {
         "product manager": {
           "ids": [
             "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1"
+          ],
+          "lastSeen": "2026-10-07"
+        },
+        "sr product manager case management agent experience": {
+          "ids": [
+            "workday-autodesk-/job/Bengaluru-IND/Sr-Product-Manager---Case-Management---Agent-Experience_26WD101159"
           ],
           "lastSeen": "2026-10-07"
         }
@@ -6493,8 +6513,8 @@
           "eng": 165
         },
         "2026-10-07": {
-          "total": 394,
-          "eng": 164
+          "total": 392,
+          "eng": 162
         }
       },
       "pm": {
@@ -6751,8 +6771,8 @@
           "eng": 113
         },
         "2026-10-07": {
-          "total": 200,
-          "eng": 115
+          "total": 199,
+          "eng": 114
         }
       },
       "pm": {
@@ -6783,6 +6803,12 @@
         "sr product owner": {
           "ids": [
             "workday-hpe-/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1"
+          ],
+          "lastSeen": "2026-10-07"
+        },
+        "senior technical product manager": {
+          "ids": [
+            "workday-hpe-/job/Bengaluru-Karntaka-India/Senior-Technical-Product-Manager_1215737"
           ],
           "lastSeen": "2026-10-07"
         }
@@ -6865,7 +6891,7 @@
           "eng": 190
         },
         "2026-10-07": {
-          "total": 640,
+          "total": 641,
           "eng": 191
         }
       },
@@ -7058,7 +7084,7 @@
           "eng": 182
         },
         "2026-10-07": {
-          "total": 357,
+          "total": 354,
           "eng": 182
         }
       },
@@ -7178,8 +7204,8 @@
           "eng": 40
         },
         "2026-10-07": {
-          "total": 106,
-          "eng": 39
+          "total": 104,
+          "eng": 38
         }
       },
       "pm": {
@@ -7260,11 +7286,18 @@
           "ids": [
             "keka-spyneai-49785"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         },
         "senior product manager": {
           "ids": [
             "keka-spyneai-136045"
+          ],
+          "lastSeen": "2026-10-07"
+        },
+        "associate director product": {
+          "ids": [
+            "keka-spyneai-49785"
           ],
           "lastSeen": "2026-10-07"
         }

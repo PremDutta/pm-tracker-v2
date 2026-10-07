@@ -23,6 +23,17 @@
       "firstSeen": "2026-10-07"
     },
     {
+      "id": "workday-autodesk-/job/Bengaluru-IND/Sr-Product-Manager---Case-Management---Agent-Experience_26WD101159",
+      "title": "Sr. Product Manager - Case Management & Agent Experience",
+      "company": "Autodesk",
+      "location": "Bengaluru, IND",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Sr-Product-Manager---Case-Management---Agent-Experience_26WD101159",
+      "source": "Workday (Autodesk)",
+      "level": "senior",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-07"
+    },
+    {
       "id": "vc-lightspeed-441247",
       "title": "Product Manager - AI Agents",
       "company": "Bridgetown Research",
@@ -73,6 +84,28 @@
       "location": "Bengaluru",
       "url": "https://jobs.lever.co/gushwork/c03a9615-f124-424c-8bbd-90d209a68f3d",
       "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-07"
+    },
+    {
+      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Senior-Technical-Product-Manager_1215737",
+      "title": "Senior Technical Product Manager",
+      "company": "HPE",
+      "location": "Bengaluru, Karnātaka, India",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Senior-Technical-Product-Manager_1215737",
+      "source": "Workday (HPE)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-07"
+    },
+    {
+      "id": "greenhouse-inmobi-8232722",
+      "title": "Product Manager - Programmatic Monetization",
+      "company": "InMobi",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8232722",
+      "source": "Greenhouse (InMobi)",
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-07"
@@ -1014,7 +1047,7 @@
     },
     {
       "id": "keka-spyneai-49785",
-      "title": "Director - Product",
+      "title": "Associate Director - Product",
       "company": "Spyne",
       "location": "Gurgaon",
       "url": "https://spyneai.keka.com/careers/jobdetails/49785",
