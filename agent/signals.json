@@ -1,6 +1,20 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-07",
+      "detail": "137 engineering openings vs a usual 36"
+    },
+    {
+      "type": "funding",
+      "company": "Quanfluence",
+      "title": "Chiratae Ventures leads $10 Mn round in photonic quantum startup Quanfluence",
+      "url": "https://entrackr.com/news/chiratae-ventures-leads-10-mn-round-in-photonic-quantum-startup-quanfluence-12631530",
+      "date": "2026-10-07",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "funding",
       "company": "Beyond Appliances",
       "title": "Fireside leads Rs 110 Cr Series B round in Beyond Appliances",

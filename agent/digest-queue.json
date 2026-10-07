@@ -1729,6 +1729,24 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-10-07"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557016611",
+      "title": "Senior Product Manager",
+      "company": "Microsoft",
+      "location": "India, Telangana, Hyderabad",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-10-07"
+    },
+    {
+      "id": "vc-accel-95987613",
+      "title": "Senior Product Manager - IT Operations",
+      "company": "Atlassian",
+      "location": "Bengaluru, Karnataka, India, Remote",
+      "url": "https://www.atlassian.com/company/careers/details/27326",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-07"
     }
   ],
   "signals": [
@@ -1746,6 +1764,12 @@
       "company": "Accenture",
       "date": "2026-10-05",
       "detail": "147 engineering openings vs a usual 36"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-07",
+      "detail": "137 engineering openings vs a usual 36"
     }
   ],
   "reminders": {}
