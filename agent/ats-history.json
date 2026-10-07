@@ -43,8 +43,8 @@
           "eng": 36
         },
         "2026-10-07": {
-          "total": 99,
-          "eng": 38
+          "total": 101,
+          "eng": 39
         }
       },
       "pm": {
@@ -150,8 +150,8 @@
           "eng": 266
         },
         "2026-10-07": {
-          "total": 638,
-          "eng": 265
+          "total": 646,
+          "eng": 269
         }
       },
       "pm": {
@@ -247,6 +247,18 @@
             "greenhouse-anthropic-5123082008"
           ],
           "lastSeen": "2026-10-07"
+        },
+        "product manager billing": {
+          "ids": [
+            "greenhouse-anthropic-5434361008"
+          ],
+          "lastSeen": "2026-10-07"
+        },
+        "product manager enterprise privacy": {
+          "ids": [
+            "greenhouse-anthropic-5434369008"
+          ],
+          "lastSeen": "2026-10-07"
         }
       }
     },
@@ -293,7 +305,7 @@
           "eng": 31
         },
         "2026-10-07": {
-          "total": 67,
+          "total": 68,
           "eng": 31
         }
       },
@@ -434,8 +446,8 @@
           "eng": 51
         },
         "2026-10-07": {
-          "total": 126,
-          "eng": 51
+          "total": 125,
+          "eng": 50
         }
       },
       "pm": {
@@ -657,7 +669,7 @@
         },
         "2026-10-07": {
           "total": 187,
-          "eng": 80
+          "eng": 81
         }
       },
       "pm": {
@@ -691,7 +703,8 @@
           "ids": [
             "greenhouse-scaleai-4702890005"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         },
         "product manager enterprise core platform": {
           "ids": [
@@ -927,7 +940,7 @@
           "eng": 43
         },
         "2026-10-07": {
-          "total": 94,
+          "total": 93,
           "eng": 42
         }
       },
@@ -995,11 +1008,24 @@
           "eng": 33
         },
         "2026-10-07": {
-          "total": 134,
-          "eng": 34
+          "total": 141,
+          "eng": 37
         }
       },
-      "pm": {}
+      "pm": {
+        "enterprise product manager elevencreative": {
+          "ids": [
+            "ashby-elevenlabs-934dbe9d-1c1f-4939-944a-6671469009db"
+          ],
+          "lastSeen": "2026-10-07"
+        },
+        "self serve product manager elevencreative": {
+          "ids": [
+            "ashby-elevenlabs-7389c057-3e25-4e7a-8a03-5e80f40a15a0"
+          ],
+          "lastSeen": "2026-10-07"
+        }
+      }
     },
     "Discord": {
       "daily": {
@@ -1044,8 +1070,8 @@
           "eng": 32
         },
         "2026-10-07": {
-          "total": 48,
-          "eng": 32
+          "total": 49,
+          "eng": 33
         }
       },
       "pm": {
@@ -1101,8 +1127,8 @@
           "eng": 33
         },
         "2026-10-07": {
-          "total": 155,
-          "eng": 33
+          "total": 153,
+          "eng": 31
         }
       },
       "pm": {
@@ -1139,6 +1165,12 @@
         "manager product management roundtripping": {
           "ids": [
             "greenhouse-figma-6104919004"
+          ],
+          "lastSeen": "2026-10-07"
+        },
+        "early career associate product manager": {
+          "ids": [
+            "greenhouse-figma-6180116004"
           ],
           "lastSeen": "2026-10-07"
         }
@@ -1243,7 +1275,7 @@
           "eng": 49
         },
         "2026-10-07": {
-          "total": 133,
+          "total": 134,
           "eng": 49
         }
       },
@@ -1300,8 +1332,8 @@
           "eng": 418
         },
         "2026-10-07": {
-          "total": 823,
-          "eng": 417
+          "total": 816,
+          "eng": 416
         }
       },
       "pm": {
@@ -1429,7 +1461,7 @@
           "eng": 40
         },
         "2026-10-07": {
-          "total": 160,
+          "total": 161,
           "eng": 40
         }
       },
@@ -1956,7 +1988,7 @@
           "eng": 4
         },
         "2026-10-07": {
-          "total": 18,
+          "total": 19,
           "eng": 4
         }
       },
@@ -2479,7 +2511,7 @@
           "eng": 13
         },
         "2026-10-07": {
-          "total": 37,
+          "total": 38,
           "eng": 15
         }
       },
@@ -2566,7 +2598,7 @@
           "eng": 4
         },
         "2026-10-07": {
-          "total": 85,
+          "total": 86,
           "eng": 3
         }
       },
@@ -3148,7 +3180,7 @@
           "eng": 8
         },
         "2026-10-07": {
-          "total": 71,
+          "total": 70,
           "eng": 8
         }
       },
@@ -3217,7 +3249,7 @@
           "eng": 23
         },
         "2026-10-07": {
-          "total": 76,
+          "total": 74,
           "eng": 24
         }
       },
@@ -3233,7 +3265,8 @@
           "ids": [
             "workable-innovaccer-analytics-FA3A28F749"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         },
         "4410 senior product manager public health": {
           "ids": [
@@ -3734,7 +3767,7 @@
         },
         "2026-10-07": {
           "total": 100,
-          "eng": 42
+          "eng": 43
         }
       },
       "pm": {
@@ -3792,7 +3825,8 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210794392"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         },
         "product director metrics": {
           "ids": [
@@ -4083,7 +4117,7 @@
           "eng": 9
         },
         "2026-10-07": {
-          "total": 174,
+          "total": 175,
           "eng": 9
         }
       },
@@ -4326,7 +4360,7 @@
           "eng": 0
         },
         "2026-10-07": {
-          "total": 13,
+          "total": 12,
           "eng": 0
         }
       },
@@ -4407,8 +4441,8 @@
           "eng": 26
         },
         "2026-10-07": {
-          "total": 42,
-          "eng": 19
+          "total": 41,
+          "eng": 18
         }
       },
       "pm": {
@@ -4489,7 +4523,7 @@
         },
         "2026-10-07": {
           "total": 100,
-          "eng": 31
+          "eng": 32
         }
       },
       "pm": {
@@ -4561,7 +4595,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000153567049"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         },
         "senior staff product manager voice ai": {
           "ids": [
@@ -4592,6 +4627,12 @@
         "staff technical product manager ai llm expertise ai evaluation science": {
           "ids": [
             "smartrecruiters-ServiceNow-744000153729109"
+          ],
+          "lastSeen": "2026-10-07"
+        },
+        "distinguished product manager ai agent products": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000154195449"
           ],
           "lastSeen": "2026-10-07"
         }
@@ -4628,7 +4669,7 @@
           "eng": 64
         },
         "2026-10-07": {
-          "total": 133,
+          "total": 131,
           "eng": 68
         }
       },
@@ -4637,7 +4678,8 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Sr-Specialist--Product-Management_R-288316"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         },
         "lead product manager technical data lake data warehouse": {
           "ids": [
@@ -4811,8 +4853,8 @@
           "eng": 83
         },
         "2026-10-07": {
-          "total": 98,
-          "eng": 84
+          "total": 97,
+          "eng": 83
         }
       },
       "pm": {}
@@ -4886,7 +4928,7 @@
         },
         "2026-10-07": {
           "total": 100,
-          "eng": 2
+          "eng": 3
         }
       },
       "pm": {
@@ -5041,8 +5083,8 @@
           "eng": 36
         },
         "2026-10-07": {
-          "total": 101,
-          "eng": 36
+          "total": 103,
+          "eng": 37
         }
       },
       "pm": {
@@ -5118,7 +5160,7 @@
           "eng": 3
         },
         "2026-10-07": {
-          "total": 22,
+          "total": 21,
           "eng": 3
         }
       },
@@ -5372,8 +5414,8 @@
           "eng": 49
         },
         "2026-10-07": {
-          "total": 78,
-          "eng": 50
+          "total": 77,
+          "eng": 49
         }
       },
       "pm": {
@@ -5526,8 +5568,8 @@
           "eng": 23
         },
         "2026-10-07": {
-          "total": 78,
-          "eng": 25
+          "total": 72,
+          "eng": 23
         }
       },
       "pm": {
@@ -5607,8 +5649,8 @@
           "eng": 36
         },
         "2026-10-07": {
-          "total": 82,
-          "eng": 40
+          "total": 79,
+          "eng": 37
         }
       },
       "pm": {}
@@ -5903,7 +5945,7 @@
           "eng": 9
         },
         "2026-10-07": {
-          "total": 20,
+          "total": 19,
           "eng": 9
         }
       },
@@ -5933,8 +5975,8 @@
           "eng": 573
         },
         "2026-10-07": {
-          "total": 890,
-          "eng": 573
+          "total": 894,
+          "eng": 578
         }
       },
       "pm": {
@@ -6095,11 +6137,18 @@
           "ids": [
             "greenhouse-databricks-8394060002"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-07",
+          "closedOn": "2026-10-07"
         },
         "staff product manager us public sector": {
           "ids": [
             "greenhouse-databricks-8831555002"
+          ],
+          "lastSeen": "2026-10-07"
+        },
+        "sr product manager lakebase": {
+          "ids": [
+            "greenhouse-databricks-8876675002"
           ],
           "lastSeen": "2026-10-07"
         }
@@ -6146,7 +6195,7 @@
           "eng": 39
         },
         "2026-10-07": {
-          "total": 133,
+          "total": 131,
           "eng": 39
         }
       },
@@ -6314,8 +6363,8 @@
           "eng": 29
         },
         "2026-10-07": {
-          "total": 64,
-          "eng": 29
+          "total": 65,
+          "eng": 30
         }
       },
       "pm": {
@@ -6429,7 +6478,7 @@
           "eng": 3
         },
         "2026-10-07": {
-          "total": 10,
+          "total": 11,
           "eng": 3
         }
       },
@@ -6513,8 +6562,8 @@
           "eng": 165
         },
         "2026-10-07": {
-          "total": 392,
-          "eng": 162
+          "total": 393,
+          "eng": 161
         }
       },
       "pm": {
@@ -6628,7 +6677,7 @@
           "eng": 30
         },
         "2026-10-07": {
-          "total": 56,
+          "total": 57,
           "eng": 30
         }
       },
@@ -6670,8 +6719,8 @@
           "eng": 12
         },
         "2026-10-07": {
-          "total": 18,
-          "eng": 12
+          "total": 19,
+          "eng": 13
         }
       },
       "pm": {
@@ -6735,7 +6784,7 @@
           "eng": 42
         },
         "2026-10-07": {
-          "total": 93,
+          "total": 95,
           "eng": 42
         }
       },
@@ -6757,6 +6806,12 @@
             "greenhouse-onetrust-8192394"
           ],
           "lastSeen": "2026-10-07"
+        },
+        "principal product manager ai runtime governance": {
+          "ids": [
+            "greenhouse-onetrust-8192392"
+          ],
+          "lastSeen": "2026-10-07"
         }
       }
     },
@@ -6771,8 +6826,8 @@
           "eng": 113
         },
         "2026-10-07": {
-          "total": 199,
-          "eng": 114
+          "total": 200,
+          "eng": 112
         }
       },
       "pm": {
@@ -6811,6 +6866,12 @@
             "workday-hpe-/job/Bengaluru-Karntaka-India/Senior-Technical-Product-Manager_1215737"
           ],
           "lastSeen": "2026-10-07"
+        },
+        "people care transformation improvement scalability product manager": {
+          "ids": [
+            "workday-hpe-/job/Tlaquepaque-Jalisco-Mexico/People-Care-Transformation-Improvement---Scalability-Product-Manager_1212456-1"
+          ],
+          "lastSeen": "2026-10-07"
         }
       }
     },
@@ -6825,7 +6886,7 @@
           "eng": 40
         },
         "2026-10-07": {
-          "total": 132,
+          "total": 133,
           "eng": 41
         }
       },
@@ -6891,7 +6952,7 @@
           "eng": 190
         },
         "2026-10-07": {
-          "total": 641,
+          "total": 633,
           "eng": 191
         }
       },
@@ -7005,8 +7066,8 @@
           "eng": 34
         },
         "2026-10-07": {
-          "total": 69,
-          "eng": 33
+          "total": 70,
+          "eng": 34
         }
       },
       "pm": {
@@ -7084,7 +7145,7 @@
           "eng": 182
         },
         "2026-10-07": {
-          "total": 354,
+          "total": 353,
           "eng": 182
         }
       },
@@ -7204,8 +7265,8 @@
           "eng": 40
         },
         "2026-10-07": {
-          "total": 104,
-          "eng": 38
+          "total": 103,
+          "eng": 37
         }
       },
       "pm": {
@@ -7314,7 +7375,7 @@
           "eng": 18
         },
         "2026-10-07": {
-          "total": 375,
+          "total": 372,
           "eng": 18
         }
       },

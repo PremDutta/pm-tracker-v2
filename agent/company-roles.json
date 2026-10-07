@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-07T12:47:30.422Z",
+  "scannedAt": "2026-10-07T22:50:30.814Z",
   "roles": {
     "Adobe": [
       {
@@ -189,18 +189,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10551513",
-        "title": "Senior Product Manager, Amazon - Sub Same Day",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10551512",
         "title": "Senior Product Manager, Amazon - Sub Same Day",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10551512/senior-product-manager-amazon-sub-same-day",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10551513",
+        "title": "Senior Product Manager, Amazon - Sub Same Day",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -735,18 +735,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-159765",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-159765",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -896,14 +896,6 @@
         "location": "Bengaluru, Karnataka, India",
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791632",
         "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210794392",
-        "title": "Executive Director - Senior AI Product Manager",
-        "location": "Bengaluru, Karnataka, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794392",
-        "level": "leadership",
         "firstSeen": "2026-09-30"
       },
       {
@@ -1121,14 +1113,6 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist--Product-Management_R-289494",
         "level": "pm",
         "firstSeen": "2026-10-01"
-      },
-      {
-        "id": "workday-mastercard-/job/Pune-India/Sr-Specialist--Product-Management_R-288316",
-        "title": "Sr. Specialist, Product Management",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Sr-Specialist--Product-Management_R-288316",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Meesho": [
@@ -1437,6 +1421,14 @@
         "firstSeen": "2026-10-06"
       },
       {
+        "id": "greenhouse-onetrust-8192392",
+        "title": "Principal Product Manager, AI Runtime Governance",
+        "location": "Bengaluru, India",
+        "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192392",
+        "level": "group",
+        "firstSeen": "2026-10-07"
+      },
+      {
         "id": "greenhouse-onetrust-8207523",
         "title": "Staff Product Manager",
         "location": "Bengaluru, India",
@@ -1621,14 +1613,6 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4699107005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4736965005",
         "title": "Product Manager II",
         "location": "Bengaluru",
@@ -1643,6 +1627,14 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
         "level": "pm",
         "firstSeen": "2026-10-06"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4699107005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4729533005",
@@ -1780,14 +1772,6 @@
       }
     ],
     "ServiceNow": [
-      {
-        "id": "smartrecruiters-ServiceNow-744000153567049",
-        "title": "Sr Inbound Product Manager",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153567049",
-        "level": "senior",
-        "firstSeen": "2026-10-05"
-      },
       {
         "id": "smartrecruiters-ServiceNow-744000153663349",
         "title": "Sr Staff Inbound Product Manager",
@@ -1973,6 +1957,14 @@
         "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
         "level": "pm",
         "firstSeen": "2026-10-06"
+      },
+      {
+        "id": "sf-careers.wipro.com-205260",
+        "title": "Product Management Consulting",
+        "location": "Hyderabad, IND-36, IND, 500032<br/>",
+        "url": "https://careers.wipro.com/job/Product-Management-Consulting/205260-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-07"
       },
       {
         "id": "sf-careers.wipro.com-203307",

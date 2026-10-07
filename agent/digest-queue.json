@@ -1801,6 +1801,87 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
       "source": "Workday (Target India)",
       "queuedOn": "2026-10-07"
+    },
+    {
+      "id": "greenhouse-anthropic-5434361008",
+      "title": "Product Manager, Billing",
+      "company": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434361008",
+      "source": "Greenhouse (Anthropic)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "greenhouse-anthropic-5434369008",
+      "title": "Product Manager, Enterprise Privacy",
+      "company": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434369008",
+      "source": "Greenhouse (Anthropic)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "ashby-elevenlabs-934dbe9d-1c1f-4939-944a-6671469009db",
+      "title": "Enterprise Product Manager - ElevenCreative",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db",
+      "source": "Ashby (ElevenLabs)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "ashby-elevenlabs-7389c057-3e25-4e7a-8a03-5e80f40a15a0",
+      "title": "Self-Serve Product Manager - ElevenCreative",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0",
+      "source": "Ashby (ElevenLabs)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "greenhouse-figma-6180116004",
+      "title": "Early Career, Associate Product Manager (2027)",
+      "company": "Figma",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004",
+      "source": "Greenhouse (Figma)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "greenhouse-onetrust-8192392",
+      "title": "Principal Product Manager, AI Runtime Governance",
+      "company": "OneTrust",
+      "location": "Bengaluru, India",
+      "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192392",
+      "source": "Greenhouse (OneTrust)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "sf-careers.wipro.com-205260",
+      "title": "Product Management Consulting",
+      "company": "Wipro",
+      "location": "Hyderabad, IND-36, IND, 500032<br/>",
+      "url": "https://careers.wipro.com/job/Product-Management-Consulting/205260-en_US/",
+      "source": "Wipro careers",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "vc-accel-93346903",
+      "title": "Principal Product Manager - Prisma AIRS - Bangalore",
+      "company": "Cortex by Palo Alto Networks",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/principal-product-manager-prisma-airs-bangalore/47263/100674862960",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "vc-accel-93091710",
+      "title": "Product Manager (Growth - B2B Enterprise)",
+      "company": "Frame.io",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-08"
     }
   ],
   "signals": [

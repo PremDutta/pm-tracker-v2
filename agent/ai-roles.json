@@ -45,6 +45,28 @@
       "firstSeen": "2026-10-07"
     },
     {
+      "id": "ashby-elevenlabs-934dbe9d-1c1f-4939-944a-6671469009db",
+      "title": "Enterprise Product Manager - ElevenCreative",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db",
+      "source": "Ashby (ElevenLabs)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-07"
+    },
+    {
+      "id": "ashby-elevenlabs-7389c057-3e25-4e7a-8a03-5e80f40a15a0",
+      "title": "Self-Serve Product Manager - ElevenCreative",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0",
+      "source": "Ashby (ElevenLabs)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-07"
+    },
+    {
       "id": "vc-lightspeed-4726336005",
       "title": "Product Manager",
       "company": "Glean",
@@ -111,22 +133,22 @@
       "firstSeen": "2026-10-07"
     },
     {
+      "id": "greenhouse-onetrust-8192392",
+      "title": "Principal Product Manager, AI Runtime Governance",
+      "company": "OneTrust",
+      "location": "Bengaluru, India",
+      "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192392",
+      "source": "Greenhouse (OneTrust)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-07"
+    },
+    {
       "id": "vc-lightspeed-30ecc735-369a-429f-8df5-585b1516cef7",
       "title": "Product Manager, Payroll Integrations",
       "company": "Rippling",
       "location": "Bangalore, India",
       "url": "https://ats.rippling.com/rippling/jobs/30ecc735-369a-429f-8df5-585b1516cef7",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-07"
-    },
-    {
-      "id": "vc-lightspeed-c4bb3b2c-7608-4d57-8761-650b4222ac13",
-      "title": "Product Manager",
-      "company": "Sarvam AI",
-      "location": "Bengaluru, Karnataka, India, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
@@ -174,17 +196,6 @@
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "title",
-      "firstSeen": "2026-10-07"
-    },
-    {
-      "id": "vc-lightspeed-929e2e12-7a2f-4e28-9d27-f220910b2125",
-      "title": "Product Manager, Growth",
-      "company": "Sarvam AI",
-      "location": "Bengaluru, Karnataka, India, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/sarvam/929e2e12-7a2f-4e28-9d27-f220910b2125",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
       "firstSeen": "2026-10-07"
     },
     {
@@ -613,17 +624,6 @@
       "url": "https://apply.workable.com/j/A9A35765A4",
       "source": "Workable (Innovaccer)",
       "level": "senior",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "oracle-jpmc.fa.oraclecloud.com-210794392",
-      "title": "Executive Director - Senior AI Product Manager",
-      "company": "JPMorgan Chase",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794392",
-      "source": "JPMorgan Chase careers",
-      "level": "leadership",
       "aiMatch": "title",
       "firstSeen": "2026-10-05"
     },
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "vc-accel-48045360",
-      "title": "Director - Product",
+      "title": "Associate Director - Product",
       "company": "Spyne",
       "location": "Gurugram, Haryana, India",
       "url": "https://spyneai.keka.com/careers/jobdetails/49785",
