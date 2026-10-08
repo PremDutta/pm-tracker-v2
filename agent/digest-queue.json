@@ -1963,6 +1963,69 @@
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
       "source": "Workday (Mastercard)",
       "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "sf-careers.hcltech.com-178154",
+      "title": "Product Manager/ Product Lead",
+      "company": "HCLTech",
+      "location": "Noida",
+      "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/178154-en_US/",
+      "source": "HCLTech careers",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210792979",
+      "title": "Product Manager - Liquidity & Account Solutions Product Development – Vice President",
+      "company": "JPMorgan Chase",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792979",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293101",
+      "title": "Manager, Product Management",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-293101",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "lever-paytm-2294c39e-0394-472b-8ba0-736857fa24a8",
+      "title": "Product Management- Product Analyst- Telco",
+      "company": "Paytm",
+      "location": "Noida, Uttar Pradesh",
+      "url": "https://jobs.lever.co/paytm/2294c39e-0394-472b-8ba0-736857fa24a8",
+      "source": "Lever (Paytm)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "vc-accel-96255661",
+      "title": "Assistant Manager - Banking Product Manager (Mumbai, IN)",
+      "company": "Wibmo",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://careers.payu.in/PayU/job/Mumbai-Assistant-Manager-Banking-Product-Manager/54189180/",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "vc-accel-96255663",
+      "title": "Assistant Manager - Banking Product Manager (Mumbai, IN)",
+      "company": "Wibmo",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://careers.payu.in/PayU/job/Mumbai-Assistant-Manager-Banking-Product-Manager/54189280/",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "vc-accel-96236150",
+      "title": "Senior Technical Product Manager",
+      "company": "Hpe Simplivity",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.hpe.com/us/en/job/1215737",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-08"
     }
   ],
   "signals": [
@@ -1986,6 +2049,12 @@
       "company": "Accenture",
       "date": "2026-10-07",
       "detail": "137 engineering openings vs a usual 36"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-08",
+      "detail": "152 engineering openings vs a usual 36"
     }
   ],
   "reminders": {}

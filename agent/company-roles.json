@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-08T09:18:03.902Z",
+  "scannedAt": "2026-10-08T12:57:13.249Z",
   "roles": {
     "Adobe": [
       {
@@ -197,18 +197,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10551512",
-        "title": "Senior Product Manager, Amazon - Sub Same Day",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10551512/senior-product-manager-amazon-sub-same-day",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10551513",
         "title": "Senior Product Manager, Amazon - Sub Same Day",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10551512",
+        "title": "Senior Product Manager, Amazon - Sub Same Day",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10551512/senior-product-manager-amazon-sub-same-day",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -727,6 +727,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.hcltech.com-178154",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/178154-en_US/",
+        "level": "group",
+        "firstSeen": "2026-10-08"
+      },
+      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -743,18 +751,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-159765",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-159765",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -907,6 +915,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210794392",
+        "title": "Executive Director - Senior AI Product Manager",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794392",
+        "level": "leadership",
+        "firstSeen": "2026-10-08"
+      },
+      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210782853",
         "title": "Product Director, Metrics (Product Agility Tools)",
         "location": "Hyderabad, Telangana, India",
@@ -921,6 +937,14 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784785",
         "level": "leadership",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210792979",
+        "title": "Product Manager - Liquidity & Account Solutions Product Development – Vice President",
+        "location": "Mumbai, Maharashtra, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792979",
+        "level": "leadership",
+        "firstSeen": "2026-10-08"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210790718",
@@ -1051,6 +1075,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293101",
+        "title": "Manager, Product Management",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-293101",
+        "level": "pm",
+        "firstSeen": "2026-10-08"
+      },
+      {
         "id": "workday-mastercard-/job/Gurgaon-India/Manager--Product-Management_R-291979",
         "title": "Manager, Product Management",
         "location": "Gurgaon, India",
@@ -1063,14 +1095,6 @@
         "title": "Manager, Product Management",
         "location": "Pune, India",
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-290035",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-286301",
-        "title": "Manager, Product Management",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-286301",
         "level": "pm",
         "firstSeen": "2026-09-30"
       },
@@ -1207,10 +1231,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556911401",
+        "id": "eightfold-microsoft.com-1970393556997831",
         "title": "Principal Product Manager",
-        "location": "India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1223,10 +1247,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556997831",
+        "id": "eightfold-microsoft.com-1970393556911401",
         "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
+        "location": "India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1239,20 +1263,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556995338",
-        "title": "Product Manager II",
-        "location": "India, Karnataka, Bangalore; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556995338",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557016594",
         "title": "Product Manager II",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557016594",
         "level": "pm",
         "firstSeen": "2026-10-06"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556995338",
+        "title": "Product Manager II",
+        "location": "India, Karnataka, Bangalore; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556995338",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "eightfold-microsoft.com-1970393556962532",
@@ -1581,6 +1605,14 @@
         "url": "https://jobs.lever.co/paytm/fec8e98b-d09b-4edb-b5a9-fe04aa079a3c",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "lever-paytm-2294c39e-0394-472b-8ba0-736857fa24a8",
+        "title": "Product Management- Product Analyst- Telco",
+        "location": "Noida, Uttar Pradesh",
+        "url": "https://jobs.lever.co/paytm/2294c39e-0394-472b-8ba0-736857fa24a8",
+        "level": "pm",
+        "firstSeen": "2026-10-08"
       }
     ],
     "PhonePe": [
@@ -1644,30 +1676,6 @@
       }
     ],
     "Razorpay": [
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4715389005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
-        "level": "pm",
-        "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4699107005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4729533005",
-        "title": "Product Manager II - Ads ",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
         "title": "Senior Product Manager",
@@ -1951,6 +1959,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.wipro.com-198887",
+        "title": "Product Management Consulting",
+        "location": "Hyderabad, IND-36, IND, 500032<br/>",
+        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198887-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-07"
+      },
+      {
         "id": "sf-careers.wipro.com-198709",
         "title": "Product Management Consulting",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
@@ -1965,14 +1981,6 @@
         "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
         "level": "pm",
         "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "sf-careers.wipro.com-198887",
-        "title": "Product Management Consulting",
-        "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198887-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-10-07"
       },
       {
         "id": "sf-careers.wipro.com-205260",
@@ -1999,14 +2007,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.wipro.com-198488",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.wipro.com-198487",
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
@@ -2019,6 +2019,14 @@
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198486-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.wipro.com-198488",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       }
@@ -2049,18 +2057,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "zoho-go-yubi-66789000036412626",
-        "title": "Senior Product Manager",
-        "location": "Bangalore South, India",
-        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "zoho-go-yubi-66789000016213700",
         "title": "Senior Product Manager",
         "location": "Chennai, India",
         "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "zoho-go-yubi-66789000036412626",
+        "title": "Senior Product Manager",
+        "location": "Bangalore South, India",
+        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
         "level": "senior",
         "firstSeen": "2026-09-30"
       }

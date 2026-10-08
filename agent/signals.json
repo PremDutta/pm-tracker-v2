@@ -1,6 +1,20 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-08",
+      "detail": "152 engineering openings vs a usual 36"
+    },
+    {
+      "type": "funding",
+      "company": "DailyObjects",
+      "title": "DailyObjects raises Rs 332 Cr in Series C round led by Xponentia, Anicut, Axiom Asia",
+      "url": "https://entrackr.com/news/dailyobjects-raises-rs-332-cr-in-series-c-round-led-by-xponentia-anicut-axiom-asia-12638318",
+      "date": "2026-10-08",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "funding",
       "company": "TailBlaze Longevity",
       "title": "Pet food startup TailBlaze Longevity raises pre-seed funding",
