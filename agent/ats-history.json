@@ -158,8 +158,8 @@
           "eng": 269
         },
         "2026-10-08": {
-          "total": 647,
-          "eng": 269
+          "total": 648,
+          "eng": 270
         }
       },
       "pm": {
@@ -466,8 +466,8 @@
           "eng": 50
         },
         "2026-10-08": {
-          "total": 126,
-          "eng": 50
+          "total": 124,
+          "eng": 48
         }
       },
       "pm": {
@@ -847,7 +847,7 @@
           "eng": 2
         },
         "2026-10-08": {
-          "total": 15,
+          "total": 14,
           "eng": 2
         }
       },
@@ -1066,7 +1066,7 @@
           "eng": 37
         },
         "2026-10-08": {
-          "total": 141,
+          "total": 140,
           "eng": 37
         }
       },
@@ -1193,7 +1193,7 @@
           "eng": 31
         },
         "2026-10-08": {
-          "total": 153,
+          "total": 150,
           "eng": 31
         }
       },
@@ -1349,7 +1349,7 @@
           "eng": 49
         },
         "2026-10-08": {
-          "total": 134,
+          "total": 135,
           "eng": 49
         }
       },
@@ -1410,8 +1410,8 @@
           "eng": 416
         },
         "2026-10-08": {
-          "total": 815,
-          "eng": 416
+          "total": 816,
+          "eng": 417
         }
       },
       "pm": {
@@ -1634,7 +1634,7 @@
           "eng": 0
         },
         "2026-10-08": {
-          "total": 7,
+          "total": 8,
           "eng": 0
         }
       },
@@ -2354,7 +2354,7 @@
           "eng": 2
         },
         "2026-10-08": {
-          "total": 11,
+          "total": 9,
           "eng": 2
         }
       },
@@ -2414,7 +2414,7 @@
           "eng": 1
         },
         "2026-10-08": {
-          "total": 23,
+          "total": 26,
           "eng": 1
         }
       },
@@ -2661,8 +2661,8 @@
           "eng": 15
         },
         "2026-10-08": {
-          "total": 37,
-          "eng": 14
+          "total": 38,
+          "eng": 15
         }
       },
       "pm": {
@@ -2756,7 +2756,7 @@
           "eng": 3
         },
         "2026-10-08": {
-          "total": 86,
+          "total": 87,
           "eng": 3
         }
       },
@@ -3110,6 +3110,18 @@
             "amazon-10568582"
           ],
           "lastSeen": "2026-10-08"
+        },
+        "product manager in p3p": {
+          "ids": [
+            "amazon-10572974"
+          ],
+          "lastSeen": "2026-10-08"
+        },
+        "senior product manager rewards amazon pay rewards": {
+          "ids": [
+            "amazon-10572930"
+          ],
+          "lastSeen": "2026-10-08"
         }
       }
     },
@@ -3204,7 +3216,7 @@
         },
         "2026-10-08": {
           "total": 100,
-          "eng": 32
+          "eng": 33
         }
       },
       "pm": {
@@ -3358,7 +3370,7 @@
           "eng": 8
         },
         "2026-10-08": {
-          "total": 70,
+          "total": 69,
           "eng": 8
         }
       },
@@ -3554,7 +3566,7 @@
           "eng": 14
         },
         "2026-10-08": {
-          "total": 44,
+          "total": 45,
           "eng": 14
         }
       },
@@ -3989,7 +4001,7 @@
         },
         "2026-10-08": {
           "total": 100,
-          "eng": 36
+          "eng": 38
         }
       },
       "pm": {
@@ -4278,8 +4290,8 @@
           "eng": 1
         },
         "2026-10-08": {
-          "total": 7,
-          "eng": 3
+          "total": 4,
+          "eng": 0
         }
       },
       "pm": {}
@@ -4367,7 +4379,7 @@
           "eng": 9
         },
         "2026-10-08": {
-          "total": 175,
+          "total": 177,
           "eng": 9
         }
       },
@@ -4481,7 +4493,7 @@
           "eng": 18
         },
         "2026-10-08": {
-          "total": 90,
+          "total": 91,
           "eng": 18
         }
       },
@@ -4554,7 +4566,7 @@
         },
         "2026-10-08": {
           "total": 29,
-          "eng": 3
+          "eng": 4
         }
       },
       "pm": {
@@ -4622,7 +4634,7 @@
           "eng": 0
         },
         "2026-10-08": {
-          "total": 12,
+          "total": 13,
           "eng": 0
         }
       },
@@ -4797,7 +4809,7 @@
         },
         "2026-10-08": {
           "total": 100,
-          "eng": 33
+          "eng": 35
         }
       },
       "pm": {
@@ -4849,7 +4861,8 @@
             "smartrecruiters-ServiceNow-744000152746979",
             "smartrecruiters-ServiceNow-744000153660649"
           ],
-          "lastSeen": "2026-10-08"
+          "lastSeen": "2026-10-08",
+          "closedOn": "2026-10-08"
         },
         "senior director product unified security and exposure management": {
           "ids": [
@@ -4883,7 +4896,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000153663349"
           ],
-          "lastSeen": "2026-10-08"
+          "lastSeen": "2026-10-08",
+          "closedOn": "2026-10-08"
         },
         "sr staff product manager network security": {
           "ids": [
@@ -4947,8 +4961,8 @@
           "eng": 68
         },
         "2026-10-08": {
-          "total": 132,
-          "eng": 69
+          "total": 138,
+          "eng": 70
         }
       },
       "pm": {
@@ -5035,7 +5049,8 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Manager--Product-Management--Scheme-and-Regulatory-Compliance_R-291500"
           ],
-          "lastSeen": "2026-10-08"
+          "lastSeen": "2026-10-08",
+          "closedOn": "2026-10-08"
         },
         "lead product management technical ai transformation": {
           "ids": [
@@ -5058,6 +5073,24 @@
         "consumer credit analytics global product manager specialist": {
           "ids": [
             "workday-mastercard-/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1"
+          ],
+          "lastSeen": "2026-10-08"
+        },
+        "senior specialist product management custom analytics": {
+          "ids": [
+            "workday-mastercard-/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1"
+          ],
+          "lastSeen": "2026-10-08"
+        },
+        "senior specialist product manager": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Senior-Specialist-Product-Manager_R-290092"
+          ],
+          "lastSeen": "2026-10-08"
+        },
+        "lead product manager 2": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455"
           ],
           "lastSeen": "2026-10-08"
         }
@@ -5222,7 +5255,7 @@
         },
         "2026-10-08": {
           "total": 100,
-          "eng": 3
+          "eng": 2
         }
       },
       "pm": {
@@ -5393,7 +5426,7 @@
           "eng": 37
         },
         "2026-10-08": {
-          "total": 103,
+          "total": 104,
           "eng": 37
         }
       },
@@ -5474,7 +5507,7 @@
           "eng": 3
         },
         "2026-10-08": {
-          "total": 21,
+          "total": 20,
           "eng": 3
         }
       },
@@ -5561,7 +5594,7 @@
           "eng": 5
         },
         "2026-10-08": {
-          "total": 50,
+          "total": 52,
           "eng": 5
         }
       },
@@ -5744,7 +5777,7 @@
           "eng": 49
         },
         "2026-10-08": {
-          "total": 77,
+          "total": 76,
           "eng": 49
         }
       },
@@ -5910,8 +5943,8 @@
           "eng": 23
         },
         "2026-10-08": {
-          "total": 73,
-          "eng": 23
+          "total": 80,
+          "eng": 24
         }
       },
       "pm": {
@@ -5995,8 +6028,8 @@
           "eng": 37
         },
         "2026-10-08": {
-          "total": 79,
-          "eng": 39
+          "total": 78,
+          "eng": 36
         }
       },
       "pm": {}
@@ -6038,7 +6071,7 @@
           "spike": true
         },
         "2026-10-08": {
-          "total": 200,
+          "total": 199,
           "eng": 37
         }
       },
@@ -6117,8 +6150,8 @@
           "eng": 45
         },
         "2026-10-08": {
-          "total": 71,
-          "eng": 45
+          "total": 70,
+          "eng": 43
         }
       },
       "pm": {
@@ -6165,6 +6198,10 @@
         "2026-10-07": {
           "total": 76,
           "eng": 40
+        },
+        "2026-10-08": {
+          "total": 73,
+          "eng": 37
         }
       },
       "pm": {
@@ -6173,7 +6210,7 @@
             "eightfold-microsoft.com-1970393556962532",
             "eightfold-microsoft.com-1970393556971850"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-08"
         },
         "principal product manager": {
           "ids": [
@@ -6183,26 +6220,25 @@
             "eightfold-microsoft.com-1970393556999250",
             "eightfold-microsoft.com-1970393556911401"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-08"
         },
         "product manager ii": {
           "ids": [
             "eightfold-microsoft.com-1970393556995338"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-08"
         },
         "principal product management": {
           "ids": [
             "eightfold-microsoft.com-1970393556962542"
           ],
-          "lastSeen": "2026-10-05",
-          "closedOn": "2026-10-05"
+          "lastSeen": "2026-10-08"
         },
         "product management intern": {
           "ids": [
             "eightfold-microsoft.com-1970393556978896"
           ],
-          "lastSeen": "2026-10-07"
+          "lastSeen": "2026-10-08"
         }
       }
     },
@@ -6221,8 +6257,8 @@
           "eng": 2
         },
         "2026-10-08": {
-          "total": 6,
-          "eng": 2
+          "total": 7,
+          "eng": 3
         }
       },
       "pm": {}
@@ -6349,8 +6385,8 @@
           "eng": 578
         },
         "2026-10-08": {
-          "total": 894,
-          "eng": 580
+          "total": 895,
+          "eng": 581
         }
       },
       "pm": {
@@ -6522,7 +6558,8 @@
         },
         "sr product manager lakebase": {
           "ids": [
-            "greenhouse-databricks-8876675002"
+            "greenhouse-databricks-8876675002",
+            "greenhouse-databricks-8811265002"
           ],
           "lastSeen": "2026-10-08"
         }
@@ -6543,7 +6580,7 @@
           "eng": 21
         },
         "2026-10-08": {
-          "total": 41,
+          "total": 39,
           "eng": 21
         }
       },
@@ -6700,7 +6737,7 @@
         },
         "2026-10-08": {
           "total": 30,
-          "eng": 13
+          "eng": 12
         }
       },
       "pm": {
@@ -7153,8 +7190,8 @@
           "eng": 13
         },
         "2026-10-08": {
-          "total": 19,
-          "eng": 13
+          "total": 18,
+          "eng": 12
         }
       },
       "pm": {
@@ -7230,7 +7267,7 @@
           "eng": 42
         },
         "2026-10-08": {
-          "total": 95,
+          "total": 94,
           "eng": 42
         }
       },
@@ -7340,8 +7377,8 @@
           "eng": 41
         },
         "2026-10-08": {
-          "total": 132,
-          "eng": 41
+          "total": 133,
+          "eng": 42
         }
       },
       "pm": {
@@ -7528,8 +7565,8 @@
           "eng": 34
         },
         "2026-10-08": {
-          "total": 70,
-          "eng": 34
+          "total": 69,
+          "eng": 33
         }
       },
       "pm": {
@@ -7625,7 +7662,7 @@
           "eng": 182
         },
         "2026-10-08": {
-          "total": 356,
+          "total": 357,
           "eng": 182
         }
       },
@@ -7753,7 +7790,7 @@
           "eng": 37
         },
         "2026-10-08": {
-          "total": 103,
+          "total": 105,
           "eng": 37
         }
       },

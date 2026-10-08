@@ -1918,6 +1918,51 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
       "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "amazon-10572974",
+      "title": "Product Manager, IN P3P",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10572974/product-manager-in-p3p",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "amazon-10572930",
+      "title": "Senior Product Manager, Rewards, Amazon Pay Rewards",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10572930/senior-product-manager-rewards-amazon-pay-rewards",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "workday-mastercard-/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1",
+      "title": "Senior Specialist, Product Management, Custom Analytics",
+      "company": "Mastercard",
+      "location": "Gurgaon, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Senior-Specialist-Product-Manager_R-290092",
+      "title": "Senior Specialist Product Manager",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Specialist-Product-Manager_R-290092",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-08"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
+      "title": "Lead Product Manager (AI)-2",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-08"
     }
   ],
   "signals": [

@@ -650,7 +650,12 @@
     "ashby-deepgram-be9f18f6-8851-40fb-be50-3c13d7457092",
     "greenhouse-simpplr-6220126004",
     "vc-lightspeed-4736585005",
-    "vc-lightspeed-4715389005"
+    "vc-lightspeed-4715389005",
+    "amazon-10572974",
+    "amazon-10572930",
+    "workday-mastercard-/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1",
+    "workday-mastercard-/job/Pune-India/Senior-Specialist-Product-Manager_R-290092",
+    "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455"
   ],
   "firstRun": false,
   "baselinedOrgs": [
@@ -682,6 +687,7 @@
     "EIL",
     "EPIL",
     "EXIM",
+    "EdCIL",
     "GAIL",
     "GIC Re",
     "GRSE",

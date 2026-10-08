@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-08T04:51:23.141Z",
+  "scannedAt": "2026-10-08T09:18:03.902Z",
   "roles": {
     "Adobe": [
       {
@@ -69,18 +69,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10442269",
-        "title": "Product Manager-Tech III, Finance Automation",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10442269/product-manager-tech-iii-finance-automation",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10538234",
         "title": "Product Manager-Tech III, Finance Automation",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10538234/product-manager-tech-iii-finance-automation",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10442269",
+        "title": "Product Manager-Tech III, Finance Automation",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10442269/product-manager-tech-iii-finance-automation",
         "level": "pm",
         "firstSeen": "2026-09-30"
       },
@@ -115,6 +115,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10456178/product-manager-amazon-payment-services",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10572974",
+        "title": "Product Manager, IN P3P",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10572974/product-manager-in-p3p",
+        "level": "pm",
+        "firstSeen": "2026-10-08"
       },
       {
         "id": "amazon-10496620",
@@ -267,6 +275,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10464724/senior-product-manager-rbs-organization-excellence",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10572930",
+        "title": "Senior Product Manager, Rewards, Amazon Pay Rewards",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10572930/senior-product-manager-rewards-amazon-pay-rewards",
+        "level": "senior",
+        "firstSeen": "2026-10-08"
       },
       {
         "id": "amazon-10556408",
@@ -433,14 +449,6 @@
         "title": "Sr. Product Manager, Credit and Lending, Amazon Credit and Lending",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10496615/sr-product-manager-credit-and-lending-amazon-credit-and-lending",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10496614",
-        "title": "Sr. Product Manager, Credit and Lending, Amazon Credit and Lending",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10496614/sr-product-manager-credit-and-lending-amazon-credit-and-lending",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -995,6 +1003,14 @@
         "firstSeen": "2026-10-06"
       },
       {
+        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
+        "title": "Lead Product Manager (AI)-2",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
+        "level": "group",
+        "firstSeen": "2026-10-08"
+      },
+      {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289421",
         "title": "Lead Product Manager- Technical",
         "location": "Pune, India",
@@ -1067,14 +1083,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "workday-mastercard-/job/Pune-India/Manager--Product-Management--Scheme-and-Regulatory-Compliance_R-291500",
-        "title": "Manager, Product Management, Scheme and Regulatory Compliance",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management--Scheme-and-Regulatory-Compliance_R-291500",
-        "level": "pm",
-        "firstSeen": "2026-10-02"
-      },
-      {
         "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
         "title": "Senior Product Manager - Technical",
         "location": "Pune, India",
@@ -1097,6 +1105,22 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-288002",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "workday-mastercard-/job/Pune-India/Senior-Specialist-Product-Manager_R-290092",
+        "title": "Senior Specialist Product Manager",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Specialist-Product-Manager_R-290092",
+        "level": "senior",
+        "firstSeen": "2026-10-08"
+      },
+      {
+        "id": "workday-mastercard-/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1",
+        "title": "Senior Specialist, Product Management, Custom Analytics",
+        "location": "Gurgaon, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1",
+        "level": "senior",
+        "firstSeen": "2026-10-08"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Specialist-Product-Manager_R-290356",
@@ -1166,6 +1190,14 @@
       }
     ],
     "Microsoft": [
+      {
+        "id": "eightfold-microsoft.com-1970393556962542",
+        "title": "Principal Product Management",
+        "location": "India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556962542",
+        "level": "group",
+        "firstSeen": "2026-10-08"
+      },
       {
         "id": "eightfold-microsoft.com-1970393556944984",
         "title": "Principal Product Manager",
@@ -1613,12 +1645,12 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4736965005",
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4715389005",
         "title": "Product Manager II",
         "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
         "level": "pm",
-        "firstSeen": "2026-09-30"
+        "firstSeen": "2026-10-06"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4699107005",
@@ -1627,14 +1659,6 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
         "level": "pm",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4715389005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
-        "level": "pm",
-        "firstSeen": "2026-10-06"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4729533005",
@@ -1772,22 +1796,6 @@
       }
     ],
     "ServiceNow": [
-      {
-        "id": "smartrecruiters-ServiceNow-744000153663349",
-        "title": "Sr Staff Inbound Product Manager",
-        "location": "Hyderabad, , India",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153663349",
-        "level": "group",
-        "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "smartrecruiters-ServiceNow-744000153660649",
-        "title": "Staff Inbound Product Manager",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153660649",
-        "level": "group",
-        "firstSeen": "2026-10-06"
-      },
       {
         "id": "smartrecruiters-ServiceNow-744000153729109",
         "title": "Staff Technical Product Manager – AI/LLM expertise + AI Evaluation Science",
@@ -2194,7 +2202,7 @@
     "Mastercard": "2026-10-08",
     "Meesho": "2026-10-08",
     "Mensa Brands (BRND.ME)": "2026-10-08",
-    "Microsoft": "2026-10-07",
+    "Microsoft": "2026-10-08",
     "Mihup": "2026-10-08",
     "Mindtickle": "2026-10-08",
     "MongoDB": "2026-10-08",

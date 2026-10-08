@@ -1,6 +1,22 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "TailBlaze Longevity",
+      "title": "Pet food startup TailBlaze Longevity raises pre-seed funding",
+      "url": "https://entrackr.com/snippets/pet-food-startup-tailblaze-longevity-raises-pre-seed-funding-12637360",
+      "date": "2026-10-08",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Zinara",
+      "title": "Lab-grown diamond brand Zinara raises pre-seed funding led by Inflection Point Ventures",
+      "url": "https://entrackr.com/snippets/lab-grown-diamond-brand-zinara-raises-pre-seed-funding-led-by-inflection-point-ventures-12636439",
+      "date": "2026-10-08",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-10-07",
