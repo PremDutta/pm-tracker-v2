@@ -1,6 +1,28 @@
 {
   "roles": [
     {
+      "id": "vc-lightspeed-4699107005",
+      "title": "Product Manager II - AI",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-08"
+    },
+    {
+      "id": "greenhouse-simpplr-6220126004",
+      "title": "Associate Product Manager - Product Discovery & Strategy",
+      "company": "Simpplr",
+      "location": "Bengaluru, India; Gurugram, India",
+      "url": "https://job-boards.greenhouse.io/simpplr/jobs/6220126004",
+      "source": "Greenhouse (Simpplr)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-08"
+    },
+    {
       "id": "vc-lightspeed-ef285596-5640-47e2-a882-cccebe127c45",
       "title": "AI Product Manager, FinCrime",
       "company": "Aspire",
@@ -221,34 +243,12 @@
       "firstSeen": "2026-10-07"
     },
     {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-06"
-    },
-    {
       "id": "sf-careers.hcltech.com-159220",
       "title": "AI Product Manager I",
       "company": "HCLTech",
       "location": "Chennai",
       "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/159220-en_US/",
       "source": "HCLTech careers",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-06"
-    },
-    {
-      "id": "vc-peakxv-lbtWSkK_VfSx",
-      "title": "AI Native Product Manager",
-      "company": "Leap Finance",
-      "location": "Bengaluru, India",
-      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
-      "source": "VC board (Peak XV portfolio)",
       "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-06"
@@ -265,17 +265,6 @@
       "firstSeen": "2026-10-06"
     },
     {
-      "id": "vc-peakxv-59a692e8-9da6-4122-a988-33f52139c74d",
-      "title": "Product Manager — Marketing Automation AI Pod",
-      "company": "Purplle",
-      "location": "Vikhroli, Mumbai, Maharashtra, India",
-      "url": "https://purplle.turbohire.co/job/publicjobs/lcby0DpqrtlWwNkG%2FOMciq%2FEZv_E3TJhFP7CIxg3aEJXsrNpMw7wfC34UwKk9ZMB",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-06"
-    },
-    {
       "id": "eightfold-qualcomm.com-446717846060",
       "title": "Staff/Director – AI HW Product Management",
       "company": "Qualcomm",
@@ -283,28 +272,6 @@
       "url": "https://careers.qualcomm.com/careers/job/446717846060",
       "source": "Qualcomm careers",
       "level": "leadership",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-06"
-    },
-    {
-      "id": "vc-peakxv-4699107005",
-      "title": "Product Manager II - AI",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-06"
-    },
-    {
-      "id": "vc-peakxv-25493",
-      "title": "Principal Product Manager, AI",
-      "company": "SaaS Labs",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://careers.kula.ai/saas-labs/25493",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "group",
       "aiMatch": "title",
       "firstSeen": "2026-10-06"
     },
@@ -317,17 +284,6 @@
       "source": "SmartRecruiters (ServiceNow)",
       "level": "group",
       "aiMatch": "title",
-      "firstSeen": "2026-10-06"
-    },
-    {
-      "id": "vc-peakxv-8041196002",
-      "title": "Product Manager",
-      "company": "Sigmoid",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
       "firstSeen": "2026-10-06"
     },
     {
@@ -349,17 +305,6 @@
       "url": "https://spyneai.keka.com/careers/jobdetails/136045",
       "source": "VC board (Accel portfolio)",
       "level": "senior",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-06"
-    },
-    {
-      "id": "vc-peakxv-137246",
-      "title": "AI PRODUCT MANAGER",
-      "company": "TestMu",
-      "location": "Noida, UP, India",
-      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-06"
     },
