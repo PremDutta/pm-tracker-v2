@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-08T12:57:13.249Z",
+  "scannedAt": "2026-10-08T23:01:08.715Z",
   "roles": {
     "Adobe": [
       {
@@ -9,14 +9,6 @@
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043",
         "level": "group",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "workday-adobe-/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407",
-        "title": "Product Manager (Growth - B2B Enterprise)",
-        "location": "Bangalore",
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407",
-        "level": "pm",
-        "firstSeen": "2026-10-07"
       }
     ],
     "Amazon": [
@@ -69,18 +61,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10538234",
-        "title": "Product Manager-Tech III, Finance Automation",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10538234/product-manager-tech-iii-finance-automation",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10442269",
         "title": "Product Manager-Tech III, Finance Automation",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10442269/product-manager-tech-iii-finance-automation",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10538234",
+        "title": "Product Manager-Tech III, Finance Automation",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10538234/product-manager-tech-iii-finance-automation",
         "level": "pm",
         "firstSeen": "2026-09-30"
       },
@@ -421,6 +413,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "amazon-10573263",
+        "title": "Sr. Product Manager - Technical, WW Prime - Benefits, Pricing & Constructs, WW Prime - Benefits, Pricing & Constructs",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10573263/sr-product-manager-technical-ww-prime-benefits-pricing-constructs-ww-prime-benefits-pricing-constructs",
+        "level": "senior",
+        "firstSeen": "2026-10-08"
+      },
+      {
         "id": "amazon-10423878",
         "title": "Sr. Product Manager-Tech, DSP-DA Lifecycle Solutions",
         "location": "Hyderabad, Telangana, IND",
@@ -735,22 +735,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -763,6 +747,22 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1342,7 +1342,7 @@
     "MongoDB": [
       {
         "id": "greenhouse-mongodb-8094528",
-        "title": "Senior Product Manager",
+        "title": "Senior Product Manager, Atlas Agent Engine",
         "location": "Gurugram",
         "url": "https://www.mongodb.com/careers/job/?gh_jid=8094528",
         "level": "senior",
@@ -1391,6 +1391,14 @@
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654",
         "level": "pm",
         "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "workday-motorolasolutions-/job/Bangalore-India/Technical-Product-Manager_R68278",
+        "title": "Technical Product Manager",
+        "location": "Bangalore, India",
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Technical-Product-Manager_R68278",
+        "level": "pm",
+        "firstSeen": "2026-10-08"
       }
     ],
     "MyOperator": [
@@ -1803,16 +1811,6 @@
         "firstSeen": "2026-09-30"
       }
     ],
-    "ServiceNow": [
-      {
-        "id": "smartrecruiters-ServiceNow-744000153729109",
-        "title": "Staff Technical Product Manager – AI/LLM expertise + AI Evaluation Science",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153729109",
-        "level": "group",
-        "firstSeen": "2026-10-06"
-      }
-    ],
     "Sigmoid": [
       {
         "id": "greenhouse-sigmoid-8041196002",
@@ -1894,14 +1892,6 @@
       }
     ],
     "Target India": [
-      {
-        "id": "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-of-Product-Management_R0000449194",
-        "title": "Director of Product Management",
-        "location": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-of-Product-Management_R0000449194",
-        "level": "leadership",
-        "firstSeen": "2026-09-30"
-      },
       {
         "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
         "title": "Principal Product Manager",
