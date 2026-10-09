@@ -1,6 +1,39 @@
 {
   "roles": [
     {
+      "id": "vc-accel-95338178",
+      "title": "Global Product Lead, Support Tools, Global Business Applied AI, GTM",
+      "company": "Google",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=25",
+      "source": "VC board (Accel portfolio)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-09"
+    },
+    {
+      "id": "vc-accel-96020960",
+      "title": "Product Manager, Agentic, Customer Engagement",
+      "company": "Google",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/79624660211114694-product-manager-agentic-customer-engagement?page=9",
+      "source": "VC board (Accel portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-09"
+    },
+    {
+      "id": "vc-accel-91754703",
+      "title": "Senior Product Manager, Map Intelligence, Google Maps Platform",
+      "company": "Google",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84477310756889286-senior-product-manager-map-intelligence-google-maps-platform?page=139",
+      "source": "VC board (Accel portfolio)",
+      "level": "senior",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-09"
+    },
+    {
       "id": "eightfold-qualcomm.com-446717846060",
       "title": "Staff/Director – AI HW Product Management",
       "company": "Qualcomm",
@@ -8,6 +41,17 @@
       "url": "https://careers.qualcomm.com/careers/job/446717846060",
       "source": "Qualcomm careers",
       "level": "leadership",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-09"
+    },
+    {
+      "id": "greenhouse-zenoti-7806709003",
+      "title": "Lead Product Manager(SaaS + AI)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7806709003",
+      "source": "Greenhouse (Zenoti)",
+      "level": "group",
       "aiMatch": "title",
       "firstSeen": "2026-10-09"
     },
@@ -171,17 +215,6 @@
       "company": "ElevenLabs",
       "location": "Remote",
       "url": "https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db",
-      "source": "Ashby (ElevenLabs)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-07"
-    },
-    {
-      "id": "ashby-elevenlabs-7389c057-3e25-4e7a-8a03-5e80f40a15a0",
-      "title": "Product Manager (ElevenCreative Self-Serve)",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0",
       "source": "Ashby (ElevenLabs)",
       "level": "pm",
       "aiMatch": "company",
@@ -1085,17 +1118,6 @@
       "location": "Bangalore, India",
       "url": "https://vedantu.zohorecruit.in/jobs/Careers/95146000003170110/AI-Product-Manager?source=CareerSite",
       "source": "Zoho Recruit (Vedantu)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "vc-accel-51733250",
-      "title": "AI Product Manager",
-      "company": "Vedantu",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://vedantu.zohorecruit.in/jobs/Careers/95146000003170110/AI-Product-Manager?source=CareerSite",
-      "source": "VC board (Accel portfolio)",
       "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-05"

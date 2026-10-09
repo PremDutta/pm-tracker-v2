@@ -51,8 +51,8 @@
           "eng": 41
         },
         "2026-10-09": {
-          "total": 101,
-          "eng": 41
+          "total": 102,
+          "eng": 42
         }
       },
       "pm": {
@@ -99,7 +99,8 @@
           "ids": [
             "greenhouse-asana-7901186"
           ],
-          "lastSeen": "2026-10-09"
+          "lastSeen": "2026-10-09",
+          "closedOn": "2026-10-09"
         },
         "senior product manager ai studio": {
           "ids": [
@@ -110,6 +111,13 @@
         "product manager": {
           "ids": [
             "greenhouse-asana-8260059",
+            "greenhouse-asana-8194540"
+          ],
+          "lastSeen": "2026-10-09",
+          "closedOn": "2026-10-09"
+        },
+        "senior product manager integrations platform": {
+          "ids": [
             "greenhouse-asana-8194540"
           ],
           "lastSeen": "2026-10-09"
@@ -167,7 +175,7 @@
           "eng": 268
         },
         "2026-10-09": {
-          "total": 643,
+          "total": 646,
           "eng": 266
         }
       },
@@ -493,8 +501,8 @@
           "eng": 47
         },
         "2026-10-09": {
-          "total": 120,
-          "eng": 48
+          "total": 119,
+          "eng": 47
         }
       },
       "pm": {
@@ -747,7 +755,7 @@
           "eng": 78
         },
         "2026-10-09": {
-          "total": 183,
+          "total": 182,
           "eng": 78
         }
       },
@@ -839,7 +847,8 @@
           "ids": [
             "greenhouse-scaleai-4683446005"
           ],
-          "lastSeen": "2026-10-09"
+          "lastSeen": "2026-10-09",
+          "closedOn": "2026-10-09"
         }
       }
     },
@@ -1043,8 +1052,8 @@
           "eng": 43
         },
         "2026-10-09": {
-          "total": 92,
-          "eng": 43
+          "total": 93,
+          "eng": 41
         }
       },
       "pm": {
@@ -1069,6 +1078,12 @@
         "director of product operations": {
           "ids": [
             "ashby-deepgram-be9f18f6-8851-40fb-be50-3c13d7457092"
+          ],
+          "lastSeen": "2026-10-09"
+        },
+        "staff product manager ai applications": {
+          "ids": [
+            "ashby-deepgram-9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5"
           ],
           "lastSeen": "2026-10-09"
         }
@@ -1125,8 +1140,8 @@
           "eng": 38
         },
         "2026-10-09": {
-          "total": 145,
-          "eng": 39
+          "total": 123,
+          "eng": 34
         }
       },
       "pm": {
@@ -1147,7 +1162,8 @@
           "ids": [
             "ashby-elevenlabs-7389c057-3e25-4e7a-8a03-5e80f40a15a0"
           ],
-          "lastSeen": "2026-10-09"
+          "lastSeen": "2026-10-09",
+          "closedOn": "2026-10-09"
         }
       }
     },
@@ -1267,7 +1283,7 @@
           "eng": 31
         },
         "2026-10-09": {
-          "total": 153,
+          "total": 151,
           "eng": 31
         }
       },
@@ -1431,8 +1447,8 @@
           "eng": 47
         },
         "2026-10-09": {
-          "total": 133,
-          "eng": 47
+          "total": 132,
+          "eng": 48
         }
       },
       "pm": {
@@ -1496,8 +1512,8 @@
           "eng": 414
         },
         "2026-10-09": {
-          "total": 817,
-          "eng": 416
+          "total": 815,
+          "eng": 417
         }
       },
       "pm": {
@@ -1555,7 +1571,8 @@
           "ids": [
             "ashby-openai-70d5259a-f18c-4595-bf52-ec03eeeeac4c"
           ],
-          "lastSeen": "2026-10-09"
+          "lastSeen": "2026-10-09",
+          "closedOn": "2026-10-09"
         },
         "product manager enterprise identity": {
           "ids": [
@@ -1640,7 +1657,7 @@
           "eng": 40
         },
         "2026-10-09": {
-          "total": 163,
+          "total": 164,
           "eng": 40
         }
       },
@@ -2563,7 +2580,7 @@
           "eng": 1
         },
         "2026-10-09": {
-          "total": 25,
+          "total": 24,
           "eng": 1
         }
       },
@@ -2634,8 +2651,8 @@
           "eng": 32
         },
         "2026-10-09": {
-          "total": 79,
-          "eng": 32
+          "total": 85,
+          "eng": 34
         }
       },
       "pm": {
@@ -2832,7 +2849,7 @@
           "eng": 14
         },
         "2026-10-09": {
-          "total": 36,
+          "total": 35,
           "eng": 14
         }
       },
@@ -3092,7 +3109,8 @@
         },
         "sr product manager tech amazon pharmacy": {
           "ids": [
-            "amazon-10541182"
+            "amazon-10541182",
+            "amazon-10497676"
           ],
           "lastSeen": "2026-10-09"
         },
@@ -3476,7 +3494,7 @@
           "eng": 24
         },
         "2026-10-09": {
-          "total": 79,
+          "total": 78,
           "eng": 24
         }
       },
@@ -3880,7 +3898,7 @@
           "eng": 3
         },
         "2026-10-09": {
-          "total": 11,
+          "total": 12,
           "eng": 4
         }
       },
@@ -3925,7 +3943,7 @@
           "eng": 30
         },
         "2026-10-09": {
-          "total": 46,
+          "total": 45,
           "eng": 30
         }
       },
@@ -4203,7 +4221,7 @@
           "eng": 13
         },
         "2026-10-09": {
-          "total": 27,
+          "total": 28,
           "eng": 13
         }
       },
@@ -4262,7 +4280,7 @@
         },
         "2026-10-09": {
           "total": 100,
-          "eng": 35
+          "eng": 36
         }
       },
       "pm": {
@@ -4450,7 +4468,7 @@
         },
         "2026-10-09": {
           "total": 100,
-          "eng": 7
+          "eng": 10
         }
       },
       "pm": {}
@@ -5144,7 +5162,7 @@
         },
         "2026-10-09": {
           "total": 100,
-          "eng": 40
+          "eng": 43
         }
       },
       "pm": {
@@ -5229,10 +5247,10 @@
         },
         "sr staff inbound product manager": {
           "ids": [
-            "smartrecruiters-ServiceNow-744000153663349"
+            "smartrecruiters-ServiceNow-744000153663349",
+            "smartrecruiters-ServiceNow-744000154774511"
           ],
-          "lastSeen": "2026-10-08",
-          "closedOn": "2026-10-08"
+          "lastSeen": "2026-10-09"
         },
         "sr staff product manager network security": {
           "ids": [
@@ -5284,6 +5302,18 @@
             "smartrecruiters-ServiceNow-744000154541440"
           ],
           "lastSeen": "2026-10-09"
+        },
+        "principal product manager servicenow cloud platform": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000154770367"
+          ],
+          "lastSeen": "2026-10-09"
+        },
+        "director product management servicenow cloud": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000154770247"
+          ],
+          "lastSeen": "2026-10-09"
         }
       }
     },
@@ -5326,8 +5356,8 @@
           "eng": 71
         },
         "2026-10-09": {
-          "total": 144,
-          "eng": 74
+          "total": 142,
+          "eng": 73
         }
       },
       "pm": {
@@ -5547,7 +5577,7 @@
           "eng": 84
         },
         "2026-10-09": {
-          "total": 96,
+          "total": 95,
           "eng": 82
         }
       },
@@ -5832,8 +5862,8 @@
           "eng": 36
         },
         "2026-10-09": {
-          "total": 109,
-          "eng": 36
+          "total": 108,
+          "eng": 35
         }
       },
       "pm": {
@@ -6008,7 +6038,7 @@
           "eng": 5
         },
         "2026-10-09": {
-          "total": 54,
+          "total": 55,
           "eng": 7
         }
       },
@@ -6022,6 +6052,12 @@
         "senior manager product management": {
           "ids": [
             "greenhouse-zenoti-7729933003"
+          ],
+          "lastSeen": "2026-10-09"
+        },
+        "lead product manager": {
+          "ids": [
+            "greenhouse-zenoti-7806709003"
           ],
           "lastSeen": "2026-10-09"
         }
@@ -6066,7 +6102,7 @@
           "eng": 10
         },
         "2026-10-09": {
-          "total": 26,
+          "total": 29,
           "eng": 11
         }
       },
@@ -6204,7 +6240,7 @@
           "eng": 48
         },
         "2026-10-09": {
-          "total": 74,
+          "total": 76,
           "eng": 46
         }
       },
@@ -6212,13 +6248,20 @@
         "product manager": {
           "ids": [
             "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF084709W",
-            "workday-visa-/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W"
+            "workday-visa-/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
+            "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF089128W-1"
           ],
           "lastSeen": "2026-10-09"
         },
         "senior product manager platform and gateway": {
           "ids": [
             "workday-visa-/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W"
+          ],
+          "lastSeen": "2026-10-09"
+        },
+        "sr product manager": {
+          "ids": [
+            "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W"
           ],
           "lastSeen": "2026-10-09"
         }
@@ -6388,8 +6431,8 @@
           "eng": 27
         },
         "2026-10-09": {
-          "total": 76,
-          "eng": 30
+          "total": 64,
+          "eng": 26
         }
       },
       "pm": {
@@ -6477,8 +6520,8 @@
           "eng": 37
         },
         "2026-10-09": {
-          "total": 93,
-          "eng": 47
+          "total": 88,
+          "eng": 46
         }
       },
       "pm": {}
@@ -6525,8 +6568,8 @@
           "spike": true
         },
         "2026-10-09": {
-          "total": 199,
-          "eng": 146,
+          "total": 200,
+          "eng": 149,
           "spike": true
         }
       },
@@ -6615,8 +6658,8 @@
           "eng": 48
         },
         "2026-10-09": {
-          "total": 74,
-          "eng": 48
+          "total": 72,
+          "eng": 47
         }
       },
       "pm": {
@@ -6757,7 +6800,7 @@
           "eng": 15
         },
         "2026-10-09": {
-          "total": 29,
+          "total": 30,
           "eng": 15
         }
       },
@@ -6876,7 +6919,7 @@
           "eng": 576
         },
         "2026-10-09": {
-          "total": 893,
+          "total": 890,
           "eng": 579
         }
       },
@@ -7252,7 +7295,7 @@
           "eng": 13
         },
         "2026-10-09": {
-          "total": 32,
+          "total": 34,
           "eng": 13
         }
       },
@@ -7322,8 +7365,8 @@
           "eng": 31
         },
         "2026-10-09": {
-          "total": 66,
-          "eng": 31
+          "total": 67,
+          "eng": 32
         }
       },
       "pm": {
@@ -7577,8 +7620,8 @@
           "eng": 161
         },
         "2026-10-09": {
-          "total": 393,
-          "eng": 161
+          "total": 390,
+          "eng": 158
         }
       },
       "pm": {
@@ -7707,7 +7750,7 @@
         },
         "2026-10-09": {
           "total": 61,
-          "eng": 31
+          "eng": 32
         }
       },
       "pm": {
@@ -7851,8 +7894,8 @@
           "eng": 41
         },
         "2026-10-09": {
-          "total": 96,
-          "eng": 42
+          "total": 92,
+          "eng": 38
         }
       },
       "pm": {
@@ -7902,7 +7945,7 @@
         },
         "2026-10-09": {
           "total": 200,
-          "eng": 120
+          "eng": 123
         }
       },
       "pm": {
@@ -7969,8 +8012,8 @@
           "eng": 42
         },
         "2026-10-09": {
-          "total": 134,
-          "eng": 42
+          "total": 131,
+          "eng": 41
         }
       },
       "pm": {
@@ -8020,7 +8063,8 @@
           "ids": [
             "greenhouse-rubrik-8120738"
           ],
-          "lastSeen": "2026-10-09"
+          "lastSeen": "2026-10-09",
+          "closedOn": "2026-10-09"
         }
       }
     },
@@ -8043,8 +8087,8 @@
           "eng": 193
         },
         "2026-10-09": {
-          "total": 623,
-          "eng": 193
+          "total": 615,
+          "eng": 195
         }
       },
       "pm": {
@@ -8166,7 +8210,7 @@
           "eng": 34
         },
         "2026-10-09": {
-          "total": 71,
+          "total": 72,
           "eng": 35
         }
       },
@@ -8275,8 +8319,8 @@
           "eng": 182
         },
         "2026-10-09": {
-          "total": 361,
-          "eng": 184
+          "total": 360,
+          "eng": 183
         }
       },
       "pm": {
@@ -8411,8 +8455,8 @@
           "eng": 37
         },
         "2026-10-09": {
-          "total": 101,
-          "eng": 35
+          "total": 107,
+          "eng": 36
         }
       },
       "pm": {

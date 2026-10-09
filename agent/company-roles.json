@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-09T12:42:35.630Z",
+  "scannedAt": "2026-10-09T22:22:15.068Z",
   "roles": {
     "Adobe": [
       {
@@ -69,18 +69,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10442269",
-        "title": "Product Manager-Tech III, Finance Automation",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10442269/product-manager-tech-iii-finance-automation",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10538234",
         "title": "Product Manager-Tech III, Finance Automation",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10538234/product-manager-tech-iii-finance-automation",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10442269",
+        "title": "Product Manager-Tech III, Finance Automation",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10442269/product-manager-tech-iii-finance-automation",
         "level": "pm",
         "firstSeen": "2026-09-30"
       },
@@ -181,18 +181,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10551513",
-        "title": "Senior Product Manager, Amazon - Sub Same Day",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10551512",
         "title": "Senior Product Manager, Amazon - Sub Same Day",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10551512/senior-product-manager-amazon-sub-same-day",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10551513",
+        "title": "Senior Product Manager, Amazon - Sub Same Day",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -309,18 +309,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10541182",
-        "title": "Sr. Product Manager - Tech, Amazon Pharmacy",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10541182/sr-product-manager-tech-amazon-pharmacy",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10497676",
         "title": "Sr. Product Manager - Tech, Amazon Pharmacy",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10497676/sr-product-manager-tech-amazon-pharmacy",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10541182",
+        "title": "Sr. Product Manager - Tech, Amazon Pharmacy",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10541182/sr-product-manager-tech-amazon-pharmacy",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -711,18 +711,10 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
+        "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -735,10 +727,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158038",
+        "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1879,6 +1879,14 @@
     ],
     "Visa": [
       {
+        "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF089128W-1",
+        "title": "Product Manager",
+        "location": "IN - Bengaluru, India",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF089128W-1",
+        "level": "pm",
+        "firstSeen": "2026-10-09"
+      },
+      {
         "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
         "title": "Product Manager (Data Governance Platform, Metadata Management, Data Stewardship, Access Management) (6-12 years)",
         "location": "IN - Bengaluru, India",
@@ -1891,6 +1899,14 @@
         "title": "Senior Product Manager, Platform and Gateway",
         "location": "IN - Bengaluru, India",
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W",
+        "level": "senior",
+        "firstSeen": "2026-10-09"
+      },
+      {
+        "id": "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W",
+        "title": "Sr. Product Manager",
+        "location": "IN - Bengaluru, India",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W",
         "level": "senior",
         "firstSeen": "2026-10-09"
       }
@@ -2063,6 +2079,14 @@
         "url": "https://job-boards.greenhouse.io/zenoti/jobs/7513859003",
         "level": "leadership",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "greenhouse-zenoti-7806709003",
+        "title": "Lead Product Manager(SaaS + AI)",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://job-boards.greenhouse.io/zenoti/jobs/7806709003",
+        "level": "group",
+        "firstSeen": "2026-10-09"
       },
       {
         "id": "greenhouse-zenoti-7729933003",
