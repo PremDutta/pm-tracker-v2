@@ -2080,6 +2080,33 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448167008",
       "source": "Greenhouse (Anthropic)",
       "queuedOn": "2026-10-09"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210798770",
+      "title": "Product Manager - Infrastructure Platforms",
+      "company": "JPMorgan Chase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798770",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-09"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
+      "title": "Senior Product Manager - Technical",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-09"
+    },
+    {
+      "id": "workday-visa-/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W",
+      "title": "Senior Product Manager, Platform and Gateway",
+      "company": "Visa",
+      "location": "IN - Bengaluru, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W",
+      "source": "Workday (Visa)",
+      "queuedOn": "2026-10-09"
     }
   ],
   "signals": [
@@ -2109,6 +2136,12 @@
       "company": "Accenture",
       "date": "2026-10-08",
       "detail": "152 engineering openings vs a usual 36"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-09",
+      "detail": "145 engineering openings vs a usual 36"
     }
   ],
   "reminders": {}

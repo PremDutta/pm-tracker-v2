@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-09T04:54:17.569Z",
+  "scannedAt": "2026-10-09T09:25:21.835Z",
   "roles": {
     "Adobe": [
       {
@@ -225,14 +225,6 @@
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10516486",
-        "title": "Senior Product Manager, Amazon Pay Rewards",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10516486/senior-product-manager-amazon-pay-rewards",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -735,18 +727,10 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
+        "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -759,10 +743,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158038",
+        "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -921,6 +913,14 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784785",
         "level": "leadership",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210798770",
+        "title": "Product Manager - Infrastructure Platforms",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798770",
+        "level": "pm",
+        "firstSeen": "2026-10-09"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210792979",
@@ -1089,6 +1089,14 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management--Product-Resilience_R-287961",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
+        "title": "Senior Product Manager - Technical",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
+        "level": "senior",
+        "firstSeen": "2026-10-09"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
@@ -1287,20 +1295,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557016561",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
-        "level": "senior",
-        "firstSeen": "2026-10-06"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557016611",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
         "level": "senior",
         "firstSeen": "2026-10-07"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557016561",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+        "level": "senior",
+        "firstSeen": "2026-10-06"
       }
     ],
     "Mihup": [
@@ -1901,6 +1909,14 @@
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "workday-visa-/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W",
+        "title": "Senior Product Manager, Platform and Gateway",
+        "location": "IN - Bengaluru, India",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W",
+        "level": "senior",
+        "firstSeen": "2026-10-09"
       }
     ],
     "Wing Assistant (M32 AI)": [

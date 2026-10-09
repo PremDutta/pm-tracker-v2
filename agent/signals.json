@@ -1,12 +1,26 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-09",
+      "detail": "145 engineering openings vs a usual 36"
+    },
+    {
       "type": "funding",
       "company": "Gramiyaa",
       "title": "Exclusive: Gramiyaa raises fresh capital in Series A round at Rs 110 Cr valuation",
       "url": "https://entrackr.com/exclusive/exclusive-gramiyaa-raises-fresh-capital-in-series-a-round-at-rs-110-cr-valuation-12658745",
       "date": "2026-10-09",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "KISAH",
+      "title": "Menswear Brand KISAH Nets ₹35.9 Cr To Scale Retail Footprint",
+      "url": "https://inc42.com/buzz/menswear-brand-kisah-nets-%e2%82%b935-9-cr-to-scale-retail-footprint/",
+      "date": "2026-10-09",
+      "detail": "via Inc42"
     },
     {
       "type": "funding",
