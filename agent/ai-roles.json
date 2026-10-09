@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "eightfold-qualcomm.com-446717846060",
+      "title": "Staff/Director – AI HW Product Management",
+      "company": "Qualcomm",
+      "location": "Bangalore, India",
+      "url": "https://careers.qualcomm.com/careers/job/446717846060",
+      "source": "Qualcomm careers",
+      "level": "leadership",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-09"
+    },
+    {
       "id": "vc-peakxv-59397",
       "title": "Product Manager - AI and Agentic",
       "company": "Brightmoney",
@@ -393,17 +404,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10504461/principal-product-manager-tech-ai-multi-channel-commerce-amazon-smart-commerce",
       "source": "Amazon careers",
       "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "amazon-10503329",
-      "title": "Sr. Product Manager - Tech, Profit Intelligence",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10503329/sr-product-manager-tech-profit-intelligence",
-      "source": "Amazon careers",
-      "level": "senior",
       "aiMatch": "title",
       "firstSeen": "2026-10-05"
     },
