@@ -1,6 +1,22 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "Gramiyaa",
+      "title": "Exclusive: Gramiyaa raises fresh capital in Series A round at Rs 110 Cr valuation",
+      "url": "https://entrackr.com/exclusive/exclusive-gramiyaa-raises-fresh-capital-in-series-a-round-at-rs-110-cr-valuation-12658745",
+      "date": "2026-10-09",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "NeoGrowth",
+      "title": "MSME-focused digital lender NeoGrowth raises Rs 85 Cr from FMO, LeapFrog",
+      "url": "https://entrackr.com/news/msme-focused-digital-lender-neogrowth-raises-rs-85-cr-from-fmo-leapfrog-12658698",
+      "date": "2026-10-09",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-10-08",
