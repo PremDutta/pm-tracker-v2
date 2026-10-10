@@ -792,7 +792,7 @@
           "eng": 78
         },
         "2026-10-10": {
-          "total": 183,
+          "total": 182,
           "eng": 79
         }
       },
@@ -1101,7 +1101,7 @@
           "eng": 41
         },
         "2026-10-10": {
-          "total": 92,
+          "total": 91,
           "eng": 40
         }
       },
@@ -4038,7 +4038,7 @@
           "eng": 1
         },
         "2026-10-10": {
-          "total": 25,
+          "total": 24,
           "eng": 1
         }
       },
@@ -4497,7 +4497,7 @@
         },
         "2026-10-10": {
           "total": 100,
-          "eng": 34
+          "eng": 35
         }
       },
       "pm": {
@@ -4563,7 +4563,8 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210782853"
           ],
-          "lastSeen": "2026-10-10"
+          "lastSeen": "2026-10-10",
+          "closedOn": "2026-10-10"
         },
         "product manager": {
           "ids": [
@@ -4693,7 +4694,7 @@
         },
         "2026-10-10": {
           "total": 100,
-          "eng": 11
+          "eng": 10
         }
       },
       "pm": {}
@@ -4839,8 +4840,8 @@
           "eng": 2
         },
         "2026-10-10": {
-          "total": 8,
-          "eng": 4
+          "total": 10,
+          "eng": 6
         }
       },
       "pm": {}
@@ -4944,7 +4945,7 @@
           "eng": 9
         },
         "2026-10-10": {
-          "total": 181,
+          "total": 180,
           "eng": 9
         }
       },
@@ -5629,8 +5630,8 @@
           "eng": 73
         },
         "2026-10-10": {
-          "total": 142,
-          "eng": 73
+          "total": 139,
+          "eng": 70
         }
       },
       "pm": {
@@ -6768,8 +6769,8 @@
           "eng": 26
         },
         "2026-10-10": {
-          "total": 63,
-          "eng": 26
+          "total": 59,
+          "eng": 25
         }
       },
       "pm": {
@@ -6861,8 +6862,8 @@
           "eng": 46
         },
         "2026-10-10": {
-          "total": 86,
-          "eng": 44
+          "total": 84,
+          "eng": 43
         }
       },
       "pm": {}
@@ -6915,7 +6916,7 @@
         },
         "2026-10-10": {
           "total": 200,
-          "eng": 145,
+          "eng": 36,
           "spike": true
         }
       },
@@ -6931,37 +6932,32 @@
           "ids": [
             "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
           ],
-          "lastSeen": "2026-10-10",
-          "closedOn": "2026-10-10"
+          "lastSeen": "2026-10-10"
         },
         "product management lead": {
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-10",
-          "closedOn": "2026-10-10"
+          "lastSeen": "2026-10-10"
         },
         "ai product management practitioner": {
           "ids": [
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1",
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1"
           ],
-          "lastSeen": "2026-10-10",
-          "closedOn": "2026-10-10"
+          "lastSeen": "2026-10-10"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-10",
-          "closedOn": "2026-10-10"
+          "lastSeen": "2026-10-10"
         },
         "product management specialist aftermarket service supply chain": {
           "ids": [
             "workday-accenture-/job/Boston-888-Boylston-Corp/Product-Management-Specialist_14695248-1"
           ],
-          "lastSeen": "2026-10-10",
-          "closedOn": "2026-10-10"
+          "lastSeen": "2026-10-10"
         }
       }
     },
@@ -7066,8 +7062,8 @@
           "eng": 39
         },
         "2026-10-10": {
-          "total": 71,
-          "eng": 38
+          "total": 69,
+          "eng": 37
         }
       },
       "pm": {
@@ -8180,7 +8176,7 @@
           "eng": 32
         },
         "2026-10-10": {
-          "total": 61,
+          "total": 62,
           "eng": 32
         }
       },
@@ -8212,6 +8208,12 @@
         "technical product manager": {
           "ids": [
             "workday-motorolasolutions-/job/Bangalore-India/Technical-Product-Manager_R68278"
+          ],
+          "lastSeen": "2026-10-10"
+        },
+        "technical product manager sensing solutions": {
+          "ids": [
+            "workday-motorolasolutions-/job/Irvine-CA/Technical-Product-Manager----Electronic-Warfare--EW----Sensing-Solutions-_R69650"
           ],
           "lastSeen": "2026-10-10"
         }
@@ -8341,7 +8343,7 @@
           "eng": 38
         },
         "2026-10-10": {
-          "total": 92,
+          "total": 91,
           "eng": 38
         }
       },
@@ -8546,7 +8548,7 @@
           "eng": 195
         },
         "2026-10-10": {
-          "total": 610,
+          "total": 611,
           "eng": 195
         }
       },
@@ -8645,6 +8647,12 @@
         "product manager payroll integrations": {
           "ids": [
             "rippling-rippling-30ecc735-369a-429f-8df5-585b1516cef7"
+          ],
+          "lastSeen": "2026-10-10"
+        },
+        "product lead ui platform": {
+          "ids": [
+            "rippling-rippling-76af5c78-5db5-4104-8916-f3f216f1a607"
           ],
           "lastSeen": "2026-10-10"
         }

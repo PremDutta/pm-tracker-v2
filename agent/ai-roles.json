@@ -56,6 +56,17 @@
       "firstSeen": "2026-10-10"
     },
     {
+      "id": "rippling-rippling-76af5c78-5db5-4104-8916-f3f216f1a607",
+      "title": "Product Lead, UI Platform ",
+      "company": "Rippling",
+      "location": "Bangalore, India",
+      "url": "https://ats.rippling.com/rippling/jobs/76af5c78-5db5-4104-8916-f3f216f1a607",
+      "source": "Rippling (Rippling)",
+      "level": "group",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-10"
+    },
+    {
       "id": "vc-peakxv-25493",
       "title": "Principal Product Manager, AI",
       "company": "SaaS Labs",
@@ -100,11 +111,22 @@
       "firstSeen": "2026-10-10"
     },
     {
+      "id": "vc-accel-96602520",
+      "title": "Lead Product Manager(SaaS + AI)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/zenoti/jobs/7806709003",
+      "source": "VC board (Accel portfolio)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-10"
+    },
+    {
       "id": "vc-accel-95338178",
       "title": "Global Product Lead, Support Tools, Global Business Applied AI, GTM",
       "company": "Google",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=25",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=26",
       "source": "VC board (Accel portfolio)",
       "level": "group",
       "aiMatch": "title",
@@ -126,7 +148,7 @@
       "title": "Senior Product Manager, Map Intelligence, Google Maps Platform",
       "company": "Google",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/84477310756889286-senior-product-manager-map-intelligence-google-maps-platform?page=139",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84477310756889286-senior-product-manager-map-intelligence-google-maps-platform?page=138",
       "source": "VC board (Accel portfolio)",
       "level": "senior",
       "aiMatch": "title",
@@ -1107,17 +1129,6 @@
       "location": "Gurgaon",
       "url": "https://spyneai.keka.com/careers/jobdetails/49785",
       "source": "Keka (Spyne)",
-      "level": "leadership",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "vc-accel-48045360",
-      "title": "Associate Director - Product",
-      "company": "Spyne",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://spyneai.keka.com/careers/jobdetails/49785",
-      "source": "VC board (Accel portfolio)",
       "level": "leadership",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"
