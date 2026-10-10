@@ -4839,8 +4839,8 @@
           "eng": 2
         },
         "2026-10-10": {
-          "total": 5,
-          "eng": 1
+          "total": 8,
+          "eng": 4
         }
       },
       "pm": {}
@@ -6861,8 +6861,8 @@
           "eng": 46
         },
         "2026-10-10": {
-          "total": 87,
-          "eng": 45
+          "total": 86,
+          "eng": 44
         }
       },
       "pm": {}
@@ -6915,7 +6915,8 @@
         },
         "2026-10-10": {
           "total": 200,
-          "eng": 36
+          "eng": 145,
+          "spike": true
         }
       },
       "pm": {
@@ -6930,32 +6931,37 @@
           "ids": [
             "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
           ],
-          "lastSeen": "2026-10-10"
+          "lastSeen": "2026-10-10",
+          "closedOn": "2026-10-10"
         },
         "product management lead": {
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-10"
+          "lastSeen": "2026-10-10",
+          "closedOn": "2026-10-10"
         },
         "ai product management practitioner": {
           "ids": [
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1",
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1"
           ],
-          "lastSeen": "2026-10-10"
+          "lastSeen": "2026-10-10",
+          "closedOn": "2026-10-10"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-10"
+          "lastSeen": "2026-10-10",
+          "closedOn": "2026-10-10"
         },
         "product management specialist aftermarket service supply chain": {
           "ids": [
             "workday-accenture-/job/Boston-888-Boylston-Corp/Product-Management-Specialist_14695248-1"
           ],
-          "lastSeen": "2026-10-10"
+          "lastSeen": "2026-10-10",
+          "closedOn": "2026-10-10"
         }
       }
     },

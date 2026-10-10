@@ -3,6 +3,20 @@
     {
       "type": "eng_spike",
       "company": "Accenture",
+      "date": "2026-10-10",
+      "detail": "145 engineering openings vs a usual 36"
+    },
+    {
+      "type": "funding",
+      "company": "Nat Habit",
+      "title": "D2C Brand Nat Habit Raises ₹142 Cr To Scale Offline Expansion",
+      "url": "https://inc42.com/buzz/d2c-brand-nat-habit-raises-%e2%82%b9142-cr-to-scale-offline-expansion/",
+      "date": "2026-10-10",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
       "date": "2026-10-09",
       "detail": "145 engineering openings vs a usual 36"
     },

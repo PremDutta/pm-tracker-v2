@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-10T08:46:33.959Z",
+  "scannedAt": "2026-10-10T12:01:43.316Z",
   "roles": {
     "Adobe": [
       {
@@ -711,22 +711,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -739,6 +723,22 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1923,6 +1923,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.wipro.com-198887",
+        "title": "Product Management Consulting",
+        "location": "Hyderabad, IND-36, IND, 500032<br/>",
+        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198887-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-07"
+      },
+      {
         "id": "sf-careers.wipro.com-198709",
         "title": "Product Management Consulting",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
@@ -1937,14 +1945,6 @@
         "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
         "level": "pm",
         "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "sf-careers.wipro.com-198887",
-        "title": "Product Management Consulting",
-        "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198887-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-10-07"
       },
       {
         "id": "sf-careers.wipro.com-205260",
@@ -1971,14 +1971,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.wipro.com-198488",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.wipro.com-198487",
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
@@ -1991,6 +1983,14 @@
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198486-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.wipro.com-198488",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       }
