@@ -1,15 +1,15 @@
 {
   "roles": [
     {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
+      "id": "oracle-jpmc.fa.oraclecloud.com-210797402",
+      "title": "AI & DATA Solutions - Product Owner - Vice President",
+      "company": "JPMorgan Chase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797402",
+      "source": "JPMorgan Chase careers",
+      "level": "leadership",
       "aiMatch": "title",
-      "firstSeen": "2026-10-10"
+      "firstSeen": "2026-10-11"
     },
     {
       "id": "oracle-jpmc.fa.oraclecloud.com-210794392",
@@ -34,28 +34,6 @@
       "firstSeen": "2026-10-10"
     },
     {
-      "id": "vc-peakxv-lbtWSkK_VfSx",
-      "title": "AI Native Product Manager",
-      "company": "Leap Finance",
-      "location": "Bengaluru, India",
-      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-10"
-    },
-    {
-      "id": "vc-peakxv-59a692e8-9da6-4122-a988-33f52139c74d",
-      "title": "Product Manager — Marketing Automation AI Pod",
-      "company": "Purplle",
-      "location": "Vikhroli, Mumbai, Maharashtra, India",
-      "url": "https://purplle.turbohire.co/job/publicjobs/lcby0DpqrtlWwNkG%2FOMciq%2FEZv_E3TJhFP7CIxg3aEJXsrNpMw7wfC34UwKk9ZMB",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-10"
-    },
-    {
       "id": "rippling-rippling-76af5c78-5db5-4104-8916-f3f216f1a607",
       "title": "Product Lead, UI Platform ",
       "company": "Rippling",
@@ -64,39 +42,6 @@
       "source": "Rippling (Rippling)",
       "level": "group",
       "aiMatch": "company",
-      "firstSeen": "2026-10-10"
-    },
-    {
-      "id": "vc-peakxv-25493",
-      "title": "Principal Product Manager, AI",
-      "company": "SaaS Labs",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://careers.kula.ai/saas-labs/25493",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-10"
-    },
-    {
-      "id": "vc-peakxv-8041196002",
-      "title": "Product Manager",
-      "company": "Sigmoid",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-10"
-    },
-    {
-      "id": "vc-peakxv-137246",
-      "title": "AI PRODUCT MANAGER",
-      "company": "TestMu",
-      "location": "Noida, UP, India",
-      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
       "firstSeen": "2026-10-10"
     },
     {
