@@ -1,6 +1,12 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-12",
+      "detail": "144 engineering openings vs a usual 36"
+    },
+    {
       "type": "funding",
       "company": "Hero Electronix’s Tessolve Semiconductor",
       "title": "Hero Electronix’s Tessolve Semiconductor raises $75 Mn led by Vector Line Capital",
@@ -671,14 +677,6 @@
       "title": "AI content startup Flam raises $40M from QED Investors, Shah Rukh Khan, and others",
       "url": "https://yourstory.com/2026/09/ai-content-startup-flam-raises-series-b-qed-investors-shah-rukh-khan-others",
       "date": "2026-09-15",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Graph AI",
-      "title": "Graph AI raises $13.3M in Series A funding",
-      "url": "https://yourstory.com/2026/09/graph-ai-raises-133-million-in-series-a",
-      "date": "2026-09-11",
       "detail": "via YourStory"
     }
   ]

@@ -2526,6 +2526,12 @@
       "date": "2026-10-11",
       "detail": "via Entrackr",
       "watched": true
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-12",
+      "detail": "144 engineering openings vs a usual 36"
     }
   ],
   "reminders": {}
