@@ -381,7 +381,7 @@
           "eng": 30
         },
         "2026-10-12": {
-          "total": 66,
+          "total": 68,
           "eng": 30
         }
       },
@@ -1024,7 +1024,7 @@
           "eng": 2
         },
         "2026-10-12": {
-          "total": 14,
+          "total": 12,
           "eng": 2
         }
       },
@@ -1297,8 +1297,8 @@
           "eng": 35
         },
         "2026-10-12": {
-          "total": 128,
-          "eng": 36
+          "total": 131,
+          "eng": 38
         }
       },
       "pm": {
@@ -1652,7 +1652,7 @@
           "eng": 48
         },
         "2026-10-12": {
-          "total": 132,
+          "total": 131,
           "eng": 48
         }
       },
@@ -1886,7 +1886,7 @@
           "eng": 40
         },
         "2026-10-12": {
-          "total": 165,
+          "total": 166,
           "eng": 40
         }
       },
@@ -2370,7 +2370,7 @@
           "eng": 8
         },
         "2026-10-12": {
-          "total": 58,
+          "total": 57,
           "eng": 8
         }
       },
@@ -2965,7 +2965,7 @@
           "eng": 1
         },
         "2026-10-12": {
-          "total": 27,
+          "total": 25,
           "eng": 1
         }
       },
@@ -3048,7 +3048,7 @@
           "eng": 34
         },
         "2026-10-12": {
-          "total": 84,
+          "total": 83,
           "eng": 34
         }
       },
@@ -3081,7 +3081,8 @@
           "ids": [
             "lever-spotify-03437e2a-2d5e-4593-9e97-11271014932e"
           ],
-          "lastSeen": "2026-10-12"
+          "lastSeen": "2026-10-12",
+          "closedOn": "2026-10-12"
         },
         "senior product manager audiobooks format foundations": {
           "ids": [
@@ -3919,7 +3920,7 @@
         },
         "2026-10-12": {
           "total": 100,
-          "eng": 34
+          "eng": 33
         }
       },
       "pm": {
@@ -3988,7 +3989,7 @@
           "eng": 24
         },
         "2026-10-12": {
-          "total": 77,
+          "total": 76,
           "eng": 23
         }
       },
@@ -4121,8 +4122,8 @@
           "eng": 8
         },
         "2026-10-12": {
-          "total": 72,
-          "eng": 8
+          "total": 75,
+          "eng": 9
         }
       },
       "pm": {
@@ -4211,7 +4212,7 @@
           "eng": 24
         },
         "2026-10-12": {
-          "total": 76,
+          "total": 77,
           "eng": 24
         }
       },
@@ -4592,7 +4593,7 @@
           "eng": 23
         },
         "2026-10-12": {
-          "total": 70,
+          "total": 71,
           "eng": 22
         }
       },
@@ -4752,7 +4753,7 @@
           "eng": 9
         },
         "2026-10-12": {
-          "total": 41,
+          "total": 40,
           "eng": 9
         }
       },
@@ -4937,7 +4938,7 @@
         },
         "2026-10-12": {
           "total": 100,
-          "eng": 33
+          "eng": 35
         }
       },
       "pm": {
@@ -5332,8 +5333,8 @@
           "eng": 4
         },
         "2026-10-12": {
-          "total": 5,
-          "eng": 1
+          "total": 6,
+          "eng": 2
         }
       },
       "pm": {}
@@ -5453,7 +5454,7 @@
           "eng": 9
         },
         "2026-10-12": {
-          "total": 183,
+          "total": 175,
           "eng": 9
         }
       },
@@ -5677,7 +5678,7 @@
           "eng": 2
         },
         "2026-10-12": {
-          "total": 25,
+          "total": 28,
           "eng": 2
         }
       },
@@ -5988,7 +5989,7 @@
         },
         "2026-10-12": {
           "total": 100,
-          "eng": 42
+          "eng": 44
         }
       },
       "pm": {
@@ -6204,8 +6205,8 @@
           "eng": 70
         },
         "2026-10-12": {
-          "total": 141,
-          "eng": 71
+          "total": 146,
+          "eng": 75
         }
       },
       "pm": {
@@ -6339,6 +6340,12 @@
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455"
           ],
           "lastSeen": "2026-10-12"
+        },
+        "lead product manager tech": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Lead-Product-Manager-Tech_R-288293"
+          ],
+          "lastSeen": "2026-10-12"
         }
       }
     },
@@ -6450,8 +6457,8 @@
           "eng": 82
         },
         "2026-10-12": {
-          "total": 97,
-          "eng": 84
+          "total": 96,
+          "eng": 83
         }
       },
       "pm": {}
@@ -6565,7 +6572,7 @@
         },
         "2026-10-12": {
           "total": 100,
-          "eng": 1
+          "eng": 2
         }
       },
       "pm": {
@@ -6807,8 +6814,8 @@
           "eng": 35
         },
         "2026-10-12": {
-          "total": 104,
-          "eng": 34
+          "total": 103,
+          "eng": 35
         }
       },
       "pm": {
@@ -6816,8 +6823,7 @@
           "ids": [
             "workday-salesforce-/job/India---Bangalore/Product-Manager---Commerce-Platform--Hyderabad-_JR321301"
           ],
-          "lastSeen": "2026-09-30",
-          "closedOn": "2026-09-30"
+          "lastSeen": "2026-10-12"
         },
         "senior product manager emerging technology": {
           "ids": [
@@ -6904,7 +6910,7 @@
           "eng": 3
         },
         "2026-10-12": {
-          "total": 19,
+          "total": 17,
           "eng": 2
         }
       },
@@ -7084,7 +7090,7 @@
         },
         "2026-10-12": {
           "total": 27,
-          "eng": 10
+          "eng": 9
         }
       },
       "pm": {
@@ -7396,7 +7402,8 @@
           "ids": [
             "sf-careers.wipro.com-198456"
           ],
-          "lastSeen": "2026-10-12"
+          "lastSeen": "2026-10-12",
+          "closedOn": "2026-10-12"
         },
         "product manager l1": {
           "ids": [
@@ -7472,8 +7479,8 @@
           "eng": 25
         },
         "2026-10-12": {
-          "total": 63,
-          "eng": 30
+          "total": 71,
+          "eng": 31
         }
       },
       "pm": {
@@ -7519,6 +7526,18 @@
           ],
           "lastSeen": "2026-10-05",
           "closedOn": "2026-10-05"
+        },
+        "product manager": {
+          "ids": [
+            "workday-wf-/job/Bengaluru-India/Product-Manager_R-575502-1"
+          ],
+          "lastSeen": "2026-10-12"
+        },
+        "lead product manager": {
+          "ids": [
+            "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-575608"
+          ],
+          "lastSeen": "2026-10-12"
         }
       }
     },
@@ -7573,7 +7592,7 @@
           "eng": 42
         },
         "2026-10-12": {
-          "total": 82,
+          "total": 81,
           "eng": 44
         }
       },
@@ -7733,8 +7752,8 @@
           "eng": 47
         },
         "2026-10-12": {
-          "total": 75,
-          "eng": 48
+          "total": 74,
+          "eng": 47
         }
       },
       "pm": {
@@ -8017,8 +8036,8 @@
           "eng": 9
         },
         "2026-10-12": {
-          "total": 18,
-          "eng": 9
+          "total": 16,
+          "eng": 7
         }
       },
       "pm": {
@@ -8067,8 +8086,8 @@
           "eng": 578
         },
         "2026-10-12": {
-          "total": 890,
-          "eng": 577
+          "total": 892,
+          "eng": 578
         }
       },
       "pm": {
@@ -8491,8 +8510,8 @@
           "eng": 13
         },
         "2026-10-12": {
-          "total": 33,
-          "eng": 12
+          "total": 31,
+          "eng": 11
         }
       },
       "pm": {
@@ -8500,7 +8519,8 @@
           "ids": [
             "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1"
           ],
-          "lastSeen": "2026-10-12"
+          "lastSeen": "2026-10-12",
+          "closedOn": "2026-10-12"
         },
         "sr product manager case management agent experience": {
           "ids": [
@@ -8924,7 +8944,7 @@
           "eng": 158
         },
         "2026-10-12": {
-          "total": 388,
+          "total": 394,
           "eng": 155
         }
       },
@@ -9066,8 +9086,8 @@
           "eng": 32
         },
         "2026-10-12": {
-          "total": 63,
-          "eng": 32
+          "total": 62,
+          "eng": 31
         }
       },
       "pm": {
@@ -9265,7 +9285,7 @@
           "eng": 39
         },
         "2026-10-12": {
-          "total": 92,
+          "total": 89,
           "eng": 39
         }
       },
@@ -9328,7 +9348,7 @@
         },
         "2026-10-12": {
           "total": 200,
-          "eng": 112
+          "eng": 110
         }
       },
       "pm": {
@@ -9407,8 +9427,8 @@
           "eng": 42
         },
         "2026-10-12": {
-          "total": 132,
-          "eng": 42
+          "total": 129,
+          "eng": 40
         }
       },
       "pm": {
@@ -9494,7 +9514,7 @@
           "eng": 196
         },
         "2026-10-12": {
-          "total": 610,
+          "total": 613,
           "eng": 195
         }
       },
@@ -9730,7 +9750,7 @@
           "eng": 1
         },
         "2026-10-12": {
-          "total": 3,
+          "total": 2,
           "eng": 1
         }
       },
@@ -9739,7 +9759,8 @@
           "ids": [
             "greenhouse-simpplr-6138700004"
           ],
-          "lastSeen": "2026-10-12"
+          "lastSeen": "2026-10-12",
+          "closedOn": "2026-10-12"
         },
         "associate product manager product discovery strategy": {
           "ids": [
@@ -9781,8 +9802,8 @@
           "eng": 182
         },
         "2026-10-12": {
-          "total": 356,
-          "eng": 181
+          "total": 359,
+          "eng": 183
         }
       },
       "pm": {
@@ -9941,7 +9962,7 @@
           "eng": 36
         },
         "2026-10-12": {
-          "total": 106,
+          "total": 107,
           "eng": 36
         }
       },
@@ -10180,7 +10201,7 @@
           "eng": 4
         },
         "2026-10-12": {
-          "total": 17,
+          "total": 18,
           "eng": 4
         }
       },
@@ -10224,8 +10245,8 @@
           "eng": 12
         },
         "2026-10-12": {
-          "total": 19,
-          "eng": 10
+          "total": 20,
+          "eng": 11
         }
       },
       "pm": {

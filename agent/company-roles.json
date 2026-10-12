@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-12T09:33:35.698Z",
+  "scannedAt": "2026-10-12T14:37:04.200Z",
   "roles": {
     "Adobe": [
       {
@@ -69,18 +69,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10538234",
-        "title": "Product Manager-Tech III, Finance Automation",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10538234/product-manager-tech-iii-finance-automation",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10442269",
         "title": "Product Manager-Tech III, Finance Automation",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10442269/product-manager-tech-iii-finance-automation",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10538234",
+        "title": "Product Manager-Tech III, Finance Automation",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10538234/product-manager-tech-iii-finance-automation",
         "level": "pm",
         "firstSeen": "2026-09-30"
       },
@@ -317,18 +317,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10497676",
-        "title": "Sr. Product Manager - Tech, Amazon Pharmacy",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10497676/sr-product-manager-tech-amazon-pharmacy",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10541182",
         "title": "Sr. Product Manager - Tech, Amazon Pharmacy",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10541182/sr-product-manager-tech-amazon-pharmacy",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10497676",
+        "title": "Sr. Product Manager - Tech, Amazon Pharmacy",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10497676/sr-product-manager-tech-amazon-pharmacy",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -496,14 +496,6 @@
       }
     ],
     "Autodesk": [
-      {
-        "id": "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
-        "title": "Product Manager (Data Ingestion & Delivery)",
-        "location": "Pune, IND",
-        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
-        "level": "pm",
-        "firstSeen": "2026-10-07"
-      },
       {
         "id": "workday-autodesk-/job/Bengaluru-IND/Sr-Product-Manager---Case-Management---Agent-Experience_26WD101159",
         "title": "Sr. Product Manager - Case Management & Agent Experience",
@@ -719,22 +711,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -747,6 +723,22 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1025,6 +1017,14 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
         "level": "group",
         "firstSeen": "2026-10-08"
+      },
+      {
+        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager-Tech_R-288293",
+        "title": "Lead Product Manager Tech",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager-Tech_R-288293",
+        "level": "group",
+        "firstSeen": "2026-10-12"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289421",
@@ -1787,16 +1787,6 @@
         "firstSeen": "2026-10-05"
       }
     ],
-    "Simpplr": [
-      {
-        "id": "greenhouse-simpplr-6138700004",
-        "title": "Senior Product Manager – Enterprise Search",
-        "location": "Bengaluru, India; Gurugram, India",
-        "url": "https://job-boards.greenhouse.io/simpplr/jobs/6138700004",
-        "level": "senior",
-        "firstSeen": "2026-10-05"
-      }
-    ],
     "SpotDraft": [
       {
         "id": "ashby-spotdraft-e9146208-bd24-443b-b1d8-96aabd292538",
@@ -1911,6 +1901,24 @@
         "firstSeen": "2026-10-09"
       }
     ],
+    "Wells Fargo": [
+      {
+        "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-575608",
+        "title": "Lead Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-575608",
+        "level": "group",
+        "firstSeen": "2026-10-12"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-575502-1",
+        "title": "Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-575502-1",
+        "level": "pm",
+        "firstSeen": "2026-10-12"
+      }
+    ],
     "Wing Assistant (M32 AI)": [
       {
         "id": "lever-getwingapp-c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
@@ -1923,12 +1931,12 @@
     ],
     "Wipro": [
       {
-        "id": "sf-careers.wipro.com-198456",
-        "title": "Product Management",
-        "location": "Pune, IND-27, IND, 411005<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management/198456-en_US/",
+        "id": "sf-careers.wipro.com-198887",
+        "title": "Product Management Consulting",
+        "location": "Hyderabad, IND-36, IND, 500032<br/>",
+        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198887-en_US/",
         "level": "pm",
-        "firstSeen": "2026-09-30"
+        "firstSeen": "2026-10-07"
       },
       {
         "id": "sf-careers.wipro.com-198709",
@@ -1945,14 +1953,6 @@
         "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
         "level": "pm",
         "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "sf-careers.wipro.com-198887",
-        "title": "Product Management Consulting",
-        "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198887-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-10-07"
       },
       {
         "id": "sf-careers.wipro.com-205260",
@@ -1979,14 +1979,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.wipro.com-198488",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.wipro.com-198487",
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
@@ -1999,6 +1991,14 @@
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198486-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.wipro.com-198488",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       }
