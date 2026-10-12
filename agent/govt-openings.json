@@ -1,6 +1,23 @@
 {
   "openings": [
     {
+      "id": "govt-dic-ora-1477",
+      "title": "Product Manager (AI)",
+      "company": "National E-Governance Division(NeGD)",
+      "location": "New Delhi",
+      "url": "https://ora.digitalindiacorporation.in/?job=1477",
+      "date": "2026-10-12",
+      "deadline": "2026-10-26",
+      "flags": [
+        "mba_mentioned",
+        "contract"
+      ],
+      "org": "DIC ORA",
+      "category": "section8_govt",
+      "source": "🏛️ Govt (DIC ORA)",
+      "firstSeen": "2026-10-12"
+    },
+    {
       "id": "govt-egov-91566000002454192",
       "title": "Product Manager - Digital Health (Public Health)",
       "company": "eGov Foundation",
@@ -40,20 +57,6 @@
       "org": "ONDC",
       "category": "section8_govt",
       "source": "🏛️ Govt (ONDC careers page)",
-      "firstSeen": "2026-09-27"
-    },
-    {
-      "id": "govt-wadhwani-ai-146520000006119605",
-      "title": "Associate Director - Product",
-      "company": "Wadhwani AI",
-      "location": "New Delhi",
-      "url": "https://wadhwaniai.zohorecruit.in/jobs/Careers/146520000006119605/Associate-Director-Product?source=CareerSite",
-      "date": null,
-      "deadline": null,
-      "flags": [],
-      "org": "Wadhwani AI",
-      "category": "dpi",
-      "source": "🏛️ Govt (Wadhwani AI)",
       "firstSeen": "2026-09-27"
     },
     {
@@ -238,7 +241,7 @@
     "BDL": "2026-10-12",
     "BECIL": "2026-10-12",
     "BEL": "2026-10-12",
-    "BEML": "2026-10-10",
+    "BEML": "2026-10-12",
     "Bharat Digital job board": "2026-10-12",
     "BISAG-N": "2026-10-12",
     "BoB": "2026-10-12",
@@ -277,7 +280,7 @@
     "IPPB": "2026-10-12",
     "IRCON": "2026-10-12",
     "IRCTC": "2026-10-12",
-    "IRDAI": "2026-10-10",
+    "IRDAI": "2026-10-12",
     "IREDA": "2026-10-12",
     "IREL": "2026-10-12",
     "ISRO": "2026-10-12",

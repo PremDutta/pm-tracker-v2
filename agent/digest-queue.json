@@ -2467,6 +2467,47 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797402",
       "source": "JPMorgan Chase careers",
       "queuedOn": "2026-10-12"
+    },
+    {
+      "id": "amazon-10569078",
+      "title": "Senior Product Manager - Tech, Amazon Finance Technology",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10569078/senior-product-manager-tech-amazon-finance-technology",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-12"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210796769",
+      "title": "Product Owner/Product Delivery – Senior Associate",
+      "company": "JPMorgan Chase",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796769",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-12"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical_R-291940-1",
+      "title": "Lead Product Manager - Technical",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical_R-291940-1",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-12"
+    },
+    {
+      "id": "govt-dic-ora-1477",
+      "title": "Product Manager (AI)",
+      "company": "National E-Governance Division(NeGD)",
+      "location": "New Delhi",
+      "url": "https://ora.digitalindiacorporation.in/?job=1477",
+      "source": "🏛️ Govt (DIC ORA)",
+      "deadline": "2026-10-26",
+      "flags": [
+        "mba_mentioned",
+        "contract"
+      ],
+      "queuedOn": "2026-10-12"
     }
   ],
   "signals": [
