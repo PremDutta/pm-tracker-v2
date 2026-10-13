@@ -208,8 +208,8 @@
           "eng": 266
         },
         "2026-10-13": {
-          "total": 646,
-          "eng": 270
+          "total": 648,
+          "eng": 268
         }
       },
       "pm": {
@@ -393,7 +393,7 @@
           "eng": 30
         },
         "2026-10-13": {
-          "total": 66,
+          "total": 65,
           "eng": 30
         }
       },
@@ -466,7 +466,7 @@
           "eng": 51
         },
         "2026-10-13": {
-          "total": 134,
+          "total": 133,
           "eng": 51
         }
       },
@@ -900,7 +900,7 @@
           "eng": 79
         },
         "2026-10-13": {
-          "total": 184,
+          "total": 183,
           "eng": 80
         }
       },
@@ -1245,8 +1245,8 @@
           "eng": 40
         },
         "2026-10-13": {
-          "total": 91,
-          "eng": 38
+          "total": 90,
+          "eng": 37
         }
       },
       "pm": {
@@ -1349,8 +1349,8 @@
           "eng": 38
         },
         "2026-10-13": {
-          "total": 138,
-          "eng": 43
+          "total": 144,
+          "eng": 45
         }
       },
       "pm": {
@@ -1443,8 +1443,8 @@
           "eng": 32
         },
         "2026-10-13": {
-          "total": 49,
-          "eng": 32
+          "total": 48,
+          "eng": 30
         }
       },
       "pm": {
@@ -1524,8 +1524,8 @@
           "eng": 31
         },
         "2026-10-13": {
-          "total": 148,
-          "eng": 31
+          "total": 143,
+          "eng": 30
         }
       },
       "pm": {
@@ -1720,7 +1720,7 @@
           "eng": 48
         },
         "2026-10-13": {
-          "total": 129,
+          "total": 130,
           "eng": 47
         }
       },
@@ -1801,8 +1801,8 @@
           "eng": 416
         },
         "2026-10-13": {
-          "total": 808,
-          "eng": 415
+          "total": 805,
+          "eng": 414
         }
       },
       "pm": {
@@ -1962,8 +1962,8 @@
           "eng": 40
         },
         "2026-10-13": {
-          "total": 165,
-          "eng": 40
+          "total": 162,
+          "eng": 39
         }
       },
       "pm": {
@@ -3249,7 +3249,8 @@
         },
         "senior product manager consumer audiobooks": {
           "ids": [
-            "lever-spotify-ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd"
+            "lever-spotify-ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd",
+            "lever-spotify-c5c82f59-504f-47f4-961e-a2d50a248357"
           ],
           "lastSeen": "2026-10-13"
         }
@@ -3439,7 +3440,7 @@
           "eng": 14
         },
         "2026-10-13": {
-          "total": 33,
+          "total": 34,
           "eng": 13
         }
       },
@@ -3574,7 +3575,7 @@
           "eng": 5
         },
         "2026-10-13": {
-          "total": 86,
+          "total": 87,
           "eng": 5
         }
       },
@@ -3965,6 +3966,12 @@
         "sr product manager anow": {
           "ids": [
             "amazon-10576704"
+          ],
+          "lastSeen": "2026-10-13"
+        },
+        "sr product manager tech": {
+          "ids": [
+            "amazon-10577088"
           ],
           "lastSeen": "2026-10-13"
         }
@@ -4409,8 +4416,8 @@
           "eng": 24
         },
         "2026-10-13": {
-          "total": 78,
-          "eng": 25
+          "total": 82,
+          "eng": 28
         }
       },
       "pm": {
@@ -4559,7 +4566,7 @@
           "eng": 14
         },
         "2026-10-13": {
-          "total": 47,
+          "total": 46,
           "eng": 14
         }
       },
@@ -4742,7 +4749,7 @@
           "eng": 30
         },
         "2026-10-13": {
-          "total": 47,
+          "total": 46,
           "eng": 30
         }
       },
@@ -5182,7 +5189,7 @@
         },
         "2026-10-13": {
           "total": 100,
-          "eng": 33
+          "eng": 32
         }
       },
       "pm": {
@@ -5347,7 +5354,7 @@
           "eng": 7
         },
         "2026-10-13": {
-          "total": 20,
+          "total": 21,
           "eng": 7
         }
       },
@@ -6132,8 +6139,8 @@
           "eng": 11
         },
         "2026-10-13": {
-          "total": 21,
-          "eng": 11
+          "total": 19,
+          "eng": 10
         }
       },
       "pm": {
@@ -6469,6 +6476,18 @@
             "smartrecruiters-ServiceNow-744000154891980"
           ],
           "lastSeen": "2026-10-13"
+        },
+        "data product manager marketing technology": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000155319537"
+          ],
+          "lastSeen": "2026-10-13"
+        },
+        "senior staff technical product manager conversational ai": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000155296769"
+          ],
+          "lastSeen": "2026-10-13"
         }
       }
     },
@@ -6527,8 +6546,8 @@
           "eng": 75
         },
         "2026-10-13": {
-          "total": 145,
-          "eng": 75
+          "total": 143,
+          "eng": 74
         }
       },
       "pm": {
@@ -6543,7 +6562,8 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-13",
+          "closedOn": "2026-10-13"
         },
         "principal product manager technical": {
           "ids": [
@@ -7174,7 +7194,7 @@
           "eng": 35
         },
         "2026-10-13": {
-          "total": 102,
+          "total": 99,
           "eng": 34
         }
       },
@@ -7183,7 +7203,8 @@
           "ids": [
             "workday-salesforce-/job/India---Bangalore/Product-Manager---Commerce-Platform--Hyderabad-_JR321301"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-13",
+          "closedOn": "2026-10-13"
         },
         "senior product manager emerging technology": {
           "ids": [
@@ -7274,7 +7295,7 @@
           "eng": 2
         },
         "2026-10-13": {
-          "total": 18,
+          "total": 19,
           "eng": 2
         }
       },
@@ -7461,8 +7482,8 @@
           "eng": 9
         },
         "2026-10-13": {
-          "total": 29,
-          "eng": 9
+          "total": 27,
+          "eng": 8
         }
       },
       "pm": {
@@ -7631,8 +7652,8 @@
           "eng": 46
         },
         "2026-10-13": {
-          "total": 77,
-          "eng": 47
+          "total": 76,
+          "eng": 46
         }
       },
       "pm": {
@@ -7871,8 +7892,8 @@
           "eng": 31
         },
         "2026-10-13": {
-          "total": 71,
-          "eng": 27
+          "total": 67,
+          "eng": 24
         }
       },
       "pm": {
@@ -7998,7 +8019,7 @@
         },
         "2026-10-13": {
           "total": 79,
-          "eng": 41
+          "eng": 43
         }
       },
       "pm": {}
@@ -8064,8 +8085,8 @@
           "spike": true
         },
         "2026-10-13": {
-          "total": 199,
-          "eng": 146,
+          "total": 173,
+          "eng": 39,
           "spike": true
         }
       },
@@ -8075,8 +8096,7 @@
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1"
           ],
-          "lastSeen": "2026-10-13",
-          "closedOn": "2026-10-13"
+          "lastSeen": "2026-10-13"
         },
         "product management analyst": {
           "ids": [
@@ -8089,8 +8109,7 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-13",
-          "closedOn": "2026-10-13"
+          "lastSeen": "2026-10-13"
         },
         "ai product management practitioner": {
           "ids": [
@@ -8104,8 +8123,7 @@
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-13",
-          "closedOn": "2026-10-13"
+          "lastSeen": "2026-10-13"
         },
         "product management specialist aftermarket service supply chain": {
           "ids": [
@@ -8241,7 +8259,7 @@
           "eng": 34
         },
         "2026-10-13": {
-          "total": 70,
+          "total": 72,
           "eng": 35
         }
       },
@@ -8481,7 +8499,7 @@
           "eng": 7
         },
         "2026-10-13": {
-          "total": 15,
+          "total": 13,
           "eng": 7
         }
       },
@@ -8535,8 +8553,8 @@
           "eng": 578
         },
         "2026-10-13": {
-          "total": 897,
-          "eng": 577
+          "total": 896,
+          "eng": 576
         }
       },
       "pm": {
@@ -8813,8 +8831,8 @@
           "eng": 38
         },
         "2026-10-13": {
-          "total": 135,
-          "eng": 40
+          "total": 137,
+          "eng": 41
         }
       },
       "pm": {
@@ -8975,8 +8993,8 @@
           "eng": 11
         },
         "2026-10-13": {
-          "total": 27,
-          "eng": 9
+          "total": 28,
+          "eng": 10
         }
       },
       "pm": {
@@ -9078,8 +9096,8 @@
           "eng": 32
         },
         "2026-10-13": {
-          "total": 66,
-          "eng": 31
+          "total": 68,
+          "eng": 32
         }
       },
       "pm": {
@@ -9445,8 +9463,8 @@
           "eng": 155
         },
         "2026-10-13": {
-          "total": 393,
-          "eng": 153
+          "total": 392,
+          "eng": 156
         }
       },
       "pm": {
@@ -9591,8 +9609,8 @@
           "eng": 31
         },
         "2026-10-13": {
-          "total": 62,
-          "eng": 32
+          "total": 65,
+          "eng": 33
         }
       },
       "pm": {
@@ -9807,8 +9825,8 @@
           "eng": 39
         },
         "2026-10-13": {
-          "total": 88,
-          "eng": 39
+          "total": 91,
+          "eng": 40
         }
       },
       "pm": {
@@ -9874,7 +9892,7 @@
         },
         "2026-10-13": {
           "total": 200,
-          "eng": 114
+          "eng": 115
         }
       },
       "pm": {
@@ -9957,7 +9975,7 @@
           "eng": 40
         },
         "2026-10-13": {
-          "total": 135,
+          "total": 138,
           "eng": 43
         }
       },
@@ -10048,8 +10066,8 @@
           "eng": 195
         },
         "2026-10-13": {
-          "total": 608,
-          "eng": 198
+          "total": 614,
+          "eng": 196
         }
       },
       "pm": {
@@ -10200,7 +10218,7 @@
           "eng": 35
         },
         "2026-10-13": {
-          "total": 71,
+          "total": 70,
           "eng": 35
         }
       },
@@ -10358,8 +10376,8 @@
           "eng": 183
         },
         "2026-10-13": {
-          "total": 357,
-          "eng": 181
+          "total": 356,
+          "eng": 180
         }
       },
       "pm": {
@@ -10426,6 +10444,12 @@
         "director product marketing platform": {
           "ids": [
             "ashby-snowflake-9a88d51a-09ef-4960-9c4d-be211affcc1b"
+          ],
+          "lastSeen": "2026-10-13"
+        },
+        "senior product manager agent marketplace": {
+          "ids": [
+            "ashby-snowflake-3c565761-4ce8-40f4-a346-1997b117afbc"
           ],
           "lastSeen": "2026-10-13"
         }
@@ -10526,7 +10550,7 @@
           "eng": 36
         },
         "2026-10-13": {
-          "total": 103,
+          "total": 102,
           "eng": 36
         }
       },
@@ -10593,7 +10617,7 @@
           "eng": 2
         },
         "2026-10-13": {
-          "total": 21,
+          "total": 20,
           "eng": 2
         }
       },

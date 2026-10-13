@@ -2712,6 +2712,60 @@
       "url": "https://boards.greenhouse.io/sentinellabs/jobs/8005415003",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "lever-spotify-c5c82f59-504f-47f4-961e-a2d50a248357",
+      "title": "Senior Product Manager, Consumer - Audiobooks",
+      "company": "Spotify",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/c5c82f59-504f-47f4-961e-a2d50a248357",
+      "source": "Lever (Spotify)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "amazon-10577088",
+      "title": "Sr Product Manager Tech",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10577088/sr-product-manager-tech",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "vc-accel-96819814",
+      "title": "Lead Product Manager",
+      "company": "Simility, a Paypal Service",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://paypal.eightfold.ai/careers/job/274922819061",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "vc-accel-96819815",
+      "title": "Sr Product Manager",
+      "company": "Simility, a Paypal Service",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://paypal.eightfold.ai/careers/job/274922819192",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "vc-accel-96819816",
+      "title": "Sr Product Manager",
+      "company": "Simility, a Paypal Service",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://paypal.eightfold.ai/careers/job/274922819195",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "vc-accel-96817953",
+      "title": "Product Manager -II",
+      "company": "Swiftkey",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-14"
     }
   ],
   "signals": [
