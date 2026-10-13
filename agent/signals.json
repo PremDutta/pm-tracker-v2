@@ -7,6 +7,48 @@
       "detail": "145 engineering openings vs a usual 36"
     },
     {
+      "type": "reopened",
+      "company": "JPMorgan Chase",
+      "date": "2026-10-13",
+      "title": "Product Manager",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783031",
+      "id": "oracle-jpmc.fa.oraclecloud.com-210783031",
+      "detail": "closed 2026-10-04, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "Mesa School of Business",
+      "title": "Mesa School of Business raises Rs 110 Cr in equity and debt",
+      "url": "https://entrackr.com/news/mesa-school-of-business-raises-rs-110-cr-in-equity-and-debt-12670731",
+      "date": "2026-10-13",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "NuSynth",
+      "title": "NuSynth raises Rs 36.5 Cr in seed round led by Avaana Capital, Shastra VC",
+      "url": "https://entrackr.com/snippets/nusynth-raises-rs-365-cr-in-seed-round-led-by-avaana-capital-shastra-vc-12671123",
+      "date": "2026-10-13",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-10-13",
+      "title": "Lead Digital Product Manager - CIAM",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
+      "detail": "closed 2026-10-03, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "wudhomes",
+      "title": "AJVC leads pre-seed round in home-furnishing startup wudhomes",
+      "url": "https://entrackr.com/snippets/ajvc-leads-pre-seed-round-in-home-furnishing-startup-wudhomes-12671248",
+      "date": "2026-10-13",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-10-12",
@@ -216,6 +258,14 @@
     },
     {
       "type": "funding",
+      "company": "Beyond Appliances",
+      "title": "Beyond Appliances raises Rs 110 Cr in Series B round led by Fireside Ventures",
+      "url": "https://yourstory.com/2026/10/beyond-appliances-raises-rs-110-cr-series-b-fireside-ventures",
+      "date": "2026-10-06",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
       "company": "CureMeAbroad",
       "title": "Medical tourism startup CureMeAbroad raises $1.1 Mn in pre Seed funding",
       "url": "https://entrackr.com/snippets/medical-tourism-startup-curemeabroad-raises-11-mn-in-pre-seed-funding-12628366",
@@ -267,6 +317,14 @@
       "url": "https://entrackr.com/exclusive/exclusive-qpiai-raises-rs-50-cr-in-debt-from-innoven-capital-12625901",
       "date": "2026-10-05",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "QpiAI",
+      "title": "Quantum computing and AI firm QpiAI secures Rs 50 Cr debt financing from InnoVen Capital",
+      "url": "https://yourstory.com/2026/10/qpiai-secures-rs-50-cr-debt-financing-from-innoven-capital",
+      "date": "2026-10-05",
+      "detail": "via YourStory"
     },
     {
       "type": "funding",

@@ -2586,6 +2586,105 @@
       "url": "https://www.salesforce.com/company/careers/jobs/JR321301/product-manager-sr-product-manager-mulesoft/",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "keka-zluri-92144",
+      "title": "Technical Product Manager- Data Engineering",
+      "company": "Zluri",
+      "location": "",
+      "url": "https://zluri.keka.com/careers/jobdetails/92144",
+      "source": "Keka (Zluri)",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "amazon-10576704",
+      "title": "Sr. Product Manager, ANow",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10576704/sr-product-manager-anow",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "amazon-10576706",
+      "title": "Senior Product Manager, Amazon Now",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210783031",
+      "title": "Product Manager",
+      "company": "JPMorgan Chase",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783031",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557038894",
+      "title": "Product Manager -II",
+      "company": "Microsoft",
+      "location": "India, Telangana, Hyderabad",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "eightfold-paypal.com-274922819195",
+      "title": "Sr Product Manager",
+      "company": "PayPal",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://paypal.eightfold.ai/careers/job/274922819195",
+      "source": "PayPal careers",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "eightfold-paypal.com-274922819061",
+      "title": "Lead Product Manager",
+      "company": "PayPal",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://paypal.eightfold.ai/careers/job/274922819061",
+      "source": "PayPal careers",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "eightfold-paypal.com-274922819192",
+      "title": "Sr Product Manager",
+      "company": "PayPal",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://paypal.eightfold.ai/careers/job/274922819192",
+      "source": "PayPal careers",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Data-Product-Management-Consultant_R-579868",
+      "title": "Data Product Management Consultant",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Product-Management-Consultant_R-579868",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
+      "title": "Lead Digital Product Manager - CIAM",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "vc-peakxv-b11c81ce-fe5c-4eb6-a3e1-d268dd3ad926",
+      "title": "Product Manager",
+      "company": "FamPay",
+      "location": "Bengaluru",
+      "url": "https://jobs.lever.co/fampay/b11c81ce-fe5c-4eb6-a3e1-d268dd3ad926",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-13"
     }
   ],
   "signals": [
@@ -2657,6 +2756,24 @@
       "company": "Accenture",
       "date": "2026-10-13",
       "detail": "145 engineering openings vs a usual 36"
+    },
+    {
+      "type": "reopened",
+      "company": "JPMorgan Chase",
+      "date": "2026-10-13",
+      "title": "Product Manager",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783031",
+      "id": "oracle-jpmc.fa.oraclecloud.com-210783031",
+      "detail": "closed 2026-10-04, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-10-13",
+      "title": "Lead Digital Product Manager - CIAM",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
+      "detail": "closed 2026-10-03, reposted today"
     }
   ],
   "reminders": {}
