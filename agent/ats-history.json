@@ -67,8 +67,8 @@
           "eng": 43
         },
         "2026-10-13": {
-          "total": 102,
-          "eng": 43
+          "total": 103,
+          "eng": 44
         }
       },
       "pm": {
@@ -208,8 +208,8 @@
           "eng": 266
         },
         "2026-10-13": {
-          "total": 644,
-          "eng": 267
+          "total": 646,
+          "eng": 270
         }
       },
       "pm": {
@@ -582,8 +582,8 @@
           "eng": 47
         },
         "2026-10-13": {
-          "total": 118,
-          "eng": 46
+          "total": 117,
+          "eng": 47
         }
       },
       "pm": {
@@ -1245,8 +1245,8 @@
           "eng": 40
         },
         "2026-10-13": {
-          "total": 93,
-          "eng": 40
+          "total": 91,
+          "eng": 38
         }
       },
       "pm": {
@@ -1349,8 +1349,8 @@
           "eng": 38
         },
         "2026-10-13": {
-          "total": 134,
-          "eng": 40
+          "total": 138,
+          "eng": 43
         }
       },
       "pm": {
@@ -1524,7 +1524,7 @@
           "eng": 31
         },
         "2026-10-13": {
-          "total": 149,
+          "total": 148,
           "eng": 31
         }
       },
@@ -1962,7 +1962,7 @@
           "eng": 40
         },
         "2026-10-13": {
-          "total": 166,
+          "total": 165,
           "eng": 40
         }
       },
@@ -3099,8 +3099,8 @@
           "eng": 1
         },
         "2026-10-13": {
-          "total": 24,
-          "eng": 1
+          "total": 26,
+          "eng": 2
         }
       },
       "pm": {
@@ -3246,6 +3246,12 @@
             "lever-spotify-ef3985d1-522e-4950-ba6e-af57dd93c788"
           ],
           "lastSeen": "2026-10-13"
+        },
+        "senior product manager consumer audiobooks": {
+          "ids": [
+            "lever-spotify-ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd"
+          ],
+          "lastSeen": "2026-10-13"
         }
       }
     },
@@ -3365,8 +3371,8 @@
           "eng": 5
         },
         "2026-10-13": {
-          "total": 143,
-          "eng": 5
+          "total": 144,
+          "eng": 6
         }
       },
       "pm": {
@@ -3568,7 +3574,7 @@
           "eng": 5
         },
         "2026-10-13": {
-          "total": 88,
+          "total": 86,
           "eng": 5
         }
       },
@@ -3591,7 +3597,8 @@
           "ids": [
             "amazon-10496620"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-13",
+          "closedOn": "2026-10-13"
         },
         "product manager ii amazon send": {
           "ids": [
@@ -3885,7 +3892,8 @@
           "ids": [
             "amazon-10496615"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-13",
+          "closedOn": "2026-10-13"
         },
         "senior product manager alexa automotive scaling initiatives amazon smart vehicles": {
           "ids": [
@@ -4167,7 +4175,7 @@
         },
         "2026-10-13": {
           "total": 76,
-          "eng": 23
+          "eng": 24
         }
       },
       "pm": {
@@ -4307,7 +4315,7 @@
           "eng": 9
         },
         "2026-10-13": {
-          "total": 76,
+          "total": 77,
           "eng": 8
         }
       },
@@ -4734,7 +4742,7 @@
           "eng": 30
         },
         "2026-10-13": {
-          "total": 46,
+          "total": 47,
           "eng": 30
         }
       },
@@ -4802,8 +4810,8 @@
           "eng": 22
         },
         "2026-10-13": {
-          "total": 67,
-          "eng": 20
+          "total": 68,
+          "eng": 21
         }
       },
       "pm": {
@@ -5529,14 +5537,15 @@
           "eng": 2
         },
         "2026-10-13": {
-          "total": 9,
-          "eng": 3
+          "total": 8,
+          "eng": 2
         }
       },
       "pm": {
         "sr product manager": {
           "ids": [
-            "eightfold-paypal.com-274922819195"
+            "eightfold-paypal.com-274922819195",
+            "eightfold-paypal.com-274922819192"
           ],
           "lastSeen": "2026-10-13"
         },
@@ -5604,7 +5613,7 @@
         },
         "2026-10-13": {
           "total": 9,
-          "eng": 2
+          "eng": 3
         }
       },
       "pm": {}
@@ -5732,7 +5741,7 @@
           "eng": 9
         },
         "2026-10-13": {
-          "total": 178,
+          "total": 179,
           "eng": 9
         }
       },
@@ -5872,8 +5881,8 @@
           "eng": 21
         },
         "2026-10-13": {
-          "total": 98,
-          "eng": 22
+          "total": 100,
+          "eng": 25
         }
       },
       "pm": {
@@ -5904,6 +5913,12 @@
         "senior product manager": {
           "ids": [
             "smartrecruiters-PHONEPELIMITED-1000000000001869"
+          ],
+          "lastSeen": "2026-10-13"
+        },
+        "head of product phonepe wealth": {
+          "ids": [
+            "smartrecruiters-PHONEPELIMITED-1000000000004050"
           ],
           "lastSeen": "2026-10-13"
         }
@@ -6291,7 +6306,7 @@
         },
         "2026-10-13": {
           "total": 100,
-          "eng": 46
+          "eng": 45
         }
       },
       "pm": {
@@ -6512,8 +6527,8 @@
           "eng": 75
         },
         "2026-10-13": {
-          "total": 148,
-          "eng": 77
+          "total": 145,
+          "eng": 75
         }
       },
       "pm": {
@@ -7159,7 +7174,7 @@
           "eng": 35
         },
         "2026-10-13": {
-          "total": 103,
+          "total": 102,
           "eng": 34
         }
       },
@@ -7616,8 +7631,8 @@
           "eng": 46
         },
         "2026-10-13": {
-          "total": 75,
-          "eng": 45
+          "total": 77,
+          "eng": 47
         }
       },
       "pm": {
@@ -7856,8 +7871,8 @@
           "eng": 31
         },
         "2026-10-13": {
-          "total": 66,
-          "eng": 28
+          "total": 71,
+          "eng": 27
         }
       },
       "pm": {
@@ -7874,7 +7889,8 @@
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-13",
+          "closedOn": "2026-10-13"
         },
         "senior lead digital product manager access entitlements platform": {
           "ids": [
@@ -7981,8 +7997,8 @@
           "eng": 44
         },
         "2026-10-13": {
-          "total": 76,
-          "eng": 40
+          "total": 79,
+          "eng": 41
         }
       },
       "pm": {}
@@ -8048,8 +8064,8 @@
           "spike": true
         },
         "2026-10-13": {
-          "total": 200,
-          "eng": 39,
+          "total": 199,
+          "eng": 146,
           "spike": true
         }
       },
@@ -8059,24 +8075,28 @@
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-13",
+          "closedOn": "2026-10-13"
         },
         "product management analyst": {
           "ids": [
             "workday-accenture-/job/Navi-Mumbai/Product-Management-Analyst_AIOC-S01650119-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-13",
+          "closedOn": "2026-10-13"
         },
         "product management lead": {
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-13",
+          "closedOn": "2026-10-13"
         },
         "ai product management practitioner": {
           "ids": [
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468687-S2006277-1",
-            "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1"
+            "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
+            "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
           "lastSeen": "2026-10-13"
         },
@@ -8084,7 +8104,8 @@
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-13",
+          "closedOn": "2026-10-13"
         },
         "product management specialist aftermarket service supply chain": {
           "ids": [
@@ -8301,8 +8322,8 @@
           "eng": 3
         },
         "2026-10-13": {
-          "total": 7,
-          "eng": 3
+          "total": 6,
+          "eng": 2
         }
       },
       "pm": {}
@@ -8515,7 +8536,7 @@
         },
         "2026-10-13": {
           "total": 897,
-          "eng": 579
+          "eng": 577
         }
       },
       "pm": {
@@ -8792,7 +8813,7 @@
           "eng": 38
         },
         "2026-10-13": {
-          "total": 134,
+          "total": 135,
           "eng": 40
         }
       },
@@ -8954,8 +8975,8 @@
           "eng": 11
         },
         "2026-10-13": {
-          "total": 29,
-          "eng": 11
+          "total": 27,
+          "eng": 9
         }
       },
       "pm": {
@@ -9570,7 +9591,7 @@
           "eng": 31
         },
         "2026-10-13": {
-          "total": 63,
+          "total": 62,
           "eng": 32
         }
       },
@@ -9579,7 +9600,8 @@
           "ids": [
             "workday-motorolasolutions-/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-13",
+          "closedOn": "2026-10-13"
         },
         "new product introduction product owner": {
           "ids": [
@@ -9851,8 +9873,8 @@
           "eng": 110
         },
         "2026-10-13": {
-          "total": 197,
-          "eng": 110
+          "total": 200,
+          "eng": 114
         }
       },
       "pm": {
@@ -9935,8 +9957,8 @@
           "eng": 40
         },
         "2026-10-13": {
-          "total": 134,
-          "eng": 42
+          "total": 135,
+          "eng": 43
         }
       },
       "pm": {
@@ -10026,8 +10048,8 @@
           "eng": 195
         },
         "2026-10-13": {
-          "total": 607,
-          "eng": 199
+          "total": 608,
+          "eng": 198
         }
       },
       "pm": {
@@ -10233,7 +10255,7 @@
           "eng": 8
         },
         "2026-10-13": {
-          "total": 35,
+          "total": 36,
           "eng": 8
         }
       },
@@ -10336,8 +10358,8 @@
           "eng": 183
         },
         "2026-10-13": {
-          "total": 356,
-          "eng": 180
+          "total": 357,
+          "eng": 181
         }
       },
       "pm": {
@@ -10504,7 +10526,7 @@
           "eng": 36
         },
         "2026-10-13": {
-          "total": 104,
+          "total": 103,
           "eng": 36
         }
       },
@@ -10571,7 +10593,7 @@
           "eng": 2
         },
         "2026-10-13": {
-          "total": 20,
+          "total": 21,
           "eng": 2
         }
       },
@@ -10687,7 +10709,7 @@
           "eng": 19
         },
         "2026-10-13": {
-          "total": 376,
+          "total": 375,
           "eng": 19
         }
       },
@@ -10759,7 +10781,7 @@
           "eng": 4
         },
         "2026-10-13": {
-          "total": 18,
+          "total": 17,
           "eng": 4
         }
       },

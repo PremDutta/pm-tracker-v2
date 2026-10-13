@@ -7,6 +7,14 @@
       "detail": "145 engineering openings vs a usual 36"
     },
     {
+      "type": "funding",
+      "company": "Clueso",
+      "title": "AI video platform Clueso raises $10 Mn in Series A round led by Dharana Capital",
+      "url": "https://entrackr.com/news/ai-video-platform-clueso-raises-10-mn-in-series-a-round-led-by-dharana-capital-12672619",
+      "date": "2026-10-13",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "reopened",
       "company": "JPMorgan Chase",
       "date": "2026-10-13",
@@ -14,6 +22,14 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783031",
       "id": "oracle-jpmc.fa.oraclecloud.com-210783031",
       "detail": "closed 2026-10-04, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "Mesa School",
+      "title": "Mesa School Bags ₹110 Cr To Launch New On-Campus Courses",
+      "url": "https://inc42.com/buzz/mesa-school-bags-%e2%82%b9110-cr-to-launch-new-on-campus-courses/",
+      "date": "2026-10-13",
+      "detail": "via Inc42"
     },
     {
       "type": "funding",
@@ -30,6 +46,22 @@
       "url": "https://entrackr.com/snippets/nusynth-raises-rs-365-cr-in-seed-round-led-by-avaana-capital-shastra-vc-12671123",
       "date": "2026-10-13",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "ThinkMetal",
+      "title": "Manufacturing Startup ThinkMetal Raises ₹27 Cr To Initiate Commercialisation",
+      "url": "https://inc42.com/buzz/manufacturing-startup-thinkmetal-raises-%e2%82%b927-cr-to-initiate-commercialisation/",
+      "date": "2026-10-13",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
+      "company": "Toothsi Parent MakeO",
+      "title": "Toothsi Parent MakeO Raises ₹90 Cr For India, Southeast Asia Expansion",
+      "url": "https://inc42.com/buzz/toothsi-parent-makeo-raises-%e2%82%b990-cr-for-india-southeast-asia-expansion/",
+      "date": "2026-10-13",
+      "detail": "via Inc42"
     },
     {
       "type": "reopened",

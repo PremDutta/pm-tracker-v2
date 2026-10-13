@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-13T09:39:00.729Z",
+  "scannedAt": "2026-10-13T13:42:10.106Z",
   "roles": {
     "Amazon": [
       {
@@ -105,14 +105,6 @@
         "url": "https://www.amazon.jobs/en/jobs/10572974/product-manager-in-p3p",
         "level": "pm",
         "firstSeen": "2026-10-08"
-      },
-      {
-        "id": "amazon-10496620",
-        "title": "Product Manager, Private Brands",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10496620/product-manager-private-brands",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10453422",
@@ -423,14 +415,6 @@
         "title": "Sr. Product Manager, Cost of Returns",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10530922/sr-product-manager-cost-of-returns",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10496615",
-        "title": "Sr. Product Manager, Credit and Lending, Amazon Credit and Lending",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10496615/sr-product-manager-credit-and-lending-amazon-credit-and-lending",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -1049,14 +1033,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-281334",
-        "title": "Lead Product Manager- Technical",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-281334",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293101",
         "title": "Manager, Product Management",
         "location": "Pune, India",
@@ -1205,14 +1181,6 @@
     ],
     "Microsoft": [
       {
-        "id": "eightfold-microsoft.com-1970393556997831",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393556911401",
         "title": "Principal Product Manager",
         "location": "India, Karnataka, Bangalore",
@@ -1233,6 +1201,14 @@
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556997831",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1261,12 +1237,12 @@
         "firstSeen": "2026-10-06"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556971850",
+        "id": "eightfold-microsoft.com-1970393557016561",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556971850",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
         "level": "senior",
-        "firstSeen": "2026-09-30"
+        "firstSeen": "2026-10-06"
       },
       {
         "id": "eightfold-microsoft.com-1970393557016611",
@@ -1277,12 +1253,12 @@
         "firstSeen": "2026-10-07"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557016561",
+        "id": "eightfold-microsoft.com-1970393556971850",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556971850",
         "level": "senior",
-        "firstSeen": "2026-10-06"
+        "firstSeen": "2026-09-30"
       }
     ],
     "Mihup": [
@@ -1350,14 +1326,6 @@
       }
     ],
     "Motorola Solutions": [
-      {
-        "id": "workday-motorolasolutions-/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654",
-        "title": "Product Manager - Business Intelligence & Analytics",
-        "location": "Bangalore, India",
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
-      },
       {
         "id": "workday-motorolasolutions-/job/Bangalore-India/Technical-Product-Manager_R68278",
         "title": "Technical Product Manager",
@@ -1477,18 +1445,18 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "eightfold-paypal.com-274922819195",
-        "title": "Sr Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819195",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "eightfold-paypal.com-274922819192",
         "title": "Sr Product Manager",
         "location": "Bangalore, Karnataka, India",
         "url": "https://paypal.eightfold.ai/careers/job/274922819192",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "eightfold-paypal.com-274922819195",
+        "title": "Sr Product Manager",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://paypal.eightfold.ai/careers/job/274922819195",
         "level": "senior",
         "firstSeen": "2026-10-13"
       }
@@ -1623,6 +1591,14 @@
         "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000002471",
         "level": "leadership",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "smartrecruiters-PHONEPELIMITED-1000000000004050",
+        "title": "Head of Product, PhonePe Wealth",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000004050",
+        "level": "leadership",
+        "firstSeen": "2026-10-13"
       },
       {
         "id": "smartrecruiters-PHONEPELIMITED-1000000000002128",
@@ -1911,14 +1887,6 @@
         "firstSeen": "2026-10-09"
       },
       {
-        "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
-        "title": "Product Manager (Data Governance Platform, Metadata Management, Data Stewardship, Access Management) (6-12 years)",
-        "location": "IN - Bengaluru, India",
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "workday-visa-/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W",
         "title": "Senior Product Manager, Platform and Gateway",
         "location": "IN - Bengaluru, India",
@@ -1942,14 +1910,6 @@
         "location": "Bengaluru, India",
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Product-Management-Consultant_R-579868",
         "level": "pm",
-        "firstSeen": "2026-10-13"
-      },
-      {
-        "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
-        "title": "Lead Digital Product Manager - CIAM",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
-        "level": "group",
         "firstSeen": "2026-10-13"
       }
     ],

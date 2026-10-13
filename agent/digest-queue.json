@@ -2685,6 +2685,33 @@
       "url": "https://jobs.lever.co/fampay/b11c81ce-fe5c-4eb6-a3e1-d268dd3ad926",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "lever-spotify-ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd",
+      "title": "Senior Product Manager, Consumer - Audiobooks",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd",
+      "source": "Lever (Spotify)",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "smartrecruiters-PHONEPELIMITED-1000000000004050",
+      "title": "Head of Product, PhonePe Wealth",
+      "company": "PhonePe",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000004050",
+      "source": "SmartRecruiters (PhonePe)",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "vc-accel-96781859",
+      "title": "Senior Staff Product Manager",
+      "company": "SentinelOne",
+      "location": "India",
+      "url": "https://boards.greenhouse.io/sentinellabs/jobs/8005415003",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-13"
     }
   ],
   "signals": [
