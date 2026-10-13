@@ -2559,6 +2559,33 @@
         "mba_mentioned"
       ],
       "queuedOn": "2026-10-12"
+    },
+    {
+      "id": "vc-accel-96724786",
+      "title": "Product Manager",
+      "company": "CareStack",
+      "location": "Thiruvananthapuram, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/product-manager-at-carestack%E2%84%A2-dental-practice-management-4477589033",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "vc-accel-96714992",
+      "title": "Product Manager II, Google Workspace",
+      "company": "Google",
+      "location": "Bengaluru, Karnataka, India, New York, NY, USA",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/86178789968487110-product-manager-ii-google-workspace?page=50",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-13"
+    },
+    {
+      "id": "vc-accel-96702280",
+      "title": "Product Manager / Sr. Product Manager - Mulesoft",
+      "company": "Spindle Ai (spindle.ai)",
+      "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
+      "url": "https://www.salesforce.com/company/careers/jobs/JR321301/product-manager-sr-product-manager-mulesoft/",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-13"
     }
   ],
   "signals": [
@@ -2624,6 +2651,12 @@
       "company": "Accenture",
       "date": "2026-10-12",
       "detail": "144 engineering openings vs a usual 36"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-13",
+      "detail": "145 engineering openings vs a usual 36"
     }
   ],
   "reminders": {}
