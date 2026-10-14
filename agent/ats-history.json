@@ -71,8 +71,8 @@
           "eng": 44
         },
         "2026-10-14": {
-          "total": 104,
-          "eng": 44
+          "total": 105,
+          "eng": 45
         }
       },
       "pm": {
@@ -216,8 +216,8 @@
           "eng": 268
         },
         "2026-10-14": {
-          "total": 651,
-          "eng": 272
+          "total": 649,
+          "eng": 270
         }
       },
       "pm": {
@@ -405,7 +405,7 @@
           "eng": 30
         },
         "2026-10-14": {
-          "total": 63,
+          "total": 62,
           "eng": 30
         }
       },
@@ -602,7 +602,7 @@
           "eng": 47
         },
         "2026-10-14": {
-          "total": 117,
+          "total": 116,
           "eng": 46
         }
       },
@@ -936,7 +936,7 @@
           "eng": 80
         },
         "2026-10-14": {
-          "total": 183,
+          "total": 182,
           "eng": 80
         }
       },
@@ -1401,8 +1401,8 @@
           "eng": 45
         },
         "2026-10-14": {
-          "total": 146,
-          "eng": 47
+          "total": 147,
+          "eng": 48
         }
       },
       "pm": {
@@ -1499,8 +1499,8 @@
           "eng": 30
         },
         "2026-10-14": {
-          "total": 48,
-          "eng": 30
+          "total": 49,
+          "eng": 31
         }
       },
       "pm": {
@@ -1584,7 +1584,7 @@
           "eng": 30
         },
         "2026-10-14": {
-          "total": 145,
+          "total": 144,
           "eng": 30
         }
       },
@@ -1805,6 +1805,12 @@
           ],
           "lastSeen": "2026-10-02",
           "closedOn": "2026-10-03"
+        },
+        "product manager connections": {
+          "ids": [
+            "ashby-notion-be6e1a35-d467-48e6-96bf-62afc4ad0126"
+          ],
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -1879,8 +1885,8 @@
           "eng": 414
         },
         "2026-10-14": {
-          "total": 805,
-          "eng": 411
+          "total": 802,
+          "eng": 412
         }
       },
       "pm": {
@@ -2044,7 +2050,7 @@
           "eng": 39
         },
         "2026-10-14": {
-          "total": 162,
+          "total": 161,
           "eng": 39
         }
       },
@@ -3340,8 +3346,8 @@
           "eng": 34
         },
         "2026-10-14": {
-          "total": 80,
-          "eng": 31
+          "total": 82,
+          "eng": 32
         }
       },
       "pm": {
@@ -3606,7 +3612,7 @@
           "eng": 13
         },
         "2026-10-14": {
-          "total": 35,
+          "total": 34,
           "eng": 14
         }
       },
@@ -3684,7 +3690,7 @@
           "eng": 5
         },
         "2026-10-14": {
-          "total": 10,
+          "total": 11,
           "eng": 5
         }
       },
@@ -5447,7 +5453,7 @@
         },
         "2026-10-14": {
           "total": 100,
-          "eng": 29
+          "eng": 30
         }
       },
       "pm": {
@@ -5508,7 +5514,8 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210794392"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-14",
+          "closedOn": "2026-10-14"
         },
         "product director metrics": {
           "ids": [
@@ -5905,8 +5912,8 @@
           "eng": 3
         },
         "2026-10-14": {
-          "total": 8,
-          "eng": 5,
+          "total": 4,
+          "eng": 1,
           "spike": true
         }
       },
@@ -6187,8 +6194,8 @@
           "eng": 25
         },
         "2026-10-14": {
-          "total": 99,
-          "eng": 24
+          "total": 98,
+          "eng": 23
         }
       },
       "pm": {
@@ -6631,7 +6638,7 @@
         },
         "2026-10-14": {
           "total": 100,
-          "eng": 40
+          "eng": 39
         }
       },
       "pm": {
@@ -6674,10 +6681,10 @@
         },
         "sr staff outbound product manager ai assistant": {
           "ids": [
-            "smartrecruiters-ServiceNow-744000152754744"
+            "smartrecruiters-ServiceNow-744000152754744",
+            "smartrecruiters-ServiceNow-744000155597390"
           ],
-          "lastSeen": "2026-10-06",
-          "closedOn": "2026-10-06"
+          "lastSeen": "2026-10-14"
         },
         "staff inbound product manager": {
           "ids": [
@@ -6767,7 +6774,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000154471344"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-14",
+          "closedOn": "2026-10-14"
         },
         "director product management": {
           "ids": [
@@ -6874,8 +6882,8 @@
           "eng": 74
         },
         "2026-10-14": {
-          "total": 147,
-          "eng": 76
+          "total": 139,
+          "eng": 73
         }
       },
       "pm": {
@@ -6890,7 +6898,8 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-14",
+          "closedOn": "2026-10-14"
         },
         "principal product manager technical": {
           "ids": [
@@ -6958,7 +6967,8 @@
           "ids": [
             "workday-mastercard-/job/Gurgaon-India/Specialist--Product-Management_R-289494"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-14",
+          "closedOn": "2026-10-14"
         },
         "manager product management scheme and regulatory compliance": {
           "ids": [
@@ -6989,7 +6999,8 @@
           "ids": [
             "workday-mastercard-/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-14",
+          "closedOn": "2026-10-14"
         },
         "senior specialist product management custom analytics": {
           "ids": [
@@ -7083,7 +7094,7 @@
           "eng": 7
         },
         "2026-10-14": {
-          "total": 28,
+          "total": 27,
           "eng": 7
         }
       },
@@ -7553,8 +7564,8 @@
           "eng": 34
         },
         "2026-10-14": {
-          "total": 98,
-          "eng": 33
+          "total": 100,
+          "eng": 34
         }
       },
       "pm": {
@@ -8285,8 +8296,8 @@
           "eng": 24
         },
         "2026-10-14": {
-          "total": 80,
-          "eng": 30
+          "total": 71,
+          "eng": 25
         }
       },
       "pm": {
@@ -8415,8 +8426,8 @@
           "eng": 43
         },
         "2026-10-14": {
-          "total": 86,
-          "eng": 43
+          "total": 82,
+          "eng": 42
         }
       },
       "pm": {}
@@ -8525,7 +8536,8 @@
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-14",
+          "closedOn": "2026-10-14"
         },
         "product management specialist aftermarket service supply chain": {
           "ids": [
@@ -8670,7 +8682,7 @@
         },
         "2026-10-14": {
           "total": 72,
-          "eng": 34
+          "eng": 35
         }
       },
       "pm": {
@@ -8984,7 +8996,7 @@
         },
         "2026-10-14": {
           "total": 894,
-          "eng": 575
+          "eng": 573
         }
       },
       "pm": {
@@ -9551,7 +9563,7 @@
           "eng": 32
         },
         "2026-10-14": {
-          "total": 65,
+          "total": 66,
           "eng": 32
         }
       },
@@ -9946,8 +9958,8 @@
           "eng": 156
         },
         "2026-10-14": {
-          "total": 405,
-          "eng": 168
+          "total": 404,
+          "eng": 167
         }
       },
       "pm": {
@@ -10283,8 +10295,8 @@
           "eng": 4
         },
         "2026-10-14": {
-          "total": 10,
-          "eng": 4
+          "total": 9,
+          "eng": 3
         }
       },
       "pm": {}
@@ -10328,7 +10340,7 @@
           "eng": 40
         },
         "2026-10-14": {
-          "total": 89,
+          "total": 87,
           "eng": 37
         }
       },
@@ -10399,7 +10411,7 @@
         },
         "2026-10-14": {
           "total": 200,
-          "eng": 114
+          "eng": 125
         }
       },
       "pm": {
@@ -10486,7 +10498,7 @@
           "eng": 43
         },
         "2026-10-14": {
-          "total": 135,
+          "total": 136,
           "eng": 41
         }
       },
@@ -10539,6 +10551,12 @@
           ],
           "lastSeen": "2026-10-09",
           "closedOn": "2026-10-09"
+        },
+        "senior it product manager accounting": {
+          "ids": [
+            "greenhouse-rubrik-7939330"
+          ],
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -10581,7 +10599,7 @@
           "eng": 196
         },
         "2026-10-14": {
-          "total": 605,
+          "total": 611,
           "eng": 195
         }
       },
@@ -10694,6 +10712,18 @@
         "senior director of product app platform": {
           "ids": [
             "rippling-rippling-ea9eda50-a3a8-40e9-b6d3-a525f420eece"
+          ],
+          "lastSeen": "2026-10-14"
+        },
+        "lead product manager data catalog": {
+          "ids": [
+            "rippling-rippling-1311a98d-008f-4517-9f9f-73ee4c9cf1cf"
+          ],
+          "lastSeen": "2026-10-14"
+        },
+        "product lead finance accounting": {
+          "ids": [
+            "rippling-rippling-f8aeff93-84a4-440b-a3b2-f9e5ccc3f82f"
           ],
           "lastSeen": "2026-10-14"
         }
@@ -10909,7 +10939,7 @@
         },
         "2026-10-14": {
           "total": 356,
-          "eng": 177
+          "eng": 176
         }
       },
       "pm": {
@@ -10982,6 +11012,18 @@
         "senior product manager agent marketplace": {
           "ids": [
             "ashby-snowflake-3c565761-4ce8-40f4-a346-1997b117afbc"
+          ],
+          "lastSeen": "2026-10-14"
+        },
+        "senior product manager horizontal ui experiences": {
+          "ids": [
+            "ashby-snowflake-11e316e5-7c4b-48f0-8dbc-7d42f2b4e7d6"
+          ],
+          "lastSeen": "2026-10-14"
+        },
+        "director product management data transformation": {
+          "ids": [
+            "ashby-snowflake-2c1ede0e-02c9-4f74-b084-fc1f5ccd83e2"
           ],
           "lastSeen": "2026-10-14"
         }
@@ -11090,8 +11132,8 @@
           "eng": 36
         },
         "2026-10-14": {
-          "total": 103,
-          "eng": 35
+          "total": 102,
+          "eng": 34
         }
       },
       "pm": {

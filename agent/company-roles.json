@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-14T16:41:55.141Z",
+  "scannedAt": "2026-10-14T21:20:59.210Z",
   "roles": {
     "Amazon": [
       {
@@ -673,6 +673,14 @@
         "firstSeen": "2026-10-14"
       },
       {
+        "id": "sf-careers.hcltech.com-169138",
+        "title": "Data Product Manager",
+        "location": "Chennai",
+        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-14"
+      },
+      {
         "id": "sf-careers.hcltech.com-172343",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -697,18 +705,18 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -869,14 +877,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210794392",
-        "title": "Executive Director - Senior AI Product Manager",
-        "location": "Bengaluru, Karnataka, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794392",
-        "level": "leadership",
-        "firstSeen": "2026-10-08"
-      },
-      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210796604",
         "title": "Product Management -  Loan lifecycle and Platforms(LIQ) - Team Lead",
         "location": "Bengaluru, Karnataka, India",
@@ -957,14 +957,6 @@
     ],
     "Mastercard": [
       {
-        "id": "workday-mastercard-/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
-        "title": "Consumer Credit Analytics – Global Product Manager - Specialist",
-        "location": "Gurgaon, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
-        "level": "pm",
-        "firstSeen": "2026-10-06"
-      },
-      {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
         "title": "Lead Product Management – Technical – AI Transformation",
         "location": "Pune, India",
@@ -979,14 +971,6 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Lead-Product-Manager_R-292425-1",
         "level": "group",
         "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
-        "title": "Lead Product Manager - Technical - Data Lake/ Data Warehouse",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
-        "level": "group",
-        "firstSeen": "2026-10-14"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
@@ -1061,14 +1045,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
-        "title": "Senior Product Manager - Technical",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
-        "level": "senior",
-        "firstSeen": "2026-10-09"
-      },
-      {
         "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
         "title": "Senior Product Manager - Technical",
         "location": "Pune, India",
@@ -1115,14 +1091,6 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist-Product-Manager_R-290356",
         "level": "pm",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "workday-mastercard-/job/Gurgaon-India/Specialist--Product-Management_R-289494",
-        "title": "Specialist, Product Management",
-        "location": "Gurgaon, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist--Product-Management_R-289494",
-        "level": "pm",
-        "firstSeen": "2026-10-01"
       }
     ],
     "Meesho": [
@@ -1225,6 +1193,14 @@
         "firstSeen": "2026-10-06"
       },
       {
+        "id": "eightfold-microsoft.com-1970393556971850",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556971850",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557016561",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
@@ -1239,14 +1215,6 @@
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
         "level": "senior",
         "firstSeen": "2026-10-07"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393556971850",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556971850",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Mihup": [
@@ -1433,18 +1401,18 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "eightfold-paypal.com-274922819192",
-        "title": "Sr Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819192",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "eightfold-paypal.com-274922819195",
         "title": "Sr Product Manager",
         "location": "Bangalore, Karnataka, India",
         "url": "https://paypal.eightfold.ai/careers/job/274922819195",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "eightfold-paypal.com-274922819192",
+        "title": "Sr Product Manager",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://paypal.eightfold.ai/careers/job/274922819192",
         "level": "senior",
         "firstSeen": "2026-10-13"
       }
@@ -1665,6 +1633,14 @@
         "url": "https://ats.rippling.com/rippling/jobs/9276fd2e-0929-4843-9f5e-c7b7bb9119ab",
         "level": "group",
         "firstSeen": "2026-10-05"
+      },
+      {
+        "id": "rippling-rippling-f8aeff93-84a4-440b-a3b2-f9e5ccc3f82f",
+        "title": "Product Lead, Finance Accounting",
+        "location": "Bangalore, India",
+        "url": "https://ats.rippling.com/rippling/jobs/f8aeff93-84a4-440b-a3b2-f9e5ccc3f82f",
+        "level": "group",
+        "firstSeen": "2026-10-14"
       },
       {
         "id": "rippling-rippling-dc87eb0d-23ed-4539-9298-17f52f81ff7e",
