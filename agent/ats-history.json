@@ -69,6 +69,10 @@
         "2026-10-13": {
           "total": 103,
           "eng": 44
+        },
+        "2026-10-14": {
+          "total": 104,
+          "eng": 44
         }
       },
       "pm": {
@@ -77,19 +81,19 @@
             "greenhouse-asana-8213887",
             "greenhouse-asana-8204614"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager adapt": {
           "ids": [
             "greenhouse-asana-8017552"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager command": {
           "ids": [
             "greenhouse-asana-7586960"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager ai agents experience": {
           "ids": [
@@ -102,7 +106,7 @@
           "ids": [
             "greenhouse-asana-8044815"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager project task experience": {
           "ids": [
@@ -122,7 +126,7 @@
           "ids": [
             "greenhouse-asana-8180874"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager": {
           "ids": [
@@ -137,7 +141,7 @@
             "greenhouse-asana-8194540",
             "greenhouse-asana-8260059"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -210,6 +214,10 @@
         "2026-10-13": {
           "total": 648,
           "eng": 268
+        },
+        "2026-10-14": {
+          "total": 646,
+          "eng": 269
         }
       },
       "pm": {
@@ -224,7 +232,7 @@
           "ids": [
             "greenhouse-anthropic-5394887008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager claude tag": {
           "ids": [
@@ -237,55 +245,55 @@
           "ids": [
             "greenhouse-anthropic-5393526008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager multi cloud growth google": {
           "ids": [
             "greenhouse-anthropic-5153924008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager multi cloud trust safety": {
           "ids": [
             "greenhouse-anthropic-5409934008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager new markets and monetization": {
           "ids": [
             "greenhouse-anthropic-5386182008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager public sector": {
           "ids": [
             "greenhouse-anthropic-5393452008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager research": {
           "ids": [
             "greenhouse-anthropic-5324349008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager safe access": {
           "ids": [
             "greenhouse-anthropic-5428898008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager safeguards": {
           "ids": [
             "greenhouse-anthropic-5413576008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager safeguards rare harms": {
           "ids": [
             "greenhouse-anthropic-5139628008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "research product manager labs": {
           "ids": [
@@ -298,31 +306,31 @@
           "ids": [
             "greenhouse-anthropic-5195866008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management research": {
           "ids": [
             "greenhouse-anthropic-5123082008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager billing": {
           "ids": [
             "greenhouse-anthropic-5434361008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager enterprise privacy": {
           "ids": [
             "greenhouse-anthropic-5434369008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager claude": {
           "ids": [
             "greenhouse-anthropic-5448167008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -394,6 +402,10 @@
         },
         "2026-10-13": {
           "total": 65,
+          "eng": 30
+        },
+        "2026-10-14": {
+          "total": 63,
           "eng": 30
         }
       },
@@ -468,6 +480,10 @@
         "2026-10-13": {
           "total": 133,
           "eng": 51
+        },
+        "2026-10-14": {
+          "total": 133,
+          "eng": 51
         }
       },
       "pm": {
@@ -475,43 +491,43 @@
           "ids": [
             "ashby-perplexity-f25e190e-0508-4707-b575-fcaed358dc13"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager mobile apps": {
           "ids": [
             "ashby-perplexity-3c9c051f-e6ca-4a70-9abf-1f640e154ee1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager core experience": {
           "ids": [
             "ashby-perplexity-6f3c5131-2efa-400c-8248-44203a4dbfbb"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager ai capabilities": {
           "ids": [
             "ashby-perplexity-7f880194-7276-4b46-8a50-58b48da8882e"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager growth": {
           "ids": [
             "ashby-perplexity-fa088d92-b08b-43f7-9232-275b0ae08827"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager smb growth": {
           "ids": [
             "ashby-perplexity-182ab2ec-6fb1-409b-a2dc-63c7832b0a13"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager platform": {
           "ids": [
             "ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -584,6 +600,10 @@
         "2026-10-13": {
           "total": 117,
           "eng": 47
+        },
+        "2026-10-14": {
+          "total": 117,
+          "eng": 47
         }
       },
       "pm": {
@@ -591,19 +611,19 @@
           "ids": [
             "ashby-cohere-1d1b300d-254b-48c4-958f-99c6b907f295"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager integrations": {
           "ids": [
             "ashby-cohere-87e9fd4e-49ac-4242-97be-7da6f718020d"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager managed north": {
           "ids": [
             "ashby-cohere-fe2e2971-e2c0-43fd-9ab1-187571776a5d"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -674,6 +694,10 @@
           "eng": 3
         },
         "2026-10-13": {
+          "total": 3,
+          "eng": 3
+        },
+        "2026-10-14": {
           "total": 3,
           "eng": 3
         }
@@ -749,6 +773,10 @@
         "2026-10-13": {
           "total": 15,
           "eng": 7
+        },
+        "2026-10-14": {
+          "total": 15,
+          "eng": 7
         }
       },
       "pm": {
@@ -756,7 +784,7 @@
           "ids": [
             "ashby-pika-e0533e4b-28a2-4c18-be00-73111f84f326"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -827,6 +855,10 @@
           "eng": 5
         },
         "2026-10-13": {
+          "total": 6,
+          "eng": 5
+        },
+        "2026-10-14": {
           "total": 6,
           "eng": 5
         }
@@ -902,6 +934,10 @@
         "2026-10-13": {
           "total": 183,
           "eng": 80
+        },
+        "2026-10-14": {
+          "total": 183,
+          "eng": 80
         }
       },
       "pm": {
@@ -909,7 +945,7 @@
           "ids": [
             "greenhouse-scaleai-4609736005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director of product management enterprise core platform": {
           "ids": [
@@ -923,13 +959,13 @@
             "greenhouse-scaleai-4673051005",
             "greenhouse-scaleai-4644742005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "forward deployed product manager public sector": {
           "ids": [
             "greenhouse-scaleai-4713648005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "head of product management forward deployed strategy": {
           "ids": [
@@ -942,44 +978,44 @@
           "ids": [
             "greenhouse-scaleai-4699779005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager of ai applications global public sector": {
           "ids": [
             "greenhouse-scaleai-4589749005",
             "greenhouse-scaleai-4650514005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior ai product manager": {
           "ids": [
             "greenhouse-scaleai-4720501005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior ai product manager cybersecurity": {
           "ids": [
             "greenhouse-scaleai-4720213005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior ai product manager finance agents": {
           "ids": [
             "greenhouse-scaleai-4611776005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager agentic platform": {
           "ids": [
             "greenhouse-scaleai-4612403005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager gen ai": {
           "ids": [
             "greenhouse-scaleai-4675842005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager physical ai data robotics": {
           "ids": [
@@ -1066,6 +1102,10 @@
         "2026-10-13": {
           "total": 12,
           "eng": 2
+        },
+        "2026-10-14": {
+          "total": 12,
+          "eng": 2
         }
       },
       "pm": {
@@ -1074,27 +1114,27 @@
             "ashby-photoroom-cfe36a59-a475-44dd-925b-5cb4f93ec831",
             "ashby-photoroom-022b6f5b-bb46-45b7-801a-8a5f3b92a968"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager core product": {
           "ids": [
             "ashby-photoroom-3bd8a6ab-496b-4f54-b9df-eb0b13fb46d2",
             "ashby-photoroom-d075be71-4a2d-489a-9879-18e43363094e"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager agentic ai platform": {
           "ids": [
             "ashby-photoroom-e51e28e4-b740-44d6-922a-8a7b00a245a8",
             "ashby-photoroom-7c34d35a-c405-4d19-bd6a-38f8dd2081a7"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager editing foundations": {
           "ids": [
             "ashby-photoroom-4886fd85-2b2c-4dca-bf48-1dbc370629bc"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -1167,6 +1207,10 @@
         "2026-10-13": {
           "total": 11,
           "eng": 2
+        },
+        "2026-10-14": {
+          "total": 11,
+          "eng": 2
         }
       },
       "pm": {
@@ -1174,7 +1218,7 @@
           "ids": [
             "greenhouse-descript-7868139003"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -1247,6 +1291,10 @@
         "2026-10-13": {
           "total": 90,
           "eng": 37
+        },
+        "2026-10-14": {
+          "total": 90,
+          "eng": 37
         }
       },
       "pm": {
@@ -1254,31 +1302,31 @@
           "ids": [
             "ashby-deepgram-3a12f539-7734-46fa-9e3b-28e041e56074"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager agentic experiences": {
           "ids": [
             "ashby-deepgram-17f95148-fa1c-4c34-82c8-333589bef789"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager": {
           "ids": [
             "ashby-deepgram-d0660127-6c26-4053-943c-c006990b8edc"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director of product operations": {
           "ids": [
             "ashby-deepgram-be9f18f6-8851-40fb-be50-3c13d7457092"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager ai applications": {
           "ids": [
             "ashby-deepgram-9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -1351,6 +1399,10 @@
         "2026-10-13": {
           "total": 144,
           "eng": 45
+        },
+        "2026-10-14": {
+          "total": 145,
+          "eng": 46
         }
       },
       "pm": {
@@ -1358,7 +1410,7 @@
           "ids": [
             "ashby-elevenlabs-934dbe9d-1c1f-4939-944a-6671469009db"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "self serve product manager elevencreative": {
           "ids": [
@@ -1445,6 +1497,10 @@
         "2026-10-13": {
           "total": 48,
           "eng": 30
+        },
+        "2026-10-14": {
+          "total": 48,
+          "eng": 30
         }
       },
       "pm": {
@@ -1526,6 +1582,10 @@
         "2026-10-13": {
           "total": 143,
           "eng": 30
+        },
+        "2026-10-14": {
+          "total": 144,
+          "eng": 30
         }
       },
       "pm": {
@@ -1533,43 +1593,49 @@
           "ids": [
             "greenhouse-figma-6201114004"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager acquisition": {
           "ids": [
             "greenhouse-figma-6119781004"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager ai growth": {
           "ids": [
             "greenhouse-figma-5989185004"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager developer platform": {
           "ids": [
             "greenhouse-figma-6100482004"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "manager product management figma platform experience": {
           "ids": [
             "greenhouse-figma-6160732004"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "manager product management roundtripping": {
           "ids": [
             "greenhouse-figma-6104919004"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "early career associate product manager": {
           "ids": [
             "greenhouse-figma-6180116004"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
+        },
+        "director product communications": {
+          "ids": [
+            "greenhouse-figma-6221563004"
+          ],
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -1642,6 +1708,10 @@
         "2026-10-13": {
           "total": 31,
           "eng": 12
+        },
+        "2026-10-14": {
+          "total": 31,
+          "eng": 12
         }
       },
       "pm": {
@@ -1649,7 +1719,7 @@
           "ids": [
             "ashby-linear-b7669c4b-eeca-421d-ba9a-d90203f6fcb2"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -1721,6 +1791,10 @@
         },
         "2026-10-13": {
           "total": 130,
+          "eng": 47
+        },
+        "2026-10-14": {
+          "total": 131,
           "eng": 47
         }
       },
@@ -1803,6 +1877,10 @@
         "2026-10-13": {
           "total": 805,
           "eng": 414
+        },
+        "2026-10-14": {
+          "total": 810,
+          "eng": 414
         }
       },
       "pm": {
@@ -1810,7 +1888,7 @@
           "ids": [
             "ashby-openai-fc38c6bf-5330-435c-99b6-1bcf1f5829a8"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager sensitive deployments": {
           "ids": [
@@ -1823,7 +1901,7 @@
           "ids": [
             "ashby-openai-7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager safety measurement": {
           "ids": [
@@ -1836,25 +1914,25 @@
           "ids": [
             "ashby-openai-0f4da2b4-df8a-4560-809d-d0a6ac1ad9bc"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager core models": {
           "ids": [
             "ashby-openai-33b8effb-b048-4934-a279-87fff192a330"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager youth": {
           "ids": [
             "ashby-openai-cc0d0d86-eb9d-44a0-a6a4-42bbb6066b4b"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager learning": {
           "ids": [
             "ashby-openai-5953fed7-1466-4e90-94c9-43716a55e032"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager multimodal safety": {
           "ids": [
@@ -1867,31 +1945,31 @@
           "ids": [
             "ashby-openai-83f6d415-9462-4afc-a539-ca8d996e011a"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "rosalind life sciences product manager": {
           "ids": [
             "ashby-openai-2b5c3a30-8e8b-4845-be40-0617b0c9fd43"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager technology vertical": {
           "ids": [
             "ashby-openai-137e3df0-2bd4-4ad4-8edb-8455a7fdc912"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager financial services": {
           "ids": [
             "ashby-openai-a8210588-a178-4afe-91e7-1fa2d269d2e8"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager integrity": {
           "ids": [
             "ashby-openai-05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -1964,6 +2042,10 @@
         "2026-10-13": {
           "total": 162,
           "eng": 39
+        },
+        "2026-10-14": {
+          "total": 162,
+          "eng": 39
         }
       },
       "pm": {
@@ -1971,13 +2053,13 @@
           "ids": [
             "ashby-ramp-78b98c66-af59-4fa8-a5ae-d8af8d737976"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager vendor intelligence marketplace": {
           "ids": [
             "ashby-ramp-cf3516f6-4d6b-4872-831f-c8ef4a3078ee"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager tax": {
           "ids": [
@@ -1990,19 +2072,19 @@
           "ids": [
             "ashby-ramp-8baec095-2235-41ab-ab64-9abc57823b4b"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager procurement": {
           "ids": [
             "ashby-ramp-3f4509ad-1858-478b-a7fb-bcd792d9575a"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager growth": {
           "ids": [
             "ashby-ramp-e0b64893-0459-4d84-ac4f-7b50966ef024"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -2073,6 +2155,10 @@
           "eng": 0
         },
         "2026-10-13": {
+          "total": 10,
+          "eng": 0
+        },
+        "2026-10-14": {
           "total": 10,
           "eng": 0
         }
@@ -2148,6 +2234,10 @@
         "2026-10-13": {
           "total": 3,
           "eng": 2
+        },
+        "2026-10-14": {
+          "total": 3,
+          "eng": 2
         }
       },
       "pm": {
@@ -2155,7 +2245,7 @@
           "ids": [
             "freshteam-letstransport-2000049183"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -2226,6 +2316,10 @@
           "eng": 0
         },
         "2026-10-13": {
+          "total": 7,
+          "eng": 0
+        },
+        "2026-10-14": {
           "total": 7,
           "eng": 0
         }
@@ -2301,6 +2395,10 @@
         "2026-10-13": {
           "total": 35,
           "eng": 6
+        },
+        "2026-10-14": {
+          "total": 35,
+          "eng": 6
         }
       },
       "pm": {
@@ -2308,25 +2406,25 @@
           "ids": [
             "freshteam-gonoise-2000071781"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager growth": {
           "ids": [
             "freshteam-gonoise-2000074163"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "technical product manager wearables": {
           "ids": [
             "freshteam-gonoise-2000074122"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "intern product management": {
           "ids": [
             "freshteam-gonoise-2000074222"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -2397,6 +2495,10 @@
           "eng": 15
         },
         "2026-10-13": {
+          "total": 18,
+          "eng": 15
+        },
+        "2026-10-14": {
           "total": 18,
           "eng": 15
         }
@@ -2472,6 +2574,10 @@
         "2026-10-13": {
           "total": 58,
           "eng": 8
+        },
+        "2026-10-14": {
+          "total": 58,
+          "eng": 8
         }
       },
       "pm": {
@@ -2479,13 +2585,13 @@
           "ids": [
             "lever-meesho-65435df1-9a07-416e-9b97-381045f9f970"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "group product manager": {
           "ids": [
             "lever-meesho-d7924eb1-301e-4098-ab7b-f3a4c92c210a"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager": {
           "ids": [
@@ -2498,7 +2604,7 @@
           "ids": [
             "lever-meesho-4891a891-f431-4e98-99ae-0e31a21f0190"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager platforms": {
           "ids": [
@@ -2511,13 +2617,13 @@
           "ids": [
             "lever-meesho-2028b73c-2ae0-4fca-903e-481b8c500629"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager data analytics platform": {
           "ids": [
             "lever-meesho-97ce9e5a-a8bb-446d-a8db-9078603b106f"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager ii user discovery": {
           "ids": [
@@ -2530,7 +2636,7 @@
           "ids": [
             "lever-meesho-b56573f0-c701-422a-abfa-ac8bbdbfa645"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -2603,6 +2709,10 @@
         "2026-10-13": {
           "total": 2,
           "eng": 0
+        },
+        "2026-10-14": {
+          "total": 2,
+          "eng": 0
         }
       },
       "pm": {
@@ -2610,7 +2720,7 @@
           "ids": [
             "zoho-vedantu-95146000003170110"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -2683,6 +2793,10 @@
         "2026-10-13": {
           "total": 19,
           "eng": 4
+        },
+        "2026-10-14": {
+          "total": 19,
+          "eng": 4
         }
       },
       "pm": {
@@ -2690,7 +2804,7 @@
           "ids": [
             "zoho-myoperator-163599000034203948"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -2763,6 +2877,10 @@
         "2026-10-13": {
           "total": 274,
           "eng": 46
+        },
+        "2026-10-14": {
+          "total": 274,
+          "eng": 46
         }
       },
       "pm": {
@@ -2771,25 +2889,25 @@
             "zoho-go-yubi-66789000036412626",
             "zoho-go-yubi-66789000016213700"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product owner": {
           "ids": [
             "zoho-go-yubi-66789000016378881"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager": {
           "ids": [
             "zoho-go-yubi-66789000036436848"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager ii": {
           "ids": [
             "zoho-go-yubi-66789000021551404"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -2860,6 +2978,10 @@
           "eng": 0
         },
         "2026-10-13": {
+          "total": 4,
+          "eng": 0
+        },
+        "2026-10-14": {
           "total": 4,
           "eng": 0
         }
@@ -2935,6 +3057,10 @@
         "2026-10-13": {
           "total": 12,
           "eng": 7
+        },
+        "2026-10-14": {
+          "total": 12,
+          "eng": 7
         }
       },
       "pm": {
@@ -2942,13 +3068,13 @@
           "ids": [
             "keka-zluri-89845"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "technical product manager data engineering": {
           "ids": [
             "keka-zluri-92144"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -3021,6 +3147,10 @@
         "2026-10-13": {
           "total": 11,
           "eng": 3
+        },
+        "2026-10-14": {
+          "total": 11,
+          "eng": 3
         }
       },
       "pm": {
@@ -3028,7 +3158,7 @@
           "ids": [
             "keka-gocomet-122455"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -3101,6 +3231,10 @@
         "2026-10-13": {
           "total": 26,
           "eng": 2
+        },
+        "2026-10-14": {
+          "total": 26,
+          "eng": 2
         }
       },
       "pm": {
@@ -3108,7 +3242,7 @@
           "ids": [
             "keka-gokwik-150448"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager": {
           "ids": [
@@ -3188,6 +3322,10 @@
         "2026-10-13": {
           "total": 83,
           "eng": 34
+        },
+        "2026-10-14": {
+          "total": 84,
+          "eng": 34
         }
       },
       "pm": {
@@ -3195,25 +3333,25 @@
           "ids": [
             "lever-spotify-e2c7bbb8-f873-42c7-811f-0bd45bf452ae"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager audio and media playback": {
           "ids": [
             "lever-spotify-080868dd-fc8c-4648-b6ab-6780d8ca3d63"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager personalization": {
           "ids": [
             "lever-spotify-e74bfb24-55de-4d93-b228-ae38b8fdfbea"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager customer service platform": {
           "ids": [
             "lever-spotify-7f0a8faa-f4f5-4db9-9f51-4101d6a29b34"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager data platform": {
           "ids": [
@@ -3226,13 +3364,13 @@
           "ids": [
             "lever-spotify-e7b01c1e-4246-4f31-83ea-9219c8b22c83"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager subscriptions": {
           "ids": [
             "lever-spotify-a57db22d-dc0d-4f36-9a2e-34acdf1ec046"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager user platform": {
           "ids": [
@@ -3245,14 +3383,14 @@
           "ids": [
             "lever-spotify-ef3985d1-522e-4950-ba6e-af57dd93c788"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager consumer audiobooks": {
           "ids": [
             "lever-spotify-ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd",
             "lever-spotify-c5c82f59-504f-47f4-961e-a2d50a248357"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -3311,6 +3449,10 @@
           "eng": 1
         },
         "2026-10-13": {
+          "total": 1,
+          "eng": 1
+        },
+        "2026-10-14": {
           "total": 1,
           "eng": 1
         }
@@ -3374,6 +3516,10 @@
         "2026-10-13": {
           "total": 144,
           "eng": 6
+        },
+        "2026-10-14": {
+          "total": 144,
+          "eng": 6
         }
       },
       "pm": {
@@ -3381,7 +3527,7 @@
           "ids": [
             "workable-apna-75D192CDBD"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -3442,6 +3588,10 @@
         "2026-10-13": {
           "total": 34,
           "eng": 13
+        },
+        "2026-10-14": {
+          "total": 34,
+          "eng": 13
         }
       },
       "pm": {
@@ -3449,13 +3599,13 @@
           "ids": [
             "greenhouse-druva-8459688002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager": {
           "ids": [
             "greenhouse-druva-8697486002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -3514,6 +3664,10 @@
           "eng": 5
         },
         "2026-10-13": {
+          "total": 10,
+          "eng": 5
+        },
+        "2026-10-14": {
           "total": 10,
           "eng": 5
         }
@@ -3577,6 +3731,10 @@
         "2026-10-13": {
           "total": 87,
           "eng": 5
+        },
+        "2026-10-14": {
+          "total": 88,
+          "eng": 5
         }
       },
       "pm": {
@@ -3605,25 +3763,25 @@
           "ids": [
             "amazon-10561409"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager amazon business india": {
           "ids": [
             "amazon-10533854"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager amazon payment services": {
           "ids": [
             "amazon-10456178"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager amazon now": {
           "ids": [
             "amazon-10431401"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager in payments": {
           "ids": [
@@ -3636,55 +3794,55 @@
           "ids": [
             "amazon-10453422"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager amazon fashion": {
           "ids": [
             "amazon-10554308"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager progression intelligence": {
           "ids": [
             "amazon-3193772"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager abuse prevention": {
           "ids": [
             "amazon-10531031"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager amazon shipping": {
           "ids": [
             "amazon-10498328"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager rbs growth": {
           "ids": [
             "amazon-10502013"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager tech ahs": {
           "ids": [
             "amazon-10560449"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager amazon wholesale": {
           "ids": [
             "amazon-10459568"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager tech india ads": {
           "ids": [
             "amazon-10531006"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager amazon pay rewards": {
           "ids": [
@@ -3697,25 +3855,25 @@
           "ids": [
             "amazon-10435313"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager orchestration shipment technologies": {
           "ids": [
             "amazon-10534230"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager cost of returns": {
           "ids": [
             "amazon-10530922"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager india global trade": {
           "ids": [
             "amazon-10490166"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager tech profit intelligence": {
           "ids": [
@@ -3736,13 +3894,13 @@
             "amazon-10541182",
             "amazon-10497676"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager amazon now amazon now": {
           "ids": [
             "amazon-10558784"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager technical associate experience": {
           "ids": [
@@ -3762,26 +3920,26 @@
           "ids": [
             "amazon-10521837"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager ies emerging stores": {
           "ids": [
             "amazon-10523475"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager tech alexa ads": {
           "ids": [
             "amazon-10510887"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager amazon sub same day": {
           "ids": [
             "amazon-10551513",
             "amazon-10551512"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager tech featured merchant algorithm": {
           "ids": [
@@ -3794,44 +3952,44 @@
           "ids": [
             "amazon-10553130"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager service delivery standard work": {
           "ids": [
             "amazon-10556408"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager high confidence supply chain": {
           "ids": [
             "amazon-10561080"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager tech prime video advertising": {
           "ids": [
             "amazon-10495555"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager tech alexa smart properties": {
           "ids": [
             "amazon-10500266"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager tech amazon finance technology": {
           "ids": [
             "amazon-10483122",
             "amazon-10569078"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager returns worldwide returns and recommerce": {
           "ids": [
             "amazon-10458117"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager iii technical amazon fulfillment technologies": {
           "ids": [
@@ -3844,19 +4002,19 @@
           "ids": [
             "amazon-10423878"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager tech global transportation technology services": {
           "ids": [
             "amazon-10504416"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager tech just walk out technology": {
           "ids": [
             "amazon-10531853"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager fba inventory management ww fba": {
           "ids": [
@@ -3869,25 +4027,25 @@
           "ids": [
             "amazon-10476718"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager technical ww prime benefits pricing constructs": {
           "ids": [
             "amazon-10426228"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager tech prime video commerce international product": {
           "ids": [
             "amazon-10459442"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager retail business services rbs cost to serve": {
           "ids": [
             "amazon-10563526"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager credit and lending amazon credit and lending": {
           "ids": [
@@ -3900,25 +4058,25 @@
           "ids": [
             "amazon-10469361"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager tech ai multi channel commerce amazon smart commerce": {
           "ids": [
             "amazon-10504461"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager tech just walk out technology physical store 3p": {
           "ids": [
             "amazon-10559319"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr manager product management tech india advertising": {
           "ids": [
             "amazon-10378944"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager tech selection monitoring": {
           "ids": [
@@ -3931,49 +4089,55 @@
           "ids": [
             "amazon-10566206"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager tech purchase experience amazon books": {
           "ids": [
             "amazon-10568582"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager in p3p": {
           "ids": [
             "amazon-10572974"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager rewards amazon pay rewards": {
           "ids": [
             "amazon-10572930"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager technical ww prime benefits pricing constructs ww prime benefits pricing constructs": {
           "ids": [
             "amazon-10573263"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager inventory health product amazon now": {
           "ids": [
             "amazon-10441689"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager anow": {
           "ids": [
             "amazon-10576704"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager tech": {
           "ids": [
             "amazon-10577088"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
+        },
+        "sr product manager mfn rcx": {
+          "ids": [
+            "amazon-10449781"
+          ],
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -4034,6 +4198,10 @@
         "2026-10-13": {
           "total": 36,
           "eng": 5
+        },
+        "2026-10-14": {
+          "total": 36,
+          "eng": 5
         }
       },
       "pm": {
@@ -4048,7 +4216,7 @@
           "ids": [
             "greenhouse-glance-8020136"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -4109,6 +4277,10 @@
         "2026-10-13": {
           "total": 100,
           "eng": 34
+        },
+        "2026-10-14": {
+          "total": 100,
+          "eng": 34
         }
       },
       "pm": {
@@ -4116,13 +4288,13 @@
           "ids": [
             "smartrecruiters-freshworks-744000150936730"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior director product design": {
           "ids": [
             "smartrecruiters-freshworks-744000140661230"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -4183,6 +4355,10 @@
         "2026-10-13": {
           "total": 76,
           "eng": 24
+        },
+        "2026-10-14": {
+          "total": 76,
+          "eng": 24
         }
       },
       "pm": {
@@ -4190,19 +4366,19 @@
           "ids": [
             "greenhouse-highradius-7611197003"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager payments": {
           "ids": [
             "greenhouse-highradius-7806734003"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager": {
           "ids": [
             "greenhouse-highradius-7707536003"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -4261,6 +4437,10 @@
           "eng": 5
         },
         "2026-10-13": {
+          "total": 32,
+          "eng": 5
+        },
+        "2026-10-14": {
           "total": 32,
           "eng": 5
         }
@@ -4324,6 +4504,10 @@
         "2026-10-13": {
           "total": 77,
           "eng": 8
+        },
+        "2026-10-14": {
+          "total": 77,
+          "eng": 8
         }
       },
       "pm": {
@@ -4345,19 +4529,19 @@
           "ids": [
             "greenhouse-inmobi-7582059"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director product marketing dsp": {
           "ids": [
             "greenhouse-inmobi-7747712"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager programmatic monetization": {
           "ids": [
             "greenhouse-inmobi-8232722"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -4418,6 +4602,10 @@
         "2026-10-13": {
           "total": 82,
           "eng": 28
+        },
+        "2026-10-14": {
+          "total": 82,
+          "eng": 28
         }
       },
       "pm": {
@@ -4439,19 +4627,19 @@
           "ids": [
             "workable-innovaccer-analytics-67F6B16D16"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "4412 senior product manager medicaid": {
           "ids": [
             "workable-innovaccer-analytics-3EB66331B2"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "4483 senior product manager ai": {
           "ids": [
             "workable-innovaccer-analytics-A9A35765A4"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "4521 product manager risk quality": {
           "ids": [
@@ -4464,13 +4652,13 @@
           "ids": [
             "workable-innovaccer-analytics-628BD2FEFE"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "4626 senior product manager prior authorization oncology": {
           "ids": [
             "workable-innovaccer-analytics-26430903A6"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "4665 head of product contact center": {
           "ids": [
@@ -4483,31 +4671,31 @@
           "ids": [
             "workable-innovaccer-analytics-81AC1BF4F6"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager population health": {
           "ids": [
             "workable-innovaccer-analytics-B83AB55094"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior director of product management risk quality": {
           "ids": [
             "workable-innovaccer-analytics-1F3764CC6F"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager population health": {
           "ids": [
             "workable-innovaccer-analytics-461A138133"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "4521 senior product manager risk quality": {
           "ids": [
             "workable-innovaccer-analytics-51FF43461F"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -4566,6 +4754,10 @@
           "eng": 14
         },
         "2026-10-13": {
+          "total": 46,
+          "eng": 14
+        },
+        "2026-10-14": {
           "total": 46,
           "eng": 14
         }
@@ -4629,6 +4821,10 @@
         "2026-10-13": {
           "total": 24,
           "eng": 1
+        },
+        "2026-10-14": {
+          "total": 24,
+          "eng": 1
         }
       },
       "pm": {}
@@ -4688,6 +4884,10 @@
           "eng": 4
         },
         "2026-10-13": {
+          "total": 12,
+          "eng": 4
+        },
+        "2026-10-14": {
           "total": 12,
           "eng": 4
         }
@@ -4751,6 +4951,10 @@
         "2026-10-13": {
           "total": 46,
           "eng": 30
+        },
+        "2026-10-14": {
+          "total": 46,
+          "eng": 30
         }
       },
       "pm": {
@@ -4758,7 +4962,7 @@
           "ids": [
             "workday-fractal-/job/Gurgaon/Senior-Product-Owner_SR-41535-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -4819,6 +5023,10 @@
         "2026-10-13": {
           "total": 68,
           "eng": 21
+        },
+        "2026-10-14": {
+          "total": 67,
+          "eng": 21
         }
       },
       "pm": {
@@ -4833,7 +5041,7 @@
           "ids": [
             "workday-adobe-/job/Noida/Senior-Product-Manager_R167941"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "internal product manager 3 sales performance management": {
           "ids": [
@@ -4908,6 +5116,10 @@
         "2026-10-13": {
           "total": 60,
           "eng": 0
+        },
+        "2026-10-14": {
+          "total": 60,
+          "eng": 0
         }
       },
       "pm": {
@@ -4915,19 +5127,19 @@
           "ids": [
             "sf-careers.hcltech.com-172343"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "data product manager": {
           "ids": [
             "sf-careers.hcltech.com-168347"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "ai product manager i": {
           "ids": [
             "sf-careers.hcltech.com-150376"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -4986,6 +5198,10 @@
           "eng": 9
         },
         "2026-10-13": {
+          "total": 43,
+          "eng": 9
+        },
+        "2026-10-14": {
           "total": 43,
           "eng": 9
         }
@@ -5049,6 +5265,10 @@
         "2026-10-13": {
           "total": 48,
           "eng": 3
+        },
+        "2026-10-14": {
+          "total": 48,
+          "eng": 3
         }
       },
       "pm": {}
@@ -5110,6 +5330,10 @@
         "2026-10-13": {
           "total": 29,
           "eng": 13
+        },
+        "2026-10-14": {
+          "total": 29,
+          "eng": 13
         }
       },
       "pm": {
@@ -5117,19 +5341,19 @@
           "ids": [
             "greenhouse-netradyne-4735299005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "technical product manager integrations": {
           "ids": [
             "greenhouse-netradyne-4722020005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager devices": {
           "ids": [
             "greenhouse-netradyne-4707506005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -5190,6 +5414,10 @@
         "2026-10-13": {
           "total": 100,
           "eng": 32
+        },
+        "2026-10-14": {
+          "total": 100,
+          "eng": 30
         }
       },
       "pm": {
@@ -5197,13 +5425,13 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210790718"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "credit monitoring product owner vice president": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210783992"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "account ssi platform product owner vice president": {
           "ids": [
@@ -5223,7 +5451,7 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210784785"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager business banking smb client frontline experiences": {
           "ids": [
@@ -5250,7 +5478,7 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210794392"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product director metrics": {
           "ids": [
@@ -5264,7 +5492,7 @@
             "oracle-jpmc.fa.oraclecloud.com-210793227",
             "oracle-jpmc.fa.oraclecloud.com-210783031"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "technical product manager etl data reporting sql": {
           "ids": [
@@ -5277,25 +5505,25 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210792979"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager infrastructure platforms": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210798770"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "ai data solutions product owner vice president": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210797402"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product owner product delivery senior associate": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210796769"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -5356,6 +5584,10 @@
         "2026-10-13": {
           "total": 21,
           "eng": 7
+        },
+        "2026-10-14": {
+          "total": 21,
+          "eng": 7
         }
       },
       "pm": {
@@ -5363,7 +5595,7 @@
           "ids": [
             "lever-mindtickle-4365dc2a-87b1-4751-bd30-c90c70dea92c"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -5422,6 +5654,10 @@
           "eng": 11
         },
         "2026-10-13": {
+          "total": 100,
+          "eng": 5
+        },
+        "2026-10-14": {
           "total": 100,
           "eng": 5
         }
@@ -5485,6 +5721,10 @@
         "2026-10-13": {
           "total": 1,
           "eng": 0
+        },
+        "2026-10-14": {
+          "total": 1,
+          "eng": 0
         }
       },
       "pm": {}
@@ -5546,6 +5786,10 @@
         "2026-10-13": {
           "total": 8,
           "eng": 2
+        },
+        "2026-10-14": {
+          "total": 8,
+          "eng": 2
         }
       },
       "pm": {
@@ -5554,13 +5798,13 @@
             "eightfold-paypal.com-274922819195",
             "eightfold-paypal.com-274922819192"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "lead product manager": {
           "ids": [
             "eightfold-paypal.com-274922819061"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -5621,6 +5865,11 @@
         "2026-10-13": {
           "total": 9,
           "eng": 3
+        },
+        "2026-10-14": {
+          "total": 11,
+          "eng": 8,
+          "spike": true
         }
       },
       "pm": {}
@@ -5682,6 +5931,10 @@
         "2026-10-13": {
           "total": 3,
           "eng": 0
+        },
+        "2026-10-14": {
+          "total": 3,
+          "eng": 0
         }
       },
       "pm": {
@@ -5689,7 +5942,7 @@
           "ids": [
             "ashby-polygon-labs-660f2496-a0de-4600-be88-4fcd130dd958"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -5750,6 +6003,10 @@
         "2026-10-13": {
           "total": 179,
           "eng": 9
+        },
+        "2026-10-14": {
+          "total": 179,
+          "eng": 9
         }
       },
       "pm": {
@@ -5757,79 +6014,79 @@
           "ids": [
             "lever-paytm-6cee2f1c-6cae-4e46-9533-d62283f56734"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management data product experience 5 8 yrs": {
           "ids": [
             "lever-paytm-26a6a342-55db-4262-8e75-648bd8338fd0"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management lending product experience 4 8 yrs": {
           "ids": [
             "lever-paytm-75992181-c0d0-44e7-805a-6dddfd0fe23b"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management payment product experience 5 8 yrs": {
           "ids": [
             "lever-paytm-dcc0e5d5-79c9-4021-84be-a435f54c71d3"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management paytm insurance i exp 3 to 6 years": {
           "ids": [
             "lever-paytm-afab6a29-2a98-4f63-8b45-f4b0aaefc1b4"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management paytm insurance i exp 6 to 8 years": {
           "ids": [
             "lever-paytm-5e3ae6dd-e4a3-4cfc-acb7-ae8b9d030cc1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management paytm money": {
           "ids": [
             "lever-paytm-d73b511b-ae92-46f0-9aa1-ac10f2fbb84a"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management pi agents smb": {
           "ids": [
             "lever-paytm-9c74fdd9-36e1-4e42-839a-d52577bb3d70"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management risk product experience 5 8 yrs": {
           "ids": [
             "lever-paytm-5dbd7403-b047-48e1-b433-574933914ff3"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management upi product experience 3 5 yrs": {
           "ids": [
             "lever-paytm-4ee74e43-4001-457f-9ad8-f574689991d5"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management upi product experience 6 9 yrs": {
           "ids": [
             "lever-paytm-fec8e98b-d09b-4edb-b5a9-fe04aa079a3c"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management associate product manager travel": {
           "ids": [
             "lever-paytm-cf1076c8-e8be-4fc4-8112-aa55051de742"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management product analyst telco": {
           "ids": [
             "lever-paytm-2294c39e-0394-472b-8ba0-736857fa24a8"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -5890,6 +6147,10 @@
         "2026-10-13": {
           "total": 100,
           "eng": 25
+        },
+        "2026-10-14": {
+          "total": 100,
+          "eng": 25
         }
       },
       "pm": {
@@ -5897,37 +6158,37 @@
           "ids": [
             "smartrecruiters-PHONEPELIMITED-1000000000003325"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager insurance": {
           "ids": [
             "smartrecruiters-PHONEPELIMITED-1000000000003026"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "head of product international": {
           "ids": [
             "smartrecruiters-PHONEPELIMITED-1000000000002471"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead": {
           "ids": [
             "smartrecruiters-PHONEPELIMITED-1000000000002128"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager": {
           "ids": [
             "smartrecruiters-PHONEPELIMITED-1000000000001869"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "head of product phonepe wealth": {
           "ids": [
             "smartrecruiters-PHONEPELIMITED-1000000000004050"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -5987,6 +6248,10 @@
         },
         "2026-10-13": {
           "total": 28,
+          "eng": 3
+        },
+        "2026-10-14": {
+          "total": 29,
           "eng": 3
         }
       },
@@ -6080,6 +6345,10 @@
         "2026-10-13": {
           "total": 16,
           "eng": 0
+        },
+        "2026-10-14": {
+          "total": 16,
+          "eng": 0
         }
       },
       "pm": {}
@@ -6141,6 +6410,10 @@
         "2026-10-13": {
           "total": 19,
           "eng": 10
+        },
+        "2026-10-14": {
+          "total": 19,
+          "eng": 10
         }
       },
       "pm": {
@@ -6148,7 +6421,7 @@
           "ids": [
             "workday-sec-/job/One-Pennsylvania-Plaza-26th-Floor-New-York-NY-USA/Senior-Product-Manager-for-Mobile-Payment_R118165"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -6209,6 +6482,10 @@
         "2026-10-13": {
           "total": 42,
           "eng": 19
+        },
+        "2026-10-14": {
+          "total": 42,
+          "eng": 19
         }
       },
       "pm": {
@@ -6216,13 +6493,13 @@
           "ids": [
             "ashby-sarvam-9e197c29-5164-42eb-8e74-4f691a794517"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager on device edge ai": {
           "ids": [
             "ashby-sarvam-f462051e-ec76-45cf-96c5-e0192dd4dcc6"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager growth": {
           "ids": [
@@ -6235,25 +6512,25 @@
           "ids": [
             "ashby-sarvam-6390e602-7b98-4700-baa9-ced5be8b1651"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager media entertainment sarvam studio": {
           "ids": [
             "ashby-sarvam-adbc090f-3aad-4b12-af36-a2f4b55c017e"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager chanakya": {
           "ids": [
             "ashby-sarvam-c4099026-b194-4b16-8a12-c7ae1a9b51a0"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager model apis": {
           "ids": [
             "ashby-sarvam-45986600-4da3-4e46-a204-2865392df169"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -6314,6 +6591,10 @@
         "2026-10-13": {
           "total": 100,
           "eng": 45
+        },
+        "2026-10-14": {
+          "total": 100,
+          "eng": 43
         }
       },
       "pm": {
@@ -6402,7 +6683,7 @@
             "smartrecruiters-ServiceNow-744000153663349",
             "smartrecruiters-ServiceNow-744000154774511"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr staff product manager network security": {
           "ids": [
@@ -6437,25 +6718,25 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000154532199"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior staff inbound product manager agentic ai platform moveworks": {
           "ids": [
             "smartrecruiters-ServiceNow-744000154473649"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff outbound product manager ai agentic platform moveworks": {
           "ids": [
             "smartrecruiters-ServiceNow-744000154471344"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director product management": {
           "ids": [
             "smartrecruiters-ServiceNow-744000154541440"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager servicenow cloud platform": {
           "ids": [
@@ -6475,19 +6756,19 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000154891980"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "data product manager marketing technology": {
           "ids": [
             "smartrecruiters-ServiceNow-744000155319537"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior staff technical product manager conversational ai": {
           "ids": [
             "smartrecruiters-ServiceNow-744000155296769"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -6548,6 +6829,10 @@
         "2026-10-13": {
           "total": 143,
           "eng": 74
+        },
+        "2026-10-14": {
+          "total": 143,
+          "eng": 74
         }
       },
       "pm": {
@@ -6569,14 +6854,14 @@
           "ids": [
             "workday-mastercard-/job/Vancouver-Canada/Principal-Product-Manager--Technical_R-278438"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager technical": {
           "ids": [
             "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
             "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director product manager disputes": {
           "ids": [
@@ -6592,19 +6877,19 @@
             "workday-mastercard-/job/Gurgaon-India/Manager--Product-Management_R-291979",
             "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293101"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director product management customer acquisition and engagement": {
           "ids": [
             "workday-mastercard-/job/Shanghai-China/Director--Product-Management_R-291279"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "specialist product manager": {
           "ids": [
             "workday-mastercard-/job/Pune-India/Specialist-Product-Manager_R-290356"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director product management technical ai transformation": {
           "ids": [
@@ -6619,19 +6904,19 @@
             "workday-mastercard-/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2",
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical_R-291940-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "manager product management product resilience": {
           "ids": [
             "workday-mastercard-/job/Pune-India/Manager--Product-Management--Product-Resilience_R-287961"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "specialist product management": {
           "ids": [
             "workday-mastercard-/job/Gurgaon-India/Specialist--Product-Management_R-289494"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "manager product management scheme and regulatory compliance": {
           "ids": [
@@ -6644,43 +6929,43 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "cyber risk quantification product manager": {
           "ids": [
             "workday-mastercard-/job/Besiktas-Istanbul-Turkey/Cyber-Risk-Quantification-Product-Manager_R-287126"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "lead product manager": {
           "ids": [
             "workday-mastercard-/job/Gurgaon-India/Lead-Product-Manager_R-292425-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "consumer credit analytics global product manager specialist": {
           "ids": [
             "workday-mastercard-/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior specialist product management custom analytics": {
           "ids": [
             "workday-mastercard-/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior specialist product manager": {
           "ids": [
             "workday-mastercard-/job/Pune-India/Senior-Specialist-Product-Manager_R-290092"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "lead product manager 2": {
           "ids": [
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "lead product manager tech": {
           "ids": [
@@ -6693,7 +6978,7 @@
           "ids": [
             "workday-mastercard-/job/Dublin-Ireland/Manager--Product-Management---Client-Data-Onboarding--BE-O_R-293039"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -6753,6 +7038,10 @@
         },
         "2026-10-13": {
           "total": 27,
+          "eng": 7
+        },
+        "2026-10-14": {
+          "total": 26,
           "eng": 7
         }
       },
@@ -6815,6 +7104,10 @@
         "2026-10-13": {
           "total": 100,
           "eng": 86
+        },
+        "2026-10-14": {
+          "total": 99,
+          "eng": 85
         }
       },
       "pm": {}
@@ -6876,6 +7169,10 @@
         "2026-10-13": {
           "total": 6,
           "eng": 5
+        },
+        "2026-10-14": {
+          "total": 6,
+          "eng": 5
         }
       },
       "pm": {}
@@ -6935,6 +7232,10 @@
           "eng": 2
         },
         "2026-10-13": {
+          "total": 100,
+          "eng": 2
+        },
+        "2026-10-14": {
           "total": 100,
           "eng": 2
         }
@@ -7006,6 +7307,10 @@
         "2026-10-13": {
           "total": 6,
           "eng": 4
+        },
+        "2026-10-14": {
+          "total": 6,
+          "eng": 4
         }
       },
       "pm": {
@@ -7013,7 +7318,7 @@
           "ids": [
             "greenhouse-verse-5448559008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -7072,6 +7377,10 @@
           "eng": 1
         },
         "2026-10-13": {
+          "total": 1,
+          "eng": 1
+        },
+        "2026-10-14": {
           "total": 1,
           "eng": 1
         }
@@ -7135,6 +7444,10 @@
         "2026-10-13": {
           "total": 2,
           "eng": 1
+        },
+        "2026-10-14": {
+          "total": 2,
+          "eng": 1
         }
       },
       "pm": {}
@@ -7196,6 +7509,10 @@
         "2026-10-13": {
           "total": 99,
           "eng": 34
+        },
+        "2026-10-14": {
+          "total": 99,
+          "eng": 34
         }
       },
       "pm": {
@@ -7210,13 +7527,13 @@
           "ids": [
             "workday-salesforce-/job/New-York---New-York/Senior-Product-Manager--Emerging-Technology_JR355248"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager finance systems workday": {
           "ids": [
             "workday-salesforce-/job/Virginia---Remote/Senior-Product-Manager--Finance-Systems---Workday_JR355801"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager customer success": {
           "ids": [
@@ -7236,7 +7553,7 @@
           "ids": [
             "workday-salesforce-/job/California---San-Francisco/Sr-Manager-Director-Sr-Director-of-Product-Management--Life-Sciences-Cloud--Evergreen-_JR363047"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -7297,6 +7614,10 @@
         "2026-10-13": {
           "total": 19,
           "eng": 2
+        },
+        "2026-10-14": {
+          "total": 19,
+          "eng": 2
         }
       },
       "pm": {
@@ -7325,25 +7646,25 @@
           "ids": [
             "eightfold-morganstanley.com-549783041795"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "investment management finance director product controllers": {
           "ids": [
             "eightfold-morganstanley.com-549799809963"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "equity investment team support director product support services": {
           "ids": [
             "eightfold-morganstanley.com-549799720630"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "wealth management executive director head product owner digital client experience platforms": {
           "ids": [
             "eightfold-morganstanley.com-549796735797"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -7404,6 +7725,10 @@
         "2026-10-13": {
           "total": 54,
           "eng": 7
+        },
+        "2026-10-14": {
+          "total": 54,
+          "eng": 7
         }
       },
       "pm": {
@@ -7411,19 +7736,19 @@
           "ids": [
             "greenhouse-zenoti-7513859003"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior manager product management": {
           "ids": [
             "greenhouse-zenoti-7729933003"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "lead product manager": {
           "ids": [
             "greenhouse-zenoti-7806709003"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -7484,6 +7809,10 @@
         "2026-10-13": {
           "total": 27,
           "eng": 8
+        },
+        "2026-10-14": {
+          "total": 27,
+          "eng": 8
         }
       },
       "pm": {
@@ -7512,13 +7841,13 @@
           "ids": [
             "workday-target-/job/BangaloreIndia/Sr-Product-Manager_R0000442398-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager": {
           "ids": [
             "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -7579,6 +7908,10 @@
         "2026-10-13": {
           "total": 26,
           "eng": 8
+        },
+        "2026-10-14": {
+          "total": 26,
+          "eng": 8
         }
       },
       "pm": {
@@ -7586,14 +7919,14 @@
           "ids": [
             "lever-zeta-8623c195-f912-4d87-952f-7114cd258413"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager ii": {
           "ids": [
             "lever-zeta-dbefd5b1-cc6a-4fe6-86d8-89800acee903",
             "lever-zeta-632d6320-6db1-4504-8640-a89aed0bbd2b"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -7654,6 +7987,10 @@
         "2026-10-13": {
           "total": 76,
           "eng": 46
+        },
+        "2026-10-14": {
+          "total": 76,
+          "eng": 46
         }
       },
       "pm": {
@@ -7663,19 +8000,19 @@
             "workday-visa-/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
             "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF089128W-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager platform and gateway": {
           "ids": [
             "workday-visa-/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager": {
           "ids": [
             "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -7736,6 +8073,10 @@
         "2026-10-13": {
           "total": 5,
           "eng": 1
+        },
+        "2026-10-14": {
+          "total": 5,
+          "eng": 1
         }
       },
       "pm": {
@@ -7743,7 +8084,7 @@
           "ids": [
             "freshteam-zetwerk-2000008857"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -7804,6 +8145,10 @@
         "2026-10-13": {
           "total": 60,
           "eng": 12
+        },
+        "2026-10-14": {
+          "total": 60,
+          "eng": 12
         }
       },
       "pm": {
@@ -7819,14 +8164,14 @@
             "sf-careers.wipro.com-201119",
             "sf-careers.wipro.com-203307"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management consulting": {
           "ids": [
             "sf-careers.wipro.com-198709",
             "sf-careers.wipro.com-198887"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "cto product lead": {
           "ids": [
@@ -7894,6 +8239,10 @@
         "2026-10-13": {
           "total": 67,
           "eng": 24
+        },
+        "2026-10-14": {
+          "total": 67,
+          "eng": 24
         }
       },
       "pm": {
@@ -7959,7 +8308,7 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Data-Product-Management-Consultant_R-579868"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -8020,6 +8369,10 @@
         "2026-10-13": {
           "total": 79,
           "eng": 43
+        },
+        "2026-10-14": {
+          "total": 79,
+          "eng": 42
         }
       },
       "pm": {}
@@ -8088,6 +8441,10 @@
           "total": 173,
           "eng": 39,
           "spike": true
+        },
+        "2026-10-14": {
+          "total": 200,
+          "eng": 44
         }
       },
       "pm": {
@@ -8096,7 +8453,7 @@
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management analyst": {
           "ids": [
@@ -8109,7 +8466,7 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "ai product management practitioner": {
           "ids": [
@@ -8117,13 +8474,13 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management specialist aftermarket service supply chain": {
           "ids": [
@@ -8191,6 +8548,10 @@
         "2026-10-13": {
           "total": 73,
           "eng": 45
+        },
+        "2026-10-14": {
+          "total": 73,
+          "eng": 45
         }
       },
       "pm": {
@@ -8198,13 +8559,13 @@
           "ids": [
             "eightfold-qualcomm.com-446721309717"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff director ai hw product management": {
           "ids": [
             "eightfold-qualcomm.com-446717846060"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -8261,6 +8622,10 @@
         "2026-10-13": {
           "total": 72,
           "eng": 35
+        },
+        "2026-10-14": {
+          "total": 71,
+          "eng": 33
         }
       },
       "pm": {
@@ -8270,7 +8635,7 @@
             "eightfold-microsoft.com-1970393556971850",
             "eightfold-microsoft.com-1970393557016561"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager": {
           "ids": [
@@ -8280,7 +8645,7 @@
             "eightfold-microsoft.com-1970393556999250",
             "eightfold-microsoft.com-1970393556911401"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager ii": {
           "ids": [
@@ -8288,7 +8653,7 @@
             "eightfold-microsoft.com-1970393557016594",
             "eightfold-microsoft.com-1970393557038894"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product management": {
           "ids": [
@@ -8301,7 +8666,7 @@
           "ids": [
             "eightfold-microsoft.com-1970393556978896"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -8340,6 +8705,10 @@
           "eng": 3
         },
         "2026-10-13": {
+          "total": 6,
+          "eng": 2
+        },
+        "2026-10-14": {
           "total": 6,
           "eng": 2
         }
@@ -8383,6 +8752,10 @@
         "2026-10-13": {
           "total": 30,
           "eng": 15
+        },
+        "2026-10-14": {
+          "total": 30,
+          "eng": 15
         }
       },
       "pm": {}
@@ -8422,6 +8795,10 @@
           "eng": 11
         },
         "2026-10-13": {
+          "total": 0,
+          "eng": 0
+        },
+        "2026-10-14": {
           "total": 0,
           "eng": 0
         }
@@ -8501,6 +8878,10 @@
         "2026-10-13": {
           "total": 13,
           "eng": 7
+        },
+        "2026-10-14": {
+          "total": 13,
+          "eng": 7
         }
       },
       "pm": {
@@ -8508,13 +8889,13 @@
           "ids": [
             "greenhouse-couchbaseinc-4712069006"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager": {
           "ids": [
             "greenhouse-couchbaseinc-4701380006"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -8555,6 +8936,10 @@
         "2026-10-13": {
           "total": 896,
           "eng": 576
+        },
+        "2026-10-14": {
+          "total": 895,
+          "eng": 576
         }
       },
       "pm": {
@@ -8562,13 +8947,13 @@
           "ids": [
             "greenhouse-databricks-7586263002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director product marketing ai": {
           "ids": [
             "greenhouse-databricks-8487145002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "lead learning product manager": {
           "ids": [
@@ -8581,96 +8966,96 @@
           "ids": [
             "greenhouse-databricks-8133715002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management intern belgrade": {
           "ids": [
             "greenhouse-databricks-8863328002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management intern berlin": {
           "ids": [
             "greenhouse-databricks-8145776002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management intern": {
           "ids": [
             "greenhouse-databricks-6883068002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager new grad amsterdam": {
           "ids": [
             "greenhouse-databricks-8133727002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager new grad belgrade": {
           "ids": [
             "greenhouse-databricks-8863326002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager new grad berlin": {
           "ids": [
             "greenhouse-databricks-8145800002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager compute platform": {
           "ids": [
             "greenhouse-databricks-8200284002",
             "greenhouse-databricks-8200462002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager databricks ai": {
           "ids": [
             "greenhouse-databricks-8136071002",
             "greenhouse-databricks-8136204002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager databricks free edition": {
           "ids": [
             "greenhouse-databricks-7680573002",
             "greenhouse-databricks-8235785002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager databricks repos": {
           "ids": [
             "greenhouse-databricks-8326570002",
             "greenhouse-databricks-8326513002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager data engineering": {
           "ids": [
             "greenhouse-databricks-6322654002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager data governance": {
           "ids": [
             "greenhouse-databricks-7863365002",
             "greenhouse-databricks-7863522002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager employee experience": {
           "ids": [
             "greenhouse-databricks-8203285002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager lakeflow": {
           "ids": [
             "greenhouse-databricks-8186386002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager technical": {
           "ids": [
@@ -8684,33 +9069,33 @@
             "greenhouse-databricks-7649411002",
             "greenhouse-databricks-7649409002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager agentic ai applications": {
           "ids": [
             "greenhouse-databricks-8560772002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager sap": {
           "ids": [
             "greenhouse-databricks-8679974002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager security": {
           "ids": [
             "greenhouse-databricks-7110509002",
             "greenhouse-databricks-7110499002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager serverless workspaces": {
           "ids": [
             "greenhouse-databricks-8427954002",
             "greenhouse-databricks-8420607002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager technical": {
           "ids": [
@@ -8723,7 +9108,7 @@
           "ids": [
             "greenhouse-databricks-8831555002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product manager lakebase": {
           "ids": [
@@ -8738,7 +9123,7 @@
             "greenhouse-databricks-8811265002",
             "greenhouse-databricks-8876675002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -8779,6 +9164,10 @@
         "2026-10-13": {
           "total": 37,
           "eng": 20
+        },
+        "2026-10-14": {
+          "total": 37,
+          "eng": 20
         }
       },
       "pm": {
@@ -8786,13 +9175,13 @@
           "ids": [
             "ashby-ema-74540ab2-9782-476f-ad0d-78cc2e7717ed"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager uk": {
           "ids": [
             "ashby-ema-089e8993-acf5-4d11-a7d3-f437f058d194"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -8833,6 +9222,10 @@
         "2026-10-13": {
           "total": 137,
           "eng": 41
+        },
+        "2026-10-14": {
+          "total": 136,
+          "eng": 41
         }
       },
       "pm": {
@@ -8840,73 +9233,73 @@
           "ids": [
             "greenhouse-gleanwork-4506459005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product management lead": {
           "ids": [
             "greenhouse-gleanwork-4559476005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager": {
           "ids": [
             "greenhouse-gleanwork-4726336005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager agent security governance": {
           "ids": [
             "greenhouse-gleanwork-4525297005",
             "greenhouse-gleanwork-4694761005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager ai quality": {
           "ids": [
             "greenhouse-gleanwork-4525518005",
             "greenhouse-gleanwork-4694764005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager api platform": {
           "ids": [
             "greenhouse-gleanwork-4731372005",
             "greenhouse-gleanwork-4731388005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager connectors": {
           "ids": [
             "greenhouse-gleanwork-4629292005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager core experience": {
           "ids": [
             "greenhouse-gleanwork-4702368005",
             "greenhouse-gleanwork-4702147005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager enterprise intelligence": {
           "ids": [
             "greenhouse-gleanwork-4701912005",
             "greenhouse-gleanwork-4702369005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager glean protect": {
           "ids": [
             "greenhouse-gleanwork-4641940005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager growth": {
           "ids": [
             "greenhouse-gleanwork-4702151005",
             "greenhouse-gleanwork-4702367005"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -8947,6 +9340,10 @@
         "2026-10-13": {
           "total": 1,
           "eng": 0
+        },
+        "2026-10-14": {
+          "total": 1,
+          "eng": 0
         }
       },
       "pm": {
@@ -8954,7 +9351,7 @@
           "ids": [
             "greenhouse-rhythmx-ai-5320938008"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -8995,6 +9392,10 @@
         "2026-10-13": {
           "total": 28,
           "eng": 10
+        },
+        "2026-10-14": {
+          "total": 27,
+          "eng": 10
         }
       },
       "pm": {
@@ -9009,7 +9410,8 @@
           "ids": [
             "workday-autodesk-/job/Bengaluru-IND/Sr-Product-Manager---Case-Management---Agent-Experience_26WD101159"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-13",
+          "closedOn": "2026-10-14"
         }
       }
     },
@@ -9050,6 +9452,10 @@
         "2026-10-13": {
           "total": 8,
           "eng": 2
+        },
+        "2026-10-14": {
+          "total": 8,
+          "eng": 2
         }
       },
       "pm": {
@@ -9057,7 +9463,7 @@
           "ids": [
             "ashby-HackerOne-c061590a-f169-4741-a0ae-a3f9b310cc09"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9098,6 +9504,10 @@
         "2026-10-13": {
           "total": 68,
           "eng": 32
+        },
+        "2026-10-14": {
+          "total": 68,
+          "eng": 32
         }
       },
       "pm": {
@@ -9105,20 +9515,20 @@
           "ids": [
             "greenhouse-harnessinc-5175674007"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior outbound product manager": {
           "ids": [
             "greenhouse-harnessinc-5249763007",
             "greenhouse-harnessinc-5249776007"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior staff product manager continuous delivery": {
           "ids": [
             "greenhouse-harnessinc-5233068007"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager continuous deployment": {
           "ids": [
@@ -9166,6 +9576,10 @@
         "2026-10-13": {
           "total": 12,
           "eng": 3
+        },
+        "2026-10-14": {
+          "total": 12,
+          "eng": 3
         }
       },
       "pm": {
@@ -9173,7 +9587,7 @@
           "ids": [
             "lever-gushwork-c03a9615-f124-424c-8bbd-90d209a68f3d"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9212,6 +9626,10 @@
           "eng": 5
         },
         "2026-10-13": {
+          "total": 16,
+          "eng": 5
+        },
+        "2026-10-14": {
           "total": 16,
           "eng": 5
         }
@@ -9255,6 +9673,10 @@
         "2026-10-13": {
           "total": 52,
           "eng": 19
+        },
+        "2026-10-14": {
+          "total": 52,
+          "eng": 19
         }
       },
       "pm": {
@@ -9262,13 +9684,13 @@
           "ids": [
             "lever-hevodata-c665b22f-6336-4ec2-88d8-4165f51d5396"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "vp product marketing": {
           "ids": [
             "lever-hevodata-ec8d8975-d200-4c20-a53c-e095c964230e"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9309,6 +9731,10 @@
         "2026-10-13": {
           "total": 15,
           "eng": 6
+        },
+        "2026-10-14": {
+          "total": 15,
+          "eng": 6
         }
       },
       "pm": {
@@ -9316,19 +9742,19 @@
           "ids": [
             "greenhouse-karat-8842979002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager interview innovation": {
           "ids": [
             "greenhouse-karat-8842934002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager recruiter experience": {
           "ids": [
             "greenhouse-karat-8843016002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9369,6 +9795,10 @@
         "2026-10-13": {
           "total": 16,
           "eng": 9
+        },
+        "2026-10-14": {
+          "total": 16,
+          "eng": 9
         }
       },
       "pm": {
@@ -9376,7 +9806,7 @@
           "ids": [
             "keka-lyzr-41788"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9417,6 +9847,10 @@
         "2026-10-13": {
           "total": 4,
           "eng": 0
+        },
+        "2026-10-14": {
+          "total": 4,
+          "eng": 0
         }
       },
       "pm": {
@@ -9424,7 +9858,7 @@
           "ids": [
             "keka-mihup-160594"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9465,6 +9899,10 @@
         "2026-10-13": {
           "total": 392,
           "eng": 156
+        },
+        "2026-10-14": {
+          "total": 392,
+          "eng": 156
         }
       },
       "pm": {
@@ -9472,19 +9910,19 @@
           "ids": [
             "greenhouse-mongodb-7908293"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior data product manager product telemetry": {
           "ids": [
             "greenhouse-mongodb-7428476"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior director product management growth": {
           "ids": [
             "greenhouse-mongodb-8157328"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager": {
           "ids": [
@@ -9492,31 +9930,31 @@
             "greenhouse-mongodb-7113803",
             "greenhouse-mongodb-8094528"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager client libraries": {
           "ids": [
             "greenhouse-mongodb-8143805"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager order to cash": {
           "ids": [
             "greenhouse-mongodb-8082623"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager post sales": {
           "ids": [
             "greenhouse-mongodb-7975695"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior staff product manager atlas clusters": {
           "ids": [
             "greenhouse-mongodb-8127995"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior staff product manager query": {
           "ids": [
@@ -9524,7 +9962,7 @@
             "greenhouse-mongodb-8028593",
             "greenhouse-mongodb-8028587"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr director it product management post sales and partner technology": {
           "ids": [
@@ -9538,26 +9976,26 @@
             "greenhouse-mongodb-8111736",
             "greenhouse-mongodb-8177034"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager ai builder experience": {
           "ids": [
             "greenhouse-mongodb-8129885",
             "greenhouse-mongodb-8129887"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager atlas clusters": {
           "ids": [
             "greenhouse-mongodb-8177496"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager internal ai": {
           "ids": [
             "greenhouse-mongodb-7781724"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager it go to market": {
           "ids": [
@@ -9570,7 +10008,7 @@
           "ids": [
             "greenhouse-mongodb-8094528"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9611,6 +10049,10 @@
         "2026-10-13": {
           "total": 65,
           "eng": 33
+        },
+        "2026-10-14": {
+          "total": 65,
+          "eng": 33
         }
       },
       "pm": {
@@ -9625,31 +10067,31 @@
           "ids": [
             "workday-motorolasolutions-/job/Illinois-Remote-Work/New-Product-Introduction--NPI--Product-Owner--US-Remote-_R66252"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior oracle cpq product owner": {
           "ids": [
             "workday-motorolasolutions-/job/Chicago-IL/Senior-Oracle-CPQ-Product-Owner_R66428"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "global services and systems integration product owner": {
           "ids": [
             "workday-motorolasolutions-/job/Illinois-Remote-Work/Global-Services-and-Systems-Integration-Product-Owner--US-Remote-_R66254"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "technical product manager": {
           "ids": [
             "workday-motorolasolutions-/job/Bangalore-India/Technical-Product-Manager_R68278"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "technical product manager sensing solutions": {
           "ids": [
             "workday-motorolasolutions-/job/Irvine-CA/Technical-Product-Manager----Electronic-Warfare--EW----Sensing-Solutions-_R69650"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9690,6 +10132,10 @@
         "2026-10-13": {
           "total": 19,
           "eng": 13
+        },
+        "2026-10-14": {
+          "total": 19,
+          "eng": 13
         }
       },
       "pm": {
@@ -9697,7 +10143,7 @@
           "ids": [
             "lever-neuron7-e9d47d0d-6f19-4a59-8bf9-561d721b9efe"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9738,6 +10184,10 @@
         "2026-10-13": {
           "total": 10,
           "eng": 4
+        },
+        "2026-10-14": {
+          "total": 10,
+          "eng": 4
         }
       },
       "pm": {
@@ -9745,7 +10195,7 @@
           "ids": [
             "keka-nurix-17249"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9784,6 +10234,10 @@
           "eng": 4
         },
         "2026-10-13": {
+          "total": 10,
+          "eng": 4
+        },
+        "2026-10-14": {
           "total": 10,
           "eng": 4
         }
@@ -9827,6 +10281,10 @@
         "2026-10-13": {
           "total": 91,
           "eng": 40
+        },
+        "2026-10-14": {
+          "total": 88,
+          "eng": 37
         }
       },
       "pm": {
@@ -9834,25 +10292,25 @@
           "ids": [
             "greenhouse-onetrust-8207523"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager ai detection discovery": {
           "ids": [
             "greenhouse-onetrust-8222894"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager ai build governance": {
           "ids": [
             "greenhouse-onetrust-8192394"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager ai runtime governance": {
           "ids": [
             "greenhouse-onetrust-8192392"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9893,6 +10351,10 @@
         "2026-10-13": {
           "total": 200,
           "eng": 115
+        },
+        "2026-10-14": {
+          "total": 200,
+          "eng": 115
         }
       },
       "pm": {
@@ -9900,43 +10362,43 @@
           "ids": [
             "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager--DCN_1197630-2"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager switching": {
           "ids": [
             "workday-hpe-/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager support insights": {
           "ids": [
             "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Support-Insights_1209606-2"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager cloud srx firewall": {
           "ids": [
             "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Cloud-SRX-Firewall_1209735-2"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr product owner": {
           "ids": [
             "workday-hpe-/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior technical product manager": {
           "ids": [
             "workday-hpe-/job/Bengaluru-Karntaka-India/Senior-Technical-Product-Manager_1215737"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "people care transformation improvement scalability product manager": {
           "ids": [
             "workday-hpe-/job/Tlaquepaque-Jalisco-Mexico/People-Care-Transformation-Improvement---Scalability-Product-Manager_1212456-1"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -9977,6 +10439,10 @@
         "2026-10-13": {
           "total": 138,
           "eng": 43
+        },
+        "2026-10-14": {
+          "total": 138,
+          "eng": 43
         }
       },
       "pm": {
@@ -9984,43 +10450,43 @@
           "ids": [
             "greenhouse-rubrik-7576642"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior director it product management gtm customer experience": {
           "ids": [
             "greenhouse-rubrik-8144296"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior it product manager cpq": {
           "ids": [
             "greenhouse-rubrik-8130460"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager control plane rsc g government": {
           "ids": [
             "greenhouse-rubrik-8225580"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager identity resilience": {
           "ids": [
             "greenhouse-rubrik-7976001"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff platform product manager platform cloud security": {
           "ids": [
             "greenhouse-rubrik-7423902"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager it gtm": {
           "ids": [
             "greenhouse-rubrik-7885055"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager virtual platforms": {
           "ids": [
@@ -10068,6 +10534,10 @@
         "2026-10-13": {
           "total": 614,
           "eng": 196
+        },
+        "2026-10-14": {
+          "total": 614,
+          "eng": 196
         }
       },
       "pm": {
@@ -10082,7 +10552,7 @@
           "ids": [
             "rippling-rippling-d8797dce-0abf-406a-bf5f-0f288b9800ad"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director of product it": {
           "ids": [
@@ -10095,91 +10565,91 @@
           "ids": [
             "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead accounting platform": {
           "ids": [
             "rippling-rippling-c91bdb38-16ba-48b3-9f58-fccc622c3154"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead ai experience": {
           "ids": [
             "rippling-rippling-6babbe32-f11a-4385-b97a-1ce1fab5a75d"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead benefits marketplace peo": {
           "ids": [
             "rippling-rippling-9276fd2e-0929-4843-9f5e-c7b7bb9119ab"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead employee data lifecycle": {
           "ids": [
             "rippling-rippling-25491329-5f96-4a11-81b6-99512adf8081"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead finance experience": {
           "ids": [
             "rippling-rippling-dc87eb0d-23ed-4539-9298-17f52f81ff7e"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead it": {
           "ids": [
             "rippling-rippling-7d6f9194-b55e-47a5-b1db-caeb396ba3ab"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead payments": {
           "ids": [
             "rippling-rippling-a5b9d8bf-f3e4-4f6d-812f-0b85af42e5b0"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead payroll": {
           "ids": [
             "rippling-rippling-ac5e20fe-de0e-422f-ac7c-0112c4769e26"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead scheduling": {
           "ids": [
             "rippling-rippling-dd676f12-3f1e-4658-8435-9cb22563f265"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead talent products": {
           "ids": [
             "rippling-rippling-0889e2ac-a30c-43b7-8c8c-5312264416db"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead workflow studio": {
           "ids": [
             "rippling-rippling-e3620017-195f-4ea7-934c-f14669bf1136"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager payroll integrations": {
           "ids": [
             "rippling-rippling-30ecc735-369a-429f-8df5-585b1516cef7"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product lead ui platform": {
           "ids": [
             "rippling-rippling-76af5c78-5db5-4104-8916-f3f216f1a607"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior director of product app platform": {
           "ids": [
             "rippling-rippling-ea9eda50-a3a8-40e9-b6d3-a525f420eece"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -10220,6 +10690,10 @@
         "2026-10-13": {
           "total": 70,
           "eng": 35
+        },
+        "2026-10-14": {
+          "total": 70,
+          "eng": 35
         }
       },
       "pm": {
@@ -10227,7 +10701,7 @@
           "ids": [
             "lever-saviynt-766418c4-bf0e-4455-8dce-5702562ea450"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager": {
           "ids": [
@@ -10275,6 +10749,10 @@
         "2026-10-13": {
           "total": 36,
           "eng": 8
+        },
+        "2026-10-14": {
+          "total": 36,
+          "eng": 8
         }
       },
       "pm": {
@@ -10282,7 +10760,7 @@
           "ids": [
             "greenhouse-sigmoid-8041196002"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -10323,6 +10801,10 @@
         "2026-10-13": {
           "total": 4,
           "eng": 1
+        },
+        "2026-10-14": {
+          "total": 4,
+          "eng": 1
         }
       },
       "pm": {
@@ -10337,7 +10819,7 @@
           "ids": [
             "greenhouse-simpplr-6220126004"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -10378,6 +10860,10 @@
         "2026-10-13": {
           "total": 356,
           "eng": 180
+        },
+        "2026-10-14": {
+          "total": 358,
+          "eng": 180
         }
       },
       "pm": {
@@ -10385,73 +10871,73 @@
           "ids": [
             "ashby-snowflake-775f7c0e-f4ca-4334-a3c5-100811daf192"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager data observability": {
           "ids": [
             "ashby-snowflake-157bd8e6-7201-4d37-96ca-0b76a2bc1446"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager streaming platform": {
           "ids": [
             "ashby-snowflake-e90e34f4-9746-483d-8d53-c3d297e06ff9"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager ai migrations": {
           "ids": [
             "ashby-snowflake-8e88251e-e77e-428e-bccf-dc1ccadc22ef"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager interactive analytics": {
           "ids": [
             "ashby-snowflake-e72df92e-951f-4c64-8016-1def8cf7e05d"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager enterprise ai": {
           "ids": [
             "ashby-snowflake-5ee9f5f0-2942-4c17-81bf-f2ffec3a64b9"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager openflow": {
           "ids": [
             "ashby-snowflake-61d48d79-aeb8-45fb-806a-5b6e9f625de7"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director product management snowflake transactions": {
           "ids": [
             "ashby-snowflake-82f841ea-c0f8-4f5a-b170-212cc9da8c72"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager identity access intelligence": {
           "ids": [
             "ashby-snowflake-4dccc2f2-48b2-4c2e-ae37-c7368e77a6d6"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "staff product manager": {
           "ids": [
             "ashby-snowflake-7576ec7f-01c9-41b9-b451-8cd43e62bf3b"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director product marketing platform": {
           "ids": [
             "ashby-snowflake-9a88d51a-09ef-4960-9c4d-be211affcc1b"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "senior product manager agent marketplace": {
           "ids": [
             "ashby-snowflake-3c565761-4ce8-40f4-a346-1997b117afbc"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -10492,6 +10978,10 @@
         "2026-10-13": {
           "total": 15,
           "eng": 1
+        },
+        "2026-10-14": {
+          "total": 15,
+          "eng": 1
         }
       },
       "pm": {
@@ -10499,19 +10989,19 @@
           "ids": [
             "ashby-spotdraft-4c635c45-27c4-4e53-892d-da09156ef0e6"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager ai": {
           "ids": [
             "ashby-spotdraft-88fc1f00-e546-463a-8ba0-78bc89a95cc6"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "associate product manager": {
           "ids": [
             "ashby-spotdraft-e9146208-bd24-443b-b1d8-96aabd292538"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -10552,6 +11042,10 @@
         "2026-10-13": {
           "total": 102,
           "eng": 36
+        },
+        "2026-10-14": {
+          "total": 101,
+          "eng": 35
         }
       },
       "pm": {
@@ -10559,7 +11053,7 @@
           "ids": [
             "ashby-uipath-bd2f849d-7704-4911-9b1c-81d826b5742b"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "principal product manager agentic business orchestration automation": {
           "ids": [
@@ -10572,13 +11066,13 @@
           "ids": [
             "ashby-uipath-e41372e5-177d-4ed4-9dbf-a434af42458f"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager agentic orchestration automation": {
           "ids": [
             "ashby-uipath-8a690471-c33d-4283-a839-dfe3c6dbd014"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -10617,6 +11111,10 @@
           "eng": 2
         },
         "2026-10-13": {
+          "total": 20,
+          "eng": 2
+        },
+        "2026-10-14": {
           "total": 20,
           "eng": 2
         }
@@ -10668,6 +11166,10 @@
         "2026-10-13": {
           "total": 27,
           "eng": 9
+        },
+        "2026-10-14": {
+          "total": 27,
+          "eng": 9
         }
       },
       "pm": {
@@ -10675,7 +11177,7 @@
           "ids": [
             "keka-spyneai-63606"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "director product": {
           "ids": [
@@ -10688,13 +11190,13 @@
           "ids": [
             "keka-spyneai-136045"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "associate director product": {
           "ids": [
             "keka-spyneai-49785"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -10735,6 +11237,10 @@
         "2026-10-13": {
           "total": 375,
           "eng": 19
+        },
+        "2026-10-14": {
+          "total": 375,
+          "eng": 19
         }
       },
       "pm": {
@@ -10742,31 +11248,31 @@
           "ids": [
             "lever-getwingapp-5f472a55-aff5-40fd-88cd-fc1c928c5880"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager ai": {
           "ids": [
             "lever-getwingapp-0de43985-8dcc-4d98-bd58-8307e9e064ec"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager ai sales tech": {
           "ids": [
             "lever-getwingapp-9a1ddc3d-c080-41d4-8601-53eb0e95b082"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "product manager b2b saas ai": {
           "ids": [
             "lever-getwingapp-178725c3-1606-4561-b300-2df99db48fd6"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "technical product manager b2b saas ai": {
           "ids": [
             "lever-getwingapp-eb983330-cecc-4800-b65f-f0ca883b1ee5"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -10807,6 +11313,10 @@
         "2026-10-13": {
           "total": 17,
           "eng": 4
+        },
+        "2026-10-14": {
+          "total": 17,
+          "eng": 4
         }
       },
       "pm": {
@@ -10814,7 +11324,7 @@
           "ids": [
             "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R33982"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     },
@@ -10855,6 +11365,10 @@
         "2026-10-13": {
           "total": 21,
           "eng": 12
+        },
+        "2026-10-14": {
+          "total": 21,
+          "eng": 12
         }
       },
       "pm": {
@@ -10862,13 +11376,13 @@
           "ids": [
             "lever-netomi-a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "sr agentic product manager": {
           "ids": [
             "lever-netomi-28e755b4-9e42-4728-8f46-9f4995ef299a"
           ],
-          "lastSeen": "2026-10-13"
+          "lastSeen": "2026-10-14"
         }
       }
     }

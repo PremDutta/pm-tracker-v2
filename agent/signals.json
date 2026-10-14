@@ -2,6 +2,20 @@
   "signals": [
     {
       "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-14",
+      "detail": "8 engineering openings vs a usual 3"
+    },
+    {
+      "type": "funding",
+      "company": "RevRag.AI",
+      "title": "Fintech SaaS Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers",
+      "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
+      "date": "2026-10-14",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-10-13",
       "detail": "145 engineering openings vs a usual 36"

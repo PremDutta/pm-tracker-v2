@@ -2766,6 +2766,35 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "greenhouse-figma-6221563004",
+      "title": "Director, Product Communications",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/6221563004?gh_jid=6221563004",
+      "source": "Greenhouse (Figma)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "amazon-10449781",
+      "title": "Sr. Product Manager, MFN RCX",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10449781/sr-product-manager-mfn-rcx",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "govt-bharat-digital-job-board-cmv7k602j00821w2wkxe45hip",
+      "title": "Product Operations Associate",
+      "company": "Noora Health",
+      "location": "Bangalore",
+      "url": "https://noorahealth.bamboohr.com/careers/171",
+      "source": "🏛️ Govt (Bharat Digital job board)",
+      "deadline": "2026-11-28",
+      "flags": [],
+      "queuedOn": "2026-10-14"
     }
   ],
   "signals": [
@@ -2855,6 +2884,12 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
       "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
       "detail": "closed 2026-10-03, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-14",
+      "detail": "8 engineering openings vs a usual 3"
     }
   ],
   "reminders": {}
