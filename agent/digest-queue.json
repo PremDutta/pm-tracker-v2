@@ -2795,6 +2795,62 @@
       "deadline": "2026-11-28",
       "flags": [],
       "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "amazon-10578264",
+      "title": "Sr. Product Manager, RoW ATS Tech",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10578264/sr-product-manager-row-ats-tech",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "amazon-10578249",
+      "title": "Product Manager III, Amazon Business India",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10578249/product-manager-iii-amazon-business-india",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "amazon-10578219",
+      "title": "Principal Product Manager- Technical, Amazon Finance Technology",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
+      "title": "Principal Product Manager",
+      "company": "Target India",
+      "location": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
+      "source": "Workday (Target India)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "govt-notice-378c72badc5dc210",
+      "title": "Product Manager (AI) Delhi",
+      "company": "National e-Governance Division",
+      "location": "",
+      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/10/Product-Manager-JD-AI.pdf",
+      "source": "🏛️ Govt (NeGD careers page)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "vc-peakxv-744000155296796",
+      "title": "Senior Product Manager",
+      "company": "ixigo",
+      "location": "New Delhi, DL, IN",
+      "url": "https://jobs.smartrecruiters.com/ixigo/744000155296796-senior-product-manager",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-14"
     }
   ],
   "signals": [
@@ -2890,6 +2946,12 @@
       "company": "Oracle",
       "date": "2026-10-14",
       "detail": "8 engineering openings vs a usual 3"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-14",
+      "detail": "128 engineering openings vs a usual 36"
     }
   ],
   "reminders": {}

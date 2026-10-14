@@ -2,9 +2,39 @@
   "signals": [
     {
       "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-14",
+      "detail": "128 engineering openings vs a usual 36"
+    },
+    {
+      "type": "funding",
+      "company": "Circle",
+      "title": "Circle Raises ₹25 Cr To Expand Its Pre-Owned Goods Marketplace Beyond Bengaluru",
+      "url": "https://inc42.com/buzz/circle-raises-%e2%82%b925-cr-to-expand-its-pre-owned-goods-marketplace-beyond-bengaluru/",
+      "date": "2026-10-14",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "eng_spike",
       "company": "Oracle",
       "date": "2026-10-14",
       "detail": "8 engineering openings vs a usual 3"
+    },
+    {
+      "type": "funding",
+      "company": "OXG Space",
+      "title": "Aum Ventures leads Rs 17 Cr round in OXG Space",
+      "url": "https://entrackr.com/snippets/aum-ventures-leads-rs-17-cr-round-in-oxg-space-12674360",
+      "date": "2026-10-14",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "RevRag AI",
+      "title": "Enterprise AI startup RevRag AI raises $2.5 Mn in seed round",
+      "url": "https://entrackr.com/snippets/enterprise-ai-startup-revrag-ai-raises-25-mn-in-seed-round-12674070",
+      "date": "2026-10-14",
+      "detail": "via Entrackr"
     },
     {
       "type": "funding",
@@ -13,6 +43,30 @@
       "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
       "date": "2026-10-14",
       "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
+      "company": "RevRag.AI",
+      "title": "Agentic AI Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers",
+      "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
+      "date": "2026-10-14",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
+      "company": "RocketPay",
+      "title": "RocketPay raises Rs 10 Cr led by Sandeep Jain and Group",
+      "url": "https://entrackr.com/snippets/rocketpay-raises-rs-10-cr-led-by-sandeep-jain-and-group-12674425",
+      "date": "2026-10-14",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Spill Games",
+      "title": "Elevation Capital leads $10.5 Mn Series A round in Spill Games",
+      "url": "https://entrackr.com/news/elevation-capital-leads-105-mn-series-a-round-in-spill-games-12674083",
+      "date": "2026-10-14",
+      "detail": "via Entrackr"
     },
     {
       "type": "eng_spike",
@@ -285,6 +339,14 @@
       "url": "https://entrackr.com/news/chiratae-ventures-leads-10-mn-round-in-photonic-quantum-startup-quanfluence-12631530",
       "date": "2026-10-07",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Quanfluence",
+      "title": "Deeptech startup Quanfluence raises $10M led by Chiratae Ventures",
+      "url": "https://yourstory.com/2026/10/deeptech-startup-quanfluence-raises-10m-led-by-chiratae-ventures",
+      "date": "2026-10-07",
+      "detail": "via YourStory"
     },
     {
       "type": "funding",

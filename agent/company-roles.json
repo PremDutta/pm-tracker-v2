@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-14T03:49:33.392Z",
+  "scannedAt": "2026-10-14T07:53:53.235Z",
   "roles": {
     "Amazon": [
       {
@@ -17,6 +17,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10504461/principal-product-manager-tech-ai-multi-channel-commerce-amazon-smart-commerce",
         "level": "group",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10578219",
+        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
+        "location": "Gurugram, Haryana, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
+        "level": "group",
+        "firstSeen": "2026-10-14"
       },
       {
         "id": "amazon-10502013",
@@ -41,6 +49,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10441689/product-manager-inventory-health-product-amazon-now",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10578249",
+        "title": "Product Manager III, Amazon Business India",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10578249/product-manager-iii-amazon-business-india",
+        "level": "pm",
+        "firstSeen": "2026-10-14"
       },
       {
         "id": "amazon-10561409",
@@ -467,6 +483,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "amazon-10578264",
+        "title": "Sr. Product Manager, RoW ATS Tech",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10578264/sr-product-manager-row-ats-tech",
+        "level": "senior",
+        "firstSeen": "2026-10-14"
+      },
+      {
         "id": "amazon-10521837",
         "title": "Sr. Product Manager, RoW ATS Tech",
         "location": "Bengaluru, Karnataka, IND",
@@ -567,16 +591,6 @@
         "firstSeen": "2026-10-05"
       }
     ],
-    "GoComet": [
-      {
-        "id": "keka-gocomet-122455",
-        "title": "Product Manager",
-        "location": "Bangalore",
-        "url": "https://gocomet.keka.com/careers/jobdetails/122455",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      }
-    ],
     "GoKwik": [
       {
         "id": "keka-gokwik-150448",
@@ -667,14 +681,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-169138",
-        "title": "Data Product Manager",
-        "location": "Chennai",
-        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-172343",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -715,18 +721,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -887,14 +893,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210783031",
-        "title": "Product Manager",
-        "location": "Mumbai, Maharashtra, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783031",
-        "level": "pm",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210798770",
         "title": "Product Manager - Infrastructure Platforms",
         "location": "Bengaluru, Karnataka, India",
@@ -989,6 +987,14 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Lead-Product-Manager_R-292425-1",
         "level": "group",
         "firstSeen": "2026-10-06"
+      },
+      {
+        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
+        "title": "Lead Product Manager - Technical - Data Lake/ Data Warehouse",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
+        "level": "group",
+        "firstSeen": "2026-10-14"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
@@ -1154,7 +1160,7 @@
       },
       {
         "id": "lever-meesho-b56573f0-c701-422a-abfa-ac8bbdbfa645",
-        "title": "Product Manager II",
+        "title": "Product Manager II - Growth (Anchit)",
         "location": "Bangalore, Karnataka",
         "url": "https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645",
         "level": "pm",
@@ -1203,14 +1209,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556999250",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556999250",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393556978896",
         "title": "Product Management INTERN",
         "location": "India, Multiple Locations, Multiple Locations",
@@ -1243,20 +1241,20 @@
         "firstSeen": "2026-10-06"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556971850",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556971850",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557016611",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
         "level": "senior",
         "firstSeen": "2026-10-07"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556971850",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556971850",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       }
     ],
     "Mihup": [
@@ -1649,6 +1647,16 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "Razorpay": [
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4736965005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
+        "level": "pm",
+        "firstSeen": "2026-10-14"
+      }
+    ],
     "Rippling": [
       {
         "id": "rippling-rippling-d8797dce-0abf-406a-bf5f-0f288b9800ad",
@@ -1848,6 +1856,14 @@
       }
     ],
     "Target India": [
+      {
+        "id": "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
+        "title": "Principal Product Manager",
+        "location": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
+        "level": "group",
+        "firstSeen": "2026-10-14"
+      },
       {
         "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
         "title": "Principal Product Manager",
