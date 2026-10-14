@@ -2851,6 +2851,15 @@
       "url": "https://jobs.smartrecruiters.com/ixigo/744000155296796-senior-product-manager",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "vc-accel-96868972",
+      "title": "Principal Product Manager, AI Security",
+      "company": "Netskope",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/netskope/jobs/8260826",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-14"
     }
   ],
   "signals": [
@@ -2952,6 +2961,12 @@
       "company": "Accenture",
       "date": "2026-10-14",
       "detail": "128 engineering openings vs a usual 36"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Zluri",
+      "date": "2026-10-14",
+      "detail": "8 engineering openings vs a usual 3"
     }
   ],
   "reminders": {}

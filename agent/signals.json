@@ -15,6 +15,14 @@
       "detail": "via Inc42"
     },
     {
+      "type": "funding",
+      "company": "Circle",
+      "title": "Pre-owned goods marketplace Circle raises Rs 25 Cr led by Nexus Venture Partners",
+      "url": "https://entrackr.com/snippets/pre-owned-goods-marketplace-circle-raises-rs-25-cr-led-by-nexus-venture-partners-12675485",
+      "date": "2026-10-14",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Oracle",
       "date": "2026-10-14",
@@ -67,6 +75,20 @@
       "url": "https://entrackr.com/news/elevation-capital-leads-105-mn-series-a-round-in-spill-games-12674083",
       "date": "2026-10-14",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "The Stack",
+      "title": "Supplements brand The Stack raises Rs 21.5 Cr in seed round",
+      "url": "https://entrackr.com/snippets/supplements-brand-the-stack-raises-rs-215-cr-in-seed-round-12674836",
+      "date": "2026-10-14",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Zluri",
+      "date": "2026-10-14",
+      "detail": "8 engineering openings vs a usual 3"
     },
     {
       "type": "eng_spike",
@@ -310,6 +332,14 @@
     },
     {
       "type": "funding",
+      "company": "byteXL",
+      "title": "Edtech firm byteXL raises $9M as investors back college-linked AI skilling model",
+      "url": "https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model",
+      "date": "2026-10-07",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
       "company": "Desible.ai",
       "title": "Agentic AI startup Desible.ai raises Rs 32 Cr led by Prime Venture Partners",
       "url": "https://entrackr.com/snippets/agentic-ai-startup-desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12632530",
@@ -355,6 +385,14 @@
       "url": "https://entrackr.com/snippets/med-tech-startup-sunfox-technologies-raises-7-mn-in-series-a-round-12633059",
       "date": "2026-10-07",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Sunfox Technologies",
+      "title": "Medtech company Sunfox Technologies raises $7M to scale cardiac diagnostics platform",
+      "url": "https://yourstory.com/2026/10/medtech-company-sunfox-technologies-raises-7m",
+      "date": "2026-10-07",
+      "detail": "via YourStory"
     },
     {
       "type": "funding",
