@@ -2860,6 +2860,78 @@
       "url": "https://boards.greenhouse.io/netskope/jobs/8260826",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "lever-meesho-102d5a7e-0292-4ddc-8ebc-ba191119349e",
+      "title": "Senior Product Manager : F&E",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/102d5a7e-0292-4ddc-8ebc-ba191119349e",
+      "source": "Lever (Meesho)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210796604",
+      "title": "Product Management -  Loan lifecycle and Platforms(LIQ) - Team Lead",
+      "company": "JPMorgan Chase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796604",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+      "title": "Lead Product Manager",
+      "company": "Wells Fargo",
+      "location": "Hyderabad, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "vc-accel-96950522",
+      "title": "Sr. Product Manager, Specialized Modeling & Verticals",
+      "company": "6sense",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/6sense/jobs/8188445",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "vc-accel-96911284",
+      "title": "Senior Product Manager - XenPlatform",
+      "company": "Xendit",
+      "location": "Mumbai, Maharashtra, India, Bengaluru, Karnataka, India, Kuala Lumpur, Malaysia, Singapore, Manila, Philippines, Jakarta, Indonesia",
+      "url": "https://boards.greenhouse.io/xendit/jobs/8032565003",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "vc-accel-96522688",
+      "title": "Senior Product Manager",
+      "company": "Mihup",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://mihup.keka.com/jobdetails/160594",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "vc-accel-96522032",
+      "title": "Product Manager, AI workflows",
+      "company": "Atlas",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/product-manager-ai-workflows-at-atlas-accounting-4465019596",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-14"
+    },
+    {
+      "id": "vc-accel-89446932",
+      "title": "Product Manager II",
+      "company": "Jifflenow",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://indiacareers-cvent.icims.com/jobs/10251/login",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-14"
     }
   ],
   "signals": [
@@ -2967,6 +3039,15 @@
       "company": "Zluri",
       "date": "2026-10-14",
       "detail": "8 engineering openings vs a usual 3"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-10-14",
+      "title": "Lead Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+      "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+      "detail": "closed 2026-10-13, reposted today"
     }
   ],
   "reminders": {}

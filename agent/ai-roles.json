@@ -12,6 +12,17 @@
       "firstSeen": "2026-10-14"
     },
     {
+      "id": "vc-accel-96522032",
+      "title": "Product Manager, AI workflows",
+      "company": "Atlas",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/product-manager-ai-workflows-at-atlas-accounting-4465019596",
+      "source": "VC board (Accel portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-14"
+    },
+    {
       "id": "vc-lightspeed-441247",
       "title": "Product Manager - AI Agents",
       "company": "Bridgetown Research",
@@ -63,6 +74,17 @@
       "url": "https://jobs.lever.co/gushwork/c03a9615-f124-424c-8bbd-90d209a68f3d",
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-14"
+    },
+    {
+      "id": "vc-accel-96522688",
+      "title": "Senior Product Manager",
+      "company": "Mihup",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://mihup.keka.com/jobdetails/160594",
+      "source": "VC board (Accel portfolio)",
+      "level": "senior",
       "aiMatch": "company",
       "firstSeen": "2026-10-14"
     },
@@ -800,17 +822,6 @@
       "url": "https://ats.rippling.com/rippling/jobs/d8797dce-0abf-406a-bf5f-0f288b9800ad",
       "source": "Rippling (Rippling)",
       "level": "leadership",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "rippling-rippling-c91bdb38-16ba-48b3-9f58-fccc622c3154",
-      "title": "Product Lead, Accounting Platform",
-      "company": "Rippling",
-      "location": "Bangalore, India",
-      "url": "https://ats.rippling.com/rippling/jobs/c91bdb38-16ba-48b3-9f58-fccc622c3154",
-      "source": "Rippling (Rippling)",
-      "level": "group",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"
     },

@@ -216,8 +216,8 @@
           "eng": 268
         },
         "2026-10-14": {
-          "total": 650,
-          "eng": 271
+          "total": 651,
+          "eng": 272
         }
       },
       "pm": {
@@ -482,7 +482,7 @@
           "eng": 51
         },
         "2026-10-14": {
-          "total": 133,
+          "total": 131,
           "eng": 51
         }
       },
@@ -602,8 +602,8 @@
           "eng": 47
         },
         "2026-10-14": {
-          "total": 119,
-          "eng": 47
+          "total": 117,
+          "eng": 46
         }
       },
       "pm": {
@@ -1293,7 +1293,7 @@
           "eng": 37
         },
         "2026-10-14": {
-          "total": 90,
+          "total": 91,
           "eng": 37
         }
       },
@@ -1401,7 +1401,7 @@
           "eng": 45
         },
         "2026-10-14": {
-          "total": 144,
+          "total": 146,
           "eng": 47
         }
       },
@@ -1584,7 +1584,7 @@
           "eng": 30
         },
         "2026-10-14": {
-          "total": 144,
+          "total": 145,
           "eng": 30
         }
       },
@@ -1710,7 +1710,7 @@
           "eng": 12
         },
         "2026-10-14": {
-          "total": 31,
+          "total": 30,
           "eng": 12
         }
       },
@@ -1794,8 +1794,8 @@
           "eng": 47
         },
         "2026-10-14": {
-          "total": 132,
-          "eng": 47
+          "total": 130,
+          "eng": 46
         }
       },
       "pm": {
@@ -1879,8 +1879,8 @@
           "eng": 414
         },
         "2026-10-14": {
-          "total": 806,
-          "eng": 412
+          "total": 805,
+          "eng": 411
         }
       },
       "pm": {
@@ -2159,7 +2159,7 @@
           "eng": 0
         },
         "2026-10-14": {
-          "total": 10,
+          "total": 11,
           "eng": 0
         }
       },
@@ -2617,7 +2617,8 @@
           "ids": [
             "lever-meesho-2028b73c-2ae0-4fca-903e-481b8c500629"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-14",
+          "closedOn": "2026-10-14"
         },
         "senior product manager data analytics platform": {
           "ids": [
@@ -2642,6 +2643,12 @@
         "product manager ii growth": {
           "ids": [
             "lever-meesho-b56573f0-c701-422a-abfa-ac8bbdbfa645"
+          ],
+          "lastSeen": "2026-10-14"
+        },
+        "senior product manager f e": {
+          "ids": [
+            "lever-meesho-102d5a7e-0292-4ddc-8ebc-ba191119349e"
           ],
           "lastSeen": "2026-10-14"
         }
@@ -3242,8 +3249,8 @@
           "eng": 2
         },
         "2026-10-14": {
-          "total": 23,
-          "eng": 1
+          "total": 25,
+          "eng": 2
         }
       },
       "pm": {
@@ -3333,7 +3340,7 @@
           "eng": 34
         },
         "2026-10-14": {
-          "total": 81,
+          "total": 80,
           "eng": 31
         }
       },
@@ -3742,7 +3749,7 @@
           "eng": 5
         },
         "2026-10-14": {
-          "total": 91,
+          "total": 89,
           "eng": 5
         }
       },
@@ -4302,7 +4309,7 @@
         },
         "2026-10-14": {
           "total": 100,
-          "eng": 35
+          "eng": 36
         }
       },
       "pm": {
@@ -4529,7 +4536,7 @@
           "eng": 8
         },
         "2026-10-14": {
-          "total": 76,
+          "total": 77,
           "eng": 8
         }
       },
@@ -5225,7 +5232,7 @@
           "eng": 9
         },
         "2026-10-14": {
-          "total": 42,
+          "total": 41,
           "eng": 9
         }
       },
@@ -5440,7 +5447,7 @@
         },
         "2026-10-14": {
           "total": 100,
-          "eng": 30
+          "eng": 29
         }
       },
       "pm": {
@@ -5535,7 +5542,8 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210798770"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-14",
+          "closedOn": "2026-10-14"
         },
         "ai data solutions product owner vice president": {
           "ids": [
@@ -5546,6 +5554,12 @@
         "product owner product delivery senior associate": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210796769"
+          ],
+          "lastSeen": "2026-10-14"
+        },
+        "product management loan lifecycle and platforms team lead": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210796604"
           ],
           "lastSeen": "2026-10-14"
         }
@@ -5610,7 +5624,7 @@
           "eng": 7
         },
         "2026-10-14": {
-          "total": 21,
+          "total": 20,
           "eng": 7
         }
       },
@@ -5812,7 +5826,7 @@
           "eng": 2
         },
         "2026-10-14": {
-          "total": 7,
+          "total": 8,
           "eng": 1
         }
       },
@@ -5891,8 +5905,8 @@
           "eng": 3
         },
         "2026-10-14": {
-          "total": 10,
-          "eng": 7,
+          "total": 8,
+          "eng": 5,
           "spike": true
         }
       },
@@ -6029,7 +6043,7 @@
           "eng": 9
         },
         "2026-10-14": {
-          "total": 181,
+          "total": 182,
           "eng": 9
         }
       },
@@ -6435,8 +6449,8 @@
           "eng": 10
         },
         "2026-10-14": {
-          "total": 19,
-          "eng": 10
+          "total": 17,
+          "eng": 8
         }
       },
       "pm": {
@@ -6617,7 +6631,7 @@
         },
         "2026-10-14": {
           "total": 100,
-          "eng": 42
+          "eng": 40
         }
       },
       "pm": {
@@ -6861,7 +6875,7 @@
         },
         "2026-10-14": {
           "total": 147,
-          "eng": 75
+          "eng": 76
         }
       },
       "pm": {
@@ -7069,7 +7083,7 @@
           "eng": 7
         },
         "2026-10-14": {
-          "total": 27,
+          "total": 28,
           "eng": 7
         }
       },
@@ -7134,8 +7148,8 @@
           "eng": 86
         },
         "2026-10-14": {
-          "total": 100,
-          "eng": 86
+          "total": 99,
+          "eng": 85
         }
       },
       "pm": {}
@@ -7265,7 +7279,7 @@
         },
         "2026-10-14": {
           "total": 100,
-          "eng": 3
+          "eng": 4
         }
       },
       "pm": {
@@ -7539,8 +7553,8 @@
           "eng": 34
         },
         "2026-10-14": {
-          "total": 100,
-          "eng": 34
+          "total": 98,
+          "eng": 33
         }
       },
       "pm": {
@@ -8018,7 +8032,7 @@
           "eng": 46
         },
         "2026-10-14": {
-          "total": 80,
+          "total": 79,
           "eng": 46
         }
       },
@@ -8200,7 +8214,8 @@
             "sf-careers.wipro.com-198709",
             "sf-careers.wipro.com-198887"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-14",
+          "closedOn": "2026-10-14"
         },
         "cto product lead": {
           "ids": [
@@ -8270,8 +8285,8 @@
           "eng": 24
         },
         "2026-10-14": {
-          "total": 76,
-          "eng": 29
+          "total": 80,
+          "eng": 30
         }
       },
       "pm": {
@@ -8328,10 +8343,10 @@
         },
         "lead product manager": {
           "ids": [
-            "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-575608"
+            "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-575608",
+            "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375"
           ],
-          "lastSeen": "2026-10-13",
-          "closedOn": "2026-10-13"
+          "lastSeen": "2026-10-14"
         },
         "data product management consultant": {
           "ids": [
@@ -8400,8 +8415,8 @@
           "eng": 43
         },
         "2026-10-14": {
-          "total": 84,
-          "eng": 42
+          "total": 86,
+          "eng": 43
         }
       },
       "pm": {}
@@ -8472,8 +8487,8 @@
           "spike": true
         },
         "2026-10-14": {
-          "total": 199,
-          "eng": 123,
+          "total": 200,
+          "eng": 45,
           "spike": true
         }
       },
@@ -8483,8 +8498,7 @@
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1"
           ],
-          "lastSeen": "2026-10-14",
-          "closedOn": "2026-10-14"
+          "lastSeen": "2026-10-14"
         },
         "product management analyst": {
           "ids": [
@@ -8497,8 +8511,7 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-14",
-          "closedOn": "2026-10-14"
+          "lastSeen": "2026-10-14"
         },
         "ai product management practitioner": {
           "ids": [
@@ -8512,8 +8525,7 @@
           "ids": [
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456"
           ],
-          "lastSeen": "2026-10-14",
-          "closedOn": "2026-10-14"
+          "lastSeen": "2026-10-14"
         },
         "product management specialist aftermarket service supply chain": {
           "ids": [
@@ -8657,8 +8669,8 @@
           "eng": 35
         },
         "2026-10-14": {
-          "total": 70,
-          "eng": 33
+          "total": 72,
+          "eng": 34
         }
       },
       "pm": {
@@ -8742,8 +8754,8 @@
           "eng": 2
         },
         "2026-10-14": {
-          "total": 6,
-          "eng": 2
+          "total": 7,
+          "eng": 3
         }
       },
       "pm": {}
@@ -8971,7 +8983,7 @@
           "eng": 576
         },
         "2026-10-14": {
-          "total": 896,
+          "total": 894,
           "eng": 575
         }
       },
@@ -9427,8 +9439,8 @@
           "eng": 10
         },
         "2026-10-14": {
-          "total": 27,
-          "eng": 9
+          "total": 28,
+          "eng": 10
         }
       },
       "pm": {
@@ -9487,8 +9499,8 @@
           "eng": 2
         },
         "2026-10-14": {
-          "total": 8,
-          "eng": 2
+          "total": 9,
+          "eng": 3
         }
       },
       "pm": {
@@ -9539,7 +9551,7 @@
           "eng": 32
         },
         "2026-10-14": {
-          "total": 68,
+          "total": 65,
           "eng": 32
         }
       },
@@ -9708,8 +9720,8 @@
           "eng": 19
         },
         "2026-10-14": {
-          "total": 52,
-          "eng": 19
+          "total": 54,
+          "eng": 20
         }
       },
       "pm": {
@@ -9934,8 +9946,8 @@
           "eng": 156
         },
         "2026-10-14": {
-          "total": 395,
-          "eng": 157
+          "total": 405,
+          "eng": 168
         }
       },
       "pm": {
@@ -10316,7 +10328,7 @@
           "eng": 40
         },
         "2026-10-14": {
-          "total": 88,
+          "total": 89,
           "eng": 37
         }
       },
@@ -10474,7 +10486,7 @@
           "eng": 43
         },
         "2026-10-14": {
-          "total": 136,
+          "total": 135,
           "eng": 41
         }
       },
@@ -10569,8 +10581,8 @@
           "eng": 196
         },
         "2026-10-14": {
-          "total": 610,
-          "eng": 194
+          "total": 605,
+          "eng": 195
         }
       },
       "pm": {
@@ -10604,7 +10616,8 @@
           "ids": [
             "rippling-rippling-c91bdb38-16ba-48b3-9f58-fccc622c3154"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-14",
+          "closedOn": "2026-10-14"
         },
         "product lead ai experience": {
           "ids": [
@@ -11077,8 +11090,8 @@
           "eng": 36
         },
         "2026-10-14": {
-          "total": 102,
-          "eng": 36
+          "total": 103,
+          "eng": 35
         }
       },
       "pm": {
@@ -11148,7 +11161,7 @@
           "eng": 2
         },
         "2026-10-14": {
-          "total": 20,
+          "total": 21,
           "eng": 2
         }
       },
@@ -11400,7 +11413,7 @@
           "eng": 12
         },
         "2026-10-14": {
-          "total": 20,
+          "total": 19,
           "eng": 11
         }
       },

@@ -38,6 +38,14 @@
     },
     {
       "type": "funding",
+      "company": "Parallel Loop",
+      "title": "Parallel Loop raises $6.6 Mn seed round led by 3one4 Capital",
+      "url": "https://entrackr.com/snippets/parallel-loop-raises-66-mn-seed-round-led-by-3one4-capital-12675732",
+      "date": "2026-10-14",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
       "company": "RevRag AI",
       "title": "Enterprise AI startup RevRag AI raises $2.5 Mn in seed round",
       "url": "https://entrackr.com/snippets/enterprise-ai-startup-revrag-ai-raises-25-mn-in-seed-round-12674070",
@@ -70,6 +78,14 @@
     },
     {
       "type": "funding",
+      "company": "Scimplify",
+      "title": "Scimplify raises $25 Mn in strategic round led by Hitachi Ventures",
+      "url": "https://entrackr.com/news/scimplify-raises-25-mn-in-strategic-round-led-by-hitachi-ventures-12676144",
+      "date": "2026-10-14",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
       "company": "Spill Games",
       "title": "Elevation Capital leads $10.5 Mn Series A round in Spill Games",
       "url": "https://entrackr.com/news/elevation-capital-leads-105-mn-series-a-round-in-spill-games-12674083",
@@ -83,6 +99,23 @@
       "url": "https://entrackr.com/snippets/supplements-brand-the-stack-raises-rs-215-cr-in-seed-round-12674836",
       "date": "2026-10-14",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "The/Nudge",
+      "title": "The/Nudge secures $15M from Google.org to develop AI tools for small businesses",
+      "url": "https://yourstory.com/2026/10/thenudge-secures-15m-from-googleorg-to-develop-ai-tools-for-small-businesses",
+      "date": "2026-10-14",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-10-14",
+      "title": "Lead Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+      "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+      "detail": "closed 2026-10-13, reposted today"
     },
     {
       "type": "eng_spike",

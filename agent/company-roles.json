@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-14T11:21:13.439Z",
+  "scannedAt": "2026-10-14T16:41:55.141Z",
   "roles": {
     "Amazon": [
       {
@@ -491,14 +491,6 @@
         "firstSeen": "2026-10-14"
       },
       {
-        "id": "amazon-10521837",
-        "title": "Sr. Product Manager, RoW ATS Tech",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10521837/sr-product-manager-row-ats-tech",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10566206",
         "title": "Sr. Technical Product Manager, Trust CX Innovations",
         "location": "Bengaluru, Karnataka, IND",
@@ -673,6 +665,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.hcltech.com-169138",
+        "title": "Data Product Manager",
+        "location": "Chennai",
+        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-14"
+      },
+      {
         "id": "sf-careers.hcltech.com-172343",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -697,14 +697,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158038",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -725,6 +717,14 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158038",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -877,20 +877,20 @@
         "firstSeen": "2026-10-08"
       },
       {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210796604",
+        "title": "Product Management -  Loan lifecycle and Platforms(LIQ) - Team Lead",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796604",
+        "level": "group",
+        "firstSeen": "2026-10-14"
+      },
+      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210784785",
         "title": "Product Management - Transformation- Vice President",
         "location": "Bengaluru, Karnataka, India",
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784785",
         "level": "leadership",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210798770",
-        "title": "Product Manager - Infrastructure Platforms",
-        "location": "Bengaluru, Karnataka, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798770",
-        "level": "pm",
-        "firstSeen": "2026-10-09"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210792979",
@@ -1159,31 +1159,23 @@
         "firstSeen": "2026-10-05"
       },
       {
-        "id": "lever-meesho-2028b73c-2ae0-4fca-903e-481b8c500629",
-        "title": "Senior Product Manager",
-        "location": "Bangalore, Karnataka",
-        "url": "https://jobs.lever.co/meesho/2028b73c-2ae0-4fca-903e-481b8c500629",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "lever-meesho-97ce9e5a-a8bb-446d-a8db-9078603b106f",
         "title": "Senior Product Manager - Data & Analytics Platform",
         "location": "Bangalore, Karnataka",
         "url": "https://jobs.lever.co/meesho/97ce9e5a-a8bb-446d-a8db-9078603b106f",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "lever-meesho-102d5a7e-0292-4ddc-8ebc-ba191119349e",
+        "title": "Senior Product Manager : F&E",
+        "location": "Bangalore, Karnataka",
+        "url": "https://jobs.lever.co/meesho/102d5a7e-0292-4ddc-8ebc-ba191119349e",
+        "level": "senior",
+        "firstSeen": "2026-10-14"
       }
     ],
     "Microsoft": [
-      {
-        "id": "eightfold-microsoft.com-1970393556997831",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
       {
         "id": "eightfold-microsoft.com-1970393556911401",
         "title": "Principal Product Manager",
@@ -1197,6 +1189,14 @@
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556997831",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1659,14 +1659,6 @@
         "firstSeen": "2026-10-05"
       },
       {
-        "id": "rippling-rippling-c91bdb38-16ba-48b3-9f58-fccc622c3154",
-        "title": "Product Lead, Accounting Platform",
-        "location": "Bangalore, India",
-        "url": "https://ats.rippling.com/rippling/jobs/c91bdb38-16ba-48b3-9f58-fccc622c3154",
-        "level": "group",
-        "firstSeen": "2026-10-05"
-      },
-      {
         "id": "rippling-rippling-9276fd2e-0929-4843-9f5e-c7b7bb9119ab",
         "title": "Product Lead, Benefits Marketplace & PEO",
         "location": "Bangalore, India",
@@ -1917,6 +1909,14 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Product-Management-Consultant_R-579868",
         "level": "pm",
         "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+        "title": "Lead Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+        "level": "group",
+        "firstSeen": "2026-10-14"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -1930,30 +1930,6 @@
       }
     ],
     "Wipro": [
-      {
-        "id": "sf-careers.wipro.com-198709",
-        "title": "Product Management Consulting",
-        "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management-Consulting/198709-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.wipro.com-200048",
-        "title": "Product Management Consulting",
-        "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "sf-careers.wipro.com-205260",
-        "title": "Product Management Consulting",
-        "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Product-Management-Consulting/205260-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-10-07"
-      },
       {
         "id": "sf-careers.wipro.com-203307",
         "title": "PRODUCT MANAGER L1",
