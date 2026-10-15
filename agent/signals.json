@@ -8,6 +8,14 @@
     },
     {
       "type": "funding",
+      "company": "Banaraswala",
+      "title": "Banaraswala raises $2 Mn from Prax Impex to expand across India",
+      "url": "https://entrackr.com/snippets/banaraswala-raises-2-mn-from-prax-impex-to-expand-across-india-12678454",
+      "date": "2026-10-15",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
       "company": "Confido Health",
       "title": "Z47 leads $12.5 Mn Series A round in Confido Health",
       "url": "https://entrackr.com/news/z47-leads-125-mn-series-a-round-in-confido-health-12677262",
@@ -21,6 +29,15 @@
       "url": "https://entrackr.com/snippets/space-robotics-startup-cosmochute-raises-15-mn-in-pre-seed-round-12677383",
       "date": "2026-10-15",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "reopened",
+      "company": "JPMorgan Chase",
+      "date": "2026-10-15",
+      "title": "Product Manager",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
+      "id": "oracle-jpmc.fa.oraclecloud.com-210797096",
+      "detail": "closed 2026-10-14, reposted today"
     },
     {
       "type": "funding",
@@ -342,6 +359,14 @@
       "detail": "via Entrackr"
     },
     {
+      "type": "funding",
+      "company": "NeoGrowth",
+      "title": "NeoGrowth raises Rs 85 Cr led by FMO",
+      "url": "https://yourstory.com/2026/10/neogrowth-raises-rs-85-crore-led-by-fmo",
+      "date": "2026-10-09",
+      "detail": "via YourStory"
+    },
+    {
       "type": "reopened",
       "company": "ServiceNow",
       "date": "2026-10-09",
@@ -363,6 +388,14 @@
       "url": "https://entrackr.com/news/dailyobjects-raises-rs-332-cr-in-series-c-round-led-by-xponentia-anicut-axiom-asia-12638318",
       "date": "2026-10-08",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "DailyObjects",
+      "title": "DailyObjects raises Rs 332 Cr in Series C funding round",
+      "url": "https://yourstory.com/2026/10/dailyobjects-raises-rs-332-cr-in-series-c-funding-round",
+      "date": "2026-10-08",
+      "detail": "via YourStory"
     },
     {
       "type": "funding",

@@ -2968,6 +2968,60 @@
       "url": "https://ats.rippling.com/rippling/jobs/1b2bd0fa-cfd3-4774-8c8f-7c00685f3476",
       "source": "Rippling (Rippling)",
       "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "keka-gokwik-166740",
+      "title": "Product Manager",
+      "company": "GoKwik",
+      "location": "Gurugram",
+      "url": "https://gokwik.keka.com/careers/jobdetails/166740",
+      "source": "Keka (GoKwik)",
+      "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210797096",
+      "title": "Product Manager",
+      "company": "JPMorgan Chase",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager--Technical_R-290739",
+      "title": "Senior Product Manager- Technical",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager--Technical_R-290739",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557037770",
+      "title": "Senior Product Manager",
+      "company": "Microsoft",
+      "location": "India, Telangana, Hyderabad",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "workday-wf-/job/Hyderabad-India/Data-Product-Management-Consultant_R-580970-1",
+      "title": "Data Product Management Consultant",
+      "company": "Wells Fargo",
+      "location": "Hyderabad, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Data-Product-Management-Consultant_R-580970-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "vc-peakxv-a6a59e055194f3",
+      "title": "Senior Product Manager I",
+      "company": "Tata 1mg",
+      "location": "Motorola 3rd Floor, Saffron Enclave, 415/2, MG Road, Sector 14, Gurugram, Haryana, India",
+      "url": "https://1mg.darwinbox.in/ms/candidate/careers/a6a59e055194f3",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-15"
     }
   ],
   "signals": [
@@ -3099,6 +3153,15 @@
       "company": "Accenture",
       "date": "2026-10-15",
       "detail": "134 engineering openings vs a usual 36"
+    },
+    {
+      "type": "reopened",
+      "company": "JPMorgan Chase",
+      "date": "2026-10-15",
+      "title": "Product Manager",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
+      "id": "oracle-jpmc.fa.oraclecloud.com-210797096",
+      "detail": "closed 2026-10-14, reposted today"
     }
   ],
   "reminders": {}
