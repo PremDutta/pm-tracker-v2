@@ -3022,6 +3022,51 @@
       "url": "https://1mg.darwinbox.in/ms/candidate/careers/a6a59e055194f3",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "sf-careers.hcltech.com-181759",
+      "title": "Product Manager/ Product Lead",
+      "company": "HCLTech",
+      "location": "Noida",
+      "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/181759-en_US/",
+      "source": "HCLTech careers",
+      "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000155796579",
+      "title": "Staff Inbound Product Manager - AI Evaluation Tools",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155796579",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000155792153",
+      "title": "Staff Inbound Product Manager – Platform and AI Innovation Solutions",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155792153",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "smartrecruiters-swiggy-6000000001491459",
+      "title": "Product Manager I",
+      "company": "Swiggy",
+      "location": "Bengaluru, KA, India",
+      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001491459",
+      "source": "SmartRecruiters (Swiggy)",
+      "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Product-Owner--Securities-and-Prime-Services-Delivery--VP-_R-577678-1",
+      "title": "Product Owner: Securities and Prime Services Delivery (VP)",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Securities-and-Prime-Services-Delivery--VP-_R-577678-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-15"
     }
   ],
   "signals": [
@@ -3162,6 +3207,21 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
       "id": "oracle-jpmc.fa.oraclecloud.com-210797096",
       "detail": "closed 2026-10-14, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Swiggy",
+      "date": "2026-10-15",
+      "detail": "6 engineering openings vs a usual 1"
+    },
+    {
+      "type": "reopened",
+      "company": "Swiggy",
+      "date": "2026-10-15",
+      "title": "Product Manager I",
+      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001491459",
+      "id": "smartrecruiters-swiggy-6000000001491459",
+      "detail": "closed 2026-10-07, reposted today"
     }
   ],
   "reminders": {}

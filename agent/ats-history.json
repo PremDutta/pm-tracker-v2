@@ -75,7 +75,7 @@
           "eng": 45
         },
         "2026-10-15": {
-          "total": 105,
+          "total": 106,
           "eng": 45
         }
       },
@@ -224,8 +224,8 @@
           "eng": 270
         },
         "2026-10-15": {
-          "total": 647,
-          "eng": 269
+          "total": 649,
+          "eng": 268
         }
       },
       "pm": {
@@ -417,7 +417,7 @@
           "eng": 30
         },
         "2026-10-15": {
-          "total": 61,
+          "total": 62,
           "eng": 28
         }
       },
@@ -622,8 +622,8 @@
           "eng": 46
         },
         "2026-10-15": {
-          "total": 116,
-          "eng": 46
+          "total": 117,
+          "eng": 47
         }
       },
       "pm": {
@@ -972,8 +972,8 @@
           "eng": 80
         },
         "2026-10-15": {
-          "total": 181,
-          "eng": 80
+          "total": 180,
+          "eng": 79
         }
       },
       "pm": {
@@ -1341,7 +1341,7 @@
           "eng": 37
         },
         "2026-10-15": {
-          "total": 91,
+          "total": 90,
           "eng": 37
         }
       },
@@ -1956,7 +1956,7 @@
           "eng": 412
         },
         "2026-10-15": {
-          "total": 804,
+          "total": 803,
           "eng": 413
         }
       },
@@ -2125,7 +2125,7 @@
           "eng": 39
         },
         "2026-10-15": {
-          "total": 162,
+          "total": 165,
           "eng": 39
         }
       },
@@ -2681,7 +2681,7 @@
           "eng": 8
         },
         "2026-10-15": {
-          "total": 60,
+          "total": 58,
           "eng": 8
         }
       },
@@ -2749,13 +2749,15 @@
           "ids": [
             "lever-meesho-b56573f0-c701-422a-abfa-ac8bbdbfa645"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-15",
+          "closedOn": "2026-10-15"
         },
         "senior product manager f e": {
           "ids": [
             "lever-meesho-102d5a7e-0292-4ddc-8ebc-ba191119349e"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-15",
+          "closedOn": "2026-10-15"
         }
       }
     },
@@ -3483,8 +3485,8 @@
           "eng": 32
         },
         "2026-10-15": {
-          "total": 82,
-          "eng": 32
+          "total": 83,
+          "eng": 31
         }
       },
       "pm": {
@@ -3535,8 +3537,7 @@
           "ids": [
             "lever-spotify-ee45924c-894c-4ea0-9c93-c5221894063f"
           ],
-          "lastSeen": "2026-10-07",
-          "closedOn": "2026-10-07"
+          "lastSeen": "2026-10-15"
         },
         "principal product manager format foundations": {
           "ids": [
@@ -3761,7 +3762,7 @@
           "eng": 14
         },
         "2026-10-15": {
-          "total": 33,
+          "total": 34,
           "eng": 15
         }
       },
@@ -4720,8 +4721,8 @@
           "eng": 8
         },
         "2026-10-15": {
-          "total": 77,
-          "eng": 8
+          "total": 78,
+          "eng": 9
         }
       },
       "pm": {
@@ -4822,7 +4823,7 @@
           "eng": 29
         },
         "2026-10-15": {
-          "total": 85,
+          "total": 87,
           "eng": 29
         }
       },
@@ -5677,7 +5678,7 @@
         },
         "2026-10-15": {
           "total": 100,
-          "eng": 28
+          "eng": 31
         }
       },
       "pm": {
@@ -5767,7 +5768,8 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210792979"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-15",
+          "closedOn": "2026-10-15"
         },
         "product manager infrastructure platforms": {
           "ids": [
@@ -6302,7 +6304,7 @@
           "eng": 9
         },
         "2026-10-15": {
-          "total": 180,
+          "total": 182,
           "eng": 9
         }
       },
@@ -6557,7 +6559,7 @@
         },
         "2026-10-15": {
           "total": 27,
-          "eng": 3
+          "eng": 2
         }
       },
       "pm": {
@@ -6587,8 +6589,7 @@
           "ids": [
             "greenhouse-razorpaysoftwareprivatelimited-4736585005"
           ],
-          "lastSeen": "2026-10-08",
-          "closedOn": "2026-10-09"
+          "lastSeen": "2026-10-15"
         }
       }
     },
@@ -6914,7 +6915,7 @@
         },
         "2026-10-15": {
           "total": 100,
-          "eng": 42
+          "eng": 40
         }
       },
       "pm": {
@@ -7003,7 +7004,8 @@
             "smartrecruiters-ServiceNow-744000153663349",
             "smartrecruiters-ServiceNow-744000154774511"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-15",
+          "closedOn": "2026-10-15"
         },
         "sr staff product manager network security": {
           "ids": [
@@ -7099,6 +7101,18 @@
             "smartrecruiters-ServiceNow-744000155472964"
           ],
           "lastSeen": "2026-10-15"
+        },
+        "staff inbound product manager ai evaluation tools": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000155796579"
+          ],
+          "lastSeen": "2026-10-15"
+        },
+        "staff inbound product manager platform and ai innovation solutions": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000155792153"
+          ],
+          "lastSeen": "2026-10-15"
         }
       }
     },
@@ -7166,7 +7180,7 @@
         },
         "2026-10-15": {
           "total": 143,
-          "eng": 76
+          "eng": 77
         }
       },
       "pm": {
@@ -7451,8 +7465,8 @@
           "eng": 85
         },
         "2026-10-15": {
-          "total": 98,
-          "eng": 84
+          "total": 97,
+          "eng": 83
         }
       },
       "pm": {}
@@ -7590,16 +7604,17 @@
         },
         "2026-10-15": {
           "total": 100,
-          "eng": 5
+          "eng": 6,
+          "spike": true
         }
       },
       "pm": {
         "product manager i": {
           "ids": [
-            "smartrecruiters-swiggy-6000000001420615"
+            "smartrecruiters-swiggy-6000000001420615",
+            "smartrecruiters-swiggy-6000000001491459"
           ],
-          "lastSeen": "2026-10-07",
-          "closedOn": "2026-10-07"
+          "lastSeen": "2026-10-15"
         }
       }
     },
@@ -7880,8 +7895,8 @@
           "eng": 34
         },
         "2026-10-15": {
-          "total": 101,
-          "eng": 35
+          "total": 104,
+          "eng": 37
         }
       },
       "pm": {
@@ -7989,7 +8004,7 @@
           "eng": 2
         },
         "2026-10-15": {
-          "total": 20,
+          "total": 19,
           "eng": 2
         }
       },
@@ -8296,7 +8311,7 @@
           "eng": 8
         },
         "2026-10-15": {
-          "total": 26,
+          "total": 24,
           "eng": 8
         }
       },
@@ -8305,7 +8320,8 @@
           "ids": [
             "lever-zeta-8623c195-f912-4d87-952f-7114cd258413"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-15",
+          "closedOn": "2026-10-15"
         },
         "product manager ii": {
           "ids": [
@@ -8546,7 +8562,7 @@
         },
         "2026-10-15": {
           "total": 60,
-          "eng": 12
+          "eng": 11
         }
       },
       "pm": {
@@ -8644,8 +8660,8 @@
           "eng": 25
         },
         "2026-10-15": {
-          "total": 79,
-          "eng": 25
+          "total": 80,
+          "eng": 26
         }
       },
       "pm": {
@@ -8710,6 +8726,12 @@
         "data product management consultant": {
           "ids": [
             "workday-wf-/job/Bengaluru-India/Data-Product-Management-Consultant_R-579868"
+          ],
+          "lastSeen": "2026-10-15"
+        },
+        "product owner securities and prime services delivery": {
+          "ids": [
+            "workday-wf-/job/Bengaluru-India/Product-Owner--Securities-and-Prime-Services-Delivery--VP-_R-577678-1"
           ],
           "lastSeen": "2026-10-15"
         }
@@ -8856,7 +8878,7 @@
         },
         "2026-10-15": {
           "total": 200,
-          "eng": 123,
+          "eng": 147,
           "spike": true
         }
       },
@@ -8971,8 +8993,8 @@
           "eng": 45
         },
         "2026-10-15": {
-          "total": 77,
-          "eng": 46
+          "total": 78,
+          "eng": 47
         }
       },
       "pm": {
@@ -9384,7 +9406,7 @@
         },
         "2026-10-15": {
           "total": 896,
-          "eng": 574
+          "eng": 575
         }
       },
       "pm": {
@@ -10398,7 +10420,7 @@
           "eng": 167
         },
         "2026-10-15": {
-          "total": 400,
+          "total": 401,
           "eng": 164
         }
       },
@@ -10552,8 +10574,8 @@
           "eng": 33
         },
         "2026-10-15": {
-          "total": 64,
-          "eng": 33
+          "total": 63,
+          "eng": 32
         }
       },
       "pm": {
@@ -10875,7 +10897,7 @@
         },
         "2026-10-15": {
           "total": 200,
-          "eng": 127
+          "eng": 126
         }
       },
       "pm": {
@@ -10967,8 +10989,8 @@
           "eng": 41
         },
         "2026-10-15": {
-          "total": 136,
-          "eng": 42
+          "total": 132,
+          "eng": 41
         }
       },
       "pm": {
@@ -11072,8 +11094,8 @@
           "eng": 195
         },
         "2026-10-15": {
-          "total": 612,
-          "eng": 194
+          "total": 619,
+          "eng": 196
         }
       },
       "pm": {
@@ -11433,8 +11455,8 @@
           "eng": 176
         },
         "2026-10-15": {
-          "total": 357,
-          "eng": 177
+          "total": 359,
+          "eng": 179
         }
       },
       "pm": {
@@ -11478,7 +11500,8 @@
           "ids": [
             "ashby-snowflake-61d48d79-aeb8-45fb-806a-5b6e9f625de7"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-15",
+          "closedOn": "2026-10-15"
         },
         "director product management snowflake transactions": {
           "ids": [
@@ -11635,7 +11658,7 @@
           "eng": 34
         },
         "2026-10-15": {
-          "total": 103,
+          "total": 104,
           "eng": 34
         }
       },
@@ -11842,7 +11865,7 @@
           "eng": 19
         },
         "2026-10-15": {
-          "total": 374,
+          "total": 375,
           "eng": 19
         }
       },

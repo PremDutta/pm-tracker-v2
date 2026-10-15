@@ -41,11 +41,34 @@
     },
     {
       "type": "funding",
+      "company": "Origin",
+      "title": "Construction robotics startup Origin raises $20 Mn led by Accel, Zacua Ventures",
+      "url": "https://entrackr.com/news/construction-robotics-startup-origin-raises-20-mn-led-by-accel-zacua-ventures-12680062",
+      "date": "2026-10-15",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
       "company": "Shamrock AI",
       "title": "Enterprise AI startup Shamrock AI raises $5 Mn led by Endiya Partners",
       "url": "https://entrackr.com/snippets/enterprise-ai-startup-shamrock-ai-raises-5-mn-led-by-endiya-partners-12677254",
       "date": "2026-10-15",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Swiggy",
+      "date": "2026-10-15",
+      "detail": "6 engineering openings vs a usual 1"
+    },
+    {
+      "type": "reopened",
+      "company": "Swiggy",
+      "date": "2026-10-15",
+      "title": "Product Manager I",
+      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001491459",
+      "id": "smartrecruiters-swiggy-6000000001491459",
+      "detail": "closed 2026-10-07, reposted today"
     },
     {
       "type": "eng_spike",

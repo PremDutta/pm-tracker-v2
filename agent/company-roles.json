@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-15T10:58:48.117Z",
+  "scannedAt": "2026-10-15T16:26:57.679Z",
   "roles": {
     "Amazon": [
       {
@@ -713,6 +713,14 @@
         "firstSeen": "2026-10-08"
       },
       {
+        "id": "sf-careers.hcltech.com-181759",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/181759-en_US/",
+        "level": "group",
+        "firstSeen": "2026-10-15"
+      },
+      {
         "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -899,14 +907,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
         "level": "pm",
         "firstSeen": "2026-10-15"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210792979",
-        "title": "Product Manager - Liquidity & Account Solutions Product Development – Vice President",
-        "location": "Mumbai, Maharashtra, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792979",
-        "level": "leadership",
-        "firstSeen": "2026-10-08"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210790718",
@@ -1135,31 +1135,23 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "lever-meesho-b56573f0-c701-422a-abfa-ac8bbdbfa645",
-        "title": "Product Manager II - Growth (Anchit)",
-        "location": "Bangalore, Karnataka",
-        "url": "https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
-      },
-      {
         "id": "lever-meesho-97ce9e5a-a8bb-446d-a8db-9078603b106f",
         "title": "Senior Product Manager - Data & Analytics Platform",
         "location": "Bangalore, Karnataka",
         "url": "https://jobs.lever.co/meesho/97ce9e5a-a8bb-446d-a8db-9078603b106f",
         "level": "senior",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "lever-meesho-102d5a7e-0292-4ddc-8ebc-ba191119349e",
-        "title": "Senior Product Manager : F&E",
-        "location": "Bangalore, Karnataka",
-        "url": "https://jobs.lever.co/meesho/102d5a7e-0292-4ddc-8ebc-ba191119349e",
-        "level": "senior",
-        "firstSeen": "2026-10-14"
       }
     ],
     "Microsoft": [
+      {
+        "id": "eightfold-microsoft.com-1970393556944984",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
       {
         "id": "eightfold-microsoft.com-1970393556911401",
         "title": "Principal Product Manager",
@@ -1173,14 +1165,6 @@
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393556944984",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1217,6 +1201,14 @@
         "firstSeen": "2026-10-06"
       },
       {
+        "id": "eightfold-microsoft.com-1970393557037770",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "level": "senior",
+        "firstSeen": "2026-10-15"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557016611",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
@@ -1231,14 +1223,6 @@
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556971850",
         "level": "senior",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557037770",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
-        "level": "senior",
-        "firstSeen": "2026-10-15"
       }
     ],
     "Mihup": [
@@ -1639,6 +1623,14 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
         "level": "pm",
         "firstSeen": "2026-10-14"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
+        "level": "senior",
+        "firstSeen": "2026-10-15"
       }
     ],
     "Rippling": [
@@ -1775,6 +1767,24 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "ServiceNow": [
+      {
+        "id": "smartrecruiters-ServiceNow-744000155796579",
+        "title": "Staff Inbound Product Manager - AI Evaluation Tools",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155796579",
+        "level": "group",
+        "firstSeen": "2026-10-15"
+      },
+      {
+        "id": "smartrecruiters-ServiceNow-744000155792153",
+        "title": "Staff Inbound Product Manager – Platform and AI Innovation Solutions",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155792153",
+        "level": "group",
+        "firstSeen": "2026-10-15"
+      }
+    ],
     "Sigmoid": [
       {
         "id": "greenhouse-sigmoid-8041196002",
@@ -1845,6 +1855,16 @@
         "url": "https://spyneai.keka.com/careers/jobdetails/136045",
         "level": "senior",
         "firstSeen": "2026-10-06"
+      }
+    ],
+    "Swiggy": [
+      {
+        "id": "smartrecruiters-swiggy-6000000001491459",
+        "title": "Product Manager I",
+        "location": "Bengaluru, KA, India",
+        "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001491459",
+        "level": "pm",
+        "firstSeen": "2026-10-15"
       }
     ],
     "Target India": [
@@ -1925,6 +1945,14 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
         "level": "group",
         "firstSeen": "2026-10-14"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Product-Owner--Securities-and-Prime-Services-Delivery--VP-_R-577678-1",
+        "title": "Product Owner: Securities and Prime Services Delivery (VP)",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Securities-and-Prime-Services-Delivery--VP-_R-577678-1",
+        "level": "leadership",
+        "firstSeen": "2026-10-15"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -2075,28 +2103,12 @@
     ],
     "Zeta": [
       {
-        "id": "lever-zeta-8623c195-f912-4d87-952f-7114cd258413",
-        "title": "Product Manager I",
-        "location": "Bangalore - EC",
-        "url": "https://jobs.lever.co/zeta/8623c195-f912-4d87-952f-7114cd258413",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "lever-zeta-632d6320-6db1-4504-8640-a89aed0bbd2b",
         "title": "Product Manager II",
         "location": "Bangalore",
         "url": "https://jobs.lever.co/zeta/632d6320-6db1-4504-8640-a89aed0bbd2b",
         "level": "pm",
         "firstSeen": "2026-10-01"
-      },
-      {
-        "id": "lever-zeta-dbefd5b1-cc6a-4fe6-86d8-89800acee903",
-        "title": "Product Manager II",
-        "location": "Bangalore - EC",
-        "url": "https://jobs.lever.co/zeta/dbefd5b1-cc6a-4fe6-86d8-89800acee903",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Zetwerk": [
