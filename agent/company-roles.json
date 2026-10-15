@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-15T16:26:57.679Z",
+  "scannedAt": "2026-10-15T21:00:59.704Z",
   "roles": {
     "Amazon": [
       {
@@ -1769,6 +1769,14 @@
     ],
     "ServiceNow": [
       {
+        "id": "smartrecruiters-ServiceNow-744000155819829",
+        "title": "Sr Staff Inbound Product Manager",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155819829",
+        "level": "group",
+        "firstSeen": "2026-10-15"
+      },
+      {
         "id": "smartrecruiters-ServiceNow-744000155796579",
         "title": "Staff Inbound Product Manager - AI Evaluation Tools",
         "location": "Hyderabad, Telangana, India",
@@ -1983,6 +1991,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.wipro.com-198488",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "sf-careers.wipro.com-198487",
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
@@ -1995,14 +2011,6 @@
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198486-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.wipro.com-198488",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       }

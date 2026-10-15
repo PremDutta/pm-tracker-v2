@@ -3067,6 +3067,24 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Securities-and-Prime-Services-Delivery--VP-_R-577678-1",
       "source": "Workday (Wells Fargo)",
       "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000155819829",
+      "title": "Sr Staff Inbound Product Manager",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155819829",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-16"
+    },
+    {
+      "id": "vc-accel-97046915",
+      "title": "Director, Product Management",
+      "company": "Webroot",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.opentext.com/us/en/job/53997",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-16"
     }
   ],
   "signals": [
@@ -3222,6 +3240,15 @@
       "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001491459",
       "id": "smartrecruiters-swiggy-6000000001491459",
       "detail": "closed 2026-10-07, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-15",
+      "title": "Sr Staff Inbound Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155819829",
+      "id": "smartrecruiters-ServiceNow-744000155819829",
+      "detail": "closed 2026-10-15, reposted today"
     }
   ],
   "reminders": {}
