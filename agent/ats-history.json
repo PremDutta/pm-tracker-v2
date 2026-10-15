@@ -417,8 +417,8 @@
           "eng": 30
         },
         "2026-10-15": {
-          "total": 63,
-          "eng": 30
+          "total": 61,
+          "eng": 28
         }
       },
       "pm": {}
@@ -1475,8 +1475,7 @@
           "ids": [
             "ashby-elevenlabs-7389c057-3e25-4e7a-8a03-5e80f40a15a0"
           ],
-          "lastSeen": "2026-10-09",
-          "closedOn": "2026-10-09"
+          "lastSeen": "2026-10-15"
         }
       }
     },
@@ -1958,7 +1957,7 @@
         },
         "2026-10-15": {
           "total": 804,
-          "eng": 414
+          "eng": 413
         }
       },
       "pm": {
@@ -2682,7 +2681,7 @@
           "eng": 8
         },
         "2026-10-15": {
-          "total": 58,
+          "total": 59,
           "eng": 8
         }
       },
@@ -3383,7 +3382,7 @@
           "eng": 2
         },
         "2026-10-15": {
-          "total": 25,
+          "total": 24,
           "eng": 2
         }
       },
@@ -3680,7 +3679,7 @@
           "eng": 6
         },
         "2026-10-15": {
-          "total": 143,
+          "total": 145,
           "eng": 6
         }
       },
@@ -3756,8 +3755,8 @@
           "eng": 14
         },
         "2026-10-15": {
-          "total": 34,
-          "eng": 14
+          "total": 33,
+          "eng": 15
         }
       },
       "pm": {
@@ -3838,7 +3837,7 @@
           "eng": 5
         },
         "2026-10-15": {
-          "total": 11,
+          "total": 10,
           "eng": 5
         }
       },
@@ -3953,7 +3952,8 @@
         },
         "senior product manager amazon now": {
           "ids": [
-            "amazon-10431401"
+            "amazon-10431401",
+            "amazon-10576706"
           ],
           "lastSeen": "2026-10-15"
         },
@@ -4557,7 +4557,7 @@
           "eng": 24
         },
         "2026-10-15": {
-          "total": 75,
+          "total": 77,
           "eng": 24
         }
       },
@@ -5257,7 +5257,7 @@
           "eng": 21
         },
         "2026-10-15": {
-          "total": 66,
+          "total": 65,
           "eng": 21
         }
       },
@@ -5273,7 +5273,8 @@
           "ids": [
             "workday-adobe-/job/Noida/Senior-Product-Manager_R167941"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-15",
+          "closedOn": "2026-10-15"
         },
         "internal product manager 3 sales performance management": {
           "ids": [
@@ -5361,7 +5362,8 @@
       "pm": {
         "product manager product lead": {
           "ids": [
-            "sf-careers.hcltech.com-172343"
+            "sf-careers.hcltech.com-172343",
+            "sf-careers.hcltech.com-178491"
           ],
           "lastSeen": "2026-10-15"
         },
@@ -5580,8 +5582,8 @@
           "eng": 13
         },
         "2026-10-15": {
-          "total": 28,
-          "eng": 13
+          "total": 27,
+          "eng": 12
         }
       },
       "pm": {
@@ -5669,7 +5671,7 @@
         },
         "2026-10-15": {
           "total": 100,
-          "eng": 32
+          "eng": 33
         }
       },
       "pm": {
@@ -5928,7 +5930,7 @@
         },
         "2026-10-15": {
           "total": 100,
-          "eng": 5
+          "eng": 9
         }
       },
       "pm": {}
@@ -6149,8 +6151,8 @@
           "spike": true
         },
         "2026-10-15": {
-          "total": 4,
-          "eng": 1
+          "total": 7,
+          "eng": 4
         }
       },
       "pm": {}
@@ -6294,7 +6296,7 @@
           "eng": 9
         },
         "2026-10-15": {
-          "total": 182,
+          "total": 181,
           "eng": 9
         }
       },
@@ -6442,7 +6444,7 @@
           "eng": 23
         },
         "2026-10-15": {
-          "total": 98,
+          "total": 100,
           "eng": 23
         }
       },
@@ -6548,7 +6550,7 @@
           "eng": 3
         },
         "2026-10-15": {
-          "total": 28,
+          "total": 29,
           "eng": 3
         }
       },
@@ -7030,7 +7032,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000154532199"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-15",
+          "closedOn": "2026-10-15"
         },
         "senior staff inbound product manager agentic ai platform moveworks": {
           "ids": [
@@ -7155,8 +7158,8 @@
           "eng": 73
         },
         "2026-10-15": {
-          "total": 139,
-          "eng": 73
+          "total": 142,
+          "eng": 75
         }
       },
       "pm": {
@@ -7579,7 +7582,7 @@
         },
         "2026-10-15": {
           "total": 100,
-          "eng": 4
+          "eng": 5
         }
       },
       "pm": {
@@ -7978,7 +7981,7 @@
           "eng": 2
         },
         "2026-10-15": {
-          "total": 18,
+          "total": 19,
           "eng": 2
         }
       },
@@ -8093,7 +8096,7 @@
           "eng": 7
         },
         "2026-10-15": {
-          "total": 56,
+          "total": 55,
           "eng": 7
         }
       },
@@ -8182,7 +8185,7 @@
         },
         "2026-10-15": {
           "total": 29,
-          "eng": 8
+          "eng": 9
         }
       },
       "pm": {
@@ -8369,7 +8372,7 @@
         },
         "2026-10-15": {
           "total": 79,
-          "eng": 46
+          "eng": 47
         }
       },
       "pm": {
@@ -8633,8 +8636,8 @@
           "eng": 25
         },
         "2026-10-15": {
-          "total": 71,
-          "eng": 25
+          "total": 75,
+          "eng": 27
         }
       },
       "pm": {
@@ -8767,8 +8770,8 @@
           "eng": 42
         },
         "2026-10-15": {
-          "total": 82,
-          "eng": 42
+          "total": 86,
+          "eng": 43
         }
       },
       "pm": {}
@@ -8845,7 +8848,8 @@
         },
         "2026-10-15": {
           "total": 200,
-          "eng": 45
+          "eng": 134,
+          "spike": true
         }
       },
       "pm": {
@@ -8854,7 +8858,8 @@
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-15",
+          "closedOn": "2026-10-15"
         },
         "product management analyst": {
           "ids": [
@@ -8867,7 +8872,8 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-15",
+          "closedOn": "2026-10-15"
         },
         "ai product management practitioner": {
           "ids": [
@@ -8954,6 +8960,10 @@
         "2026-10-14": {
           "total": 75,
           "eng": 45
+        },
+        "2026-10-15": {
+          "total": 76,
+          "eng": 45
         }
       },
       "pm": {
@@ -8961,13 +8971,13 @@
           "ids": [
             "eightfold-qualcomm.com-446721309717"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-15"
         },
         "staff director ai hw product management": {
           "ids": [
             "eightfold-qualcomm.com-446717846060"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-15"
         }
       }
     },
@@ -9028,6 +9038,10 @@
         "2026-10-14": {
           "total": 72,
           "eng": 35
+        },
+        "2026-10-15": {
+          "total": 71,
+          "eng": 34
         }
       },
       "pm": {
@@ -9037,7 +9051,7 @@
             "eightfold-microsoft.com-1970393556971850",
             "eightfold-microsoft.com-1970393557016561"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-15"
         },
         "principal product manager": {
           "ids": [
@@ -9047,7 +9061,7 @@
             "eightfold-microsoft.com-1970393556999250",
             "eightfold-microsoft.com-1970393556911401"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-15"
         },
         "product manager ii": {
           "ids": [
@@ -9055,7 +9069,7 @@
             "eightfold-microsoft.com-1970393557016594",
             "eightfold-microsoft.com-1970393557038894"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-15"
         },
         "principal product management": {
           "ids": [
@@ -9068,7 +9082,7 @@
           "ids": [
             "eightfold-microsoft.com-1970393556978896"
           ],
-          "lastSeen": "2026-10-14"
+          "lastSeen": "2026-10-15"
         }
       }
     },
@@ -9360,8 +9374,8 @@
           "eng": 573
         },
         "2026-10-15": {
-          "total": 893,
-          "eng": 573
+          "total": 891,
+          "eng": 571
         }
       },
       "pm": {
@@ -9592,8 +9606,8 @@
           "eng": 20
         },
         "2026-10-15": {
-          "total": 37,
-          "eng": 20
+          "total": 38,
+          "eng": 21
         }
       },
       "pm": {
@@ -9832,8 +9846,8 @@
           "eng": 10
         },
         "2026-10-15": {
-          "total": 28,
-          "eng": 10
+          "total": 27,
+          "eng": 9
         }
       },
       "pm": {
@@ -9952,8 +9966,8 @@
           "eng": 32
         },
         "2026-10-15": {
-          "total": 65,
-          "eng": 32
+          "total": 64,
+          "eng": 31
         }
       },
       "pm": {
@@ -10777,8 +10791,8 @@
           "eng": 37
         },
         "2026-10-15": {
-          "total": 87,
-          "eng": 37
+          "total": 88,
+          "eng": 38
         }
       },
       "pm": {
@@ -10852,7 +10866,7 @@
         },
         "2026-10-15": {
           "total": 200,
-          "eng": 126
+          "eng": 127
         }
       },
       "pm": {
@@ -10890,7 +10904,8 @@
           "ids": [
             "workday-hpe-/job/Bengaluru-Karntaka-India/Senior-Technical-Product-Manager_1215737"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-15",
+          "closedOn": "2026-10-15"
         },
         "people care transformation improvement scalability product manager": {
           "ids": [
@@ -10943,8 +10958,8 @@
           "eng": 41
         },
         "2026-10-15": {
-          "total": 136,
-          "eng": 41
+          "total": 135,
+          "eng": 42
         }
       },
       "pm": {
@@ -11048,8 +11063,8 @@
           "eng": 195
         },
         "2026-10-15": {
-          "total": 611,
-          "eng": 194
+          "total": 612,
+          "eng": 195
         }
       },
       "pm": {
@@ -11175,6 +11190,12 @@
             "rippling-rippling-f8aeff93-84a4-440b-a3b2-f9e5ccc3f82f"
           ],
           "lastSeen": "2026-10-15"
+        },
+        "product lead analytics": {
+          "ids": [
+            "rippling-rippling-1b2bd0fa-cfd3-4774-8c8f-7c00685f3476"
+          ],
+          "lastSeen": "2026-10-15"
         }
       }
     },
@@ -11284,8 +11305,8 @@
           "eng": 8
         },
         "2026-10-15": {
-          "total": 36,
-          "eng": 8
+          "total": 35,
+          "eng": 7
         }
       },
       "pm": {
@@ -11340,7 +11361,7 @@
           "eng": 1
         },
         "2026-10-15": {
-          "total": 5,
+          "total": 6,
           "eng": 1
         }
       },
@@ -11605,7 +11626,7 @@
           "eng": 34
         },
         "2026-10-15": {
-          "total": 102,
+          "total": 103,
           "eng": 34
         }
       },
@@ -11892,7 +11913,7 @@
           "eng": 4
         },
         "2026-10-15": {
-          "total": 17,
+          "total": 16,
           "eng": 4
         }
       },
@@ -11948,7 +11969,7 @@
           "eng": 11
         },
         "2026-10-15": {
-          "total": 19,
+          "total": 20,
           "eng": 11
         }
       },

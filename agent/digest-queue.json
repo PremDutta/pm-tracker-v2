@@ -2950,6 +2950,24 @@
       "url": "https://jobs.lever.co/meesho/102d5a7e-0292-4ddc-8ebc-ba191119349e",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "sf-careers.hcltech.com-178491",
+      "title": "Product Manager/ Product Lead",
+      "company": "HCLTech",
+      "location": "Pune",
+      "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/178491-en_US/",
+      "source": "HCLTech careers",
+      "queuedOn": "2026-10-15"
+    },
+    {
+      "id": "rippling-rippling-1b2bd0fa-cfd3-4774-8c8f-7c00685f3476",
+      "title": "Product Lead, Analytics",
+      "company": "Rippling",
+      "location": "Bangalore, India",
+      "url": "https://ats.rippling.com/rippling/jobs/1b2bd0fa-cfd3-4774-8c8f-7c00685f3476",
+      "source": "Rippling (Rippling)",
+      "queuedOn": "2026-10-15"
     }
   ],
   "signals": [
@@ -3075,6 +3093,12 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155597390",
       "id": "smartrecruiters-ServiceNow-744000155597390",
       "detail": "closed 2026-10-06, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-15",
+      "detail": "134 engineering openings vs a usual 36"
     }
   ],
   "reminders": {}

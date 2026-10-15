@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-15T03:30:48.431Z",
+  "scannedAt": "2026-10-15T07:39:05.445Z",
   "roles": {
     "Amazon": [
       {
@@ -211,20 +211,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10431401",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10576706",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "amazon-10431401",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10499561",
@@ -673,6 +673,14 @@
         "firstSeen": "2026-10-14"
       },
       {
+        "id": "sf-careers.hcltech.com-178491",
+        "title": "Product Manager/ Product Lead",
+        "location": "Pune",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/178491-en_US/",
+        "level": "group",
+        "firstSeen": "2026-10-15"
+      },
+      {
         "id": "sf-careers.hcltech.com-172343",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -697,18 +705,18 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -797,14 +805,6 @@
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager--DCN_1197630-2",
         "level": "pm",
         "firstSeen": "2026-10-05"
-      },
-      {
-        "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Senior-Technical-Product-Manager_1215737",
-        "title": "Senior Technical Product Manager",
-        "location": "Bengaluru, Karnātaka, India",
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Senior-Technical-Product-Manager_1215737",
-        "level": "senior",
-        "firstSeen": "2026-10-07"
       },
       {
         "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1",
@@ -1137,14 +1137,6 @@
     ],
     "Microsoft": [
       {
-        "id": "eightfold-microsoft.com-1970393556911401",
-        "title": "Principal Product Manager",
-        "location": "India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393556944984",
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad",
@@ -1157,6 +1149,14 @@
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556911401",
+        "title": "Principal Product Manager",
+        "location": "India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1193,20 +1193,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557016561",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
-        "level": "senior",
-        "firstSeen": "2026-10-06"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557016611",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
         "level": "senior",
         "firstSeen": "2026-10-07"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557016561",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+        "level": "senior",
+        "firstSeen": "2026-10-06"
       }
     ],
     "Mihup": [
@@ -1619,6 +1619,14 @@
         "firstSeen": "2026-10-05"
       },
       {
+        "id": "rippling-rippling-1b2bd0fa-cfd3-4774-8c8f-7c00685f3476",
+        "title": "Product Lead, Analytics",
+        "location": "Bangalore, India",
+        "url": "https://ats.rippling.com/rippling/jobs/1b2bd0fa-cfd3-4774-8c8f-7c00685f3476",
+        "level": "group",
+        "firstSeen": "2026-10-15"
+      },
+      {
         "id": "rippling-rippling-9276fd2e-0929-4843-9f5e-c7b7bb9119ab",
         "title": "Product Lead, Benefits Marketplace & PEO",
         "location": "Bangalore, India",
@@ -1809,14 +1817,6 @@
     ],
     "Target India": [
       {
-        "id": "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
-        "title": "Principal Product Manager",
-        "location": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
-        "level": "group",
-        "firstSeen": "2026-10-14"
-      },
-      {
         "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
         "title": "Principal Product Manager",
         "location": "Bangalore,India",
@@ -1915,14 +1915,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.wipro.com-198488",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.wipro.com-198487",
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
@@ -1935,6 +1927,14 @@
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198486-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.wipro.com-198488",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       }
@@ -2126,7 +2126,7 @@
     "Mastercard": "2026-10-15",
     "Meesho": "2026-10-15",
     "Mensa Brands (BRND.ME)": "2026-10-15",
-    "Microsoft": "2026-10-14",
+    "Microsoft": "2026-10-15",
     "Mihup": "2026-10-15",
     "Mindtickle": "2026-10-15",
     "MongoDB": "2026-10-15",
@@ -2154,7 +2154,7 @@
     "Polygon Labs": "2026-10-15",
     "Postman": "2026-10-15",
     "PwC India": "2026-10-15",
-    "Qualcomm": "2026-10-14",
+    "Qualcomm": "2026-10-15",
     "Ramp": "2026-10-15",
     "Razorpay": "2026-10-15",
     "Rippling": "2026-10-15",

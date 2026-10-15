@@ -3,6 +3,36 @@
     {
       "type": "eng_spike",
       "company": "Accenture",
+      "date": "2026-10-15",
+      "detail": "134 engineering openings vs a usual 36"
+    },
+    {
+      "type": "funding",
+      "company": "Confido Health",
+      "title": "Z47 leads $12.5 Mn Series A round in Confido Health",
+      "url": "https://entrackr.com/news/z47-leads-125-mn-series-a-round-in-confido-health-12677262",
+      "date": "2026-10-15",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Cosmochute",
+      "title": "Space robotics startup Cosmochute raises $1.5 Mn in pre-seed round",
+      "url": "https://entrackr.com/snippets/space-robotics-startup-cosmochute-raises-15-mn-in-pre-seed-round-12677383",
+      "date": "2026-10-15",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Shamrock AI",
+      "title": "Enterprise AI startup Shamrock AI raises $5 Mn led by Endiya Partners",
+      "url": "https://entrackr.com/snippets/enterprise-ai-startup-shamrock-ai-raises-5-mn-led-by-endiya-partners-12677254",
+      "date": "2026-10-15",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
       "date": "2026-10-14",
       "detail": "128 engineering openings vs a usual 36"
     },
