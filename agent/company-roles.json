@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-16T10:51:11.139Z",
+  "scannedAt": "2026-10-16T16:12:22.536Z",
   "roles": {
     "Amazon": [
       {
@@ -75,18 +75,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10538234",
-        "title": "Product Manager-Tech III, Finance Automation",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10538234/product-manager-tech-iii-finance-automation",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10442269",
         "title": "Product Manager-Tech III, Finance Automation",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10442269/product-manager-tech-iii-finance-automation",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10538234",
+        "title": "Product Manager-Tech III, Finance Automation",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10538234/product-manager-tech-iii-finance-automation",
         "level": "pm",
         "firstSeen": "2026-09-30"
       },
@@ -575,14 +575,6 @@
         "url": "https://gokwik.keka.com/careers/jobdetails/166740",
         "level": "pm",
         "firstSeen": "2026-10-15"
-      },
-      {
-        "id": "keka-gokwik-150448",
-        "title": "Senior Product Manager",
-        "location": "Bangalore",
-        "url": "https://gokwik.keka.com/careers/jobdetails/150448",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Gushwork": [
@@ -713,22 +705,6 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -741,6 +717,22 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1109,6 +1101,14 @@
         "url": "https://jobs.lever.co/meesho/4891a891-f431-4e98-99ae-0e31a21f0190",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "lever-meesho-494d8ba6-22b6-467f-837b-8af9c1aee377",
+        "title": "Product Manager I",
+        "location": "Bangalore, Karnataka",
+        "url": "https://jobs.lever.co/meesho/494d8ba6-22b6-467f-837b-8af9c1aee377",
+        "level": "pm",
+        "firstSeen": "2026-10-16"
       },
       {
         "id": "lever-meesho-97ce9e5a-a8bb-446d-a8db-9078603b106f",
@@ -1825,6 +1825,14 @@
     ],
     "Target India": [
       {
+        "id": "workday-target-/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
+        "title": "Director Product Management",
+        "location": "Bangalore,India",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
+        "level": "leadership",
+        "firstSeen": "2026-10-16"
+      },
+      {
         "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
         "title": "Principal Product Manager",
         "location": "Bangalore,India",
@@ -1911,6 +1919,14 @@
         "firstSeen": "2026-10-14"
       },
       {
+        "id": "workday-wf-/job/Bengaluru-India/Product-Owner--Market-Maker---Options-Clearing--VP-_R-581179-1",
+        "title": "Product Owner: Market Maker & Options Clearing (VP)",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Market-Maker---Options-Clearing--VP-_R-581179-1",
+        "level": "leadership",
+        "firstSeen": "2026-10-16"
+      },
+      {
         "id": "workday-wf-/job/Bengaluru-India/Product-Owner--Securities-and-Prime-Services-Delivery--VP-_R-577678-1",
         "title": "Product Owner: Securities and Prime Services Delivery (VP)",
         "location": "Bengaluru, India",
@@ -1930,6 +1946,14 @@
       }
     ],
     "Wipro": [
+      {
+        "id": "sf-careers.wipro.com-203003",
+        "title": "Associate Product Manager - AI-Powered Enterprise Document Management & Content Intelligence",
+        "location": "Hyderabad, IND-36, IND, 500032<br/>",
+        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Enterprise-Document-Management-&amp;-Content-Intelligence/203003-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-16"
+      },
       {
         "id": "sf-careers.wipro.com-203010",
         "title": "Associate Product Manager - AI-Powered Property Appraisal Platform",

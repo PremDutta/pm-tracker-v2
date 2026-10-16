@@ -23,17 +23,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "eightfold-qualcomm.com-446717846060",
-      "title": "Staff/Director – AI HW Product Management",
-      "company": "Qualcomm",
-      "location": "Bangalore, India",
-      "url": "https://careers.qualcomm.com/careers/job/446717846060",
-      "source": "Qualcomm careers",
-      "level": "leadership",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "vc-peakxv-25493",
       "title": "Principal Product Manager, AI",
       "company": "SaaS Labs",
@@ -62,6 +51,17 @@
       "location": "Noida, UP, India",
       "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
       "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "sf-careers.wipro.com-203003",
+      "title": "Associate Product Manager - AI-Powered Enterprise Document Management & Content Intelligence",
+      "company": "Wipro",
+      "location": "Hyderabad, IND-36, IND, 500032<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Enterprise-Document-Management-&amp;-Content-Intelligence/203003-en_US/",
+      "source": "Wipro careers",
       "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-16"
@@ -390,7 +390,7 @@
       "title": "Senior Product Manager, Map Intelligence, Google Maps Platform",
       "company": "Google",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/84477310756889286-senior-product-manager-map-intelligence-google-maps-platform?page=155",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84477310756889286-senior-product-manager-map-intelligence-google-maps-platform?page=156",
       "source": "VC board (Accel portfolio)",
       "level": "senior",
       "aiMatch": "title",

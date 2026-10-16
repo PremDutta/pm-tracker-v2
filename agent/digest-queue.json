@@ -3141,6 +3141,42 @@
       "deadline": null,
       "flags": [],
       "queuedOn": "2026-10-16"
+    },
+    {
+      "id": "lever-meesho-494d8ba6-22b6-467f-837b-8af9c1aee377",
+      "title": "Product Manager I",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/494d8ba6-22b6-467f-837b-8af9c1aee377",
+      "source": "Lever (Meesho)",
+      "queuedOn": "2026-10-16"
+    },
+    {
+      "id": "workday-target-/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
+      "title": "Director Product Management",
+      "company": "Target India",
+      "location": "Bangalore,India",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
+      "source": "Workday (Target India)",
+      "queuedOn": "2026-10-16"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Product-Owner--Market-Maker---Options-Clearing--VP-_R-581179-1",
+      "title": "Product Owner: Market Maker & Options Clearing (VP)",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Market-Maker---Options-Clearing--VP-_R-581179-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-16"
+    },
+    {
+      "id": "sf-careers.wipro.com-203003",
+      "title": "Associate Product Manager - AI-Powered Enterprise Document Management & Content Intelligence",
+      "company": "Wipro",
+      "location": "Hyderabad, IND-36, IND, 500032<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Enterprise-Document-Management-&amp;-Content-Intelligence/203003-en_US/",
+      "source": "Wipro careers",
+      "queuedOn": "2026-10-16"
     }
   ],
   "signals": [
@@ -3320,6 +3356,15 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
       "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
       "detail": "closed 2026-10-03, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Target India",
+      "date": "2026-10-16",
+      "title": "Director Product Management",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
+      "id": "workday-target-/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
+      "detail": "closed 2026-10-05, reposted today"
     }
   ],
   "reminders": {}
