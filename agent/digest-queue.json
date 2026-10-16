@@ -3249,6 +3249,12 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155819829",
       "id": "smartrecruiters-ServiceNow-744000155819829",
       "detail": "closed 2026-10-15, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-16",
+      "detail": "143 engineering openings vs a usual 36"
     }
   ],
   "reminders": {}

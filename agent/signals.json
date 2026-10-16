@@ -3,6 +3,12 @@
     {
       "type": "eng_spike",
       "company": "Accenture",
+      "date": "2026-10-16",
+      "detail": "143 engineering openings vs a usual 36"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
       "date": "2026-10-15",
       "detail": "134 engineering openings vs a usual 36"
     },
@@ -1040,14 +1046,6 @@
       "title": "VerifAIX raises $5M to tackle verification challenges in AI-driven chip design",
       "url": "https://yourstory.com/ai-story/verifaix-5m-tackle-verification-challenges-ai-driven-chip-design",
       "date": "2026-09-16",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Flam",
-      "title": "AI content startup Flam raises $40M from QED Investors, Shah Rukh Khan, and others",
-      "url": "https://yourstory.com/2026/09/ai-content-startup-flam-raises-series-b-qed-investors-shah-rukh-khan-others",
-      "date": "2026-09-15",
       "detail": "via YourStory"
     }
   ]
