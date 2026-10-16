@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-16T03:26:39.981Z",
+  "scannedAt": "2026-10-16T07:25:23.017Z",
   "roles": {
     "Amazon": [
       {
@@ -75,18 +75,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10442269",
-        "title": "Product Manager-Tech III, Finance Automation",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10442269/product-manager-tech-iii-finance-automation",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10538234",
         "title": "Product Manager-Tech III, Finance Automation",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10538234/product-manager-tech-iii-finance-automation",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10442269",
+        "title": "Product Manager-Tech III, Finance Automation",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10442269/product-manager-tech-iii-finance-automation",
         "level": "pm",
         "firstSeen": "2026-09-30"
       },
@@ -721,18 +721,18 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -877,14 +877,6 @@
         "firstSeen": "2026-10-11"
       },
       {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210783992",
-        "title": "Credit Monitoring - Product Owner- Vice President",
-        "location": "India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783992",
-        "level": "leadership",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210796604",
         "title": "Product Management -  Loan lifecycle and Platforms(LIQ) - Team Lead",
         "location": "Bengaluru, Karnataka, India",
@@ -893,12 +885,12 @@
         "firstSeen": "2026-10-14"
       },
       {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210784785",
-        "title": "Product Management - Transformation- Vice President",
-        "location": "Bengaluru, Karnataka, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784785",
-        "level": "leadership",
-        "firstSeen": "2026-09-30"
+        "id": "oracle-jpmc.fa.oraclecloud.com-210800513",
+        "title": "Product Manager",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800513",
+        "level": "pm",
+        "firstSeen": "2026-10-16"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210797096",
@@ -907,14 +899,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
         "level": "pm",
         "firstSeen": "2026-10-15"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210790718",
-        "title": "Product Owner-  Digital & Platform Services - Vice President",
-        "location": "Bengaluru, Karnataka, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790718",
-        "level": "leadership",
-        "firstSeen": "2026-09-30"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210796769",
@@ -1865,16 +1849,6 @@
         "firstSeen": "2026-10-06"
       }
     ],
-    "Swiggy": [
-      {
-        "id": "smartrecruiters-swiggy-6000000001491459",
-        "title": "Product Manager I",
-        "location": "Bengaluru, KA, India",
-        "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001491459",
-        "level": "pm",
-        "firstSeen": "2026-10-15"
-      }
-    ],
     "Target India": [
       {
         "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
@@ -1991,6 +1965,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.wipro.com-198488",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "sf-careers.wipro.com-198487",
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
@@ -2003,14 +1985,6 @@
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198486-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.wipro.com-198488",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/198488-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       }

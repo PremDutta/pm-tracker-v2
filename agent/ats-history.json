@@ -232,8 +232,8 @@
           "eng": 268
         },
         "2026-10-16": {
-          "total": 653,
-          "eng": 273
+          "total": 654,
+          "eng": 274
         }
       },
       "pm": {
@@ -1512,7 +1512,7 @@
           "eng": 48
         },
         "2026-10-16": {
-          "total": 153,
+          "total": 155,
           "eng": 48
         }
       },
@@ -2788,7 +2788,7 @@
           "eng": 8
         },
         "2026-10-16": {
-          "total": 58,
+          "total": 59,
           "eng": 8
         }
       },
@@ -3519,7 +3519,7 @@
           "eng": 2
         },
         "2026-10-16": {
-          "total": 24,
+          "total": 25,
           "eng": 2
         }
       },
@@ -3624,7 +3624,7 @@
           "eng": 31
         },
         "2026-10-16": {
-          "total": 81,
+          "total": 82,
           "eng": 31
         }
       },
@@ -3833,7 +3833,7 @@
           "eng": 6
         },
         "2026-10-16": {
-          "total": 145,
+          "total": 146,
           "eng": 6
         }
       },
@@ -3914,7 +3914,7 @@
         },
         "2026-10-16": {
           "total": 34,
-          "eng": 15
+          "eng": 16
         }
       },
       "pm": {
@@ -4649,7 +4649,7 @@
         },
         "2026-10-16": {
           "total": 100,
-          "eng": 37
+          "eng": 35
         }
       },
       "pm": {
@@ -4827,7 +4827,7 @@
           "eng": 5
         },
         "2026-10-16": {
-          "total": 28,
+          "total": 27,
           "eng": 5
         }
       },
@@ -5315,7 +5315,7 @@
         },
         "2026-10-16": {
           "total": 14,
-          "eng": 4
+          "eng": 3
         }
       },
       "pm": {}
@@ -5387,7 +5387,7 @@
           "eng": 31
         },
         "2026-10-16": {
-          "total": 47,
+          "total": 46,
           "eng": 31
         }
       },
@@ -5396,7 +5396,8 @@
           "ids": [
             "workday-fractal-/job/Gurgaon/Senior-Product-Owner_SR-41535-1"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         }
       }
     },
@@ -5467,8 +5468,8 @@
           "eng": 21
         },
         "2026-10-16": {
-          "total": 63,
-          "eng": 21
+          "total": 61,
+          "eng": 20
         }
       },
       "pm": {
@@ -5901,7 +5902,7 @@
         },
         "2026-10-16": {
           "total": 100,
-          "eng": 32
+          "eng": 29
         }
       },
       "pm": {
@@ -5909,13 +5910,15 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210790718"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "credit monitoring product owner vice president": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210783992"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "account ssi platform product owner vice president": {
           "ids": [
@@ -5935,7 +5938,8 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210784785"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "product manager business banking smb client frontline experiences": {
           "ids": [
@@ -5976,7 +5980,8 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210793227",
             "oracle-jpmc.fa.oraclecloud.com-210783031",
-            "oracle-jpmc.fa.oraclecloud.com-210797096"
+            "oracle-jpmc.fa.oraclecloud.com-210797096",
+            "oracle-jpmc.fa.oraclecloud.com-210800513"
           ],
           "lastSeen": "2026-10-16"
         },
@@ -6402,8 +6407,8 @@
           "eng": 2
         },
         "2026-10-16": {
-          "total": 6,
-          "eng": 3
+          "total": 4,
+          "eng": 1
         }
       },
       "pm": {}
@@ -6555,7 +6560,7 @@
           "eng": 9
         },
         "2026-10-16": {
-          "total": 182,
+          "total": 181,
           "eng": 9
         }
       },
@@ -6707,7 +6712,7 @@
           "eng": 23
         },
         "2026-10-16": {
-          "total": 99,
+          "total": 100,
           "eng": 23
         }
       },
@@ -7364,13 +7369,15 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000155319537"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "senior staff technical product manager conversational ai": {
           "ids": [
             "smartrecruiters-ServiceNow-744000155296769"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "director product management microsoft product partnership": {
           "ids": [
@@ -7393,6 +7400,12 @@
         "director product management security and risk partnerships": {
           "ids": [
             "smartrecruiters-ServiceNow-744000155831265"
+          ],
+          "lastSeen": "2026-10-16"
+        },
+        "senior director product creative direction": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000155904829"
           ],
           "lastSeen": "2026-10-16"
         }
@@ -7465,7 +7478,7 @@
           "eng": 75
         },
         "2026-10-16": {
-          "total": 139,
+          "total": 138,
           "eng": 75
         }
       },
@@ -7759,8 +7772,8 @@
           "eng": 83
         },
         "2026-10-16": {
-          "total": 97,
-          "eng": 83
+          "total": 95,
+          "eng": 81
         }
       },
       "pm": {}
@@ -7907,7 +7920,7 @@
         },
         "2026-10-16": {
           "total": 100,
-          "eng": 6
+          "eng": 5
         }
       },
       "pm": {
@@ -7916,7 +7929,8 @@
             "smartrecruiters-swiggy-6000000001420615",
             "smartrecruiters-swiggy-6000000001491459"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         }
       }
     },
@@ -8909,7 +8923,7 @@
         },
         "2026-10-16": {
           "total": 60,
-          "eng": 12
+          "eng": 11
         }
       },
       "pm": {
@@ -9011,7 +9025,7 @@
           "eng": 23
         },
         "2026-10-16": {
-          "total": 67,
+          "total": 70,
           "eng": 23
         }
       },
@@ -9155,7 +9169,7 @@
           "eng": 43
         },
         "2026-10-16": {
-          "total": 86,
+          "total": 88,
           "eng": 44
         }
       },
@@ -9237,8 +9251,8 @@
           "spike": true
         },
         "2026-10-16": {
-          "total": 199,
-          "eng": 143,
+          "total": 200,
+          "eng": 46,
           "spike": true
         }
       },
@@ -9248,8 +9262,7 @@
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1"
           ],
-          "lastSeen": "2026-10-15",
-          "closedOn": "2026-10-15"
+          "lastSeen": "2026-10-16"
         },
         "product management analyst": {
           "ids": [
@@ -9262,8 +9275,7 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-15",
-          "closedOn": "2026-10-15"
+          "lastSeen": "2026-10-16"
         },
         "ai product management practitioner": {
           "ids": [
@@ -9271,8 +9283,7 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-15",
-          "closedOn": "2026-10-15"
+          "lastSeen": "2026-10-16"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
@@ -9357,8 +9368,8 @@
           "eng": 47
         },
         "2026-10-16": {
-          "total": 78,
-          "eng": 47
+          "total": 75,
+          "eng": 46
         }
       },
       "pm": {
@@ -9789,8 +9800,8 @@
           "eng": 578
         },
         "2026-10-16": {
-          "total": 898,
-          "eng": 578
+          "total": 899,
+          "eng": 579
         }
       },
       "pm": {
@@ -10097,8 +10108,8 @@
           "eng": 41
         },
         "2026-10-16": {
-          "total": 135,
-          "eng": 41
+          "total": 134,
+          "eng": 40
         }
       },
       "pm": {
@@ -11020,8 +11031,8 @@
           "eng": 31
         },
         "2026-10-16": {
-          "total": 62,
-          "eng": 31
+          "total": 64,
+          "eng": 32
         }
       },
       "pm": {
@@ -11363,7 +11374,7 @@
         },
         "2026-10-16": {
           "total": 200,
-          "eng": 125
+          "eng": 126
         }
       },
       "pm": {
@@ -11459,8 +11470,8 @@
           "eng": 41
         },
         "2026-10-16": {
-          "total": 133,
-          "eng": 41
+          "total": 132,
+          "eng": 40
         }
       },
       "pm": {
@@ -11568,7 +11579,7 @@
           "eng": 196
         },
         "2026-10-16": {
-          "total": 628,
+          "total": 627,
           "eng": 194
         }
       },
@@ -11945,8 +11956,8 @@
           "eng": 180
         },
         "2026-10-16": {
-          "total": 357,
-          "eng": 179
+          "total": 359,
+          "eng": 180
         }
       },
       "pm": {
@@ -12459,7 +12470,7 @@
           "eng": 4
         },
         "2026-10-16": {
-          "total": 16,
+          "total": 15,
           "eng": 4
         }
       },
