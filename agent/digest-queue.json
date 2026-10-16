@@ -3094,6 +3094,53 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800513",
       "source": "JPMorgan Chase careers",
       "queuedOn": "2026-10-16"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557040598",
+      "title": "Senior Product Manager",
+      "company": "Microsoft",
+      "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-10-16"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-571003",
+      "title": "Lead Product Manager",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-571003",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-16"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
+      "title": "Lead Digital Product Manager",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-16"
+    },
+    {
+      "id": "sf-careers.wipro.com-203010",
+      "title": "Associate Product Manager - AI-Powered Property Appraisal Platform",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platform/203010-en_US/",
+      "source": "Wipro careers",
+      "queuedOn": "2026-10-16"
+    },
+    {
+      "id": "govt-notice-27306e3af50413b8",
+      "title": "Co-Lead – Digital Transformation & Strategy Delhi",
+      "company": "National e-Governance Division",
+      "location": "",
+      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/10/Vacany-Advertisement-for-Co-Lead-TAU-Team-under-CB-3.0-Oct-2026.pdf",
+      "source": "🏛️ Govt (NeGD careers page)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-10-16"
     }
   ],
   "signals": [
@@ -3264,6 +3311,15 @@
       "company": "Accenture",
       "date": "2026-10-16",
       "detail": "143 engineering openings vs a usual 36"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-10-16",
+      "title": "Lead Digital Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
+      "detail": "closed 2026-10-03, reposted today"
     }
   ],
   "reminders": {}

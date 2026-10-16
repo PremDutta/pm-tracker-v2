@@ -232,8 +232,8 @@
           "eng": 268
         },
         "2026-10-16": {
-          "total": 654,
-          "eng": 274
+          "total": 653,
+          "eng": 275
         }
       },
       "pm": {
@@ -1015,7 +1015,7 @@
           "eng": 79
         },
         "2026-10-16": {
-          "total": 179,
+          "total": 180,
           "eng": 79
         }
       },
@@ -1512,8 +1512,8 @@
           "eng": 48
         },
         "2026-10-16": {
-          "total": 155,
-          "eng": 48
+          "total": 150,
+          "eng": 44
         }
       },
       "pm": {
@@ -2035,7 +2035,7 @@
           "eng": 413
         },
         "2026-10-16": {
-          "total": 802,
+          "total": 801,
           "eng": 412
         }
       },
@@ -2788,7 +2788,7 @@
           "eng": 8
         },
         "2026-10-16": {
-          "total": 59,
+          "total": 58,
           "eng": 8
         }
       },
@@ -3519,8 +3519,8 @@
           "eng": 2
         },
         "2026-10-16": {
-          "total": 25,
-          "eng": 2
+          "total": 26,
+          "eng": 1
         }
       },
       "pm": {
@@ -4072,7 +4072,7 @@
           "eng": 5
         },
         "2026-10-16": {
-          "total": 89,
+          "total": 88,
           "eng": 5
         }
       },
@@ -4448,7 +4448,8 @@
           "ids": [
             "amazon-10572930"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "sr product manager technical ww prime benefits pricing constructs ww prime benefits pricing constructs": {
           "ids": [
@@ -4900,7 +4901,7 @@
           "eng": 9
         },
         "2026-10-16": {
-          "total": 78,
+          "total": 79,
           "eng": 9
         }
       },
@@ -5006,7 +5007,7 @@
           "eng": 29
         },
         "2026-10-16": {
-          "total": 90,
+          "total": 91,
           "eng": 29
         }
       },
@@ -5168,7 +5169,7 @@
           "eng": 14
         },
         "2026-10-16": {
-          "total": 47,
+          "total": 49,
           "eng": 14
         }
       },
@@ -5314,7 +5315,7 @@
           "eng": 4
         },
         "2026-10-16": {
-          "total": 14,
+          "total": 13,
           "eng": 3
         }
       },
@@ -5468,8 +5469,8 @@
           "eng": 21
         },
         "2026-10-16": {
-          "total": 61,
-          "eng": 20
+          "total": 59,
+          "eng": 19
         }
       },
       "pm": {
@@ -5736,7 +5737,7 @@
           "eng": 3
         },
         "2026-10-16": {
-          "total": 48,
+          "total": 49,
           "eng": 3
         }
       },
@@ -5902,7 +5903,7 @@
         },
         "2026-10-16": {
           "total": 100,
-          "eng": 29
+          "eng": 33
         }
       },
       "pm": {
@@ -6319,8 +6320,8 @@
           "eng": 1
         },
         "2026-10-16": {
-          "total": 8,
-          "eng": 1
+          "total": 9,
+          "eng": 2
         }
       },
       "pm": {
@@ -6407,8 +6408,8 @@
           "eng": 2
         },
         "2026-10-16": {
-          "total": 4,
-          "eng": 1
+          "total": 3,
+          "eng": 0
         }
       },
       "pm": {}
@@ -6560,7 +6561,7 @@
           "eng": 9
         },
         "2026-10-16": {
-          "total": 181,
+          "total": 182,
           "eng": 9
         }
       },
@@ -6713,7 +6714,7 @@
         },
         "2026-10-16": {
           "total": 100,
-          "eng": 23
+          "eng": 24
         }
       },
       "pm": {
@@ -6822,8 +6823,8 @@
           "eng": 2
         },
         "2026-10-16": {
-          "total": 26,
-          "eng": 2
+          "total": 22,
+          "eng": 1
         }
       },
       "pm": {
@@ -6833,7 +6834,8 @@
             "greenhouse-razorpaysoftwareprivatelimited-4715389005",
             "greenhouse-razorpaysoftwareprivatelimited-4699107005"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "product manager ii ads": {
           "ids": [
@@ -7285,7 +7287,8 @@
             "smartrecruiters-ServiceNow-744000154774511",
             "smartrecruiters-ServiceNow-744000155819829"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "sr staff product manager network security": {
           "ids": [
@@ -7478,8 +7481,8 @@
           "eng": 75
         },
         "2026-10-16": {
-          "total": 138,
-          "eng": 75
+          "total": 137,
+          "eng": 74
         }
       },
       "pm": {
@@ -7699,8 +7702,8 @@
           "eng": 7
         },
         "2026-10-16": {
-          "total": 27,
-          "eng": 7
+          "total": 26,
+          "eng": 6
         }
       },
       "pm": {}
@@ -7772,8 +7775,8 @@
           "eng": 83
         },
         "2026-10-16": {
-          "total": 95,
-          "eng": 81
+          "total": 96,
+          "eng": 82
         }
       },
       "pm": {}
@@ -8341,7 +8344,7 @@
           "eng": 2
         },
         "2026-10-16": {
-          "total": 19,
+          "total": 18,
           "eng": 2
         }
       },
@@ -8748,8 +8751,8 @@
           "eng": 46
         },
         "2026-10-16": {
-          "total": 78,
-          "eng": 46
+          "total": 80,
+          "eng": 47
         }
       },
       "pm": {
@@ -8923,7 +8926,7 @@
         },
         "2026-10-16": {
           "total": 60,
-          "eng": 11
+          "eng": 12
         }
       },
       "pm": {
@@ -8955,6 +8958,12 @@
           ],
           "lastSeen": "2026-09-30",
           "closedOn": "2026-09-30"
+        },
+        "associate product manager ai powered property appraisal platform": {
+          "ids": [
+            "sf-careers.wipro.com-203010"
+          ],
+          "lastSeen": "2026-10-16"
         }
       }
     },
@@ -9025,17 +9034,17 @@
           "eng": 23
         },
         "2026-10-16": {
-          "total": 70,
+          "total": 71,
           "eng": 23
         }
       },
       "pm": {
         "lead digital product manager": {
           "ids": [
-            "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577975"
+            "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577975",
+            "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393"
           ],
-          "lastSeen": "2026-10-03",
-          "closedOn": "2026-10-03"
+          "lastSeen": "2026-10-16"
         },
         "lead digital product manager ciam": {
           "ids": [
@@ -9084,7 +9093,8 @@
         "lead product manager": {
           "ids": [
             "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-575608",
-            "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375"
+            "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+            "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-571003"
           ],
           "lastSeen": "2026-10-16"
         },
@@ -9252,7 +9262,7 @@
         },
         "2026-10-16": {
           "total": 200,
-          "eng": 46,
+          "eng": 45,
           "spike": true
         }
       },
@@ -9448,6 +9458,10 @@
         "2026-10-15": {
           "total": 73,
           "eng": 34
+        },
+        "2026-10-16": {
+          "total": 72,
+          "eng": 32
         }
       },
       "pm": {
@@ -9457,7 +9471,7 @@
             "eightfold-microsoft.com-1970393556971850",
             "eightfold-microsoft.com-1970393557016561"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-16"
         },
         "principal product manager": {
           "ids": [
@@ -9467,7 +9481,7 @@
             "eightfold-microsoft.com-1970393556999250",
             "eightfold-microsoft.com-1970393556911401"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-16"
         },
         "product manager ii": {
           "ids": [
@@ -9475,7 +9489,7 @@
             "eightfold-microsoft.com-1970393557016594",
             "eightfold-microsoft.com-1970393557038894"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-16"
         },
         "principal product management": {
           "ids": [
@@ -9488,7 +9502,7 @@
           "ids": [
             "eightfold-microsoft.com-1970393556978896"
           ],
-          "lastSeen": "2026-10-15"
+          "lastSeen": "2026-10-16"
         }
       }
     },
@@ -10294,8 +10308,8 @@
           "eng": 9
         },
         "2026-10-16": {
-          "total": 27,
-          "eng": 9
+          "total": 31,
+          "eng": 10
         }
       },
       "pm": {
@@ -10422,7 +10436,7 @@
           "eng": 31
         },
         "2026-10-16": {
-          "total": 64,
+          "total": 65,
           "eng": 31
         }
       },
@@ -11373,8 +11387,8 @@
           "eng": 125
         },
         "2026-10-16": {
-          "total": 200,
-          "eng": 126
+          "total": 199,
+          "eng": 125
         }
       },
       "pm": {
@@ -11470,7 +11484,7 @@
           "eng": 41
         },
         "2026-10-16": {
-          "total": 132,
+          "total": 135,
           "eng": 40
         }
       },
@@ -11762,8 +11776,8 @@
           "eng": 34
         },
         "2026-10-16": {
-          "total": 68,
-          "eng": 34
+          "total": 69,
+          "eng": 35
         }
       },
       "pm": {
@@ -11889,7 +11903,7 @@
           "eng": 1
         },
         "2026-10-16": {
-          "total": 6,
+          "total": 4,
           "eng": 1
         }
       },
@@ -11905,7 +11919,8 @@
           "ids": [
             "greenhouse-simpplr-6220126004"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         }
       }
     },

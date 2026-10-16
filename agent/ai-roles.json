@@ -1,6 +1,28 @@
 {
   "roles": [
     {
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "vc-peakxv-lbtWSkK_VfSx",
+      "title": "AI Native Product Manager",
+      "company": "Leap Finance",
+      "location": "Bengaluru, India",
+      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "eightfold-qualcomm.com-446717846060",
       "title": "Staff/Director – AI HW Product Management",
       "company": "Qualcomm",
@@ -8,6 +30,50 @@
       "url": "https://careers.qualcomm.com/careers/job/446717846060",
       "source": "Qualcomm careers",
       "level": "leadership",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "vc-peakxv-25493",
+      "title": "Principal Product Manager, AI",
+      "company": "SaaS Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.kula.ai/saas-labs/25493",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "vc-peakxv-8041196002",
+      "title": "Product Manager",
+      "company": "Sigmoid",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "vc-peakxv-137246",
+      "title": "AI PRODUCT MANAGER",
+      "company": "TestMu",
+      "location": "Noida, UP, India",
+      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "sf-careers.wipro.com-203010",
+      "title": "Associate Product Manager - AI-Powered Property Appraisal Platform",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platform/203010-en_US/",
+      "source": "Wipro careers",
+      "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-16"
     },
@@ -263,17 +329,6 @@
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-14"
-    },
-    {
-      "id": "greenhouse-simpplr-6220126004",
-      "title": "Associate Product Manager - Product Discovery & Strategy",
-      "company": "Simpplr",
-      "location": "Bengaluru, India; Gurugram, India",
-      "url": "https://job-boards.greenhouse.io/simpplr/jobs/6220126004",
-      "source": "Greenhouse (Simpplr)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-13"
     },
     {
       "id": "oracle-jpmc.fa.oraclecloud.com-210797402",

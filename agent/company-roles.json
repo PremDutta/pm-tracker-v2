@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-16T07:25:23.017Z",
+  "scannedAt": "2026-10-16T10:51:11.139Z",
   "roles": {
     "Amazon": [
       {
@@ -265,14 +265,6 @@
         "url": "https://www.amazon.jobs/en/jobs/10490166/senior-product-manager-india-global-trade",
         "level": "senior",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10572930",
-        "title": "Senior Product Manager, Rewards, Amazon Pay Rewards",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10572930/senior-product-manager-rewards-amazon-pay-rewards",
-        "level": "senior",
-        "firstSeen": "2026-10-08"
       },
       {
         "id": "amazon-10556408",
@@ -721,18 +713,18 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1129,18 +1121,18 @@
     ],
     "Microsoft": [
       {
-        "id": "eightfold-microsoft.com-1970393556944984",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393556911401",
         "title": "Principal Product Manager",
         "location": "India, Karnataka, Bangalore",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556944984",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1177,20 +1169,20 @@
         "firstSeen": "2026-10-06"
       },
       {
+        "id": "eightfold-microsoft.com-1970393556971850",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556971850",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557016561",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
         "level": "senior",
         "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557037770",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
-        "level": "senior",
-        "firstSeen": "2026-10-15"
       },
       {
         "id": "eightfold-microsoft.com-1970393557016611",
@@ -1201,12 +1193,20 @@
         "firstSeen": "2026-10-07"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556971850",
+        "id": "eightfold-microsoft.com-1970393557037770",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556971850",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
         "level": "senior",
-        "firstSeen": "2026-09-30"
+        "firstSeen": "2026-10-15"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557040598",
+        "title": "Senior Product Manager",
+        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
+        "level": "senior",
+        "firstSeen": "2026-10-16"
       }
     ],
     "Mihup": [
@@ -1601,14 +1601,6 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4736965005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
-        "level": "pm",
-        "firstSeen": "2026-10-14"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
@@ -1753,14 +1745,6 @@
     ],
     "ServiceNow": [
       {
-        "id": "smartrecruiters-ServiceNow-744000155819829",
-        "title": "Sr Staff Inbound Product Manager",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155819829",
-        "level": "group",
-        "firstSeen": "2026-10-15"
-      },
-      {
         "id": "smartrecruiters-ServiceNow-744000155796579",
         "title": "Staff Inbound Product Manager - AI Evaluation Tools",
         "location": "Hyderabad, Telangana, India",
@@ -1785,16 +1769,6 @@
         "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
         "level": "pm",
         "firstSeen": "2026-10-05"
-      }
-    ],
-    "Simpplr": [
-      {
-        "id": "greenhouse-simpplr-6220126004",
-        "title": "Associate Product Manager - Product Discovery & Strategy",
-        "location": "Bengaluru, India; Gurugram, India",
-        "url": "https://job-boards.greenhouse.io/simpplr/jobs/6220126004",
-        "level": "pm",
-        "firstSeen": "2026-10-13"
       }
     ],
     "SpotDraft": [
@@ -1913,12 +1887,20 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "workday-wf-/job/Hyderabad-India/Data-Product-Management-Consultant_R-580970-1",
-        "title": "Data Product Management Consultant",
-        "location": "Hyderabad, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Data-Product-Management-Consultant_R-580970-1",
-        "level": "pm",
-        "firstSeen": "2026-10-15"
+        "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
+        "title": "Lead Digital Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
+        "level": "group",
+        "firstSeen": "2026-10-16"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-571003",
+        "title": "Lead Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-571003",
+        "level": "group",
+        "firstSeen": "2026-10-16"
       },
       {
         "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
@@ -1948,6 +1930,14 @@
       }
     ],
     "Wipro": [
+      {
+        "id": "sf-careers.wipro.com-203010",
+        "title": "Associate Product Manager - AI-Powered Property Appraisal Platform",
+        "location": "Chennai, IND-33, IND, 600119<br/>",
+        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platform/203010-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-16"
+      },
       {
         "id": "sf-careers.wipro.com-203307",
         "title": "PRODUCT MANAGER L1",
@@ -2160,7 +2150,7 @@
     "Mastercard": "2026-10-16",
     "Meesho": "2026-10-16",
     "Mensa Brands (BRND.ME)": "2026-10-16",
-    "Microsoft": "2026-10-15",
+    "Microsoft": "2026-10-16",
     "Mihup": "2026-10-16",
     "Mindtickle": "2026-10-16",
     "MongoDB": "2026-10-16",
