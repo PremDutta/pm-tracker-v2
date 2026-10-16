@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-16T16:12:22.536Z",
+  "scannedAt": "2026-10-16T20:36:36.451Z",
   "roles": {
     "Amazon": [
       {
@@ -283,6 +283,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "amazon-10581702",
+        "title": "Sr Product Manager – Visibility, Shipment Technologies",
+        "location": "Hyderabad, Telangana, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10581702/sr-product-manager-visibility-shipment-technologies",
+        "level": "senior",
+        "firstSeen": "2026-10-16"
+      },
+      {
         "id": "amazon-10577088",
         "title": "Sr Product Manager Tech",
         "location": "Hyderabad, Telangana, IND",
@@ -355,18 +363,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10531340",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10521530",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10531340",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -853,14 +861,6 @@
     ],
     "JPMorgan Chase": [
       {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210797402",
-        "title": "AI & DATA Solutions - Product Owner - Vice President",
-        "location": "Bengaluru, Karnataka, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797402",
-        "level": "leadership",
-        "firstSeen": "2026-10-11"
-      },
-      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210796604",
         "title": "Product Management -  Loan lifecycle and Platforms(LIQ) - Team Lead",
         "location": "Bengaluru, Karnataka, India",
@@ -883,14 +883,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
         "level": "pm",
         "firstSeen": "2026-10-15"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210796769",
-        "title": "Product Owner/Product Delivery – Senior Associate",
-        "location": "Mumbai, Maharashtra, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796769",
-        "level": "senior",
-        "firstSeen": "2026-10-12"
       }
     ],
     "Karat": [
@@ -1744,6 +1736,14 @@
       }
     ],
     "ServiceNow": [
+      {
+        "id": "smartrecruiters-ServiceNow-744000156043929",
+        "title": "Sr Staff Inbound Product Manager - Partner Relationship Management(PRM)",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156043929",
+        "level": "group",
+        "firstSeen": "2026-10-16"
+      },
       {
         "id": "smartrecruiters-ServiceNow-744000155796579",
         "title": "Staff Inbound Product Manager - AI Evaluation Tools",

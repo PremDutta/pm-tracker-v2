@@ -3177,6 +3177,69 @@
       "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Enterprise-Document-Management-&amp;-Content-Intelligence/203003-en_US/",
       "source": "Wipro careers",
       "queuedOn": "2026-10-16"
+    },
+    {
+      "id": "amazon-10581702",
+      "title": "Sr Product Manager – Visibility, Shipment Technologies",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10581702/sr-product-manager-visibility-shipment-technologies",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-17"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000156043929",
+      "title": "Sr Staff Inbound Product Manager - Partner Relationship Management(PRM)",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156043929",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-17"
+    },
+    {
+      "id": "vc-accel-97225058",
+      "title": "Senior Product Manager",
+      "company": "Swiftkey",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-17"
+    },
+    {
+      "id": "vc-accel-97224535",
+      "title": "Senior Product Manager",
+      "company": "Swiftkey",
+      "location": "Bangalore Urban, Karnataka, India, Bangalore Rural, Karnataka, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-17"
+    },
+    {
+      "id": "vc-peakxv-417781",
+      "title": "AI Product Manager",
+      "company": "smallcase",
+      "location": "Bengaluru, Karnataka, India, India",
+      "url": "https://app.pyjamahr.com/careers?company=smallcase&job_id=417781&company_uuid=2615584222",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-17"
+    },
+    {
+      "id": "vc-peakxv-494d8ba6-22b6-467f-837b-8af9c1aee377",
+      "title": "Product Manager I",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/494d8ba6-22b6-467f-837b-8af9c1aee377",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-17"
+    },
+    {
+      "id": "vc-peakxv-96dd27f3-ec27-4c13-ae2f-090d766f4e12",
+      "title": "Product Manager - Storefront",
+      "company": "Purplle",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://purplle.turbohire.co/job/publicjobs/TsvZabHvjH4YS1m43AfmthDQmszXw5l4Z3yK0qnOCYpyQM2up9K9I2AtQdWSGhMh",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-17"
     }
   ],
   "signals": [
@@ -3365,6 +3428,15 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
       "id": "workday-target-/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
       "detail": "closed 2026-10-05, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-16",
+      "title": "Senior Staff Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156071737",
+      "id": "smartrecruiters-ServiceNow-744000156071737",
+      "detail": "closed 2026-10-15, reposted today"
     }
   ],
   "reminders": {}

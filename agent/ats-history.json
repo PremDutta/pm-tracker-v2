@@ -232,8 +232,8 @@
           "eng": 268
         },
         "2026-10-16": {
-          "total": 652,
-          "eng": 277
+          "total": 654,
+          "eng": 276
         }
       },
       "pm": {
@@ -521,8 +521,8 @@
           "eng": 50
         },
         "2026-10-16": {
-          "total": 131,
-          "eng": 50
+          "total": 132,
+          "eng": 51
         }
       },
       "pm": {
@@ -1015,7 +1015,7 @@
           "eng": 79
         },
         "2026-10-16": {
-          "total": 181,
+          "total": 183,
           "eng": 80
         }
       },
@@ -1512,7 +1512,7 @@
           "eng": 48
         },
         "2026-10-16": {
-          "total": 152,
+          "total": 156,
           "eng": 43
         }
       },
@@ -1617,7 +1617,7 @@
           "eng": 30
         },
         "2026-10-16": {
-          "total": 49,
+          "total": 47,
           "eng": 30
         }
       },
@@ -1710,7 +1710,7 @@
           "eng": 29
         },
         "2026-10-16": {
-          "total": 144,
+          "total": 140,
           "eng": 30
         }
       },
@@ -2035,8 +2035,8 @@
           "eng": 413
         },
         "2026-10-16": {
-          "total": 803,
-          "eng": 411
+          "total": 808,
+          "eng": 412
         }
       },
       "pm": {
@@ -2208,7 +2208,7 @@
           "eng": 39
         },
         "2026-10-16": {
-          "total": 163,
+          "total": 165,
           "eng": 39
         }
       },
@@ -3625,7 +3625,7 @@
           "eng": 31
         },
         "2026-10-16": {
-          "total": 81,
+          "total": 82,
           "eng": 31
         }
       },
@@ -4073,7 +4073,7 @@
           "eng": 5
         },
         "2026-10-16": {
-          "total": 88,
+          "total": 89,
           "eng": 5
         }
       },
@@ -4493,6 +4493,12 @@
             "amazon-10578219"
           ],
           "lastSeen": "2026-10-16"
+        },
+        "sr product manager visibility shipment technologies": {
+          "ids": [
+            "amazon-10581702"
+          ],
+          "lastSeen": "2026-10-16"
         }
       }
     },
@@ -4563,7 +4569,7 @@
           "eng": 5
         },
         "2026-10-16": {
-          "total": 36,
+          "total": 35,
           "eng": 5
         }
       },
@@ -5008,8 +5014,8 @@
           "eng": 29
         },
         "2026-10-16": {
-          "total": 91,
-          "eng": 29
+          "total": 86,
+          "eng": 28
         }
       },
       "pm": {
@@ -5081,7 +5087,8 @@
           "ids": [
             "workable-innovaccer-analytics-B83AB55094"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "senior director of product management risk quality": {
           "ids": [
@@ -5093,7 +5100,8 @@
           "ids": [
             "workable-innovaccer-analytics-461A138133"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "4521 senior product manager risk quality": {
           "ids": [
@@ -5389,7 +5397,7 @@
           "eng": 31
         },
         "2026-10-16": {
-          "total": 45,
+          "total": 46,
           "eng": 31
         }
       },
@@ -5470,7 +5478,7 @@
           "eng": 21
         },
         "2026-10-16": {
-          "total": 58,
+          "total": 57,
           "eng": 19
         }
       },
@@ -5665,7 +5673,7 @@
           "eng": 9
         },
         "2026-10-16": {
-          "total": 40,
+          "total": 41,
           "eng": 9
         }
       },
@@ -6012,13 +6020,15 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210797402"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "product owner product delivery senior associate": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210796769"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "product management loan lifecycle and platforms team lead": {
           "ids": [
@@ -6409,7 +6419,7 @@
           "eng": 2
         },
         "2026-10-16": {
-          "total": 3,
+          "total": 5,
           "eng": 0
         }
       },
@@ -7198,7 +7208,7 @@
         },
         "2026-10-16": {
           "total": 100,
-          "eng": 37
+          "eng": 41
         }
       },
       "pm": {
@@ -7322,10 +7332,10 @@
         },
         "senior staff product manager": {
           "ids": [
-            "smartrecruiters-ServiceNow-744000154532199"
+            "smartrecruiters-ServiceNow-744000154532199",
+            "smartrecruiters-ServiceNow-744000156071737"
           ],
-          "lastSeen": "2026-10-15",
-          "closedOn": "2026-10-15"
+          "lastSeen": "2026-10-16"
         },
         "senior staff inbound product manager agentic ai platform moveworks": {
           "ids": [
@@ -7373,7 +7383,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000155319537"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "senior staff technical product manager conversational ai": {
           "ids": [
@@ -7386,7 +7397,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000155472964"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-16"
         },
         "staff inbound product manager ai evaluation tools": {
           "ids": [
@@ -7409,6 +7421,18 @@
         "senior director product creative direction": {
           "ids": [
             "smartrecruiters-ServiceNow-744000155904829"
+          ],
+          "lastSeen": "2026-10-16"
+        },
+        "staff outbound product manager gtm": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000156059999"
+          ],
+          "lastSeen": "2026-10-16"
+        },
+        "sr staff inbound product manager partner relationship management": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000156043929"
           ],
           "lastSeen": "2026-10-16"
         }
@@ -7481,8 +7505,8 @@
           "eng": 75
         },
         "2026-10-16": {
-          "total": 142,
-          "eng": 76
+          "total": 140,
+          "eng": 75
         }
       },
       "pm": {
@@ -7775,8 +7799,8 @@
           "eng": 83
         },
         "2026-10-16": {
-          "total": 96,
-          "eng": 81
+          "total": 97,
+          "eng": 82
         }
       },
       "pm": {}
@@ -9040,7 +9064,7 @@
           "eng": 23
         },
         "2026-10-16": {
-          "total": 83,
+          "total": 78,
           "eng": 24
         }
       },
@@ -9191,8 +9215,8 @@
           "eng": 43
         },
         "2026-10-16": {
-          "total": 86,
-          "eng": 45
+          "total": 83,
+          "eng": 44
         }
       },
       "pm": {}
@@ -9273,8 +9297,8 @@
           "spike": true
         },
         "2026-10-16": {
-          "total": 199,
-          "eng": 168,
+          "total": 200,
+          "eng": 44,
           "spike": true
         }
       },
@@ -9284,8 +9308,7 @@
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1"
           ],
-          "lastSeen": "2026-10-16",
-          "closedOn": "2026-10-16"
+          "lastSeen": "2026-10-16"
         },
         "product management analyst": {
           "ids": [
@@ -9298,8 +9321,7 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-16",
-          "closedOn": "2026-10-16"
+          "lastSeen": "2026-10-16"
         },
         "ai product management practitioner": {
           "ids": [
@@ -9307,8 +9329,7 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-16",
-          "closedOn": "2026-10-16"
+          "lastSeen": "2026-10-16"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
@@ -10391,7 +10412,7 @@
           "eng": 3
         },
         "2026-10-16": {
-          "total": 9,
+          "total": 7,
           "eng": 3
         }
       },
@@ -10710,8 +10731,8 @@
           "eng": 6
         },
         "2026-10-16": {
-          "total": 15,
-          "eng": 6
+          "total": 16,
+          "eng": 7
         }
       },
       "pm": {
@@ -10903,7 +10924,7 @@
         },
         "2026-10-16": {
           "total": 403,
-          "eng": 164
+          "eng": 165
         }
       },
       "pm": {
@@ -11013,7 +11034,8 @@
         },
         "staff product manager atlas infinite": {
           "ids": [
-            "greenhouse-mongodb-8274031"
+            "greenhouse-mongodb-8274031",
+            "greenhouse-mongodb-8274029"
           ],
           "lastSeen": "2026-10-16"
         }
@@ -11066,8 +11088,8 @@
           "eng": 31
         },
         "2026-10-16": {
-          "total": 64,
-          "eng": 32
+          "total": 62,
+          "eng": 31
         }
       },
       "pm": {
@@ -11409,7 +11431,7 @@
         },
         "2026-10-16": {
           "total": 200,
-          "eng": 126
+          "eng": 125
         }
       },
       "pm": {
@@ -11505,7 +11527,7 @@
           "eng": 41
         },
         "2026-10-16": {
-          "total": 142,
+          "total": 144,
           "eng": 40
         }
       },
@@ -11564,6 +11586,12 @@
             "greenhouse-rubrik-7939330"
           ],
           "lastSeen": "2026-10-16"
+        },
+        "regional director saas product specialists": {
+          "ids": [
+            "greenhouse-rubrik-8268145"
+          ],
+          "lastSeen": "2026-10-16"
         }
       }
     },
@@ -11614,8 +11642,8 @@
           "eng": 196
         },
         "2026-10-16": {
-          "total": 628,
-          "eng": 193
+          "total": 636,
+          "eng": 194
         }
       },
       "pm": {
@@ -11745,6 +11773,12 @@
         "product lead analytics": {
           "ids": [
             "rippling-rippling-1b2bd0fa-cfd3-4774-8c8f-7c00685f3476"
+          ],
+          "lastSeen": "2026-10-16"
+        },
+        "product lead reporting and analytics": {
+          "ids": [
+            "rippling-rippling-34d2abc5-206c-4472-803a-6b8713382bc6"
           ],
           "lastSeen": "2026-10-16"
         }
@@ -11924,7 +11958,7 @@
           "eng": 1
         },
         "2026-10-16": {
-          "total": 4,
+          "total": 5,
           "eng": 1
         }
       },
@@ -11992,7 +12026,7 @@
           "eng": 180
         },
         "2026-10-16": {
-          "total": 361,
+          "total": 359,
           "eng": 181
         }
       },
@@ -12203,7 +12237,7 @@
           "eng": 34
         },
         "2026-10-16": {
-          "total": 105,
+          "total": 106,
           "eng": 34
         }
       },
@@ -12422,7 +12456,7 @@
           "eng": 19
         },
         "2026-10-16": {
-          "total": 371,
+          "total": 370,
           "eng": 18
         }
       },
