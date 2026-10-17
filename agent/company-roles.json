@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-17T03:17:16.936Z",
+  "scannedAt": "2026-10-17T07:07:12.460Z",
   "roles": {
     "Amazon": [
       {
@@ -363,18 +363,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10521530",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10531340",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10521530",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -2095,7 +2095,7 @@
     ]
   },
   "lastRead": {
-    "Accenture": "2026-10-16",
+    "Accenture": "2026-10-17",
     "Adobe": "2026-10-17",
     "Amazon": "2026-10-17",
     "Anthropic": "2026-10-17",

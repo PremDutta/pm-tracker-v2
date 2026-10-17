@@ -6128,7 +6128,7 @@
         },
         "2026-10-17": {
           "total": 100,
-          "eng": 32
+          "eng": 33
         }
       },
       "pm": {
@@ -9555,8 +9555,8 @@
           "eng": 44
         },
         "2026-10-17": {
-          "total": 83,
-          "eng": 43
+          "total": 85,
+          "eng": 45
         }
       },
       "pm": {}
@@ -9640,6 +9640,11 @@
           "total": 200,
           "eng": 44,
           "spike": true
+        },
+        "2026-10-17": {
+          "total": 200,
+          "eng": 169,
+          "spike": true
         }
       },
       "pm": {
@@ -9648,7 +9653,8 @@
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-17"
         },
         "product management analyst": {
           "ids": [
@@ -9661,7 +9667,8 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-17"
         },
         "ai product management practitioner": {
           "ids": [
@@ -9669,7 +9676,8 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-16"
+          "lastSeen": "2026-10-16",
+          "closedOn": "2026-10-17"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
@@ -10864,7 +10872,7 @@
           "eng": 31
         },
         "2026-10-17": {
-          "total": 66,
+          "total": 67,
           "eng": 31
         }
       },
