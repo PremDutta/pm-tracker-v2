@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-17T10:15:50.419Z",
+  "scannedAt": "2026-10-17T15:05:41.339Z",
   "roles": {
     "Amazon": [
       {
@@ -713,18 +713,18 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1937,8 +1937,16 @@
     ],
     "Wing Assistant (M32 AI)": [
       {
+        "id": "lever-getwingapp-9d79c468-5413-4451-8020-8531588f29a1",
+        "title": "Product Manager  - AI",
+        "location": "India",
+        "url": "https://jobs.lever.co/getwingapp/9d79c468-5413-4451-8020-8531588f29a1",
+        "level": "pm",
+        "firstSeen": "2026-10-17"
+      },
+      {
         "id": "lever-getwingapp-c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
-        "title": "Product Manager - AI",
+        "title": "Product Manager - Onboarding",
         "location": "India",
         "url": "https://jobs.lever.co/getwingapp/c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
         "level": "pm",

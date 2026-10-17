@@ -232,6 +232,17 @@
       "firstSeen": "2026-10-17"
     },
     {
+      "id": "lever-getwingapp-9d79c468-5413-4451-8020-8531588f29a1",
+      "title": "Product Manager  - AI",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "India",
+      "url": "https://jobs.lever.co/getwingapp/9d79c468-5413-4451-8020-8531588f29a1",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-17"
+    },
+    {
       "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R33982",
       "title": "Senior Product Manager",
       "company": "Zendesk",
@@ -283,17 +294,6 @@
       "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
       "source": "VC board (Peak XV portfolio)",
       "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "eightfold-qualcomm.com-446717846060",
-      "title": "Staff/Director – AI HW Product Management",
-      "company": "Qualcomm",
-      "location": "Bangalore, India",
-      "url": "https://careers.qualcomm.com/careers/job/446717846060",
-      "source": "Qualcomm careers",
-      "level": "leadership",
       "aiMatch": "title",
       "firstSeen": "2026-10-16"
     },
@@ -500,7 +500,7 @@
       "title": "Global Product Lead, Support Tools, Global Business Applied AI, GTM",
       "company": "Google",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=30",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=29",
       "source": "VC board (Accel portfolio)",
       "level": "group",
       "aiMatch": "title",
@@ -511,20 +511,9 @@
       "title": "Product Manager, Agentic, Customer Engagement",
       "company": "Google",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/79624660211114694-product-manager-agentic-customer-engagement?page=11",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/79624660211114694-product-manager-agentic-customer-engagement?page=10",
       "source": "VC board (Accel portfolio)",
       "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-09"
-    },
-    {
-      "id": "vc-accel-91754703",
-      "title": "Senior Product Manager, Map Intelligence, Google Maps Platform",
-      "company": "Google",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/84477310756889286-senior-product-manager-map-intelligence-google-maps-platform?page=156",
-      "source": "VC board (Accel portfolio)",
-      "level": "senior",
       "aiMatch": "title",
       "firstSeen": "2026-10-09"
     },
@@ -1201,13 +1190,13 @@
     },
     {
       "id": "lever-getwingapp-c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
-      "title": "Product Manager - AI",
+      "title": "Product Manager - Onboarding",
       "company": "Wing Assistant (M32 AI)",
       "location": "India",
       "url": "https://jobs.lever.co/getwingapp/c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
       "source": "Lever (Wing Assistant (M32 AI))",
       "level": "pm",
-      "aiMatch": "title",
+      "aiMatch": "company",
       "firstSeen": "2026-10-05"
     },
     {

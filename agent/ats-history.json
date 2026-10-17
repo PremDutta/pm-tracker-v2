@@ -240,8 +240,8 @@
           "eng": 276
         },
         "2026-10-17": {
-          "total": 656,
-          "eng": 276
+          "total": 655,
+          "eng": 275
         }
       },
       "pm": {
@@ -2107,7 +2107,7 @@
           "eng": 412
         },
         "2026-10-17": {
-          "total": 815,
+          "total": 814,
           "eng": 415
         }
       },
@@ -6655,7 +6655,7 @@
           "eng": 0
         },
         "2026-10-17": {
-          "total": 5,
+          "total": 4,
           "eng": 0
         }
       },
@@ -7086,8 +7086,8 @@
           "eng": 1
         },
         "2026-10-17": {
-          "total": 24,
-          "eng": 1
+          "total": 25,
+          "eng": 2
         }
       },
       "pm": {
@@ -8558,7 +8558,7 @@
           "eng": 35
         },
         "2026-10-17": {
-          "total": 99,
+          "total": 100,
           "eng": 35
         }
       },
@@ -9555,7 +9555,7 @@
           "eng": 44
         },
         "2026-10-17": {
-          "total": 85,
+          "total": 82,
           "eng": 45
         }
       },
@@ -12949,7 +12949,7 @@
           "eng": 18
         },
         "2026-10-17": {
-          "total": 370,
+          "total": 373,
           "eng": 18
         }
       },
@@ -12962,7 +12962,8 @@
         },
         "product manager ai": {
           "ids": [
-            "lever-getwingapp-0de43985-8dcc-4d98-bd58-8307e9e064ec"
+            "lever-getwingapp-0de43985-8dcc-4d98-bd58-8307e9e064ec",
+            "lever-getwingapp-9d79c468-5413-4451-8020-8531588f29a1"
           ],
           "lastSeen": "2026-10-17"
         },
@@ -12981,6 +12982,12 @@
         "technical product manager b2b saas ai": {
           "ids": [
             "lever-getwingapp-eb983330-cecc-4800-b65f-f0ca883b1ee5"
+          ],
+          "lastSeen": "2026-10-17"
+        },
+        "product manager onboarding": {
+          "ids": [
+            "lever-getwingapp-c5c669aa-fce3-4e04-9ba9-303fba5eb7d5"
           ],
           "lastSeen": "2026-10-17"
         }
