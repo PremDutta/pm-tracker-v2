@@ -6893,7 +6893,7 @@
           "eng": 0
         },
         "2026-10-18": {
-          "total": 4,
+          "total": 3,
           "eng": 0
         }
       },
@@ -7746,7 +7746,7 @@
         },
         "2026-10-18": {
           "total": 100,
-          "eng": 47
+          "eng": 45
         }
       },
       "pm": {
@@ -7792,7 +7792,8 @@
             "smartrecruiters-ServiceNow-744000152754744",
             "smartrecruiters-ServiceNow-744000155597390"
           ],
-          "lastSeen": "2026-10-18"
+          "lastSeen": "2026-10-18",
+          "closedOn": "2026-10-18"
         },
         "staff inbound product manager": {
           "ids": [
@@ -9898,7 +9899,7 @@
         },
         "2026-10-18": {
           "total": 81,
-          "eng": 45
+          "eng": 44
         }
       },
       "pm": {}
@@ -9990,7 +9991,7 @@
         },
         "2026-10-18": {
           "total": 200,
-          "eng": 168,
+          "eng": 43,
           "spike": true
         }
       },
@@ -10000,8 +10001,7 @@
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1"
           ],
-          "lastSeen": "2026-10-18",
-          "closedOn": "2026-10-18"
+          "lastSeen": "2026-10-18"
         },
         "product management analyst": {
           "ids": [
@@ -10014,8 +10014,7 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-18",
-          "closedOn": "2026-10-18"
+          "lastSeen": "2026-10-18"
         },
         "ai product management practitioner": {
           "ids": [
@@ -10023,8 +10022,7 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-18",
-          "closedOn": "2026-10-18"
+          "lastSeen": "2026-10-18"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
