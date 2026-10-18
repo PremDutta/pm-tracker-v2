@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-18T03:21:29.655Z",
+  "scannedAt": "2026-10-18T07:21:35.898Z",
   "roles": {
     "Amazon": [
       {
@@ -713,22 +713,6 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -741,6 +725,22 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -867,22 +867,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796604",
         "level": "group",
         "firstSeen": "2026-10-14"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210800513",
-        "title": "Product Manager",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800513",
-        "level": "pm",
-        "firstSeen": "2026-10-16"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210797096",
-        "title": "Product Manager",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
-        "level": "pm",
-        "firstSeen": "2026-10-15"
       }
     ],
     "Karat": [
@@ -1113,18 +1097,18 @@
     ],
     "Microsoft": [
       {
-        "id": "eightfold-microsoft.com-1970393556944984",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393556997831",
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556944984",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1161,20 +1145,12 @@
         "firstSeen": "2026-10-06"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557016561",
+        "id": "eightfold-microsoft.com-1970393557040598",
         "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
         "level": "senior",
-        "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557016611",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
-        "level": "senior",
-        "firstSeen": "2026-10-07"
+        "firstSeen": "2026-10-16"
       },
       {
         "id": "eightfold-microsoft.com-1970393557037770",
@@ -1185,12 +1161,12 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557040598",
+        "id": "eightfold-microsoft.com-1970393557016611",
         "title": "Senior Product Manager",
-        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
         "level": "senior",
-        "firstSeen": "2026-10-16"
+        "firstSeen": "2026-10-07"
       },
       {
         "id": "eightfold-microsoft.com-1970393556971850",
@@ -1199,6 +1175,14 @@
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556971850",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557016561",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+        "level": "senior",
+        "firstSeen": "2026-10-06"
       }
     ],
     "Mihup": [
@@ -2158,7 +2142,7 @@
     "Mastercard": "2026-10-18",
     "Meesho": "2026-10-18",
     "Mensa Brands (BRND.ME)": "2026-10-18",
-    "Microsoft": "2026-10-17",
+    "Microsoft": "2026-10-18",
     "Mihup": "2026-10-18",
     "Mindtickle": "2026-10-18",
     "MongoDB": "2026-10-18",

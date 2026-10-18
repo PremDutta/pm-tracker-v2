@@ -6345,7 +6345,7 @@
         },
         "2026-10-18": {
           "total": 100,
-          "eng": 31
+          "eng": 33
         }
       },
       "pm": {
@@ -6426,7 +6426,8 @@
             "oracle-jpmc.fa.oraclecloud.com-210797096",
             "oracle-jpmc.fa.oraclecloud.com-210800513"
           ],
-          "lastSeen": "2026-10-18"
+          "lastSeen": "2026-10-18",
+          "closedOn": "2026-10-18"
         },
         "technical product manager etl data reporting sql": {
           "ids": [
@@ -8360,8 +8361,8 @@
           "eng": 81
         },
         "2026-10-18": {
-          "total": 96,
-          "eng": 81
+          "total": 95,
+          "eng": 80
         }
       },
       "pm": {}
@@ -9737,7 +9738,7 @@
           "eng": 24
         },
         "2026-10-18": {
-          "total": 80,
+          "total": 79,
           "eng": 24
         }
       },
@@ -9989,7 +9990,8 @@
         },
         "2026-10-18": {
           "total": 200,
-          "eng": 43
+          "eng": 168,
+          "spike": true
         }
       },
       "pm": {
@@ -9998,7 +10000,8 @@
             "workday-accenture-/job/Bengaluru/Product-Owner_ATCI-5041691-S1871664-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1"
           ],
-          "lastSeen": "2026-10-18"
+          "lastSeen": "2026-10-18",
+          "closedOn": "2026-10-18"
         },
         "product management analyst": {
           "ids": [
@@ -10011,7 +10014,8 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-18"
+          "lastSeen": "2026-10-18",
+          "closedOn": "2026-10-18"
         },
         "ai product management practitioner": {
           "ids": [
@@ -10019,7 +10023,8 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-18"
+          "lastSeen": "2026-10-18",
+          "closedOn": "2026-10-18"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
@@ -10200,6 +10205,10 @@
         "2026-10-17": {
           "total": 69,
           "eng": 30
+        },
+        "2026-10-18": {
+          "total": 67,
+          "eng": 30
         }
       },
       "pm": {
@@ -10207,9 +10216,10 @@
           "ids": [
             "eightfold-microsoft.com-1970393556962532",
             "eightfold-microsoft.com-1970393556971850",
-            "eightfold-microsoft.com-1970393557016561"
+            "eightfold-microsoft.com-1970393557016561",
+            "eightfold-microsoft.com-1970393557040598"
           ],
-          "lastSeen": "2026-10-17"
+          "lastSeen": "2026-10-18"
         },
         "principal product manager": {
           "ids": [
@@ -10219,7 +10229,7 @@
             "eightfold-microsoft.com-1970393556999250",
             "eightfold-microsoft.com-1970393556911401"
           ],
-          "lastSeen": "2026-10-17"
+          "lastSeen": "2026-10-18"
         },
         "product manager ii": {
           "ids": [
@@ -10227,7 +10237,7 @@
             "eightfold-microsoft.com-1970393557016594",
             "eightfold-microsoft.com-1970393557038894"
           ],
-          "lastSeen": "2026-10-17"
+          "lastSeen": "2026-10-18"
         },
         "principal product management": {
           "ids": [
@@ -10240,7 +10250,7 @@
           "ids": [
             "eightfold-microsoft.com-1970393556978896"
           ],
-          "lastSeen": "2026-10-17"
+          "lastSeen": "2026-10-18"
         }
       }
     },
@@ -13196,8 +13206,8 @@
           "eng": 34
         },
         "2026-10-18": {
-          "total": 106,
-          "eng": 34
+          "total": 107,
+          "eng": 35
         }
       },
       "pm": {
