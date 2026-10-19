@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-19T03:33:30.840Z",
+  "scannedAt": "2026-10-19T08:00:47.478Z",
   "roles": {
     "Amazon": [
       {
@@ -867,6 +867,14 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796604",
         "level": "group",
         "firstSeen": "2026-10-14"
+      },
+      {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210800895",
+        "title": "Product Manager – Vice President ConnectWealth",
+        "location": "Mumbai, Maharashtra, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800895",
+        "level": "leadership",
+        "firstSeen": "2026-10-19"
       }
     ],
     "Karat": [
@@ -1097,6 +1105,14 @@
     ],
     "Microsoft": [
       {
+        "id": "eightfold-microsoft.com-1970393556944984",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393556911401",
         "title": "Principal Product Manager",
         "location": "India, Karnataka, Bangalore",
@@ -1109,14 +1125,6 @@
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393556944984",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1153,20 +1161,20 @@
         "firstSeen": "2026-10-06"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557037770",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
-        "level": "senior",
-        "firstSeen": "2026-10-15"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557016611",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
         "level": "senior",
         "firstSeen": "2026-10-07"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557037770",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "level": "senior",
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040598",
@@ -1254,9 +1262,9 @@
     "MyOperator": [
       {
         "id": "zoho-myoperator-163599000034203948",
-        "title": "Product Manager - Conversational AI",
+        "title": "Product Manager",
         "location": "Noida, India",
-        "url": "https://careers.myoperator.com/jobs/Careers/163599000034203948/Product-Manager-Conversational-AI?source=CareerSite",
+        "url": "https://careers.myoperator.com/jobs/Careers/163599000034203948/Product-Manager?source=CareerSite",
         "level": "pm",
         "firstSeen": "2026-09-30"
       }
@@ -1837,6 +1845,14 @@
     ],
     "Visa": [
       {
+        "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF085044W-1",
+        "title": "Product Manager",
+        "location": "IN - Bengaluru, India",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF085044W-1",
+        "level": "pm",
+        "firstSeen": "2026-10-19"
+      },
+      {
         "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF089128W-1",
         "title": "Product Manager",
         "location": "IN - Bengaluru, India",
@@ -1869,6 +1885,22 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Product-Management-Consultant_R-579868",
         "level": "pm",
         "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-581574",
+        "title": "Digital Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-581574",
+        "level": "pm",
+        "firstSeen": "2026-10-19"
+      },
+      {
+        "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+        "title": "Lead Business Execution Consultant Product Owner AI Agentic",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+        "level": "group",
+        "firstSeen": "2026-10-19"
       },
       {
         "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
@@ -2126,7 +2158,7 @@
     "Mastercard": "2026-10-19",
     "Meesho": "2026-10-19",
     "Mensa Brands (BRND.ME)": "2026-10-19",
-    "Microsoft": "2026-10-18",
+    "Microsoft": "2026-10-19",
     "Mihup": "2026-10-19",
     "Mindtickle": "2026-10-19",
     "MongoDB": "2026-10-19",
@@ -2154,7 +2186,7 @@
     "Polygon Labs": "2026-10-19",
     "Postman": "2026-10-19",
     "PwC India": "2026-10-19",
-    "Qualcomm": "2026-10-18",
+    "Qualcomm": "2026-10-19",
     "Ramp": "2026-10-19",
     "Razorpay": "2026-10-19",
     "Rippling": "2026-10-19",

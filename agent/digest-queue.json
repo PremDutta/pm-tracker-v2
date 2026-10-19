@@ -3249,6 +3249,42 @@
       "url": "https://jobs.lever.co/getwingapp/9d79c468-5413-4451-8020-8531588f29a1",
       "source": "Lever (Wing Assistant (M32 AI))",
       "queuedOn": "2026-10-17"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210800895",
+      "title": "Product Manager – Vice President ConnectWealth",
+      "company": "JPMorgan Chase",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800895",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-19"
+    },
+    {
+      "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF085044W-1",
+      "title": "Product Manager",
+      "company": "Visa",
+      "location": "IN - Bengaluru, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF085044W-1",
+      "source": "Workday (Visa)",
+      "queuedOn": "2026-10-19"
+    },
+    {
+      "id": "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-581574",
+      "title": "Digital Product Manager",
+      "company": "Wells Fargo",
+      "location": "Hyderabad, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-581574",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-19"
+    },
+    {
+      "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+      "title": "Lead Business Execution Consultant Product Owner AI Agentic",
+      "company": "Wells Fargo",
+      "location": "Hyderabad, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-19"
     }
   ],
   "signals": [

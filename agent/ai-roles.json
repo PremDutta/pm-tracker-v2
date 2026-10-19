@@ -1,6 +1,28 @@
 {
   "roles": [
     {
+      "id": "eightfold-qualcomm.com-446717846060",
+      "title": "Staff/Director – AI HW Product Management",
+      "company": "Qualcomm",
+      "location": "Bangalore, India",
+      "url": "https://careers.qualcomm.com/careers/job/446717846060",
+      "source": "Qualcomm careers",
+      "level": "leadership",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+      "title": "Lead Business Execution Consultant Product Owner AI Agentic",
+      "company": "Wells Fargo",
+      "location": "Hyderabad, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+      "source": "Workday (Wells Fargo)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-19"
+    },
+    {
       "id": "vc-lightspeed-ef285596-5640-47e2-a882-cccebe127c45",
       "title": "AI Product Manager, FinCrime",
       "company": "Aspire",
@@ -274,72 +296,6 @@
       "level": "senior",
       "aiMatch": "company",
       "firstSeen": "2026-10-17"
-    },
-    {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "vc-peakxv-lbtWSkK_VfSx",
-      "title": "AI Native Product Manager",
-      "company": "Leap Finance",
-      "location": "Bengaluru, India",
-      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "vc-peakxv-25493",
-      "title": "Principal Product Manager, AI",
-      "company": "SaaS Labs",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://careers.kula.ai/saas-labs/25493",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "vc-peakxv-8041196002",
-      "title": "Product Manager",
-      "company": "Sigmoid",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "vc-peakxv-417781",
-      "title": "AI Product Manager",
-      "company": "smallcase",
-      "location": "Bengaluru, Karnataka, India, India",
-      "url": "https://app.pyjamahr.com/careers?company=smallcase&job_id=417781&company_uuid=2615584222",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "vc-peakxv-137246",
-      "title": "AI PRODUCT MANAGER",
-      "company": "TestMu",
-      "location": "Noida, UP, India",
-      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-16"
     },
     {
       "id": "sf-careers.wipro.com-203003",
@@ -876,17 +832,6 @@
       "location": "Bengaluru, Karnataka, India",
       "url": "https://jobs.myntra.com/jobs/null?tenantId=MYNTRA-93as3&channel=Q29weSBMaW5r&sourceName=&title=Product_Manager_3-_Data_Platform&ref=job-share-direct-link",
       "source": "VC board (Accel portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "zoho-myoperator-163599000034203948",
-      "title": "Product Manager - Conversational AI",
-      "company": "MyOperator",
-      "location": "Noida, India",
-      "url": "https://careers.myoperator.com/jobs/Careers/163599000034203948/Product-Manager-Conversational-AI?source=CareerSite",
-      "source": "Zoho Recruit (MyOperator)",
       "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-05"
