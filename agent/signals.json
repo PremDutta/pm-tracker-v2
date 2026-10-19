@@ -3,6 +3,20 @@
     {
       "type": "eng_spike",
       "company": "Accenture",
+      "date": "2026-10-19",
+      "detail": "167 engineering openings vs a usual 37"
+    },
+    {
+      "type": "funding",
+      "company": "The Pant Project",
+      "title": "The Pant Project Raises ₹109 Cr To Expand Store Network & Portfolio",
+      "url": "https://inc42.com/buzz/the-pant-project-raises-%e2%82%b9109-cr-to-expand-store-network-portfolio/",
+      "date": "2026-10-19",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
       "date": "2026-10-18",
       "detail": "168 engineering openings vs a usual 37"
     },
