@@ -23,6 +23,17 @@
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "eightfold-qualcomm.com-446717846060",
+      "title": "Staff/Director – AI HW Product Management",
+      "company": "Qualcomm",
+      "location": "Bangalore, India",
+      "url": "https://careers.qualcomm.com/careers/job/446717846060",
+      "source": "Qualcomm careers",
+      "level": "leadership",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-19"
+    },
+    {
       "id": "vc-peakxv-25493",
       "title": "Principal Product Manager, AI",
       "company": "SaaS Labs",
@@ -40,6 +51,17 @@
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
       "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "greenhouse-simpplr-6220126004",
+      "title": "Associate Product Manager - Product Discovery & Strategy",
+      "company": "Simpplr",
+      "location": "Bengaluru, India; Gurugram, India",
+      "url": "https://job-boards.greenhouse.io/simpplr/jobs/6220126004",
+      "source": "Greenhouse (Simpplr)",
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-19"
@@ -416,17 +438,6 @@
       "source": "SmartRecruiters (ServiceNow)",
       "level": "group",
       "aiMatch": "title",
-      "firstSeen": "2026-10-15"
-    },
-    {
-      "id": "vc-accel-48045360",
-      "title": "Associate Director - Product",
-      "company": "Spyne",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://spyneai.keka.com/careers/jobdetails/49785",
-      "source": "VC board (Accel portfolio)",
-      "level": "leadership",
-      "aiMatch": "company",
       "firstSeen": "2026-10-15"
     },
     {

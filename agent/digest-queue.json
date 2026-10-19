@@ -3303,6 +3303,51 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040189",
       "source": "Microsoft careers",
       "queuedOn": "2026-10-19"
+    },
+    {
+      "id": "greenhouse-anthropic-5457043008",
+      "title": "Product Manager, Claude Marketplace",
+      "company": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457043008",
+      "source": "Greenhouse (Anthropic)",
+      "queuedOn": "2026-10-20"
+    },
+    {
+      "id": "amazon-10582807",
+      "title": "Senior Product Manager, Associate Satisfaction",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10582807/senior-product-manager-associate-satisfaction",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-20"
+    },
+    {
+      "id": "oracle-eeho.fa.us2.oraclecloud.com-347873",
+      "title": "Product Manager/Strategy 3-ProdDev",
+      "company": "Oracle",
+      "location": "HYDERABAD, TELANGANA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347873",
+      "source": "Oracle careers",
+      "queuedOn": "2026-10-20"
+    },
+    {
+      "id": "vc-accel-97418650",
+      "title": "Sr Product Manager",
+      "company": "Swiftkey",
+      "location": "Indiana, USA, Noida, Uttar Pradesh, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040189",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-20"
+    },
+    {
+      "id": "vc-accel-97400138",
+      "title": "Product Manager",
+      "company": "Pismo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF085044W-1",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-20"
     }
   ],
   "signals": [
