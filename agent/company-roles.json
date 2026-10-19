@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-19T08:00:47.478Z",
+  "scannedAt": "2026-10-19T10:50:43.642Z",
   "roles": {
     "Amazon": [
       {
@@ -541,6 +541,14 @@
     ],
     "Freshworks": [
       {
+        "id": "smartrecruiters-freshworks-744000140661230",
+        "title": "Senior Director - Product Design",
+        "location": "Bengaluru, KA, India",
+        "url": "https://jobs.smartrecruiters.com/Freshworks/744000140661230",
+        "level": "leadership",
+        "firstSeen": "2026-10-19"
+      },
+      {
         "id": "smartrecruiters-freshworks-744000150936730",
         "title": "Staff Product Manager",
         "location": "Bengaluru, , India",
@@ -713,22 +721,6 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -741,6 +733,22 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1815,14 +1823,6 @@
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
         "level": "leadership",
         "firstSeen": "2026-10-16"
-      },
-      {
-        "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
-        "title": "Principal Product Manager",
-        "location": "Bangalore,India",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
-        "level": "group",
-        "firstSeen": "2026-10-07"
       },
       {
         "id": "workday-target-/job/BangaloreIndia/Sr-Product-Manager_R0000442398-1",

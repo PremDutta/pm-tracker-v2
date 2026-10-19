@@ -3285,6 +3285,15 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
       "source": "Workday (Wells Fargo)",
       "queuedOn": "2026-10-19"
+    },
+    {
+      "id": "greenhouse-asana-8282574",
+      "title": "Product Manager, Coordinate",
+      "company": "Asana",
+      "location": "Warsaw",
+      "url": "https://www.asana.com/jobs/apply/8282574?gh_jid=8282574",
+      "source": "Greenhouse (Asana)",
+      "queuedOn": "2026-10-19"
     }
   ],
   "signals": [
