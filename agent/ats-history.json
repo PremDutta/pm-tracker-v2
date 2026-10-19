@@ -3095,7 +3095,7 @@
           "eng": 8
         },
         "2026-10-19": {
-          "total": 58,
+          "total": 59,
           "eng": 8
         }
       },
@@ -3370,8 +3370,8 @@
           "eng": 4
         },
         "2026-10-19": {
-          "total": 18,
-          "eng": 3
+          "total": 17,
+          "eng": 2
         }
       },
       "pm": {
@@ -3917,7 +3917,7 @@
           "eng": 1
         },
         "2026-10-19": {
-          "total": 26,
+          "total": 28,
           "eng": 1
         }
       },
@@ -6573,7 +6573,7 @@
         },
         "2026-10-19": {
           "total": 100,
-          "eng": 29
+          "eng": 30
         }
       },
       "pm": {
@@ -7047,7 +7047,7 @@
           "eng": 2
         },
         "2026-10-19": {
-          "total": 8,
+          "total": 7,
           "eng": 1
         }
       },
@@ -7489,7 +7489,7 @@
         },
         "2026-10-19": {
           "total": 100,
-          "eng": 23
+          "eng": 22
         }
       },
       "pm": {
@@ -7610,7 +7610,7 @@
           "eng": 2
         },
         "2026-10-19": {
-          "total": 27,
+          "total": 28,
           "eng": 2
         }
       },
@@ -7810,7 +7810,7 @@
           "eng": 12
         },
         "2026-10-19": {
-          "total": 21,
+          "total": 18,
           "eng": 12
         }
       },
@@ -8032,7 +8032,7 @@
         },
         "2026-10-19": {
           "total": 100,
-          "eng": 46
+          "eng": 47
         }
       },
       "pm": {
@@ -8342,7 +8342,7 @@
           "eng": 73
         },
         "2026-10-19": {
-          "total": 137,
+          "total": 136,
           "eng": 72
         }
       },
@@ -8422,7 +8422,8 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Manager--Product-Management--Product-Resilience_R-287961"
           ],
-          "lastSeen": "2026-10-19"
+          "lastSeen": "2026-10-19",
+          "closedOn": "2026-10-19"
         },
         "specialist product management": {
           "ids": [
@@ -9766,8 +9767,8 @@
           "eng": 46
         },
         "2026-10-19": {
-          "total": 81,
-          "eng": 46
+          "total": 82,
+          "eng": 47
         }
       },
       "pm": {
@@ -10092,8 +10093,8 @@
           "eng": 21
         },
         "2026-10-19": {
-          "total": 79,
-          "eng": 23
+          "total": 80,
+          "eng": 24
         }
       },
       "pm": {
@@ -10269,7 +10270,7 @@
         },
         "2026-10-19": {
           "total": 81,
-          "eng": 46
+          "eng": 44
         }
       },
       "pm": {}
@@ -10366,7 +10367,7 @@
         },
         "2026-10-19": {
           "total": 200,
-          "eng": 175,
+          "eng": 176,
           "spike": true
         }
       },
@@ -10377,7 +10378,8 @@
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5822106-S2072465-1"
           ],
-          "lastSeen": "2026-10-19"
+          "lastSeen": "2026-10-19",
+          "closedOn": "2026-10-19"
         },
         "product management analyst": {
           "ids": [
@@ -10592,7 +10594,7 @@
         },
         "2026-10-19": {
           "total": 62,
-          "eng": 28
+          "eng": 27
         }
       },
       "pm": {
@@ -10601,7 +10603,8 @@
             "eightfold-microsoft.com-1970393556962532",
             "eightfold-microsoft.com-1970393556971850",
             "eightfold-microsoft.com-1970393557016561",
-            "eightfold-microsoft.com-1970393557040598"
+            "eightfold-microsoft.com-1970393557040598",
+            "eightfold-microsoft.com-1970393557037770"
           ],
           "lastSeen": "2026-10-19"
         },
@@ -10633,6 +10636,12 @@
         "product management intern": {
           "ids": [
             "eightfold-microsoft.com-1970393556978896"
+          ],
+          "lastSeen": "2026-10-19"
+        },
+        "sr product manager": {
+          "ids": [
+            "eightfold-microsoft.com-1970393557040189"
           ],
           "lastSeen": "2026-10-19"
         }
@@ -12816,7 +12825,7 @@
         },
         "2026-10-19": {
           "total": 200,
-          "eng": 113
+          "eng": 122
         }
       },
       "pm": {
@@ -13051,7 +13060,7 @@
           "eng": 198
         },
         "2026-10-19": {
-          "total": 650,
+          "total": 653,
           "eng": 199
         }
       },
@@ -13483,7 +13492,7 @@
           "eng": 182
         },
         "2026-10-19": {
-          "total": 358,
+          "total": 357,
           "eng": 180
         }
       },
@@ -13973,7 +13982,7 @@
           "eng": 18
         },
         "2026-10-19": {
-          "total": 368,
+          "total": 367,
           "eng": 18
         }
       },

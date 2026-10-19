@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-19T10:50:43.642Z",
+  "scannedAt": "2026-10-19T12:21:23.027Z",
   "roles": {
     "Amazon": [
       {
@@ -1005,14 +1005,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "workday-mastercard-/job/Pune-India/Manager--Product-Management--Product-Resilience_R-287961",
-        "title": "Manager, Product Management, Product Resilience",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management--Product-Resilience_R-287961",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
         "title": "Senior Product Manager - Technical",
         "location": "Pune, India",
@@ -1113,18 +1105,18 @@
     ],
     "Microsoft": [
       {
-        "id": "eightfold-microsoft.com-1970393556944984",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393556911401",
         "title": "Principal Product Manager",
         "location": "India, Karnataka, Bangalore",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556944984",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1161,6 +1153,22 @@
         "firstSeen": "2026-10-06"
       },
       {
+        "id": "eightfold-microsoft.com-1970393557037770",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "level": "senior",
+        "firstSeen": "2026-10-15"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557040598",
+        "title": "Senior Product Manager",
+        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
+        "level": "senior",
+        "firstSeen": "2026-10-16"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557016561",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
@@ -1177,20 +1185,12 @@
         "firstSeen": "2026-10-07"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557037770",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "id": "eightfold-microsoft.com-1970393557040189",
+        "title": "Sr Product Manager",
+        "location": "India, Uttar Pradesh, Noida; India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040189",
         "level": "senior",
-        "firstSeen": "2026-10-15"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557040598",
-        "title": "Senior Product Manager",
-        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
-        "level": "senior",
-        "firstSeen": "2026-10-16"
+        "firstSeen": "2026-10-19"
       }
     ],
     "Mihup": [
