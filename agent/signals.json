@@ -1,6 +1,14 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "Kissht",
+      "title": "Kissht gets BSE, NSE nod for Rs 832 Cr fundraise",
+      "url": "https://entrackr.com/news/kissht-gets-bse-nse-nod-for-rs-832-cr-fundraise-12691676",
+      "date": "2026-10-20",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-10-19",

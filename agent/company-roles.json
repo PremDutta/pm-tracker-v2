@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-20T03:43:38.288Z",
+  "scannedAt": "2026-10-20T07:50:15.192Z",
   "roles": {
     "Amazon": [
       {
@@ -729,18 +729,18 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -919,6 +919,16 @@
         "url": "https://letstransport.freshteam.com/jobs/J2_Td7V_HRv5/product-manager",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "Lowe's India": [
+      {
+        "id": "workday-lowes-/job/Bengaluru/Sr-Product-Manager_JR-02641454",
+        "title": "Sr Product Manager",
+        "location": "Bengaluru",
+        "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Sr-Product-Manager_JR-02641454",
+        "level": "senior",
+        "firstSeen": "2026-10-20"
       }
     ],
     "Lyzr": [
@@ -1113,6 +1123,14 @@
     ],
     "Microsoft": [
       {
+        "id": "eightfold-microsoft.com-1970393556997831",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393556944984",
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad",
@@ -1125,14 +1143,6 @@
         "title": "Principal Product Manager",
         "location": "India, Karnataka, Bangalore",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393556997831",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1161,14 +1171,6 @@
         "firstSeen": "2026-10-06"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557016611",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
-        "level": "senior",
-        "firstSeen": "2026-10-07"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557016561",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
@@ -1191,6 +1193,14 @@
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
         "level": "senior",
         "firstSeen": "2026-10-15"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557016611",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
+        "level": "senior",
+        "firstSeen": "2026-10-07"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040189",
