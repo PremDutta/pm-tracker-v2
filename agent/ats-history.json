@@ -95,7 +95,7 @@
           "eng": 44
         },
         "2026-10-20": {
-          "total": 105,
+          "total": 104,
           "eng": 41
         }
       },
@@ -277,7 +277,7 @@
           "eng": 279
         },
         "2026-10-20": {
-          "total": 670,
+          "total": 672,
           "eng": 281
         }
       },
@@ -379,7 +379,8 @@
           "ids": [
             "greenhouse-anthropic-5434361008"
           ],
-          "lastSeen": "2026-10-20"
+          "lastSeen": "2026-10-20",
+          "closedOn": "2026-10-20"
         },
         "product manager enterprise privacy": {
           "ids": [
@@ -496,7 +497,7 @@
           "eng": 28
         },
         "2026-10-20": {
-          "total": 63,
+          "total": 67,
           "eng": 28
         }
       },
@@ -1178,8 +1179,8 @@
           "eng": 79
         },
         "2026-10-20": {
-          "total": 182,
-          "eng": 79
+          "total": 178,
+          "eng": 77
         }
       },
       "pm": {
@@ -1607,7 +1608,7 @@
           "eng": 38
         },
         "2026-10-20": {
-          "total": 91,
+          "total": 93,
           "eng": 37
         }
       },
@@ -1739,7 +1740,7 @@
           "eng": 40
         },
         "2026-10-20": {
-          "total": 157,
+          "total": 158,
           "eng": 42
         }
       },
@@ -1860,7 +1861,7 @@
           "eng": 30
         },
         "2026-10-20": {
-          "total": 46,
+          "total": 45,
           "eng": 29
         }
       },
@@ -1969,8 +1970,8 @@
           "eng": 32
         },
         "2026-10-20": {
-          "total": 142,
-          "eng": 33
+          "total": 141,
+          "eng": 31
         }
       },
       "pm": {
@@ -2342,8 +2343,8 @@
           "eng": 416
         },
         "2026-10-20": {
-          "total": 804,
-          "eng": 415
+          "total": 809,
+          "eng": 417
         }
       },
       "pm": {
@@ -2532,7 +2533,7 @@
           "eng": 40
         },
         "2026-10-20": {
-          "total": 168,
+          "total": 169,
           "eng": 41
         }
       },
@@ -4516,7 +4517,7 @@
           "eng": 16
         },
         "2026-10-20": {
-          "total": 33,
+          "total": 32,
           "eng": 16
         }
       },
@@ -4618,8 +4619,8 @@
           "eng": 5
         },
         "2026-10-20": {
-          "total": 10,
-          "eng": 5
+          "total": 11,
+          "eng": 6
         }
       },
       "pm": {}
@@ -6204,7 +6205,7 @@
           "eng": 31
         },
         "2026-10-20": {
-          "total": 46,
+          "total": 45,
           "eng": 31
         }
       },
@@ -6528,7 +6529,7 @@
           "eng": 10
         },
         "2026-10-20": {
-          "total": 37,
+          "total": 36,
           "eng": 10
         }
       },
@@ -6706,7 +6707,7 @@
           "eng": 14
         },
         "2026-10-20": {
-          "total": 29,
+          "total": 28,
           "eng": 14
         }
       },
@@ -6721,7 +6722,8 @@
           "ids": [
             "greenhouse-netradyne-4722020005"
           ],
-          "lastSeen": "2026-10-20"
+          "lastSeen": "2026-10-20",
+          "closedOn": "2026-10-20"
         },
         "product manager devices": {
           "ids": [
@@ -7128,7 +7130,7 @@
         },
         "2026-10-20": {
           "total": 100,
-          "eng": 9
+          "eng": 10
         }
       },
       "pm": {}
@@ -7409,8 +7411,8 @@
           "eng": 4
         },
         "2026-10-20": {
-          "total": 4,
-          "eng": 0
+          "total": 6,
+          "eng": 2
         }
       },
       "pm": {
@@ -8333,7 +8335,7 @@
         },
         "2026-10-20": {
           "total": 100,
-          "eng": 46
+          "eng": 41
         }
       },
       "pm": {
@@ -8559,6 +8561,12 @@
         "sr staff inbound product manager partner relationship management": {
           "ids": [
             "smartrecruiters-ServiceNow-744000156043929"
+          ],
+          "lastSeen": "2026-10-20"
+        },
+        "technical product manager legal ai and platforms": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000156648956"
           ],
           "lastSeen": "2026-10-20"
         }
@@ -9522,7 +9530,7 @@
           "eng": 34
         },
         "2026-10-20": {
-          "total": 101,
+          "total": 102,
           "eng": 34
         }
       },
@@ -10462,8 +10470,8 @@
           "eng": 24
         },
         "2026-10-20": {
-          "total": 68,
-          "eng": 24
+          "total": 64,
+          "eng": 22
         }
       },
       "pm": {
@@ -10481,7 +10489,8 @@
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1"
           ],
-          "lastSeen": "2026-10-20"
+          "lastSeen": "2026-10-20",
+          "closedOn": "2026-10-20"
         },
         "senior lead digital product manager access entitlements platform": {
           "ids": [
@@ -10644,8 +10653,8 @@
           "eng": 43
         },
         "2026-10-20": {
-          "total": 81,
-          "eng": 45
+          "total": 75,
+          "eng": 40
         }
       },
       "pm": {}
@@ -10875,7 +10884,7 @@
           "eng": 47
         },
         "2026-10-20": {
-          "total": 76,
+          "total": 77,
           "eng": 46
         }
       },
@@ -10973,7 +10982,7 @@
           "eng": 27
         },
         "2026-10-20": {
-          "total": 60,
+          "total": 61,
           "eng": 27
         }
       },
@@ -11417,7 +11426,7 @@
         },
         "2026-10-20": {
           "total": 901,
-          "eng": 579
+          "eng": 578
         }
       },
       "pm": {
@@ -11975,7 +11984,7 @@
           "eng": 9
         },
         "2026-10-20": {
-          "total": 28,
+          "total": 25,
           "eng": 9
         }
       },
@@ -12699,8 +12708,8 @@
           "eng": 165
         },
         "2026-10-20": {
-          "total": 396,
-          "eng": 166
+          "total": 394,
+          "eng": 167
         }
       },
       "pm": {
@@ -12714,7 +12723,8 @@
           "ids": [
             "greenhouse-mongodb-7428476"
           ],
-          "lastSeen": "2026-10-20"
+          "lastSeen": "2026-10-20",
+          "closedOn": "2026-10-20"
         },
         "senior director product management growth": {
           "ids": [
@@ -12893,7 +12903,7 @@
           "eng": 31
         },
         "2026-10-20": {
-          "total": 59,
+          "total": 60,
           "eng": 31
         }
       },
@@ -13223,8 +13233,8 @@
           "eng": 40
         },
         "2026-10-20": {
-          "total": 88,
-          "eng": 40
+          "total": 86,
+          "eng": 38
         }
       },
       "pm": {
@@ -13318,7 +13328,7 @@
         },
         "2026-10-20": {
           "total": 200,
-          "eng": 127
+          "eng": 126
         }
       },
       "pm": {
@@ -13430,7 +13440,7 @@
           "eng": 40
         },
         "2026-10-20": {
-          "total": 141,
+          "total": 142,
           "eng": 40
         }
       },
@@ -13561,7 +13571,7 @@
           "eng": 200
         },
         "2026-10-20": {
-          "total": 650,
+          "total": 662,
           "eng": 199
         }
       },
@@ -14009,8 +14019,8 @@
           "eng": 181
         },
         "2026-10-20": {
-          "total": 360,
-          "eng": 182
+          "total": 359,
+          "eng": 181
         }
       },
       "pm": {
@@ -14096,6 +14106,12 @@
         "director product management data transformation": {
           "ids": [
             "ashby-snowflake-2c1ede0e-02c9-4f74-b084-fc1f5ccd83e2"
+          ],
+          "lastSeen": "2026-10-20"
+        },
+        "senior product manager streamlit": {
+          "ids": [
+            "ashby-snowflake-b071b406-6bd0-4def-ba95-380b1cbf6de5"
           ],
           "lastSeen": "2026-10-20"
         }
@@ -14626,8 +14642,8 @@
           "eng": 5
         },
         "2026-10-20": {
-          "total": 15,
-          "eng": 5
+          "total": 16,
+          "eng": 6
         }
       },
       "pm": {
@@ -14702,7 +14718,7 @@
           "eng": 11
         },
         "2026-10-20": {
-          "total": 20,
+          "total": 21,
           "eng": 11
         }
       },

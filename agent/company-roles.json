@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-20T16:27:48.030Z",
+  "scannedAt": "2026-10-20T21:20:31.155Z",
   "roles": {
     "Amazon": [
       {
@@ -1123,12 +1123,20 @@
     ],
     "Microsoft": [
       {
-        "id": "eightfold-microsoft.com-1970393556997831",
+        "id": "eightfold-microsoft.com-1970393556911401",
         "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
+        "location": "India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
         "level": "group",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557042009",
+        "title": "Principal Product Manager",
+        "location": "India, Uttar Pradesh, Noida",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557042009",
+        "level": "group",
+        "firstSeen": "2026-10-20"
       },
       {
         "id": "eightfold-microsoft.com-1970393556944984",
@@ -1139,10 +1147,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556911401",
+        "id": "eightfold-microsoft.com-1970393556997831",
         "title": "Principal Product Manager",
-        "location": "India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1179,6 +1187,22 @@
         "firstSeen": "2026-10-06"
       },
       {
+        "id": "eightfold-microsoft.com-1970393557041943",
+        "title": "Senior Product Manager",
+        "location": "India, Uttar Pradesh, Noida",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
+        "level": "senior",
+        "firstSeen": "2026-10-20"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557016611",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
+        "level": "senior",
+        "firstSeen": "2026-10-07"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557040598",
         "title": "Senior Product Manager",
         "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
@@ -1193,14 +1217,6 @@
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
         "level": "senior",
         "firstSeen": "2026-10-15"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557016611",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
-        "level": "senior",
-        "firstSeen": "2026-10-07"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040189",
@@ -1921,14 +1937,6 @@
         "title": "Lead Business Execution Consultant Product Owner AI Agentic",
         "location": "Hyderabad, India",
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
-        "level": "group",
-        "firstSeen": "2026-10-19"
-      },
-      {
-        "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
-        "title": "Lead Digital Product Manager - CIAM",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
         "level": "group",
         "firstSeen": "2026-10-19"
       },
