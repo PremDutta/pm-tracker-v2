@@ -2,6 +2,14 @@
   "signals": [
     {
       "type": "funding",
+      "company": "Hunar.AI",
+      "title": "Hunar.AI raises Rs 40 Cr in Series A funding round led by Blume Ventures",
+      "url": "https://yourstory.com/2026/10/hunarai-raises-rs-40-crore-in-series-a-led-by-blume-ventures",
+      "date": "2026-10-20",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
       "company": "Kissht",
       "title": "Kissht gets BSE, NSE nod for Rs 832 Cr fundraise",
       "url": "https://entrackr.com/news/kissht-gets-bse-nse-nod-for-rs-832-cr-fundraise-12691676",
