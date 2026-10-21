@@ -285,7 +285,7 @@
           "eng": 281
         },
         "2026-10-21": {
-          "total": 675,
+          "total": 674,
           "eng": 282
         }
       },
@@ -621,8 +621,8 @@
           "eng": 53
         },
         "2026-10-21": {
-          "total": 133,
-          "eng": 53
+          "total": 134,
+          "eng": 54
         }
       },
       "pm": {
@@ -1792,7 +1792,7 @@
           "eng": 42
         },
         "2026-10-21": {
-          "total": 157,
+          "total": 156,
           "eng": 41
         }
       },
@@ -4187,8 +4187,8 @@
           "eng": 1
         },
         "2026-10-21": {
-          "total": 28,
-          "eng": 1
+          "total": 29,
+          "eng": 2
         }
       },
       "pm": {
@@ -4208,7 +4208,8 @@
         },
         "product manager": {
           "ids": [
-            "keka-gokwik-166740"
+            "keka-gokwik-166740",
+            "keka-gokwik-167247"
           ],
           "lastSeen": "2026-10-21"
         }
@@ -4561,7 +4562,7 @@
           "eng": 6
         },
         "2026-10-21": {
-          "total": 146,
+          "total": 147,
           "eng": 6
         }
       },
@@ -5388,7 +5389,7 @@
           "eng": 6
         },
         "2026-10-21": {
-          "total": 38,
+          "total": 39,
           "eng": 6
         }
       },
@@ -5808,7 +5809,7 @@
           "eng": 9
         },
         "2026-10-21": {
-          "total": 80,
+          "total": 81,
           "eng": 9
         }
       },
@@ -7040,7 +7041,7 @@
         },
         "2026-10-21": {
           "total": 100,
-          "eng": 24
+          "eng": 22
         }
       },
       "pm": {
@@ -7121,8 +7122,7 @@
             "oracle-jpmc.fa.oraclecloud.com-210797096",
             "oracle-jpmc.fa.oraclecloud.com-210800513"
           ],
-          "lastSeen": "2026-10-18",
-          "closedOn": "2026-10-18"
+          "lastSeen": "2026-10-21"
         },
         "technical product manager etl data reporting sql": {
           "ids": [
@@ -7654,8 +7654,8 @@
           "eng": 2
         },
         "2026-10-21": {
-          "total": 7,
-          "eng": 3
+          "total": 5,
+          "eng": 1
         }
       },
       "pm": {
@@ -7854,7 +7854,7 @@
           "eng": 9
         },
         "2026-10-21": {
-          "total": 190,
+          "total": 191,
           "eng": 9
         }
       },
@@ -8027,7 +8027,7 @@
         },
         "2026-10-21": {
           "total": 100,
-          "eng": 22
+          "eng": 23
         }
       },
       "pm": {
@@ -8662,10 +8662,10 @@
         "staff inbound product manager": {
           "ids": [
             "smartrecruiters-ServiceNow-744000152746979",
-            "smartrecruiters-ServiceNow-744000153660649"
+            "smartrecruiters-ServiceNow-744000153660649",
+            "smartrecruiters-ServiceNow-744000156718589"
           ],
-          "lastSeen": "2026-10-08",
-          "closedOn": "2026-10-08"
+          "lastSeen": "2026-10-21"
         },
         "senior director product unified security and exposure management": {
           "ids": [
@@ -8950,7 +8950,7 @@
           "eng": 74
         },
         "2026-10-21": {
-          "total": 137,
+          "total": 140,
           "eng": 74
         }
       },
@@ -9022,7 +9022,8 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289421",
             "workday-mastercard-/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2",
-            "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical_R-291940-1"
+            "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical_R-291940-1",
+            "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-291501"
           ],
           "lastSeen": "2026-10-21"
         },
@@ -9287,7 +9288,7 @@
         },
         "2026-10-21": {
           "total": 93,
-          "eng": 80
+          "eng": 81
         }
       },
       "pm": {}
@@ -9857,8 +9858,8 @@
           "eng": 34
         },
         "2026-10-21": {
-          "total": 102,
-          "eng": 34
+          "total": 101,
+          "eng": 33
         }
       },
       "pm": {
@@ -9991,7 +9992,7 @@
           "eng": 1
         },
         "2026-10-21": {
-          "total": 15,
+          "total": 17,
           "eng": 1
         }
       },
@@ -10371,7 +10372,7 @@
           "eng": 8
         },
         "2026-10-21": {
-          "total": 24,
+          "total": 25,
           "eng": 8
         }
       },
@@ -10480,7 +10481,7 @@
         },
         "2026-10-21": {
           "total": 84,
-          "eng": 49
+          "eng": 50
         }
       },
       "pm": {
@@ -10829,8 +10830,8 @@
           "eng": 22
         },
         "2026-10-21": {
-          "total": 64,
-          "eng": 22
+          "total": 65,
+          "eng": 23
         }
       },
       "pm": {
@@ -11016,7 +11017,7 @@
           "eng": 40
         },
         "2026-10-21": {
-          "total": 75,
+          "total": 76,
           "eng": 40
         }
       },
@@ -11812,7 +11813,7 @@
           "eng": 578
         },
         "2026-10-21": {
-          "total": 901,
+          "total": 900,
           "eng": 578
         }
       },
@@ -12387,8 +12388,8 @@
           "eng": 9
         },
         "2026-10-21": {
-          "total": 17,
-          "eng": 6
+          "total": 16,
+          "eng": 5
         }
       },
       "pm": {
@@ -12475,8 +12476,8 @@
           "eng": 3
         },
         "2026-10-21": {
-          "total": 7,
-          "eng": 3
+          "total": 8,
+          "eng": 4
         }
       },
       "pm": {
@@ -13147,8 +13148,8 @@
           "eng": 167
         },
         "2026-10-21": {
-          "total": 394,
-          "eng": 167
+          "total": 396,
+          "eng": 168
         }
       },
       "pm": {
@@ -13346,8 +13347,8 @@
           "eng": 31
         },
         "2026-10-21": {
-          "total": 62,
-          "eng": 31
+          "total": 61,
+          "eng": 30
         }
       },
       "pm": {
@@ -13459,8 +13460,8 @@
           "eng": 14
         },
         "2026-10-21": {
-          "total": 19,
-          "eng": 14
+          "total": 16,
+          "eng": 12
         }
       },
       "pm": {
@@ -13791,7 +13792,7 @@
         },
         "2026-10-21": {
           "total": 200,
-          "eng": 126
+          "eng": 125
         }
       },
       "pm": {
@@ -15153,8 +15154,8 @@
           "eng": 6
         },
         "2026-10-21": {
-          "total": 16,
-          "eng": 6
+          "total": 15,
+          "eng": 5
         }
       },
       "pm": {
@@ -15233,8 +15234,8 @@
           "eng": 11
         },
         "2026-10-21": {
-          "total": 21,
-          "eng": 11
+          "total": 19,
+          "eng": 9
         }
       },
       "pm": {

@@ -3411,6 +3411,33 @@
       "url": "https://www.amazon.jobs/en/jobs/10584847/senior-product-manager-tech-shipment-technologies",
       "source": "Amazon careers",
       "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "keka-gokwik-167247",
+      "title": "Product Manager",
+      "company": "GoKwik",
+      "location": "Bangalore",
+      "url": "https://gokwik.keka.com/careers/jobdetails/167247",
+      "source": "Keka (GoKwik)",
+      "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-291501",
+      "title": "Lead Product Manager- Technical",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291501",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000156718589",
+      "title": "Staff Inbound Product Manager",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156718589",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-21"
     }
   ],
   "signals": [
@@ -3635,6 +3662,15 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156455559",
       "id": "smartrecruiters-ServiceNow-744000156455559",
       "detail": "closed 2026-10-18, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-21",
+      "title": "Staff Inbound Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156718589",
+      "id": "smartrecruiters-ServiceNow-744000156718589",
+      "detail": "closed 2026-10-08, reposted today"
     }
   ],
   "reminders": {}

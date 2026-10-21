@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-21T03:36:40.407Z",
+  "scannedAt": "2026-10-21T07:54:23.077Z",
   "roles": {
     "Amazon": [
       {
@@ -227,20 +227,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10576706",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "amazon-10431401",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10576706",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
       },
       {
         "id": "amazon-10499561",
@@ -593,6 +593,14 @@
     ],
     "GoKwik": [
       {
+        "id": "keka-gokwik-167247",
+        "title": "Product Manager",
+        "location": "Bangalore",
+        "url": "https://gokwik.keka.com/careers/jobdetails/167247",
+        "level": "pm",
+        "firstSeen": "2026-10-21"
+      },
+      {
         "id": "keka-gokwik-166740",
         "title": "Product Manager",
         "location": "Gurugram",
@@ -729,22 +737,6 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -757,6 +749,22 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -885,6 +893,14 @@
         "firstSeen": "2026-10-14"
       },
       {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210800513",
+        "title": "Product Manager",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800513",
+        "level": "pm",
+        "firstSeen": "2026-10-21"
+      },
+      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210800895",
         "title": "Product Manager – Vice President ConnectWealth",
         "location": "Mumbai, Maharashtra, India",
@@ -965,6 +981,14 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
         "level": "group",
         "firstSeen": "2026-10-08"
+      },
+      {
+        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-291501",
+        "title": "Lead Product Manager- Technical",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291501",
+        "level": "group",
+        "firstSeen": "2026-10-21"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289421",
@@ -1421,18 +1445,18 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "eightfold-paypal.com-274922819192",
-        "title": "Sr Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819192",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "eightfold-paypal.com-274922819195",
         "title": "Sr Product Manager",
         "location": "Bangalore, Karnataka, India",
         "url": "https://paypal.eightfold.ai/careers/job/274922819195",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "eightfold-paypal.com-274922819192",
+        "title": "Sr Product Manager",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://paypal.eightfold.ai/careers/job/274922819192",
         "level": "senior",
         "firstSeen": "2026-10-13"
       }
@@ -1779,6 +1803,14 @@
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156043929",
         "level": "group",
         "firstSeen": "2026-10-16"
+      },
+      {
+        "id": "smartrecruiters-ServiceNow-744000156718589",
+        "title": "Staff Inbound Product Manager",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156718589",
+        "level": "group",
+        "firstSeen": "2026-10-21"
       }
     ],
     "Sigmoid": [
