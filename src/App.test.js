@@ -337,7 +337,7 @@ test('Senior PM toggle: every search string switches to the senior term (incl. S
 
   await user.click(screen.getByRole('button', { name: 'Remote' }));
   expect([...document.querySelectorAll('a[href*="flexjobs"]')].map(a => a.href)[0]).toContain('search=Senior+Product+Manager');
-});
+}, 30000); // visits every tab: ~5s locally, slower on CI runners
 
 test('Network: a saved contact flags matching Watchlist and Tracker entries; Tracker copies a teardown brief', async () => {
   window.localStorage.setItem('pmt_applications', JSON.stringify([{ id: 'a1', company: 'Razorpay Software Pvt Ltd', role: 'Senior PM', status: 'Applied', appliedDate: '2026-09-26', link: 'https://razorpay.com/jobs/1' }]));
