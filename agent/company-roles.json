@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-21T07:54:23.077Z",
+  "scannedAt": "2026-10-21T10:29:28.983Z",
   "roles": {
     "Amazon": [
       {
@@ -227,20 +227,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10431401",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10576706",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "amazon-10431401",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10499561",
@@ -599,14 +599,6 @@
         "url": "https://gokwik.keka.com/careers/jobdetails/167247",
         "level": "pm",
         "firstSeen": "2026-10-21"
-      },
-      {
-        "id": "keka-gokwik-166740",
-        "title": "Product Manager",
-        "location": "Gurugram",
-        "url": "https://gokwik.keka.com/careers/jobdetails/166740",
-        "level": "pm",
-        "firstSeen": "2026-10-15"
       }
     ],
     "Gushwork": [
@@ -737,18 +729,10 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-159765",
+        "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158038",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -761,10 +745,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
+        "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158038",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1023,6 +1015,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293436",
+        "title": "Manager, Product Management",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-293436",
+        "level": "pm",
+        "firstSeen": "2026-10-21"
+      },
+      {
         "id": "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293101",
         "title": "Manager, Product Management",
         "location": "Pune, India",
@@ -1147,28 +1147,12 @@
     ],
     "Microsoft": [
       {
-        "id": "eightfold-microsoft.com-1970393556911401",
-        "title": "Principal Product Manager",
-        "location": "India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557042009",
         "title": "Principal Product Manager",
         "location": "India, Uttar Pradesh, Noida",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042009",
         "level": "group",
         "firstSeen": "2026-10-20"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393556944984",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
-        "level": "group",
-        "firstSeen": "2026-09-30"
       },
       {
         "id": "eightfold-microsoft.com-1970393556997831",
@@ -1179,12 +1163,28 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "eightfold-microsoft.com-1970393556944984",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393556978896",
         "title": "Product Management INTERN",
         "location": "India, Multiple Locations, Multiple Locations",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556978896",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557041935",
+        "title": "Product Manager -II",
+        "location": "India, Uttar Pradesh, Noida",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041935",
+        "level": "pm",
+        "firstSeen": "2026-10-21"
       },
       {
         "id": "eightfold-microsoft.com-1970393557038894",
@@ -1203,12 +1203,20 @@
         "firstSeen": "2026-10-06"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557016561",
+        "id": "eightfold-microsoft.com-1970393557016611",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
         "level": "senior",
-        "firstSeen": "2026-10-06"
+        "firstSeen": "2026-10-07"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557037770",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "level": "senior",
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "eightfold-microsoft.com-1970393557041943",
@@ -1219,14 +1227,6 @@
         "firstSeen": "2026-10-20"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557016611",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
-        "level": "senior",
-        "firstSeen": "2026-10-07"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557040598",
         "title": "Senior Product Manager",
         "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
@@ -1235,12 +1235,12 @@
         "firstSeen": "2026-10-16"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557037770",
+        "id": "eightfold-microsoft.com-1970393557016561",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
         "level": "senior",
-        "firstSeen": "2026-10-15"
+        "firstSeen": "2026-10-06"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040189",
@@ -1445,18 +1445,18 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "eightfold-paypal.com-274922819195",
-        "title": "Sr Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819195",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "eightfold-paypal.com-274922819192",
         "title": "Sr Product Manager",
         "location": "Bangalore, Karnataka, India",
         "url": "https://paypal.eightfold.ai/careers/job/274922819192",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "eightfold-paypal.com-274922819195",
+        "title": "Sr Product Manager",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://paypal.eightfold.ai/careers/job/274922819195",
         "level": "senior",
         "firstSeen": "2026-10-13"
       }
@@ -2051,18 +2051,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "zoho-go-yubi-66789000036412626",
-        "title": "Senior Product Manager",
-        "location": "Bangalore South, India",
-        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "zoho-go-yubi-66789000016213700",
         "title": "Senior Product Manager",
         "location": "Chennai, India",
         "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "zoho-go-yubi-66789000036412626",
+        "title": "Senior Product Manager",
+        "location": "Bangalore South, India",
+        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
         "level": "senior",
         "firstSeen": "2026-09-30"
       }
@@ -2196,7 +2196,7 @@
     "Mastercard": "2026-10-21",
     "Meesho": "2026-10-21",
     "Mensa Brands (BRND.ME)": "2026-10-21",
-    "Microsoft": "2026-10-20",
+    "Microsoft": "2026-10-21",
     "Mihup": "2026-10-21",
     "Mindtickle": "2026-10-21",
     "MongoDB": "2026-10-21",

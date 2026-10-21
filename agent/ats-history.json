@@ -285,7 +285,7 @@
           "eng": 281
         },
         "2026-10-21": {
-          "total": 674,
+          "total": 676,
           "eng": 282
         }
       },
@@ -769,7 +769,7 @@
           "eng": 46
         },
         "2026-10-21": {
-          "total": 116,
+          "total": 115,
           "eng": 46
         }
       },
@@ -1656,7 +1656,7 @@
           "eng": 37
         },
         "2026-10-21": {
-          "total": 93,
+          "total": 92,
           "eng": 37
         }
       },
@@ -4187,8 +4187,8 @@
           "eng": 1
         },
         "2026-10-21": {
-          "total": 29,
-          "eng": 2
+          "total": 31,
+          "eng": 3
         }
       },
       "pm": {
@@ -4314,7 +4314,7 @@
           "eng": 31
         },
         "2026-10-21": {
-          "total": 81,
+          "total": 78,
           "eng": 31
         }
       },
@@ -4377,6 +4377,12 @@
           "ids": [
             "lever-spotify-ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd",
             "lever-spotify-c5c82f59-504f-47f4-961e-a2d50a248357"
+          ],
+          "lastSeen": "2026-10-21"
+        },
+        "principal product manager core experience platform": {
+          "ids": [
+            "lever-spotify-73a83f73-2f59-4c82-bac3-7dfc5d3355ad"
           ],
           "lastSeen": "2026-10-21"
         }
@@ -4862,7 +4868,7 @@
         },
         "2026-10-21": {
           "total": 91,
-          "eng": 5
+          "eng": 4
         }
       },
       "pm": {
@@ -5809,7 +5815,7 @@
           "eng": 9
         },
         "2026-10-21": {
-          "total": 81,
+          "total": 82,
           "eng": 9
         }
       },
@@ -6506,7 +6512,7 @@
           "eng": 17
         },
         "2026-10-21": {
-          "total": 55,
+          "total": 53,
           "eng": 17
         }
       },
@@ -7041,7 +7047,7 @@
         },
         "2026-10-21": {
           "total": 100,
-          "eng": 22
+          "eng": 24
         }
       },
       "pm": {
@@ -7361,7 +7367,7 @@
         },
         "2026-10-21": {
           "total": 100,
-          "eng": 10
+          "eng": 11
         }
       },
       "pm": {}
@@ -8610,7 +8616,7 @@
         },
         "2026-10-21": {
           "total": 100,
-          "eng": 39
+          "eng": 38
         }
       },
       "pm": {
@@ -8950,8 +8956,8 @@
           "eng": 74
         },
         "2026-10-21": {
-          "total": 140,
-          "eng": 74
+          "total": 142,
+          "eng": 72
         }
       },
       "pm": {
@@ -8995,7 +9001,8 @@
             "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-290035",
             "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-291944",
             "workday-mastercard-/job/Gurgaon-India/Manager--Product-Management_R-291979",
-            "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293101"
+            "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293101",
+            "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293436"
           ],
           "lastSeen": "2026-10-21"
         },
@@ -10480,8 +10487,8 @@
           "eng": 49
         },
         "2026-10-21": {
-          "total": 84,
-          "eng": 50
+          "total": 85,
+          "eng": 51
         }
       },
       "pm": {
@@ -10830,7 +10837,7 @@
           "eng": 22
         },
         "2026-10-21": {
-          "total": 65,
+          "total": 67,
           "eng": 23
         }
       },
@@ -11017,7 +11024,7 @@
           "eng": 40
         },
         "2026-10-21": {
-          "total": 76,
+          "total": 77,
           "eng": 40
         }
       },
@@ -11352,6 +11359,10 @@
         "2026-10-20": {
           "total": 61,
           "eng": 27
+        },
+        "2026-10-21": {
+          "total": 60,
+          "eng": 26
         }
       },
       "pm": {
@@ -11364,7 +11375,7 @@
             "eightfold-microsoft.com-1970393557037770",
             "eightfold-microsoft.com-1970393557016611"
           ],
-          "lastSeen": "2026-10-20"
+          "lastSeen": "2026-10-21"
         },
         "principal product manager": {
           "ids": [
@@ -11372,17 +11383,19 @@
             "eightfold-microsoft.com-1970393556997831",
             "eightfold-microsoft.com-1970393556944984",
             "eightfold-microsoft.com-1970393556999250",
-            "eightfold-microsoft.com-1970393556911401"
+            "eightfold-microsoft.com-1970393556911401",
+            "eightfold-microsoft.com-1970393557042009"
           ],
-          "lastSeen": "2026-10-20"
+          "lastSeen": "2026-10-21"
         },
         "product manager ii": {
           "ids": [
             "eightfold-microsoft.com-1970393556995338",
             "eightfold-microsoft.com-1970393557016594",
-            "eightfold-microsoft.com-1970393557038894"
+            "eightfold-microsoft.com-1970393557038894",
+            "eightfold-microsoft.com-1970393557041935"
           ],
-          "lastSeen": "2026-10-20"
+          "lastSeen": "2026-10-21"
         },
         "principal product management": {
           "ids": [
@@ -11395,13 +11408,13 @@
           "ids": [
             "eightfold-microsoft.com-1970393556978896"
           ],
-          "lastSeen": "2026-10-20"
+          "lastSeen": "2026-10-21"
         },
         "sr product manager": {
           "ids": [
             "eightfold-microsoft.com-1970393557040189"
           ],
-          "lastSeen": "2026-10-20"
+          "lastSeen": "2026-10-21"
         }
       }
     },
@@ -12388,8 +12401,8 @@
           "eng": 9
         },
         "2026-10-21": {
-          "total": 16,
-          "eng": 5
+          "total": 14,
+          "eng": 4
         }
       },
       "pm": {
@@ -12476,8 +12489,8 @@
           "eng": 3
         },
         "2026-10-21": {
-          "total": 8,
-          "eng": 4
+          "total": 9,
+          "eng": 5
         }
       },
       "pm": {
@@ -13148,8 +13161,8 @@
           "eng": 167
         },
         "2026-10-21": {
-          "total": 396,
-          "eng": 168
+          "total": 397,
+          "eng": 169
         }
       },
       "pm": {
@@ -13347,8 +13360,8 @@
           "eng": 31
         },
         "2026-10-21": {
-          "total": 61,
-          "eng": 30
+          "total": 62,
+          "eng": 31
         }
       },
       "pm": {
@@ -13909,7 +13922,7 @@
         },
         "2026-10-21": {
           "total": 142,
-          "eng": 40
+          "eng": 41
         }
       },
       "pm": {
@@ -14043,8 +14056,8 @@
           "eng": 199
         },
         "2026-10-21": {
-          "total": 666,
-          "eng": 199
+          "total": 665,
+          "eng": 198
         }
       },
       "pm": {

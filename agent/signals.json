@@ -1,6 +1,14 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "AuxoAI",
+      "title": "Forward deployed AI startup AuxoAI raises $20.7 Mn in Series A round led by NTTVC",
+      "url": "https://entrackr.com/news/forward-deployed-ai-startup-auxoai-raises-207-mn-in-series-a-round-led-by-nttvc-12695466",
+      "date": "2026-10-21",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "reopened",
       "company": "ServiceNow",
       "date": "2026-10-21",
