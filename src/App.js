@@ -130,7 +130,7 @@ export default function App() {
           { id:'alerts',    icon:<Bell size={14}/>,        label:'Alerts' },
           { id:'firstapply',icon:<Zap size={14}/>,         label:'Be First' },
           { id:'remote',    icon:<Globe size={14}/>,       label:'Remote' },
-          { id:'intl',      icon:<Target size={14}/>,      label:'US/UK/CA/SG' },
+          { id:'intl',      icon:<Target size={14}/>,      label:'Global' },
           { id:'templates', icon:<MessageSquare size={14}/>, label:'Templates' },
         ].map(tab => (
           <button key={tab.id} onClick={()=>setActiveTab(tab.id)} aria-label={tab.label} aria-current={activeTab===tab.id ? 'page' : undefined} style={{ ...tabStyle(activeTab===tab.id), position:'relative' }}>
@@ -215,7 +215,7 @@ export default function App() {
         {activeTab==='remote' && <RemoteTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
 
         {/* ── INTL ── */}
-        {activeTab==='intl' && <IntlTab t={t} card={card} btnSecondary={btnSecondary} role={role} />}
+        {activeTab==='intl' && <IntlTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
 
         {/* ── TEMPLATES ── */}
         {activeTab==='templates' && <TemplatesTab t={t} card={card} btnPrimary={btnPrimary} profile={profile} onProfileChange={setProfileState} />}

@@ -324,7 +324,7 @@ test('Senior PM toggle: every search string switches to the senior term (incl. S
   render(<App />);
   await user.click(screen.getByRole('button', { name: 'Senior PM' }));
 
-  for (const tab of ['Hacks', 'Alerts', 'Be First', 'Remote', 'US/UK/CA/SG', 'Govt & PSU', 'Watchlist', 'Signals', 'Companies']) {
+  for (const tab of ['Hacks', 'Alerts', 'Be First', 'Remote', 'Global', 'Govt & PSU', 'Watchlist', 'Signals', 'Companies']) {
     await user.click(screen.getByRole('button', { name: tab }));
     expect(document.body.textContent).not.toMatch(/\{(ROLE|KW|KWTEXT|KW\+)\}/);
     for (const a of document.querySelectorAll('a[href]')) expect(a.getAttribute('href')).not.toMatch(/\{(ROLE|KW)/);

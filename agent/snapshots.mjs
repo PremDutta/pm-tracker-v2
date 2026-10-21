@@ -33,6 +33,7 @@ export async function saveRoleSnapshot(file, jobs, extra = {}) {
       level: roleLevel(j.title),
       ...(j.eligibility && { eligibility: j.eligibility }),
       ...(j.aiMatch && { aiMatch: j.aiMatch }),
+      ...(j.regions && { regions: j.regions }),
       firstSeen: firstSeen.get(j.id) || today,
     });
   }
@@ -40,3 +41,21 @@ export async function saveRoleSnapshot(file, jobs, extra = {}) {
   await fs.writeFile(file, JSON.stringify({ ...extra, roles }, null, 2) + '\n');
   return roles;
 }
+
+// Regions for PM roles abroad (Global tab). Country codes are matched
+// case-sensitively so "in"/"us" as words don't count.
+const REGIONS = [
+  ['singapore', /singapore/i, /\bSG\b/],
+  ['uae', /dubai|abu dhabi|sharjah|united arab emirates/i, /\bUAE\b/],
+  ['saudi', /riyadh|jeddah|dammam|saudi/i, /\bKSA\b/],
+  ['uk', /london|manchester|edinburgh|united kingdom|england/i, /\bUK\b|\bGB\b/],
+  ['europe', /berlin|munich|amsterdam|paris|dublin|madrid|barcelona|lisbon|stockholm|zurich|warsaw|prague|copenhagen|europe|netherlands|germany|france|spain|ireland|poland|portugal|switzerland|sweden/i, /\bEU\b|\bEMEA\b/],
+  ['us', /united states|new york|san francisco|seattle|austin|boston|chicago|los angeles|bay area|palo alto|mountain view/i, /\bUSA?\b|,\s*(CA|NY|WA|TX|MA|IL)\b/],
+  ['canada', /canada|toronto|vancouver|montreal/i, /\bCAN\b/],
+  ['australia', /australia|sydney|melbourne/i, /\bAUS?\b/],
+  ['apac', /tokyo|japan|hong kong|jakarta|indonesia|malaysia|kuala lumpur|bangkok|thailand|vietnam|manila|philippines|seoul|korea/i, /\bHK\b|\bJP\b/],
+];
+
+/** Regions a location names (a role can be in several), or [] for none / India-only. */
+export const regionsOf = (location = '') =>
+  REGIONS.filter(([, words, codes]) => words.test(location) || codes.test(location)).map(([id]) => id);

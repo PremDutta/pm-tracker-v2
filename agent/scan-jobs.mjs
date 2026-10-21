@@ -34,7 +34,7 @@ import { fetchFundingSignals } from './funding.mjs';
 import { fetchVcBoards } from './vc-boards.mjs';
 import { fetchEightfold, fetchOracle, fetchSuccessFactors, fetchAmazon } from './enterprise-ats.mjs';
 import { fetchYcJobs, indiaEligibility } from './yc.mjs';
-import { saveRoleSnapshot, isAiTitle, roleLevel } from './snapshots.mjs';
+import { saveRoleSnapshot, isAiTitle, roleLevel, regionsOf } from './snapshots.mjs';
 import { istToday, loadQueue, saveQueue, enqueue, urgentItems, urgentText, digestText, markReminders } from './digest.mjs';
 
 const AGENT_DIR = path.dirname(fileURLToPath(import.meta.url));
@@ -49,6 +49,7 @@ const DIRECTORY_FILE = path.join(AGENT_DIR, 'directory-companies.json');
 const COMPANY_ROLES_FILE = path.join(AGENT_DIR, 'company-roles.json');
 const YC_ROLES_FILE = path.join(AGENT_DIR, 'yc-roles.json');
 const AI_ROLES_FILE = path.join(AGENT_DIR, 'ai-roles.json');
+const GLOBAL_ROLES_FILE = path.join(AGENT_DIR, 'global-roles.json');
 const INDIA_RE = /india|bengaluru|bangalore|mumbai|delhi|gurgaon|gurugram|noida|hyderabad|pune|chennai|kolkata|ahmedabad|jaipur|kochi|chandigarh|indore|coimbatore|\bncr\b/i;
 const env = (name) => process.env[name];
 
@@ -473,6 +474,15 @@ async function main() {
     .map(j => (isAiTitle(j.title) ? { ...j, aiMatch: 'title' } : aiCompanies.has((j.company || '').toLowerCase()) ? { ...j, aiMatch: 'company' } : null))
     .filter(Boolean);
   await saveRoleSnapshot(AI_ROLES_FILE, aiRoles);
+
+  // PM roles abroad (Singapore, UAE, UK, US...) for the Global tab: taken from the
+  // full boards already downloaded above, so no extra requests. App only, no alerts.
+  const globalRoles = atsResult.boards.flatMap(b => b.jobs
+    .filter(j => PM_TITLE_REGEX.test(j.title) && !INDIA_RE.test(j.location || ''))
+    .map(j => ({ ...j, company: b.company, regions: regionsOf(j.location || '') }))
+    .filter(j => j.regions.length));
+  await saveRoleSnapshot(GLOBAL_ROLES_FILE, globalRoles, { scannedAt: new Date().toISOString() });
+  console.log(`Global PM roles (outside India): ${globalRoles.length}`);
   console.log(`AI PM roles (India / remote-India): ${aiRoles.length}`);
 
   const seen = await loadSeen();

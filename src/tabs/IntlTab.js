@@ -2,14 +2,16 @@ import React from 'react';
 import { ExternalLink, Star } from 'lucide-react';
 import { INTL_STRATEGIES } from '../data/strategies';
 import { fillRole } from '../data/roles';
+import GlobalRoles from '../components/GlobalRoles';
 
-export default function IntlTab({ t, card, btnSecondary, role }) {
+export default function IntlTab({ t, card, btnSecondary, badge, role }) {
   return (
     <div>
       <div style={{ textAlign:'center', marginBottom:'40px' }}>
-        <h2 style={{ fontSize:'34px', fontWeight:'700', letterSpacing:'-0.02em', marginBottom:'10px' }}>US • UK • Canada • Singapore</h2>
+        <h2 style={{ fontSize:'34px', fontWeight:'700', letterSpacing:'-0.02em', marginBottom:'10px' }}>Global: Singapore • UAE • UK • US • more</h2>
         <p style={{ fontSize:'16px', color:t.textSecondary }}>Strategies + sponsor-friendly companies for international PM roles</p>
       </div>
+      <GlobalRoles t={t} card={card} btnSecondary={btnSecondary} badge={badge} />
       {Object.entries(INTL_STRATEGIES).map(([key,data]) => (
         <div key={key} style={{ ...card, marginBottom:'20px' }}>
           <h3 style={{ margin:'0 0 20px', fontSize:'20px', fontWeight:'600' }}>{data.title}</h3>

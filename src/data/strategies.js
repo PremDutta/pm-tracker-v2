@@ -47,4 +47,10 @@ export const INTL_STRATEGIES = {
     { name:'Jobstreet SG', url:'https://sg.jobstreet.com/product-manager-jobs' },
     { name:'Glints', url:'https://glints.com/jobs' },
   ], tips:['Employment Pass: salary > SGD 5,000/mo needed','No-visa onboarding for many Indian PMs initially','Gateway to SEA market exposure'], sponsors:['Sea Group','Grab','Shopee','DBS','Gojek Singapore'] },
+  uae: { title:'🇦🇪 UAE & Gulf', platforms:[
+    { name:'LinkedIn UAE', url:'https://www.linkedin.com/jobs/search/?keywords={KW}&location=United%20Arab%20Emirates&sortBy=DD' },
+    { name:'LinkedIn Saudi Arabia', url:'https://www.linkedin.com/jobs/search/?keywords={KW}&location=Saudi%20Arabia&sortBy=DD' },
+    { name:'Bayt UAE', url:'https://www.bayt.com/en/uae/jobs/product-manager-jobs/' },
+    { name:'GulfTalent', url:'https://www.gulftalent.com/jobs/search?keywords={KW+}' },
+  ], tips:['Tax-free salary; employer sponsors the work visa','Dubai and Abu Dhabi hold most product roles; Riyadh is growing fast (Vision 2030)','Fintech, e-commerce and govt digital programmes hire senior PMs'], sponsors:['Careem','Noon','Talabat','Tabby','Emirates NBD'] },
 };

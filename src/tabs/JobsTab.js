@@ -10,7 +10,7 @@ import { getPlatformMeta, markPlatformChecked, markPlatformUseful, timeAgo } fro
 const REGIONS = [
   { id:'india', label:'🇮🇳 India', desc:'12 cities' },
   { id:'remote', label:'🌍 Remote', desc:'Work anywhere' },
-  { id:'intl', label:'🌐 International', desc:'Global reach — see US/UK/CA/SG tab for per-country detail' },
+  { id:'intl', label:'🌐 International', desc:'Global reach — see the Global tab for live roles by region' },
 ];
 
 export default function JobsTab({

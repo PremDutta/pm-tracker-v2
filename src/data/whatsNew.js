@@ -44,6 +44,7 @@ export const WHATS_NEW = [
   { id:'hack:greenhouse', date:'2026-09-29', tab:'hacks', title:'Greenhouse: new job-boards domain added' },
   { id:'hack:lever', date:'2026-09-29', tab:'hacks', title:'Lever: now India-filtered' },
   { id:'hack:workday', date:'2026-09-29', tab:'hacks', title:'Workday: all tenants, not just wd5' },
+  { id:'intl:global', target:'global-roles', date:'2026-10-21', tab:'intl', title:'Global PM roles: Singapore, UAE, UK, US and more', desc:'Live PM roles outside India by region and level, plus UAE & Gulf job boards. The tab formerly called US/UK/CA/SG is now Global' },
   { id:'jobs:linkedin-power', target:'linkedin-power', date:'2026-10-06', tab:'jobs', title:'LinkedIn: new since your last check', desc:'One click shows only LinkedIn jobs posted after you last looked (LinkedIn\'s own alert trick), plus its newer AI search for your role and for AI / GenAI / ML roles' },
   { id:'companies:refresh', date:'2026-10-05', tab:'companies', title:'Companies: refresh + role filters', desc:'See when the last scan ran, refresh to the latest results, and filter open roles by level, city and "New (3 days)"' },
   { id:'companies:ai', companyGroup:'ai', date:'2026-10-05', tab:'companies', title:'42 AI companies hiring PMs in India', desc:'Glean, Databricks, Snowflake, MongoDB, Netomi, SpotDraft, Spyne, HackerOne, Rippling and more: 37 scanned every 6 hours, their AI roles feed the AI PM tab' },
