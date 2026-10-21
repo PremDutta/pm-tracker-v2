@@ -215,7 +215,7 @@ export default function App() {
         {activeTab==='remote' && <RemoteTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
 
         {/* ── INTL ── */}
-        {activeTab==='intl' && <IntlTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
+        {activeTab==='intl' && <IntlTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} role={role} />}
 
         {/* ── TEMPLATES ── */}
         {activeTab==='templates' && <TemplatesTab t={t} card={card} btnPrimary={btnPrimary} profile={profile} onProfileChange={setProfileState} />}

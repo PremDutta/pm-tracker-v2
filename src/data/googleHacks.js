@@ -144,6 +144,15 @@ export const GOOGLE_HACKS = [
   { category: 'ai', id:'ai-remote', title:'Remote AI PM Roles Open to India', icon:'🌏',
     query:'{ROLE} (AI OR GenAI OR LLM) remote (India OR APAC OR worldwide OR anywhere)',
     tip:'Global AI companies hiring remote PMs who can work Indian hours', tbs:'qdr:w' },
+  // 🌍 Global: PM roles abroad. {ROLE} follows the toggle.
+  { category: 'global', id:'g-singapore', title:'Singapore PM Roles', icon:'🇸🇬', query:'{ROLE} Singapore (hiring OR jobs) -intern', tip:'Fresh Singapore roles, past week', tbs:'qdr:w' },
+  { category: 'global', id:'g-uae', title:'Dubai / Abu Dhabi PM Roles', icon:'🇦🇪', query:'{ROLE} (Dubai OR "Abu Dhabi" OR UAE) (hiring OR jobs) -intern', tip:'UAE roles, past week', tbs:'qdr:w' },
+  { category: 'global', id:'g-saudi', title:'Saudi Arabia PM Roles', icon:'🇸🇦', query:'{ROLE} (Riyadh OR Jeddah OR "Saudi Arabia") (hiring OR jobs)', tip:'Riyadh is hiring fast under Vision 2030', tbs:'qdr:w' },
+  { category: 'global', id:'g-ats', title:'Singapore & Gulf on Company Job Boards', icon:'🏭', query:'(site:jobs.ashbyhq.com OR site:job-boards.greenhouse.io OR site:jobs.lever.co OR site:myworkdayjobs.com) {ROLE} (Singapore OR Dubai OR Riyadh)', tip:'Straight to company ATS pages, skipping job-board noise' },
+  { category: 'global', id:'g-posts', title:'Hiring Posts: Singapore & Gulf', icon:'📣', query:'site:linkedin.com/posts ("hiring" OR "we are hiring") {ROLE} (Singapore OR Dubai OR Riyadh)', tip:'Hiring managers posting on LinkedIn, often before a job board', tbs:'qdr:w' },
+  { category: 'global', id:'g-visa', title:'Visa Sponsorship & Relocation', icon:'✈️', query:'{ROLE} ("visa sponsorship" OR "relocation support" OR "relocation package") (Singapore OR Dubai OR London OR Amsterdam OR Berlin)', tip:'Roles that say upfront they sponsor visas or relocate', tbs:'qdr:m' },
+  { category: 'global', id:'g-ai', title:'AI PM Roles Abroad', icon:'🤖', query:'{ROLE} (AI OR GenAI OR LLM) (Singapore OR Dubai OR London) (hiring OR jobs)', tip:'AI product roles in the main hubs', tbs:'qdr:w' },
+  { category: 'global', id:'g-uk-eu', title:'UK & Europe PM Roles', icon:'🇪🇺', query:'{ROLE} (London OR Amsterdam OR Berlin OR Dublin) (hiring OR jobs) -intern', tip:'London, Amsterdam, Berlin, Dublin', tbs:'qdr:w' },
   // 🌍 Remote
   { category: 'remote', id:'remote-worldwide', title:'Remote — Worldwide Open', icon:'🌏', badge:'VISA-FREE',
     query:'{ROLE} remote worldwide -"us only" -"us citizens" -"uk only" -"eu only"',
@@ -162,5 +171,6 @@ export const HACK_CATEGORIES = [
   { id:'referral', label:'Referrals',    icon:'🤝' },
   { id:'remote',   label:'Remote',       icon:'🌍' },
   { id:'ai',       label:'AI PM',        icon:'🤖' },
+  { id:'global',   label:'Global',       icon:'🌍' },
   { id:'signals',  label:'Hiring Signals', icon:'🔭' },
 ];
