@@ -3539,6 +3539,33 @@
       "deadline": null,
       "flags": [],
       "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-figma-6228774004",
+      "title": "Product Manager, Figma Pattern Library ",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/6228774004?gh_jid=6228774004",
+      "source": "Greenhouse (Figma)",
+      "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "lever-paytm-e09a1fc4-47e2-4c49-b17e-6993b958d6ef",
+      "title": "Product Management - AI Payments",
+      "company": "Paytm",
+      "location": "Noida, Uttar Pradesh",
+      "url": "https://jobs.lever.co/paytm/e09a1fc4-47e2-4c49-b17e-6993b958d6ef",
+      "source": "Lever (Paytm)",
+      "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "vc-accel-97629725",
+      "title": "Product Manager -II",
+      "company": "Swiftkey",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041935",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-21"
     }
   ],
   "signals": [
@@ -3772,6 +3799,15 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156718589",
       "id": "smartrecruiters-ServiceNow-744000156718589",
       "detail": "closed 2026-10-08, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-21",
+      "title": "Senior Staff Outbound Product Manager - Data & Analytics",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156836234",
+      "id": "smartrecruiters-ServiceNow-744000156836234",
+      "detail": "closed 2026-10-15, reposted today"
     }
   ],
   "reminders": {}

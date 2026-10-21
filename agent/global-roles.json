@@ -1,11 +1,11 @@
 {
-  "scannedAt": "2026-10-21T12:54:48.306Z",
+  "scannedAt": "2026-10-21T16:44:48.122Z",
   "roles": [
     {
       "id": "ashby-airwallex-0b159038-01b5-4a32-bd39-ba55573f0fdf",
       "title": "Director, Product Legal (EmFi & Payments)",
       "company": "Airwallex",
-      "location": "US - San Francisco",
+      "location": "US - Seattle",
       "url": "https://jobs.ashbyhq.com/airwallex/0b159038-01b5-4a32-bd39-ba55573f0fdf",
       "source": "Ashby (Airwallex)",
       "level": "leadership",
@@ -1029,11 +1029,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8136204002",
+      "id": "greenhouse-databricks-8136071002",
       "title": "Sr. Product Manager, Databricks AI",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1042,11 +1042,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8136071002",
+      "id": "greenhouse-databricks-8136204002",
       "title": "Sr. Product Manager, Databricks AI",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1107,11 +1107,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8876675002",
+      "id": "greenhouse-databricks-8811265002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1120,11 +1120,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8811265002",
+      "id": "greenhouse-databricks-8876675002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1198,11 +1198,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7110509002",
+      "id": "greenhouse-databricks-7110499002",
       "title": "Staff Product Manager, Security",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110509002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -1211,11 +1211,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7110499002",
+      "id": "greenhouse-databricks-7110509002",
       "title": "Staff Product Manager, Security",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110509002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -1471,19 +1471,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-figma-6221563004",
-      "title": "Director, Product Communications",
-      "company": "Figma",
-      "location": "San Francisco, CA • New York, NY • United States",
-      "url": "https://boards.greenhouse.io/figma/jobs/6221563004?gh_jid=6221563004",
-      "source": "Greenhouse (Figma)",
-      "level": "leadership",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-figma-6180116004",
       "title": "Early Career, Associate Product Manager (2027)",
       "company": "Figma",
@@ -1554,6 +1541,19 @@
       "company": "Figma",
       "location": "San Francisco, CA • New York, NY • United States",
       "url": "https://boards.greenhouse.io/figma/jobs/5989185004?gh_jid=5989185004",
+      "source": "Greenhouse (Figma)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-figma-6228774004",
+      "title": "Product Manager, Figma Pattern Library ",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/6228774004?gh_jid=6228774004",
       "source": "Greenhouse (Figma)",
       "level": "pm",
       "regions": [
@@ -2553,7 +2553,7 @@
       "id": "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "title": "Director, Product Marketing (Hybrid in NYC, SF, or Seattle)",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -2605,7 +2605,7 @@
       "id": "rippling-rippling-7d6f9194-b55e-47a5-b1db-caeb396ba3ab",
       "title": "Product Lead, IT",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/7d6f9194-b55e-47a5-b1db-caeb396ba3ab",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -2631,7 +2631,7 @@
       "id": "rippling-rippling-34d2abc5-206c-4472-803a-6b8713382bc6",
       "title": "Product Lead, Reporting and Analytics",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/34d2abc5-206c-4472-803a-6b8713382bc6",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -2670,7 +2670,7 @@
       "id": "rippling-rippling-ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "title": "Senior Director of Product, App Platform",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -2875,19 +2875,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-scaleai-4644742005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "company": "Scale AI",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4644742005",
-      "source": "Greenhouse (Scale AI)",
-      "level": "pm",
-      "regions": [
-        "uk"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-scaleai-4673051005",
       "title": "Forward Deployed Product Manager, Enterprise",
       "company": "Scale AI",
@@ -2897,6 +2884,19 @@
       "level": "pm",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-scaleai-4644742005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "company": "Scale AI",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4644742005",
+      "source": "Greenhouse (Scale AI)",
+      "level": "pm",
+      "regions": [
+        "uk"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3018,6 +3018,45 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "smartrecruiters-ServiceNow-744000156842184",
+      "title": "Director, Regional Product Management",
+      "company": "ServiceNow",
+      "location": "Santa Clara, California, United States",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156842184",
+      "source": "SmartRecruiters (ServiceNow)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000156842094",
+      "title": "Director, Regional Product Management",
+      "company": "ServiceNow",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156842094",
+      "source": "SmartRecruiters (ServiceNow)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000156841854",
+      "title": "Director, Regional Product Management",
+      "company": "ServiceNow",
+      "location": "Addison, Texas, United States",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156841854",
+      "source": "SmartRecruiters (ServiceNow)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "smartrecruiters-ServiceNow-744000156431640",
       "title": "Senior Director Product Analytics",
       "company": "ServiceNow",
@@ -3044,11 +3083,37 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "smartrecruiters-ServiceNow-744000156071737",
-      "title": "Senior Staff Product Manager",
+      "id": "smartrecruiters-ServiceNow-744000156836234",
+      "title": "Senior Staff Outbound Product Manager - Data & Analytics",
       "company": "ServiceNow",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156071737",
+      "location": "Santa Clara, California, United States",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156836234",
+      "source": "SmartRecruiters (ServiceNow)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000156837088",
+      "title": "Senior Staff Outbound Product Manager - Data & Analytics",
+      "company": "ServiceNow",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156837088",
+      "source": "SmartRecruiters (ServiceNow)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000156836819",
+      "title": "Senior Staff Outbound Product Manager - Data & Analytics",
+      "company": "ServiceNow",
+      "location": "Washington, DC, United States",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156836819",
       "source": "SmartRecruiters (ServiceNow)",
       "level": "group",
       "regions": [
@@ -3346,12 +3411,12 @@
       "id": "lever-spotify-03437e2a-2d5e-4593-9e97-11271014932e",
       "title": "Product Manager - Data Platform",
       "company": "Spotify",
-      "location": "Toronto",
+      "location": "London",
       "url": "https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e",
       "source": "Lever (Spotify)",
       "level": "pm",
       "regions": [
-        "canada"
+        "uk"
       ],
       "firstSeen": "2026-10-21"
     },

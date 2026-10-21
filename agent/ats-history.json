@@ -285,8 +285,8 @@
           "eng": 281
         },
         "2026-10-21": {
-          "total": 675,
-          "eng": 281
+          "total": 674,
+          "eng": 280
         }
       },
       "pm": {
@@ -509,7 +509,7 @@
           "eng": 28
         },
         "2026-10-21": {
-          "total": 67,
+          "total": 66,
           "eng": 28
         }
       },
@@ -621,8 +621,8 @@
           "eng": 53
         },
         "2026-10-21": {
-          "total": 134,
-          "eng": 54
+          "total": 133,
+          "eng": 53
         }
       },
       "pm": {
@@ -1215,7 +1215,7 @@
           "eng": 77
         },
         "2026-10-21": {
-          "total": 176,
+          "total": 175,
           "eng": 76
         }
       },
@@ -1792,8 +1792,8 @@
           "eng": 42
         },
         "2026-10-21": {
-          "total": 158,
-          "eng": 41
+          "total": 160,
+          "eng": 42
         }
       },
       "pm": {
@@ -2030,7 +2030,7 @@
           "eng": 31
         },
         "2026-10-21": {
-          "total": 141,
+          "total": 139,
           "eng": 30
         }
       },
@@ -2082,6 +2082,13 @@
         "director product communications": {
           "ids": [
             "greenhouse-figma-6221563004"
+          ],
+          "lastSeen": "2026-10-21",
+          "closedOn": "2026-10-21"
+        },
+        "product manager figma pattern library": {
+          "ids": [
+            "greenhouse-figma-6228774004"
           ],
           "lastSeen": "2026-10-21"
         }
@@ -2418,7 +2425,7 @@
         },
         "2026-10-21": {
           "total": 808,
-          "eng": 417
+          "eng": 416
         }
       },
       "pm": {
@@ -4191,8 +4198,8 @@
           "eng": 1
         },
         "2026-10-21": {
-          "total": 32,
-          "eng": 4
+          "total": 31,
+          "eng": 3
         }
       },
       "pm": {
@@ -4672,8 +4679,8 @@
           "eng": 16
         },
         "2026-10-21": {
-          "total": 32,
-          "eng": 16
+          "total": 34,
+          "eng": 17
         }
       },
       "pm": {
@@ -5726,7 +5733,7 @@
           "eng": 5
         },
         "2026-10-21": {
-          "total": 26,
+          "total": 25,
           "eng": 5
         }
       },
@@ -6751,7 +6758,7 @@
           "eng": 10
         },
         "2026-10-21": {
-          "total": 37,
+          "total": 38,
           "eng": 11
         }
       },
@@ -7561,8 +7568,8 @@
           "eng": 1
         },
         "2026-10-21": {
-          "total": 7,
-          "eng": 1
+          "total": 6,
+          "eng": 0
         }
       },
       "pm": {
@@ -7669,8 +7676,8 @@
           "eng": 2
         },
         "2026-10-21": {
-          "total": 6,
-          "eng": 1
+          "total": 7,
+          "eng": 2
         }
       },
       "pm": {
@@ -7876,7 +7883,7 @@
           "eng": 9
         },
         "2026-10-21": {
-          "total": 191,
+          "total": 192,
           "eng": 9
         }
       },
@@ -7956,6 +7963,12 @@
         "product management product analyst telco": {
           "ids": [
             "lever-paytm-2294c39e-0394-472b-8ba0-736857fa24a8"
+          ],
+          "lastSeen": "2026-10-21"
+        },
+        "product management ai payments": {
+          "ids": [
+            "lever-paytm-e09a1fc4-47e2-4c49-b17e-6993b958d6ef"
           ],
           "lastSeen": "2026-10-21"
         }
@@ -8632,7 +8645,7 @@
         },
         "2026-10-21": {
           "total": 100,
-          "eng": 42
+          "eng": 38
         }
       },
       "pm": {
@@ -8760,7 +8773,8 @@
             "smartrecruiters-ServiceNow-744000154532199",
             "smartrecruiters-ServiceNow-744000156071737"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-21",
+          "closedOn": "2026-10-21"
         },
         "senior staff inbound product manager agentic ai platform moveworks": {
           "ids": [
@@ -8799,10 +8813,10 @@
         },
         "senior staff outbound product manager data analytics": {
           "ids": [
-            "smartrecruiters-ServiceNow-744000154891980"
+            "smartrecruiters-ServiceNow-744000154891980",
+            "smartrecruiters-ServiceNow-744000156836234"
           ],
-          "lastSeen": "2026-10-15",
-          "closedOn": "2026-10-15"
+          "lastSeen": "2026-10-21"
         },
         "data product manager marketing technology": {
           "ids": [
@@ -8882,6 +8896,12 @@
         "senior director product analytics": {
           "ids": [
             "smartrecruiters-ServiceNow-744000156431640"
+          ],
+          "lastSeen": "2026-10-21"
+        },
+        "director regional product management": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000156842184"
           ],
           "lastSeen": "2026-10-21"
         }
@@ -8975,7 +8995,7 @@
         },
         "2026-10-21": {
           "total": 142,
-          "eng": 73
+          "eng": 72
         }
       },
       "pm": {
@@ -9312,8 +9332,8 @@
           "eng": 80
         },
         "2026-10-21": {
-          "total": 93,
-          "eng": 81
+          "total": 91,
+          "eng": 79
         }
       },
       "pm": {}
@@ -9500,7 +9520,7 @@
         },
         "2026-10-21": {
           "total": 100,
-          "eng": 1
+          "eng": 2
         }
       },
       "pm": {
@@ -9883,7 +9903,7 @@
           "eng": 34
         },
         "2026-10-21": {
-          "total": 102,
+          "total": 104,
           "eng": 34
         }
       },
@@ -10156,7 +10176,7 @@
           "eng": 7
         },
         "2026-10-21": {
-          "total": 53,
+          "total": 52,
           "eng": 7
         }
       },
@@ -10268,7 +10288,7 @@
           "eng": 8
         },
         "2026-10-21": {
-          "total": 27,
+          "total": 28,
           "eng": 8
         }
       },
@@ -10397,7 +10417,7 @@
           "eng": 8
         },
         "2026-10-21": {
-          "total": 25,
+          "total": 26,
           "eng": 8
         }
       },
@@ -10505,8 +10525,8 @@
           "eng": 49
         },
         "2026-10-21": {
-          "total": 85,
-          "eng": 51
+          "total": 84,
+          "eng": 50
         }
       },
       "pm": {
@@ -10721,7 +10741,7 @@
         },
         "2026-10-21": {
           "total": 60,
-          "eng": 10
+          "eng": 11
         }
       },
       "pm": {
@@ -10855,7 +10875,7 @@
           "eng": 22
         },
         "2026-10-21": {
-          "total": 67,
+          "total": 69,
           "eng": 23
         }
       },
@@ -11844,8 +11864,8 @@
           "eng": 578
         },
         "2026-10-21": {
-          "total": 899,
-          "eng": 577
+          "total": 898,
+          "eng": 576
         }
       },
       "pm": {
@@ -12592,8 +12612,8 @@
           "eng": 31
         },
         "2026-10-21": {
-          "total": 66,
-          "eng": 31
+          "total": 67,
+          "eng": 32
         }
       },
       "pm": {
@@ -13184,8 +13204,8 @@
           "eng": 167
         },
         "2026-10-21": {
-          "total": 399,
-          "eng": 171
+          "total": 397,
+          "eng": 170
         }
       },
       "pm": {
@@ -13383,7 +13403,7 @@
           "eng": 31
         },
         "2026-10-21": {
-          "total": 62,
+          "total": 61,
           "eng": 31
         }
       },
@@ -13729,8 +13749,8 @@
           "eng": 38
         },
         "2026-10-21": {
-          "total": 85,
-          "eng": 37
+          "total": 87,
+          "eng": 39
         }
       },
       "pm": {
@@ -13944,7 +13964,7 @@
           "eng": 40
         },
         "2026-10-21": {
-          "total": 144,
+          "total": 146,
           "eng": 43
         }
       },
@@ -14080,7 +14100,7 @@
           "eng": 199
         },
         "2026-10-21": {
-          "total": 665,
+          "total": 667,
           "eng": 198
         }
       },
@@ -14290,8 +14310,8 @@
           "eng": 36
         },
         "2026-10-21": {
-          "total": 70,
-          "eng": 36
+          "total": 63,
+          "eng": 29
         }
       },
       "pm": {
@@ -14544,7 +14564,7 @@
           "eng": 181
         },
         "2026-10-21": {
-          "total": 361,
+          "total": 360,
           "eng": 181
         }
       },
@@ -14709,7 +14729,7 @@
           "eng": 1
         },
         "2026-10-21": {
-          "total": 14,
+          "total": 13,
           "eng": 1
         }
       },
@@ -14802,7 +14822,7 @@
         },
         "2026-10-21": {
           "total": 108,
-          "eng": 38
+          "eng": 39
         }
       },
       "pm": {
@@ -15304,8 +15324,8 @@
     "Airwallex": {
       "daily": {
         "2026-10-21": {
-          "total": 498,
-          "eng": 128
+          "total": 500,
+          "eng": 130
         }
       },
       "pm": {
@@ -15529,7 +15549,7 @@
       "daily": {
         "2026-10-21": {
           "total": 100,
-          "eng": 30
+          "eng": 31
         }
       },
       "pm": {
@@ -15695,7 +15715,7 @@
     "Tamara": {
       "daily": {
         "2026-10-21": {
-          "total": 44,
+          "total": 45,
           "eng": 7
         }
       },
@@ -15711,7 +15731,7 @@
     "Thunes": {
       "daily": {
         "2026-10-21": {
-          "total": 51,
+          "total": 52,
           "eng": 15
         }
       },
@@ -15728,7 +15748,7 @@
       "daily": {
         "2026-10-21": {
           "total": 100,
-          "eng": 10
+          "eng": 9
         }
       },
       "pm": {}
@@ -15758,7 +15778,7 @@
     "Ziina": {
       "daily": {
         "2026-10-21": {
-          "total": 15,
+          "total": 14,
           "eng": 6
         }
       },
