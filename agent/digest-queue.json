@@ -3465,6 +3465,51 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557041935",
       "source": "Microsoft careers",
       "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210796619",
+      "title": "Product Owner - AI and Large Language Models (LLM) - Associate",
+      "company": "JPMorgan Chase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796619",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "vc-accel-97577696",
+      "title": "Senior Product Manager - Forge (Developer Platform)",
+      "company": "Atlassian",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://join.atlassian.com/jobs/27274?lang=en-us",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "vc-accel-97577513",
+      "title": "Principal Technical Product Manager - Commerce (Billing & Monetization)",
+      "company": "Atlassian",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://join.atlassian.com/jobs/27217?lang=en-us",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "vc-accel-97577497",
+      "title": "Principal Product Manager (CMK/Encryption Platform)",
+      "company": "Atlassian",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://join.atlassian.com/jobs/27197?lang=en-us",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "vc-accel-97577464",
+      "title": "Senior Product Manager - IT Operations",
+      "company": "Atlassian",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://join.atlassian.com/jobs/27326?lang=en-us",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-21"
     }
   ],
   "signals": [

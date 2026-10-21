@@ -67,6 +67,17 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210796619",
+      "title": "Product Owner - AI and Large Language Models (LLM) - Associate",
+      "company": "JPMorgan Chase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796619",
+      "source": "JPMorgan Chase careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "vc-lightspeed-30ecc735-369a-429f-8df5-585b1516cef7",
       "title": "Product Manager, Payroll Integrations",
       "company": "Rippling",
@@ -142,17 +153,6 @@
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "vc-accel-48045360",
-      "title": "Associate Director - Product",
-      "company": "Spyne",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://spyneai.keka.com/careers/jobdetails/49785",
-      "source": "VC board (Accel portfolio)",
-      "level": "leadership",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-20"
     },
     {
       "id": "vc-peakxv-59397",

@@ -1215,8 +1215,8 @@
           "eng": 77
         },
         "2026-10-21": {
-          "total": 178,
-          "eng": 77
+          "total": 176,
+          "eng": 76
         }
       },
       "pm": {
@@ -2030,7 +2030,7 @@
           "eng": 31
         },
         "2026-10-21": {
-          "total": 141,
+          "total": 142,
           "eng": 31
         }
       },
@@ -4187,8 +4187,8 @@
           "eng": 1
         },
         "2026-10-21": {
-          "total": 31,
-          "eng": 3
+          "total": 32,
+          "eng": 4
         }
       },
       "pm": {
@@ -6411,7 +6411,7 @@
           "eng": 31
         },
         "2026-10-21": {
-          "total": 45,
+          "total": 44,
           "eng": 31
         }
       },
@@ -6747,8 +6747,8 @@
           "eng": 10
         },
         "2026-10-21": {
-          "total": 36,
-          "eng": 10
+          "total": 37,
+          "eng": 11
         }
       },
       "pm": {}
@@ -7174,6 +7174,12 @@
         "product manager vice president connectwealth": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210800895"
+          ],
+          "lastSeen": "2026-10-21"
+        },
+        "product owner ai and large language models associate": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210796619"
           ],
           "lastSeen": "2026-10-21"
         }
@@ -7660,12 +7666,19 @@
           "eng": 2
         },
         "2026-10-21": {
-          "total": 5,
+          "total": 6,
           "eng": 1
         }
       },
       "pm": {
         "product manager strategy 3 proddev": {
+          "ids": [
+            "oracle-eeho.fa.us2.oraclecloud.com-347873"
+          ],
+          "lastSeen": "2026-10-21",
+          "closedOn": "2026-10-21"
+        },
+        "senior product manager scm ecommerce": {
           "ids": [
             "oracle-eeho.fa.us2.oraclecloud.com-347873"
           ],
@@ -8616,7 +8629,7 @@
         },
         "2026-10-21": {
           "total": 100,
-          "eng": 38
+          "eng": 42
         }
       },
       "pm": {
@@ -8841,13 +8854,15 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000156059999"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-21",
+          "closedOn": "2026-10-21"
         },
         "sr staff inbound product manager partner relationship management": {
           "ids": [
             "smartrecruiters-ServiceNow-744000156043929"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-21",
+          "closedOn": "2026-10-21"
         },
         "technical product manager legal ai and platforms": {
           "ids": [
@@ -8956,7 +8971,7 @@
           "eng": 74
         },
         "2026-10-21": {
-          "total": 142,
+          "total": 143,
           "eng": 72
         }
       },
@@ -10379,7 +10394,7 @@
           "eng": 8
         },
         "2026-10-21": {
-          "total": 25,
+          "total": 24,
           "eng": 8
         }
       },
@@ -11024,8 +11039,8 @@
           "eng": 40
         },
         "2026-10-21": {
-          "total": 77,
-          "eng": 40
+          "total": 78,
+          "eng": 39
         }
       },
       "pm": {}
@@ -11826,7 +11841,7 @@
           "eng": 578
         },
         "2026-10-21": {
-          "total": 900,
+          "total": 899,
           "eng": 578
         }
       },
@@ -13805,7 +13820,7 @@
         },
         "2026-10-21": {
           "total": 200,
-          "eng": 125
+          "eng": 124
         }
       },
       "pm": {
