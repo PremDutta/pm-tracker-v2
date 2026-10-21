@@ -99,8 +99,8 @@
           "eng": 41
         },
         "2026-10-21": {
-          "total": 105,
-          "eng": 42
+          "total": 104,
+          "eng": 41
         }
       },
       "pm": {
@@ -509,7 +509,7 @@
           "eng": 28
         },
         "2026-10-21": {
-          "total": 66,
+          "total": 69,
           "eng": 28
         }
       },
@@ -517,6 +517,18 @@
         "product manager onboarding and growth": {
           "ids": [
             "ashby-Ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a"
+          ],
+          "lastSeen": "2026-10-21"
+        },
+        "staff product manager": {
+          "ids": [
+            "ashby-Ashby-40320f3a-9d7d-4d53-a30e-a1bf7d74793b"
+          ],
+          "lastSeen": "2026-10-21"
+        },
+        "senior product manager": {
+          "ids": [
+            "ashby-Ashby-9599c771-a837-462f-8e03-39d18be54a51"
           ],
           "lastSeen": "2026-10-21"
         }
@@ -621,8 +633,8 @@
           "eng": 53
         },
         "2026-10-21": {
-          "total": 133,
-          "eng": 53
+          "total": 132,
+          "eng": 52
         }
       },
       "pm": {
@@ -769,7 +781,7 @@
           "eng": 46
         },
         "2026-10-21": {
-          "total": 115,
+          "total": 114,
           "eng": 46
         }
       },
@@ -1656,7 +1668,7 @@
           "eng": 37
         },
         "2026-10-21": {
-          "total": 92,
+          "total": 91,
           "eng": 37
         }
       },
@@ -1917,8 +1929,8 @@
           "eng": 29
         },
         "2026-10-21": {
-          "total": 45,
-          "eng": 29
+          "total": 44,
+          "eng": 28
         }
       },
       "pm": {
@@ -2305,8 +2317,8 @@
           "eng": 48
         },
         "2026-10-21": {
-          "total": 135,
-          "eng": 48
+          "total": 137,
+          "eng": 49
         }
       },
       "pm": {
@@ -2320,6 +2332,12 @@
         "product manager connections": {
           "ids": [
             "ashby-notion-be6e1a35-d467-48e6-96bf-62afc4ad0126"
+          ],
+          "lastSeen": "2026-10-21"
+        },
+        "ai product manager growth marketing": {
+          "ids": [
+            "ashby-notion-11e56782-ee28-4025-ba0e-76222b0bfcea"
           ],
           "lastSeen": "2026-10-21"
         }
@@ -2424,8 +2442,8 @@
           "eng": 417
         },
         "2026-10-21": {
-          "total": 808,
-          "eng": 416
+          "total": 809,
+          "eng": 421
         }
       },
       "pm": {
@@ -2618,8 +2636,8 @@
           "eng": 41
         },
         "2026-10-21": {
-          "total": 169,
-          "eng": 41
+          "total": 170,
+          "eng": 42
         }
       },
       "pm": {
@@ -4325,7 +4343,7 @@
           "eng": 31
         },
         "2026-10-21": {
-          "total": 79,
+          "total": 80,
           "eng": 31
         }
       },
@@ -4878,7 +4896,7 @@
           "eng": 5
         },
         "2026-10-21": {
-          "total": 91,
+          "total": 92,
           "eng": 4
         }
       },
@@ -5316,6 +5334,12 @@
             "amazon-10584847"
           ],
           "lastSeen": "2026-10-21"
+        },
+        "principle product manager tech global corporate procurement tech": {
+          "ids": [
+            "amazon-10585524"
+          ],
+          "lastSeen": "2026-10-21"
         }
       }
     },
@@ -5620,7 +5644,7 @@
           "eng": 24
         },
         "2026-10-21": {
-          "total": 73,
+          "total": 72,
           "eng": 24
         }
       },
@@ -6322,7 +6346,7 @@
           "eng": 2
         },
         "2026-10-21": {
-          "total": 13,
+          "total": 12,
           "eng": 2
         }
       },
@@ -6331,7 +6355,8 @@
           "ids": [
             "workday-lowes-/job/Bengaluru/Sr-Product-Manager_JR-02641454"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-21",
+          "closedOn": "2026-10-21"
         }
       }
     },
@@ -7282,7 +7307,7 @@
           "eng": 7
         },
         "2026-10-21": {
-          "total": 20,
+          "total": 21,
           "eng": 7
         }
       },
@@ -7883,7 +7908,7 @@
           "eng": 9
         },
         "2026-10-21": {
-          "total": 192,
+          "total": 193,
           "eng": 9
         }
       },
@@ -8314,7 +8339,7 @@
           "eng": 0
         },
         "2026-10-21": {
-          "total": 13,
+          "total": 12,
           "eng": 0
         }
       },
@@ -8645,7 +8670,7 @@
         },
         "2026-10-21": {
           "total": 100,
-          "eng": 38
+          "eng": 36
         }
       },
       "pm": {
@@ -8700,7 +8725,8 @@
             "smartrecruiters-ServiceNow-744000153660649",
             "smartrecruiters-ServiceNow-744000156718589"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-21",
+          "closedOn": "2026-10-21"
         },
         "senior director product unified security and exposure management": {
           "ids": [
@@ -8816,7 +8842,8 @@
             "smartrecruiters-ServiceNow-744000154891980",
             "smartrecruiters-ServiceNow-744000156836234"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-21",
+          "closedOn": "2026-10-21"
         },
         "data product manager marketing technology": {
           "ids": [
@@ -8902,6 +8929,18 @@
         "director regional product management": {
           "ids": [
             "smartrecruiters-ServiceNow-744000156842184"
+          ],
+          "lastSeen": "2026-10-21"
+        },
+        "staff ai product manager": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000156861272"
+          ],
+          "lastSeen": "2026-10-21"
+        },
+        "senior staff outbound product manager gtm data analytics": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000156856599"
           ],
           "lastSeen": "2026-10-21"
         }
@@ -9903,8 +9942,8 @@
           "eng": 34
         },
         "2026-10-21": {
-          "total": 104,
-          "eng": 34
+          "total": 106,
+          "eng": 33
         }
       },
       "pm": {
@@ -10288,8 +10327,8 @@
           "eng": 8
         },
         "2026-10-21": {
-          "total": 28,
-          "eng": 8
+          "total": 27,
+          "eng": 7
         }
       },
       "pm": {
@@ -10525,8 +10564,8 @@
           "eng": 49
         },
         "2026-10-21": {
-          "total": 84,
-          "eng": 50
+          "total": 83,
+          "eng": 49
         }
       },
       "pm": {
@@ -10741,7 +10780,7 @@
         },
         "2026-10-21": {
           "total": 60,
-          "eng": 11
+          "eng": 10
         }
       },
       "pm": {
@@ -10875,8 +10914,8 @@
           "eng": 22
         },
         "2026-10-21": {
-          "total": 69,
-          "eng": 23
+          "total": 61,
+          "eng": 20
         }
       },
       "pm": {
@@ -10951,7 +10990,8 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Product-Owner--Securities-and-Prime-Services-Delivery--VP-_R-577678-1"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-21",
+          "closedOn": "2026-10-21"
         },
         "product owner market maker options clearing": {
           "ids": [
@@ -11062,8 +11102,8 @@
           "eng": 40
         },
         "2026-10-21": {
-          "total": 80,
-          "eng": 42
+          "total": 76,
+          "eng": 40
         }
       },
       "pm": {}
@@ -11399,7 +11439,7 @@
           "eng": 27
         },
         "2026-10-21": {
-          "total": 60,
+          "total": 59,
           "eng": 26
         }
       },
@@ -11446,7 +11486,8 @@
           "ids": [
             "eightfold-microsoft.com-1970393556978896"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-21",
+          "closedOn": "2026-10-21"
         },
         "sr product manager": {
           "ids": [
@@ -11864,8 +11905,8 @@
           "eng": 578
         },
         "2026-10-21": {
-          "total": 898,
-          "eng": 576
+          "total": 897,
+          "eng": 574
         }
       },
       "pm": {
@@ -13204,8 +13245,8 @@
           "eng": 167
         },
         "2026-10-21": {
-          "total": 397,
-          "eng": 170
+          "total": 393,
+          "eng": 168
         }
       },
       "pm": {
@@ -13403,7 +13444,7 @@
           "eng": 31
         },
         "2026-10-21": {
-          "total": 61,
+          "total": 60,
           "eng": 31
         }
       },
@@ -13749,8 +13790,8 @@
           "eng": 38
         },
         "2026-10-21": {
-          "total": 87,
-          "eng": 39
+          "total": 86,
+          "eng": 42
         }
       },
       "pm": {
@@ -13848,7 +13889,7 @@
         },
         "2026-10-21": {
           "total": 200,
-          "eng": 125
+          "eng": 126
         }
       },
       "pm": {
@@ -13964,7 +14005,7 @@
           "eng": 40
         },
         "2026-10-21": {
-          "total": 146,
+          "total": 147,
           "eng": 43
         }
       },
@@ -14100,7 +14141,7 @@
           "eng": 199
         },
         "2026-10-21": {
-          "total": 667,
+          "total": 662,
           "eng": 198
         }
       },
@@ -14564,8 +14605,8 @@
           "eng": 181
         },
         "2026-10-21": {
-          "total": 360,
-          "eng": 181
+          "total": 356,
+          "eng": 178
         }
       },
       "pm": {
@@ -14821,7 +14862,7 @@
           "eng": 37
         },
         "2026-10-21": {
-          "total": 108,
+          "total": 107,
           "eng": 39
         }
       },
@@ -15102,7 +15143,7 @@
           "eng": 18
         },
         "2026-10-21": {
-          "total": 360,
+          "total": 365,
           "eng": 18
         }
       },
@@ -15324,7 +15365,7 @@
     "Airwallex": {
       "daily": {
         "2026-10-21": {
-          "total": 500,
+          "total": 501,
           "eng": 130
         }
       },

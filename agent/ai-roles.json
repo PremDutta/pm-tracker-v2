@@ -144,17 +144,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "vc-peakxv-25493",
-      "title": "Principal Product Manager, AI",
-      "company": "SaaS Labs",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://careers.kula.ai/saas-labs/25493",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "vc-lightspeed-c4099026-b194-4b16-8a12-c7ae1a9b51a0",
       "title": "Product Manager - Chanakya",
       "company": "Sarvam AI",
@@ -218,6 +207,17 @@
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000156861272",
+      "title": "Staff AI Product Manager",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156861272",
+      "source": "SmartRecruiters (ServiceNow)",
+      "level": "group",
+      "aiMatch": "title",
       "firstSeen": "2026-10-21"
     },
     {

@@ -3566,6 +3566,60 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557041935",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "ashby-Ashby-40320f3a-9d7d-4d53-a30e-a1bf7d74793b",
+      "title": "Staff Product Manager",
+      "company": "Ashby",
+      "location": "Remote - US",
+      "url": "https://jobs.ashbyhq.com/Ashby/40320f3a-9d7d-4d53-a30e-a1bf7d74793b",
+      "source": "Ashby (Ashby)",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "ashby-Ashby-9599c771-a837-462f-8e03-39d18be54a51",
+      "title": "Senior Product Manager",
+      "company": "Ashby",
+      "location": "Remote - US",
+      "url": "https://jobs.ashbyhq.com/Ashby/9599c771-a837-462f-8e03-39d18be54a51",
+      "source": "Ashby (Ashby)",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "ashby-notion-11e56782-ee28-4025-ba0e-76222b0bfcea",
+      "title": "AI Product Manager, Growth Marketing",
+      "company": "Notion",
+      "location": "New York, New York",
+      "url": "https://jobs.ashbyhq.com/notion/11e56782-ee28-4025-ba0e-76222b0bfcea",
+      "source": "Ashby (Notion)",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "amazon-10585524",
+      "title": "Principle Product Manager Tech, Global Corporate Procurement Tech",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10585524/principle-product-manager-tech-global-corporate-procurement-tech",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000156861272",
+      "title": "Staff AI Product Manager",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156861272",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "vc-peakxv-293475",
+      "title": "Product Manager- Publisher",
+      "company": "smallcase",
+      "location": "Bengaluru, Karnataka, India, India",
+      "url": "https://app.pyjamahr.com/careers?company=smallcase&job_id=293475&company_uuid=2615584222",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-22"
     }
   ],
   "signals": [
