@@ -58,7 +58,10 @@ const env = (name) => process.env[name];
 // ATS feeds return every open role, not just PM ones, so this filters them
 // down before anything reaches Telegram. Adjust to taste.
 // "Product Management - UPI" (Paytm's titling) and "Product Lead" are PM roles too.
-const PM_TITLE_REGEX = /product\s*(manager|owner|management\b|lead\b)|head\s+of\s+product|director.{0,15}product|vp.{0,15}product|group\s*product\s*manager/i;
+const PM_TITLE_BASE = /product\s*(manager|owner|management\b|lead\b)|head\s+of\s+product|director.{0,15}product|vp.{0,15}product|group\s*product\s*manager/i;
+// "Director of Product Design" and internships match the pattern but aren't PM roles.
+const NOT_PM_RE = /product\s+design|designer|\bintern(ship)?\b/i;
+const PM_TITLE_REGEX = { test: (t) => PM_TITLE_BASE.test(t) && !NOT_PM_RE.test(t) };
 
 async function fetchAdzuna() {
   const appId = env('ADZUNA_APP_ID');
@@ -290,7 +293,8 @@ async function fetchFreshteam(company) {
 // are filtered afterwards. slug: { tenant, wd, site }, plus host for tenants on
 // the shared myworkdaysite.com domain (Wells Fargo: wd1.myworkdaysite.com).
 async function fetchWorkday(company) {
-  const { tenant, wd, site, host } = company.slug;
+  // searchLocation: where to look (default India; "Singapore" / "Dubai" for global employers).
+  const { tenant, wd, site, host, searchLocation = 'India' } = company.slug;
   const base = `https://${host || `${tenant}.wd${wd}.myworkdayjobs.com`}`;
   const publicBase = host ? `${base}/recruiting/${tenant}/${site}` : `${base}/${site}`;
   const jobs = [];
@@ -299,7 +303,7 @@ async function fetchWorkday(company) {
     const res = await fetch(`${base}/wday/cxs/${tenant}/${site}/jobs`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-      body: JSON.stringify({ appliedFacets: {}, limit: 20, offset, searchText: 'product manager India' }),
+      body: JSON.stringify({ appliedFacets: {}, limit: 20, offset, searchText: `product manager ${searchLocation}` }),
       signal: AbortSignal.timeout(30000),
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);

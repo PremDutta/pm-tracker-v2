@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Search, Copy, Check } from 'lucide-react';
+import { Search, Copy, Check, Link2 } from 'lucide-react';
 import NewBadge from './NewBadge';
 
 // Google URL for a hack: timeFilter = past 24h (older cards), tbs = any Google
@@ -12,9 +12,10 @@ const filterLabel = (h) => [TIME_LABELS[h.tbs || (h.timeFilter ? 'qdr:d' : '')],
 /** One Google-search hack: title, tip, the query, Search Now / Copy. Shared by
  *  the Hacks and AI PM tabs. `h.query` is already role-filled. */
 export default function HackCard({ h, i = 0, t, theme, card, btnPrimary, btnSecondary, badge, isLoaded = true }) {
-  const [copied, setCopied] = useState(false);
-  const copy = () => {
-    navigator.clipboard.writeText(h.query).catch(() => {}).finally(() => { setCopied(true); setTimeout(() => setCopied(false), 2000); });
+  const [copied, setCopied] = useState(null);   // 'query' | 'link' | null
+  const copy = (what) => {
+    const text = what === 'link' ? searchUrl(h) : h.query;
+    navigator.clipboard.writeText(text).catch(() => {}).finally(() => { setCopied(what); setTimeout(() => setCopied(null), 2000); });
   };
   return (
     <div style={{ ...card, minWidth:0, opacity:isLoaded?1:0, transform:isLoaded?'translateY(0)':'translateY(10px)', transition:`all 0.4s ease ${i*0.04}s` }}>
@@ -37,12 +38,23 @@ export default function HackCard({ h, i = 0, t, theme, card, btnPrimary, btnSeco
           <button onClick={()=>window.open(searchUrl(h),'_blank')} style={{ ...btnPrimary, padding:'9px 18px', fontSize:'13px' }}><Search size={14}/>Search Now</button>
         </div>
       </div>
-      <div style={{ background:t.codeBg, padding:'12px 16px', borderRadius:'10px', fontFamily:'SF Mono,Monaco,Consolas,monospace', fontSize:'11.5px', color:t.codeColor, overflowX:'auto', whiteSpace:'nowrap' }}>
-        {h.query}{filterLabel(h) && <span style={{ color:t.textTertiary }}> [{filterLabel(h)}]</span>}
+      <div style={{ display:'flex', alignItems:'center', gap:'8px', background:t.codeBg, padding:'8px 8px 8px 16px', borderRadius:'10px' }}>
+        <div style={{ flex:1, minWidth:0, fontFamily:'SF Mono,Monaco,Consolas,monospace', fontSize:'11.5px', color:t.codeColor, overflowX:'auto', whiteSpace:'nowrap' }}>
+          {h.query}{filterLabel(h) && <span style={{ color:t.textTertiary }}> [{filterLabel(h)}]</span>}
+        </div>
+        <button onClick={() => copy('query')} aria-label={`Copy search string: ${h.title}`} title="Copy search string"
+          style={{ flexShrink:0, display:'inline-flex', alignItems:'center', gap:'4px', padding:'6px 10px', borderRadius:'8px', border:`1px solid ${t.border}`, background:t.cardBg, color:copied === 'query' ? t.success : t.text, fontSize:'11px', cursor:'pointer' }}>
+          {copied === 'query' ? <><Check size={12}/> Copied</> : <Copy size={13}/>}
+        </button>
       </div>
-      <button onClick={copy} style={{ ...btnSecondary, marginTop:'10px', padding:'7px 14px', fontSize:'12px' }}>
-        {copied?<><Check size={12}/> Copied!</>:<><Copy size={12}/> Copy query</>}
-      </button>
+      <div style={{ display:'flex', gap:'8px', marginTop:'10px', flexWrap:'wrap' }}>
+        <button onClick={() => copy('query')} style={{ ...btnSecondary, padding:'7px 14px', fontSize:'12px' }}>
+          {copied === 'query' ? <><Check size={12}/> Copied!</> : <><Copy size={12}/> Copy search string</>}
+        </button>
+        <button onClick={() => copy('link')} title="The full Google link, with the time filter already applied" style={{ ...btnSecondary, padding:'7px 14px', fontSize:'12px' }}>
+          {copied === 'link' ? <><Check size={12}/> Link copied!</> : <><Link2 size={12}/> Copy link{filterLabel(h) ? ` (${filterLabel(h)})` : ''}</>}
+        </button>
+      </div>
     </div>
   );
 }

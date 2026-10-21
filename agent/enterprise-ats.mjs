@@ -35,10 +35,10 @@ async function getJson(url, init = {}) {
 // Throttles bursts ("Please try again later"), hence the pause between pages.
 // slug: { host, domain }
 export async function fetchEightfold(company) {
-  const { host, domain } = company.slug;
+  const { host, domain, searchLocation = 'India' } = company.slug;
   const jobs = [];
   for (let start = 0; start < 80; start += 10) {
-    const d = await getJson(`https://${host}/api/pcsx/search?domain=${encodeURIComponent(domain)}&query=product%20manager&location=India&start=${start}&sort_by=relevance`);
+    const d = await getJson(`https://${host}/api/pcsx/search?domain=${encodeURIComponent(domain)}&query=product%20manager&location=${encodeURIComponent(searchLocation)}&start=${start}&sort_by=relevance`);
     const data = d.data || d;
     const page = data.positions || [];
     jobs.push(...page);

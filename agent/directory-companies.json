@@ -18,6 +18,12 @@
     }
   },
   {
+    "name": "Airwallex",
+    "ats": "ashby",
+    "slug": "airwallex",
+    "sector": "singapore"
+  },
+  {
     "name": "Amazon",
     "ats": "amazon",
     "slug": {
@@ -57,6 +63,18 @@
     "sector": "saas"
   },
   {
+    "name": "Careem",
+    "ats": "greenhouse",
+    "slug": "careem",
+    "sector": "gulf"
+  },
+  {
+    "name": "Carousell",
+    "ats": "smartrecruiters",
+    "slug": "carousellgroup",
+    "sector": "singapore"
+  },
+  {
     "name": "Cisco",
     "ats": "workday",
     "slug": {
@@ -90,10 +108,27 @@
     "sector": "fintech"
   },
   {
+    "name": "Crypto.com",
+    "ats": "lever",
+    "slug": "crypto",
+    "sector": "singapore"
+  },
+  {
     "name": "Databricks",
     "ats": "greenhouse",
     "slug": "databricks",
     "sector": "ai"
+  },
+  {
+    "name": "DBS Bank",
+    "ats": "workday",
+    "slug": {
+      "tenant": "dbs",
+      "wd": 3,
+      "site": "DBS_Careers",
+      "searchLocation": "Singapore"
+    },
+    "sector": "singapore"
   },
   {
     "name": "Dhan",
@@ -120,6 +155,12 @@
     "sector": "ai"
   },
   {
+    "name": "Foodics",
+    "ats": "workable",
+    "slug": "foodics",
+    "sector": "gulf"
+  },
+  {
     "name": "Fractal",
     "ats": "workday",
     "slug": {
@@ -136,6 +177,12 @@
     "sector": "saas"
   },
   {
+    "name": "Funding Societies",
+    "ats": "workable",
+    "slug": "fundingsocieties",
+    "sector": "singapore"
+  },
+  {
     "name": "Glance",
     "ats": "greenhouse",
     "slug": "glance",
@@ -146,6 +193,12 @@
     "ats": "greenhouse",
     "slug": "gleanwork",
     "sector": "ai"
+  },
+  {
+    "name": "Grab",
+    "ats": "smartrecruiters",
+    "slug": "grab",
+    "sector": "singapore"
   },
   {
     "name": "Groww",
@@ -259,6 +312,12 @@
     }
   },
   {
+    "name": "Lean Technologies",
+    "ats": "ashby",
+    "slug": "leantech",
+    "sector": "gulf"
+  },
+  {
     "name": "Lowe's India",
     "ats": "workday",
     "slug": {
@@ -355,6 +414,18 @@
     "ats": "lever",
     "slug": "neuron7",
     "sector": "ai"
+  },
+  {
+    "name": "Ninja Van",
+    "ats": "lever",
+    "slug": "ninjavan",
+    "sector": "singapore"
+  },
+  {
+    "name": "Nium",
+    "ats": "lever",
+    "slug": "nium",
+    "sector": "singapore"
   },
   {
     "name": "Nurix AI",
@@ -479,6 +550,12 @@
     }
   },
   {
+    "name": "Salla",
+    "ats": "workable",
+    "slug": "salla",
+    "sector": "gulf"
+  },
+  {
     "name": "Samsung R&D India",
     "ats": "workday",
     "slug": {
@@ -563,6 +640,18 @@
     "sector": "ecommerce"
   },
   {
+    "name": "Talabat (Delivery Hero)",
+    "ats": "smartrecruiters",
+    "slug": "DeliveryHero",
+    "sector": "gulf"
+  },
+  {
+    "name": "Tamara",
+    "ats": "greenhouse",
+    "slug": "tamara",
+    "sector": "gulf"
+  },
+  {
     "name": "Target India",
     "ats": "workday",
     "slug": {
@@ -570,6 +659,12 @@
       "wd": 5,
       "site": "targetcareers"
     }
+  },
+  {
+    "name": "Thunes",
+    "ats": "greenhouse",
+    "slug": "thunes",
+    "sector": "singapore"
   },
   {
     "name": "UiPath",
@@ -642,6 +737,12 @@
     }
   },
   {
+    "name": "Xendit",
+    "ats": "greenhouse",
+    "slug": "xendit",
+    "sector": "singapore"
+  },
+  {
     "name": "Yubi",
     "ats": "zoho",
     "slug": "go-yubi",
@@ -683,5 +784,11 @@
     "ats": "freshteam",
     "slug": "zetwerk",
     "sector": "ecommerce"
+  },
+  {
+    "name": "Ziina",
+    "ats": "ashby",
+    "slug": "ziina",
+    "sector": "gulf"
   }
 ]

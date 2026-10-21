@@ -62,6 +62,15 @@
       "readable": false
     },
     {
+      "name": "Airwallex",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://careers.airwallex.com/",
+      "ats": "ashby",
+      "slug": "airwallex",
+      "readable": true
+    },
+    {
       "name": "Amagi",
       "group": "unicorn",
       "careersUrl": "https://www.amagi.com/careers/open-roles",
@@ -85,6 +94,14 @@
       "group": "bfsi_gcc",
       "careersUrl": "https://www.americanexpress.com/en-us/careers/",
       "ats": "custom",
+      "readable": false
+    },
+    {
+      "name": "Anghami",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://anghami.zenats.com/en/careers_page",
+      "ats": "zenats",
       "readable": false
     },
     {
@@ -242,6 +259,24 @@
       "note": "Darwinbox careers site blocks automated reads: check it directly."
     },
     {
+      "name": "Careem",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://www.careem.com/careers/",
+      "ats": "greenhouse",
+      "slug": "careem",
+      "readable": true
+    },
+    {
+      "name": "Carousell",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://carousell.careers/",
+      "ats": "smartrecruiters",
+      "slug": "carousellgroup",
+      "readable": true
+    },
+    {
       "name": "Cars24",
       "group": "unicorn",
       "careersUrl": "https://careers.cars24.com",
@@ -354,6 +389,15 @@
       "readable": true
     },
     {
+      "name": "Crypto.com",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://crypto.com/careers",
+      "ats": "lever",
+      "slug": "crypto",
+      "readable": true
+    },
+    {
       "name": "Cult.Fit",
       "group": "unicorn",
       "careersUrl": "https://careers.cult.fit/cult/",
@@ -377,6 +421,20 @@
       "careersUrl": "https://www.databricks.com/company/careers",
       "ats": "greenhouse",
       "slug": "databricks",
+      "readable": true
+    },
+    {
+      "name": "DBS Bank",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://www.dbs.com/careers",
+      "ats": "workday",
+      "slug": {
+        "tenant": "dbs",
+        "wd": 3,
+        "site": "DBS_Careers",
+        "searchLocation": "Singapore"
+      },
       "readable": true
     },
     {
@@ -485,6 +543,14 @@
       "readable": true
     },
     {
+      "name": "Emirates NBD",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://careers.emiratesnbd.com/",
+      "ats": "unknown",
+      "readable": false
+    },
+    {
       "name": "Eruditus",
       "group": "unicorn",
       "careersUrl": "https://careers.emeritus.org/jobs",
@@ -544,6 +610,15 @@
       "readable": false
     },
     {
+      "name": "Foodics",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://www.foodics.com/careers/",
+      "ats": "workable",
+      "slug": "foodics",
+      "readable": true
+    },
+    {
       "name": "Fractal",
       "group": "unicorn",
       "careersUrl": "https://fractal.ai/careers/",
@@ -564,6 +639,15 @@
       "sector": "saas",
       "status": "listed",
       "slug": "freshworks",
+      "readable": true
+    },
+    {
+      "name": "Funding Societies",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://fundingsocieties.com/careers",
+      "ats": "workable",
+      "slug": "fundingsocieties",
       "readable": true
     },
     {
@@ -614,6 +698,23 @@
       "ats": "custom",
       "searchUrl": "https://www.google.com/about/careers/applications/jobs/results?q=product%20manager&location=India",
       "readable": false
+    },
+    {
+      "name": "GoTo (Gojek)",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://www.gotocompany.com/en/careers",
+      "ats": "custom",
+      "readable": false
+    },
+    {
+      "name": "Grab",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://www.grab.careers/",
+      "ats": "smartrecruiters",
+      "slug": "grab",
+      "readable": true
     },
     {
       "name": "Groww",
@@ -876,6 +977,14 @@
       "readable": true
     },
     {
+      "name": "Kitopi",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://www.kitopi.com/careers",
+      "ats": "unknown",
+      "readable": false
+    },
+    {
       "name": "Kore.ai",
       "group": "ai",
       "sector": "ai",
@@ -914,6 +1023,14 @@
       "readable": false
     },
     {
+      "name": "Lazada",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://www.lazada.com/en/careers/",
+      "ats": "custom",
+      "readable": false
+    },
+    {
       "name": "Lead",
       "group": "unicorn",
       "careersUrl": "https://leadschool.in/careers/",
@@ -928,6 +1045,15 @@
       "ats": "unknown",
       "sector": "saas",
       "readable": false
+    },
+    {
+      "name": "Lean Technologies",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://www.leantech.me/careers",
+      "ats": "ashby",
+      "slug": "leantech",
+      "readable": true
     },
     {
       "name": "Lenskart",
@@ -1191,11 +1317,37 @@
       "readable": true
     },
     {
+      "name": "Ninja Van",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://www.ninjavan.co/en-sg/careers",
+      "ats": "lever",
+      "slug": "ninjavan",
+      "readable": true
+    },
+    {
+      "name": "Nium",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://www.nium.com/careers",
+      "ats": "lever",
+      "slug": "nium",
+      "readable": true
+    },
+    {
       "name": "NoBroker",
       "group": "unicorn",
       "careersUrl": "https://www.nobroker.in/careers",
       "ats": "unknown",
       "sector": "other",
+      "readable": false
+    },
+    {
+      "name": "noon",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://careers.noon.com/",
+      "ats": "unknown",
       "readable": false
     },
     {
@@ -1237,6 +1389,14 @@
       "ats": "greenhouse",
       "slug": "observeai",
       "readable": true
+    },
+    {
+      "name": "OCBC",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://www.ocbc.com/group/careers/",
+      "ats": "taleo",
+      "readable": false
     },
     {
       "name": "OfBusiness",
@@ -1450,6 +1610,22 @@
       "readable": false
     },
     {
+      "name": "Property Finder",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://www.propertyfinder.com/careers/",
+      "ats": "unknown",
+      "readable": false
+    },
+    {
+      "name": "PropertyGuru",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://www.propertyguru.com.sg/careers",
+      "ats": "unknown",
+      "readable": false
+    },
+    {
       "name": "Purplle",
       "group": "unicorn",
       "careersUrl": "https://purplle.turbohire.co/careerpage/3ed17e54-f66f-4ade-90b9-ef064dc6fbd6",
@@ -1583,6 +1759,15 @@
       "readable": true
     },
     {
+      "name": "Salla",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://salla.com/careers",
+      "ats": "workable",
+      "slug": "salla",
+      "readable": true
+    },
+    {
       "name": "Samsung R&D India",
       "group": "other_mnc",
       "careersUrl": "https://research.samsung.com/careers",
@@ -1620,6 +1805,14 @@
       "ats": "lever",
       "slug": "saviynt",
       "readable": true
+    },
+    {
+      "name": "Sea / Shopee / Garena",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://career.sea.com/",
+      "ats": "custom",
+      "readable": false
     },
     {
       "name": "ServiceNow",
@@ -1758,6 +1951,14 @@
       "readable": false
     },
     {
+      "name": "stc",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://careers.stc.com.sa/",
+      "ats": "successfactors",
+      "readable": false
+    },
+    {
       "name": "Swiggy",
       "group": "unicorn",
       "careersUrl": "https://careers.swiggy.com",
@@ -1765,6 +1966,32 @@
       "sector": "ecommerce",
       "status": "listed",
       "slug": "swiggy",
+      "readable": true
+    },
+    {
+      "name": "Tabby",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://tabby.ai/en-AE/careers",
+      "ats": "custom",
+      "readable": false
+    },
+    {
+      "name": "Talabat (Delivery Hero)",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://careers.deliveryhero.com/talabat",
+      "ats": "smartrecruiters",
+      "slug": "DeliveryHero",
+      "readable": true
+    },
+    {
+      "name": "Tamara",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://tamara.co/careers",
+      "ats": "greenhouse",
+      "slug": "tamara",
       "readable": true
     },
     {
@@ -1817,6 +2044,15 @@
       "careersUrl": "https://www.tesco-careers.com/",
       "ats": "custom",
       "readable": false
+    },
+    {
+      "name": "Thunes",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://www.thunes.com/careers/",
+      "ats": "greenhouse",
+      "slug": "thunes",
+      "readable": true
     },
     {
       "name": "Uber",
@@ -1979,6 +2215,15 @@
       "readable": true
     },
     {
+      "name": "Xendit",
+      "group": "global",
+      "sector": "singapore",
+      "careersUrl": "https://www.xendit.co/en/careers/",
+      "ats": "greenhouse",
+      "slug": "xendit",
+      "readable": true
+    },
+    {
       "name": "Xpressbees",
       "group": "unicorn",
       "careersUrl": "https://www.xpressbees.com/career",
@@ -2070,6 +2315,15 @@
       "ats": "freshteam",
       "sector": "ecommerce",
       "slug": "zetwerk",
+      "readable": true
+    },
+    {
+      "name": "Ziina",
+      "group": "global",
+      "sector": "gulf",
+      "careersUrl": "https://ziina.com/careers",
+      "ats": "ashby",
+      "slug": "ziina",
       "readable": true
     },
     {

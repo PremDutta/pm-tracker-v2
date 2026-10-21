@@ -504,3 +504,13 @@ test('All Jobs: LinkedIn "new since your last check" uses the last check time, a
   expect(JSON.parse(window.localStorage.getItem('pmt_platform_meta')).linkedin.lastChecked).toBeGreaterThan(last);
 });
 
+test('Hack cards: copy the search string, or the full Google link with the time filter', async () => {
+  const user = userEvent.setup();
+  render(<App />);
+  await user.click(screen.getByRole('button', { name: 'Hacks' }));
+  const writeText = jest.spyOn(navigator.clipboard, 'writeText');
+  await user.click(screen.getByRole('button', { name: 'Copy search string: Singapore PM Roles' }));
+  expect(writeText).toHaveBeenLastCalledWith('"product manager" Singapore (hiring OR jobs) -intern');
+  await user.click(screen.getAllByRole('button', { name: /Copy link \(Past week\)/ })[0]);
+  expect(writeText.mock.calls.at(-1)[0]).toMatch(/^https:\/\/www\.google\.com\/search\?q=.+&tbs=qdr:/);
+});

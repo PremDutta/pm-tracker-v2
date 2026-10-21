@@ -14,6 +14,7 @@ export const COMPANY_ROLES_URL = process.env.REACT_APP_COMPANY_ROLES_URL || 'htt
 export const GROUPS = {
   unicorn:           'Indian unicorns',
   ai:                'AI companies',
+  global:            'Singapore & Gulf',
   big_tech:          'Big tech',
   it_services:       'IT services',
   bfsi_gcc:          'Banks, fintech & GCCs',

@@ -44,6 +44,8 @@ export const WHATS_NEW = [
   { id:'hack:greenhouse', date:'2026-09-29', tab:'hacks', title:'Greenhouse: new job-boards domain added' },
   { id:'hack:lever', date:'2026-09-29', tab:'hacks', title:'Lever: now India-filtered' },
   { id:'hack:workday', date:'2026-09-29', tab:'hacks', title:'Workday: all tenants, not just wd5' },
+  { id:'companies:global', companyGroup:'global', date:'2026-10-21', tab:'companies', title:'29 Singapore & Gulf employers', desc:'DBS, Grab, Airwallex, Crypto.com, Careem, Talabat, Tamara, Salla and more: 17 scanned every 6 hours, their roles show in the Global tab' },
+  { id:'hacks:copy', date:'2026-10-21', tab:'hacks', title:'Copy search string or link', desc:'Every search card has a copy button inside the query box, plus Copy link: the full Google link with the time filter already applied' },
   { id:'hack-cat:global', hackCategory:'global', target:'global-searches', date:'2026-10-21', tab:'intl', title:'Global search strings', desc:'8 role-aware Google searches for Singapore, UAE, Saudi Arabia, UK and Europe, visa-sponsored roles and AI PM roles abroad (also in Hacks)' },
   { id:'intl:global', target:'global-roles', date:'2026-10-21', tab:'intl', title:'Global PM roles: Singapore, UAE, UK, US and more', desc:'Live PM roles outside India by region and level, plus UAE & Gulf job boards. The tab formerly called US/UK/CA/SG is now Global' },
   { id:'jobs:linkedin-power', target:'linkedin-power', date:'2026-10-06', tab:'jobs', title:'LinkedIn: new since your last check', desc:'One click shows only LinkedIn jobs posted after you last looked (LinkedIn\'s own alert trick), plus its newer AI search for your role and for AI / GenAI / ML roles' },
