@@ -1,6 +1,15 @@
 {
   "signals": [
     {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-21",
+      "title": "Sr Staff Outbound Product Manager - AI Assistant ",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156455559",
+      "id": "smartrecruiters-ServiceNow-744000156455559",
+      "detail": "closed 2026-10-18, reposted today"
+    },
+    {
       "type": "funding",
       "company": "Hunar.AI",
       "title": "Hunar.AI raises Rs 40 Cr in Series A funding round led by Blume Ventures",

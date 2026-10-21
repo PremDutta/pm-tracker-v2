@@ -3402,6 +3402,15 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/jobs/347873",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-21"
+    },
+    {
+      "id": "amazon-10584847",
+      "title": "Senior Product Manager - Tech, Shipment Technologies",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10584847/senior-product-manager-tech-shipment-technologies",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-21"
     }
   ],
   "signals": [
@@ -3617,6 +3626,15 @@
       "company": "Accenture",
       "date": "2026-10-19",
       "detail": "167 engineering openings vs a usual 37"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-21",
+      "title": "Sr Staff Outbound Product Manager - AI Assistant ",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156455559",
+      "id": "smartrecruiters-ServiceNow-744000156455559",
+      "detail": "closed 2026-10-18, reposted today"
     }
   ],
   "reminders": {}
