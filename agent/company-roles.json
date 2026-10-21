@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-21T11:18:17.335Z",
+  "scannedAt": "2026-10-21T12:54:48.273Z",
   "roles": {
     "Amazon": [
       {
@@ -227,20 +227,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10431401",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10576706",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "amazon-10431401",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10499561",
@@ -729,22 +729,6 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -757,6 +741,22 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -876,6 +876,14 @@
       }
     ],
     "JPMorgan Chase": [
+      {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210794392",
+        "title": "Executive Director - Senior AI Product Manager",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794392",
+        "level": "leadership",
+        "firstSeen": "2026-10-21"
+      },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210796604",
         "title": "Product Management -  Loan lifecycle and Platforms(LIQ) - Team Lead",
@@ -1363,6 +1371,16 @@
         "firstSeen": "2026-10-05"
       }
     ],
+    "Nium": [
+      {
+        "id": "lever-nium-f37f91b1-9894-4516-a84d-9dc9cb22ec1e",
+        "title": "Staff Product Manager  – Digital Assets",
+        "location": "Bangalore",
+        "url": "https://jobs.lever.co/nium/f37f91b1-9894-4516-a84d-9dc9cb22ec1e",
+        "level": "group",
+        "firstSeen": "2026-10-21"
+      }
+    ],
     "Noise": [
       {
         "id": "freshteam-gonoise-2000071781",
@@ -1370,14 +1388,6 @@
         "location": "Gurugram, India",
         "url": "https://gonoise.freshteam.com/jobs/psTecFY1YPBK/ad-director-product-nfa",
         "level": "leadership",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "freshteam-gonoise-2000074222",
-        "title": "Intern - Product Management (NPD)",
-        "location": "Gurugram, India",
-        "url": "https://gonoise.freshteam.com/jobs/Z93vUwNpbrzK/intern-product-management-npd",
-        "level": "pm",
         "firstSeen": "2026-09-30"
       },
       {
@@ -1737,14 +1747,6 @@
     ],
     "Rubrik": [
       {
-        "id": "greenhouse-rubrik-7508560",
-        "title": "Director,Product Design",
-        "location": "Bangalore,India",
-        "url": "https://www.rubrik.com/company/careers/departments/job.7508560?gh_jid=7508560",
-        "level": "leadership",
-        "firstSeen": "2026-10-05"
-      },
-      {
         "id": "greenhouse-rubrik-7976001",
         "title": "Senior Product Manager-Identity Resilience",
         "location": "Bangalore, India",
@@ -1860,22 +1862,6 @@
       }
     ],
     "Spyne": [
-      {
-        "id": "keka-spyneai-63606",
-        "title": "AI Product Manager",
-        "location": "Gurgaon",
-        "url": "https://spyneai.keka.com/careers/jobdetails/63606",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
-      },
-      {
-        "id": "keka-spyneai-49785",
-        "title": "Associate Director - Product",
-        "location": "Gurgaon",
-        "url": "https://spyneai.keka.com/careers/jobdetails/49785",
-        "level": "leadership",
-        "firstSeen": "2026-10-05"
-      },
       {
         "id": "keka-spyneai-136045",
         "title": "Senior Product Manager (Conversational AI)",
@@ -2025,6 +2011,16 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "Xendit": [
+      {
+        "id": "greenhouse-xendit-8032565003",
+        "title": "Senior Product Manager - XenPlatform",
+        "location": "Bangalore, India ; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Mumbai, India; Singapore, Singapore",
+        "url": "https://job-boards.greenhouse.io/xendit/jobs/8032565003",
+        "level": "senior",
+        "firstSeen": "2026-10-21"
+      }
+    ],
     "Yubi": [
       {
         "id": "zoho-go-yubi-66789000036436848",
@@ -2143,6 +2139,7 @@
   "lastRead": {
     "Accenture": "2026-10-19",
     "Adobe": "2026-10-21",
+    "Airwallex": "2026-10-21",
     "Amazon": "2026-10-21",
     "Anthropic": "2026-10-21",
     "Apna": "2026-10-21",
@@ -2151,13 +2148,17 @@
     "Atlan": "2026-10-21",
     "Autodesk": "2026-10-21",
     "Browserstack": "2026-10-21",
+    "Careem": "2026-10-21",
+    "Carousell": "2026-10-21",
     "Cisco": "2026-10-21",
     "Cohere": "2026-10-21",
     "Composio": "2026-10-21",
     "Confluent": "2026-10-21",
     "Couchbase": "2026-10-21",
     "CRED": "2026-10-21",
+    "Crypto.com": "2026-10-21",
     "Databricks": "2026-10-21",
+    "DBS Bank": "2026-10-21",
     "Deepgram": "2026-10-21",
     "Descript": "2026-10-21",
     "Dhan": "2026-10-21",
@@ -2167,12 +2168,15 @@
     "Ema": "2026-10-21",
     "Emergent": "2026-10-21",
     "Figma": "2026-10-21",
+    "Foodics": "2026-10-21",
     "Fractal": "2026-10-21",
     "Freshworks": "2026-10-21",
+    "Funding Societies": "2026-10-21",
     "Glance": "2026-10-21",
     "Glean": "2026-10-21",
     "GoComet": "2026-10-21",
     "GoKwik": "2026-10-21",
+    "Grab": "2026-10-21",
     "Groww": "2026-10-21",
     "Gushwork": "2026-10-21",
     "GW RhythmX": "2026-10-21",
@@ -2189,6 +2193,7 @@
     "JPMorgan Chase": "2026-10-21",
     "Karat": "2026-10-21",
     "KPMG India": "2026-10-21",
+    "Lean Technologies": "2026-10-21",
     "LetsTransport": "2026-10-21",
     "Linear": "2026-10-21",
     "Lowe's India": "2026-10-21",
@@ -2206,6 +2211,8 @@
     "Netomi": "2026-10-21",
     "Netradyne": "2026-10-21",
     "Neuron7.ai": "2026-10-21",
+    "Ninja Van": "2026-10-21",
+    "Nium": "2026-10-21",
     "Noise": "2026-10-21",
     "Notion": "2026-10-21",
     "Nurix AI": "2026-10-21",
@@ -2231,6 +2238,7 @@
     "Rubrik": "2026-10-21",
     "Runway": "2026-10-21",
     "Salesforce": "2026-10-21",
+    "Salla": "2026-10-21",
     "Samsung R&D India": "2026-10-21",
     "Sarvam AI": "2026-10-21",
     "Saviynt": "2026-10-21",
@@ -2248,7 +2256,10 @@
     "Spyne": "2026-10-21",
     "Stability AI": "2026-10-21",
     "Swiggy": "2026-10-21",
+    "Talabat (Delivery Hero)": "2026-10-21",
+    "Tamara": "2026-10-21",
     "Target India": "2026-10-21",
+    "Thunes": "2026-10-21",
     "TravClan": "2026-10-21",
     "UiPath": "2026-10-21",
     "Uniphore": "2026-10-21",
@@ -2259,12 +2270,14 @@
     "Wells Fargo": "2026-10-21",
     "Wing Assistant (M32 AI)": "2026-10-21",
     "Wipro": "2026-10-21",
+    "Xendit": "2026-10-21",
     "Yubi": "2026-10-21",
     "Zendesk": "2026-10-21",
     "Zenoti": "2026-10-21",
     "Zensar": "2026-10-21",
     "Zeta": "2026-10-21",
     "Zetwerk": "2026-10-21",
+    "Ziina": "2026-10-21",
     "Zluri": "2026-10-21"
   }
 }

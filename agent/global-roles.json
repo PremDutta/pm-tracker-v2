@@ -1,6 +1,266 @@
 {
-  "scannedAt": "2026-10-21T11:18:17.369Z",
+  "scannedAt": "2026-10-21T12:54:48.306Z",
   "roles": [
+    {
+      "id": "ashby-airwallex-0b159038-01b5-4a32-bd39-ba55573f0fdf",
+      "title": "Director, Product Legal (EmFi & Payments)",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/0b159038-01b5-4a32-bd39-ba55573f0fdf",
+      "source": "Ashby (Airwallex)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-d44190a1-27e6-4991-bcdd-8a9e27db4679",
+      "title": "Head of Product Marketing",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/d44190a1-27e6-4991-bcdd-8a9e27db4679",
+      "source": "Ashby (Airwallex)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-a7108bf6-2e75-4688-85fc-f034d339d949",
+      "title": "Product Lead, Agentic Payments Platform",
+      "company": "Airwallex",
+      "location": "UK - London",
+      "url": "https://jobs.ashbyhq.com/airwallex/a7108bf6-2e75-4688-85fc-f034d339d949",
+      "source": "Ashby (Airwallex)",
+      "level": "group",
+      "regions": [
+        "uk"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-00a99ed3-90f1-4bdf-861e-0cbca8940208",
+      "title": "Product Lead, Embedded Finance",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/00a99ed3-90f1-4bdf-861e-0cbca8940208",
+      "source": "Ashby (Airwallex)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-1282ed12-37d7-415d-927a-2c4d33a3067a",
+      "title": "Product Lead, Growth",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/1282ed12-37d7-415d-927a-2c4d33a3067a",
+      "source": "Ashby (Airwallex)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-16b7b0fd-a514-4c3a-802a-15dcf3b6fb64",
+      "title": "Product Lead, T:0 (Agentic) Finance",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/16b7b0fd-a514-4c3a-802a-15dcf3b6fb64",
+      "source": "Ashby (Airwallex)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-3e50e26a-ea9d-4b63-bdfa-3d3fc6a43908",
+      "title": "Senior Product Manager,  Identity & User Security",
+      "company": "Airwallex",
+      "location": "SG - Singapore",
+      "url": "https://jobs.ashbyhq.com/airwallex/3e50e26a-ea9d-4b63-bdfa-3d3fc6a43908",
+      "source": "Ashby (Airwallex)",
+      "level": "senior",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-6c55b41b-824b-46cd-8590-b9e83eaa5de6",
+      "title": "Senior Product Manager, AI Risk & Onboarding",
+      "company": "Airwallex",
+      "location": "SG - Singapore",
+      "url": "https://jobs.ashbyhq.com/airwallex/6c55b41b-824b-46cd-8590-b9e83eaa5de6",
+      "source": "Ashby (Airwallex)",
+      "level": "senior",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-a0779b7f-90c9-4f0a-b428-fced1426ce93",
+      "title": "Senior Product Manager, AI Risk & Onboarding",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/a0779b7f-90c9-4f0a-b428-fced1426ce93",
+      "source": "Ashby (Airwallex)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-579104ca-b257-48e2-8985-4d5f72f30b68",
+      "title": "Senior Product Manager, Identity & Authentication",
+      "company": "Airwallex",
+      "location": "SG - Singapore",
+      "url": "https://jobs.ashbyhq.com/airwallex/579104ca-b257-48e2-8985-4d5f72f30b68",
+      "source": "Ashby (Airwallex)",
+      "level": "senior",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-d47d524c-9cf7-4a8f-9e67-704a38bff006",
+      "title": "Senior Product Manager, Identity & Authentication",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/d47d524c-9cf7-4a8f-9e67-704a38bff006",
+      "source": "Ashby (Airwallex)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-ea1c50f3-5e7d-4f78-8e0e-86f8f065ef2a",
+      "title": "Senior Product Manager, Identity & User Security",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/ea1c50f3-5e7d-4f78-8e0e-86f8f065ef2a",
+      "source": "Ashby (Airwallex)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-879ff772-adc3-4873-a011-09bc1f747b8d",
+      "title": "Senior Product Manager, Liquidity Platform",
+      "company": "Airwallex",
+      "location": "SG - Singapore",
+      "url": "https://jobs.ashbyhq.com/airwallex/879ff772-adc3-4873-a011-09bc1f747b8d",
+      "source": "Ashby (Airwallex)",
+      "level": "senior",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-2c7d5655-3bef-40ec-9455-fe129b7c09e8",
+      "title": "Senior Product Manager, T:0 (Agentic) Finance",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/2c7d5655-3bef-40ec-9455-fe129b7c09e8",
+      "source": "Ashby (Airwallex)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-2fd283e7-a736-46b0-ba17-5fd3a5cefe17",
+      "title": "Staff Product Manager, Card Schemes",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/2fd283e7-a736-46b0-ba17-5fd3a5cefe17",
+      "source": "Ashby (Airwallex)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-3aeb4a81-9dcd-4e32-811c-97c2812241e6",
+      "title": "Staff Product Manager, Corporate Site (Growth)",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/3aeb4a81-9dcd-4e32-811c-97c2812241e6",
+      "source": "Ashby (Airwallex)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-d18f4a94-34a8-4548-b3e4-85589f2c620d",
+      "title": "Staff Product Manager, Embedded Finance",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/d18f4a94-34a8-4548-b3e4-85589f2c620d",
+      "source": "Ashby (Airwallex)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-9f8b52f7-cad6-40d1-9f98-2f2ed0cb3905",
+      "title": "Staff Product Manager, T:0 (Agentic) Finance",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/9f8b52f7-cad6-40d1-9f98-2f2ed0cb3905",
+      "source": "Ashby (Airwallex)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-a4c847b0-1867-4154-ab61-4dfe9a1ddaec",
+      "title": "Staff Product Manager, Yield",
+      "company": "Airwallex",
+      "location": "AU - Sydney",
+      "url": "https://jobs.ashbyhq.com/airwallex/a4c847b0-1867-4154-ab61-4dfe9a1ddaec",
+      "source": "Ashby (Airwallex)",
+      "level": "group",
+      "regions": [
+        "australia"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-airwallex-2a471f31-9cc8-4ab5-9f6c-921fc1f137d6",
+      "title": "Staff/Senior Product Manager (0-1 Billing)",
+      "company": "Airwallex",
+      "location": "SG - Singapore",
+      "url": "https://jobs.ashbyhq.com/airwallex/2a471f31-9cc8-4ab5-9f6c-921fc1f137d6",
+      "source": "Ashby (Airwallex)",
+      "level": "group",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
     {
       "id": "greenhouse-anthropic-5139628008",
       "title": " Product Manager, Safeguards Rare Harms",
@@ -223,19 +483,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-asana-8213887",
-      "title": "Lead Product Manager, Enterprise Services Management ",
-      "company": "Asana",
-      "location": "Vancouver, BC",
-      "url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887",
-      "source": "Greenhouse (Asana)",
-      "level": "group",
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-asana-8204614",
       "title": "Lead Product Manager, Enterprise Services Management ",
       "company": "Asana",
@@ -245,6 +492,19 @@
       "level": "group",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-asana-8213887",
+      "title": "Lead Product Manager, Enterprise Services Management ",
+      "company": "Asana",
+      "location": "Vancouver, BC",
+      "url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887",
+      "source": "Greenhouse (Asana)",
+      "level": "group",
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -327,6 +587,32 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "smartrecruiters-carousellgroup-744000148418739",
+      "title": "Senior Product Manager - Data Platform",
+      "company": "Carousell",
+      "location": "Ho Chi Minh City, Ho Chi Minh, Vietnam",
+      "url": "https://jobs.smartrecruiters.com/CarousellGroup/744000148418739",
+      "source": "SmartRecruiters (Carousell)",
+      "level": "senior",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "smartrecruiters-carousellgroup-744000156734780",
+      "title": "Senior Product Manager, Platform",
+      "company": "Carousell",
+      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "url": "https://jobs.smartrecruiters.com/CarousellGroup/744000156734780",
+      "source": "SmartRecruiters (Carousell)",
+      "level": "senior",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "ashby-cohere-fe2e2971-e2c0-43fd-9ab1-187571776a5d",
       "title": "Product Manager,  Managed North",
       "company": "Cohere",
@@ -379,6 +665,227 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "lever-crypto-fd1b5ab4-60f7-4aa4-9db1-d7deda6b8143",
+      "title": "OG.com - Senior Product Manager - Fiat Onboarding",
+      "company": "Crypto.com",
+      "location": "San Francisco",
+      "url": "https://jobs.lever.co/crypto/fd1b5ab4-60f7-4aa4-9db1-d7deda6b8143",
+      "source": "Lever (Crypto.com)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-f6a19e4d-1150-476a-8566-ea0e7f2fd96a",
+      "title": "OG.com - Senior Product Manager - Predictions",
+      "company": "Crypto.com",
+      "location": "San Francisco",
+      "url": "https://jobs.lever.co/crypto/f6a19e4d-1150-476a-8566-ea0e7f2fd96a",
+      "source": "Lever (Crypto.com)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-097a7b81-68bd-4cc5-a5a4-7eed9c8a0325",
+      "title": "Product Manager, Fiat & FCM",
+      "company": "Crypto.com",
+      "location": "San Francisco",
+      "url": "https://jobs.lever.co/crypto/097a7b81-68bd-4cc5-a5a4-7eed9c8a0325",
+      "source": "Lever (Crypto.com)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-a898683e-d211-4e8c-8576-21f676993d90",
+      "title": "Product Manager, Fiat & FCM",
+      "company": "Crypto.com",
+      "location": "Singapore",
+      "url": "https://jobs.lever.co/crypto/a898683e-d211-4e8c-8576-21f676993d90",
+      "source": "Lever (Crypto.com)",
+      "level": "pm",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-21c6973a-b800-4db1-adeb-b3c4f8b7df70",
+      "title": "Senior/ Principal Product Manager, Trading(Crypto.com App)",
+      "company": "Crypto.com",
+      "location": "Singapore",
+      "url": "https://jobs.lever.co/crypto/21c6973a-b800-4db1-adeb-b3c4f8b7df70",
+      "source": "Lever (Crypto.com)",
+      "level": "group",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-9947f3a5-fd22-410e-9058-ff3ee9f36951",
+      "title": "Senior/ Principal Product Manager, Trading(Crypto.com App)",
+      "company": "Crypto.com",
+      "location": "Hong Kong",
+      "url": "https://jobs.lever.co/crypto/9947f3a5-fd22-410e-9058-ff3ee9f36951",
+      "source": "Lever (Crypto.com)",
+      "level": "group",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-9b9a56cd-0aaf-46ec-8704-538dcecb72dc",
+      "title": "Senior/ Principal Product Manager, Trading(Crypto.com App)",
+      "company": "Crypto.com",
+      "location": "Dubai",
+      "url": "https://jobs.lever.co/crypto/9b9a56cd-0aaf-46ec-8704-538dcecb72dc",
+      "source": "Lever (Crypto.com)",
+      "level": "group",
+      "regions": [
+        "uae"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-d58a5bcc-e894-4c39-96b4-eb9dff0bb115",
+      "title": "Senior/ Principal Product Manager, Trading(Crypto.com App)",
+      "company": "Crypto.com",
+      "location": "Sydney",
+      "url": "https://jobs.lever.co/crypto/d58a5bcc-e894-4c39-96b4-eb9dff0bb115",
+      "source": "Lever (Crypto.com)",
+      "level": "group",
+      "regions": [
+        "australia"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-35c98674-9bbc-476e-a0f9-a1c48705966a",
+      "title": "Senior/ Principal Product Manager, Trading(Crypto.com App) - Relocate to HK",
+      "company": "Crypto.com",
+      "location": "United States",
+      "url": "https://jobs.lever.co/crypto/35c98674-9bbc-476e-a0f9-a1c48705966a",
+      "source": "Lever (Crypto.com)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-3224df58-3da7-46ba-a537-d7b03e2bca43",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "company": "Crypto.com",
+      "location": "Dubai",
+      "url": "https://jobs.lever.co/crypto/3224df58-3da7-46ba-a537-d7b03e2bca43",
+      "source": "Lever (Crypto.com)",
+      "level": "group",
+      "regions": [
+        "uae"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-32f705b6-e128-447a-9778-8d42c73cb1bb",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "company": "Crypto.com",
+      "location": "Sydney",
+      "url": "https://jobs.lever.co/crypto/32f705b6-e128-447a-9778-8d42c73cb1bb",
+      "source": "Lever (Crypto.com)",
+      "level": "group",
+      "regions": [
+        "australia"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-3877cedd-abc7-4a38-b0fb-b81d62768b08",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "company": "Crypto.com",
+      "location": "Singapore",
+      "url": "https://jobs.lever.co/crypto/3877cedd-abc7-4a38-b0fb-b81d62768b08",
+      "source": "Lever (Crypto.com)",
+      "level": "group",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-e4017800-e255-4016-a6d6-c59f294c2bd9",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "company": "Crypto.com",
+      "location": "Hong Kong",
+      "url": "https://jobs.lever.co/crypto/e4017800-e255-4016-a6d6-c59f294c2bd9",
+      "source": "Lever (Crypto.com)",
+      "level": "group",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-f66cc817-371b-469c-8bc8-52a3f914b6ef",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)  - Relocate to HK",
+      "company": "Crypto.com",
+      "location": "United States",
+      "url": "https://jobs.lever.co/crypto/f66cc817-371b-469c-8bc8-52a3f914b6ef",
+      "source": "Lever (Crypto.com)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-a155c0e5-f80e-4b38-b9ad-f9f8bc683d37",
+      "title": "VP, Product Analytics",
+      "company": "Crypto.com",
+      "location": "San Francisco",
+      "url": "https://jobs.lever.co/crypto/a155c0e5-f80e-4b38-b9ad-f9f8bc683d37",
+      "source": "Lever (Crypto.com)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-aa2dbb2a-1d58-4b46-9556-423500c0672f",
+      "title": "VP, Product Analytics",
+      "company": "Crypto.com",
+      "location": "Hong Kong",
+      "url": "https://jobs.lever.co/crypto/aa2dbb2a-1d58-4b46-9556-423500c0672f",
+      "source": "Lever (Crypto.com)",
+      "level": "leadership",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-be6c09e2-5f24-4a9f-a05f-125301db5097",
+      "title": "VP, Product Analytics",
+      "company": "Crypto.com",
+      "location": "Singapore",
+      "url": "https://jobs.lever.co/crypto/be6c09e2-5f24-4a9f-a05f-125301db5097",
+      "source": "Lever (Crypto.com)",
+      "level": "leadership",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "greenhouse-databricks-7586263002",
       "title": "Associate Product Manager, New Grad (2027 Start)",
       "company": "Databricks",
@@ -412,45 +919,6 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8823189002",
       "source": "Greenhouse (Databricks)",
       "level": "leadership",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "greenhouse-databricks-8133715002",
-      "title": "Product Management Intern (2027) - Amsterdam",
-      "company": "Databricks",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002",
-      "source": "Greenhouse (Databricks)",
-      "level": "pm",
-      "regions": [
-        "europe"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "greenhouse-databricks-8145776002",
-      "title": "Product Management Intern (2027) - Berlin",
-      "company": "Databricks",
-      "location": "Berlin, Germany",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002",
-      "source": "Greenhouse (Databricks)",
-      "level": "pm",
-      "regions": [
-        "europe"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "greenhouse-databricks-6883068002",
-      "title": "Product Management Intern (Summer 2027)",
-      "company": "Databricks",
-      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
-      "source": "Greenhouse (Databricks)",
-      "level": "pm",
       "regions": [
         "us"
       ],
@@ -496,11 +964,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200284002",
+      "id": "greenhouse-databricks-8200462002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -509,11 +977,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200462002",
+      "id": "greenhouse-databricks-8200284002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -535,19 +1003,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7863522002",
-      "title": "Sr. Product Manager, Data Governance",
-      "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002",
-      "source": "Greenhouse (Databricks)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-7863365002",
       "title": "Sr. Product Manager, Data Governance",
       "company": "Databricks",
@@ -561,11 +1016,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8136071002",
-      "title": "Sr. Product Manager, Databricks AI",
+      "id": "greenhouse-databricks-7863522002",
+      "title": "Sr. Product Manager, Data Governance",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -587,11 +1042,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7680573002",
-      "title": "Sr. Product Manager, Databricks Free Edition",
+      "id": "greenhouse-databricks-8136071002",
+      "title": "Sr. Product Manager, Databricks AI",
       "company": "Databricks",
       "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -605,6 +1060,19 @@
       "company": "Databricks",
       "location": "Seattle, Washington",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
+      "source": "Greenhouse (Databricks)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-7680573002",
+      "title": "Sr. Product Manager, Databricks Free Edition",
+      "company": "Databricks",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -678,11 +1146,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7649409002",
+      "id": "greenhouse-databricks-7649411002",
       "title": "Staff Product Manager",
       "company": "Databricks",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649409002",
+      "location": "Berlin, Germany",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -691,11 +1159,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7649411002",
+      "id": "greenhouse-databricks-7649409002",
       "title": "Staff Product Manager",
       "company": "Databricks",
-      "location": "Berlin, Germany",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649409002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -756,6 +1224,19 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "greenhouse-databricks-8420607002",
+      "title": "Staff Product Manager, Serverless Workspaces",
+      "company": "Databricks",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
+      "source": "Greenhouse (Databricks)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "greenhouse-databricks-8427954002",
       "title": "Staff Product Manager, Serverless Workspaces",
       "company": "Databricks",
@@ -769,15 +1250,106 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8420607002",
-      "title": "Staff Product Manager, Serverless Workspaces",
-      "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
-      "source": "Greenhouse (Databricks)",
+      "id": "workday-dbs-/job/Singapore---East/AVP--Digital-Product-Owner--Consumer-Banking-Group_WD87838-1",
+      "title": "AVP, Digital Product Owner, Consumer Banking Group",
+      "company": "DBS Bank",
+      "location": "Singapore - East",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---East/AVP--Digital-Product-Owner--Consumer-Banking-Group_WD87838-1",
+      "source": "Workday (DBS Bank)",
       "level": "group",
       "regions": [
-        "us"
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workday-dbs-/job/Singapore---Central/AVP--Product-Manager--Consumer-Deposits---Consumer-Banking-Group_WD87526-1",
+      "title": "AVP, Product Manager (Consumer Deposits), Consumer Banking Group",
+      "company": "DBS Bank",
+      "location": "Singapore - Central",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/AVP--Product-Manager--Consumer-Deposits---Consumer-Banking-Group_WD87526-1",
+      "source": "Workday (DBS Bank)",
+      "level": "group",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workday-dbs-/job/Singapore---Central/AVP-Senior-Associate-Assistant-Product-Manager--Smart-Buddy--Consumer-Banking-Group_WD88965",
+      "title": "AVP/Senior Associate Assistant Product Manager, Smart Buddy, Consumer Banking Group",
+      "company": "DBS Bank",
+      "location": "Singapore - Central",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/AVP-Senior-Associate-Assistant-Product-Manager--Smart-Buddy--Consumer-Banking-Group_WD88965",
+      "source": "Workday (DBS Bank)",
+      "level": "group",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workday-dbs-/job/Singapore---East/AVP-VP--Product-Owner-cum-Business-Lead--Global-Financial-Markets-Operations--Group-Operations--Group-COO_WD89337",
+      "title": "AVP/VP, Product Owner cum Business Lead, Global Financial Markets Operations, Group Operations, Group COO",
+      "company": "DBS Bank",
+      "location": "Singapore - East",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---East/AVP-VP--Product-Owner-cum-Business-Lead--Global-Financial-Markets-Operations--Group-Operations--Group-COO_WD89337",
+      "source": "Workday (DBS Bank)",
+      "level": "leadership",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workday-dbs-/job/Singapore---Central/GI-Product-Manager---Bancassurance---Advisory-Channels_WD86861",
+      "title": "GI Product Manager - Bancassurance - Advisory Channels",
+      "company": "DBS Bank",
+      "location": "Singapore - Central",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/GI-Product-Manager---Bancassurance---Advisory-Channels_WD86861",
+      "source": "Workday (DBS Bank)",
+      "level": "pm",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workday-dbs-/job/Singapore---Central/SVP--Wealth-Lending-Product-Manager---Private-Banking--Consumer-Banking-Group_WD88673",
+      "title": "SVP, Wealth Lending Product Manager,  Private Banking, Consumer Banking Group",
+      "company": "DBS Bank",
+      "location": "Singapore - Central",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/SVP--Wealth-Lending-Product-Manager---Private-Banking--Consumer-Banking-Group_WD88673",
+      "source": "Workday (DBS Bank)",
+      "level": "group",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workday-dbs-/job/Singapore---Central/VP---AVP--Regional-Product-Manager---Funds--Consumer-Banking-Group_WD86061",
+      "title": "VP / AVP, Regional Product Manager - Funds, Consumer Banking Group",
+      "company": "DBS Bank",
+      "location": "Singapore - Central",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/VP---AVP--Regional-Product-Manager---Funds--Consumer-Banking-Group_WD86061",
+      "source": "Workday (DBS Bank)",
+      "level": "leadership",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workday-dbs-/job/Singapore---Central/VP--Product-Manager--Secured-Lending---Consumer-Banking-Group_WD86024",
+      "title": "VP, Product Manager (Secured Lending), Consumer Banking Group",
+      "company": "DBS Bank",
+      "location": "Singapore - Central",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/VP--Product-Manager--Secured-Lending---Consumer-Banking-Group_WD86024",
+      "source": "Workday (DBS Bank)",
+      "level": "leadership",
+      "regions": [
+        "singapore"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -912,19 +1484,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-figma-6201114004",
-      "title": "Director, Product Design - AI & Context",
-      "company": "Figma",
-      "location": "San Francisco, CA • New York, NY • United States",
-      "url": "https://boards.greenhouse.io/figma/jobs/6201114004?gh_jid=6201114004",
-      "source": "Greenhouse (Figma)",
-      "level": "leadership",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-figma-6180116004",
       "title": "Early Career, Associate Product Manager (2027)",
       "company": "Figma",
@@ -1003,15 +1562,28 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-figma-6100482004",
-      "title": "Product Manager, Developer Platform",
-      "company": "Figma",
-      "location": "San Francisco, CA • New York, NY • United States",
-      "url": "https://boards.greenhouse.io/figma/jobs/6100482004?gh_jid=6100482004",
-      "source": "Greenhouse (Figma)",
-      "level": "pm",
+      "id": "workable-foodics-0631C51D4B",
+      "title": "Sr. Product Manager - Foodics ERP",
+      "company": "Foodics",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://apply.workable.com/j/0631C51D4B",
+      "source": "Workable (Foodics)",
+      "level": "senior",
       "regions": [
-        "us"
+        "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workable-fundingsocieties-D43A3B11F1",
+      "title": "Expression of Interest - Senior Product Manager (Payments)",
+      "company": "Funding Societies",
+      "location": "Singapore, Singapore",
+      "url": "https://apply.workable.com/j/D43A3B11F1",
+      "source": "Workable (Funding Societies)",
+      "level": "senior",
+      "regions": [
+        "singapore"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -1025,19 +1597,6 @@
       "level": "senior",
       "regions": [
         "apac"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "greenhouse-gleanwork-4506459005",
-      "title": "Head of Product Design ",
-      "company": "Glean",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4506459005",
-      "source": "Greenhouse (Glean)",
-      "level": "leadership",
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -1116,6 +1675,32 @@
       "level": "pm",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "smartrecruiters-grab-744000155162739",
+      "title": "Lead Product Manager",
+      "company": "Grab",
+      "location": "Jakarta, , Indonesia",
+      "url": "https://jobs.smartrecruiters.com/Grab/744000155162739",
+      "source": "SmartRecruiters (Grab)",
+      "level": "group",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "smartrecruiters-grab-744000155932615",
+      "title": "Lead Product Manager, Data Platform",
+      "company": "Grab",
+      "location": "HCMC, , Vietnam",
+      "url": "https://jobs.smartrecruiters.com/Grab/744000155932615",
+      "source": "SmartRecruiters (Grab)",
+      "level": "group",
+      "regions": [
+        "apac"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -1246,6 +1831,19 @@
       "level": "group",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "ashby-leantech-0717e591-aa42-4d26-a0e2-06cdbc760c1d",
+      "title": "Principal Product Manager, LeanX",
+      "company": "Lean Technologies",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://jobs.ashbyhq.com/leantech/0717e591-aa42-4d26-a0e2-06cdbc760c1d",
+      "source": "Ashby (Lean Technologies)",
+      "level": "group",
+      "regions": [
+        "uae"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -1432,19 +2030,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-mongodb-8129887",
-      "title": "Staff Product Manager, AI Builder Experience",
-      "company": "MongoDB",
-      "location": "Toronto",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129887",
-      "source": "Greenhouse (MongoDB)",
-      "level": "group",
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-mongodb-8129885",
       "title": "Staff Product Manager, AI Builder Experience",
       "company": "MongoDB",
@@ -1454,6 +2039,19 @@
       "level": "group",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-mongodb-8129887",
+      "title": "Staff Product Manager, AI Builder Experience",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129887",
+      "source": "Greenhouse (MongoDB)",
+      "level": "group",
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -1571,6 +2169,19 @@
       "level": "pm",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-nium-9b416d47-9390-4f22-8d97-727a066d307c",
+      "title": "Staff Product Manager  – Digital Assets",
+      "company": "Nium",
+      "location": "Singapore",
+      "url": "https://jobs.lever.co/nium/9b416d47-9390-4f22-8d97-727a066d307c",
+      "source": "Lever (Nium)",
+      "level": "group",
+      "regions": [
+        "singapore"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -1887,19 +2498,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "ashby-ramp-78b98c66-af59-4fa8-a5ae-d8af8d737976",
-      "title": "Director, Product Design",
-      "company": "Ramp",
-      "location": "New York, NY (HQ)",
-      "url": "https://jobs.ashbyhq.com/ramp/78b98c66-af59-4fa8-a5ae-d8af8d737976",
-      "source": "Ashby (Ramp)",
-      "level": "leadership",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "ashby-ramp-e0b64893-0459-4d84-ac4f-7b50966ef024",
       "title": "Product Manager | Growth",
       "company": "Ramp",
@@ -2095,19 +2693,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-rubrik-7576642",
-      "title": "Director, Product Design",
-      "company": "Rubrik",
-      "location": "Palo Alto, CA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.7576642?gh_jid=7576642",
-      "source": "Greenhouse (Rubrik)",
-      "level": "leadership",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-rubrik-7939330",
       "title": "Senior IT Product Manager, Accounting",
       "company": "Rubrik",
@@ -2173,6 +2758,84 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "workable-salla-6D8FF206D6",
+      "title": "Associate Product Manager (Tamheer)",
+      "company": "Salla",
+      "location": "Jeddah, Saudi Arabia",
+      "url": "https://apply.workable.com/j/6D8FF206D6",
+      "source": "Workable (Salla)",
+      "level": "pm",
+      "regions": [
+        "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workable-salla-6FEBF88574",
+      "title": "Product Manager - Storefront",
+      "company": "Salla",
+      "location": "Jeddah, Saudi Arabia",
+      "url": "https://apply.workable.com/j/6FEBF88574",
+      "source": "Workable (Salla)",
+      "level": "pm",
+      "regions": [
+        "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workable-salla-12B456E831",
+      "title": "Senior Product Manager - Catalog",
+      "company": "Salla",
+      "location": "Jeddah, Saudi Arabia",
+      "url": "https://apply.workable.com/j/12B456E831",
+      "source": "Workable (Salla)",
+      "level": "senior",
+      "regions": [
+        "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workable-salla-DBCEEA91AF",
+      "title": "Senior Product Manager - GCC Expansion",
+      "company": "Salla",
+      "location": "Jeddah, Saudi Arabia",
+      "url": "https://apply.workable.com/j/DBCEEA91AF",
+      "source": "Workable (Salla)",
+      "level": "senior",
+      "regions": [
+        "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workable-salla-4F024CDE7A",
+      "title": "Staff Product Manager - Enterprise",
+      "company": "Salla",
+      "location": "Jeddah, Saudi Arabia",
+      "url": "https://apply.workable.com/j/4F024CDE7A",
+      "source": "Workable (Salla)",
+      "level": "group",
+      "regions": [
+        "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "workable-salla-2E93214C2E",
+      "title": "Staff Product Manager - Shipping and Fulfillment",
+      "company": "Salla",
+      "location": "Jeddah, Saudi Arabia",
+      "url": "https://apply.workable.com/j/2E93214C2E",
+      "source": "Workable (Salla)",
+      "level": "group",
+      "regions": [
+        "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "workday-sec-/job/One-Pennsylvania-Plaza-26th-Floor-New-York-NY-USA/Senior-Product-Manager-for-Mobile-Payment_R118165",
       "title": "Senior Product Manager for Mobile Payment",
       "company": "Samsung R&D India",
@@ -2212,19 +2875,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-scaleai-4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "company": "Scale AI",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "source": "Greenhouse (Scale AI)",
-      "level": "pm",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-scaleai-4644742005",
       "title": "Forward Deployed Product Manager, Enterprise",
       "company": "Scale AI",
@@ -2234,6 +2884,19 @@
       "level": "pm",
       "regions": [
         "uk"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-scaleai-4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "company": "Scale AI",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "source": "Greenhouse (Scale AI)",
+      "level": "pm",
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -2758,6 +3421,32 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "greenhouse-tamara-5000135101",
+      "title": "Associate Product Manager - Care",
+      "company": "Tamara",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://job-boards.eu.greenhouse.io/tamara/jobs/5000135101",
+      "source": "Greenhouse (Tamara)",
+      "level": "pm",
+      "regions": [
+        "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-thunes-7786592003",
+      "title": "Product Manager",
+      "company": "Thunes",
+      "location": "San Francisco, California, United States",
+      "url": "https://www.thunes.com/jobs/7786592003?gh_jid=7786592003",
+      "source": "Greenhouse (Thunes)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "ashby-uipath-e41372e5-177d-4ed4-9dbf-a434af42458f",
       "title": "Principal Product Manager",
       "company": "UiPath",
@@ -2909,6 +3598,20 @@
       "source": "Lever (Wing Assistant (M32 AI))",
       "level": "pm",
       "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-xendit-7992374003",
+      "title": "Product Manager - Developer Experience",
+      "company": "Xendit",
+      "location": "Bali, Indonesia; Bangkok, Thailand; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Singapore, Singapore",
+      "url": "https://job-boards.greenhouse.io/xendit/jobs/7992374003",
+      "source": "Greenhouse (Xendit)",
+      "level": "pm",
+      "regions": [
+        "singapore",
         "apac"
       ],
       "firstSeen": "2026-10-21"
