@@ -2,6 +2,22 @@
   "signals": [
     {
       "type": "funding",
+      "company": "Chapter Home",
+      "title": "Chapter Home raises Rs 63 Cr from Bessemer, Stride Ventures, others",
+      "url": "https://entrackr.com/news/chapter-home-raises-rs-63-cr-from-bessemer-stride-ventures-others-12716908",
+      "date": "2026-10-22",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Chapter Homes",
+      "title": "Chapter Homes Bags ₹63 Cr To Build Home & Kitchen Tech Brands",
+      "url": "https://inc42.com/buzz/chapter-homes-bags-%e2%82%b963-cr-to-build-home-kitchen-tech-brands/",
+      "date": "2026-10-22",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
       "company": "CureBay",
       "title": "Rural healthcare startup CureBay raises Rs 100 Cr in Pre-Series C led by IvyCap",
       "url": "https://entrackr.com/news/rural-healthcare-startup-curebay-raises-rs-100-cr-in-pre-series-c-led-by-ivycap-12705651",
@@ -15,6 +31,15 @@
       "url": "https://entrackr.com/snippets/voice-ai-platform-karta-ai-raises-3-mn-in-seed-round-led-by-peercapital-and-cedar-hill-12705952",
       "date": "2026-10-22",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "reopened",
+      "company": "Meesho",
+      "date": "2026-10-22",
+      "title": "Product Manager II",
+      "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
+      "id": "lever-meesho-5dca8c71-9993-438f-ad51-da3c7f4be692",
+      "detail": "closed 2026-10-14, reposted today"
     },
     {
       "type": "eng_spike",

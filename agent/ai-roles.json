@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "workday-autodesk-/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
+      "title": "Senior Product Manager, GTM Automation",
+      "company": "Autodesk",
+      "location": "Bengaluru, IND",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
+      "source": "Workday (Autodesk)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "vc-lightspeed-ef285596-5640-47e2-a882-cccebe127c45",
       "title": "AI Product Manager, FinCrime",
       "company": "Aspire",
@@ -855,17 +866,6 @@
       "url": "https://job-boards.greenhouse.io/karat/jobs/8843016002",
       "source": "Greenhouse (Karat)",
       "level": "senior",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "keka-lyzr-41788",
-      "title": "Product Manager",
-      "company": "Lyzr",
-      "location": "Bengaluru, Chennai",
-      "url": "https://lyzr.keka.com/careers/jobdetails/41788",
-      "source": "Keka (Lyzr)",
-      "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"
     },

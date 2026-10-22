@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-photoroom-022b6f5b-bb46-45b7-801a-8a5f3b92a968",
-      "title": "Senior Product Manager, SMB e-commerce Growth",
-      "company": "Photoroom",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/photoroom/022b6f5b-bb46-45b7-801a-8a5f3b92a968",
-      "source": "Ashby (Photoroom)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "ashby-photoroom-7c34d35a-c405-4d19-bd6a-38f8dd2081a7",
       "title": "Staff Product Manager, Agentic & AI Platform",
       "company": "Photoroom",
@@ -3629,6 +3620,42 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415822008",
       "source": "Greenhouse (Anthropic)",
       "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "workday-autodesk-/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
+      "title": "Senior Product Manager, GTM Automation",
+      "company": "Autodesk",
+      "location": "Bengaluru, IND",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
+      "source": "Workday (Autodesk)",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "sf-careers.hcltech.com-170322",
+      "title": "SAFe Senior Product Owner/Product Manager",
+      "company": "HCLTech",
+      "location": "Chennai",
+      "url": "https://careers.hcltech.com/job/SAFe-Senior-Product-OwnerProduct-Manager/170322-en_US/",
+      "source": "HCLTech careers",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-580706",
+      "title": "Lead Product Manager",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-580706",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-150220",
+      "title": "Product Owner",
+      "company": "Zensar",
+      "location": "India",
+      "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/150220",
+      "source": "Zensar careers",
+      "queuedOn": "2026-10-22"
     }
   ],
   "signals": [
@@ -3877,6 +3904,15 @@
       "company": "Oracle",
       "date": "2026-10-22",
       "detail": "8 engineering openings vs a usual 3"
+    },
+    {
+      "type": "reopened",
+      "company": "Meesho",
+      "date": "2026-10-22",
+      "title": "Product Manager II",
+      "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
+      "id": "lever-meesho-5dca8c71-9993-438f-ad51-da3c7f4be692",
+      "detail": "closed 2026-10-14, reposted today"
     }
   ],
   "reminders": {}

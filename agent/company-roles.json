@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-22T03:35:03.441Z",
+  "scannedAt": "2026-10-22T07:50:22.555Z",
   "roles": {
     "Amazon": [
       {
@@ -533,6 +533,16 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "Autodesk": [
+      {
+        "id": "workday-autodesk-/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
+        "title": "Senior Product Manager, GTM Automation",
+        "location": "Bengaluru, IND",
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
+        "level": "senior",
+        "firstSeen": "2026-10-22"
+      }
+    ],
     "Couchbase": [
       {
         "id": "greenhouse-couchbaseinc-4701380006",
@@ -737,18 +747,18 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -775,6 +785,14 @@
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/172466-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-170322",
+        "title": "SAFe Senior Product Owner/Product Manager",
+        "location": "Chennai",
+        "url": "https://careers.hcltech.com/job/SAFe-Senior-Product-OwnerProduct-Manager/170322-en_US/",
+        "level": "senior",
+        "firstSeen": "2026-10-22"
       }
     ],
     "Hevo Data": [
@@ -899,14 +917,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796604",
         "level": "group",
         "firstSeen": "2026-10-14"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210800513",
-        "title": "Product Manager",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800513",
-        "level": "pm",
-        "firstSeen": "2026-10-21"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210800895",
@@ -1149,6 +1159,14 @@
         "url": "https://jobs.lever.co/meesho/494d8ba6-22b6-467f-837b-8af9c1aee377",
         "level": "pm",
         "firstSeen": "2026-10-16"
+      },
+      {
+        "id": "lever-meesho-5dca8c71-9993-438f-ad51-da3c7f4be692",
+        "title": "Product Manager II",
+        "location": "Bangalore, Karnataka",
+        "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
+        "level": "pm",
+        "firstSeen": "2026-10-22"
       },
       {
         "id": "lever-meesho-97ce9e5a-a8bb-446d-a8db-9078603b106f",
@@ -1431,16 +1449,6 @@
         "url": "https://job-boards.greenhouse.io/onetrust/jobs/8207523",
         "level": "group",
         "firstSeen": "2026-10-05"
-      }
-    ],
-    "Oracle": [
-      {
-        "id": "oracle-eeho.fa.us2.oraclecloud.com-347873",
-        "title": "Senior Product Manager- SCM/Ecommerce",
-        "location": "HYDERABAD, TELANGANA, India",
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347873",
-        "level": "senior",
-        "firstSeen": "2026-10-19"
       }
     ],
     "PayPal": [
@@ -1947,6 +1955,14 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-571003",
         "level": "group",
         "firstSeen": "2026-10-16"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-580706",
+        "title": "Lead Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-580706",
+        "level": "group",
+        "firstSeen": "2026-10-22"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -2037,18 +2053,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "zoho-go-yubi-66789000036412626",
-        "title": "Senior Product Manager",
-        "location": "Bangalore South, India",
-        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "zoho-go-yubi-66789000016213700",
         "title": "Senior Product Manager",
         "location": "Chennai, India",
         "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "zoho-go-yubi-66789000036412626",
+        "title": "Senior Product Manager",
+        "location": "Bangalore South, India",
+        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
         "level": "senior",
         "firstSeen": "2026-09-30"
       }
@@ -2103,6 +2119,16 @@
         "url": "https://job-boards.greenhouse.io/zenoti/jobs/7729933003",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "Zensar": [
+      {
+        "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-150220",
+        "title": "Product Owner",
+        "location": "India",
+        "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/150220",
+        "level": "pm",
+        "firstSeen": "2026-10-22"
       }
     ],
     "Zeta": [
