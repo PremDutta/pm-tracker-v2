@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-22T07:50:22.555Z",
+  "scannedAt": "2026-10-22T11:17:27.796Z",
   "roles": {
     "Amazon": [
       {
@@ -747,18 +747,18 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1819,6 +1819,22 @@
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156861272",
         "level": "group",
         "firstSeen": "2026-10-21"
+      },
+      {
+        "id": "smartrecruiters-ServiceNow-744000157087019",
+        "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157087019",
+        "level": "group",
+        "firstSeen": "2026-10-22"
+      },
+      {
+        "id": "smartrecruiters-ServiceNow-744000157087789",
+        "title": "Staff Inbound Product Manager - Hill Climbing Product and Customer Instance Program",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157087789",
+        "level": "group",
+        "firstSeen": "2026-10-22"
       }
     ],
     "Sigmoid": [
@@ -1941,6 +1957,14 @@
     ],
     "Wells Fargo": [
       {
+        "id": "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-581574",
+        "title": "Digital Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-581574",
+        "level": "pm",
+        "firstSeen": "2026-10-22"
+      },
+      {
         "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
         "title": "Lead Business Execution Consultant Product Owner AI Agentic",
         "location": "Hyderabad, India",
@@ -1957,11 +1981,27 @@
         "firstSeen": "2026-10-16"
       },
       {
+        "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+        "title": "Lead Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+        "level": "group",
+        "firstSeen": "2026-10-22"
+      },
+      {
         "id": "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-580706",
         "title": "Lead Product Manager",
         "location": "Bengaluru, India",
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-580706",
         "level": "group",
+        "firstSeen": "2026-10-22"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
+        "level": "senior",
         "firstSeen": "2026-10-22"
       }
     ],

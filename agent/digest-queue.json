@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-photoroom-7c34d35a-c405-4d19-bd6a-38f8dd2081a7",
-      "title": "Staff Product Manager, Agentic & AI Platform",
-      "company": "Photoroom",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/photoroom/7c34d35a-c405-4d19-bd6a-38f8dd2081a7",
-      "source": "Ashby (Photoroom)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "ashby-photoroom-d075be71-4a2d-489a-9879-18e43363094e",
-      "title": "Senior Product Manager, Core Product",
-      "company": "Photoroom",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/photoroom/d075be71-4a2d-489a-9879-18e43363094e",
-      "source": "Ashby (Photoroom)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "lever-meesho-2028b73c-2ae0-4fca-903e-481b8c500629",
       "title": "Senior Product Manager",
       "company": "Meesho",
@@ -3655,6 +3637,24 @@
       "location": "India",
       "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/150220",
       "source": "Zensar careers",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000157087789",
+      "title": "Staff Inbound Product Manager - Hill Climbing Product and Customer Instance Program",
+      "company": "ServiceNow",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157087789",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000157087019",
+      "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
+      "company": "ServiceNow",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157087019",
+      "source": "SmartRecruiters (ServiceNow)",
       "queuedOn": "2026-10-22"
     }
   ],
