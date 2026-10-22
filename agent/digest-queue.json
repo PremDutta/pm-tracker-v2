@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "lever-meesho-2028b73c-2ae0-4fca-903e-481b8c500629",
-      "title": "Senior Product Manager",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/2028b73c-2ae0-4fca-903e-481b8c500629",
-      "source": "Lever (Meesho)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "lever-meesho-97ce9e5a-a8bb-446d-a8db-9078603b106f",
-      "title": "Senior Product Manager - Data & Analytics Platform",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/97ce9e5a-a8bb-446d-a8db-9078603b106f",
-      "source": "Lever (Meesho)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "zoho-myoperator-163599000034203948",
-      "title": "Product Manager - Conversational AI",
-      "company": "MyOperator",
-      "location": "Noida, India",
-      "url": "https://careers.myoperator.com/jobs/Careers/163599000034203948/Product-Manager-Conversational-AI?source=CareerSite",
-      "source": "Zoho Recruit (MyOperator)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "zoho-go-yubi-66789000036436848",
-      "title": "Product Manager",
-      "company": "Yubi",
-      "location": "Bangalore, India",
-      "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036436848/Product-Manager?source=CareerSite",
-      "source": "Zoho Recruit (Yubi)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "zoho-go-yubi-66789000036412626",
-      "title": "Senior Product Manager",
-      "company": "Yubi",
-      "location": "Bangalore South, India",
-      "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
-      "source": "Zoho Recruit (Yubi)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "zoho-go-yubi-66789000016213700",
-      "title": "Senior Product Manager",
-      "company": "Yubi",
-      "location": "Chennai, India",
-      "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
-      "source": "Zoho Recruit (Yubi)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "zoho-go-yubi-66789000016378881",
-      "title": "Product Owner",
-      "company": "Yubi",
-      "location": "Ahmadabad City, India",
-      "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016378881/Product-Owner?source=CareerSite",
-      "source": "Zoho Recruit (Yubi)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "zoho-go-yubi-66789000021551404",
-      "title": "Product Manager - II",
-      "company": "Yubi",
-      "location": "Chennai, India",
-      "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000021551404/Product-Manager-II?source=CareerSite",
-      "source": "Zoho Recruit (Yubi)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "zoho-vedantu-95146000003170110",
       "title": "AI Product Manager",
       "company": "Vedantu",
@@ -3656,6 +3584,80 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157087019",
       "source": "SmartRecruiters (ServiceNow)",
       "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210800065",
+      "title": "Chief Data Office - Reference Data Product Manager - Vice President",
+      "company": "JPMorgan Chase",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800065",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "sf-careers.wipro.com-212755",
+      "title": "Associate Product Manager - AI-Powered Reconciliation Platform",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Reconciliation-Platform/212755-en_US/",
+      "source": "Wipro careers",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "sf-careers.wipro.com-212754",
+      "title": "Associate Product Manager - AI-Powered Core Banking Bolt-ons & Adjacencies",
+      "company": "Wipro",
+      "location": "Hyderabad, IND-36, IND, 500032<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Core-Banking-Bolt-ons-&amp;-Adjacencies/212754-en_US/",
+      "source": "Wipro careers",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "greenhouse-zenoti-8029893003",
+      "title": "Senior Manager -  Product Management (Payments/Fintech)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/8029893003",
+      "source": "Greenhouse (Zenoti)",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "govt-notice-022e61d847dfc2ce",
+      "title": "Product Manager (AI) Delhi",
+      "company": "National e-Governance Division",
+      "location": "",
+      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/10/Product-Manager-AI-Avertisement.pdf",
+      "source": "🏛️ Govt (NeGD careers page)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "vc-accel-97751818",
+      "title": "Product Manager",
+      "company": "Pramaana Labs",
+      "location": "Palo Alto, CA, USA, Bengaluru, Karnataka, India",
+      "url": "https://jobs.ashbyhq.com/pramaana-labs/22da3a15-a52e-4efd-b890-bdb523e223a9",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "vc-accel-89412924",
+      "title": "Senior Product Manager",
+      "company": "New Relic",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/newrelic/jobs/5288154008",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "vc-peakxv-f6d62a27-808f-4149-be29-7daf71ab019a",
+      "title": "Product Manager - Supply Chain (WMS)",
+      "company": "Purplle",
+      "location": "Vikhroli, Mumbai, Maharashtra, India",
+      "url": "https://purplle.turbohire.co/job/publicjobs/2hXsSj_5dBEf5eDVahduNE%2F01380WfH5rpg5LxdtjR1bqajeUQhicLF8xWyGOXd0",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-22"
     }
   ],
   "signals": [
@@ -3913,6 +3915,15 @@
       "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
       "id": "lever-meesho-5dca8c71-9993-438f-ad51-da3c7f4be692",
       "detail": "closed 2026-10-14, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "TravClan",
+      "title": "TravClan raises $5M from Flipkart, others",
+      "url": "https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others",
+      "date": "2026-10-22",
+      "detail": "via YourStory",
+      "watched": true
     }
   ],
   "reminders": {}

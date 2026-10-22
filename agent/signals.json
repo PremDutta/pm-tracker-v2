@@ -2,6 +2,14 @@
   "signals": [
     {
       "type": "funding",
+      "company": "[Update] TravClan",
+      "title": "[Update] TravClan Raises $5 Mn From Flipkart, August One",
+      "url": "https://inc42.com/buzz/flipkart-acquires-minority-stake-in-travel-tech-startup-travclan-to-scale-offerings/",
+      "date": "2026-10-22",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
       "company": "Chapter Home",
       "title": "Chapter Home raises Rs 63 Cr from Bessemer, Stride Ventures, others",
       "url": "https://entrackr.com/news/chapter-home-raises-rs-63-cr-from-bessemer-stride-ventures-others-12716908",
@@ -54,6 +62,15 @@
       "company": "Oracle",
       "date": "2026-10-22",
       "detail": "8 engineering openings vs a usual 3"
+    },
+    {
+      "type": "funding",
+      "company": "TravClan",
+      "title": "TravClan raises $5M from Flipkart, others",
+      "url": "https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others",
+      "date": "2026-10-22",
+      "detail": "via YourStory",
+      "watched": true
     },
     {
       "type": "funding",

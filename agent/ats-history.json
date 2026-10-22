@@ -300,7 +300,7 @@
           "eng": 280
         },
         "2026-10-22": {
-          "total": 678,
+          "total": 677,
           "eng": 283
         }
       },
@@ -1870,7 +1870,7 @@
           "eng": 42
         },
         "2026-10-22": {
-          "total": 158,
+          "total": 159,
           "eng": 44
         }
       },
@@ -2116,7 +2116,7 @@
           "eng": 30
         },
         "2026-10-22": {
-          "total": 139,
+          "total": 140,
           "eng": 30
         }
       },
@@ -2529,8 +2529,8 @@
           "eng": 421
         },
         "2026-10-22": {
-          "total": 813,
-          "eng": 425
+          "total": 808,
+          "eng": 423
         }
       },
       "pm": {
@@ -4121,7 +4121,7 @@
           "eng": 8
         },
         "2026-10-22": {
-          "total": 13,
+          "total": 12,
           "eng": 8
         }
       },
@@ -4360,8 +4360,8 @@
           "eng": 3
         },
         "2026-10-22": {
-          "total": 28,
-          "eng": 2
+          "total": 26,
+          "eng": 1
         }
       },
       "pm": {
@@ -4492,7 +4492,7 @@
         },
         "2026-10-22": {
           "total": 81,
-          "eng": 31
+          "eng": 30
         }
       },
       "pm": {
@@ -4753,7 +4753,7 @@
           "eng": 6
         },
         "2026-10-22": {
-          "total": 147,
+          "total": 148,
           "eng": 6
         }
       },
@@ -4857,7 +4857,7 @@
           "eng": 17
         },
         "2026-10-22": {
-          "total": 33,
+          "total": 32,
           "eng": 16
         }
       },
@@ -4967,8 +4967,8 @@
           "eng": 6
         },
         "2026-10-22": {
-          "total": 11,
-          "eng": 6
+          "total": 12,
+          "eng": 7
         }
       },
       "pm": {}
@@ -5064,8 +5064,8 @@
           "eng": 4
         },
         "2026-10-22": {
-          "total": 91,
-          "eng": 4
+          "total": 92,
+          "eng": 5
         }
       },
       "pm": {
@@ -5824,8 +5824,8 @@
           "eng": 24
         },
         "2026-10-22": {
-          "total": 70,
-          "eng": 23
+          "total": 69,
+          "eng": 22
         }
       },
       "pm": {
@@ -6248,7 +6248,8 @@
           "ids": [
             "workable-innovaccer-analytics-1F3764CC6F"
           ],
-          "lastSeen": "2026-10-22"
+          "lastSeen": "2026-10-22",
+          "closedOn": "2026-10-22"
         },
         "senior product manager population health": {
           "ids": [
@@ -6260,6 +6261,12 @@
         "4521 senior product manager risk quality": {
           "ids": [
             "workable-innovaccer-analytics-51FF43461F"
+          ],
+          "lastSeen": "2026-10-22"
+        },
+        "4782 senior director of product management risk quality": {
+          "ids": [
+            "workable-innovaccer-analytics-1F3764CC6F"
           ],
           "lastSeen": "2026-10-22"
         }
@@ -6357,7 +6364,7 @@
         },
         "2026-10-22": {
           "total": 50,
-          "eng": 16
+          "eng": 15
         }
       },
       "pm": {}
@@ -7321,7 +7328,7 @@
         },
         "2026-10-22": {
           "total": 100,
-          "eng": 29
+          "eng": 26
         }
       },
       "pm": {
@@ -7454,6 +7461,12 @@
         "product owner ai and large language models associate": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210796619"
+          ],
+          "lastSeen": "2026-10-22"
+        },
+        "chief data office reference data product manager vice president": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210800065"
           ],
           "lastSeen": "2026-10-22"
         }
@@ -7961,7 +7974,7 @@
         },
         "2026-10-22": {
           "total": 17,
-          "eng": 10,
+          "eng": 9,
           "spike": true
         }
       },
@@ -7977,8 +7990,7 @@
           "ids": [
             "oracle-eeho.fa.us2.oraclecloud.com-347873"
           ],
-          "lastSeen": "2026-10-22",
-          "closedOn": "2026-10-22"
+          "lastSeen": "2026-10-22"
         }
       }
     },
@@ -8177,7 +8189,7 @@
           "eng": 9
         },
         "2026-10-22": {
-          "total": 195,
+          "total": 196,
           "eng": 9
         }
       },
@@ -8392,7 +8404,8 @@
           "ids": [
             "smartrecruiters-PHONEPELIMITED-1000000000001869"
           ],
-          "lastSeen": "2026-10-22"
+          "lastSeen": "2026-10-22",
+          "closedOn": "2026-10-22"
         },
         "head of product phonepe wealth": {
           "ids": [
@@ -8493,7 +8506,7 @@
           "eng": 1
         },
         "2026-10-22": {
-          "total": 26,
+          "total": 25,
           "eng": 1
         }
       },
@@ -8620,7 +8633,7 @@
           "eng": 0
         },
         "2026-10-22": {
-          "total": 11,
+          "total": 12,
           "eng": 0
         }
       },
@@ -9342,8 +9355,8 @@
           "eng": 72
         },
         "2026-10-22": {
-          "total": 150,
-          "eng": 77
+          "total": 147,
+          "eng": 76
         }
       },
       "pm": {
@@ -9688,7 +9701,7 @@
           "eng": 79
         },
         "2026-10-22": {
-          "total": 91,
+          "total": 92,
           "eng": 79
         }
       },
@@ -10283,8 +10296,8 @@
           "eng": 33
         },
         "2026-10-22": {
-          "total": 109,
-          "eng": 34
+          "total": 108,
+          "eng": 35
         }
       },
       "pm": {
@@ -10564,7 +10577,7 @@
           "eng": 7
         },
         "2026-10-22": {
-          "total": 51,
+          "total": 56,
           "eng": 7
         }
       },
@@ -10925,8 +10938,8 @@
           "eng": 49
         },
         "2026-10-22": {
-          "total": 83,
-          "eng": 49
+          "total": 84,
+          "eng": 51
         }
       },
       "pm": {
@@ -11193,6 +11206,18 @@
             "sf-careers.wipro.com-203003"
           ],
           "lastSeen": "2026-10-22"
+        },
+        "associate product manager ai powered reconciliation platform": {
+          "ids": [
+            "sf-careers.wipro.com-212755"
+          ],
+          "lastSeen": "2026-10-22"
+        },
+        "associate product manager ai powered core banking bolt ons adjacencies": {
+          "ids": [
+            "sf-careers.wipro.com-212754"
+          ],
+          "lastSeen": "2026-10-22"
         }
       }
     },
@@ -11287,7 +11312,7 @@
           "eng": 20
         },
         "2026-10-22": {
-          "total": 79,
+          "total": 87,
           "eng": 23
         }
       },
@@ -11320,7 +11345,8 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-575518-1"
           ],
-          "lastSeen": "2026-10-22"
+          "lastSeen": "2026-10-22",
+          "closedOn": "2026-10-22"
         },
         "lead digital product manager web and mobile banking": {
           "ids": [
@@ -11477,8 +11503,8 @@
           "eng": 40
         },
         "2026-10-22": {
-          "total": 81,
-          "eng": 43
+          "total": 87,
+          "eng": 46
         }
       },
       "pm": {
@@ -11723,8 +11749,8 @@
           "eng": 41
         },
         "2026-10-22": {
-          "total": 72,
-          "eng": 42
+          "total": 73,
+          "eng": 43
         }
       },
       "pm": {
@@ -12311,8 +12337,8 @@
           "eng": 574
         },
         "2026-10-22": {
-          "total": 897,
-          "eng": 573
+          "total": 901,
+          "eng": 574
         }
       },
       "pm": {
@@ -12671,8 +12697,8 @@
           "eng": 40
         },
         "2026-10-22": {
-          "total": 121,
-          "eng": 41
+          "total": 120,
+          "eng": 40
         }
       },
       "pm": {
@@ -12907,8 +12933,8 @@
           "eng": 5
         },
         "2026-10-22": {
-          "total": 19,
-          "eng": 6
+          "total": 20,
+          "eng": 7
         }
       },
       "pm": {
@@ -13089,8 +13115,8 @@
           "eng": 32
         },
         "2026-10-22": {
-          "total": 67,
-          "eng": 32
+          "total": 65,
+          "eng": 30
         }
       },
       "pm": {
@@ -13912,7 +13938,7 @@
           "eng": 31
         },
         "2026-10-22": {
-          "total": 59,
+          "total": 58,
           "eng": 30
         }
       },
@@ -14274,8 +14300,8 @@
           "eng": 42
         },
         "2026-10-22": {
-          "total": 88,
-          "eng": 43
+          "total": 85,
+          "eng": 42
         }
       },
       "pm": {
@@ -14497,7 +14523,7 @@
           "eng": 43
         },
         "2026-10-22": {
-          "total": 145,
+          "total": 147,
           "eng": 40
         }
       },
@@ -14637,7 +14663,7 @@
           "eng": 198
         },
         "2026-10-22": {
-          "total": 655,
+          "total": 653,
           "eng": 199
         }
       },
@@ -15117,8 +15143,8 @@
           "eng": 178
         },
         "2026-10-22": {
-          "total": 358,
-          "eng": 180
+          "total": 357,
+          "eng": 178
         }
       },
       "pm": {
@@ -15382,7 +15408,7 @@
           "eng": 39
         },
         "2026-10-22": {
-          "total": 103,
+          "total": 102,
           "eng": 37
         }
       },
@@ -15675,7 +15701,7 @@
           "eng": 18
         },
         "2026-10-22": {
-          "total": 366,
+          "total": 374,
           "eng": 18
         }
       },
@@ -15790,7 +15816,7 @@
           "eng": 5
         },
         "2026-10-22": {
-          "total": 16,
+          "total": 17,
           "eng": 6
         }
       },
@@ -15913,7 +15939,7 @@
           "eng": 130
         },
         "2026-10-22": {
-          "total": 505,
+          "total": 510,
           "eng": 134
         }
       },
@@ -16348,7 +16374,7 @@
           "eng": 7
         },
         "2026-10-22": {
-          "total": 48,
+          "total": 47,
           "eng": 7
         }
       },
@@ -16368,7 +16394,7 @@
           "eng": 15
         },
         "2026-10-22": {
-          "total": 53,
+          "total": 54,
           "eng": 15
         }
       },
@@ -16389,7 +16415,7 @@
         },
         "2026-10-22": {
           "total": 100,
-          "eng": 5
+          "eng": 6
         }
       },
       "pm": {}

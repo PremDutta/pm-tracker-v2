@@ -12,6 +12,28 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "vc-peakxv-lbtWSkK_VfSx",
+      "title": "AI Native Product Manager",
+      "company": "Leap Finance",
+      "location": "Bengaluru, India",
+      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "smartrecruiters-ServiceNow-744000157087019",
       "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
       "company": "ServiceNow",
@@ -19,6 +41,61 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157087019",
       "source": "SmartRecruiters (ServiceNow)",
       "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "vc-peakxv-8041196002",
+      "title": "Product Manager",
+      "company": "Sigmoid",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "vc-peakxv-417781",
+      "title": "AI Product Manager",
+      "company": "smallcase",
+      "location": "Bengaluru, Karnataka, India, India",
+      "url": "https://app.pyjamahr.com/careers?company=smallcase&job_id=417781&company_uuid=2615584222",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "vc-peakxv-137246",
+      "title": "AI PRODUCT MANAGER",
+      "company": "TestMu",
+      "location": "Noida, UP, India",
+      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "sf-careers.wipro.com-212754",
+      "title": "Associate Product Manager - AI-Powered Core Banking Bolt-ons & Adjacencies",
+      "company": "Wipro",
+      "location": "Hyderabad, IND-36, IND, 500032<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Core-Banking-Bolt-ons-&amp;-Adjacencies/212754-en_US/",
+      "source": "Wipro careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "sf-careers.wipro.com-212755",
+      "title": "Associate Product Manager - AI-Powered Reconciliation Platform",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Reconciliation-Platform/212755-en_US/",
+      "source": "Wipro careers",
+      "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-22"
     },
@@ -503,17 +580,6 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=30",
       "source": "VC board (Accel portfolio)",
       "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-09"
-    },
-    {
-      "id": "vc-accel-96020960",
-      "title": "Product Manager, Agentic, Customer Engagement",
-      "company": "Google",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/79624660211114694-product-manager-agentic-customer-engagement?page=11",
-      "source": "VC board (Accel portfolio)",
-      "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-09"
     },
@@ -1107,17 +1173,6 @@
       "location": "SpotDraft HQ, Bengaluru",
       "url": "https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6",
       "source": "Ashby (SpotDraft)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "vc-accel-46568344",
-      "title": "AI Product Manager",
-      "company": "Spyne",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://spyneai.keka.com/careers/jobdetails/63606",
-      "source": "VC board (Accel portfolio)",
       "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-05"

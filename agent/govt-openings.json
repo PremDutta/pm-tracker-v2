@@ -1,6 +1,22 @@
 {
   "openings": [
     {
+      "id": "govt-notice-022e61d847dfc2ce",
+      "title": "Product Manager (AI) Delhi",
+      "company": "National e-Governance Division",
+      "location": "",
+      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/10/Product-Manager-AI-Avertisement.pdf",
+      "date": "2026-10-26",
+      "deadline": null,
+      "flags": [],
+      "role": "product",
+      "isPdf": true,
+      "org": "NeGD",
+      "category": "section8_govt",
+      "source": "🏛️ Govt (NeGD careers page)",
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "govt-notice-6fe5fdb672a5d54c",
       "title": "Program Manager (AI) Delhi",
       "company": "National e-Governance Division",
@@ -257,7 +273,7 @@
     "BDL": "2026-10-22",
     "BECIL": "2026-10-22",
     "BEL": "2026-10-22",
-    "BEML": "2026-10-21",
+    "BEML": "2026-10-22",
     "Bharat Digital job board": "2026-10-22",
     "BISAG-N": "2026-10-22",
     "BoB": "2026-10-22",

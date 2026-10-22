@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-22T11:17:27.796Z",
+  "scannedAt": "2026-10-22T16:45:31.143Z",
   "roles": {
     "Amazon": [
       {
@@ -747,18 +747,18 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -903,6 +903,14 @@
     ],
     "JPMorgan Chase": [
       {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210800065",
+        "title": "Chief Data Office - Reference Data Product Manager - Vice President",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800065",
+        "level": "leadership",
+        "firstSeen": "2026-10-22"
+      },
+      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210794392",
         "title": "Executive Director - Senior AI Product Manager",
         "location": "Bengaluru, Karnataka, India",
@@ -1005,14 +1013,6 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291501",
         "level": "group",
         "firstSeen": "2026-10-21"
-      },
-      {
-        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289421",
-        "title": "Lead Product Manager- Technical",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-289421",
-        "level": "group",
-        "firstSeen": "2026-09-30"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289980",
@@ -1451,6 +1451,16 @@
         "firstSeen": "2026-10-05"
       }
     ],
+    "Oracle": [
+      {
+        "id": "oracle-eeho.fa.us2.oraclecloud.com-347873",
+        "title": "Senior Product Manager- SCM/Ecommerce",
+        "location": "HYDERABAD, TELANGANA, India",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347873",
+        "level": "senior",
+        "firstSeen": "2026-10-22"
+      }
+    ],
     "PayPal": [
       {
         "id": "eightfold-paypal.com-274922819061",
@@ -1638,14 +1648,6 @@
         "location": "Bengaluru, Karnataka, India",
         "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000003325",
         "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "smartrecruiters-PHONEPELIMITED-1000000000001869",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru, Karnataka, India",
-        "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000001869",
-        "level": "senior",
         "firstSeen": "2026-09-30"
       },
       {
@@ -1995,14 +1997,6 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-580706",
         "level": "group",
         "firstSeen": "2026-10-22"
-      },
-      {
-        "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
-        "level": "senior",
-        "firstSeen": "2026-10-22"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -2025,6 +2019,14 @@
     ],
     "Wipro": [
       {
+        "id": "sf-careers.wipro.com-212754",
+        "title": "Associate Product Manager - AI-Powered Core Banking Bolt-ons & Adjacencies",
+        "location": "Hyderabad, IND-36, IND, 500032<br/>",
+        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Core-Banking-Bolt-ons-&amp;-Adjacencies/212754-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-22"
+      },
+      {
         "id": "sf-careers.wipro.com-203003",
         "title": "Associate Product Manager - AI-Powered Enterprise Document Management & Content Intelligence",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
@@ -2039,6 +2041,14 @@
         "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platform/203010-en_US/",
         "level": "pm",
         "firstSeen": "2026-10-16"
+      },
+      {
+        "id": "sf-careers.wipro.com-212755",
+        "title": "Associate Product Manager - AI-Powered Reconciliation Platform",
+        "location": "Chennai, IND-33, IND, 600119<br/>",
+        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Reconciliation-Platform/212755-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-22"
       },
       {
         "id": "sf-careers.wipro.com-203307",
@@ -2151,6 +2161,14 @@
         "url": "https://job-boards.greenhouse.io/zenoti/jobs/7806709003",
         "level": "group",
         "firstSeen": "2026-10-09"
+      },
+      {
+        "id": "greenhouse-zenoti-8029893003",
+        "title": "Senior Manager -  Product Management (Payments/Fintech)",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://job-boards.greenhouse.io/zenoti/jobs/8029893003",
+        "level": "senior",
+        "firstSeen": "2026-10-22"
       },
       {
         "id": "greenhouse-zenoti-7729933003",
