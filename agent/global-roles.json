@@ -1,6 +1,19 @@
 {
-  "scannedAt": "2026-10-21T21:20:52.901Z",
+  "scannedAt": "2026-10-22T03:35:03.480Z",
   "roles": [
+    {
+      "id": "greenhouse-anthropic-5415822008",
+      "title": "Product Manager (Technical), Product Support Experience",
+      "company": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415822008",
+      "source": "Greenhouse (Anthropic)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22"
+    },
     {
       "id": "ashby-airwallex-0b159038-01b5-4a32-bd39-ba55573f0fdf",
       "title": "Director, Product Legal (EmFi & Payments)",
@@ -548,11 +561,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-asana-8180874",
-      "title": "Senior Product Manager, AI Studio",
+      "id": "greenhouse-asana-8044815",
+      "title": "Senior Product Manager, AI Context",
       "company": "Asana",
-      "location": "San Francisco",
-      "url": "https://www.asana.com/jobs/apply/8180874?gh_jid=8180874",
+      "location": "New York City",
+      "url": "https://www.asana.com/jobs/apply/8044815?gh_jid=8044815",
       "source": "Greenhouse (Asana)",
       "level": "senior",
       "regions": [
@@ -561,11 +574,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-asana-8044815",
-      "title": "Senior Product Manager, AI Suite",
+      "id": "greenhouse-asana-8180874",
+      "title": "Senior Product Manager, AI Studio",
       "company": "Asana",
-      "location": "New York City",
-      "url": "https://www.asana.com/jobs/apply/8044815?gh_jid=8044815",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8180874?gh_jid=8180874",
       "source": "Greenhouse (Asana)",
       "level": "senior",
       "regions": [
@@ -1493,19 +1506,6 @@
       "level": "pm",
       "regions": [
         "uk"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "greenhouse-figma-6180116004",
-      "title": "Early Career, Associate Product Manager (2027)",
-      "company": "Figma",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004",
-      "source": "Greenhouse (Figma)",
-      "level": "pm",
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -2592,7 +2592,7 @@
       "id": "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "title": "Director, Product Marketing (Hybrid in NYC, SF, or Seattle)",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -2709,7 +2709,7 @@
       "id": "rippling-rippling-ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "title": "Senior Director of Product, App Platform",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -2914,19 +2914,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-scaleai-4644742005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "company": "Scale AI",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4644742005",
-      "source": "Greenhouse (Scale AI)",
-      "level": "pm",
-      "regions": [
-        "uk"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-scaleai-4673051005",
       "title": "Forward Deployed Product Manager, Enterprise",
       "company": "Scale AI",
@@ -2936,6 +2923,19 @@
       "level": "pm",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-scaleai-4644742005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "company": "Scale AI",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4644742005",
+      "source": "Greenhouse (Scale AI)",
+      "level": "pm",
+      "regions": [
+        "uk"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -2953,19 +2953,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-scaleai-4589749005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "company": "Scale AI",
-      "location": "Doha, Qatar ; Dubai, UAE",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
-      "source": "Greenhouse (Scale AI)",
-      "level": "pm",
-      "regions": [
-        "uae"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-scaleai-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
@@ -2975,6 +2962,19 @@
       "level": "pm",
       "regions": [
         "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-scaleai-4589749005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "company": "Scale AI",
+      "location": "Doha, Qatar ; Dubai, UAE",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "source": "Greenhouse (Scale AI)",
+      "level": "pm",
+      "regions": [
+        "uae"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3242,7 +3242,7 @@
       "id": "ashby-snowflake-157bd8e6-7201-4d37-96ca-0b76a2bc1446",
       "title": "Senior Product Manager - Data Observability",
       "company": "Snowflake",
-      "location": "US-CA-Menlo Park",
+      "location": "US-WA-Bellevue",
       "url": "https://jobs.ashbyhq.com/snowflake/157bd8e6-7201-4d37-96ca-0b76a2bc1446",
       "source": "Ashby (Snowflake)",
       "level": "senior",

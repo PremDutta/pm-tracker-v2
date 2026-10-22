@@ -3620,6 +3620,15 @@
       "url": "https://app.pyjamahr.com/careers?company=smallcase&job_id=293475&company_uuid=2615584222",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "greenhouse-anthropic-5415822008",
+      "title": "Product Manager (Technical), Product Support Experience",
+      "company": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415822008",
+      "source": "Greenhouse (Anthropic)",
+      "queuedOn": "2026-10-22"
     }
   ],
   "signals": [
@@ -3862,6 +3871,12 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156836234",
       "id": "smartrecruiters-ServiceNow-744000156836234",
       "detail": "closed 2026-10-15, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-22",
+      "detail": "8 engineering openings vs a usual 3"
     }
   ],
   "reminders": {}

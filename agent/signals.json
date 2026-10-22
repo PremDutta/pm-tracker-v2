@@ -2,6 +2,28 @@
   "signals": [
     {
       "type": "funding",
+      "company": "CureBay",
+      "title": "Rural healthcare startup CureBay raises Rs 100 Cr in Pre-Series C led by IvyCap",
+      "url": "https://entrackr.com/news/rural-healthcare-startup-curebay-raises-rs-100-cr-in-pre-series-c-led-by-ivycap-12705651",
+      "date": "2026-10-22",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Karta AI",
+      "title": "Voice AI platform Karta AI raises $3 Mn in seed round led by PeerCapital and Cedar Hill",
+      "url": "https://entrackr.com/snippets/voice-ai-platform-karta-ai-raises-3-mn-in-seed-round-led-by-peercapital-and-cedar-hill-12705952",
+      "date": "2026-10-22",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-22",
+      "detail": "8 engineering openings vs a usual 3"
+    },
+    {
+      "type": "funding",
       "company": "AuxoAI",
       "title": "Forward deployed AI startup AuxoAI raises $20.7 Mn in Series A round led by NTTVC",
       "url": "https://entrackr.com/news/forward-deployed-ai-startup-auxoai-raises-207-mn-in-series-a-round-led-by-nttvc-12695466",
@@ -1174,14 +1196,6 @@
       "title": "Proactive AI startup Sol raises $4 Mn from General Catalyst, Nexus VP, and others",
       "url": "https://entrackr.com/snippets/proactive-ai-startup-sol-raises-4-mn-from-general-catalyst-nexus-vp-and-others-12565411",
       "date": "2026-09-22",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Drivn",
-      "title": "Exclusive: Drivn’s Indian entity raises Rs 45 Cr from Avaana Capital",
-      "url": "https://entrackr.com/exclusive/exclusive-drivns-indian-entity-raises-rs-45-cr-from-avaana-capital-12559250",
-      "date": "2026-09-21",
       "detail": "via Entrackr"
     }
   ]
