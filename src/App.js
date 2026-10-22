@@ -17,9 +17,9 @@ import SignalsTab from './tabs/SignalsTab';
 import CompaniesTab from './tabs/CompaniesTab';
 import AiPmTab from './tabs/AiPmTab';
 import { themes } from './theme';
-import NewBadge from './components/NewBadge';
 import Announcements from './components/Announcements';
-import { getCardStyle, getBtnPrimaryStyle, getBtnSecondaryStyle, getTabButtonStyle, getBadgeStyle } from './styles';
+import TabBar from './components/TabBar';
+import { getCardStyle, getBtnPrimaryStyle, getBtnSecondaryStyle, getBadgeStyle } from './styles';
 import { PLATFORMS } from './data/platforms';
 import { COMPANY_DIRECTORY } from './data/companyDirectory';
 import { ROLES, FRESHNESS_OPTIONS, EXPERIENCE_LEVELS, roleByKeyword } from './data/roles';
@@ -67,7 +67,6 @@ export default function App() {
   const card = getCardStyle(t);
   const btnPrimary = getBtnPrimaryStyle(t);
   const btnSecondary = getBtnSecondaryStyle(t);
-  const tabStyle = (active) => getTabButtonStyle(t, active);
   const badge = getBadgeStyle;
 
   // Quick-launch URLs: built live from PLATFORMS so they always reflect the
@@ -92,7 +91,7 @@ export default function App() {
 
       {/* NAV */}
       <nav style={{ position:'sticky', top:0, zIndex:1000, backdropFilter:t.glassEffect, WebkitBackdropFilter:t.glassEffect, background:theme==='dark'?'rgba(0,0,0,0.75)':'rgba(255,255,255,0.75)', borderBottom:`0.5px solid ${t.border}` }}>
-        <div className="nav-inner" style={{ maxWidth:'1200px', margin:'0 auto', padding:'12px 24px', display:'flex', alignItems:'center', justifyContent:'space-between', flexWrap:'wrap', gap:'10px' }}>
+        <div className="nav-inner" style={{ maxWidth:'1440px', margin:'0 auto', padding:'12px 24px', display:'flex', alignItems:'center', justifyContent:'space-between', flexWrap:'wrap', gap:'10px' }}>
           <button onClick={()=>setActiveTab('home')} style={{ display:'flex', alignItems:'center', gap:'14px', background:'none', border:'none', cursor:'pointer', padding:0, textAlign:'left' }}>
             <div style={{ width:'40px', height:'40px', borderRadius:'12px', background:t.gradient1, display:'flex', alignItems:'center', justifyContent:'center', fontSize:'20px', boxShadow:'0 4px 12px rgba(102,126,234,0.4)' }}>🎯</div>
             <div>
@@ -112,33 +111,32 @@ export default function App() {
             </button>
           </div>
         </div>
+        <div className="nav-tabs" style={{ maxWidth:'1440px', margin:'0 auto', padding:'0 24px' }}>
+          <TabBar t={t} activeTab={activeTab} onSelect={(id) => { setActiveTab(id); window.scrollTo({ top: 0 }); }} groups={[
+            { tabs: [{ id:'home', icon:<Sparkles size={14}/>, label:'Home' }] },
+            { label:'Find roles', tabs: [
+              { id:'companies', icon:<Building size={14}/>, label:'Companies' },
+              { id:'ai',        icon:<Bot size={14}/>,      label:'AI PM' },
+              { id:'govt',      icon:<Landmark size={14}/>, label:'Govt & PSU' },
+              { id:'intl',      icon:<Target size={14}/>,   label:'Global' },
+              { id:'signals',   icon:<Radar size={14}/>,    label:'Signals' },
+            ] },
+            { label:'Search', tabs: [
+              { id:'jobs',       icon:<Briefcase size={14}/>, label:'All Jobs' },
+              { id:'hacks',      icon:<Lightbulb size={14}/>, label:'Hacks' },
+              { id:'remote',     icon:<Globe size={14}/>,     label:'Remote' },
+              { id:'alerts',     icon:<Bell size={14}/>,      label:'Alerts' },
+              { id:'firstapply', icon:<Zap size={14}/>,       label:'Be First' },
+            ] },
+            { label:'Apply', tabs: [
+              { id:'tracker',     icon:<ClipboardList size={14}/>, label:'Tracker' },
+              { id:'watchlist',   icon:<Building2 size={14}/>,     label:'Watchlist' },
+              { id:'resumematch', icon:<FileSearch size={14}/>,    label:'Resume Match' },
+              { id:'templates',   icon:<MessageSquare size={14}/>, label:'Templates' },
+            ] },
+          ]} />
+        </div>
       </nav>
-
-      {/* TABS */}
-      <div style={{ maxWidth:'1200px', margin:'0 auto', padding:'16px 24px 0', display:'flex', gap:'6px', overflowX:'auto', position:'relative', zIndex:10 }}>
-        {[
-          { id:'home',      icon:<Sparkles size={14}/>,   label:'Home' },
-          { id:'jobs',      icon:<Briefcase size={14}/>,  label:'All Jobs' },
-          { id:'ai',        icon:<Bot size={14}/>,        label:'AI PM' },
-          { id:'govt',      icon:<Landmark size={14}/>,   label:'Govt & PSU' },
-          { id:'companies', icon:<Building size={14}/>,   label:'Companies' },
-          { id:'signals',   icon:<Radar size={14}/>,      label:'Signals' },
-          { id:'tracker',   icon:<ClipboardList size={14}/>, label:'Tracker' },
-          { id:'watchlist', icon:<Building2 size={14}/>,  label:'Watchlist' },
-          { id:'resumematch',icon:<FileSearch size={14}/>,label:'Resume Match' },
-          { id:'hacks',     icon:<Lightbulb size={14}/>,  label:'Hacks' },
-          { id:'alerts',    icon:<Bell size={14}/>,        label:'Alerts' },
-          { id:'firstapply',icon:<Zap size={14}/>,         label:'Be First' },
-          { id:'remote',    icon:<Globe size={14}/>,       label:'Remote' },
-          { id:'intl',      icon:<Target size={14}/>,      label:'Global' },
-          { id:'templates', icon:<MessageSquare size={14}/>, label:'Templates' },
-        ].map(tab => (
-          <button key={tab.id} onClick={()=>setActiveTab(tab.id)} aria-label={tab.label} aria-current={activeTab===tab.id ? 'page' : undefined} style={{ ...tabStyle(activeTab===tab.id), position:'relative' }}>
-            {tab.icon}{tab.label}
-            <NewBadge id={`tab:${tab.id}`} t={t} />
-          </button>
-        ))}
-      </div>
 
       {/* MAIN */}
       {blockedUrls.length > 0 && (
@@ -231,12 +229,15 @@ export default function App() {
         h1,h2,h3,h4{font-family:"Space Grotesk",Inter,-apple-system,BlinkMacSystemFont,system-ui,sans-serif;}
         @keyframes spin{to{transform:rotate(360deg);}}
         @keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:0.6;transform:scale(0.9);}}
+        .tab-scroll::-webkit-scrollbar{display:none;}
         ::-webkit-scrollbar{width:8px;height:8px;}
         ::-webkit-scrollbar-track{background:transparent;}
         ::-webkit-scrollbar-thumb{background:${t.border};border-radius:4px;}
         ::-webkit-scrollbar-thumb:hover{background:${t.textTertiary};}
         ::selection{background:${t.accent};color:#fff;}
         a:hover,button:hover{opacity:0.88;}
+        /* Laptops: group labels give way so all tabs fit; dividers keep the grouping. */
+        @media (max-width:1400px){ .tab-group-label{display:none;} .tab-icon{display:none !important;} }
         /* Phones: drop the subtitle, tighten the role toggle, let controls wrap to a second row. */
         @media (max-width:560px){
           .nav-inner{padding:10px 16px !important;}
@@ -244,6 +245,9 @@ export default function App() {
           .nav-controls{gap:8px !important;}
           .role-toggle{gap:2px !important;padding:3px !important;}
           .role-toggle button{padding:6px 8px !important;font-size:11px !important;}
+          .nav-tabs{padding:0 8px !important;}
+          .tab-group-label{display:none;}
+          .tab-arrow{display:none !important;}
         }
       `}</style>
     </div>
