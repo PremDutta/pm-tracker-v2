@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-22T16:45:31.143Z",
+  "scannedAt": "2026-10-22T21:16:46.454Z",
   "roles": {
     "Amazon": [
       {
@@ -235,20 +235,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10431401",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10576706",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "amazon-10431401",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10499561",
@@ -747,18 +747,18 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -785,14 +785,6 @@
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/172466-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-170322",
-        "title": "SAFe Senior Product Owner/Product Manager",
-        "location": "Chennai",
-        "url": "https://careers.hcltech.com/job/SAFe-Senior-Product-OwnerProduct-Manager/170322-en_US/",
-        "level": "senior",
-        "firstSeen": "2026-10-22"
       }
     ],
     "Hevo Data": [
@@ -1007,14 +999,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-291501",
-        "title": "Lead Product Manager- Technical",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291501",
-        "level": "group",
-        "firstSeen": "2026-10-21"
-      },
-      {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289980",
         "title": "Lead Product Manager- Technical",
         "location": "Pune, India",
@@ -1068,14 +1052,6 @@
         "location": "Pune, India",
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-290035",
         "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
-        "title": "Senior Product Manager - Technical",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
-        "level": "senior",
         "firstSeen": "2026-09-30"
       },
       {
@@ -1471,18 +1447,18 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "eightfold-paypal.com-274922819195",
-        "title": "Sr Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819195",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "eightfold-paypal.com-274922819192",
         "title": "Sr Product Manager",
         "location": "Bangalore, Karnataka, India",
         "url": "https://paypal.eightfold.ai/careers/job/274922819192",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "eightfold-paypal.com-274922819195",
+        "title": "Sr Product Manager",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://paypal.eightfold.ai/careers/job/274922819195",
         "level": "senior",
         "firstSeen": "2026-10-13"
       }
@@ -1925,14 +1901,6 @@
     ],
     "Visa": [
       {
-        "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF085044W-1",
-        "title": "Product Manager",
-        "location": "IN - Bengaluru, India",
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF085044W-1",
-        "level": "pm",
-        "firstSeen": "2026-10-19"
-      },
-      {
         "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF089128W-1",
         "title": "Product Manager",
         "location": "IN - Bengaluru, India",
@@ -1959,28 +1927,12 @@
     ],
     "Wells Fargo": [
       {
-        "id": "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-581574",
-        "title": "Digital Product Manager",
-        "location": "Hyderabad, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-581574",
-        "level": "pm",
-        "firstSeen": "2026-10-22"
-      },
-      {
         "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
         "title": "Lead Business Execution Consultant Product Owner AI Agentic",
         "location": "Hyderabad, India",
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
         "level": "group",
         "firstSeen": "2026-10-19"
-      },
-      {
-        "id": "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-571003",
-        "title": "Lead Product Manager",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-571003",
-        "level": "group",
-        "firstSeen": "2026-10-16"
       },
       {
         "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
@@ -2036,9 +1988,9 @@
       },
       {
         "id": "sf-careers.wipro.com-203010",
-        "title": "Associate Product Manager - AI-Powered Property Appraisal Platform",
+        "title": "Associate Product Manager - AI-Powered Property Appraisal Platforms",
         "location": "Chennai, IND-33, IND, 600119<br/>",
-        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platform/203010-en_US/",
+        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platforms/203010-en_US/",
         "level": "pm",
         "firstSeen": "2026-10-16"
       },

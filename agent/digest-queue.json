@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zoho-vedantu-95146000003170110",
-      "title": "AI Product Manager",
-      "company": "Vedantu",
-      "location": "Bangalore, India",
-      "url": "https://vedantu.zohorecruit.in/jobs/Careers/95146000003170110/AI-Product-Manager?source=CareerSite",
-      "source": "Zoho Recruit (Vedantu)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "keka-zluri-89845",
-      "title": "Senior Product Manager",
-      "company": "Zluri",
-      "location": "",
-      "url": "https://zluri.keka.com/careers/jobdetails/89845",
-      "source": "Keka (Zluri)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "keka-gokwik-150448",
       "title": "Senior Product Manager",
       "company": "GoKwik",
@@ -3658,6 +3640,24 @@
       "url": "https://purplle.turbohire.co/job/publicjobs/2hXsSj_5dBEf5eDVahduNE%2F01380WfH5rpg5LxdtjR1bqajeUQhicLF8xWyGOXd0",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-10-22"
+    },
+    {
+      "id": "vc-accel-97781396",
+      "title": "Principal Product Manager",
+      "company": "Swiftkey",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038797",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "vc-peakxv-9a0780fa-d6c9-4bfc-9d2d-e701af84e518",
+      "title": "Associate Product Manager - Supply Chain (Logistics B2B)",
+      "company": "Purplle",
+      "location": "Vikhroli, Mumbai, Maharashtra, India",
+      "url": "https://purplle.turbohire.co/job/publicjobs/ofg8pmbsOMJVDrMltwnytv_Rl%2Fv5ci4CgWtrxOiZD9NvpWqILxEZQP1E14BCaCyu",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-23"
     }
   ],
   "signals": [
