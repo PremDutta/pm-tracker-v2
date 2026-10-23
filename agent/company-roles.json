@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-23T03:40:19.999Z",
+  "scannedAt": "2026-10-23T07:49:39.096Z",
   "roles": {
     "Amazon": [
       {
@@ -1155,6 +1155,22 @@
     ],
     "Microsoft": [
       {
+        "id": "eightfold-microsoft.com-1970393557038797",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557038797",
+        "level": "group",
+        "firstSeen": "2026-10-23"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556997831",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393556944984",
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad",
@@ -1171,12 +1187,12 @@
         "firstSeen": "2026-10-20"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556997831",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
-        "level": "group",
-        "firstSeen": "2026-09-30"
+        "id": "eightfold-microsoft.com-1970393557038894",
+        "title": "Product Manager -II",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
+        "level": "pm",
+        "firstSeen": "2026-10-13"
       },
       {
         "id": "eightfold-microsoft.com-1970393557041935",
@@ -1187,28 +1203,12 @@
         "firstSeen": "2026-10-21"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557038894",
-        "title": "Product Manager -II",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
-        "level": "pm",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557016594",
         "title": "Product Manager II",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557016594",
         "level": "pm",
         "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557040598",
-        "title": "Senior Product Manager",
-        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
-        "level": "senior",
-        "firstSeen": "2026-10-16"
       },
       {
         "id": "eightfold-microsoft.com-1970393557016561",
@@ -1219,6 +1219,14 @@
         "firstSeen": "2026-10-06"
       },
       {
+        "id": "eightfold-microsoft.com-1970393557016611",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
+        "level": "senior",
+        "firstSeen": "2026-10-07"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557037770",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
@@ -1227,20 +1235,20 @@
         "firstSeen": "2026-10-15"
       },
       {
+        "id": "eightfold-microsoft.com-1970393557040598",
+        "title": "Senior Product Manager",
+        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
+        "level": "senior",
+        "firstSeen": "2026-10-16"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557041943",
         "title": "Senior Product Manager",
         "location": "India, Uttar Pradesh, Noida",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
         "level": "senior",
         "firstSeen": "2026-10-20"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557016611",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
-        "level": "senior",
-        "firstSeen": "2026-10-07"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040189",
@@ -1447,18 +1455,18 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "eightfold-paypal.com-274922819195",
-        "title": "Sr Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819195",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "eightfold-paypal.com-274922819192",
         "title": "Sr Product Manager",
         "location": "Bangalore, Karnataka, India",
         "url": "https://paypal.eightfold.ai/careers/job/274922819192",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "eightfold-paypal.com-274922819195",
+        "title": "Sr Product Manager",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://paypal.eightfold.ai/careers/job/274922819195",
         "level": "senior",
         "firstSeen": "2026-10-13"
       }
@@ -1627,6 +1635,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "smartrecruiters-PHONEPELIMITED-1000000000001869",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000001869",
+        "level": "senior",
+        "firstSeen": "2026-10-23"
+      },
+      {
         "id": "smartrecruiters-PHONEPELIMITED-1000000000003026",
         "title": "Senior Product Manager, Insurance",
         "location": "Bengaluru, Karnataka, India",
@@ -1636,6 +1652,14 @@
       }
     ],
     "Qualcomm": [
+      {
+        "id": "eightfold-qualcomm.com-446721534134",
+        "title": "Product Manager",
+        "location": "Bangalore, India",
+        "url": "https://careers.qualcomm.com/careers/job/446721534134",
+        "level": "pm",
+        "firstSeen": "2026-10-23"
+      },
       {
         "id": "eightfold-qualcomm.com-446721309717",
         "title": "Senior Android SW Product Manager",
@@ -1879,14 +1903,6 @@
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
         "level": "leadership",
         "firstSeen": "2026-10-16"
-      },
-      {
-        "id": "workday-target-/job/BangaloreIndia/Sr-Product-Manager_R0000442398-1",
-        "title": "Sr Product Manager  - Media Measurements",
-        "location": "Bangalore,India",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Manager_R0000442398-1",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Vedantu": [
@@ -1949,6 +1965,14 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-580706",
         "level": "group",
         "firstSeen": "2026-10-22"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Senior-Digital-Product-Manager---Platform-Product-Management_R-579303-1",
+        "title": "Senior Digital Product Manager - Platform Product Management",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Digital-Product-Manager---Platform-Product-Management_R-579303-1",
+        "level": "senior",
+        "firstSeen": "2026-10-23"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -2227,7 +2251,7 @@
     "Mastercard": "2026-10-23",
     "Meesho": "2026-10-23",
     "Mensa Brands (BRND.ME)": "2026-10-23",
-    "Microsoft": "2026-10-21",
+    "Microsoft": "2026-10-23",
     "Mihup": "2026-10-23",
     "Mindtickle": "2026-10-23",
     "MongoDB": "2026-10-23",

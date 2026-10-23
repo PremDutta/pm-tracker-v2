@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "keka-gokwik-150448",
-      "title": "Senior Product Manager",
-      "company": "GoKwik",
-      "location": "Bangalore",
-      "url": "https://gokwik.keka.com/careers/jobdetails/150448",
-      "source": "Keka (GoKwik)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "keka-gocomet-122455",
-      "title": "Product Manager",
-      "company": "GoComet",
-      "location": "Bangalore",
-      "url": "https://gocomet.keka.com/careers/jobdetails/122455",
-      "source": "Keka (GoComet)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "freshteam-letstransport-2000049183",
-      "title": "Product Manager",
-      "company": "LetsTransport",
-      "location": "Bengaluru, India",
-      "url": "https://letstransport.freshteam.com/jobs/J2_Td7V_HRv5/product-manager",
-      "source": "Freshteam (LetsTransport)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "freshteam-gonoise-2000071781",
       "title": "AD/Director - Product NFA",
       "company": "Noise",
@@ -3657,6 +3630,33 @@
       "location": "Vikhroli, Mumbai, Maharashtra, India",
       "url": "https://purplle.turbohire.co/job/publicjobs/ofg8pmbsOMJVDrMltwnytv_Rl%2Fv5ci4CgWtrxOiZD9NvpWqILxEZQP1E14BCaCyu",
       "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557038797",
+      "title": "Principal Product Manager",
+      "company": "Microsoft",
+      "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038797",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "eightfold-qualcomm.com-446721534134",
+      "title": "Product Manager",
+      "company": "Qualcomm",
+      "location": "Bangalore, India",
+      "url": "https://careers.qualcomm.com/careers/job/446721534134",
+      "source": "Qualcomm careers",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Senior-Digital-Product-Manager---Platform-Product-Management_R-579303-1",
+      "title": "Senior Digital Product Manager - Platform Product Management",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Digital-Product-Manager---Platform-Product-Management_R-579303-1",
+      "source": "Workday (Wells Fargo)",
       "queuedOn": "2026-10-23"
     }
   ],

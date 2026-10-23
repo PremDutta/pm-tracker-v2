@@ -1,6 +1,14 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "Harajuku Tokyo Café",
+      "title": "Harajuku Tokyo Café raises $3 Mn in pre-Series A led by Zero W",
+      "url": "https://entrackr.com/snippets/harajuku-tokyo-caf%C3%A9-raises-3-mn-in-pre-series-a-led-by-zero-w-12740658",
+      "date": "2026-10-23",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Oracle",
       "date": "2026-10-23",

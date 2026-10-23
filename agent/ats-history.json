@@ -308,7 +308,7 @@
           "eng": 281
         },
         "2026-10-23": {
-          "total": 682,
+          "total": 683,
           "eng": 282
         }
       },
@@ -2176,8 +2176,8 @@
           "eng": 30
         },
         "2026-10-23": {
-          "total": 139,
-          "eng": 30
+          "total": 141,
+          "eng": 31
         }
       },
       "pm": {
@@ -3554,8 +3554,8 @@
           "eng": 8
         },
         "2026-10-23": {
-          "total": 59,
-          "eng": 8
+          "total": 58,
+          "eng": 7
         }
       },
       "pm": {
@@ -4488,7 +4488,7 @@
           "eng": 4
         },
         "2026-10-23": {
-          "total": 29,
+          "total": 30,
           "eng": 4
         }
       },
@@ -4623,7 +4623,7 @@
           "eng": 30
         },
         "2026-10-23": {
-          "total": 80,
+          "total": 78,
           "eng": 30
         }
       },
@@ -5758,7 +5758,7 @@
           "eng": 6
         },
         "2026-10-23": {
-          "total": 39,
+          "total": 38,
           "eng": 6
         }
       },
@@ -5874,7 +5874,7 @@
         },
         "2026-10-23": {
           "total": 100,
-          "eng": 35
+          "eng": 34
         }
       },
       "pm": {
@@ -6210,7 +6210,7 @@
           "eng": 9
         },
         "2026-10-23": {
-          "total": 80,
+          "total": 82,
           "eng": 9
         }
       },
@@ -6543,7 +6543,7 @@
           "eng": 15
         },
         "2026-10-23": {
-          "total": 50,
+          "total": 49,
           "eng": 15
         }
       },
@@ -6746,7 +6746,7 @@
         },
         "2026-10-23": {
           "total": 12,
-          "eng": 2
+          "eng": 3
         }
       },
       "pm": {
@@ -7545,7 +7545,7 @@
         },
         "2026-10-23": {
           "total": 100,
-          "eng": 29
+          "eng": 27
         }
       },
       "pm": {
@@ -7784,7 +7784,7 @@
           "eng": 7
         },
         "2026-10-23": {
-          "total": 21,
+          "total": 20,
           "eng": 7
         }
       },
@@ -8211,8 +8211,8 @@
           "spike": true
         },
         "2026-10-23": {
-          "total": 28,
-          "eng": 20,
+          "total": 16,
+          "eng": 11,
           "spike": true
         }
       },
@@ -8435,8 +8435,8 @@
           "eng": 9
         },
         "2026-10-23": {
-          "total": 196,
-          "eng": 9
+          "total": 197,
+          "eng": 10
         }
       },
       "pm": {
@@ -8654,8 +8654,7 @@
           "ids": [
             "smartrecruiters-PHONEPELIMITED-1000000000001869"
           ],
-          "lastSeen": "2026-10-22",
-          "closedOn": "2026-10-22"
+          "lastSeen": "2026-10-23"
         },
         "head of product phonepe wealth": {
           "ids": [
@@ -9246,7 +9245,7 @@
         },
         "2026-10-23": {
           "total": 100,
-          "eng": 37
+          "eng": 36
         }
       },
       "pm": {
@@ -9630,8 +9629,8 @@
           "eng": 76
         },
         "2026-10-23": {
-          "total": 144,
-          "eng": 76
+          "total": 147,
+          "eng": 78
         }
       },
       "pm": {
@@ -9985,8 +9984,8 @@
           "eng": 79
         },
         "2026-10-23": {
-          "total": 92,
-          "eng": 79
+          "total": 91,
+          "eng": 78
         }
       },
       "pm": {}
@@ -10604,8 +10603,8 @@
           "eng": 36
         },
         "2026-10-23": {
-          "total": 105,
-          "eng": 36
+          "total": 107,
+          "eng": 37
         }
       },
       "pm": {
@@ -11014,7 +11013,7 @@
         },
         "2026-10-23": {
           "total": 24,
-          "eng": 7
+          "eng": 8
         }
       },
       "pm": {
@@ -11043,7 +11042,8 @@
           "ids": [
             "workday-target-/job/BangaloreIndia/Sr-Product-Manager_R0000442398-1"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         },
         "principal product manager": {
           "ids": [
@@ -11266,8 +11266,8 @@
           "eng": 49
         },
         "2026-10-23": {
-          "total": 80,
-          "eng": 49
+          "total": 82,
+          "eng": 51
         }
       },
       "pm": {
@@ -11659,8 +11659,8 @@
           "eng": 21
         },
         "2026-10-23": {
-          "total": 76,
-          "eng": 21
+          "total": 77,
+          "eng": 24
         }
       },
       "pm": {
@@ -11755,6 +11755,12 @@
         "lead business execution consultant product owner ai agentic": {
           "ids": [
             "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953"
+          ],
+          "lastSeen": "2026-10-23"
+        },
+        "senior digital product manager platform product management": {
+          "ids": [
+            "workday-wf-/job/Bengaluru-India/Senior-Digital-Product-Manager---Platform-Product-Management_R-579303-1"
           ],
           "lastSeen": "2026-10-23"
         }
@@ -11855,7 +11861,7 @@
           "eng": 46
         },
         "2026-10-23": {
-          "total": 87,
+          "total": 89,
           "eng": 46
         }
       },
@@ -12105,7 +12111,7 @@
           "eng": 43
         },
         "2026-10-23": {
-          "total": 73,
+          "total": 74,
           "eng": 43
         }
       },
@@ -12119,6 +12125,12 @@
         "staff director ai hw product management": {
           "ids": [
             "eightfold-qualcomm.com-446717846060"
+          ],
+          "lastSeen": "2026-10-23"
+        },
+        "product manager": {
+          "ids": [
+            "eightfold-qualcomm.com-446721534134"
           ],
           "lastSeen": "2026-10-23"
         }
@@ -12209,6 +12221,10 @@
         "2026-10-21": {
           "total": 59,
           "eng": 26
+        },
+        "2026-10-23": {
+          "total": 60,
+          "eng": 27
         }
       },
       "pm": {
@@ -12221,7 +12237,7 @@
             "eightfold-microsoft.com-1970393557037770",
             "eightfold-microsoft.com-1970393557016611"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-23"
         },
         "principal product manager": {
           "ids": [
@@ -12230,9 +12246,10 @@
             "eightfold-microsoft.com-1970393556944984",
             "eightfold-microsoft.com-1970393556999250",
             "eightfold-microsoft.com-1970393556911401",
-            "eightfold-microsoft.com-1970393557042009"
+            "eightfold-microsoft.com-1970393557042009",
+            "eightfold-microsoft.com-1970393557038797"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-23"
         },
         "product manager ii": {
           "ids": [
@@ -12241,7 +12258,7 @@
             "eightfold-microsoft.com-1970393557038894",
             "eightfold-microsoft.com-1970393557041935"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-23"
         },
         "principal product management": {
           "ids": [
@@ -12261,7 +12278,7 @@
           "ids": [
             "eightfold-microsoft.com-1970393557040189"
           ],
-          "lastSeen": "2026-10-21"
+          "lastSeen": "2026-10-23"
         }
       }
     },
@@ -12619,8 +12636,8 @@
           "eng": 7
         },
         "2026-10-23": {
-          "total": 13,
-          "eng": 7
+          "total": 12,
+          "eng": 6
         }
       },
       "pm": {
@@ -12713,8 +12730,8 @@
           "eng": 573
         },
         "2026-10-23": {
-          "total": 901,
-          "eng": 573
+          "total": 900,
+          "eng": 572
         }
       },
       "pm": {
@@ -13325,7 +13342,7 @@
           "eng": 7
         },
         "2026-10-23": {
-          "total": 19,
+          "total": 20,
           "eng": 7
         }
       },
@@ -13515,8 +13532,8 @@
           "eng": 30
         },
         "2026-10-23": {
-          "total": 65,
-          "eng": 30
+          "total": 66,
+          "eng": 31
         }
       },
       "pm": {
@@ -13887,8 +13904,8 @@
           "eng": 6
         },
         "2026-10-23": {
-          "total": 15,
-          "eng": 6
+          "total": 14,
+          "eng": 5
         }
       },
       "pm": {
@@ -14159,8 +14176,8 @@
           "eng": 168
         },
         "2026-10-23": {
-          "total": 387,
-          "eng": 167
+          "total": 388,
+          "eng": 168
         }
       },
       "pm": {
@@ -14487,8 +14504,8 @@
           "eng": 12
         },
         "2026-10-23": {
-          "total": 15,
-          "eng": 12
+          "total": 16,
+          "eng": 13
         }
       },
       "pm": {
@@ -14851,7 +14868,7 @@
         },
         "2026-10-23": {
           "total": 200,
-          "eng": 127
+          "eng": 124
         }
       },
       "pm": {
@@ -14975,8 +14992,8 @@
           "eng": 40
         },
         "2026-10-23": {
-          "total": 148,
-          "eng": 41
+          "total": 147,
+          "eng": 40
         }
       },
       "pm": {
@@ -15132,7 +15149,7 @@
           "eng": 195
         },
         "2026-10-23": {
-          "total": 648,
+          "total": 653,
           "eng": 198
         }
       },
@@ -16325,7 +16342,7 @@
           "eng": 6
         },
         "2026-10-23": {
-          "total": 17,
+          "total": 18,
           "eng": 6
         }
       },
@@ -16460,8 +16477,8 @@
           "eng": 134
         },
         "2026-10-23": {
-          "total": 507,
-          "eng": 134
+          "total": 509,
+          "eng": 136
         }
       },
       "pm": {
@@ -16646,8 +16663,8 @@
           "eng": 7
         },
         "2026-10-23": {
-          "total": 80,
-          "eng": 7
+          "total": 81,
+          "eng": 8
         }
       },
       "pm": {
