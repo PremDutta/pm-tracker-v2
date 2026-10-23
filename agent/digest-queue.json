@@ -1,28 +1,6 @@
 {
   "jobs": [
     {
-      "id": "govt-rbih-product-manager",
-      "title": "Product Manager",
-      "company": "Reserve Bank Innovation Hub",
-      "location": "Bengaluru / Mumbai",
-      "url": "https://rbihub.in/career/product-manager/",
-      "source": "🏛️ Govt (RBIH)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-notice-026924a956f8c74b",
-      "title": "Program Manager / General Manager Delhi-NCR",
-      "company": "National e-Governance Division",
-      "location": "",
-      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/09/Vacancy-Advertisement-for-OPOP-Project-Positions-Sep-2026.pdf",
-      "source": "🏛️ Govt (NeGD careers page)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "govt-ondc-svp-product-product-head-",
       "title": "SVP Product (Product Head)",
       "company": "Open Network for Digital Commerce",
@@ -3636,6 +3614,24 @@
       "url": "https://boards.greenhouse.io/zenoti/jobs/7729931003",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "greenhouse-discord-8847080002",
+      "title": "Group Product Manager, Data/ML",
+      "company": "Discord",
+      "location": "San Francisco Bay Area",
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8847080002",
+      "source": "Greenhouse (Discord)",
+      "queuedOn": "2026-10-24"
+    },
+    {
+      "id": "vc-accel-97906781",
+      "title": "Principal Product Manager",
+      "company": "Webroot",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.opentext.com/us/en/job/54082",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-24"
     }
   ],
   "signals": [

@@ -107,7 +107,7 @@
           "eng": 42
         },
         "2026-10-23": {
-          "total": 106,
+          "total": 107,
           "eng": 42
         }
       },
@@ -308,7 +308,7 @@
           "eng": 281
         },
         "2026-10-23": {
-          "total": 683,
+          "total": 678,
           "eng": 283
         }
       },
@@ -546,7 +546,7 @@
           "eng": 28
         },
         "2026-10-23": {
-          "total": 69,
+          "total": 67,
           "eng": 28
         }
       },
@@ -555,7 +555,8 @@
           "ids": [
             "ashby-Ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         },
         "staff product manager": {
           "ids": [
@@ -678,7 +679,7 @@
           "eng": 51
         },
         "2026-10-23": {
-          "total": 128,
+          "total": 131,
           "eng": 53
         }
       },
@@ -834,8 +835,8 @@
           "eng": 46
         },
         "2026-10-23": {
-          "total": 113,
-          "eng": 46
+          "total": 117,
+          "eng": 47
         }
       },
       "pm": {
@@ -1313,7 +1314,7 @@
           "eng": 75
         },
         "2026-10-23": {
-          "total": 171,
+          "total": 172,
           "eng": 75
         }
       },
@@ -1923,8 +1924,8 @@
           "eng": 47
         },
         "2026-10-23": {
-          "total": 159,
-          "eng": 49
+          "total": 161,
+          "eng": 48
         }
       },
       "pm": {
@@ -2056,8 +2057,8 @@
           "eng": 28
         },
         "2026-10-23": {
-          "total": 44,
-          "eng": 28
+          "total": 46,
+          "eng": 29
         }
       },
       "pm": {
@@ -2067,6 +2068,12 @@
           ],
           "lastSeen": "2026-09-28",
           "closedOn": "2026-09-28"
+        },
+        "group product manager data ml": {
+          "ids": [
+            "greenhouse-discord-8847080002"
+          ],
+          "lastSeen": "2026-10-23"
         }
       }
     },
@@ -2602,8 +2609,8 @@
           "eng": 422
         },
         "2026-10-23": {
-          "total": 798,
-          "eng": 423
+          "total": 801,
+          "eng": 426
         }
       },
       "pm": {
@@ -2805,8 +2812,8 @@
           "eng": 42
         },
         "2026-10-23": {
-          "total": 171,
-          "eng": 42
+          "total": 167,
+          "eng": 40
         }
       },
       "pm": {
@@ -2834,7 +2841,8 @@
           "ids": [
             "ashby-ramp-8baec095-2235-41ab-ab64-9abc57823b4b"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         },
         "product manager procurement": {
           "ids": [
@@ -4625,8 +4633,8 @@
           "eng": 30
         },
         "2026-10-23": {
-          "total": 88,
-          "eng": 31
+          "total": 89,
+          "eng": 32
         }
       },
       "pm": {
@@ -6016,7 +6024,7 @@
           "eng": 22
         },
         "2026-10-23": {
-          "total": 70,
+          "total": 69,
           "eng": 22
         }
       },
@@ -6372,7 +6380,7 @@
           "eng": 27
         },
         "2026-10-23": {
-          "total": 87,
+          "total": 90,
           "eng": 27
         }
       },
@@ -7149,7 +7157,8 @@
           "ids": [
             "sf-careers.hcltech.com-170322"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         }
       }
     },
@@ -8237,8 +8246,8 @@
           "spike": true
         },
         "2026-10-23": {
-          "total": 19,
-          "eng": 14,
+          "total": 64,
+          "eng": 56,
           "spike": true
         }
       },
@@ -9271,7 +9280,7 @@
         },
         "2026-10-23": {
           "total": 100,
-          "eng": 40
+          "eng": 36
         }
       },
       "pm": {
@@ -9559,6 +9568,18 @@
             "smartrecruiters-ServiceNow-744000157087019"
           ],
           "lastSeen": "2026-10-23"
+        },
+        "senior staff inbound product manager ai super intelligence control tower observability": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000157550109"
+          ],
+          "lastSeen": "2026-10-23"
+        },
+        "senior staff inbound product manager ai super intelligence control tower end to end experience": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000157549524"
+          ],
+          "lastSeen": "2026-10-23"
         }
       }
     },
@@ -9657,8 +9678,8 @@
           "eng": 76
         },
         "2026-10-23": {
-          "total": 147,
-          "eng": 78
+          "total": 145,
+          "eng": 77
         }
       },
       "pm": {
@@ -10012,8 +10033,8 @@
           "eng": 79
         },
         "2026-10-23": {
-          "total": 91,
-          "eng": 78
+          "total": 92,
+          "eng": 79
         }
       },
       "pm": {}
@@ -10638,7 +10659,7 @@
           "eng": 36
         },
         "2026-10-23": {
-          "total": 107,
+          "total": 105,
           "eng": 37
         }
       },
@@ -11048,8 +11069,8 @@
           "eng": 7
         },
         "2026-10-23": {
-          "total": 24,
-          "eng": 8
+          "total": 23,
+          "eng": 7
         }
       },
       "pm": {
@@ -11302,8 +11323,8 @@
           "eng": 49
         },
         "2026-10-23": {
-          "total": 81,
-          "eng": 50
+          "total": 80,
+          "eng": 49
         }
       },
       "pm": {
@@ -11716,8 +11737,8 @@
           "eng": 21
         },
         "2026-10-23": {
-          "total": 88,
-          "eng": 24
+          "total": 77,
+          "eng": 20
         }
       },
       "pm": {
@@ -11813,7 +11834,8 @@
           "ids": [
             "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         },
         "senior digital product manager platform product management": {
           "ids": [
@@ -11918,8 +11940,8 @@
           "eng": 46
         },
         "2026-10-23": {
-          "total": 88,
-          "eng": 47
+          "total": 86,
+          "eng": 46
         }
       },
       "pm": {
@@ -12693,7 +12715,7 @@
           "eng": 7
         },
         "2026-10-23": {
-          "total": 14,
+          "total": 15,
           "eng": 6
         }
       },
@@ -13155,8 +13177,8 @@
           "eng": 40
         },
         "2026-10-23": {
-          "total": 132,
-          "eng": 46
+          "total": 129,
+          "eng": 45
         }
       },
       "pm": {
@@ -13590,7 +13612,7 @@
           "eng": 30
         },
         "2026-10-23": {
-          "total": 66,
+          "total": 67,
           "eng": 32
         }
       },
@@ -14234,7 +14256,7 @@
           "eng": 168
         },
         "2026-10-23": {
-          "total": 384,
+          "total": 383,
           "eng": 169
         }
       },
@@ -14441,8 +14463,8 @@
           "eng": 30
         },
         "2026-10-23": {
-          "total": 60,
-          "eng": 29
+          "total": 59,
+          "eng": 28
         }
       },
       "pm": {
@@ -14819,8 +14841,8 @@
           "eng": 42
         },
         "2026-10-23": {
-          "total": 84,
-          "eng": 41
+          "total": 82,
+          "eng": 39
         }
       },
       "pm": {
@@ -14926,7 +14948,7 @@
         },
         "2026-10-23": {
           "total": 200,
-          "eng": 123
+          "eng": 122
         }
       },
       "pm": {
@@ -15050,7 +15072,7 @@
           "eng": 40
         },
         "2026-10-23": {
-          "total": 148,
+          "total": 149,
           "eng": 40
         }
       },
@@ -15207,7 +15229,7 @@
           "eng": 195
         },
         "2026-10-23": {
-          "total": 657,
+          "total": 649,
           "eng": 198
         }
       },
@@ -15703,8 +15725,8 @@
           "eng": 178
         },
         "2026-10-23": {
-          "total": 352,
-          "eng": 180
+          "total": 354,
+          "eng": 182
         }
       },
       "pm": {
@@ -15976,8 +15998,8 @@
           "eng": 36
         },
         "2026-10-23": {
-          "total": 105,
-          "eng": 36
+          "total": 106,
+          "eng": 37
         }
       },
       "pm": {

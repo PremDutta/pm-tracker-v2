@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-23T16:36:15.534Z",
+  "scannedAt": "2026-10-23T21:05:10.037Z",
   "roles": {
     "Amazon": [
       {
@@ -235,20 +235,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10576706",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "amazon-10431401",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10576706",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
       },
       {
         "id": "amazon-10499561",
@@ -729,18 +729,18 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -767,14 +767,6 @@
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/172466-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-170322",
-        "title": "SAFe Senior Product Owner/Product Manager",
-        "location": "Chennai",
-        "url": "https://careers.hcltech.com/job/SAFe-Senior-Product-OwnerProduct-Manager/170322-en_US/",
-        "level": "senior",
-        "firstSeen": "2026-10-23"
       }
     ],
     "Hevo Data": [
@@ -1940,14 +1932,6 @@
       }
     ],
     "Wells Fargo": [
-      {
-        "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
-        "title": "Lead Business Execution Consultant Product Owner AI Agentic",
-        "location": "Hyderabad, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
-        "level": "group",
-        "firstSeen": "2026-10-19"
-      },
       {
         "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
         "title": "Lead Product Manager",
