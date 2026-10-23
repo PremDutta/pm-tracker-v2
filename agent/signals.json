@@ -1,6 +1,12 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-23",
+      "detail": "20 engineering openings vs a usual 3"
+    },
+    {
       "type": "funding",
       "company": "[Update] TravClan",
       "title": "[Update] TravClan Raises $5 Mn From Flipkart, August One",
@@ -1214,38 +1220,6 @@
       "title": "Ultraviolette raises $85 Mn, targets US expansion in 2027",
       "url": "https://entrackr.com/news/ultraviolette-raises-85-mn-targets-us-expansion-in-2027-12567317",
       "date": "2026-09-23",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Definedge",
-      "title": "Fintech and brokerage startup Definedge raises Rs 22 Cr in pre-Series A",
-      "url": "https://entrackr.com/snippets/fintech-and-brokerage-startup-definedge-raises-rs-22-cr-in-pre-series-a-12562400",
-      "date": "2026-09-22",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Demoverse",
-      "title": "Lumikai leads $600K pre-seed round in Demoverse",
-      "url": "https://entrackr.com/snippets/lumikai-leads-600k-pre-seed-round-in-demoverse-12562408",
-      "date": "2026-09-22",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Protein Pantry",
-      "title": "Protein Pantry raises Rs 9 Cr in seed round led by Sharrp Ventures",
-      "url": "https://entrackr.com/news/protein-pantry-raises-rs-9-cr-in-seed-round-led-by-sharrp-ventures-12562391",
-      "date": "2026-09-22",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Sol",
-      "title": "Proactive AI startup Sol raises $4 Mn from General Catalyst, Nexus VP, and others",
-      "url": "https://entrackr.com/snippets/proactive-ai-startup-sol-raises-4-mn-from-general-catalyst-nexus-vp-and-others-12565411",
-      "date": "2026-09-22",
       "detail": "via Entrackr"
     }
   ]

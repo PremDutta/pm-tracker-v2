@@ -3924,6 +3924,12 @@
       "date": "2026-10-22",
       "detail": "via YourStory",
       "watched": true
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-23",
+      "detail": "20 engineering openings vs a usual 3"
     }
   ],
   "reminders": {}
