@@ -1,44 +1,6 @@
 {
   "jobs": [
     {
-      "id": "freshteam-gonoise-2000071781",
-      "title": "AD/Director - Product NFA",
-      "company": "Noise",
-      "location": "Gurugram, India",
-      "url": "https://gonoise.freshteam.com/jobs/psTecFY1YPBK/ad-director-product-nfa",
-      "source": "Freshteam (Noise)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "freshteam-gonoise-2000074163",
-      "title": "Product Manager - Growth",
-      "company": "Noise",
-      "location": "Gurugram, India",
-      "url": "https://gonoise.freshteam.com/jobs/koWP5BCPNaP7/product-manager-growth",
-      "source": "Freshteam (Noise)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "freshteam-gonoise-2000074122",
-      "title": "Technical Product Manager (R&D) – Wearables",
-      "company": "Noise",
-      "location": "Gurgaon, India",
-      "url": "https://gonoise.freshteam.com/jobs/QvyYK4S4dY7c/technical-product-manager-r-d-wearables",
-      "source": "Freshteam (Noise)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-npci-190737000005755350",
-      "title": "Lead NETC Product Development",
-      "company": "National Payments Corporation of India",
-      "location": "Mumbai",
-      "url": "https://careers.npci.org.in/jobs/Careers/190737000005755350/Lead-NETC-Product-Development?source=CareerSite",
-      "source": "🏛️ Govt (NPCI)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "govt-npci-190737000005599109",
       "title": "Lead Product Management",
       "company": "NPCI Bharat BillPay Ltd",
@@ -3657,6 +3619,42 @@
       "location": "Bengaluru, India",
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Digital-Product-Manager---Platform-Product-Management_R-579303-1",
       "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "lever-spotify-9d1764a1-45fc-4e16-a823-7b7453b61d2e",
+      "title": "Principal Product Manager - Content Platform",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/9d1764a1-45fc-4e16-a823-7b7453b61d2e",
+      "source": "Lever (Spotify)",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "amazon-10587375",
+      "title": "Principal Product Manager - Tech, Agentic Shopping Experience",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10587375/principal-product-manager-tech-agentic-shopping-experience",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "smartrecruiters-swiggy-6000000001518589",
+      "title": "Director - Product Management",
+      "company": "Swiggy",
+      "location": "Bengaluru, KA, India",
+      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001518589",
+      "source": "SmartRecruiters (Swiggy)",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "greenhouse-zenoti-7729931003",
+      "title": " Lead Product Manager (Market + Billing)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7729931003",
+      "source": "Greenhouse (Zenoti)",
       "queuedOn": "2026-10-23"
     }
   ],

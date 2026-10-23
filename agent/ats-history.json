@@ -308,7 +308,7 @@
           "eng": 281
         },
         "2026-10-23": {
-          "total": 683,
+          "total": 684,
           "eng": 282
         }
       },
@@ -1922,8 +1922,8 @@
           "eng": 47
         },
         "2026-10-23": {
-          "total": 156,
-          "eng": 47
+          "total": 157,
+          "eng": 49
         }
       },
       "pm": {
@@ -4623,8 +4623,8 @@
           "eng": 30
         },
         "2026-10-23": {
-          "total": 78,
-          "eng": 30
+          "total": 80,
+          "eng": 31
         }
       },
       "pm": {
@@ -4692,6 +4692,12 @@
         "principal product manager core experience platform": {
           "ids": [
             "lever-spotify-73a83f73-2f59-4c82-bac3-7dfc5d3355ad"
+          ],
+          "lastSeen": "2026-10-23"
+        },
+        "principal product manager content platform": {
+          "ids": [
+            "lever-spotify-9d1764a1-45fc-4e16-a823-7b7453b61d2e"
           ],
           "lastSeen": "2026-10-23"
         }
@@ -4893,7 +4899,7 @@
           "eng": 6
         },
         "2026-10-23": {
-          "total": 148,
+          "total": 149,
           "eng": 6
         }
       },
@@ -5001,8 +5007,8 @@
           "eng": 16
         },
         "2026-10-23": {
-          "total": 32,
-          "eng": 16
+          "total": 31,
+          "eng": 15
         }
       },
       "pm": {
@@ -5216,7 +5222,7 @@
           "eng": 5
         },
         "2026-10-23": {
-          "total": 92,
+          "total": 90,
           "eng": 5
         }
       },
@@ -5448,7 +5454,8 @@
           "ids": [
             "amazon-10561080"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         },
         "senior product manager tech prime video advertising": {
           "ids": [
@@ -5658,6 +5665,12 @@
         "principle product manager tech global corporate procurement tech": {
           "ids": [
             "amazon-10585524"
+          ],
+          "lastSeen": "2026-10-23"
+        },
+        "principal product manager tech agentic shopping experience": {
+          "ids": [
+            "amazon-10587375"
           ],
           "lastSeen": "2026-10-23"
         }
@@ -6344,7 +6357,7 @@
           "eng": 27
         },
         "2026-10-23": {
-          "total": 86,
+          "total": 87,
           "eng": 27
         }
       },
@@ -6745,8 +6758,8 @@
           "eng": 2
         },
         "2026-10-23": {
-          "total": 12,
-          "eng": 3
+          "total": 11,
+          "eng": 2
         }
       },
       "pm": {
@@ -7121,8 +7134,7 @@
           "ids": [
             "sf-careers.hcltech.com-170322"
           ],
-          "lastSeen": "2026-10-22",
-          "closedOn": "2026-10-22"
+          "lastSeen": "2026-10-23"
         }
       }
     },
@@ -7545,7 +7557,7 @@
         },
         "2026-10-23": {
           "total": 100,
-          "eng": 27
+          "eng": 28
         }
       },
       "pm": {
@@ -8211,8 +8223,8 @@
           "spike": true
         },
         "2026-10-23": {
-          "total": 16,
-          "eng": 11,
+          "total": 18,
+          "eng": 13,
           "spike": true
         }
       },
@@ -8759,8 +8771,8 @@
           "eng": 1
         },
         "2026-10-23": {
-          "total": 25,
-          "eng": 1
+          "total": 26,
+          "eng": 2
         }
       },
       "pm": {
@@ -9099,8 +9111,8 @@
           "eng": 19
         },
         "2026-10-23": {
-          "total": 42,
-          "eng": 19
+          "total": 44,
+          "eng": 20
         }
       },
       "pm": {
@@ -9245,7 +9257,7 @@
         },
         "2026-10-23": {
           "total": 100,
-          "eng": 36
+          "eng": 37
         }
       },
       "pm": {
@@ -9883,8 +9895,8 @@
           "eng": 5
         },
         "2026-10-23": {
-          "total": 21,
-          "eng": 4
+          "total": 22,
+          "eng": 5
         }
       },
       "pm": {}
@@ -10188,7 +10200,7 @@
         },
         "2026-10-23": {
           "total": 100,
-          "eng": 3
+          "eng": 5
         }
       },
       "pm": {
@@ -10199,6 +10211,12 @@
           ],
           "lastSeen": "2026-10-16",
           "closedOn": "2026-10-16"
+        },
+        "director product management": {
+          "ids": [
+            "smartrecruiters-swiggy-6000000001518589"
+          ],
+          "lastSeen": "2026-10-23"
         }
       }
     },
@@ -10603,7 +10621,7 @@
           "eng": 36
         },
         "2026-10-23": {
-          "total": 107,
+          "total": 106,
           "eng": 37
         }
       },
@@ -10745,7 +10763,7 @@
           "eng": 1
         },
         "2026-10-23": {
-          "total": 18,
+          "total": 17,
           "eng": 1
         }
       },
@@ -10892,7 +10910,7 @@
           "eng": 7
         },
         "2026-10-23": {
-          "total": 56,
+          "total": 57,
           "eng": 7
         }
       },
@@ -10911,7 +10929,8 @@
         },
         "lead product manager": {
           "ids": [
-            "greenhouse-zenoti-7806709003"
+            "greenhouse-zenoti-7806709003",
+            "greenhouse-zenoti-7729931003"
           ],
           "lastSeen": "2026-10-23"
         }
@@ -11659,7 +11678,7 @@
           "eng": 21
         },
         "2026-10-23": {
-          "total": 77,
+          "total": 79,
           "eng": 24
         }
       },
@@ -11861,8 +11880,8 @@
           "eng": 46
         },
         "2026-10-23": {
-          "total": 89,
-          "eng": 46
+          "total": 87,
+          "eng": 45
         }
       },
       "pm": {
@@ -12223,7 +12242,7 @@
           "eng": 26
         },
         "2026-10-23": {
-          "total": 60,
+          "total": 62,
           "eng": 27
         }
       },
@@ -12730,8 +12749,8 @@
           "eng": 573
         },
         "2026-10-23": {
-          "total": 900,
-          "eng": 572
+          "total": 898,
+          "eng": 571
         }
       },
       "pm": {
@@ -13098,8 +13117,8 @@
           "eng": 40
         },
         "2026-10-23": {
-          "total": 131,
-          "eng": 45
+          "total": 132,
+          "eng": 46
         }
       },
       "pm": {
@@ -13125,7 +13144,8 @@
         "product manager agent security governance": {
           "ids": [
             "greenhouse-gleanwork-4525297005",
-            "greenhouse-gleanwork-4694761005"
+            "greenhouse-gleanwork-4694761005",
+            "greenhouse-gleanwork-4579657005"
           ],
           "lastSeen": "2026-10-23"
         },
@@ -13532,8 +13552,8 @@
           "eng": 30
         },
         "2026-10-23": {
-          "total": 66,
-          "eng": 31
+          "total": 67,
+          "eng": 32
         }
       },
       "pm": {
@@ -14176,7 +14196,7 @@
           "eng": 168
         },
         "2026-10-23": {
-          "total": 388,
+          "total": 387,
           "eng": 168
         }
       },
@@ -14504,7 +14524,7 @@
           "eng": 12
         },
         "2026-10-23": {
-          "total": 16,
+          "total": 17,
           "eng": 13
         }
       },
@@ -14761,7 +14781,7 @@
           "eng": 42
         },
         "2026-10-23": {
-          "total": 87,
+          "total": 85,
           "eng": 42
         }
       },
@@ -14867,7 +14887,7 @@
           "eng": 126
         },
         "2026-10-23": {
-          "total": 200,
+          "total": 199,
           "eng": 124
         }
       },
@@ -14992,7 +15012,7 @@
           "eng": 40
         },
         "2026-10-23": {
-          "total": 147,
+          "total": 148,
           "eng": 40
         }
       },
@@ -15367,8 +15387,8 @@
           "eng": 31
         },
         "2026-10-23": {
-          "total": 64,
-          "eng": 31
+          "total": 63,
+          "eng": 30
         }
       },
       "pm": {
@@ -15462,7 +15482,7 @@
           "eng": 7
         },
         "2026-10-23": {
-          "total": 38,
+          "total": 39,
           "eng": 7
         }
       },
@@ -15645,8 +15665,8 @@
           "eng": 178
         },
         "2026-10-23": {
-          "total": 351,
-          "eng": 178
+          "total": 353,
+          "eng": 180
         }
       },
       "pm": {
@@ -16477,7 +16497,7 @@
           "eng": 134
         },
         "2026-10-23": {
-          "total": 509,
+          "total": 508,
           "eng": 136
         }
       },
@@ -16581,6 +16601,12 @@
         "director product legal": {
           "ids": [
             "ashby-airwallex-0b159038-01b5-4a32-bd39-ba55573f0fdf"
+          ],
+          "lastSeen": "2026-10-23"
+        },
+        "senior product manager latam": {
+          "ids": [
+            "ashby-airwallex-b3d03f6d-f6ea-4d57-b2d1-d551804b6908"
           ],
           "lastSeen": "2026-10-23"
         }
@@ -16795,7 +16821,7 @@
           "eng": 5
         },
         "2026-10-23": {
-          "total": 116,
+          "total": 117,
           "eng": 5
         }
       },

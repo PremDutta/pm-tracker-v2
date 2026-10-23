@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "amazon-10587375",
+      "title": "Principal Product Manager - Tech, Agentic Shopping Experience",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10587375/principal-product-manager-tech-agentic-shopping-experience",
+      "source": "Amazon careers",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-23"
+    },
+    {
       "id": "workday-autodesk-/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
       "title": "Senior Product Manager, GTM Automation",
       "company": "Autodesk",
