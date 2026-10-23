@@ -1,107 +1,6 @@
 {
   "jobs": [
     {
-      "id": "govt-npci-190737000005599109",
-      "title": "Lead Product Management",
-      "company": "NPCI Bharat BillPay Ltd",
-      "location": "Mumbai",
-      "url": "https://careers.npci.org.in/jobs/Careers/190737000005599109/Lead-Product-Management?source=CareerSite",
-      "source": "🏛️ Govt (NPCI)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-npci-190737000003275827",
-      "title": "Senior Associate NACH Product",
-      "company": "National Payments Corporation of India",
-      "location": "Mumbai",
-      "url": "https://careers.npci.org.in/jobs/Careers/190737000003275827/Senior-Associate-NACH-Product?source=CareerSite",
-      "source": "🏛️ Govt (NPCI)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-npci-190737000003275811",
-      "title": "Senior Associate Product Development NACH",
-      "company": "National Payments Corporation of India",
-      "location": "Mumbai",
-      "url": "https://careers.npci.org.in/jobs/Careers/190737000003275811/Senior-Associate-Product-Development-NACH?source=CareerSite",
-      "source": "🏛️ Govt (NPCI)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-npci-190737000004112255",
-      "title": "Senior Associate - IMPS Product Management",
-      "company": "National Payments Corporation of India",
-      "location": "Mumbai",
-      "url": "https://careers.npci.org.in/jobs/Careers/190737000004112255/Senior-Associate-IMPS-Product-Management?source=CareerSite",
-      "source": "🏛️ Govt (NPCI)",
-      "deadline": null,
-      "flags": [
-        "mba_mentioned"
-      ],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-npci-190737000001786230",
-      "title": "Senior Lead Product Development",
-      "company": "NPCI Bharat BillPay Ltd",
-      "location": "Mumbai",
-      "url": "https://careers.npci.org.in/jobs/Careers/190737000001786230/Senior-Lead-Product-Development?source=CareerSite",
-      "source": "🏛️ Govt (NPCI)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-npci-190737000002631850",
-      "title": "Senior Lead Product Development",
-      "company": "NPCI Bharat BillPay Ltd",
-      "location": "Mumbai",
-      "url": "https://careers.npci.org.in/jobs/Careers/190737000002631850/Senior-Lead-Product-Development?source=CareerSite",
-      "source": "🏛️ Govt (NPCI)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-rbih-product-manager-lending",
-      "title": "Product Manager — Lending",
-      "company": "Reserve Bank Innovation Hub",
-      "location": "Bengaluru (On-site)",
-      "url": "https://rbihub.in/career/product-manager-lending/",
-      "source": "🏛️ Govt (RBIH)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-rbih-product-manager-new-initiatives-and-platform",
-      "title": "Product Manager – New Initiatives & Platform",
-      "company": "Reserve Bank Innovation Hub",
-      "location": "Bengaluru (On-site)",
-      "url": "https://rbihub.in/career/product-manager-new-initiatives-and-platform/",
-      "source": "🏛️ Govt (RBIH)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-rbih-senior-product-manager",
-      "title": "Senior Product Manager",
-      "company": "Reserve Bank Innovation Hub",
-      "location": "Bengaluru / Mumbai",
-      "url": "https://rbihub.in/career/senior-product-manager/",
-      "source": "🏛️ Govt (RBIH)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "govt-rbih-product-manager",
       "title": "Product Manager",
       "company": "Reserve Bank Innovation Hub",
@@ -3656,6 +3555,87 @@
       "url": "https://job-boards.greenhouse.io/zenoti/jobs/7729931003",
       "source": "Greenhouse (Zenoti)",
       "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "lever-spotify-22a796f2-2bfd-4f44-aab3-a0a20a7783fc",
+      "title": "Principal Product Manager - TV & Desktop",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/22a796f2-2bfd-4f44-aab3-a0a20a7783fc",
+      "source": "Lever (Spotify)",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "lever-spotify-8bd60a8c-d8bb-41ba-9ac0-69d0b643d63d",
+      "title": "Senior Product Manager - Spotify Connect",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/8bd60a8c-d8bb-41ba-9ac0-69d0b643d63d",
+      "source": "Lever (Spotify)",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "amazon-10555430",
+      "title": "Principal Product Manager- Technical, Amazon Finance Technology",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "sf-careers.wipro.com-213303",
+      "title": "Associate Product Manager - AI-Powered Wealth & Investment Management Platform",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Wealth-&amp;-Investment-Management-Platform/213303-en_US/",
+      "source": "Wipro careers",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "sf-careers.wipro.com-213366",
+      "title": "Associate Product Manager - AI-Powered Enterprise Document Management & Content Int",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Enterprise-Document-Management-&amp;-Content-Int/213366-en_US/",
+      "source": "Wipro careers",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "sf-careers.wipro.com-213300",
+      "title": "Associate Product Manager - AI-Powered Collections Platform",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Collections-Platform/213300-en_US/",
+      "source": "Wipro careers",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "sf-careers.wipro.com-212738",
+      "title": "Associate Product Manager - AI-Powered Reconciliation Platform",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Reconciliation-Platform/212738-en_US/",
+      "source": "Wipro careers",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "vc-accel-97893785",
+      "title": "Senior Manager - Product Management (Payments/Fintech)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/zenoti/jobs/8029893003",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-23"
+    },
+    {
+      "id": "vc-accel-78244794",
+      "title": "Lead Product Manager (Market + Billing)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/zenoti/jobs/7729931003",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-23"
     }
   ],
   "signals": [
@@ -3928,6 +3908,15 @@
       "company": "Oracle",
       "date": "2026-10-23",
       "detail": "20 engineering openings vs a usual 3"
+    },
+    {
+      "type": "reopened",
+      "company": "Wipro",
+      "date": "2026-10-23",
+      "title": "Associate Product Manager - AI-Powered Property Appraisal Platform",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platform/212754-en_US/",
+      "id": "sf-careers.wipro.com-212754",
+      "detail": "closed 2026-10-22, reposted today"
     }
   ],
   "reminders": {}

@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-23T11:08:36.239Z",
+  "scannedAt": "2026-10-23T16:36:15.534Z",
   "roles": {
     "Amazon": [
       {
@@ -27,12 +27,12 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10578219",
+        "id": "amazon-10555430",
         "title": "Principal Product Manager- Technical, Amazon Finance Technology",
-        "location": "Gurugram, Haryana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
         "level": "group",
-        "firstSeen": "2026-10-14"
+        "firstSeen": "2026-10-23"
       },
       {
         "id": "amazon-10502013",
@@ -235,20 +235,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10431401",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10576706",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "amazon-10431401",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10499561",
@@ -601,16 +601,6 @@
         "firstSeen": "2026-10-05"
       }
     ],
-    "GoKwik": [
-      {
-        "id": "keka-gokwik-167247",
-        "title": "Product Manager",
-        "location": "Bangalore",
-        "url": "https://gokwik.keka.com/careers/jobdetails/167247",
-        "level": "pm",
-        "firstSeen": "2026-10-21"
-      }
-    ],
     "Gushwork": [
       {
         "id": "lever-gushwork-c03a9615-f124-424c-8bbd-90d209a68f3d",
@@ -739,18 +729,18 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -917,6 +907,14 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796604",
         "level": "group",
         "firstSeen": "2026-10-14"
+      },
+      {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210792979",
+        "title": "Product Manager - Liquidity & Account Solutions Product Development – Vice President",
+        "location": "Mumbai, Maharashtra, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792979",
+        "level": "leadership",
+        "firstSeen": "2026-10-23"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210800895",
@@ -1163,14 +1161,6 @@
         "firstSeen": "2026-10-23"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556997831",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557042009",
         "title": "Principal Product Manager",
         "location": "India, Uttar Pradesh, Noida",
@@ -1183,6 +1173,14 @@
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393556997831",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1455,18 +1453,18 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "eightfold-paypal.com-274922819192",
-        "title": "Sr Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819192",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "eightfold-paypal.com-274922819195",
         "title": "Sr Product Manager",
         "location": "Bangalore, Karnataka, India",
         "url": "https://paypal.eightfold.ai/careers/job/274922819195",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "eightfold-paypal.com-274922819192",
+        "title": "Sr Product Manager",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://paypal.eightfold.ai/careers/job/274922819192",
         "level": "senior",
         "firstSeen": "2026-10-13"
       }
@@ -1895,16 +1893,6 @@
         "firstSeen": "2026-10-06"
       }
     ],
-    "Swiggy": [
-      {
-        "id": "smartrecruiters-swiggy-6000000001518589",
-        "title": "Director - Product Management",
-        "location": "Bengaluru, KA, India",
-        "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001518589",
-        "level": "leadership",
-        "firstSeen": "2026-10-23"
-      }
-    ],
     "Target India": [
       {
         "id": "workday-target-/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
@@ -2005,12 +1993,28 @@
     ],
     "Wipro": [
       {
-        "id": "sf-careers.wipro.com-212754",
+        "id": "sf-careers.wipro.com-213300",
+        "title": "Associate Product Manager - AI-Powered Collections Platform",
+        "location": "Chennai, IND-33, IND, 600119<br/>",
+        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Collections-Platform/213300-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-23"
+      },
+      {
+        "id": "sf-careers.wipro.com-212755",
         "title": "Associate Product Manager - AI-Powered Core Banking Bolt-ons & Adjacencies",
-        "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Core-Banking-Bolt-ons-&amp;-Adjacencies/212754-en_US/",
+        "location": "Chennai, IND-33, IND, 600119<br/>",
+        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Core-Banking-Bolt-ons-&amp;-Adjacencies/212755-en_US/",
         "level": "pm",
         "firstSeen": "2026-10-22"
+      },
+      {
+        "id": "sf-careers.wipro.com-213366",
+        "title": "Associate Product Manager - AI-Powered Enterprise Document Management & Content Int",
+        "location": "Chennai, IND-33, IND, 600119<br/>",
+        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Enterprise-Document-Management-&amp;-Content-Int/213366-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-23"
       },
       {
         "id": "sf-careers.wipro.com-203003",
@@ -2021,20 +2025,28 @@
         "firstSeen": "2026-10-16"
       },
       {
-        "id": "sf-careers.wipro.com-203010",
-        "title": "Associate Product Manager - AI-Powered Property Appraisal Platforms",
-        "location": "Chennai, IND-33, IND, 600119<br/>",
-        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platforms/203010-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-10-16"
-      },
-      {
-        "id": "sf-careers.wipro.com-212755",
-        "title": "Associate Product Manager - AI-Powered Reconciliation Platform",
-        "location": "Chennai, IND-33, IND, 600119<br/>",
-        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Reconciliation-Platform/212755-en_US/",
+        "id": "sf-careers.wipro.com-212754",
+        "title": "Associate Product Manager - AI-Powered Property Appraisal Platform",
+        "location": "Hyderabad, IND-36, IND, 500032<br/>",
+        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platform/212754-en_US/",
         "level": "pm",
         "firstSeen": "2026-10-22"
+      },
+      {
+        "id": "sf-careers.wipro.com-212738",
+        "title": "Associate Product Manager - AI-Powered Reconciliation Platform",
+        "location": "Chennai, IND-33, IND, 600119<br/>",
+        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Reconciliation-Platform/212738-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-23"
+      },
+      {
+        "id": "sf-careers.wipro.com-213303",
+        "title": "Associate Product Manager - AI-Powered Wealth & Investment Management Platform",
+        "location": "Chennai, IND-33, IND, 600119<br/>",
+        "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Wealth-&amp;-Investment-Management-Platform/213303-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-10-23"
       },
       {
         "id": "sf-careers.wipro.com-203307",

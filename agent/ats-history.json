@@ -107,7 +107,7 @@
           "eng": 42
         },
         "2026-10-23": {
-          "total": 105,
+          "total": 106,
           "eng": 42
         }
       },
@@ -308,8 +308,8 @@
           "eng": 281
         },
         "2026-10-23": {
-          "total": 684,
-          "eng": 282
+          "total": 683,
+          "eng": 283
         }
       },
       "pm": {
@@ -678,8 +678,8 @@
           "eng": 51
         },
         "2026-10-23": {
-          "total": 127,
-          "eng": 52
+          "total": 128,
+          "eng": 53
         }
       },
       "pm": {
@@ -834,7 +834,7 @@
           "eng": 46
         },
         "2026-10-23": {
-          "total": 114,
+          "total": 113,
           "eng": 46
         }
       },
@@ -1313,7 +1313,7 @@
           "eng": 75
         },
         "2026-10-23": {
-          "total": 172,
+          "total": 171,
           "eng": 75
         }
       },
@@ -1778,8 +1778,8 @@
           "eng": 37
         },
         "2026-10-23": {
-          "total": 87,
-          "eng": 37
+          "total": 85,
+          "eng": 36
         }
       },
       "pm": {
@@ -1805,7 +1805,8 @@
           "ids": [
             "ashby-deepgram-be9f18f6-8851-40fb-be50-3c13d7457092"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         },
         "staff product manager ai applications": {
           "ids": [
@@ -1922,7 +1923,7 @@
           "eng": 47
         },
         "2026-10-23": {
-          "total": 157,
+          "total": 159,
           "eng": 49
         }
       },
@@ -2176,8 +2177,8 @@
           "eng": 30
         },
         "2026-10-23": {
-          "total": 141,
-          "eng": 31
+          "total": 140,
+          "eng": 30
         }
       },
       "pm": {
@@ -2468,8 +2469,8 @@
           "eng": 49
         },
         "2026-10-23": {
-          "total": 139,
-          "eng": 49
+          "total": 140,
+          "eng": 50
         }
       },
       "pm": {
@@ -2601,7 +2602,7 @@
           "eng": 422
         },
         "2026-10-23": {
-          "total": 802,
+          "total": 798,
           "eng": 423
         }
       },
@@ -4488,8 +4489,8 @@
           "eng": 4
         },
         "2026-10-23": {
-          "total": 30,
-          "eng": 4
+          "total": 26,
+          "eng": 2
         }
       },
       "pm": {
@@ -4512,7 +4513,8 @@
             "keka-gokwik-166740",
             "keka-gokwik-167247"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         }
       }
     },
@@ -4623,7 +4625,7 @@
           "eng": 30
         },
         "2026-10-23": {
-          "total": 80,
+          "total": 88,
           "eng": 31
         }
       },
@@ -4698,6 +4700,18 @@
         "principal product manager content platform": {
           "ids": [
             "lever-spotify-9d1764a1-45fc-4e16-a823-7b7453b61d2e"
+          ],
+          "lastSeen": "2026-10-23"
+        },
+        "principal product manager tv desktop": {
+          "ids": [
+            "lever-spotify-22a796f2-2bfd-4f44-aab3-a0a20a7783fc"
+          ],
+          "lastSeen": "2026-10-23"
+        },
+        "senior product manager spotify connect": {
+          "ids": [
+            "lever-spotify-8bd60a8c-d8bb-41ba-9ac0-69d0b643d63d"
           ],
           "lastSeen": "2026-10-23"
         }
@@ -5640,7 +5654,8 @@
         },
         "principal product manager technical amazon finance technology": {
           "ids": [
-            "amazon-10578219"
+            "amazon-10578219",
+            "amazon-10555430"
           ],
           "lastSeen": "2026-10-23"
         },
@@ -6122,7 +6137,7 @@
           "eng": 5
         },
         "2026-10-23": {
-          "total": 25,
+          "total": 27,
           "eng": 5
         }
       },
@@ -7557,7 +7572,7 @@
         },
         "2026-10-23": {
           "total": 100,
-          "eng": 28
+          "eng": 29
         }
       },
       "pm": {
@@ -7651,8 +7666,7 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210792979"
           ],
-          "lastSeen": "2026-10-15",
-          "closedOn": "2026-10-15"
+          "lastSeen": "2026-10-23"
         },
         "product manager infrastructure platforms": {
           "ids": [
@@ -7796,7 +7810,7 @@
           "eng": 7
         },
         "2026-10-23": {
-          "total": 20,
+          "total": 21,
           "eng": 7
         }
       },
@@ -8223,8 +8237,8 @@
           "spike": true
         },
         "2026-10-23": {
-          "total": 18,
-          "eng": 13,
+          "total": 19,
+          "eng": 14,
           "spike": true
         }
       },
@@ -8902,7 +8916,7 @@
           "eng": 0
         },
         "2026-10-23": {
-          "total": 10,
+          "total": 11,
           "eng": 0
         }
       },
@@ -9257,7 +9271,7 @@
         },
         "2026-10-23": {
           "total": 100,
-          "eng": 37
+          "eng": 40
         }
       },
       "pm": {
@@ -9304,7 +9318,8 @@
             "smartrecruiters-ServiceNow-744000155597390",
             "smartrecruiters-ServiceNow-744000156455559"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         },
         "staff inbound product manager": {
           "ids": [
@@ -9505,7 +9520,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000156543661"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         },
         "senior director product analytics": {
           "ids": [
@@ -10200,7 +10216,7 @@
         },
         "2026-10-23": {
           "total": 100,
-          "eng": 5
+          "eng": 1
         }
       },
       "pm": {
@@ -10216,7 +10232,8 @@
           "ids": [
             "smartrecruiters-swiggy-6000000001518589"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         }
       }
     },
@@ -10621,7 +10638,7 @@
           "eng": 36
         },
         "2026-10-23": {
-          "total": 106,
+          "total": 107,
           "eng": 37
         }
       },
@@ -11285,8 +11302,8 @@
           "eng": 49
         },
         "2026-10-23": {
-          "total": 82,
-          "eng": 51
+          "total": 81,
+          "eng": 50
         }
       },
       "pm": {
@@ -11552,10 +11569,10 @@
         },
         "associate product manager ai powered property appraisal platform": {
           "ids": [
-            "sf-careers.wipro.com-203010"
+            "sf-careers.wipro.com-203010",
+            "sf-careers.wipro.com-212754"
           ],
-          "lastSeen": "2026-10-22",
-          "closedOn": "2026-10-22"
+          "lastSeen": "2026-10-23"
         },
         "associate product manager ai powered enterprise document management content intelligence": {
           "ids": [
@@ -11565,19 +11582,40 @@
         },
         "associate product manager ai powered reconciliation platform": {
           "ids": [
-            "sf-careers.wipro.com-212755"
+            "sf-careers.wipro.com-212755",
+            "sf-careers.wipro.com-212738"
           ],
           "lastSeen": "2026-10-23"
         },
         "associate product manager ai powered core banking bolt ons adjacencies": {
           "ids": [
-            "sf-careers.wipro.com-212754"
+            "sf-careers.wipro.com-212754",
+            "sf-careers.wipro.com-212755"
           ],
           "lastSeen": "2026-10-23"
         },
         "associate product manager ai powered property appraisal platforms": {
           "ids": [
             "sf-careers.wipro.com-203010"
+          ],
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
+        },
+        "associate product manager ai powered wealth investment management platform": {
+          "ids": [
+            "sf-careers.wipro.com-213303"
+          ],
+          "lastSeen": "2026-10-23"
+        },
+        "associate product manager ai powered enterprise document management content int": {
+          "ids": [
+            "sf-careers.wipro.com-213366"
+          ],
+          "lastSeen": "2026-10-23"
+        },
+        "associate product manager ai powered collections platform": {
+          "ids": [
+            "sf-careers.wipro.com-213300"
           ],
           "lastSeen": "2026-10-23"
         }
@@ -11678,7 +11716,7 @@
           "eng": 21
         },
         "2026-10-23": {
-          "total": 79,
+          "total": 88,
           "eng": 24
         }
       },
@@ -11880,8 +11918,8 @@
           "eng": 46
         },
         "2026-10-23": {
-          "total": 87,
-          "eng": 45
+          "total": 88,
+          "eng": 47
         }
       },
       "pm": {
@@ -12376,8 +12414,8 @@
           "eng": 2
         },
         "2026-10-23": {
-          "total": 5,
-          "eng": 2
+          "total": 6,
+          "eng": 3
         }
       },
       "pm": {}
@@ -12655,7 +12693,7 @@
           "eng": 7
         },
         "2026-10-23": {
-          "total": 12,
+          "total": 14,
           "eng": 6
         }
       },
@@ -12749,7 +12787,7 @@
           "eng": 573
         },
         "2026-10-23": {
-          "total": 898,
+          "total": 895,
           "eng": 571
         }
       },
@@ -13464,7 +13502,7 @@
           "eng": 5
         },
         "2026-10-23": {
-          "total": 9,
+          "total": 11,
           "eng": 5
         }
       },
@@ -13552,7 +13590,7 @@
           "eng": 30
         },
         "2026-10-23": {
-          "total": 67,
+          "total": 66,
           "eng": 32
         }
       },
@@ -14196,8 +14234,8 @@
           "eng": 168
         },
         "2026-10-23": {
-          "total": 387,
-          "eng": 168
+          "total": 384,
+          "eng": 169
         }
       },
       "pm": {
@@ -14404,7 +14442,7 @@
         },
         "2026-10-23": {
           "total": 60,
-          "eng": 30
+          "eng": 29
         }
       },
       "pm": {
@@ -14781,8 +14819,8 @@
           "eng": 42
         },
         "2026-10-23": {
-          "total": 85,
-          "eng": 42
+          "total": 84,
+          "eng": 41
         }
       },
       "pm": {
@@ -14887,8 +14925,8 @@
           "eng": 126
         },
         "2026-10-23": {
-          "total": 199,
-          "eng": 124
+          "total": 200,
+          "eng": 123
         }
       },
       "pm": {
@@ -15169,7 +15207,7 @@
           "eng": 195
         },
         "2026-10-23": {
-          "total": 653,
+          "total": 657,
           "eng": 198
         }
       },
@@ -15665,7 +15703,7 @@
           "eng": 178
         },
         "2026-10-23": {
-          "total": 353,
+          "total": 352,
           "eng": 180
         }
       },
@@ -15938,7 +15976,7 @@
           "eng": 36
         },
         "2026-10-23": {
-          "total": 104,
+          "total": 105,
           "eng": 36
         }
       },
@@ -17006,7 +17044,7 @@
           "eng": 15
         },
         "2026-10-23": {
-          "total": 53,
+          "total": 52,
           "eng": 15
         }
       },
@@ -17015,7 +17053,8 @@
           "ids": [
             "greenhouse-thunes-7786592003"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-23",
+          "closedOn": "2026-10-23"
         }
       }
     },
@@ -17031,7 +17070,7 @@
         },
         "2026-10-23": {
           "total": 100,
-          "eng": 6
+          "eng": 4
         }
       },
       "pm": {}
@@ -17077,7 +17116,7 @@
           "eng": 6
         },
         "2026-10-23": {
-          "total": 14,
+          "total": 13,
           "eng": 6
         }
       },
