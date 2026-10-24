@@ -696,8 +696,8 @@
           "eng": 53
         },
         "2026-10-24": {
-          "total": 131,
-          "eng": 53
+          "total": 132,
+          "eng": 54
         }
       },
       "pm": {
@@ -8154,7 +8154,7 @@
         },
         "2026-10-24": {
           "total": 100,
-          "eng": 11
+          "eng": 12
         }
       },
       "pm": {}
@@ -10967,7 +10967,7 @@
           "eng": 37
         },
         "2026-10-24": {
-          "total": 106,
+          "total": 105,
           "eng": 37
         }
       },
@@ -12077,7 +12077,7 @@
           "eng": 20
         },
         "2026-10-24": {
-          "total": 78,
+          "total": 79,
           "eng": 20
         }
       },
@@ -12284,7 +12284,7 @@
           "eng": 46
         },
         "2026-10-24": {
-          "total": 85,
+          "total": 86,
           "eng": 46
         }
       },
@@ -12393,8 +12393,8 @@
           "spike": true
         },
         "2026-10-24": {
-          "total": 200,
-          "eng": 108,
+          "total": 199,
+          "eng": 46,
           "spike": true
         }
       },
@@ -12405,8 +12405,7 @@
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5822106-S2072465-1"
           ],
-          "lastSeen": "2026-10-24",
-          "closedOn": "2026-10-24"
+          "lastSeen": "2026-10-24"
         },
         "product management analyst": {
           "ids": [
@@ -12419,8 +12418,7 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-24",
-          "closedOn": "2026-10-24"
+          "lastSeen": "2026-10-24"
         },
         "ai product management practitioner": {
           "ids": [
@@ -12428,8 +12426,7 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-24",
-          "closedOn": "2026-10-24"
+          "lastSeen": "2026-10-24"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
@@ -12449,8 +12446,7 @@
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Senior-Manager-Pre-Sales_R00365643-1"
           ],
-          "lastSeen": "2026-10-24",
-          "closedOn": "2026-10-24"
+          "lastSeen": "2026-10-24"
         }
       }
     },
@@ -14692,8 +14688,8 @@
           "eng": 169
         },
         "2026-10-24": {
-          "total": 383,
-          "eng": 169
+          "total": 382,
+          "eng": 168
         }
       },
       "pm": {
@@ -15536,7 +15532,7 @@
           "eng": 40
         },
         "2026-10-24": {
-          "total": 149,
+          "total": 148,
           "eng": 40
         }
       },
@@ -17312,7 +17308,7 @@
           "eng": 6
         },
         "2026-10-24": {
-          "total": 28,
+          "total": 29,
           "eng": 6
         }
       },
@@ -17666,7 +17662,7 @@
         },
         "2026-10-24": {
           "total": 100,
-          "eng": 4
+          "eng": 3
         }
       },
       "pm": {}
