@@ -317,7 +317,7 @@
           "eng": 283
         },
         "2026-10-24": {
-          "total": 678,
+          "total": 681,
           "eng": 282
         }
       },
@@ -1977,7 +1977,7 @@
           "eng": 48
         },
         "2026-10-24": {
-          "total": 161,
+          "total": 159,
           "eng": 47
         }
       },
@@ -5397,7 +5397,7 @@
           "eng": 5
         },
         "2026-10-24": {
-          "total": 90,
+          "total": 91,
           "eng": 5
         }
       },
@@ -7798,7 +7798,7 @@
         },
         "2026-10-24": {
           "total": 100,
-          "eng": 30
+          "eng": 28
         }
       },
       "pm": {
@@ -8153,7 +8153,7 @@
         },
         "2026-10-24": {
           "total": 100,
-          "eng": 12
+          "eng": 10
         }
       },
       "pm": {}
@@ -8484,8 +8484,8 @@
           "spike": true
         },
         "2026-10-24": {
-          "total": 70,
-          "eng": 62,
+          "total": 78,
+          "eng": 67,
           "spike": true
         }
       },
@@ -10966,7 +10966,7 @@
           "eng": 37
         },
         "2026-10-24": {
-          "total": 105,
+          "total": 106,
           "eng": 37
         }
       },
@@ -12392,8 +12392,8 @@
           "spike": true
         },
         "2026-10-24": {
-          "total": 200,
-          "eng": 101,
+          "total": 197,
+          "eng": 46,
           "spike": true
         }
       },
@@ -12404,8 +12404,7 @@
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5822106-S2072465-1"
           ],
-          "lastSeen": "2026-10-19",
-          "closedOn": "2026-10-24"
+          "lastSeen": "2026-10-24"
         },
         "product management analyst": {
           "ids": [
@@ -12418,8 +12417,7 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-19",
-          "closedOn": "2026-10-24"
+          "lastSeen": "2026-10-24"
         },
         "ai product management practitioner": {
           "ids": [
@@ -12427,8 +12425,7 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-19",
-          "closedOn": "2026-10-24"
+          "lastSeen": "2026-10-24"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
@@ -12443,6 +12440,12 @@
           ],
           "lastSeen": "2026-10-11",
           "closedOn": "2026-10-12"
+        },
+        "software product management senior manager pre sales": {
+          "ids": [
+            "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Senior-Manager-Pre-Sales_R00365643-1"
+          ],
+          "lastSeen": "2026-10-24"
         }
       }
     },
@@ -12659,6 +12662,10 @@
         "2026-10-23": {
           "total": 62,
           "eng": 27
+        },
+        "2026-10-24": {
+          "total": 62,
+          "eng": 27
         }
       },
       "pm": {
@@ -12671,7 +12678,7 @@
             "eightfold-microsoft.com-1970393557037770",
             "eightfold-microsoft.com-1970393557016611"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-24"
         },
         "principal product manager": {
           "ids": [
@@ -12683,7 +12690,7 @@
             "eightfold-microsoft.com-1970393557042009",
             "eightfold-microsoft.com-1970393557038797"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-24"
         },
         "product manager ii": {
           "ids": [
@@ -12692,7 +12699,7 @@
             "eightfold-microsoft.com-1970393557038894",
             "eightfold-microsoft.com-1970393557041935"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-24"
         },
         "principal product management": {
           "ids": [
@@ -12712,7 +12719,7 @@
           "ids": [
             "eightfold-microsoft.com-1970393557040189"
           ],
-          "lastSeen": "2026-10-23"
+          "lastSeen": "2026-10-24"
         }
       }
     },
@@ -13184,8 +13191,8 @@
           "eng": 571
         },
         "2026-10-24": {
-          "total": 895,
-          "eng": 571
+          "total": 896,
+          "eng": 572
         }
       },
       "pm": {
@@ -13595,7 +13602,8 @@
         "product manager ai quality": {
           "ids": [
             "greenhouse-gleanwork-4525518005",
-            "greenhouse-gleanwork-4694764005"
+            "greenhouse-gleanwork-4694764005",
+            "greenhouse-gleanwork-4525519005"
           ],
           "lastSeen": "2026-10-24"
         },
@@ -15523,7 +15531,7 @@
           "eng": 40
         },
         "2026-10-24": {
-          "total": 150,
+          "total": 149,
           "eng": 40
         }
       },

@@ -1,17 +1,6 @@
 {
   "jobs": [
     {
-      "id": "govt-ondc-svp-product-product-head-",
-      "title": "SVP Product (Product Head)",
-      "company": "Open Network for Digital Commerce",
-      "location": "New Delhi",
-      "url": "https://ondc.org/pages/careers.html",
-      "source": "🏛️ Govt (ONDC careers page)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "govt-ondc-product-lead-principal-product-manager",
       "title": "Product Lead / Principal Product Manager",
       "company": "Open Network for Digital Commerce",
@@ -3630,6 +3619,15 @@
       "company": "Webroot",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://careers.opentext.com/us/en/job/54082",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-24"
+    },
+    {
+      "id": "vc-accel-97932555",
+      "title": "Product Lead",
+      "company": "Zinier",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/zinier/jobs/4430604009",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-24"
     }
