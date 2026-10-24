@@ -1,17 +1,6 @@
 {
   "jobs": [
     {
-      "id": "govt-ondc-product-lead-principal-product-manager",
-      "title": "Product Lead / Principal Product Manager",
-      "company": "Open Network for Digital Commerce",
-      "location": "New Delhi",
-      "url": "https://ondc.org/pages/careers.html",
-      "source": "🏛️ Govt (ONDC careers page)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "govt-egov-91566000002454192",
       "title": "Product Manager - Digital Health (Public Health)",
       "company": "eGov Foundation",
@@ -3630,6 +3619,15 @@
       "url": "https://boards.greenhouse.io/zinier/jobs/4430604009",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-24"
+    },
+    {
+      "id": "vc-accel-98003256",
+      "title": "Senior Product Manager - Cloudera Manager",
+      "company": "Cloudera",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Senior-Product-Manager---Cloudera-Manager_261501",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-25"
     }
   ],
   "signals": [
