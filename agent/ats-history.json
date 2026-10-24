@@ -5397,7 +5397,7 @@
           "eng": 5
         },
         "2026-10-24": {
-          "total": 91,
+          "total": 90,
           "eng": 5
         }
       },
@@ -5617,7 +5617,8 @@
           "ids": [
             "amazon-10553130"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-24",
+          "closedOn": "2026-10-24"
         },
         "senior product manager service delivery standard work": {
           "ids": [
@@ -8153,7 +8154,7 @@
         },
         "2026-10-24": {
           "total": 100,
-          "eng": 10
+          "eng": 11
         }
       },
       "pm": {}
@@ -8484,8 +8485,8 @@
           "spike": true
         },
         "2026-10-24": {
-          "total": 78,
-          "eng": 67,
+          "total": 76,
+          "eng": 66,
           "spike": true
         }
       },
@@ -8716,7 +8717,7 @@
           "eng": 10
         },
         "2026-10-24": {
-          "total": 197,
+          "total": 196,
           "eng": 10
         }
       },
@@ -9048,8 +9049,8 @@
           "eng": 2
         },
         "2026-10-24": {
-          "total": 26,
-          "eng": 2
+          "total": 25,
+          "eng": 1
         }
       },
       "pm": {
@@ -12283,7 +12284,7 @@
           "eng": 46
         },
         "2026-10-24": {
-          "total": 86,
+          "total": 85,
           "eng": 46
         }
       },
@@ -12392,8 +12393,8 @@
           "spike": true
         },
         "2026-10-24": {
-          "total": 197,
-          "eng": 46,
+          "total": 200,
+          "eng": 108,
           "spike": true
         }
       },
@@ -12404,7 +12405,8 @@
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5822106-S2072465-1"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-24",
+          "closedOn": "2026-10-24"
         },
         "product management analyst": {
           "ids": [
@@ -12417,7 +12419,8 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-24",
+          "closedOn": "2026-10-24"
         },
         "ai product management practitioner": {
           "ids": [
@@ -12425,7 +12428,8 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-24",
+          "closedOn": "2026-10-24"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
@@ -12445,7 +12449,8 @@
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Senior-Manager-Pre-Sales_R00365643-1"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-24",
+          "closedOn": "2026-10-24"
         }
       }
     },
@@ -15403,7 +15408,7 @@
         },
         "2026-10-24": {
           "total": 200,
-          "eng": 122
+          "eng": 106
         }
       },
       "pm": {
@@ -16205,8 +16210,8 @@
           "eng": 182
         },
         "2026-10-24": {
-          "total": 354,
-          "eng": 182
+          "total": 355,
+          "eng": 183
         }
       },
       "pm": {
@@ -17602,7 +17607,7 @@
           "eng": 7
         },
         "2026-10-24": {
-          "total": 46,
+          "total": 45,
           "eng": 7
         }
       },
@@ -17611,7 +17616,8 @@
           "ids": [
             "greenhouse-tamara-5000135101"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-24",
+          "closedOn": "2026-10-24"
         }
       }
     },

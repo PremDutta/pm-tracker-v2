@@ -1,6 +1,105 @@
 {
   "roles": [
     {
+      "id": "workday-autodesk-/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
+      "title": "Senior Product Manager, GTM Automation",
+      "company": "Autodesk",
+      "location": "Bengaluru, IND",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
+      "source": "Workday (Autodesk)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3",
+      "title": "Principal Product Manager - Switching",
+      "company": "HPE",
+      "location": "Bengaluru, Karnātaka, India",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3",
+      "source": "Workday (HPE)",
+      "level": "group",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Cloud-SRX-Firewall_1209735-2",
+      "title": "Product Manager - Cloud SRX Firewall",
+      "company": "HPE",
+      "location": "Bengaluru, Karnātaka, India",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager---Cloud-SRX-Firewall_1209735-2",
+      "source": "Workday (HPE)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Support-Insights_1209606-2",
+      "title": "Product Manager - Support Insights",
+      "company": "HPE",
+      "location": "Bengaluru, Karnātaka, India",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager---Support-Insights_1209606-2",
+      "source": "Workday (HPE)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager--DCN_1197630-2",
+      "title": "Product Manager- DCN",
+      "company": "HPE",
+      "location": "Bengaluru, Karnātaka, India",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager--DCN_1197630-2",
+      "source": "Workday (HPE)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1",
+      "title": "Sr. Product Owner",
+      "company": "HPE",
+      "location": "Bengaluru, Karnātaka, India",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1",
+      "source": "Workday (HPE)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
+      "title": "Lead Product Management – Technical – AI Transformation",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
+      "source": "Workday (Mastercard)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
+      "title": "Lead Product Manager (AI)-2",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
+      "source": "Workday (Mastercard)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Bangalore-India/Technical-Product-Manager_R68278",
+      "title": "Technical Product Manager",
+      "company": "Motorola Solutions",
+      "location": "Bangalore, India",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Technical-Product-Manager_R68278",
+      "source": "Workday (Motorola Solutions)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-24"
+    },
+    {
       "id": "eightfold-qualcomm.com-446717846060",
       "title": "Staff/Director – AI HW Product Management",
       "company": "Qualcomm",
@@ -9,6 +108,39 @@
       "source": "Qualcomm careers",
       "level": "leadership",
       "aiMatch": "title",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R33982",
+      "title": "Senior Product Manager",
+      "company": "Zendesk",
+      "location": "Pune, India",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R33982",
+      "source": "Workday (Zendesk)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "workday-zendesk-/job/Pune-India/Principal-Product-Manager_R35027-1",
+      "title": "Senior Product Manager",
+      "company": "Zendesk",
+      "location": "Pune, India",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Principal-Product-Manager_R35027-1",
+      "source": "Workday (Zendesk)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R34220",
+      "title": "Senior Product Manager",
+      "company": "Zendesk",
+      "location": "Pune, India",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R34220",
+      "source": "Workday (Zendesk)",
+      "level": "senior",
+      "aiMatch": "company",
       "firstSeen": "2026-10-24"
     },
     {
@@ -67,28 +199,6 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "vc-peakxv-lbtWSkK_VfSx",
-      "title": "AI Native Product Manager",
-      "company": "Leap Finance",
-      "location": "Bengaluru, India",
-      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "smartrecruiters-ServiceNow-744000157087019",
       "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
       "company": "ServiceNow",
@@ -96,28 +206,6 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157087019",
       "source": "SmartRecruiters (ServiceNow)",
       "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "vc-peakxv-8041196002",
-      "title": "Product Manager",
-      "company": "Sigmoid",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "vc-peakxv-137246",
-      "title": "AI PRODUCT MANAGER",
-      "company": "TestMu",
-      "location": "Noida, UP, India",
-      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-22"
     },
