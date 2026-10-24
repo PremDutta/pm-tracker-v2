@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "eightfold-qualcomm.com-446717846060",
+      "title": "Staff/Director – AI HW Product Management",
+      "company": "Qualcomm",
+      "location": "Bangalore, India",
+      "url": "https://careers.qualcomm.com/careers/job/446717846060",
+      "source": "Qualcomm careers",
+      "level": "leadership",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-24"
+    },
+    {
       "id": "amazon-10587375",
       "title": "Principal Product Manager - Tech, Agentic Shopping Experience",
       "company": "Amazon",

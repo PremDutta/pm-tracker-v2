@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-23T21:05:10.069Z",
+  "scannedAt": "2026-10-24T03:34:07.660Z",
   "roles": [
     {
       "id": "greenhouse-discord-8847080002",
@@ -665,11 +665,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-asana-8260059",
-      "title": "Lead Product Manager, APIs and MCP",
+      "id": "greenhouse-asana-8213887",
+      "title": "Lead Product Manager, Enterprise Services Management ",
       "company": "Asana",
       "location": "Vancouver, BC",
-      "url": "https://www.asana.com/jobs/apply/8260059?gh_jid=8260059",
+      "url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887",
       "source": "Greenhouse (Asana)",
       "level": "group",
       "regions": [
@@ -687,19 +687,6 @@
       "level": "group",
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "greenhouse-asana-8213887",
-      "title": "Lead Product Manager, Enterprise Services Management ",
-      "company": "Asana",
-      "location": "Vancouver, BC",
-      "url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887",
-      "source": "Greenhouse (Asana)",
-      "level": "group",
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -2693,19 +2680,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "rippling-rippling-6babbe32-f11a-4385-b97a-1ce1fab5a75d",
-      "title": "Product Lead, AI Experience",
-      "company": "Rippling",
-      "location": "San Francisco, CA",
-      "url": "https://ats.rippling.com/rippling/jobs/6babbe32-f11a-4385-b97a-1ce1fab5a75d",
-      "source": "Rippling (Rippling)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "rippling-rippling-25491329-5f96-4a11-81b6-99512adf8081",
       "title": "Product Lead, Employee Data & Lifecycle",
       "company": "Rippling",
@@ -2774,7 +2748,7 @@
       "id": "rippling-rippling-0889e2ac-a30c-43b7-8c8c-5312264416db",
       "title": "Product Lead, Talent Products",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/0889e2ac-a30c-43b7-8c8c-5312264416db",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3207,19 +3181,6 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156856309",
       "source": "SmartRecruiters (ServiceNow)",
       "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "smartrecruiters-ServiceNow-744000156648956",
-      "title": "Technical Product Manager, Legal AI and Platforms ",
-      "company": "ServiceNow",
-      "location": "Chicago, ILLINOIS, United States",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156648956",
-      "source": "SmartRecruiters (ServiceNow)",
-      "level": "pm",
       "regions": [
         "us"
       ],

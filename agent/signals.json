@@ -1,6 +1,18 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-24",
+      "detail": "101 engineering openings vs a usual 38"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-24",
+      "detail": "62 engineering openings vs a usual 3"
+    },
+    {
       "type": "funding",
       "company": "Harajuku Tokyo Café",
       "title": "Harajuku Tokyo Café raises $3 Mn in pre-Series A led by Zero W",
@@ -1181,70 +1193,6 @@
       "title": "Lab-grown diamond jewellery brand ONYA raises Rs 12.5 crore in pre-Series A round",
       "url": "https://entrackr.com/snippets/lab-grown-diamond-jewellery-brand-onya-raises-rs-125-crore-in-pre-series-a-round-12571229",
       "date": "2026-09-24",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "betterhood",
-      "title": "Sauce leads seed round in preventive pain care brand betterhood",
-      "url": "https://entrackr.com/snippets/sauce-leads-seed-round-in-preventive-pain-care-brand-betterhood-12567909",
-      "date": "2026-09-23",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Brahma AI",
-      "title": "Brahma AI raises $150M led by Multiples Alternate Asset Management",
-      "url": "https://yourstory.com/2026/09/funding-brahma-ai-150-million-multiples-alternate-asset-management",
-      "date": "2026-09-23",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Hughes Precision",
-      "title": "Defence manufacturer Hughes Precision raises Rs 250 Cr funding",
-      "url": "https://yourstory.com/2026/09/defence-manufacturer-hughes-precision-raises-rs-250-crore-funding",
-      "date": "2026-09-23",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Indian Walker",
-      "title": "D2C streetwear brand Indian Walker raises pre-seed round at Rs 20 Cr post-money valuation",
-      "url": "https://entrackr.com/snippets/d2c-streetwear-brand-indian-walker-raises-pre-seed-round-at-rs-20-cr-post-money-valuation-12565349",
-      "date": "2026-09-23",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Rio Health",
-      "title": "Exclusive: Rio Health raises Rs 43 Cr in pre-Series A led by Version One Ventures",
-      "url": "https://entrackr.com/exclusive/exclusive-rioai-raises-rs-43-cr-in-pre-series-a-led-by-version-one-ventures-12566460",
-      "date": "2026-09-23",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Sol",
-      "title": "AI startup Sol raises $4M from General Catalyst, Kunal Shah and others",
-      "url": "https://yourstory.com/2026/09/ai-startup-sol-raises-4-million-from-general-catalyst-kunal-shah-and-others",
-      "date": "2026-09-23",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "TimBuckDo",
-      "title": "On-demand convenience platform TimBuckDo raises bridge round at Rs 120 Cr valuation",
-      "url": "https://entrackr.com/snippets/on-demand-convenience-platform-timbuckdo-raises-bridge-round-at-rs-150-cr-valuation-12568862",
-      "date": "2026-09-23",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Ultraviolette",
-      "title": "Ultraviolette raises $85 Mn, targets US expansion in 2027",
-      "url": "https://entrackr.com/news/ultraviolette-raises-85-mn-targets-us-expansion-in-2027-12567317",
-      "date": "2026-09-23",
       "detail": "via Entrackr"
     }
   ]
