@@ -4754,8 +4754,8 @@
           "eng": 2
         },
         "2026-10-25": {
-          "total": 26,
-          "eng": 2
+          "total": 27,
+          "eng": 3
         }
       },
       "pm": {
@@ -8722,8 +8722,8 @@
           "spike": true
         },
         "2026-10-25": {
-          "total": 75,
-          "eng": 65,
+          "total": 74,
+          "eng": 64,
           "spike": true
         }
       },
@@ -11270,6 +11270,10 @@
         "2026-10-24": {
           "total": 105,
           "eng": 37
+        },
+        "2026-10-25": {
+          "total": 105,
+          "eng": 37
         }
       },
       "pm": {
@@ -11284,7 +11288,7 @@
           "ids": [
             "workday-salesforce-/job/New-York---New-York/Senior-Product-Manager--Emerging-Technology_JR355248"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-25"
         },
         "senior product manager finance systems workday": {
           "ids": [
@@ -11311,7 +11315,7 @@
           "ids": [
             "workday-salesforce-/job/California---San-Francisco/Sr-Manager-Director-Sr-Director-of-Product-Management--Life-Sciences-Cloud--Evergreen-_JR363047"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-25"
         }
       }
     },
@@ -12410,7 +12414,7 @@
           "eng": 20
         },
         "2026-10-25": {
-          "total": 78,
+          "total": 77,
           "eng": 20
         }
       },
@@ -12906,7 +12910,7 @@
           "eng": 43
         },
         "2026-10-25": {
-          "total": 74,
+          "total": 73,
           "eng": 43
         }
       },
@@ -13569,7 +13573,7 @@
           "eng": 572
         },
         "2026-10-25": {
-          "total": 896,
+          "total": 897,
           "eng": 572
         }
       },
@@ -15113,7 +15117,7 @@
           "eng": 168
         },
         "2026-10-25": {
-          "total": 382,
+          "total": 381,
           "eng": 168
         }
       },
@@ -17181,7 +17185,7 @@
           "eng": 2
         },
         "2026-10-25": {
-          "total": 14,
+          "total": 15,
           "eng": 2
         }
       },

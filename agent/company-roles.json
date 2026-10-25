@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-25T03:31:05.027Z",
+  "scannedAt": "2026-10-25T07:44:47.628Z",
   "roles": {
     "Amazon": [
       {
@@ -1437,18 +1437,18 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "eightfold-paypal.com-274922819195",
-        "title": "Sr Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819195",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "eightfold-paypal.com-274922819192",
         "title": "Sr Product Manager",
         "location": "Bangalore, Karnataka, India",
         "url": "https://paypal.eightfold.ai/careers/job/274922819192",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "eightfold-paypal.com-274922819195",
+        "title": "Sr Product Manager",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://paypal.eightfold.ai/careers/job/274922819195",
         "level": "senior",
         "firstSeen": "2026-10-13"
       }
@@ -2309,7 +2309,7 @@
     "Rippling": "2026-10-25",
     "Rubrik": "2026-10-25",
     "Runway": "2026-10-25",
-    "Salesforce": "2026-10-24",
+    "Salesforce": "2026-10-25",
     "Salla": "2026-10-25",
     "Samsung R&D India": "2026-10-25",
     "Sarvam AI": "2026-10-25",
