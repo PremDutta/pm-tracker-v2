@@ -5549,7 +5549,7 @@
           "eng": 5
         },
         "2026-10-25": {
-          "total": 90,
+          "total": 91,
           "eng": 5
         }
       },
@@ -5927,8 +5927,7 @@
           "ids": [
             "amazon-10572930"
           ],
-          "lastSeen": "2026-10-16",
-          "closedOn": "2026-10-16"
+          "lastSeen": "2026-10-25"
         },
         "sr product manager technical ww prime benefits pricing constructs ww prime benefits pricing constructs": {
           "ids": [
@@ -8722,8 +8721,8 @@
           "spike": true
         },
         "2026-10-25": {
-          "total": 74,
-          "eng": 64,
+          "total": 73,
+          "eng": 63,
           "spike": true
         }
       },
@@ -12625,8 +12624,8 @@
           "eng": 46
         },
         "2026-10-25": {
-          "total": 87,
-          "eng": 46
+          "total": 88,
+          "eng": 47
         }
       },
       "pm": {
@@ -12751,8 +12750,8 @@
           "spike": true
         },
         "2026-10-25": {
-          "total": 197,
-          "eng": 46
+          "total": 200,
+          "eng": 47
         }
       },
       "pm": {
@@ -15461,7 +15460,7 @@
           "eng": 13
         },
         "2026-10-25": {
-          "total": 17,
+          "total": 18,
           "eng": 13
         }
       },
@@ -17834,7 +17833,7 @@
           "eng": 6
         },
         "2026-10-25": {
-          "total": 29,
+          "total": 30,
           "eng": 6
         }
       },
@@ -18161,7 +18160,7 @@
           "eng": 7
         },
         "2026-10-25": {
-          "total": 45,
+          "total": 46,
           "eng": 7
         }
       },
