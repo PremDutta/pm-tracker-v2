@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-25T15:40:25.287Z",
+  "scannedAt": "2026-10-25T20:28:51.353Z",
   "roles": [
     {
       "id": "workday-mastercard-/job/Vancouver-Canada/Principal-Product-Manager--Technical_R-278438",
@@ -1250,19 +1250,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7863522002",
-      "title": "Sr. Product Manager, Data Governance",
-      "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002",
-      "source": "Greenhouse (Databricks)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-7863365002",
       "title": "Sr. Product Manager, Data Governance",
       "company": "Databricks",
@@ -1276,11 +1263,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8136204002",
-      "title": "Sr. Product Manager, Databricks AI",
+      "id": "greenhouse-databricks-7863522002",
+      "title": "Sr. Product Manager, Data Governance",
       "company": "Databricks",
       "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1294,6 +1281,19 @@
       "company": "Databricks",
       "location": "San Francisco, California",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
+      "source": "Greenhouse (Databricks)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-8136204002",
+      "title": "Sr. Product Manager, Databricks AI",
+      "company": "Databricks",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [

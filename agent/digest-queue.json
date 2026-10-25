@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-95105656",
-      "title": "Principal Product Manager",
-      "company": "Ethos Life",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://boards.greenhouse.io/ethoslife/jobs/8853171002",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "vc-accel-95054952",
       "title": "Associate Product Manager (B2C)",
       "company": "Credgenics",
@@ -3622,6 +3613,15 @@
       "url": "https://in.linkedin.com/jobs/view/product-manager-consumer-platform-at-rupeek-4481360367",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-25"
+    },
+    {
+      "id": "vc-accel-98022167",
+      "title": "Director/ Senior Director - Category (PnL / Product Lead)",
+      "company": "Rupeek",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/director-senior-director-category-pnl-product-lead-at-rupeek-4481314904",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-26"
     }
   ],
   "signals": [
@@ -3921,6 +3921,12 @@
       "company": "Oracle",
       "date": "2026-10-25",
       "detail": "65 engineering openings vs a usual 3"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-25",
+      "detail": "115 engineering openings vs a usual 38"
     }
   ],
   "reminders": {}

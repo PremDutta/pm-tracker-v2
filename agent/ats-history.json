@@ -2754,7 +2754,7 @@
           "eng": 423
         },
         "2026-10-25": {
-          "total": 794,
+          "total": 793,
           "eng": 423
         }
       },
@@ -7158,7 +7158,7 @@
           "eng": 1
         },
         "2026-10-25": {
-          "total": 10,
+          "total": 9,
           "eng": 1
         }
       },
@@ -8014,7 +8014,7 @@
         },
         "2026-10-25": {
           "total": 100,
-          "eng": 28
+          "eng": 30
         }
       },
       "pm": {
@@ -9819,7 +9819,7 @@
         },
         "2026-10-25": {
           "total": 100,
-          "eng": 37
+          "eng": 36
         }
       },
       "pm": {
@@ -10226,8 +10226,8 @@
           "eng": 76
         },
         "2026-10-25": {
-          "total": 142,
-          "eng": 76
+          "total": 141,
+          "eng": 75
         }
       },
       "pm": {
@@ -10597,8 +10597,8 @@
           "eng": 79
         },
         "2026-10-25": {
-          "total": 92,
-          "eng": 79
+          "total": 93,
+          "eng": 80
         }
       },
       "pm": {}
@@ -11271,8 +11271,8 @@
           "eng": 37
         },
         "2026-10-25": {
-          "total": 105,
-          "eng": 37
+          "total": 104,
+          "eng": 36
         }
       },
       "pm": {
@@ -12413,8 +12413,8 @@
           "eng": 20
         },
         "2026-10-25": {
-          "total": 77,
-          "eng": 20
+          "total": 71,
+          "eng": 18
         }
       },
       "pm": {
@@ -12517,7 +12517,8 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Senior-Digital-Product-Manager---Platform-Product-Management_R-579303-1"
           ],
-          "lastSeen": "2026-10-25"
+          "lastSeen": "2026-10-25",
+          "closedOn": "2026-10-25"
         }
       }
     },
@@ -12624,8 +12625,8 @@
           "eng": 46
         },
         "2026-10-25": {
-          "total": 89,
-          "eng": 47
+          "total": 88,
+          "eng": 48
         }
       },
       "pm": {
@@ -12750,8 +12751,9 @@
           "spike": true
         },
         "2026-10-25": {
-          "total": 197,
-          "eng": 47
+          "total": 200,
+          "eng": 115,
+          "spike": true
         }
       },
       "pm": {
@@ -12761,7 +12763,8 @@
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5822106-S2072465-1"
           ],
-          "lastSeen": "2026-10-25"
+          "lastSeen": "2026-10-25",
+          "closedOn": "2026-10-25"
         },
         "product management analyst": {
           "ids": [
@@ -12774,7 +12777,8 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-25"
+          "lastSeen": "2026-10-25",
+          "closedOn": "2026-10-25"
         },
         "ai product management practitioner": {
           "ids": [
@@ -12782,7 +12786,8 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-25"
+          "lastSeen": "2026-10-25",
+          "closedOn": "2026-10-25"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
@@ -12802,7 +12807,8 @@
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Senior-Manager-Pre-Sales_R00365643-1"
           ],
-          "lastSeen": "2026-10-25"
+          "lastSeen": "2026-10-25",
+          "closedOn": "2026-10-25"
         }
       }
     },
@@ -12909,7 +12915,7 @@
           "eng": 43
         },
         "2026-10-25": {
-          "total": 73,
+          "total": 74,
           "eng": 43
         }
       },
@@ -13027,6 +13033,10 @@
         "2026-10-24": {
           "total": 62,
           "eng": 27
+        },
+        "2026-10-25": {
+          "total": 61,
+          "eng": 26
         }
       },
       "pm": {
@@ -13037,9 +13047,10 @@
             "eightfold-microsoft.com-1970393557016561",
             "eightfold-microsoft.com-1970393557040598",
             "eightfold-microsoft.com-1970393557037770",
-            "eightfold-microsoft.com-1970393557016611"
+            "eightfold-microsoft.com-1970393557016611",
+            "eightfold-microsoft.com-1970393557041943"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-25"
         },
         "principal product manager": {
           "ids": [
@@ -13051,7 +13062,7 @@
             "eightfold-microsoft.com-1970393557042009",
             "eightfold-microsoft.com-1970393557038797"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-25"
         },
         "product manager ii": {
           "ids": [
@@ -13060,7 +13071,7 @@
             "eightfold-microsoft.com-1970393557038894",
             "eightfold-microsoft.com-1970393557041935"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-25"
         },
         "principal product management": {
           "ids": [
@@ -13080,7 +13091,7 @@
           "ids": [
             "eightfold-microsoft.com-1970393557040189"
           ],
-          "lastSeen": "2026-10-24"
+          "lastSeen": "2026-10-25"
         }
       }
     },
@@ -13572,8 +13583,8 @@
           "eng": 572
         },
         "2026-10-25": {
-          "total": 896,
-          "eng": 571
+          "total": 894,
+          "eng": 569
         }
       },
       "pm": {
@@ -15856,7 +15867,7 @@
         },
         "2026-10-25": {
           "total": 200,
-          "eng": 106
+          "eng": 105
         }
       },
       "pm": {
@@ -16972,8 +16983,8 @@
           "eng": 37
         },
         "2026-10-25": {
-          "total": 106,
-          "eng": 37
+          "total": 105,
+          "eng": 36
         }
       },
       "pm": {
@@ -17428,8 +17439,8 @@
           "eng": 6
         },
         "2026-10-25": {
-          "total": 18,
-          "eng": 6
+          "total": 17,
+          "eng": 5
         }
       },
       "pm": {
@@ -17967,7 +17978,7 @@
           "eng": 5
         },
         "2026-10-25": {
-          "total": 118,
+          "total": 119,
           "eng": 5
         }
       },

@@ -2,6 +2,12 @@
   "signals": [
     {
       "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-25",
+      "detail": "115 engineering openings vs a usual 38"
+    },
+    {
+      "type": "eng_spike",
       "company": "Oracle",
       "date": "2026-10-25",
       "detail": "65 engineering openings vs a usual 3"
