@@ -1,48 +1,6 @@
 {
   "jobs": [
     {
-      "id": "govt-egov-91566000002454192",
-      "title": "Product Manager - Digital Health (Public Health)",
-      "company": "eGov Foundation",
-      "location": "Bengaluru",
-      "url": "https://careers.egov.org.in/jobs/Careers/91566000002454192/Product-Manager-Digital-Health-Public-Health?source=CareerSite",
-      "source": "🏛️ Govt (eGov)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-wadhwani-ai-146520000006119605",
-      "title": "Associate Director - Product",
-      "company": "Wadhwani AI",
-      "location": "New Delhi",
-      "url": "https://wadhwaniai.zohorecruit.in/jobs/Careers/146520000006119605/Associate-Director-Product?source=CareerSite",
-      "source": "🏛️ Govt (Wadhwani AI)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "govt-bharat-digital-job-board-cmugmln3k0029yk2wdavhcayc",
-      "title": "Associate Director - Product",
-      "company": "Wadhwani AI",
-      "location": "New Delhi",
-      "url": "https://wadhwaniai.zohorecruit.in/jobs/Careers/146520000006119605/Associate-Director---Product?source=CareerSite",
-      "source": "🏛️ Govt (Bharat Digital job board)",
-      "deadline": "2026-10-22",
-      "flags": [],
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "vc-accel-95110732",
-      "title": "Product Manager (AML, Sanctions, Fraud, Transaction Monitoring, Screening, KYC) (6-10 Years)",
-      "company": "Pismo",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF087040W",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "vc-accel-95105656",
       "title": "Principal Product Manager",
       "company": "Ethos Life",
@@ -3628,6 +3586,42 @@
       "url": "https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Senior-Product-Manager---Cloudera-Manager_261501",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-25"
+    },
+    {
+      "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-152753",
+      "title": "Digital Product Owner - B2B",
+      "company": "Zensar",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/152753",
+      "source": "Zensar careers",
+      "queuedOn": "2026-10-25"
+    },
+    {
+      "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-152758",
+      "title": "ESaaS - MSD -Functional - D365 ERP Product Owner/Scrum Master",
+      "company": "Zensar",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/152758",
+      "source": "Zensar careers",
+      "queuedOn": "2026-10-25"
+    },
+    {
+      "id": "vc-accel-98022163",
+      "title": "Product Manager - Consumer Growth",
+      "company": "Rupeek",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/product-manager-consumer-growth-at-rupeek-4481363207",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-25"
+    },
+    {
+      "id": "vc-accel-98022165",
+      "title": "Product Manager - Consumer Platform",
+      "company": "Rupeek",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/product-manager-consumer-platform-at-rupeek-4481360367",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-25"
     }
   ],
   "signals": [
@@ -3921,6 +3915,12 @@
       "company": "Accenture",
       "date": "2026-10-24",
       "detail": "101 engineering openings vs a usual 38"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-25",
+      "detail": "65 engineering openings vs a usual 3"
     }
   ],
   "reminders": {}
