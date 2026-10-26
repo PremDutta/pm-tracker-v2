@@ -1,12 +1,12 @@
 {
-  "scannedAt": "2026-10-26T08:00:08.694Z",
+  "scannedAt": "2026-10-26T12:23:49.497Z",
   "roles": [
     {
-      "id": "smartrecruiters-DeliveryHero-744000157735999",
+      "id": "smartrecruiters-DeliveryHero-744000157739219",
       "title": "Senior Product Manager, Checkout & Post-Order Experience",
       "company": "Talabat (Delivery Hero)",
       "location": "Singapore, , Singapore",
-      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000157735999",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000157739219",
       "source": "SmartRecruiters (Talabat (Delivery Hero))",
       "level": "senior",
       "regions": [
@@ -93,19 +93,6 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4579657005",
-      "title": "Product Manager, Agent Security & Governance",
-      "company": "Glean",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4579657005",
-      "source": "Greenhouse (Glean)",
-      "level": "pm",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23"
-    },
-    {
       "id": "greenhouse-gleanwork-4694761005",
       "title": "Product Manager, Agent Security & Governance",
       "company": "Glean",
@@ -119,11 +106,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4694764005",
-      "title": "Product Manager, AI Quality",
+      "id": "greenhouse-gleanwork-4579657005",
+      "title": "Product Manager, Agent Security & Governance",
       "company": "Glean",
       "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694764005",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4579657005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -137,6 +124,19 @@
       "company": "Glean",
       "location": "San Francisco Bay Area",
       "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4525519005",
+      "source": "Greenhouse (Glean)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "greenhouse-gleanwork-4694764005",
+      "title": "Product Manager, AI Quality",
+      "company": "Glean",
+      "location": "Mountain View, CA",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694764005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -925,6 +925,32 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "lever-crypto-097a7b81-68bd-4cc5-a5a4-7eed9c8a0325",
+      "title": "(Senior) Product Manager, Fiat & FCM",
+      "company": "Crypto.com",
+      "location": "San Francisco",
+      "url": "https://jobs.lever.co/crypto/097a7b81-68bd-4cc5-a5a4-7eed9c8a0325",
+      "source": "Lever (Crypto.com)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "lever-crypto-a898683e-d211-4e8c-8576-21f676993d90",
+      "title": "(Senior) Product Manager, Fiat & FCM",
+      "company": "Crypto.com",
+      "location": "Singapore",
+      "url": "https://jobs.lever.co/crypto/a898683e-d211-4e8c-8576-21f676993d90",
+      "source": "Lever (Crypto.com)",
+      "level": "senior",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "lever-crypto-fd1b5ab4-60f7-4aa4-9db1-d7deda6b8143",
       "title": "OG.com - Senior Product Manager - Fiat Onboarding",
       "company": "Crypto.com",
@@ -947,32 +973,6 @@
       "level": "senior",
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "lever-crypto-097a7b81-68bd-4cc5-a5a4-7eed9c8a0325",
-      "title": "Product Manager, Fiat & FCM",
-      "company": "Crypto.com",
-      "location": "San Francisco",
-      "url": "https://jobs.lever.co/crypto/097a7b81-68bd-4cc5-a5a4-7eed9c8a0325",
-      "source": "Lever (Crypto.com)",
-      "level": "pm",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "lever-crypto-a898683e-d211-4e8c-8576-21f676993d90",
-      "title": "Product Manager, Fiat & FCM",
-      "company": "Crypto.com",
-      "location": "Singapore",
-      "url": "https://jobs.lever.co/crypto/a898683e-d211-4e8c-8576-21f676993d90",
-      "source": "Lever (Crypto.com)",
-      "level": "pm",
-      "regions": [
-        "singapore"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -1224,11 +1224,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200462002",
+      "id": "greenhouse-databricks-8200284002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1237,11 +1237,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200284002",
+      "id": "greenhouse-databricks-8200462002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1315,11 +1315,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7680573002",
+      "id": "greenhouse-databricks-8235785002",
       "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1328,11 +1328,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8235785002",
+      "id": "greenhouse-databricks-7680573002",
       "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1367,11 +1367,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8811265002",
+      "id": "greenhouse-databricks-8876675002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1380,11 +1380,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8876675002",
+      "id": "greenhouse-databricks-8811265002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1406,11 +1406,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7649409002",
+      "id": "greenhouse-databricks-7649411002",
       "title": "Staff Product Manager",
       "company": "Databricks",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649409002",
+      "location": "Berlin, Germany",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -1419,11 +1419,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7649411002",
+      "id": "greenhouse-databricks-7649409002",
       "title": "Staff Product Manager",
       "company": "Databricks",
-      "location": "Berlin, Germany",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649409002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -1484,11 +1484,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8420607002",
+      "id": "greenhouse-databricks-8427954002",
       "title": "Staff Product Manager, Serverless Workspaces",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -1497,11 +1497,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8427954002",
+      "id": "greenhouse-databricks-8420607002",
       "title": "Staff Product Manager, Serverless Workspaces",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2966,19 +2966,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-scaleai-4644742005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "company": "Scale AI",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4644742005",
-      "source": "Greenhouse (Scale AI)",
-      "level": "pm",
-      "regions": [
-        "uk"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-scaleai-4673051005",
       "title": "Forward Deployed Product Manager, Enterprise",
       "company": "Scale AI",
@@ -2988,6 +2975,19 @@
       "level": "pm",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-scaleai-4644742005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "company": "Scale AI",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4644742005",
+      "source": "Greenhouse (Scale AI)",
+      "level": "pm",
+      "regions": [
+        "uk"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3005,19 +3005,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-scaleai-4589749005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "company": "Scale AI",
-      "location": "Doha, Qatar ; Dubai, UAE",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
-      "source": "Greenhouse (Scale AI)",
-      "level": "pm",
-      "regions": [
-        "uae"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-scaleai-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
@@ -3027,6 +3014,19 @@
       "level": "pm",
       "regions": [
         "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-scaleai-4589749005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "company": "Scale AI",
+      "location": "Doha, Qatar ; Dubai, UAE",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "source": "Greenhouse (Scale AI)",
+      "level": "pm",
+      "regions": [
+        "uae"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3491,19 +3491,6 @@
       "company": "Spotify",
       "location": "London",
       "url": "https://jobs.lever.co/spotify/ee45924c-894c-4ea0-9c93-c5221894063f",
-      "source": "Lever (Spotify)",
-      "level": "senior",
-      "regions": [
-        "uk"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "lever-spotify-ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd",
-      "title": "Senior Product Manager, Consumer - Audiobooks",
-      "company": "Spotify",
-      "location": "London",
-      "url": "https://jobs.lever.co/spotify/ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd",
       "source": "Lever (Spotify)",
       "level": "senior",
       "regions": [

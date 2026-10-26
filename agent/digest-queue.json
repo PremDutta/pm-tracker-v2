@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-94997268",
-      "title": "Product Manager (Data Governance Platform, Metadata Management, Data Stewardship, Access Management) (6-12 years)",
-      "company": "Pismo",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "vc-accel-94984367",
-      "title": "Product Manager - Remote",
-      "company": "Sprinto ",
-      "location": "India, Remote",
-      "url": "https://jobs.lever.co/Sprinto/1880a0c2-4378-473e-9868-25710741dd28",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "vc-accel-82636843",
       "title": "Principal Product Manager",
       "company": "UiPath",
@@ -3621,6 +3603,26 @@
       "location": "Hyderabad, , India",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157721999",
       "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-26"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-291502",
+      "title": "Lead Product Manager- Technical",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291502",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-26"
+    },
+    {
+      "id": "govt-npci-190737000006110726",
+      "title": "Lead Product Management",
+      "company": "National Payments Corporation of India",
+      "location": "Mumbai",
+      "url": "https://careers.npci.org.in/jobs/Careers/190737000006110726/Lead-Product-Management?source=CareerSite",
+      "source": "🏛️ Govt (NPCI)",
+      "deadline": null,
+      "flags": [],
       "queuedOn": "2026-10-26"
     }
   ],

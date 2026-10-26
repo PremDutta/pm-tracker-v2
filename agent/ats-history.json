@@ -1423,7 +1423,7 @@
           "eng": 75
         },
         "2026-10-26": {
-          "total": 171,
+          "total": 170,
           "eng": 75
         }
       },
@@ -2081,8 +2081,8 @@
           "eng": 47
         },
         "2026-10-26": {
-          "total": 158,
-          "eng": 46
+          "total": 160,
+          "eng": 47
         }
       },
       "pm": {
@@ -2365,8 +2365,8 @@
           "eng": 29
         },
         "2026-10-26": {
-          "total": 139,
-          "eng": 29
+          "total": 138,
+          "eng": 28
         }
       },
       "pm": {
@@ -3463,8 +3463,8 @@
           "eng": 0
         },
         "2026-10-26": {
-          "total": 8,
-          "eng": 0
+          "total": 10,
+          "eng": 2
         }
       },
       "pm": {}
@@ -4882,8 +4882,8 @@
           "eng": 3
         },
         "2026-10-26": {
-          "total": 28,
-          "eng": 3
+          "total": 27,
+          "eng": 2
         }
       },
       "pm": {
@@ -5029,7 +5029,7 @@
           "eng": 32
         },
         "2026-10-26": {
-          "total": 90,
+          "total": 89,
           "eng": 32
         }
       },
@@ -5093,7 +5093,8 @@
             "lever-spotify-ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd",
             "lever-spotify-c5c82f59-504f-47f4-961e-a2d50a248357"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "principal product manager core experience platform": {
           "ids": [
@@ -5341,7 +5342,7 @@
           "eng": 6
         },
         "2026-10-26": {
-          "total": 149,
+          "total": 150,
           "eng": 6
         }
       },
@@ -5700,7 +5701,7 @@
           "eng": 5
         },
         "2026-10-26": {
-          "total": 92,
+          "total": 91,
           "eng": 5
         }
       },
@@ -6079,7 +6080,8 @@
           "ids": [
             "amazon-10572930"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "sr product manager technical ww prime benefits pricing constructs ww prime benefits pricing constructs": {
           "ids": [
@@ -6263,8 +6265,8 @@
           "eng": 6
         },
         "2026-10-26": {
-          "total": 38,
-          "eng": 6
+          "total": 32,
+          "eng": 5
         }
       },
       "pm": {
@@ -6763,7 +6765,7 @@
           "eng": 9
         },
         "2026-10-26": {
-          "total": 82,
+          "total": 81,
           "eng": 9
         }
       },
@@ -7120,7 +7122,7 @@
           "eng": 15
         },
         "2026-10-26": {
-          "total": 49,
+          "total": 47,
           "eng": 15
         }
       },
@@ -7467,8 +7469,8 @@
           "eng": 31
         },
         "2026-10-26": {
-          "total": 43,
-          "eng": 31
+          "total": 42,
+          "eng": 30
         }
       },
       "pm": {
@@ -7588,8 +7590,8 @@
           "eng": 17
         },
         "2026-10-26": {
-          "total": 50,
-          "eng": 17
+          "total": 47,
+          "eng": 15
         }
       },
       "pm": {
@@ -8827,8 +8829,8 @@
           "eng": 1
         },
         "2026-10-26": {
-          "total": 7,
-          "eng": 1
+          "total": 8,
+          "eng": 2
         }
       },
       "pm": {
@@ -8959,8 +8961,8 @@
           "spike": true
         },
         "2026-10-26": {
-          "total": 88,
-          "eng": 69,
+          "total": 100,
+          "eng": 84,
           "spike": true
         }
       },
@@ -9555,7 +9557,7 @@
           "eng": 1
         },
         "2026-10-26": {
-          "total": 27,
+          "total": 26,
           "eng": 1
         }
       },
@@ -9698,7 +9700,7 @@
           "eng": 0
         },
         "2026-10-26": {
-          "total": 11,
+          "total": 12,
           "eng": 0
         }
       },
@@ -10500,8 +10502,8 @@
           "eng": 75
         },
         "2026-10-26": {
-          "total": 146,
-          "eng": 76
+          "total": 152,
+          "eng": 79
         }
       },
       "pm": {
@@ -10575,7 +10577,8 @@
             "workday-mastercard-/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2",
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical_R-291940-1",
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-291501",
-            "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289980"
+            "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289980",
+            "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-291502"
           ],
           "lastSeen": "2026-10-26"
         },
@@ -10879,8 +10882,8 @@
           "eng": 80
         },
         "2026-10-26": {
-          "total": 93,
-          "eng": 80
+          "total": 92,
+          "eng": 79
         }
       },
       "pm": {}
@@ -11578,7 +11581,7 @@
         },
         "2026-10-26": {
           "total": 103,
-          "eng": 34
+          "eng": 35
         }
       },
       "pm": {
@@ -12023,7 +12026,7 @@
           "eng": 7
         },
         "2026-10-26": {
-          "total": 24,
+          "total": 25,
           "eng": 8
         }
       },
@@ -12173,7 +12176,7 @@
           "eng": 9
         },
         "2026-10-26": {
-          "total": 27,
+          "total": 28,
           "eng": 9
         }
       },
@@ -12301,8 +12304,8 @@
           "eng": 49
         },
         "2026-10-26": {
-          "total": 81,
-          "eng": 49
+          "total": 80,
+          "eng": 48
         }
       },
       "pm": {
@@ -12751,8 +12754,8 @@
           "eng": 18
         },
         "2026-10-26": {
-          "total": 80,
-          "eng": 20
+          "total": 86,
+          "eng": 21
         }
       },
       "pm": {
@@ -12966,8 +12969,8 @@
           "eng": 48
         },
         "2026-10-26": {
-          "total": 91,
-          "eng": 45
+          "total": 95,
+          "eng": 47
         }
       },
       "pm": {
@@ -12981,8 +12984,7 @@
           "ids": [
             "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-152753"
           ],
-          "lastSeen": "2026-10-26",
-          "closedOn": "2026-10-26"
+          "lastSeen": "2026-10-26"
         },
         "esaas msd functional d365 erp product owner scrum master": {
           "ids": [
@@ -13098,8 +13100,8 @@
           "spike": true
         },
         "2026-10-26": {
-          "total": 200,
-          "eng": 152,
+          "total": 198,
+          "eng": 47,
           "spike": true
         }
       },
@@ -13110,8 +13112,7 @@
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5822106-S2072465-1"
           ],
-          "lastSeen": "2026-10-26",
-          "closedOn": "2026-10-26"
+          "lastSeen": "2026-10-26"
         },
         "product management analyst": {
           "ids": [
@@ -13124,8 +13125,7 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-26",
-          "closedOn": "2026-10-26"
+          "lastSeen": "2026-10-26"
         },
         "ai product management practitioner": {
           "ids": [
@@ -13133,8 +13133,7 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-26",
-          "closedOn": "2026-10-26"
+          "lastSeen": "2026-10-26"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
@@ -13154,8 +13153,7 @@
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Senior-Manager-Pre-Sales_R00365643-1"
           ],
-          "lastSeen": "2026-10-26",
-          "closedOn": "2026-10-26"
+          "lastSeen": "2026-10-26"
         }
       }
     },
@@ -13390,7 +13388,7 @@
           "eng": 26
         },
         "2026-10-26": {
-          "total": 61,
+          "total": 60,
           "eng": 25
         }
       },
@@ -13537,8 +13535,8 @@
           "eng": 3
         },
         "2026-10-26": {
-          "total": 6,
-          "eng": 3
+          "total": 7,
+          "eng": 4
         }
       },
       "pm": {}
@@ -13852,8 +13850,8 @@
           "eng": 6
         },
         "2026-10-26": {
-          "total": 15,
-          "eng": 6
+          "total": 14,
+          "eng": 5
         }
       },
       "pm": {
@@ -14350,8 +14348,8 @@
           "eng": 47
         },
         "2026-10-26": {
-          "total": 131,
-          "eng": 47
+          "total": 130,
+          "eng": 46
         }
       },
       "pm": {
@@ -14620,8 +14618,8 @@
           "eng": 7
         },
         "2026-10-26": {
-          "total": 19,
-          "eng": 7
+          "total": 18,
+          "eng": 6
         }
       },
       "pm": {
@@ -15550,8 +15548,8 @@
           "eng": 168
         },
         "2026-10-26": {
-          "total": 381,
-          "eng": 168
+          "total": 380,
+          "eng": 167
         }
       },
       "pm": {
@@ -15902,7 +15900,7 @@
           "eng": 13
         },
         "2026-10-26": {
-          "total": 18,
+          "total": 17,
           "eng": 13
         }
       },
@@ -16195,8 +16193,8 @@
           "eng": 39
         },
         "2026-10-26": {
-          "total": 82,
-          "eng": 39
+          "total": 79,
+          "eng": 38
         }
       },
       "pm": {
@@ -16450,7 +16448,7 @@
           "eng": 40
         },
         "2026-10-26": {
-          "total": 150,
+          "total": 146,
           "eng": 40
         }
       },
@@ -16958,7 +16956,7 @@
           "eng": 7
         },
         "2026-10-26": {
-          "total": 40,
+          "total": 41,
           "eng": 7
         }
       },
@@ -17058,7 +17056,7 @@
           "eng": 1
         },
         "2026-10-26": {
-          "total": 6,
+          "total": 7,
           "eng": 1
         }
       },
@@ -17165,8 +17163,8 @@
           "eng": 183
         },
         "2026-10-26": {
-          "total": 354,
-          "eng": 182
+          "total": 355,
+          "eng": 183
         }
       },
       "pm": {
@@ -17462,7 +17460,7 @@
           "eng": 36
         },
         "2026-10-26": {
-          "total": 105,
+          "total": 104,
           "eng": 36
         }
       },
@@ -17803,7 +17801,7 @@
           "eng": 19
         },
         "2026-10-26": {
-          "total": 374,
+          "total": 373,
           "eng": 19
         }
       },
@@ -18105,7 +18103,7 @@
           "eng": 136
         },
         "2026-10-26": {
-          "total": 509,
+          "total": 508,
           "eng": 138
         }
       },
@@ -18244,7 +18242,7 @@
           "eng": 21
         },
         "2026-10-26": {
-          "total": 93,
+          "total": 97,
           "eng": 21
         }
       },
@@ -18400,7 +18398,7 @@
           "eng": 1
         },
         "2026-10-26": {
-          "total": 80,
+          "total": 81,
           "eng": 1
         }
       },
@@ -18437,7 +18435,7 @@
         },
         "2026-10-26": {
           "total": 100,
-          "eng": 28
+          "eng": 29
         }
       },
       "pm": {
@@ -18514,7 +18512,7 @@
           "eng": 5
         },
         "2026-10-26": {
-          "total": 115,
+          "total": 113,
           "eng": 5
         }
       },
@@ -18804,7 +18802,8 @@
       "pm": {
         "senior product manager checkout post order experience": {
           "ids": [
-            "smartrecruiters-DeliveryHero-744000157735999"
+            "smartrecruiters-DeliveryHero-744000157735999",
+            "smartrecruiters-DeliveryHero-744000157739219"
           ],
           "lastSeen": "2026-10-26"
         }

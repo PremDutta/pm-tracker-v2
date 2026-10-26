@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-26T08:00:08.654Z",
+  "scannedAt": "2026-10-26T12:23:49.458Z",
   "roles": {
     "Amazon": [
       {
@@ -281,14 +281,6 @@
         "url": "https://www.amazon.jobs/en/jobs/10490166/senior-product-manager-india-global-trade",
         "level": "senior",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10572930",
-        "title": "Senior Product Manager, Rewards, Amazon Pay Rewards",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10572930/senior-product-manager-rewards-amazon-pay-rewards",
-        "level": "senior",
-        "firstSeen": "2026-10-25"
       },
       {
         "id": "amazon-10556408",
@@ -999,6 +991,14 @@
         "firstSeen": "2026-10-08"
       },
       {
+        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-291502",
+        "title": "Lead Product Manager- Technical",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291502",
+        "level": "group",
+        "firstSeen": "2026-10-26"
+      },
+      {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289980",
         "title": "Lead Product Manager- Technical",
         "location": "Pune, India",
@@ -1053,6 +1053,14 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-290035",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
+        "title": "Senior Product Manager - Technical",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
+        "level": "senior",
+        "firstSeen": "2026-10-26"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-288898",
@@ -1155,12 +1163,12 @@
     ],
     "Microsoft": [
       {
-        "id": "eightfold-microsoft.com-1970393556944984",
+        "id": "eightfold-microsoft.com-1970393557038797",
         "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557038797",
         "level": "group",
-        "firstSeen": "2026-09-30"
+        "firstSeen": "2026-10-23"
       },
       {
         "id": "eightfold-microsoft.com-1970393556997831",
@@ -1171,12 +1179,12 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557038797",
+        "id": "eightfold-microsoft.com-1970393556944984",
         "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557038797",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
         "level": "group",
-        "firstSeen": "2026-10-23"
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "eightfold-microsoft.com-1970393557042009",
@@ -1187,20 +1195,20 @@
         "firstSeen": "2026-10-20"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557038894",
-        "title": "Product Manager -II",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
-        "level": "pm",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557041935",
         "title": "Product Manager -II",
         "location": "India, Uttar Pradesh, Noida",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041935",
         "level": "pm",
         "firstSeen": "2026-10-21"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557038894",
+        "title": "Product Manager -II",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
+        "level": "pm",
+        "firstSeen": "2026-10-13"
       },
       {
         "id": "eightfold-microsoft.com-1970393557016594",
@@ -1217,14 +1225,6 @@
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
         "level": "senior",
         "firstSeen": "2026-10-07"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557016561",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
-        "level": "senior",
-        "firstSeen": "2026-10-06"
       },
       {
         "id": "eightfold-microsoft.com-1970393557041943",
@@ -1249,6 +1249,14 @@
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
         "level": "senior",
         "firstSeen": "2026-10-16"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557016561",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+        "level": "senior",
+        "firstSeen": "2026-10-06"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040189",
@@ -2188,6 +2196,14 @@
       }
     ],
     "Zensar": [
+      {
+        "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-152753",
+        "title": "Digital Product Owner - B2B",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/152753",
+        "level": "pm",
+        "firstSeen": "2026-10-26"
+      },
       {
         "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-152758",
         "title": "ESaaS - MSD -Functional - D365 ERP Product Owner/Scrum Master",
