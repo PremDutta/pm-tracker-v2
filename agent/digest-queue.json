@@ -1,42 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-peakxv-2028b73c-2ae0-4fca-903e-481b8c500629",
-      "title": "Senior Product Manager",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/2028b73c-2ae0-4fca-903e-481b8c500629",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "vc-peakxv-97ce9e5a-a8bb-446d-a8db-9078603b106f",
-      "title": "Senior Product Manager - Data & Analytics Platform",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/97ce9e5a-a8bb-446d-a8db-9078603b106f",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "vc-accel-80553651",
-      "title": "Lead Product Manager",
-      "company": "Webroot",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://careers.opentext.com/us/en/job/51952",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "vc-lightspeed-4736965005",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
-      "source": "VC board (Lightspeed portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "vc-lightspeed-4729533005",
       "title": "Product Manager II - Ads",
       "company": "Razorpay",
@@ -3624,6 +3588,42 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7777102003?gh_jid=7777102003",
       "source": "Greenhouse (Celonis)",
       "queuedOn": "2026-10-26"
+    },
+    {
+      "id": "ashby-photoroom-9bf0b49f-b54c-40fb-90d4-b568b7482c64",
+      "title": "Staff Product Manager, Agentic & AI Platform",
+      "company": "Photoroom",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/photoroom/9bf0b49f-b54c-40fb-90d4-b568b7482c64",
+      "source": "Ashby (Photoroom)",
+      "queuedOn": "2026-10-27"
+    },
+    {
+      "id": "ashby-photoroom-f3934b79-3cde-450d-b8bb-548aa7bfd43f",
+      "title": "Senior Product Manager, SMB e-commerce Growth",
+      "company": "Photoroom",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/photoroom/f3934b79-3cde-450d-b8bb-548aa7bfd43f",
+      "source": "Ashby (Photoroom)",
+      "queuedOn": "2026-10-27"
+    },
+    {
+      "id": "ashby-photoroom-a7dbe175-07fc-43c7-8061-4e7e9bfc1d2a",
+      "title": "Senior Product Manager, Core Product",
+      "company": "Photoroom",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/photoroom/a7dbe175-07fc-43c7-8061-4e7e9bfc1d2a",
+      "source": "Ashby (Photoroom)",
+      "queuedOn": "2026-10-27"
+    },
+    {
+      "id": "vc-lightspeed-373A0BA7B9",
+      "title": "Associate Product Manager",
+      "company": "apna",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://apply.workable.com/j/373A0BA7B9",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-10-27"
     }
   ],
   "signals": [

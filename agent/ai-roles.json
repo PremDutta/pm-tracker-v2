@@ -45,17 +45,6 @@
       "firstSeen": "2026-10-25"
     },
     {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-25"
-    },
-    {
       "id": "vc-lightspeed-4726336005",
       "title": "Product Manager",
       "company": "Glean",
@@ -97,17 +86,6 @@
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
-      "firstSeen": "2026-10-25"
-    },
-    {
-      "id": "vc-peakxv-lbtWSkK_VfSx",
-      "title": "AI Native Product Manager",
-      "company": "Leap Finance",
-      "location": "Bengaluru, India",
-      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
       "firstSeen": "2026-10-25"
     },
     {
@@ -199,28 +177,6 @@
       "firstSeen": "2026-10-25"
     },
     {
-      "id": "vc-peakxv-8041196002",
-      "title": "Product Manager",
-      "company": "Sigmoid",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-25"
-    },
-    {
-      "id": "vc-peakxv-137246",
-      "title": "AI PRODUCT MANAGER",
-      "company": "TestMu",
-      "location": "Noida, UP, India",
-      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-25"
-    },
-    {
       "id": "workday-autodesk-/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
       "title": "Senior Product Manager, GTM Automation",
       "company": "Autodesk",
@@ -248,17 +204,6 @@
       "company": "HPE",
       "location": "Bengaluru, Karnātaka, India",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager---Cloud-SRX-Firewall_1209735-2",
-      "source": "Workday (HPE)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Support-Insights_1209606-2",
-      "title": "Product Manager - Support Insights",
-      "company": "HPE",
-      "location": "Bengaluru, Karnātaka, India",
-      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager---Support-Insights_1209606-2",
       "source": "Workday (HPE)",
       "level": "pm",
       "aiMatch": "company",
@@ -621,7 +566,7 @@
       "title": "Global Product Lead, Support Tools, Global Business Applied AI, GTM",
       "company": "Google",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=28",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=27",
       "source": "VC board (Accel portfolio)",
       "level": "group",
       "aiMatch": "title",
@@ -637,17 +582,6 @@
       "level": "group",
       "aiMatch": "title",
       "firstSeen": "2026-10-09"
-    },
-    {
-      "id": "ashby-elevenlabs-934dbe9d-1c1f-4939-944a-6671469009db",
-      "title": "Enterprise Product Manager - ElevenCreative",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db",
-      "source": "Ashby (ElevenLabs)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-07"
     },
     {
       "id": "greenhouse-inmobi-8232722",
@@ -734,17 +668,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10504461/principal-product-manager-tech-ai-multi-channel-commerce-amazon-smart-commerce",
       "source": "Amazon careers",
       "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "amazon-3193772",
-      "title": "Sr. Product Manager, Progression Intelligence",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/3193772/sr-product-manager-progression-intelligence",
-      "source": "Amazon careers",
-      "level": "senior",
       "aiMatch": "title",
       "firstSeen": "2026-10-05"
     },
@@ -864,17 +787,6 @@
       "company": "HCLTech",
       "location": "Pune",
       "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/144729-en_US/",
-      "source": "HCLTech careers",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "sf-careers.hcltech.com-168180",
-      "title": "AI Product Manager I",
-      "company": "HCLTech",
-      "location": "Noida",
-      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/168180-en_US/",
       "source": "HCLTech careers",
       "level": "pm",
       "aiMatch": "title",

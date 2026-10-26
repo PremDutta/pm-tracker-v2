@@ -15,6 +15,14 @@
       "detail": "via Entrackr"
     },
     {
+      "type": "funding",
+      "company": "Matiks",
+      "title": "Social gaming startup Matiks raises $10 Mn in Pre-Series A led by General Catalyst",
+      "url": "https://entrackr.com/news/social-gaming-startup-matiks-raises-10-mn-in-pre-series-a-led-by-general-catalyst-12754114",
+      "date": "2026-10-26",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Oracle",
       "date": "2026-10-26",
@@ -29,6 +37,14 @@
       "detail": "via Entrackr"
     },
     {
+      "type": "funding",
+      "company": "ReplyAll",
+      "title": "D2C apparel brand ReplyAll raises Rs 9.7 Cr in pre-Series A round",
+      "url": "https://entrackr.com/snippets/d2c-apparel-brand-replyall-raises-rs-97-cr-in-pre-series-a-round-12754832",
+      "date": "2026-10-26",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "reopened",
       "company": "ServiceNow",
       "date": "2026-10-26",
@@ -36,6 +52,14 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157721999",
       "id": "smartrecruiters-ServiceNow-744000157721999",
       "detail": "closed 2026-10-16, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "Tradl",
+      "title": "Exclusive: AI-Powered Trading Platform Tradl Bags $4.1 Mn From Nexus, Stellaris",
+      "url": "https://inc42.com/buzz/exclusive-ai-powered-trading-platform-tradl-bags-4-1-mn-from-nexus-stellaris/",
+      "date": "2026-10-26",
+      "detail": "via Inc42"
     },
     {
       "type": "eng_spike",
@@ -268,6 +292,14 @@
       "url": "https://entrackr.com/news/the-pant-project-raises-rs-109-cr-in-series-b-led-by-mirae-asset-12688468",
       "date": "2026-10-19",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "The Pant Project",
+      "title": "The Pant Project bags Rs 109 Cr to accelerate retail expansion",
+      "url": "https://yourstory.com/2026/10/the-pant-project-bags-rs-109-cr-to-accelerate-retail-expansion",
+      "date": "2026-10-19",
+      "detail": "via YourStory"
     },
     {
       "type": "eng_spike",

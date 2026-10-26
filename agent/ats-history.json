@@ -119,8 +119,8 @@
           "eng": 44
         },
         "2026-10-26": {
-          "total": 109,
-          "eng": 44
+          "total": 111,
+          "eng": 45
         }
       },
       "pm": {
@@ -333,8 +333,8 @@
           "eng": 282
         },
         "2026-10-26": {
-          "total": 682,
-          "eng": 282
+          "total": 678,
+          "eng": 280
         }
       },
       "pm": {
@@ -1423,7 +1423,7 @@
           "eng": 75
         },
         "2026-10-26": {
-          "total": 170,
+          "total": 166,
           "eng": 75
         }
       },
@@ -1484,13 +1484,15 @@
           "ids": [
             "greenhouse-scaleai-4720213005"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "senior ai product manager finance agents": {
           "ids": [
             "greenhouse-scaleai-4611776005"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "staff product manager agentic platform": {
           "ids": [
@@ -1647,21 +1649,24 @@
         "senior product manager smb e commerce growth": {
           "ids": [
             "ashby-photoroom-cfe36a59-a475-44dd-925b-5cb4f93ec831",
-            "ashby-photoroom-022b6f5b-bb46-45b7-801a-8a5f3b92a968"
+            "ashby-photoroom-022b6f5b-bb46-45b7-801a-8a5f3b92a968",
+            "ashby-photoroom-f3934b79-3cde-450d-b8bb-548aa7bfd43f"
           ],
           "lastSeen": "2026-10-26"
         },
         "senior product manager core product": {
           "ids": [
             "ashby-photoroom-3bd8a6ab-496b-4f54-b9df-eb0b13fb46d2",
-            "ashby-photoroom-d075be71-4a2d-489a-9879-18e43363094e"
+            "ashby-photoroom-d075be71-4a2d-489a-9879-18e43363094e",
+            "ashby-photoroom-a7dbe175-07fc-43c7-8061-4e7e9bfc1d2a"
           ],
           "lastSeen": "2026-10-26"
         },
         "staff product manager agentic ai platform": {
           "ids": [
             "ashby-photoroom-e51e28e4-b740-44d6-922a-8a7b00a245a8",
-            "ashby-photoroom-7c34d35a-c405-4d19-bd6a-38f8dd2081a7"
+            "ashby-photoroom-7c34d35a-c405-4d19-bd6a-38f8dd2081a7",
+            "ashby-photoroom-9bf0b49f-b54c-40fb-90d4-b568b7482c64"
           ],
           "lastSeen": "2026-10-26"
         },
@@ -1792,7 +1797,7 @@
           "eng": 2
         },
         "2026-10-26": {
-          "total": 10,
+          "total": 9,
           "eng": 2
         }
       },
@@ -2081,8 +2086,8 @@
           "eng": 47
         },
         "2026-10-26": {
-          "total": 154,
-          "eng": 41
+          "total": 151,
+          "eng": 42
         }
       },
       "pm": {
@@ -2090,7 +2095,8 @@
           "ids": [
             "ashby-elevenlabs-934dbe9d-1c1f-4939-944a-6671469009db"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "self serve product manager elevencreative": {
           "ids": [
@@ -2226,8 +2232,8 @@
           "eng": 29
         },
         "2026-10-26": {
-          "total": 46,
-          "eng": 29
+          "total": 47,
+          "eng": 30
         }
       },
       "pm": {
@@ -2365,8 +2371,8 @@
           "eng": 29
         },
         "2026-10-26": {
-          "total": 138,
-          "eng": 28
+          "total": 140,
+          "eng": 29
         }
       },
       "pm": {
@@ -2681,7 +2687,7 @@
           "eng": 50
         },
         "2026-10-26": {
-          "total": 141,
+          "total": 140,
           "eng": 50
         }
       },
@@ -2826,8 +2832,8 @@
           "eng": 423
         },
         "2026-10-26": {
-          "total": 790,
-          "eng": 422
+          "total": 795,
+          "eng": 425
         }
       },
       "pm": {
@@ -3041,7 +3047,7 @@
           "eng": 40
         },
         "2026-10-26": {
-          "total": 167,
+          "total": 173,
           "eng": 40
         }
       },
@@ -3864,7 +3870,7 @@
           "eng": 7
         },
         "2026-10-26": {
-          "total": 57,
+          "total": 54,
           "eng": 7
         }
       },
@@ -4882,8 +4888,8 @@
           "eng": 3
         },
         "2026-10-26": {
-          "total": 27,
-          "eng": 2
+          "total": 26,
+          "eng": 1
         }
       },
       "pm": {
@@ -5708,7 +5714,7 @@
         },
         "2026-10-26": {
           "total": 91,
-          "eng": 5
+          "eng": 6
         }
       },
       "pm": {
@@ -6525,7 +6531,7 @@
           "eng": 22
         },
         "2026-10-26": {
-          "total": 70,
+          "total": 69,
           "eng": 23
         }
       },
@@ -7596,7 +7602,7 @@
           "eng": 17
         },
         "2026-10-26": {
-          "total": 47,
+          "total": 46,
           "eng": 15
         }
       },
@@ -8238,7 +8244,7 @@
         },
         "2026-10-26": {
           "total": 100,
-          "eng": 29
+          "eng": 30
         }
       },
       "pm": {
@@ -8835,7 +8841,7 @@
           "eng": 1
         },
         "2026-10-26": {
-          "total": 8,
+          "total": 9,
           "eng": 2
         }
       },
@@ -9095,8 +9101,8 @@
           "eng": 0
         },
         "2026-10-26": {
-          "total": 3,
-          "eng": 0
+          "total": 4,
+          "eng": 1
         }
       },
       "pm": {
@@ -10097,7 +10103,7 @@
         },
         "2026-10-26": {
           "total": 100,
-          "eng": 39
+          "eng": 35
         }
       },
       "pm": {
@@ -10508,8 +10514,8 @@
           "eng": 75
         },
         "2026-10-26": {
-          "total": 151,
-          "eng": 79
+          "total": 150,
+          "eng": 77
         }
       },
       "pm": {
@@ -10775,7 +10781,7 @@
           "eng": 5
         },
         "2026-10-26": {
-          "total": 22,
+          "total": 23,
           "eng": 5
         }
       },
@@ -11586,8 +11592,8 @@
           "eng": 36
         },
         "2026-10-26": {
-          "total": 102,
-          "eng": 34
+          "total": 103,
+          "eng": 35
         }
       },
       "pm": {
@@ -12032,7 +12038,7 @@
           "eng": 7
         },
         "2026-10-26": {
-          "total": 25,
+          "total": 24,
           "eng": 8
         }
       },
@@ -12566,7 +12572,7 @@
         },
         "2026-10-26": {
           "total": 60,
-          "eng": 9
+          "eng": 8
         }
       },
       "pm": {
@@ -12760,7 +12766,7 @@
           "eng": 18
         },
         "2026-10-26": {
-          "total": 88,
+          "total": 87,
           "eng": 22
         }
       },
@@ -12975,8 +12981,8 @@
           "eng": 48
         },
         "2026-10-26": {
-          "total": 94,
-          "eng": 47
+          "total": 89,
+          "eng": 44
         }
       },
       "pm": {
@@ -13106,8 +13112,8 @@
           "spike": true
         },
         "2026-10-26": {
-          "total": 198,
-          "eng": 47,
+          "total": 200,
+          "eng": 136,
           "spike": true
         }
       },
@@ -13118,7 +13124,8 @@
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5822106-S2072465-1"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "product management analyst": {
           "ids": [
@@ -13131,7 +13138,8 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "ai product management practitioner": {
           "ids": [
@@ -13139,7 +13147,8 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
@@ -13159,7 +13168,8 @@
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Senior-Manager-Pre-Sales_R00365643-1"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         }
       }
     },
@@ -13270,8 +13280,8 @@
           "eng": 43
         },
         "2026-10-26": {
-          "total": 75,
-          "eng": 44
+          "total": 77,
+          "eng": 45
         }
       },
       "pm": {
@@ -13856,7 +13866,7 @@
           "eng": 6
         },
         "2026-10-26": {
-          "total": 14,
+          "total": 13,
           "eng": 5
         }
       },
@@ -13962,8 +13972,8 @@
           "eng": 569
         },
         "2026-10-26": {
-          "total": 893,
-          "eng": 568
+          "total": 899,
+          "eng": 570
         }
       },
       "pm": {
@@ -14248,8 +14258,8 @@
           "eng": 21
         },
         "2026-10-26": {
-          "total": 38,
-          "eng": 21
+          "total": 39,
+          "eng": 22
         }
       },
       "pm": {
@@ -14354,8 +14364,8 @@
           "eng": 47
         },
         "2026-10-26": {
-          "total": 130,
-          "eng": 46
+          "total": 132,
+          "eng": 47
         }
       },
       "pm": {
@@ -14624,7 +14634,7 @@
           "eng": 7
         },
         "2026-10-26": {
-          "total": 18,
+          "total": 17,
           "eng": 6
         }
       },
@@ -14738,7 +14748,7 @@
           "eng": 5
         },
         "2026-10-26": {
-          "total": 11,
+          "total": 10,
           "eng": 5
         }
       },
@@ -14838,7 +14848,7 @@
           "eng": 32
         },
         "2026-10-26": {
-          "total": 67,
+          "total": 68,
           "eng": 33
         }
       },
@@ -15259,7 +15269,7 @@
         },
         "2026-10-26": {
           "total": 14,
-          "eng": 5
+          "eng": 6
         }
       },
       "pm": {
@@ -15273,7 +15283,8 @@
           "ids": [
             "greenhouse-karat-8842934002"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "senior product manager recruiter experience": {
           "ids": [
@@ -15554,8 +15565,8 @@
           "eng": 168
         },
         "2026-10-26": {
-          "total": 380,
-          "eng": 167
+          "total": 367,
+          "eng": 157
         }
       },
       "pm": {
@@ -15617,7 +15628,8 @@
             "greenhouse-mongodb-8028593",
             "greenhouse-mongodb-8028587"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "sr director it product management post sales and partner technology": {
           "ids": [
@@ -15773,7 +15785,7 @@
           "eng": 28
         },
         "2026-10-26": {
-          "total": 59,
+          "total": 60,
           "eng": 28
         }
       },
@@ -16106,7 +16118,7 @@
           "eng": 3
         },
         "2026-10-26": {
-          "total": 9,
+          "total": 8,
           "eng": 3
         }
       },
@@ -16199,7 +16211,7 @@
           "eng": 39
         },
         "2026-10-26": {
-          "total": 79,
+          "total": 80,
           "eng": 38
         }
       },
@@ -16318,7 +16330,7 @@
         },
         "2026-10-26": {
           "total": 200,
-          "eng": 105
+          "eng": 107
         }
       },
       "pm": {
@@ -16338,7 +16350,8 @@
           "ids": [
             "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Support-Insights_1209606-2"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "product manager cloud srx firewall": {
           "ids": [
@@ -16454,7 +16467,7 @@
           "eng": 40
         },
         "2026-10-26": {
-          "total": 147,
+          "total": 148,
           "eng": 40
         }
       },
@@ -16623,7 +16636,7 @@
           "eng": 198
         },
         "2026-10-26": {
-          "total": 649,
+          "total": 652,
           "eng": 199
         }
       },
@@ -17169,8 +17182,8 @@
           "eng": 183
         },
         "2026-10-26": {
-          "total": 355,
-          "eng": 183
+          "total": 354,
+          "eng": 184
         }
       },
       "pm": {
@@ -17227,7 +17240,8 @@
           "ids": [
             "ashby-snowflake-4dccc2f2-48b2-4c2e-ae37-c7368e77a6d6"
           ],
-          "lastSeen": "2026-10-26"
+          "lastSeen": "2026-10-26",
+          "closedOn": "2026-10-26"
         },
         "staff product manager": {
           "ids": [
@@ -17466,8 +17480,8 @@
           "eng": 36
         },
         "2026-10-26": {
-          "total": 104,
-          "eng": 36
+          "total": 103,
+          "eng": 35
         }
       },
       "pm": {
@@ -17807,7 +17821,7 @@
           "eng": 19
         },
         "2026-10-26": {
-          "total": 373,
+          "total": 375,
           "eng": 19
         }
       },
@@ -17938,7 +17952,7 @@
           "eng": 5
         },
         "2026-10-26": {
-          "total": 17,
+          "total": 19,
           "eng": 5
         }
       },
@@ -18080,7 +18094,7 @@
           "eng": 3
         },
         "2026-10-26": {
-          "total": 14,
+          "total": 12,
           "eng": 3
         }
       },
@@ -18109,7 +18123,7 @@
           "eng": 136
         },
         "2026-10-26": {
-          "total": 508,
+          "total": 510,
           "eng": 138
         }
       },
@@ -18222,6 +18236,12 @@
           ],
           "lastSeen": "2026-10-25",
           "closedOn": "2026-10-26"
+        },
+        "staff senior product manager payments": {
+          "ids": [
+            "ashby-airwallex-fc1158b4-bbc3-4406-ae57-d85fb60bc613"
+          ],
+          "lastSeen": "2026-10-26"
         }
       }
     },
@@ -18248,7 +18268,7 @@
           "eng": 21
         },
         "2026-10-26": {
-          "total": 97,
+          "total": 99,
           "eng": 21
         }
       },
@@ -18368,8 +18388,8 @@
           "eng": 6
         },
         "2026-10-26": {
-          "total": 30,
-          "eng": 6
+          "total": 29,
+          "eng": 5
         }
       },
       "pm": {
@@ -18518,7 +18538,7 @@
           "eng": 5
         },
         "2026-10-26": {
-          "total": 113,
+          "total": 114,
           "eng": 5
         }
       },
@@ -18727,7 +18747,7 @@
           "eng": 7
         },
         "2026-10-26": {
-          "total": 47,
+          "total": 46,
           "eng": 7
         }
       },
@@ -18812,6 +18832,12 @@
             "smartrecruiters-DeliveryHero-744000157739219"
           ],
           "lastSeen": "2026-10-26"
+        },
+        "product manager": {
+          "ids": [
+            "smartrecruiters-DeliveryHero-744000157841650"
+          ],
+          "lastSeen": "2026-10-26"
         }
       }
     },
@@ -18880,7 +18906,7 @@
           "eng": 6
         },
         "2026-10-26": {
-          "total": 13,
+          "total": 14,
           "eng": 6
         }
       },
@@ -18889,7 +18915,7 @@
     "Adyen": {
       "daily": {
         "2026-10-26": {
-          "total": 245,
+          "total": 247,
           "eng": 69
         }
       },
@@ -18995,6 +19021,12 @@
             "greenhouse-adyen-8098423"
           ],
           "lastSeen": "2026-10-26"
+        },
+        "senior product manager data machine learning genai platform": {
+          "ids": [
+            "greenhouse-adyen-8164042"
+          ],
+          "lastSeen": "2026-10-26"
         }
       }
     },
@@ -19010,8 +19042,8 @@
     "Celonis": {
       "daily": {
         "2026-10-26": {
-          "total": 220,
-          "eng": 131
+          "total": 224,
+          "eng": 132
         }
       },
       "pm": {
@@ -19038,8 +19070,8 @@
     "GitLab": {
       "daily": {
         "2026-10-26": {
-          "total": 239,
-          "eng": 120
+          "total": 240,
+          "eng": 119
         }
       },
       "pm": {
@@ -19096,6 +19128,12 @@
             "greenhouse-gitlab-8612937002"
           ],
           "lastSeen": "2026-10-26"
+        },
+        "senior product manager secret detection and vulnerability research": {
+          "ids": [
+            "greenhouse-gitlab-8697043002"
+          ],
+          "lastSeen": "2026-10-26"
         }
       }
     },
@@ -19136,8 +19174,8 @@
     "Mollie": {
       "daily": {
         "2026-10-26": {
-          "total": 52,
-          "eng": 19
+          "total": 51,
+          "eng": 18
         }
       },
       "pm": {
@@ -19230,7 +19268,7 @@
       "daily": {
         "2026-10-26": {
           "total": 100,
-          "eng": 29
+          "eng": 30
         }
       },
       "pm": {}

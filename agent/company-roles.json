@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-26T13:10:15.453Z",
+  "scannedAt": "2026-10-26T22:23:03.095Z",
   "roles": {
     "Amazon": [
       {
@@ -227,20 +227,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10576706",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "amazon-10431401",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10576706",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
       },
       {
         "id": "amazon-10499561",
@@ -475,14 +475,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-3193772",
-        "title": "Sr. Product Manager, Progression Intelligence",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/3193772/sr-product-manager-progression-intelligence",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10588360",
         "title": "Sr. Product Manager, Progression Intelligence",
         "location": "Bengaluru, Karnataka, IND",
@@ -677,14 +669,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-168180",
-        "title": "AI Product Manager I",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/168180-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-157248",
         "title": "AI Product Manager I",
         "location": "Pune",
@@ -741,20 +725,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-178154",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/178154-en_US/",
-        "level": "group",
-        "firstSeen": "2026-10-08"
-      },
-      {
         "id": "sf-careers.hcltech.com-181759",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/181759-en_US/",
         "level": "group",
         "firstSeen": "2026-10-15"
+      },
+      {
+        "id": "sf-careers.hcltech.com-178154",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/178154-en_US/",
+        "level": "group",
+        "firstSeen": "2026-10-08"
       },
       {
         "id": "sf-careers.hcltech.com-158025",
@@ -839,14 +823,6 @@
         "title": "Product Manager - Cloud SRX Firewall",
         "location": "Bengaluru, Karnātaka, India",
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager---Cloud-SRX-Firewall_1209735-2",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
-      },
-      {
-        "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Support-Insights_1209606-2",
-        "title": "Product Manager - Support Insights",
-        "location": "Bengaluru, Karnātaka, India",
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager---Support-Insights_1209606-2",
         "level": "pm",
         "firstSeen": "2026-10-05"
       },
