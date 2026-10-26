@@ -18,6 +18,18 @@
     }
   },
   {
+    "name": "Adyen",
+    "ats": "greenhouse",
+    "slug": "adyen",
+    "sector": "netherlands"
+  },
+  {
+    "name": "AI71",
+    "ats": "greenhouse",
+    "slug": "ai71",
+    "sector": "uae"
+  },
+  {
     "name": "Airwallex",
     "ats": "ashby",
     "slug": "airwallex",
@@ -73,6 +85,12 @@
     "ats": "smartrecruiters",
     "slug": "carousellgroup",
     "sector": "singapore"
+  },
+  {
+    "name": "Celonis",
+    "ats": "greenhouse",
+    "slug": "celonis",
+    "sector": "germany"
   },
   {
     "name": "Cisco",
@@ -143,6 +161,15 @@
     "sector": "saas"
   },
   {
+    "name": "e& (etisalat)",
+    "ats": "oracle",
+    "slug": {
+      "host": "iaayey.fa.ocs.oraclecloud26.com",
+      "siteNumber": "CX_1"
+    },
+    "sector": "uae"
+  },
+  {
     "name": "Ema",
     "ats": "ashby",
     "slug": "ema",
@@ -181,6 +208,12 @@
     "ats": "workable",
     "slug": "fundingsocieties",
     "sector": "singapore"
+  },
+  {
+    "name": "GitLab",
+    "ats": "greenhouse",
+    "slug": "gitlab",
+    "sector": "remote"
   },
   {
     "name": "Glance",
@@ -342,6 +375,21 @@
     }
   },
   {
+    "name": "MBC Group (Shahid)",
+    "ats": "oracle",
+    "slug": {
+      "host": "ehff.fa.em2.oraclecloud.com",
+      "siteNumber": "CX_2001"
+    },
+    "sector": "uae"
+  },
+  {
+    "name": "MBZUAI",
+    "ats": "lever",
+    "slug": "ifm-us",
+    "sector": "uae"
+  },
+  {
     "name": "Meesho",
     "ats": "lever",
     "slug": "meesho",
@@ -374,6 +422,12 @@
     "sector": "saas"
   },
   {
+    "name": "Mollie",
+    "ats": "ashby",
+    "slug": "mollie",
+    "sector": "netherlands"
+  },
+  {
     "name": "MongoDB",
     "ats": "greenhouse",
     "slug": "mongodb",
@@ -396,6 +450,12 @@
       "site": "Careers"
     },
     "sector": "ai"
+  },
+  {
+    "name": "N26",
+    "ats": "greenhouse",
+    "slug": "n26",
+    "sector": "germany"
   },
   {
     "name": "Netomi",
@@ -504,6 +564,15 @@
       "site": "careers"
     },
     "sector": "saas"
+  },
+  {
+    "name": "Presight",
+    "ats": "oracle",
+    "slug": {
+      "host": "iaambv.fa.ocs.oraclecloud.com",
+      "siteNumber": "CX_1"
+    },
+    "sector": "uae"
   },
   {
     "name": "PwC India",
@@ -640,6 +709,12 @@
     "sector": "ecommerce"
   },
   {
+    "name": "Synthesia",
+    "ats": "ashby",
+    "slug": "synthesia",
+    "sector": "uk"
+  },
+  {
     "name": "Talabat (Delivery Hero)",
     "ats": "smartrecruiters",
     "slug": "DeliveryHero",
@@ -735,6 +810,12 @@
       "host": "careers.wipro.com",
       "location": "India"
     }
+  },
+  {
+    "name": "Wise",
+    "ats": "smartrecruiters",
+    "slug": "wise",
+    "sector": "uk"
   },
   {
     "name": "Xendit",

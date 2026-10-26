@@ -55,6 +55,24 @@
       "readable": true
     },
     {
+      "name": "Adyen",
+      "group": "global",
+      "sector": "netherlands",
+      "careersUrl": "https://careers.adyen.com/vacancies",
+      "ats": "greenhouse",
+      "slug": "adyen",
+      "readable": true
+    },
+    {
+      "name": "AI71",
+      "group": "global",
+      "sector": "uae",
+      "careersUrl": "https://www.ai71.ai/careers/",
+      "ats": "greenhouse",
+      "slug": "ai71",
+      "readable": true
+    },
+    {
       "name": "Airtel",
       "group": "indian_enterprise",
       "careersUrl": "https://careers.airtel.com/",
@@ -221,6 +239,22 @@
       "readable": false
     },
     {
+      "name": "Bolt",
+      "group": "global",
+      "sector": "europe",
+      "careersUrl": "https://bolt.eu/en/careers/positions/",
+      "ats": "custom (in-house)",
+      "readable": false
+    },
+    {
+      "name": "Booking.com",
+      "group": "global",
+      "sector": "netherlands",
+      "careersUrl": "https://jobs.booking.com/booking/jobs",
+      "ats": "icims (jibe/icims attract)",
+      "readable": false
+    },
+    {
       "name": "Browserstack",
       "group": "unicorn",
       "careersUrl": "https://www.browserstack.com/careers",
@@ -283,6 +317,15 @@
       "ats": "custom",
       "sector": "ecommerce",
       "readable": false
+    },
+    {
+      "name": "Celonis",
+      "group": "global",
+      "sector": "germany",
+      "careersUrl": "https://careers.celonis.com/",
+      "ats": "greenhouse",
+      "slug": "celonis",
+      "readable": true
     },
     {
       "name": "Chargebee",
@@ -371,6 +414,14 @@
       "readable": true
     },
     {
+      "name": "Core42",
+      "group": "global",
+      "sector": "uae",
+      "careersUrl": "https://careers.core42.ai/search",
+      "ats": "successfactors",
+      "readable": false
+    },
+    {
       "name": "Couchbase",
       "group": "ai",
       "sector": "ai",
@@ -447,6 +498,14 @@
       "note": "No careers page of its own found: LinkedIn jobs"
     },
     {
+      "name": "Deel",
+      "group": "global",
+      "sector": "remote",
+      "careersUrl": "https://jobs.deel.com/job-boards/deel",
+      "ats": "deel (deel ats, ex-ashby)",
+      "readable": false
+    },
+    {
       "name": "Delhivery",
       "group": "unicorn",
       "careersUrl": "https://careers.delhivery.com/",
@@ -505,6 +564,18 @@
       "ats": "greenhouse",
       "sector": "saas",
       "slug": "druva",
+      "readable": true
+    },
+    {
+      "name": "e& (etisalat)",
+      "group": "global",
+      "sector": "uae",
+      "careersUrl": "https://careers.etisalat.ae/en/index.html",
+      "ats": "oracle",
+      "slug": {
+        "host": "iaayey.fa.ocs.oraclecloud26.com",
+        "siteNumber": "CX_1"
+      },
       "readable": true
     },
     {
@@ -651,12 +722,29 @@
       "readable": true
     },
     {
+      "name": "G42",
+      "group": "global",
+      "sector": "uae",
+      "careersUrl": "https://careers.g42.ai/global/en",
+      "ats": "phenom",
+      "readable": false
+    },
+    {
       "name": "Games24x7",
       "group": "unicorn",
       "careersUrl": "https://www.games24x7.com/life#join-us",
       "ats": "unknown",
       "sector": "gaming",
       "readable": false
+    },
+    {
+      "name": "GitLab",
+      "group": "global",
+      "sector": "remote",
+      "careersUrl": "https://about.gitlab.com/jobs/all-jobs/",
+      "ats": "greenhouse",
+      "slug": "gitlab",
+      "readable": true
     },
     {
       "name": "Glance",
@@ -985,6 +1073,14 @@
       "readable": false
     },
     {
+      "name": "Klarna",
+      "group": "global",
+      "sector": "nordics",
+      "careersUrl": "https://jobs.deel.com/job-boards/klarna",
+      "ats": "deel (deel ats)",
+      "readable": false
+    },
+    {
       "name": "Kore.ai",
       "group": "ai",
       "sector": "ai",
@@ -1150,6 +1246,27 @@
       "readable": true
     },
     {
+      "name": "MBC Group (Shahid)",
+      "group": "global",
+      "sector": "uae",
+      "careersUrl": "https://www.mbc.net/en/careers",
+      "ats": "oracle",
+      "slug": {
+        "host": "ehff.fa.em2.oraclecloud.com",
+        "siteNumber": "CX_2001"
+      },
+      "readable": true
+    },
+    {
+      "name": "MBZUAI",
+      "group": "global",
+      "sector": "uae",
+      "careersUrl": "https://careers.mbzuai.ac.ae/vacancies/",
+      "ats": "lever",
+      "slug": "ifm-us",
+      "readable": true
+    },
+    {
       "name": "Meesho",
       "group": "unicorn",
       "careersUrl": "https://www.meesho.io/jobs",
@@ -1232,6 +1349,15 @@
       "readable": false
     },
     {
+      "name": "Mollie",
+      "group": "global",
+      "sector": "netherlands",
+      "careersUrl": "https://jobs.ashbyhq.com/mollie",
+      "ats": "ashby",
+      "slug": "mollie",
+      "readable": true
+    },
+    {
       "name": "Money View",
       "group": "unicorn",
       "careersUrl": "https://moneyview.darwinbox.in/ms/candidate/careers",
@@ -1288,6 +1414,15 @@
       "ats": "custom",
       "sector": "other",
       "readable": false
+    },
+    {
+      "name": "N26",
+      "group": "global",
+      "sector": "germany",
+      "careersUrl": "https://n26.com/en/careers",
+      "ats": "greenhouse",
+      "slug": "n26",
+      "readable": true
     },
     {
       "name": "Netomi",
@@ -1471,6 +1606,14 @@
       "readable": true
     },
     {
+      "name": "OSN+",
+      "group": "global",
+      "sector": "uae",
+      "careersUrl": "https://osnplus.com/en-ae/careers",
+      "ats": "workable",
+      "readable": false
+    },
+    {
       "name": "Oxyzo",
       "group": "unicorn",
       "careersUrl": "https://www.oxyzo.in/careers",
@@ -1553,6 +1696,14 @@
       "note": "Darwinbox careers site blocks automated reads: check it directly."
     },
     {
+      "name": "Picnic",
+      "group": "global",
+      "sector": "netherlands",
+      "careersUrl": "https://jobs.picnic.app/en/vacancies",
+      "ats": "custom (in-house site)",
+      "readable": false
+    },
+    {
       "name": "Pine Labs",
       "group": "unicorn",
       "careersUrl": "https://www.pinelabs.com/careers/open-jobs",
@@ -1598,6 +1749,18 @@
         "tenant": "postman",
         "wd": 108,
         "site": "careers"
+      },
+      "readable": true
+    },
+    {
+      "name": "Presight",
+      "group": "global",
+      "sector": "uae",
+      "careersUrl": "https://careers.presight.ai",
+      "ats": "oracle",
+      "slug": {
+        "host": "iaambv.fa.ocs.oraclecloud.com",
+        "siteNumber": "CX_1"
       },
       "readable": true
     },
@@ -1712,11 +1875,27 @@
       "readable": false
     },
     {
+      "name": "Remote (remote.com)",
+      "group": "global",
+      "sector": "remote",
+      "careersUrl": "https://remote.com/openings",
+      "ats": "custom (apply.remote.com, own ats)",
+      "readable": false
+    },
+    {
       "name": "ReNew",
       "group": "unicorn",
       "careersUrl": "https://careers.renew.com/",
       "ats": "custom",
       "sector": "other",
+      "readable": false
+    },
+    {
+      "name": "Revolut",
+      "group": "global",
+      "sector": "uk",
+      "careersUrl": "https://www.revolut.com/careers/",
+      "ats": "custom (in-house)",
       "readable": false
     },
     {
@@ -1969,6 +2148,15 @@
       "readable": true
     },
     {
+      "name": "Synthesia",
+      "group": "global",
+      "sector": "uk",
+      "careersUrl": "https://www.synthesia.io/careers",
+      "ats": "ashby",
+      "slug": "synthesia",
+      "readable": true
+    },
+    {
       "name": "Tabby",
       "group": "global",
       "sector": "gulf",
@@ -2036,6 +2224,14 @@
       "group": "it_services",
       "careersUrl": "https://careers.techmahindra.com/",
       "ats": "custom",
+      "readable": false
+    },
+    {
+      "name": "Technology Innovation Institute (TII)",
+      "group": "global",
+      "sector": "uae",
+      "careersUrl": "https://careers.tii.ae/us/en",
+      "ats": "phenom",
       "readable": false
     },
     {
@@ -2215,6 +2411,15 @@
       "readable": true
     },
     {
+      "name": "Wise",
+      "group": "global",
+      "sector": "uk",
+      "careersUrl": "https://wise.jobs/jobs",
+      "ats": "smartrecruiters",
+      "slug": "wise",
+      "readable": true
+    },
+    {
       "name": "Xendit",
       "group": "global",
       "sector": "singapore",
@@ -2247,6 +2452,14 @@
       "sector": "fintech",
       "slug": "go-yubi",
       "readable": true
+    },
+    {
+      "name": "Zalando",
+      "group": "global",
+      "sector": "germany",
+      "careersUrl": "https://jobs.zalando.com/en/jobs",
+      "ats": "custom (in-house next.js site)",
+      "readable": false
     },
     {
       "name": "Zendesk",

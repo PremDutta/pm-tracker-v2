@@ -8,7 +8,7 @@ import NewBadge from './NewBadge';
 export const GLOBAL_ROLES_URL = process.env.REACT_APP_GLOBAL_ROLES_URL || 'https://raw.githubusercontent.com/PremDutta/pm-tracker-v2/main/agent/global-roles.json';
 
 export const REGIONS = [
-  ['singapore', '🇸🇬 Singapore'], ['uae', '🇦🇪 UAE'], ['saudi', '🇸🇦 Saudi'], ['uk', '🇬🇧 UK'], ['europe', '🇪🇺 Europe'],
+  ['singapore', '🇸🇬 Singapore'], ['uae', '🇦🇪 UAE'], ['saudi', '🇸🇦 Saudi'], ['uk', '🇬🇧 UK'], ['netherlands', '🇳🇱 Netherlands'], ['germany', '🇩🇪 Germany'], ['ireland', '🇮🇪 Ireland'], ['nordics', '🇸🇪 Nordics'], ['europe', '🇪🇺 All Europe'],
   ['us', '🇺🇸 US'], ['canada', '🇨🇦 Canada'], ['australia', '🇦🇺 Australia'], ['apac', '🌏 Other APAC'],
 ];
 

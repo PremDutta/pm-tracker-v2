@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Zap, Globe, Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, Bell, ClipboardList, Building2, FileSearch, Landmark, Radar, Building, Bot } from 'lucide-react';
-import { getProfile, getTheme, setTheme as saveTheme } from './storage';
+import { getProfile, getTheme, setTheme as saveTheme, getHackLocation, setHackLocation } from './storage';
+import { DEFAULT_LOCATION } from './data/location';
 import Tracker from './components/Tracker';
 import Watchlist from './components/Watchlist';
 import ResumeMatch from './components/ResumeMatch';
@@ -47,6 +48,8 @@ export default function App() {
   const [profile, setProfileState] = useState(() => getProfile());
   const t = themes[theme];
   const role = roleByKeyword(selectedRole);
+  const [hackLoc, setHackLocState] = useState(() => getHackLocation(DEFAULT_LOCATION));
+  const setHackLoc = (loc) => { setHackLocState(loc); setHackLocation(loc); };
 
   useEffect(() => { setIsLoaded(true); }, []);
 
@@ -183,7 +186,7 @@ export default function App() {
         {activeTab==='govt' && <GovtTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
 
         {/* ── AI PM ── */}
-        {activeTab==='ai' && <AiPmTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} role={role} />}
+        {activeTab==='ai' && <AiPmTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} role={role} loc={hackLoc} setLoc={setHackLoc} />}
 
         {/* ── COMPANIES ── */}
         {activeTab==='companies' && <CompaniesTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} focus={focus} />}
@@ -201,7 +204,7 @@ export default function App() {
         {activeTab==='resumematch' && <ResumeMatch t={t} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} />}
 
         {/* ── HACKS ── */}
-        {activeTab==='hacks' && <HacksTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} isLoaded={isLoaded} role={role} focus={focus} />}
+        {activeTab==='hacks' && <HacksTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} isLoaded={isLoaded} role={role} focus={focus} loc={hackLoc} setLoc={setHackLoc} />}
 
         {/* ── ALERTS ── */}
         {activeTab==='alerts' && <AlertsTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} role={role} />}

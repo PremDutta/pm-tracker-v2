@@ -44,6 +44,8 @@ export const WHATS_NEW = [
   { id:'hack:greenhouse', date:'2026-09-29', tab:'hacks', title:'Greenhouse: new job-boards domain added' },
   { id:'hack:lever', date:'2026-09-29', tab:'hacks', title:'Lever: now India-filtered' },
   { id:'hack:workday', date:'2026-09-29', tab:'hacks', title:'Workday: all tenants, not just wd5' },
+  { id:'hacks:location', target:'hack-location', date:'2026-10-26', tab:'hacks', title:'Pick where to search: Indian cities or abroad', desc:'Every search string now follows a location picker: choose several cities (Noida, Gurugram, Delhi, Bengaluru, Hyderabad...) or a region abroad (Singapore, UAE, UK, Netherlands, Germany...)' },
+  { id:'intl:visa', target:'visa-guide', date:'2026-10-26', tab:'intl', title:'Relocation & visas guide', desc:'Visa routes for UAE, Netherlands, Germany, UK and Ireland, which companies sponsor PMs, and a ready-to-paste sponsorship line for recruiters' },
   { id:'nav:grouped', date:'2026-10-22', tab:'home', title:'A cleaner, sticky navigation bar', desc:'Tabs grouped into Find roles, Search and Apply, always visible as you scroll, with scroll arrows on small screens and a green dot for new tabs' },
   { id:'companies:global', companyGroup:'global', date:'2026-10-21', tab:'companies', title:'29 Singapore & Gulf employers', desc:'DBS, Grab, Airwallex, Crypto.com, Careem, Talabat, Tamara, Salla and more: 17 scanned every 6 hours, their roles show in the Global tab' },
   { id:'hacks:copy', date:'2026-10-21', tab:'hacks', title:'Copy search string or link', desc:'Every search card has a copy button inside the query box, plus Copy link: the full Google link with the time filter already applied' },

@@ -6,6 +6,8 @@ import { COMPANY_DIRECTORY } from '../data/companyDirectory';
 import { addApplication, getNetwork } from '../storage';
 import { ContactFlag } from '../components/Network';
 import HackCard from '../components/HackCard';
+import LocationPicker from '../components/LocationPicker';
+import { fillLocation } from '../data/location';
 import NewBadge from '../components/NewBadge';
 
 // Written every 6 hours by the scanner (agent/ai-roles.json): AI / ML / GenAI
@@ -22,7 +24,7 @@ export const LEVELS = [
 const LEVEL_LABEL = Object.fromEntries(LEVELS.map(l => [l.id, l.label]));
 const isFresh = (d) => d && Date.now() - new Date(`${d}T00:00:00`).getTime() <= 3 * 86_400_000;
 
-export default function AiPmTab({ t, theme, card, btnPrimary, btnSecondary, badge, role }) {
+export default function AiPmTab({ t, theme, card, btnPrimary, btnSecondary, badge, role, loc, setLoc }) {
   const [live, setLive] = useState({ status: 'loading', roles: [] });
   const [levels, setLevels] = useState([]);           // empty = all levels
   const [ycOnly, setYcOnly] = useState(false);
@@ -54,7 +56,7 @@ export default function AiPmTab({ t, theme, card, btnPrimary, btnSecondary, badg
     setTimeout(() => setLoggedId(null), 2000);
   };
 
-  const aiHacks = GOOGLE_HACKS.filter(h => h.category === 'ai').map(h => ({ ...h, query: fillRole(h.query, role) }));
+  const aiHacks = GOOGLE_HACKS.filter(h => h.category === 'ai').map(h => ({ ...h, ...fillLocation(fillRole(h.query, role), loc) }));
   const aiCompanies = COMPANY_DIRECTORY.filter(c => c.sector === 'ai');
   const chip = (active) => ({ padding:'7px 14px', borderRadius:'980px', border:`1px solid ${active ? t.accent : t.border}`, background:active ? t.accent : t.cardBg, color:active ? '#fff' : t.textSecondary, fontSize:'12px', fontWeight:'500', cursor:'pointer', whiteSpace:'nowrap' });
 
@@ -120,6 +122,7 @@ export default function AiPmTab({ t, theme, card, btnPrimary, btnSecondary, badg
       <h3 id="ai-searches" style={{ margin:'0 0 12px', fontSize:'18px', fontWeight:'600', scrollMarginTop:'140px' }}>
         🔍 AI PM searches <span style={{ fontSize:'13px', color:t.textSecondary, fontWeight:'400' }}>searching for {role.label} (switch at the top right)</span>
       </h3>
+      <LocationPicker t={t} loc={loc} onChange={setLoc} />
       <div style={{ display:'grid', gridTemplateColumns:'minmax(0,1fr)', gap:'14px', marginBottom:'28px' }}>
         {aiHacks.map((h, i) => <HackCard key={h.id} h={h} i={i} t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} />)}
       </div>

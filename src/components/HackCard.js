@@ -47,6 +47,7 @@ export default function HackCard({ h, i = 0, t, theme, card, btnPrimary, btnSeco
           {copied === 'query' ? <><Check size={12}/> Copied</> : <Copy size={13}/>}
         </button>
       </div>
+      {h.dropped?.length > 0 && <div style={{ fontSize:'11px', color:t.textTertiary, marginTop:'6px' }}>Left out to stay within Google's 32-word limit: {h.dropped.join(', ')}. Run it again with those cities selected.</div>}
       <div style={{ display:'flex', gap:'8px', marginTop:'10px', flexWrap:'wrap' }}>
         <button onClick={() => copy('query')} style={{ ...btnSecondary, padding:'7px 14px', fontSize:'12px' }}>
           {copied === 'query' ? <><Check size={12}/> Copied!</> : <><Copy size={12}/> Copy search string</>}

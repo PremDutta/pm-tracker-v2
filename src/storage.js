@@ -27,6 +27,11 @@ export const markReleasesSeen = (ids) => {
   return next;
 };
 
+// ─── Hacks search location (India cities / abroad region) ──────────────────
+const HACK_LOCATION_KEY = 'pmt_hack_location';
+export const getHackLocation = (fallback) => ({ ...fallback, ...safeGet(HACK_LOCATION_KEY, {}) });
+export const setHackLocation = (loc) => safeSet(HACK_LOCATION_KEY, loc);
+
 // ─── Theme: light by default, your last toggle remembered on this device ────
 const THEME_KEY = 'pmt_theme';
 export const getTheme = () => (safeGet(THEME_KEY, 'light') === 'dark' ? 'dark' : 'light');

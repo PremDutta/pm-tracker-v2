@@ -3,13 +3,15 @@ import { GOOGLE_HACKS, HACK_CATEGORIES } from '../data/googleHacks';
 import { fillRole } from '../data/roles';
 import NewBadge from '../components/NewBadge';
 import HackCard from '../components/HackCard';
+import LocationPicker from '../components/LocationPicker';
+import { fillLocation } from '../data/location';
 
-export default function HacksTab({ t, theme, card, btnPrimary, btnSecondary, badge, isLoaded, role, focus }) {
+export default function HacksTab({ t, theme, card, btnPrimary, btnSecondary, badge, isLoaded, role, focus, loc, setLoc }) {
   const [hackCategory, setHackCategory] = useState(focus?.hackCategory || 'all');
   // "Go to feature" from the announcements opens a specific category.
   useEffect(() => { if (focus?.hackCategory) setHackCategory(focus.hackCategory); }, [focus?.nonce, focus?.hackCategory]);
 
-  const hacks = GOOGLE_HACKS.map(h => ({ ...h, query: fillRole(h.query, role), googleJobsUrl: fillRole(h.googleJobsUrl, role) }));
+  const hacks = GOOGLE_HACKS.map(h => { const { query, dropped } = fillLocation(fillRole(h.query, role), loc); return { ...h, query, dropped, googleJobsUrl: fillRole(h.googleJobsUrl, role) }; });
   const filteredHacks = hackCategory === 'all' ? hacks : hacks.filter(h => h.category === hackCategory);
 
 
@@ -20,6 +22,8 @@ export default function HacksTab({ t, theme, card, btnPrimary, btnSecondary, bad
         <p style={{ fontSize:'16px', color:t.textSecondary, maxWidth:'520px', margin:'0 auto' }}>Discover jobs before they hit job boards. Find hidden listings, referral opportunities, and salary-transparent roles.</p>
         <p style={{ fontSize:'13px', color:t.textTertiary, marginTop:'8px' }}>Searching for <strong style={{ color:t.text }}>{role.label}</strong>: <code style={{ color:t.codeColor }}>{role.searchTerm}</code> (switch at the top right)</p>
       </div>
+
+      <LocationPicker t={t} loc={loc} onChange={setLoc} />
 
       <div style={{ display:'flex', gap:'8px', flexWrap:'wrap', marginBottom:'28px' }}>
         {HACK_CATEGORIES.map(c => (

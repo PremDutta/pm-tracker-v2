@@ -3,6 +3,7 @@ import { ExternalLink, Star } from 'lucide-react';
 import { INTL_STRATEGIES } from '../data/strategies';
 import { fillRole } from '../data/roles';
 import GlobalRoles from '../components/GlobalRoles';
+import VisaGuide from '../components/VisaGuide';
 import HackCard from '../components/HackCard';
 import { GOOGLE_HACKS } from '../data/googleHacks';
 
@@ -14,6 +15,7 @@ export default function IntlTab({ t, theme, card, btnPrimary, btnSecondary, badg
         <p style={{ fontSize:'16px', color:t.textSecondary }}>Strategies + sponsor-friendly companies for international PM roles</p>
       </div>
       <GlobalRoles t={t} card={card} btnSecondary={btnSecondary} badge={badge} />
+      <VisaGuide t={t} card={card} btnSecondary={btnSecondary} />
       <h3 id="global-searches" style={{ margin:'0 0 12px', fontSize:'18px', fontWeight:600, scrollMarginTop:'140px' }}>🔍 Search strings for {role.label} roles abroad</h3>
       <div style={{ display:'grid', gridTemplateColumns:'minmax(0,1fr)', gap:'14px', marginBottom:'28px' }}>
         {GOOGLE_HACKS.filter(h => h.category === 'global').map((h, i) => <HackCard key={h.id} h={{ ...h, query: fillRole(h.query, role) }} i={i} t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} />)}
