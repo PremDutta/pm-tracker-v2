@@ -2,6 +2,12 @@
   "signals": [
     {
       "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-26",
+      "detail": "40 engineering openings vs a usual 3"
+    },
+    {
+      "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-10-25",
       "detail": "115 engineering openings vs a usual 38"
@@ -1134,38 +1140,6 @@
       "url": "https://entrackr.com/news/physical-ai-company-simaai-raises-150-mn-in-series-c-round-12587904",
       "date": "2026-09-28",
       "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Dextr AI",
-      "title": "Elevation Capital leads $6.7 Mn seed round in Dextr AI",
-      "url": "https://entrackr.com/snippets/elevation-capital-leads-67-million-seed-round-in-dextr-ai-12574387",
-      "date": "2026-09-25",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Dextr AI",
-      "title": "Dextr AI secures $6.7M to scale AI agents across global hospitality markets",
-      "url": "https://yourstory.com/ai-story/dextr-ai-funding-67m-scale-ai-agents-global-hospitality-markets",
-      "date": "2026-09-25",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "GalaxEye",
-      "title": "GalaxEye Gets ₹63.8 Cr RDI Support For Multisensor Satellite Tech",
-      "url": "https://inc42.com/buzz/galaxeye-gets-%e2%82%b963-8-cr-rdi-support-for-multisensor-satellite-tech/",
-      "date": "2026-09-25",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "Rivet",
-      "title": "Rivet Bags $10.5 Mn From Peak XV, Others To Scale Dating Platform In US",
-      "url": "https://inc42.com/buzz/rivet-bags-10-5-mn-from-peak-xv-others-to-scale-dating-platform-in-us/",
-      "date": "2026-09-25",
-      "detail": "via Inc42"
     }
   ]
 }
