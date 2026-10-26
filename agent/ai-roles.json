@@ -1,6 +1,28 @@
 {
   "roles": [
     {
+      "id": "amazon-10588360",
+      "title": "Sr. Product Manager, Progression Intelligence",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10588360/sr-product-manager-progression-intelligence",
+      "source": "Amazon careers",
+      "level": "senior",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+      "title": "Lead Business Execution Consultant Product Owner AI Agentic",
+      "company": "Wells Fargo",
+      "location": "Hyderabad, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+      "source": "Workday (Wells Fargo)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-26"
+    },
+    {
       "id": "vc-lightspeed-ef285596-5640-47e2-a882-cccebe127c45",
       "title": "AI Product Manager, FinCrime",
       "company": "Aspire",

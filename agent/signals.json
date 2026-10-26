@@ -2,9 +2,32 @@
   "signals": [
     {
       "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-26",
+      "detail": "152 engineering openings vs a usual 39"
+    },
+    {
+      "type": "eng_spike",
       "company": "Oracle",
       "date": "2026-10-26",
       "detail": "40 engineering openings vs a usual 3"
+    },
+    {
+      "type": "funding",
+      "company": "Paar Autonomy",
+      "title": "Deep-tech defence startup Paar Autonomy raises Rs 10 Cr",
+      "url": "https://entrackr.com/snippets/deep-tech-defence-startup-paar-autonomy-raises-rs-10-cr-12751873",
+      "date": "2026-10-26",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-26",
+      "title": "Sr Staff Inbound Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157721999",
+      "id": "smartrecruiters-ServiceNow-744000157721999",
+      "detail": "closed 2026-10-16, reposted today"
     },
     {
       "type": "eng_spike",

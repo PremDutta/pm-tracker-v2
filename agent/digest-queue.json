@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-95054952",
-      "title": "Associate Product Manager (B2C)",
-      "company": "Credgenics",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/associate-product-manager-b2c-at-credgenics-4472718783",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "vc-accel-95020750",
-      "title": "Senior Product Manager",
-      "company": "Cohesity",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Bangalore---India-Office/Senior-Product-Manager_R04821-1",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "vc-accel-94997268",
       "title": "Product Manager (Data Governance Platform, Metadata Management, Data Stewardship, Access Management) (6-12 years)",
       "company": "Pismo",
@@ -3622,6 +3604,24 @@
       "url": "https://in.linkedin.com/jobs/view/director-senior-director-category-pnl-product-lead-at-rupeek-4481314904",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-26"
+    },
+    {
+      "id": "amazon-10588360",
+      "title": "Sr. Product Manager, Progression Intelligence",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10588360/sr-product-manager-progression-intelligence",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-26"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000157721999",
+      "title": "Sr Staff Inbound Product Manager",
+      "company": "ServiceNow",
+      "location": "Hyderabad, , India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157721999",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-26"
     }
   ],
   "signals": [
@@ -3933,6 +3933,21 @@
       "company": "Oracle",
       "date": "2026-10-26",
       "detail": "40 engineering openings vs a usual 3"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-26",
+      "title": "Sr Staff Inbound Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157721999",
+      "id": "smartrecruiters-ServiceNow-744000157721999",
+      "detail": "closed 2026-10-16, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-26",
+      "detail": "152 engineering openings vs a usual 39"
     }
   ],
   "reminders": {}
