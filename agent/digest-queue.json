@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-82636843",
-      "title": "Principal Product Manager",
-      "company": "UiPath",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://jobs.ashbyhq.com/uipath/d3ef8c17-984f-4138-a853-cca29eaa7133",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "vc-peakxv-4736965005",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "vc-peakxv-2028b73c-2ae0-4fca-903e-481b8c500629",
       "title": "Senior Product Manager",
       "company": "Meesho",
@@ -3623,6 +3605,24 @@
       "source": "🏛️ Govt (NPCI)",
       "deadline": null,
       "flags": [],
+      "queuedOn": "2026-10-26"
+    },
+    {
+      "id": "workable-apna-373A0BA7B9",
+      "title": "Associate Product Manager",
+      "company": "Apna",
+      "location": "Bengaluru, India",
+      "url": "https://apply.workable.com/j/373A0BA7B9",
+      "source": "Workable (Apna)",
+      "queuedOn": "2026-10-26"
+    },
+    {
+      "id": "greenhouse-celonis-7777102003",
+      "title": "Associate Principal Product Manager - Networks",
+      "company": "Celonis",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7777102003?gh_jid=7777102003",
+      "source": "Greenhouse (Celonis)",
       "queuedOn": "2026-10-26"
     }
   ],

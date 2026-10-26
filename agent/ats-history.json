@@ -2081,8 +2081,8 @@
           "eng": 47
         },
         "2026-10-26": {
-          "total": 160,
-          "eng": 47
+          "total": 154,
+          "eng": 41
         }
       },
       "pm": {
@@ -5342,7 +5342,7 @@
           "eng": 6
         },
         "2026-10-26": {
-          "total": 150,
+          "total": 151,
           "eng": 6
         }
       },
@@ -5350,6 +5350,12 @@
         "product manager": {
           "ids": [
             "workable-apna-75D192CDBD"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "associate product manager": {
+          "ids": [
+            "workable-apna-373A0BA7B9"
           ],
           "lastSeen": "2026-10-26"
         }
@@ -6519,8 +6525,8 @@
           "eng": 22
         },
         "2026-10-26": {
-          "total": 69,
-          "eng": 22
+          "total": 70,
+          "eng": 23
         }
       },
       "pm": {
@@ -6765,7 +6771,7 @@
           "eng": 9
         },
         "2026-10-26": {
-          "total": 81,
+          "total": 80,
           "eng": 9
         }
       },
@@ -10502,7 +10508,7 @@
           "eng": 75
         },
         "2026-10-26": {
-          "total": 152,
+          "total": 151,
           "eng": 79
         }
       },
@@ -11580,8 +11586,8 @@
           "eng": 36
         },
         "2026-10-26": {
-          "total": 103,
-          "eng": 35
+          "total": 102,
+          "eng": 34
         }
       },
       "pm": {
@@ -12754,8 +12760,8 @@
           "eng": 18
         },
         "2026-10-26": {
-          "total": 86,
-          "eng": 21
+          "total": 88,
+          "eng": 22
         }
       },
       "pm": {
@@ -12969,7 +12975,7 @@
           "eng": 48
         },
         "2026-10-26": {
-          "total": 95,
+          "total": 94,
           "eng": 47
         }
       },
@@ -13264,8 +13270,8 @@
           "eng": 43
         },
         "2026-10-26": {
-          "total": 74,
-          "eng": 43
+          "total": 75,
+          "eng": 44
         }
       },
       "pm": {
@@ -13957,7 +13963,7 @@
         },
         "2026-10-26": {
           "total": 893,
-          "eng": 567
+          "eng": 568
         }
       },
       "pm": {
@@ -16448,7 +16454,7 @@
           "eng": 40
         },
         "2026-10-26": {
-          "total": 146,
+          "total": 147,
           "eng": 40
         }
       },
@@ -18876,6 +18882,355 @@
         "2026-10-26": {
           "total": 13,
           "eng": 6
+        }
+      },
+      "pm": {}
+    },
+    "Adyen": {
+      "daily": {
+        "2026-10-26": {
+          "total": 245,
+          "eng": 69
+        }
+      },
+      "pm": {
+        "group product manager apac head of products apac": {
+          "ids": [
+            "greenhouse-adyen-8185942"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "group product manager credit and data platform": {
+          "ids": [
+            "greenhouse-adyen-6630580"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "group product manager fraud intelligence": {
+          "ids": [
+            "greenhouse-adyen-7862254"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "principal product manager ai native merchant experiences": {
+          "ids": [
+            "greenhouse-adyen-8161148"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "product manager interface foundations": {
+          "ids": [
+            "greenhouse-adyen-8244728"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "product manager partner ecosystem": {
+          "ids": [
+            "greenhouse-adyen-8158755"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager banking networks global": {
+          "ids": [
+            "greenhouse-adyen-8060230"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager capital": {
+          "ids": [
+            "greenhouse-adyen-8158552"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager developer experience": {
+          "ids": [
+            "greenhouse-adyen-7941728"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager domestic card schemes": {
+          "ids": [
+            "greenhouse-adyen-8302785"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager financial products": {
+          "ids": [
+            "greenhouse-adyen-8280713"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager fx": {
+          "ids": [
+            "greenhouse-adyen-8137746"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager identity risk intelligence": {
+          "ids": [
+            "greenhouse-adyen-8281712"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager issuing": {
+          "ids": [
+            "greenhouse-adyen-8018202"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager split payments": {
+          "ids": [
+            "greenhouse-adyen-8045868"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior technical product manager internal developer platform": {
+          "ids": [
+            "greenhouse-adyen-8179443"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "vice president of product management in store experience": {
+          "ids": [
+            "greenhouse-adyen-8098423"
+          ],
+          "lastSeen": "2026-10-26"
+        }
+      }
+    },
+    "AI71": {
+      "daily": {
+        "2026-10-26": {
+          "total": 0,
+          "eng": 0
+        }
+      },
+      "pm": {}
+    },
+    "Celonis": {
+      "daily": {
+        "2026-10-26": {
+          "total": 220,
+          "eng": 131
+        }
+      },
+      "pm": {
+        "ai product manager": {
+          "ids": [
+            "greenhouse-celonis-7989839003"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "associate principal product manager networks": {
+          "ids": [
+            "greenhouse-celonis-7777102003"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior application product manager supply chain procurement": {
+          "ids": [
+            "greenhouse-celonis-7984249003"
+          ],
+          "lastSeen": "2026-10-26"
+        }
+      }
+    },
+    "GitLab": {
+      "daily": {
+        "2026-10-26": {
+          "total": 239,
+          "eng": 120
+        }
+      },
+      "pm": {
+        "director of product management agentic software delivery": {
+          "ids": [
+            "greenhouse-gitlab-8806017002"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "principal product manager ai software factory": {
+          "ids": [
+            "greenhouse-gitlab-8658878002"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager agentic source code": {
+          "ids": [
+            "greenhouse-gitlab-8597805002"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager billing engine platforms monetization": {
+          "ids": [
+            "greenhouse-gitlab-8845483002"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager crm gtm systems": {
+          "ids": [
+            "greenhouse-gitlab-8855883002"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager switchboard": {
+          "ids": [
+            "greenhouse-gitlab-8894806002"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "staff product manager agentic planning": {
+          "ids": [
+            "greenhouse-gitlab-8909618002"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "staff product manager agentic test intelligence": {
+          "ids": [
+            "greenhouse-gitlab-8871820002"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "staff product manager revops finance systems": {
+          "ids": [
+            "greenhouse-gitlab-8612937002"
+          ],
+          "lastSeen": "2026-10-26"
+        }
+      }
+    },
+    "e& (etisalat)": {
+      "daily": {
+        "2026-10-26": {
+          "total": 2,
+          "eng": 0
+        }
+      },
+      "pm": {
+        "director product marketing roaming premium numbers": {
+          "ids": [
+            "oracle-iaayey.fa.ocs.oraclecloud26.com-11593"
+          ],
+          "lastSeen": "2026-10-26"
+        }
+      }
+    },
+    "MBC Group (Shahid)": {
+      "daily": {
+        "2026-10-26": {
+          "total": 3,
+          "eng": 0
+        }
+      },
+      "pm": {}
+    },
+    "MBZUAI": {
+      "daily": {
+        "2026-10-26": {
+          "total": 47,
+          "eng": 21
+        }
+      },
+      "pm": {}
+    },
+    "Mollie": {
+      "daily": {
+        "2026-10-26": {
+          "total": 52,
+          "eng": 19
+        }
+      },
+      "pm": {
+        "head of product cards": {
+          "ids": [
+            "ashby-mollie-6fc5d10c-a8b3-4751-a40c-6f66e9074dcf"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "senior product manager business banking": {
+          "ids": [
+            "ashby-mollie-9c99ed58-ef98-4d3c-8f28-1e53785cc6c0"
+          ],
+          "lastSeen": "2026-10-26"
+        }
+      }
+    },
+    "N26": {
+      "daily": {
+        "2026-10-26": {
+          "total": 38,
+          "eng": 6
+        }
+      },
+      "pm": {
+        "head of product lending": {
+          "ids": [
+            "greenhouse-n26-7988511"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "lead technical product manager machine learning platform": {
+          "ids": [
+            "greenhouse-n26-8268322"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "product manager investments": {
+          "ids": [
+            "greenhouse-n26-8023311"
+          ],
+          "lastSeen": "2026-10-26"
+        }
+      }
+    },
+    "Presight": {
+      "daily": {
+        "2026-10-26": {
+          "total": 0,
+          "eng": 0
+        }
+      },
+      "pm": {}
+    },
+    "Synthesia": {
+      "daily": {
+        "2026-10-26": {
+          "total": 34,
+          "eng": 14
+        }
+      },
+      "pm": {
+        "product manager new product bet": {
+          "ids": [
+            "ashby-synthesia-c2ba6d4d-f991-4432-a9c8-1514a93b08bb"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "product manager enterprise": {
+          "ids": [
+            "ashby-synthesia-31e1dca3-74fd-4f74-8f40-5bb19f4034bb"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "product manager interactive avatars": {
+          "ids": [
+            "ashby-synthesia-e934a7ac-b668-46c0-9953-eed4504658b7"
+          ],
+          "lastSeen": "2026-10-26"
+        },
+        "head of product marketing": {
+          "ids": [
+            "ashby-synthesia-8d8233ca-15c4-4feb-99f6-46c5c48db52c"
+          ],
+          "lastSeen": "2026-10-26"
+        }
+      }
+    },
+    "Wise": {
+      "daily": {
+        "2026-10-26": {
+          "total": 100,
+          "eng": 29
         }
       },
       "pm": {}

@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-26T12:23:49.458Z",
+  "scannedAt": "2026-10-26T13:10:15.453Z",
   "roles": {
     "Amazon": [
       {
@@ -475,20 +475,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10588360",
-        "title": "Sr. Product Manager, Progression Intelligence",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10588360/sr-product-manager-progression-intelligence",
-        "level": "senior",
-        "firstSeen": "2026-10-26"
-      },
-      {
         "id": "amazon-3193772",
         "title": "Sr. Product Manager, Progression Intelligence",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/3193772/sr-product-manager-progression-intelligence",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10588360",
+        "title": "Sr. Product Manager, Progression Intelligence",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10588360/sr-product-manager-progression-intelligence",
+        "level": "senior",
+        "firstSeen": "2026-10-26"
       },
       {
         "id": "amazon-10458117",
@@ -517,6 +517,14 @@
     ],
     "Apna": [
       {
+        "id": "workable-apna-373A0BA7B9",
+        "title": "Associate Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://apply.workable.com/j/373A0BA7B9",
+        "level": "pm",
+        "firstSeen": "2026-10-26"
+      },
+      {
         "id": "workable-apna-75D192CDBD",
         "title": "Product Manager",
         "location": "Bengaluru, India",
@@ -533,6 +541,16 @@
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
         "level": "senior",
         "firstSeen": "2026-10-22"
+      }
+    ],
+    "Celonis": [
+      {
+        "id": "greenhouse-celonis-7777102003",
+        "title": "Associate Principal Product Manager - Networks",
+        "location": "Bangalore, India",
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/7777102003?gh_jid=7777102003",
+        "level": "group",
+        "firstSeen": "2026-10-26"
       }
     ],
     "Couchbase": [
@@ -1067,14 +1085,6 @@
         "title": "Senior Product Manager - Technical",
         "location": "Pune, India",
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-288898",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-288002",
-        "title": "Senior Product Manager - Technical",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-288002",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -2245,6 +2255,8 @@
   "lastRead": {
     "Accenture": "2026-10-26",
     "Adobe": "2026-10-26",
+    "Adyen": "2026-10-26",
+    "AI71": "2026-10-26",
     "Airwallex": "2026-10-26",
     "Amazon": "2026-10-26",
     "Anthropic": "2026-10-26",
@@ -2256,6 +2268,7 @@
     "Browserstack": "2026-10-26",
     "Careem": "2026-10-26",
     "Carousell": "2026-10-26",
+    "Celonis": "2026-10-26",
     "Cisco": "2026-10-26",
     "Cohere": "2026-10-26",
     "Composio": "2026-10-26",
@@ -2270,6 +2283,7 @@
     "Dhan": "2026-10-26",
     "Discord": "2026-10-26",
     "Druva": "2026-10-26",
+    "e& (etisalat)": "2026-10-26",
     "ElevenLabs": "2026-10-26",
     "Ema": "2026-10-26",
     "Emergent": "2026-10-26",
@@ -2278,6 +2292,7 @@
     "Fractal": "2026-10-26",
     "Freshworks": "2026-10-26",
     "Funding Societies": "2026-10-26",
+    "GitLab": "2026-10-26",
     "Glance": "2026-10-26",
     "Glean": "2026-10-26",
     "GoComet": "2026-10-26",
@@ -2305,15 +2320,19 @@
     "Lowe's India": "2026-10-26",
     "Lyzr": "2026-10-22",
     "Mastercard": "2026-10-26",
+    "MBC Group (Shahid)": "2026-10-26",
+    "MBZUAI": "2026-10-26",
     "Meesho": "2026-10-26",
     "Mensa Brands (BRND.ME)": "2026-10-26",
     "Microsoft": "2026-10-26",
     "Mihup": "2026-10-26",
     "Mindtickle": "2026-10-26",
+    "Mollie": "2026-10-26",
     "MongoDB": "2026-10-26",
     "Morgan Stanley": "2026-10-26",
     "Motorola Solutions": "2026-10-26",
     "MyOperator": "2026-10-26",
+    "N26": "2026-10-26",
     "Netomi": "2026-10-26",
     "Netradyne": "2026-10-26",
     "Neuron7.ai": "2026-10-26",
@@ -2336,6 +2355,7 @@
     "Pika": "2026-10-26",
     "Polygon Labs": "2026-10-26",
     "Postman": "2026-10-26",
+    "Presight": "2026-10-26",
     "PwC India": "2026-10-26",
     "Qualcomm": "2026-10-26",
     "Ramp": "2026-10-26",
@@ -2362,6 +2382,7 @@
     "Spyne": "2026-10-26",
     "Stability AI": "2026-10-26",
     "Swiggy": "2026-10-26",
+    "Synthesia": "2026-10-26",
     "Talabat (Delivery Hero)": "2026-10-26",
     "Tamara": "2026-10-26",
     "Target India": "2026-10-26",
@@ -2376,6 +2397,7 @@
     "Wells Fargo": "2026-10-26",
     "Wing Assistant (M32 AI)": "2026-10-26",
     "Wipro": "2026-10-26",
+    "Wise": "2026-10-26",
     "Xendit": "2026-10-26",
     "Yubi": "2026-10-26",
     "Zendesk": "2026-10-26",
