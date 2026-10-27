@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-lightspeed-75D192CDBD",
-      "title": "Product Manager",
-      "company": "apna",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://apply.workable.com/j/75D192CDBD",
-      "source": "VC board (Lightspeed portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "greenhouse-anthropic-5195866008",
-      "title": "Product Management, Human Data Platform",
-      "company": "Anthropic",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5195866008",
-      "source": "Greenhouse (Anthropic)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "greenhouse-anthropic-5123082008",
-      "title": "Product Management, Research",
-      "company": "Anthropic",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5123082008",
-      "source": "Greenhouse (Anthropic)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "greenhouse-figma-6160732004",
       "title": "Manager, Product Management - Figma Platform Experience",
       "company": "Figma",
@@ -3623,6 +3596,33 @@
       "location": "Bengaluru, Karnataka, India",
       "url": "https://apply.workable.com/j/373A0BA7B9",
       "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-27"
+    },
+    {
+      "id": "amazon-10589604",
+      "title": "Sr. Product Manager Tech, IN Prime",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10589604/sr-product-manager-tech-in-prime",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-27"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210802870",
+      "title": "Product Manager - Commercial Card Product",
+      "company": "JPMorgan Chase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802870",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-27"
+    },
+    {
+      "id": "oracle-eeho.fa.us2.oraclecloud.com-340889",
+      "title": "Principal Product Manager (Embedded Finance)",
+      "company": "Oracle",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340889",
+      "source": "Oracle careers",
       "queuedOn": "2026-10-27"
     }
   ],

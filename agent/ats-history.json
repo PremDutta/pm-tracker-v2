@@ -595,7 +595,7 @@
           "eng": 28
         },
         "2026-10-27": {
-          "total": 67,
+          "total": 66,
           "eng": 28
         }
       },
@@ -1194,7 +1194,7 @@
           "eng": 7
         },
         "2026-10-27": {
-          "total": 15,
+          "total": 16,
           "eng": 7
         }
       },
@@ -2904,8 +2904,8 @@
           "eng": 425
         },
         "2026-10-27": {
-          "total": 795,
-          "eng": 425
+          "total": 796,
+          "eng": 426
         }
       },
       "pm": {
@@ -5016,7 +5016,7 @@
           "eng": 1
         },
         "2026-10-27": {
-          "total": 26,
+          "total": 25,
           "eng": 1
         }
       },
@@ -5748,8 +5748,8 @@
           "eng": 7
         },
         "2026-10-27": {
-          "total": 12,
-          "eng": 7
+          "total": 10,
+          "eng": 5
         }
       },
       "pm": {}
@@ -6150,7 +6150,8 @@
           "ids": [
             "amazon-10531853"
           ],
-          "lastSeen": "2026-10-27"
+          "lastSeen": "2026-10-27",
+          "closedOn": "2026-10-27"
         },
         "sr product manager fba inventory management ww fba": {
           "ids": [
@@ -6319,6 +6320,12 @@
             "amazon-10587375"
           ],
           "lastSeen": "2026-10-27"
+        },
+        "sr product manager tech in prime": {
+          "ids": [
+            "amazon-10589604"
+          ],
+          "lastSeen": "2026-10-27"
         }
       }
     },
@@ -6433,7 +6440,7 @@
           "eng": 5
         },
         "2026-10-27": {
-          "total": 32,
+          "total": 33,
           "eng": 5
         }
       },
@@ -6833,7 +6840,7 @@
         },
         "2026-10-27": {
           "total": 28,
-          "eng": 5
+          "eng": 4
         }
       },
       "pm": {}
@@ -6949,7 +6956,7 @@
           "eng": 9
         },
         "2026-10-27": {
-          "total": 80,
+          "total": 78,
           "eng": 9
         }
       },
@@ -7431,7 +7438,7 @@
           "eng": 1
         },
         "2026-10-27": {
-          "total": 28,
+          "total": 29,
           "eng": 1
         }
       },
@@ -7548,8 +7555,8 @@
           "eng": 1
         },
         "2026-10-27": {
-          "total": 9,
-          "eng": 1
+          "total": 10,
+          "eng": 2
         }
       },
       "pm": {
@@ -7673,7 +7680,7 @@
           "eng": 30
         },
         "2026-10-27": {
-          "total": 42,
+          "total": 43,
           "eng": 30
         }
       },
@@ -8322,8 +8329,8 @@
           "eng": 14
         },
         "2026-10-27": {
-          "total": 28,
-          "eng": 14
+          "total": 29,
+          "eng": 15
         }
       },
       "pm": {
@@ -8460,7 +8467,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 31
+          "eng": 29
         }
       },
       "pm": {
@@ -8599,6 +8606,12 @@
         "chief data office reference data product manager vice president": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210800065"
+          ],
+          "lastSeen": "2026-10-27"
+        },
+        "product manager commercial card product": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210802870"
           ],
           "lastSeen": "2026-10-27"
         }
@@ -8840,7 +8853,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 10
+          "eng": 11
         }
       },
       "pm": {}
@@ -9073,8 +9086,8 @@
           "eng": 2
         },
         "2026-10-27": {
-          "total": 9,
-          "eng": 2
+          "total": 8,
+          "eng": 1
         }
       },
       "pm": {
@@ -9226,6 +9239,12 @@
         "senior product manager scm ecommerce": {
           "ids": [
             "oracle-eeho.fa.us2.oraclecloud.com-347873"
+          ],
+          "lastSeen": "2026-10-27"
+        },
+        "principal product manager": {
+          "ids": [
+            "oracle-eeho.fa.us2.oraclecloud.com-340889"
           ],
           "lastSeen": "2026-10-27"
         }
@@ -9669,7 +9688,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 22
+          "eng": 23
         }
       },
       "pm": {
@@ -9822,8 +9841,8 @@
           "eng": 1
         },
         "2026-10-27": {
-          "total": 26,
-          "eng": 1
+          "total": 27,
+          "eng": 2
         }
       },
       "pm": {
@@ -10372,7 +10391,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 37
+          "eng": 38
         }
       },
       "pm": {
@@ -10787,7 +10806,7 @@
           "eng": 77
         },
         "2026-10-27": {
-          "total": 150,
+          "total": 151,
           "eng": 77
         }
       },
@@ -11897,7 +11916,7 @@
           "eng": 35
         },
         "2026-10-27": {
-          "total": 103,
+          "total": 104,
           "eng": 34
         }
       },
@@ -11906,8 +11925,7 @@
           "ids": [
             "workday-salesforce-/job/India---Bangalore/Product-Manager---Commerce-Platform--Hyderabad-_JR321301"
           ],
-          "lastSeen": "2026-10-13",
-          "closedOn": "2026-10-13"
+          "lastSeen": "2026-10-27"
         },
         "senior product manager emerging technology": {
           "ids": [
@@ -12055,7 +12073,7 @@
           "eng": 1
         },
         "2026-10-27": {
-          "total": 17,
+          "total": 18,
           "eng": 1
         }
       },
@@ -12218,8 +12236,8 @@
           "eng": 7
         },
         "2026-10-27": {
-          "total": 57,
-          "eng": 7
+          "total": 58,
+          "eng": 8
         }
       },
       "pm": {
@@ -12355,8 +12373,8 @@
           "eng": 8
         },
         "2026-10-27": {
-          "total": 24,
-          "eng": 8
+          "total": 26,
+          "eng": 9
         }
       },
       "pm": {
@@ -12395,6 +12413,12 @@
           ],
           "lastSeen": "2026-10-19",
           "closedOn": "2026-10-19"
+        },
+        "director product management enterprise data strategy": {
+          "ids": [
+            "workday-target-/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Director-Product-Management---Enterprise-Data-Strategy_R0000478841"
+          ],
+          "lastSeen": "2026-10-27"
         }
       }
     },
@@ -13103,7 +13127,7 @@
           "eng": 22
         },
         "2026-10-27": {
-          "total": 87,
+          "total": 94,
           "eng": 22
         }
       },
@@ -13322,8 +13346,8 @@
           "eng": 44
         },
         "2026-10-27": {
-          "total": 88,
-          "eng": 43
+          "total": 91,
+          "eng": 45
         }
       },
       "pm": {
@@ -13337,7 +13361,8 @@
           "ids": [
             "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-152753"
           ],
-          "lastSeen": "2026-10-27"
+          "lastSeen": "2026-10-27",
+          "closedOn": "2026-10-27"
         },
         "esaas msd functional d365 erp product owner scrum master": {
           "ids": [
@@ -13458,8 +13483,8 @@
           "spike": true
         },
         "2026-10-27": {
-          "total": 200,
-          "eng": 136,
+          "total": 196,
+          "eng": 47,
           "spike": true
         }
       },
@@ -13470,8 +13495,7 @@
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5822106-S2072465-1"
           ],
-          "lastSeen": "2026-10-26",
-          "closedOn": "2026-10-26"
+          "lastSeen": "2026-10-27"
         },
         "product management analyst": {
           "ids": [
@@ -13484,8 +13508,7 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-10-26",
-          "closedOn": "2026-10-26"
+          "lastSeen": "2026-10-27"
         },
         "ai product management practitioner": {
           "ids": [
@@ -13493,8 +13516,7 @@
             "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5468692-S2006272-1",
             "workday-accenture-/job/Bengaluru/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1"
           ],
-          "lastSeen": "2026-10-26",
-          "closedOn": "2026-10-26"
+          "lastSeen": "2026-10-27"
         },
         "portal product owner life and annuity business unit": {
           "ids": [
@@ -13514,8 +13536,7 @@
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Senior-Manager-Pre-Sales_R00365643-1"
           ],
-          "lastSeen": "2026-10-26",
-          "closedOn": "2026-10-26"
+          "lastSeen": "2026-10-27"
         }
       }
     },
@@ -14342,8 +14363,8 @@
           "eng": 570
         },
         "2026-10-27": {
-          "total": 896,
-          "eng": 568
+          "total": 899,
+          "eng": 570
         }
       },
       "pm": {
@@ -16773,7 +16794,7 @@
         },
         "2026-10-27": {
           "total": 200,
-          "eng": 113
+          "eng": 123
         }
       },
       "pm": {
@@ -16914,7 +16935,7 @@
           "eng": 40
         },
         "2026-10-27": {
-          "total": 148,
+          "total": 147,
           "eng": 40
         }
       },
@@ -17088,7 +17109,7 @@
         },
         "2026-10-27": {
           "total": 652,
-          "eng": 199
+          "eng": 197
         }
       },
       "pm": {
@@ -17323,7 +17344,7 @@
           "eng": 30
         },
         "2026-10-27": {
-          "total": 64,
+          "total": 63,
           "eng": 30
         }
       },
@@ -17955,8 +17976,8 @@
           "eng": 35
         },
         "2026-10-27": {
-          "total": 104,
-          "eng": 36
+          "total": 106,
+          "eng": 38
         }
       },
       "pm": {
@@ -18078,7 +18099,7 @@
           "eng": 2
         },
         "2026-10-27": {
-          "total": 21,
+          "total": 22,
           "eng": 2
         }
       },
@@ -18627,7 +18648,7 @@
         },
         "2026-10-27": {
           "total": 508,
-          "eng": 137
+          "eng": 138
         }
       },
       "pm": {
@@ -18984,7 +19005,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 29
+          "eng": 34
         }
       },
       "pm": {
@@ -18998,7 +19019,8 @@
           "ids": [
             "smartrecruiters-grab-744000155162739"
           ],
-          "lastSeen": "2026-10-27"
+          "lastSeen": "2026-10-27",
+          "closedOn": "2026-10-27"
         }
       }
     },
@@ -19069,7 +19091,7 @@
           "eng": 5
         },
         "2026-10-27": {
-          "total": 114,
+          "total": 115,
           "eng": 5
         }
       },
@@ -19119,6 +19141,12 @@
         "vp product manager consumer banking group": {
           "ids": [
             "workday-dbs-/job/Singapore---Central/VP--Product-Manager--Secured-Lending---Consumer-Banking-Group_WD86024"
+          ],
+          "lastSeen": "2026-10-27"
+        },
+        "vp product manager managed solutions private banking consumer banking group": {
+          "ids": [
+            "workday-dbs-/job/Singapore---Central/VP--Product-Manager--Managed-Solutions--Private-Banking--Consumer-Banking-Group_WD90036"
           ],
           "lastSeen": "2026-10-27"
         }
@@ -19184,8 +19212,8 @@
           "eng": 1
         },
         "2026-10-27": {
-          "total": 20,
-          "eng": 1
+          "total": 19,
+          "eng": 0
         }
       },
       "pm": {
@@ -19880,7 +19908,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 30
+          "eng": 31
         }
       },
       "pm": {}

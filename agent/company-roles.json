@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-27T03:59:10.036Z",
+  "scannedAt": "2026-10-27T08:10:34.625Z",
   "roles": {
     "Amazon": [
       {
@@ -395,14 +395,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10531853",
-        "title": "Sr. Product Manager - Tech, Just Walk Out Technology",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10531853/sr-product-manager-tech-just-walk-out-technology",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10559319",
         "title": "Sr. Product Manager - Tech, Just Walk Out Technology , Physical Store 3P (Just Walk Out Technology)",
         "location": "Bengaluru, Karnataka, IND",
@@ -425,6 +417,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10573263/sr-product-manager-technical-ww-prime-benefits-pricing-constructs-ww-prime-benefits-pricing-constructs",
         "level": "senior",
         "firstSeen": "2026-10-08"
+      },
+      {
+        "id": "amazon-10589604",
+        "title": "Sr. Product Manager Tech, IN Prime",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10589604/sr-product-manager-tech-in-prime",
+        "level": "senior",
+        "firstSeen": "2026-10-27"
       },
       {
         "id": "amazon-10423878",
@@ -903,6 +903,14 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796604",
         "level": "group",
         "firstSeen": "2026-10-14"
+      },
+      {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210802870",
+        "title": "Product Manager - Commercial Card Product",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802870",
+        "level": "pm",
+        "firstSeen": "2026-10-27"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210792979",
@@ -1430,6 +1438,14 @@
       }
     ],
     "Oracle": [
+      {
+        "id": "oracle-eeho.fa.us2.oraclecloud.com-340889",
+        "title": "Principal Product Manager (Embedded Finance)",
+        "location": "BENGALURU, KARNATAKA, India",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340889",
+        "level": "group",
+        "firstSeen": "2026-10-27"
+      },
       {
         "id": "oracle-eeho.fa.us2.oraclecloud.com-347873",
         "title": "Senior Product Manager- SCM/Ecommerce",
@@ -2097,18 +2113,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "zoho-go-yubi-66789000036412626",
-        "title": "Senior Product Manager",
-        "location": "Bangalore South, India",
-        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "zoho-go-yubi-66789000016213700",
         "title": "Senior Product Manager",
         "location": "Chennai, India",
         "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "zoho-go-yubi-66789000036412626",
+        "title": "Senior Product Manager",
+        "location": "Bangalore South, India",
+        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
         "level": "senior",
         "firstSeen": "2026-09-30"
       }
@@ -2182,14 +2198,6 @@
       }
     ],
     "Zensar": [
-      {
-        "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-152753",
-        "title": "Digital Product Owner - B2B",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/152753",
-        "level": "pm",
-        "firstSeen": "2026-10-26"
-      },
       {
         "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-152758",
         "title": "ESaaS - MSD -Functional - D365 ERP Product Owner/Scrum Master",

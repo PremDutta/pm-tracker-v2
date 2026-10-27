@@ -1,6 +1,19 @@
 {
-  "scannedAt": "2026-10-27T03:59:10.064Z",
+  "scannedAt": "2026-10-27T08:10:34.670Z",
   "roles": [
+    {
+      "id": "workday-dbs-/job/Singapore---Central/VP--Product-Manager--Managed-Solutions--Private-Banking--Consumer-Banking-Group_WD90036",
+      "title": "VP, Product Manager, Managed Solutions, Private Banking, Consumer Banking Group",
+      "company": "DBS Bank",
+      "location": "Singapore - Central",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/VP--Product-Manager--Managed-Solutions--Private-Banking--Consumer-Banking-Group_WD90036",
+      "source": "Workday (DBS Bank)",
+      "level": "leadership",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-10-27"
+    },
     {
       "id": "greenhouse-adyen-7862254",
       "title": "Group Product Manager – Fraud Intelligence",
@@ -1990,11 +2003,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8811265002",
+      "id": "greenhouse-databricks-8876675002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2003,11 +2016,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8876675002",
+      "id": "greenhouse-databricks-8811265002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2496,19 +2509,6 @@
       "level": "pm",
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "smartrecruiters-grab-744000155162739",
-      "title": "Lead Product Manager",
-      "company": "Grab",
-      "location": "Jakarta, , Indonesia",
-      "url": "https://jobs.smartrecruiters.com/Grab/744000155162739",
-      "source": "SmartRecruiters (Grab)",
-      "level": "group",
-      "regions": [
-        "apac"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3235,7 +3235,7 @@
       "id": "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "title": "Director, Product Marketing (Hybrid in NYC, SF, or Seattle)",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "source": "Rippling (Rippling)",
       "level": "leadership",

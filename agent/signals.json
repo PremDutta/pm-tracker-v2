@@ -7,10 +7,50 @@
       "detail": "136 engineering openings vs a usual 39"
     },
     {
+      "type": "funding",
+      "company": "Live2.ai",
+      "title": "Live2.ai raises Rs 130 Cr to expand its AI-led social commerce platform",
+      "url": "https://yourstory.com/2026/10/live2ai-raises-rs-130-cr-to-expand-its-ai-led-social-commerce-platform",
+      "date": "2026-10-27",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
+      "company": "Mochatrade",
+      "title": "Trading platform Mochatrade raises $5.5 Mn in seed round led by CoinFund",
+      "url": "https://entrackr.com/snippets/trading-platform-mochatrade-raises-55-mn-in-seed-round-led-by-coinfund-12756221",
+      "date": "2026-10-27",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Nova Spectral AI",
+      "title": "Physical AI vision company Nova Spectral AI raises Rs 21.15 Cr led by Shastra VC",
+      "url": "https://entrackr.com/snippets/physical-ai-vision-company-nova-spectral-ai-raises-rs-2115-cr-led-by-shastra-vc-12756634",
+      "date": "2026-10-27",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Oracle",
       "date": "2026-10-27",
       "detail": "84 engineering openings vs a usual 3"
+    },
+    {
+      "type": "funding",
+      "company": "Rotoris",
+      "title": "Luxury watch brand Rotoris raises Rs 70 Cr in Series A round led by Blume Ventures",
+      "url": "https://entrackr.com/news/luxury-watch-brand-rotoris-raises-rs-70-cr-in-series-a-round-led-by-blume-ventures-12757062",
+      "date": "2026-10-27",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Troovy",
+      "title": "Fireside Ventures leads Rs 100 Cr Series B round in snack brand Troovy",
+      "url": "https://entrackr.com/news/fireside-ventures-leads-rs-100-cr-series-b-round-in-snack-brand-troovy-12755228",
+      "date": "2026-10-27",
+      "detail": "via Entrackr"
     },
     {
       "type": "eng_spike",
