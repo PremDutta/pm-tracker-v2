@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-27T11:43:07.163Z",
+  "scannedAt": "2026-10-27T17:35:17.359Z",
   "roles": {
     "Amazon": [
       {
@@ -219,20 +219,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10431401",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10576706",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "amazon-10431401",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10499561",
@@ -423,14 +423,6 @@
         "title": "Sr. Product Manager-Tech, DSP-DA Lifecycle Solutions",
         "location": "Hyderabad, Telangana, IND",
         "url": "https://www.amazon.jobs/en/jobs/10423878/sr-product-manager-tech-dsp-da-lifecycle-solutions",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10531031",
-        "title": "Sr. Product Manager, Abuse Prevention",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10531031/sr-product-manager-abuse-prevention",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -649,14 +641,6 @@
         "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/157248-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-159220",
-        "title": "AI Product Manager I",
-        "location": "Chennai",
-        "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/159220-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-10-06"
       },
       {
         "id": "sf-careers.hcltech.com-168347",
@@ -1413,14 +1397,6 @@
     ],
     "Oracle": [
       {
-        "id": "oracle-eeho.fa.us2.oraclecloud.com-340889",
-        "title": "Principal Product Manager (Embedded Finance)",
-        "location": "BENGALURU, KARNATAKA, India",
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340889",
-        "level": "group",
-        "firstSeen": "2026-10-27"
-      },
-      {
         "id": "oracle-eeho.fa.us2.oraclecloud.com-347873",
         "title": "Senior Product Manager- SCM/Ecommerce",
         "location": "HYDERABAD, TELANGANA, India",
@@ -1443,14 +1419,6 @@
         "title": "Sr Product Manager",
         "location": "Bangalore, Karnataka, India",
         "url": "https://paypal.eightfold.ai/careers/job/274922819195",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
-        "id": "eightfold-paypal.com-274922819192",
-        "title": "Sr Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819192",
         "level": "senior",
         "firstSeen": "2026-10-13"
       }
@@ -1636,14 +1604,6 @@
       }
     ],
     "Qualcomm": [
-      {
-        "id": "eightfold-qualcomm.com-446721534134",
-        "title": "Product Manager",
-        "location": "Bangalore, India",
-        "url": "https://careers.qualcomm.com/careers/job/446721534134",
-        "level": "pm",
-        "firstSeen": "2026-10-23"
-      },
       {
         "id": "eightfold-qualcomm.com-446721309717",
         "title": "Senior Android SW Product Manager",
@@ -1931,6 +1891,14 @@
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W",
         "level": "senior",
         "firstSeen": "2026-10-09"
+      },
+      {
+        "id": "workday-visa-/job/IN---Bengaluru-India/Technical-Product-Manager_REF087589W",
+        "title": "Technical Product Manager",
+        "location": "IN - Bengaluru, India",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Technical-Product-Manager_REF087589W",
+        "level": "pm",
+        "firstSeen": "2026-10-27"
       }
     ],
     "Wells Fargo": [

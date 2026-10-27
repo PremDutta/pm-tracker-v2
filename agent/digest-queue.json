@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-figma-6104919004",
-      "title": "Manager, Product Management - Roundtripping",
-      "company": "Figma",
-      "location": "New York, NY • United States",
-      "url": "https://boards.greenhouse.io/figma/jobs/6104919004?gh_jid=6104919004",
-      "source": "Greenhouse (Figma)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "greenhouse-figma-6149007004",
-      "title": "Manager, Product Management - Roundtripping (London, United Kingdom)",
-      "company": "Figma",
-      "location": "London, England",
-      "url": "https://boards.greenhouse.io/figma/jobs/6149007004?gh_jid=6149007004",
-      "source": "Greenhouse (Figma)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "keka-gokwik-163589",
-      "title": "Principal Product Manager",
-      "company": "GoKwik",
-      "location": "Bangalore",
-      "url": "https://gokwik.keka.com/careers/jobdetails/163589",
-      "source": "Keka (GoKwik)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "freshteam-gonoise-2000074222",
       "title": "Intern - Product Management (NPD)",
       "company": "Noise",
@@ -3623,6 +3596,33 @@
       "location": "SpotDraft HQ, Bengaluru",
       "url": "https://jobs.ashbyhq.com/spotdraft/96761f6b-578d-4daa-9d02-25c47fd39590",
       "source": "Ashby (SpotDraft)",
+      "queuedOn": "2026-10-27"
+    },
+    {
+      "id": "workday-visa-/job/IN---Bengaluru-India/Technical-Product-Manager_REF087589W",
+      "title": "Technical Product Manager",
+      "company": "Visa",
+      "location": "IN - Bengaluru, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Technical-Product-Manager_REF087589W",
+      "source": "Workday (Visa)",
+      "queuedOn": "2026-10-27"
+    },
+    {
+      "id": "vc-accel-98133411",
+      "title": "Principal Product Manager (Embedded Finance)",
+      "company": "OPOWER",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/jobs/340889",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-27"
+    },
+    {
+      "id": "vc-lightspeed-52bce63d-8b58-4d1d-bae1-97b1e94bbb31",
+      "title": "Senior Product Manager – AspireBooks",
+      "company": "Aspire",
+      "location": "IN (Bengaluru), India",
+      "url": "https://revolutpeople.com/aspire/public/careers/position/52bce63d-8b58-4d1d-bae1-97b1e94bbb31/",
+      "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-10-27"
     }
   ],

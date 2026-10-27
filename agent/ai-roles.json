@@ -1,36 +1,14 @@
 {
   "roles": [
     {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
+      "id": "eightfold-qualcomm.com-446717846060",
+      "title": "Staff/Director – AI HW Product Management",
+      "company": "Qualcomm",
+      "location": "Bangalore, India",
+      "url": "https://careers.qualcomm.com/careers/job/446717846060",
+      "source": "Qualcomm careers",
+      "level": "leadership",
       "aiMatch": "title",
-      "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "vc-peakxv-lbtWSkK_VfSx",
-      "title": "AI Native Product Manager",
-      "company": "Leap Finance",
-      "location": "Bengaluru, India",
-      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "vc-peakxv-8041196002",
-      "title": "Product Manager",
-      "company": "Sigmoid",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
       "firstSeen": "2026-10-27"
     },
     {
@@ -42,17 +20,6 @@
       "source": "Ashby (SpotDraft)",
       "level": "pm",
       "aiMatch": "company",
-      "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "vc-peakxv-137246",
-      "title": "AI PRODUCT MANAGER",
-      "company": "TestMu",
-      "location": "Noida, UP, India",
-      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
       "firstSeen": "2026-10-27"
     },
     {
@@ -540,17 +507,6 @@
       "firstSeen": "2026-10-15"
     },
     {
-      "id": "vc-accel-96522032",
-      "title": "Product Manager, AI workflows",
-      "company": "Atlas",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/product-manager-ai-workflows-at-atlas-accounting-4465019596",
-      "source": "VC board (Accel portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-14"
-    },
-    {
       "id": "vc-accel-96522688",
       "title": "Senior Product Manager",
       "company": "Mihup",
@@ -610,7 +566,7 @@
       "title": "Global Product Lead, Support Tools, Global Business Applied AI, GTM",
       "company": "Google",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=27",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=28",
       "source": "VC board (Accel portfolio)",
       "level": "group",
       "aiMatch": "title",
@@ -648,17 +604,6 @@
       "level": "group",
       "aiMatch": "title",
       "firstSeen": "2026-10-07"
-    },
-    {
-      "id": "sf-careers.hcltech.com-159220",
-      "title": "AI Product Manager I",
-      "company": "HCLTech",
-      "location": "Chennai",
-      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/159220-en_US/",
-      "source": "HCLTech careers",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-06"
     },
     {
       "id": "greenhouse-onetrust-8192394",
