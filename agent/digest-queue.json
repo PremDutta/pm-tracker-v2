@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-figma-6160732004",
-      "title": "Manager, Product Management - Figma Platform Experience",
-      "company": "Figma",
-      "location": "San Francisco, CA • New York, NY • United States",
-      "url": "https://boards.greenhouse.io/figma/jobs/6160732004?gh_jid=6160732004",
-      "source": "Greenhouse (Figma)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "greenhouse-figma-6104919004",
       "title": "Manager, Product Management - Roundtripping",
       "company": "Figma",
@@ -3623,6 +3614,15 @@
       "location": "BENGALURU, KARNATAKA, India",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340889",
       "source": "Oracle careers",
+      "queuedOn": "2026-10-27"
+    },
+    {
+      "id": "ashby-spotdraft-96761f6b-578d-4daa-9d02-25c47fd39590",
+      "title": "Product Manager",
+      "company": "SpotDraft",
+      "location": "SpotDraft HQ, Bengaluru",
+      "url": "https://jobs.ashbyhq.com/spotdraft/96761f6b-578d-4daa-9d02-25c47fd39590",
+      "source": "Ashby (SpotDraft)",
       "queuedOn": "2026-10-27"
     }
   ],
