@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-27T17:35:17.359Z",
+  "scannedAt": "2026-10-27T21:53:38.986Z",
   "roles": {
     "Amazon": [
       {
@@ -845,14 +845,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800065",
         "level": "leadership",
         "firstSeen": "2026-10-22"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210794392",
-        "title": "Executive Director - Senior AI Product Manager",
-        "location": "Bengaluru, Karnataka, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794392",
-        "level": "leadership",
-        "firstSeen": "2026-10-21"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210796604",
@@ -1765,30 +1757,6 @@
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157721999",
         "level": "group",
         "firstSeen": "2026-10-26"
-      },
-      {
-        "id": "smartrecruiters-ServiceNow-744000156861272",
-        "title": "Staff AI Product Manager",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156861272",
-        "level": "group",
-        "firstSeen": "2026-10-21"
-      },
-      {
-        "id": "smartrecruiters-ServiceNow-744000157087019",
-        "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157087019",
-        "level": "group",
-        "firstSeen": "2026-10-22"
-      },
-      {
-        "id": "smartrecruiters-ServiceNow-744000157087789",
-        "title": "Staff Inbound Product Manager - Hill Climbing Product and Customer Instance Program",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157087789",
-        "level": "group",
-        "firstSeen": "2026-10-22"
       }
     ],
     "Sigmoid": [

@@ -123,8 +123,8 @@
           "eng": 45
         },
         "2026-10-27": {
-          "total": 114,
-          "eng": 45
+          "total": 113,
+          "eng": 44
         }
       },
       "pm": {
@@ -341,8 +341,8 @@
           "eng": 280
         },
         "2026-10-27": {
-          "total": 680,
-          "eng": 282
+          "total": 681,
+          "eng": 281
         }
       },
       "pm": {
@@ -1459,8 +1459,8 @@
           "eng": 75
         },
         "2026-10-27": {
-          "total": 167,
-          "eng": 76
+          "total": 168,
+          "eng": 77
         }
       },
       "pm": {
@@ -1977,7 +1977,7 @@
           "eng": 30
         },
         "2026-10-27": {
-          "total": 81,
+          "total": 80,
           "eng": 30
         }
       },
@@ -2138,7 +2138,7 @@
           "eng": 42
         },
         "2026-10-27": {
-          "total": 152,
+          "total": 156,
           "eng": 42
         }
       },
@@ -2431,8 +2431,8 @@
           "eng": 29
         },
         "2026-10-27": {
-          "total": 141,
-          "eng": 29
+          "total": 142,
+          "eng": 31
         }
       },
       "pm": {
@@ -2905,7 +2905,7 @@
         },
         "2026-10-27": {
           "total": 794,
-          "eng": 423
+          "eng": 422
         }
       },
       "pm": {
@@ -5619,7 +5619,7 @@
           "eng": 15
         },
         "2026-10-27": {
-          "total": 31,
+          "total": 30,
           "eng": 15
         }
       },
@@ -6576,7 +6576,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 33
+          "eng": 34
         }
       },
       "pm": {
@@ -8471,7 +8471,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 33
+          "eng": 34
         }
       },
       "pm": {
@@ -8534,7 +8534,8 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210794392"
           ],
-          "lastSeen": "2026-10-27"
+          "lastSeen": "2026-10-27",
+          "closedOn": "2026-10-27"
         },
         "product director metrics": {
           "ids": [
@@ -8856,7 +8857,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 10
+          "eng": 9
         }
       },
       "pm": {}
@@ -9089,7 +9090,7 @@
           "eng": 2
         },
         "2026-10-27": {
-          "total": 7,
+          "total": 8,
           "eng": 1
         }
       },
@@ -9992,7 +9993,7 @@
           "eng": 0
         },
         "2026-10-27": {
-          "total": 12,
+          "total": 11,
           "eng": 0
         }
       },
@@ -10395,7 +10396,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 39
+          "eng": 38
         }
       },
       "pm": {
@@ -10666,7 +10667,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000156861272"
           ],
-          "lastSeen": "2026-10-27"
+          "lastSeen": "2026-10-27",
+          "closedOn": "2026-10-27"
         },
         "senior staff outbound product manager gtm data analytics": {
           "ids": [
@@ -10679,13 +10681,15 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000157087789"
           ],
-          "lastSeen": "2026-10-27"
+          "lastSeen": "2026-10-27",
+          "closedOn": "2026-10-27"
         },
         "staff inbound product manager ai specialist evals and quality standards": {
           "ids": [
             "smartrecruiters-ServiceNow-744000157087019"
           ],
-          "lastSeen": "2026-10-27"
+          "lastSeen": "2026-10-27",
+          "closedOn": "2026-10-27"
         },
         "senior staff inbound product manager ai super intelligence control tower observability": {
           "ids": [
@@ -10818,7 +10822,7 @@
           "eng": 77
         },
         "2026-10-27": {
-          "total": 154,
+          "total": 151,
           "eng": 79
         }
       },
@@ -11928,8 +11932,8 @@
           "eng": 35
         },
         "2026-10-27": {
-          "total": 102,
-          "eng": 34
+          "total": 99,
+          "eng": 33
         }
       },
       "pm": {
@@ -13146,8 +13150,8 @@
           "eng": 22
         },
         "2026-10-27": {
-          "total": 104,
-          "eng": 27
+          "total": 93,
+          "eng": 23
         }
       },
       "pm": {
@@ -13365,7 +13369,7 @@
           "eng": 44
         },
         "2026-10-27": {
-          "total": 92,
+          "total": 94,
           "eng": 43
         }
       },
@@ -13502,8 +13506,8 @@
           "spike": true
         },
         "2026-10-27": {
-          "total": 198,
-          "eng": 45,
+          "total": 197,
+          "eng": 46,
           "spike": true
         }
       },
@@ -14387,8 +14391,8 @@
           "eng": 570
         },
         "2026-10-27": {
-          "total": 893,
-          "eng": 565
+          "total": 899,
+          "eng": 569
         }
       },
       "pm": {
@@ -15287,7 +15291,7 @@
           "eng": 33
         },
         "2026-10-27": {
-          "total": 68,
+          "total": 69,
           "eng": 33
         }
       },
@@ -16028,7 +16032,7 @@
           "eng": 157
         },
         "2026-10-27": {
-          "total": 364,
+          "total": 363,
           "eng": 158
         }
       },
@@ -16050,7 +16054,8 @@
           "ids": [
             "greenhouse-mongodb-8157328"
           ],
-          "lastSeen": "2026-10-27"
+          "lastSeen": "2026-10-27",
+          "closedOn": "2026-10-27"
         },
         "senior product manager": {
           "ids": [
@@ -16252,8 +16257,8 @@
           "eng": 28
         },
         "2026-10-27": {
-          "total": 60,
-          "eng": 29
+          "total": 61,
+          "eng": 30
         }
       },
       "pm": {
@@ -16817,8 +16822,8 @@
           "eng": 107
         },
         "2026-10-27": {
-          "total": 199,
-          "eng": 122
+          "total": 200,
+          "eng": 123
         }
       },
       "pm": {
@@ -16959,7 +16964,7 @@
           "eng": 40
         },
         "2026-10-27": {
-          "total": 147,
+          "total": 149,
           "eng": 40
         }
       },
@@ -17036,6 +17041,12 @@
         "cloud architect product management": {
           "ids": [
             "greenhouse-rubrik-8314327"
+          ],
+          "lastSeen": "2026-10-27"
+        },
+        "staff product manager databases": {
+          "ids": [
+            "greenhouse-rubrik-8327831"
           ],
           "lastSeen": "2026-10-27"
         }
@@ -17368,7 +17379,7 @@
           "eng": 30
         },
         "2026-10-27": {
-          "total": 63,
+          "total": 62,
           "eng": 30
         }
       },
@@ -17694,8 +17705,8 @@
           "eng": 184
         },
         "2026-10-27": {
-          "total": 360,
-          "eng": 187
+          "total": 359,
+          "eng": 186
         }
       },
       "pm": {
@@ -18001,8 +18012,8 @@
           "eng": 35
         },
         "2026-10-27": {
-          "total": 106,
-          "eng": 36
+          "total": 104,
+          "eng": 35
         }
       },
       "pm": {
@@ -18354,7 +18365,7 @@
           "eng": 19
         },
         "2026-10-27": {
-          "total": 371,
+          "total": 369,
           "eng": 19
         }
       },
@@ -18672,7 +18683,7 @@
           "eng": 138
         },
         "2026-10-27": {
-          "total": 509,
+          "total": 508,
           "eng": 138
         }
       },
@@ -19030,7 +19041,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 33
+          "eng": 34
         }
       },
       "pm": {
@@ -19044,7 +19055,8 @@
           "ids": [
             "smartrecruiters-grab-744000155162739"
           ],
-          "lastSeen": "2026-10-27"
+          "lastSeen": "2026-10-27",
+          "closedOn": "2026-10-27"
         }
       }
     },
@@ -19429,7 +19441,7 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 2
+          "eng": 3
         }
       },
       "pm": {
@@ -19442,7 +19454,8 @@
         },
         "product manager": {
           "ids": [
-            "smartrecruiters-DeliveryHero-744000157841650"
+            "smartrecruiters-DeliveryHero-744000157841650",
+            "smartrecruiters-DeliveryHero-744000158019110"
           ],
           "lastSeen": "2026-10-27"
         }
@@ -19810,8 +19823,8 @@
           "eng": 21
         },
         "2026-10-27": {
-          "total": 47,
-          "eng": 21
+          "total": 42,
+          "eng": 18
         }
       },
       "pm": {}
@@ -19896,7 +19909,7 @@
           "eng": 14
         },
         "2026-10-27": {
-          "total": 37,
+          "total": 38,
           "eng": 17
         }
       },
@@ -19935,10 +19948,17 @@
         },
         "2026-10-27": {
           "total": 100,
-          "eng": 29
+          "eng": 34
         }
       },
-      "pm": {}
+      "pm": {
+        "senior product manager wise platform fincrime": {
+          "ids": [
+            "smartrecruiters-wise-744000158116172"
+          ],
+          "lastSeen": "2026-10-27"
+        }
+      }
     }
   }
 }
