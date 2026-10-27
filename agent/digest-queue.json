@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-lightspeed-4729533005",
-      "title": "Product Manager II - Ads",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
-      "source": "VC board (Lightspeed portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "vc-lightspeed-75D192CDBD",
       "title": "Product Manager",
       "company": "apna",
@@ -3624,6 +3615,15 @@
       "url": "https://apply.workable.com/j/373A0BA7B9",
       "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-10-27"
+    },
+    {
+      "id": "vc-peakxv-373A0BA7B9",
+      "title": "Associate Product Manager",
+      "company": "apna",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://apply.workable.com/j/373A0BA7B9",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-27"
     }
   ],
   "signals": [
@@ -3950,6 +3950,18 @@
       "company": "Accenture",
       "date": "2026-10-26",
       "detail": "152 engineering openings vs a usual 39"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-27",
+      "detail": "84 engineering openings vs a usual 3"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-27",
+      "detail": "136 engineering openings vs a usual 39"
     }
   ],
   "reminders": {}
