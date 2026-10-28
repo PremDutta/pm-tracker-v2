@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-28T12:15:48.217Z",
+  "scannedAt": "2026-10-28T22:17:29.087Z",
   "roles": {
     "Amazon": [
       {
@@ -691,18 +691,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -713,6 +713,14 @@
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-185071",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/185071-en_US/",
+        "level": "group",
+        "firstSeen": "2026-10-28"
       },
       {
         "id": "sf-careers.hcltech.com-172466",
@@ -758,14 +766,6 @@
         "location": "Bengaluru, Karnātaka, India",
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3",
         "level": "group",
-        "firstSeen": "2026-10-05"
-      },
-      {
-        "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager---Cloud-SRX-Firewall_1209735-2",
-        "title": "Product Manager - Cloud SRX Firewall",
-        "location": "Bengaluru, Karnātaka, India",
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager---Cloud-SRX-Firewall_1209735-2",
-        "level": "pm",
         "firstSeen": "2026-10-05"
       },
       {
@@ -991,14 +991,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-290035",
-        "title": "Manager, Product Management",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-290035",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
         "title": "Senior Product Manager - Technical",
         "location": "Pune, India",
@@ -1073,14 +1065,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "lever-meesho-494d8ba6-22b6-467f-837b-8af9c1aee377",
-        "title": "Product Manager I",
-        "location": "Bangalore, Karnataka",
-        "url": "https://jobs.lever.co/meesho/494d8ba6-22b6-467f-837b-8af9c1aee377",
-        "level": "pm",
-        "firstSeen": "2026-10-16"
-      },
-      {
         "id": "lever-meesho-5dca8c71-9993-438f-ad51-da3c7f4be692",
         "title": "Product Manager II",
         "location": "Bangalore, Karnataka",
@@ -1099,14 +1083,6 @@
     ],
     "Microsoft": [
       {
-        "id": "eightfold-microsoft.com-1970393556997831",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557042009",
         "title": "Principal Product Manager",
         "location": "India, Uttar Pradesh, Noida",
@@ -1115,20 +1091,20 @@
         "firstSeen": "2026-10-20"
       },
       {
+        "id": "eightfold-microsoft.com-1970393556997831",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393556944984",
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
         "level": "group",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557038797",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557038797",
-        "level": "group",
-        "firstSeen": "2026-10-23"
       },
       {
         "id": "eightfold-microsoft.com-1970393557041935",
@@ -1147,20 +1123,12 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557016594",
-        "title": "Product Manager II",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016594",
-        "level": "pm",
-        "firstSeen": "2026-10-06"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557037770",
+        "id": "eightfold-microsoft.com-1970393557041943",
         "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "location": "India, Uttar Pradesh, Noida",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
         "level": "senior",
-        "firstSeen": "2026-10-15"
+        "firstSeen": "2026-10-20"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040598",
@@ -1171,12 +1139,20 @@
         "firstSeen": "2026-10-16"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557016561",
+        "id": "eightfold-microsoft.com-1970393557037770",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
         "level": "senior",
-        "firstSeen": "2026-10-06"
+        "firstSeen": "2026-10-15"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557040071",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
+        "level": "senior",
+        "firstSeen": "2026-10-28"
       },
       {
         "id": "eightfold-microsoft.com-1970393557016611",
@@ -1187,12 +1163,12 @@
         "firstSeen": "2026-10-07"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557041943",
+        "id": "eightfold-microsoft.com-1970393557016561",
         "title": "Senior Product Manager",
-        "location": "India, Uttar Pradesh, Noida",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
         "level": "senior",
-        "firstSeen": "2026-10-20"
+        "firstSeen": "2026-10-06"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040189",
@@ -1733,16 +1709,6 @@
         "firstSeen": "2026-09-30"
       }
     ],
-    "ServiceNow": [
-      {
-        "id": "smartrecruiters-ServiceNow-744000157721999",
-        "title": "Sr Staff Inbound Product Manager",
-        "location": "Hyderabad, , India",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157721999",
-        "level": "group",
-        "firstSeen": "2026-10-26"
-      }
-    ],
     "Sigmoid": [
       {
         "id": "greenhouse-sigmoid-8041196002",
@@ -1871,26 +1837,18 @@
     ],
     "Wells Fargo": [
       {
-        "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
-        "title": "Lead Business Execution Consultant Product Owner AI Agentic",
-        "location": "Hyderabad, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+        "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---Agentic-Operations_R-579367",
+        "title": "Lead Digital Product Manager - Agentic Operations",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---Agentic-Operations_R-579367",
         "level": "group",
-        "firstSeen": "2026-10-26"
+        "firstSeen": "2026-10-28"
       },
       {
         "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
         "title": "Lead Product Manager",
         "location": "Hyderabad, India",
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
-        "level": "group",
-        "firstSeen": "2026-10-22"
-      },
-      {
-        "id": "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-580706",
-        "title": "Lead Product Manager",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-580706",
         "level": "group",
         "firstSeen": "2026-10-22"
       }
