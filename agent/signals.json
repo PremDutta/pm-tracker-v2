@@ -2,6 +2,29 @@
   "signals": [
     {
       "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-28",
+      "detail": "83 engineering openings vs a usual 3"
+    },
+    {
+      "type": "funding",
+      "company": "QwikBuild",
+      "title": "Exclusive: QwikBuild Raises $2.3 Mn To Expand Enterprise AI Platform",
+      "url": "https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/",
+      "date": "2026-10-28",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-28",
+      "title": "Director, Product Management - Security and Risk Partnerships",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158162749",
+      "id": "smartrecruiters-ServiceNow-744000158162749",
+      "detail": "closed 2026-10-21, reposted today"
+    },
+    {
+      "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-10-27",
       "detail": "136 engineering openings vs a usual 39"
