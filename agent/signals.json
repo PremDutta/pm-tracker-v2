@@ -1,6 +1,14 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "CHOSEN",
+      "title": "Skincare brand CHOSEN raises extended Series A round from Wellbeing Nutrition founders",
+      "url": "https://entrackr.com/snippets/skincare-brand-chosen-raises-extended-series-a-round-from-wellbeing-nutrition-founders-12758881",
+      "date": "2026-10-28",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Oracle",
       "date": "2026-10-28",
@@ -22,6 +30,24 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158162749",
       "id": "smartrecruiters-ServiceNow-744000158162749",
       "detail": "closed 2026-10-21, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Swiggy",
+      "date": "2026-10-28",
+      "title": "Director - Product Management",
+      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001530123",
+      "id": "smartrecruiters-swiggy-6000000001530123",
+      "detail": "closed 2026-10-23, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Target India",
+      "date": "2026-10-28",
+      "title": "Director Product Management - Enterprise Data Strategy",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
+      "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
+      "detail": "closed 2026-10-27, reposted today"
     },
     {
       "type": "eng_spike",

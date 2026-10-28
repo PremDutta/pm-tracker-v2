@@ -1,6 +1,50 @@
 {
   "roles": [
     {
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "vc-peakxv-lbtWSkK_VfSx",
+      "title": "AI Native Product Manager",
+      "company": "Leap Finance",
+      "location": "Bengaluru, India",
+      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "vc-peakxv-8041196002",
+      "title": "Product Manager",
+      "company": "Sigmoid",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "vc-peakxv-137246",
+      "title": "AI PRODUCT MANAGER",
+      "company": "TestMu",
+      "location": "Noida, UP, India",
+      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-28"
+    },
+    {
       "id": "eightfold-qualcomm.com-446717846060",
       "title": "Staff/Director – AI HW Product Management",
       "company": "Qualcomm",
@@ -281,17 +325,6 @@
       "company": "Zendesk",
       "location": "Pune, India",
       "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R33982",
-      "source": "Workday (Zendesk)",
-      "level": "senior",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "workday-zendesk-/job/Pune-India/Principal-Product-Manager_R35027-1",
-      "title": "Senior Product Manager",
-      "company": "Zendesk",
-      "location": "Pune, India",
-      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Principal-Product-Manager_R35027-1",
       "source": "Workday (Zendesk)",
       "level": "senior",
       "aiMatch": "company",

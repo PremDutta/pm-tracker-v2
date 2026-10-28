@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-28T04:22:54.165Z",
+  "scannedAt": "2026-10-28T08:50:23.703Z",
   "roles": {
     "Amazon": [
       {
@@ -139,14 +139,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "amazon-10453422",
-        "title": "Product Manager, Value added services",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10453422/product-manager-value-added-services",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10490006",
         "title": "Senior Product Manager - Tech",
         "location": "Bengaluru, Karnataka, IND",
@@ -267,14 +259,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10490166",
-        "title": "Senior Product Manager, India Global Trade",
-        "location": "Gurugram, Haryana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10490166/senior-product-manager-india-global-trade",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10556408",
         "title": "Senior Product Manager, Service Delivery Standard Work",
         "location": "Hyderabad, Telangana, IND",
@@ -335,14 +319,6 @@
         "title": "Sr. Product Manager - Tech, AHS",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10560449/sr-product-manager-tech-ahs",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10500266",
-        "title": "Sr. Product Manager - Tech, Alexa Smart Properties",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10500266/sr-product-manager-tech-alexa-smart-properties",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -935,6 +911,14 @@
     ],
     "Mastercard": [
       {
+        "id": "workday-mastercard-/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
+        "title": "Consumer Credit Analytics – Global Product Manager - Specialist",
+        "location": "Gurgaon, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
+        "level": "pm",
+        "firstSeen": "2026-10-28"
+      },
+      {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
         "title": "Lead Product Management – Technical – AI Transformation",
         "location": "Pune, India",
@@ -957,14 +941,6 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
         "level": "group",
         "firstSeen": "2026-10-08"
-      },
-      {
-        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-291502",
-        "title": "Lead Product Manager- Technical",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291502",
-        "level": "group",
-        "firstSeen": "2026-10-26"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289980",
@@ -1013,6 +989,14 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-290035",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "workday-mastercard-/job/Pune-India/Product-Manager---Technical-II_R-293237",
+        "title": "Product Manager - Technical II",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Product-Manager---Technical-II_R-293237",
+        "level": "pm",
+        "firstSeen": "2026-10-28"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
@@ -1412,14 +1396,6 @@
         "location": "Bangalore, Karnataka, India",
         "url": "https://paypal.eightfold.ai/careers/job/274922819061",
         "level": "group",
-        "firstSeen": "2026-10-13"
-      },
-      {
-        "id": "eightfold-paypal.com-274922819195",
-        "title": "Sr Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819195",
-        "level": "senior",
         "firstSeen": "2026-10-13"
       }
     ],
@@ -1823,6 +1799,16 @@
         "firstSeen": "2026-10-06"
       }
     ],
+    "Swiggy": [
+      {
+        "id": "smartrecruiters-swiggy-6000000001530123",
+        "title": "Director - Product Management",
+        "location": "Bengaluru, KA, India",
+        "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001530123",
+        "level": "leadership",
+        "firstSeen": "2026-10-28"
+      }
+    ],
     "Target India": [
       {
         "id": "workday-target-/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
@@ -1831,6 +1817,14 @@
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
         "level": "leadership",
         "firstSeen": "2026-10-16"
+      },
+      {
+        "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
+        "title": "Director Product Management - Enterprise Data Strategy",
+        "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
+        "level": "leadership",
+        "firstSeen": "2026-10-28"
       }
     ],
     "Vedantu": [
@@ -2053,14 +2047,6 @@
         "title": "Senior Product Manager",
         "location": "Pune, India",
         "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R33982",
-        "level": "senior",
-        "firstSeen": "2026-10-05"
-      },
-      {
-        "id": "workday-zendesk-/job/Pune-India/Principal-Product-Manager_R35027-1",
-        "title": "Senior Product Manager",
-        "location": "Pune, India",
-        "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Principal-Product-Manager_R35027-1",
         "level": "senior",
         "firstSeen": "2026-10-05"
       },

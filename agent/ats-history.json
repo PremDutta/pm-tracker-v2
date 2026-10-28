@@ -2904,7 +2904,7 @@
           "eng": 422
         },
         "2026-10-28": {
-          "total": 804,
+          "total": 805,
           "eng": 423
         }
       },
@@ -3970,7 +3970,7 @@
           "eng": 7
         },
         "2026-10-28": {
-          "total": 54,
+          "total": 53,
           "eng": 7
         }
       },
@@ -5016,7 +5016,7 @@
           "eng": 1
         },
         "2026-10-28": {
-          "total": 24,
+          "total": 23,
           "eng": 1
         }
       },
@@ -5497,8 +5497,8 @@
           "eng": 6
         },
         "2026-10-28": {
-          "total": 152,
-          "eng": 7
+          "total": 151,
+          "eng": 6
         }
       },
       "pm": {
@@ -5886,7 +5886,7 @@
           "eng": 6
         },
         "2026-10-28": {
-          "total": 89,
+          "total": 86,
           "eng": 6
         }
       },
@@ -5947,7 +5947,8 @@
           "ids": [
             "amazon-10453422"
           ],
-          "lastSeen": "2026-10-28"
+          "lastSeen": "2026-10-28",
+          "closedOn": "2026-10-28"
         },
         "senior product manager amazon fashion": {
           "ids": [
@@ -6029,7 +6030,8 @@
           "ids": [
             "amazon-10490166"
           ],
-          "lastSeen": "2026-10-28"
+          "lastSeen": "2026-10-28",
+          "closedOn": "2026-10-28"
         },
         "sr product manager tech profit intelligence": {
           "ids": [
@@ -6136,7 +6138,8 @@
           "ids": [
             "amazon-10500266"
           ],
-          "lastSeen": "2026-10-28"
+          "lastSeen": "2026-10-28",
+          "closedOn": "2026-10-28"
         },
         "senior product manager tech amazon finance technology": {
           "ids": [
@@ -7500,7 +7503,7 @@
           "eng": 1
         },
         "2026-10-28": {
-          "total": 29,
+          "total": 27,
           "eng": 1
         }
       },
@@ -7621,8 +7624,8 @@
           "eng": 2
         },
         "2026-10-28": {
-          "total": 10,
-          "eng": 2
+          "total": 11,
+          "eng": 3
         }
       },
       "pm": {
@@ -7895,8 +7898,7 @@
           "ids": [
             "workday-adobe-/job/Noida/Senior-Product-Manager_R167941"
           ],
-          "lastSeen": "2026-10-15",
-          "closedOn": "2026-10-15"
+          "lastSeen": "2026-10-28"
         },
         "internal product manager 3 sales performance management": {
           "ids": [
@@ -8561,7 +8563,7 @@
         },
         "2026-10-28": {
           "total": 100,
-          "eng": 32
+          "eng": 36
         }
       },
       "pm": {
@@ -9196,7 +9198,7 @@
           "eng": 1
         },
         "2026-10-28": {
-          "total": 8,
+          "total": 7,
           "eng": 1
         }
       },
@@ -9206,7 +9208,8 @@
             "eightfold-paypal.com-274922819195",
             "eightfold-paypal.com-274922819192"
           ],
-          "lastSeen": "2026-10-28"
+          "lastSeen": "2026-10-28",
+          "closedOn": "2026-10-28"
         },
         "lead product manager": {
           "ids": [
@@ -9816,7 +9819,7 @@
         },
         "2026-10-28": {
           "total": 100,
-          "eng": 22
+          "eng": 21
         }
       },
       "pm": {
@@ -9973,7 +9976,7 @@
           "eng": 2
         },
         "2026-10-28": {
-          "total": 27,
+          "total": 26,
           "eng": 2
         }
       },
@@ -10844,7 +10847,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000157549524"
           ],
-          "lastSeen": "2026-10-28"
+          "lastSeen": "2026-10-28",
+          "closedOn": "2026-10-28"
         },
         "vp product strategy technology workflows": {
           "ids": [
@@ -10970,7 +10974,7 @@
         },
         "2026-10-28": {
           "total": 151,
-          "eng": 79
+          "eng": 80
         }
       },
       "pm": {
@@ -11092,8 +11096,7 @@
           "ids": [
             "workday-mastercard-/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1"
           ],
-          "lastSeen": "2026-10-14",
-          "closedOn": "2026-10-14"
+          "lastSeen": "2026-10-28"
         },
         "senior specialist product management custom analytics": {
           "ids": [
@@ -11126,6 +11129,12 @@
           ],
           "lastSeen": "2026-10-19",
           "closedOn": "2026-10-19"
+        },
+        "product manager technical ii": {
+          "ids": [
+            "workday-mastercard-/job/Pune-India/Product-Manager---Technical-II_R-293237"
+          ],
+          "lastSeen": "2026-10-28"
         }
       }
     },
@@ -11365,7 +11374,7 @@
           "eng": 76
         },
         "2026-10-28": {
-          "total": 89,
+          "total": 88,
           "eng": 76
         }
       },
@@ -11609,7 +11618,7 @@
         },
         "2026-10-28": {
           "total": 100,
-          "eng": 3
+          "eng": 4
         }
       },
       "pm": {
@@ -11623,10 +11632,10 @@
         },
         "director product management": {
           "ids": [
-            "smartrecruiters-swiggy-6000000001518589"
+            "smartrecruiters-swiggy-6000000001518589",
+            "smartrecruiters-swiggy-6000000001530123"
           ],
-          "lastSeen": "2026-10-23",
-          "closedOn": "2026-10-23"
+          "lastSeen": "2026-10-28"
         }
       }
     },
@@ -11873,7 +11882,7 @@
           "eng": 1
         },
         "2026-10-28": {
-          "total": 1,
+          "total": 2,
           "eng": 1
         }
       },
@@ -12111,7 +12120,7 @@
           "eng": 33
         },
         "2026-10-28": {
-          "total": 100,
+          "total": 101,
           "eng": 35
         }
       },
@@ -12152,6 +12161,12 @@
         "sr manager director sr director of product management life sciences cloud": {
           "ids": [
             "workday-salesforce-/job/California---San-Francisco/Sr-Manager-Director-Sr-Director-of-Product-Management--Life-Sciences-Cloud--Evergreen-_JR363047"
+          ],
+          "lastSeen": "2026-10-28"
+        },
+        "product manager senior specialist": {
+          "ids": [
+            "workday-salesforce-/job/India---Hyderabad/Product-Manager-Senior-Specialist_JR365929-1"
           ],
           "lastSeen": "2026-10-28"
         }
@@ -12580,7 +12595,7 @@
           "eng": 9
         },
         "2026-10-28": {
-          "total": 25,
+          "total": 27,
           "eng": 9
         }
       },
@@ -12623,10 +12638,10 @@
         },
         "director product management enterprise data strategy": {
           "ids": [
-            "workday-target-/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Director-Product-Management---Enterprise-Data-Strategy_R0000478841"
+            "workday-target-/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
+            "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841"
           ],
-          "lastSeen": "2026-10-27",
-          "closedOn": "2026-10-27"
+          "lastSeen": "2026-10-28"
         }
       }
     },
@@ -13361,8 +13376,8 @@
           "eng": 23
         },
         "2026-10-28": {
-          "total": 93,
-          "eng": 23
+          "total": 99,
+          "eng": 26
         }
       },
       "pm": {
@@ -13584,8 +13599,8 @@
           "eng": 43
         },
         "2026-10-28": {
-          "total": 94,
-          "eng": 43
+          "total": 100,
+          "eng": 46
         }
       },
       "pm": {
@@ -14638,8 +14653,8 @@
           "eng": 569
         },
         "2026-10-28": {
-          "total": 896,
-          "eng": 569
+          "total": 894,
+          "eng": 567
         }
       },
       "pm": {
@@ -15332,8 +15347,8 @@
           "eng": 6
         },
         "2026-10-28": {
-          "total": 17,
-          "eng": 6
+          "total": 18,
+          "eng": 7
         }
       },
       "pm": {
@@ -15562,8 +15577,8 @@
           "eng": 33
         },
         "2026-10-28": {
-          "total": 69,
-          "eng": 33
+          "total": 70,
+          "eng": 34
         }
       },
       "pm": {
@@ -17142,7 +17157,7 @@
         },
         "2026-10-28": {
           "total": 200,
-          "eng": 125
+          "eng": 124
         }
       },
       "pm": {
@@ -17287,7 +17302,7 @@
           "eng": 40
         },
         "2026-10-28": {
-          "total": 153,
+          "total": 151,
           "eng": 41
         }
       },
@@ -17470,7 +17485,7 @@
           "eng": 198
         },
         "2026-10-28": {
-          "total": 654,
+          "total": 653,
           "eng": 198
         }
       },
@@ -18048,8 +18063,8 @@
           "eng": 186
         },
         "2026-10-28": {
-          "total": 362,
-          "eng": 187
+          "total": 364,
+          "eng": 189
         }
       },
       "pm": {
@@ -18242,7 +18257,7 @@
           "eng": 1
         },
         "2026-10-28": {
-          "total": 14,
+          "total": 15,
           "eng": 1
         }
       },
@@ -18364,7 +18379,7 @@
         },
         "2026-10-28": {
           "total": 103,
-          "eng": 35
+          "eng": 34
         }
       },
       "pm": {
@@ -18490,7 +18505,7 @@
           "eng": 2
         },
         "2026-10-28": {
-          "total": 23,
+          "total": 22,
           "eng": 2
         }
       },
@@ -18867,7 +18882,7 @@
           "eng": 5
         },
         "2026-10-28": {
-          "total": 19,
+          "total": 18,
           "eng": 5
         }
       },
@@ -19025,7 +19040,7 @@
           "eng": 3
         },
         "2026-10-28": {
-          "total": 12,
+          "total": 11,
           "eng": 3
         }
       },
@@ -19062,7 +19077,7 @@
           "eng": 138
         },
         "2026-10-28": {
-          "total": 506,
+          "total": 504,
           "eng": 138
         }
       },
@@ -19216,7 +19231,7 @@
         },
         "2026-10-28": {
           "total": 102,
-          "eng": 24
+          "eng": 23
         }
       },
       "pm": {
@@ -19395,7 +19410,7 @@
           "eng": 1
         },
         "2026-10-28": {
-          "total": 79,
+          "total": 80,
           "eng": 1
         }
       },
@@ -19440,7 +19455,7 @@
         },
         "2026-10-28": {
           "total": 100,
-          "eng": 33
+          "eng": 32
         }
       },
       "pm": {
@@ -19534,7 +19549,7 @@
           "eng": 5
         },
         "2026-10-28": {
-          "total": 115,
+          "total": 116,
           "eng": 5
         }
       },
@@ -19663,7 +19678,7 @@
           "eng": 0
         },
         "2026-10-28": {
-          "total": 19,
+          "total": 20,
           "eng": 0
         }
       },
@@ -19872,7 +19887,7 @@
         },
         "2026-10-28": {
           "total": 100,
-          "eng": 4
+          "eng": 6
         }
       },
       "pm": {
@@ -19923,7 +19938,7 @@
           "eng": 5
         },
         "2026-10-28": {
-          "total": 25,
+          "total": 21,
           "eng": 5
         }
       },
@@ -19990,7 +20005,7 @@
           "eng": 69
         },
         "2026-10-28": {
-          "total": 246,
+          "total": 244,
           "eng": 69
         }
       },
@@ -20134,7 +20149,7 @@
           "eng": 132
         },
         "2026-10-28": {
-          "total": 222,
+          "total": 221,
           "eng": 132
         }
       },
@@ -20171,8 +20186,8 @@
           "eng": 119
         },
         "2026-10-28": {
-          "total": 236,
-          "eng": 119
+          "total": 238,
+          "eng": 121
         }
       },
       "pm": {
@@ -20307,7 +20322,7 @@
           "eng": 18
         },
         "2026-10-28": {
-          "total": 52,
+          "total": 51,
           "eng": 18
         }
       },

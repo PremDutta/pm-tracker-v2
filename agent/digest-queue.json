@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-adobe-/job/Bangalore/Product-Manager-3_R169439",
-      "title": "Internal Product Manager 3 - Sales Performance Management",
-      "company": "Adobe",
-      "location": "Bangalore",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager-3_R169439",
-      "source": "Workday (Adobe)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "workable-apna-75D192CDBD",
-      "title": "Product Manager",
-      "company": "Apna",
-      "location": "Bengaluru, India",
-      "url": "https://apply.workable.com/j/75D192CDBD",
-      "source": "Workable (Apna)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "greenhouse-druva-8697486002",
-      "title": "Senior Product Manager",
-      "company": "Druva",
-      "location": "Pune, Maharashtra, India",
-      "url": "https://www.druva.com/why-druva/explore/careers/jobs/8697486002/?gh_jid=8697486002",
-      "source": "Greenhouse (Druva)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "smartrecruiters-freshworks-744000150936730",
       "title": "Staff Product Manager",
       "company": "Freshworks",
@@ -3624,6 +3597,33 @@
       "url": "https://www.amazon.jobs/en/jobs/10590851/sr-product-manager-listings-em-sx",
       "source": "Amazon careers",
       "queuedOn": "2026-10-28"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Product-Manager---Technical-II_R-293237",
+      "title": "Product Manager - Technical II",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Product-Manager---Technical-II_R-293237",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-10-28"
+    },
+    {
+      "id": "smartrecruiters-swiggy-6000000001530123",
+      "title": "Director - Product Management",
+      "company": "Swiggy",
+      "location": "Bengaluru, KA, India",
+      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001530123",
+      "source": "SmartRecruiters (Swiggy)",
+      "queuedOn": "2026-10-28"
+    },
+    {
+      "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
+      "title": "Director Product Management - Enterprise Data Strategy",
+      "company": "Target India",
+      "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
+      "source": "Workday (Target India)",
+      "queuedOn": "2026-10-28"
     }
   ],
   "signals": [
@@ -3977,6 +3977,24 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158162749",
       "id": "smartrecruiters-ServiceNow-744000158162749",
       "detail": "closed 2026-10-21, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Swiggy",
+      "date": "2026-10-28",
+      "title": "Director - Product Management",
+      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001530123",
+      "id": "smartrecruiters-swiggy-6000000001530123",
+      "detail": "closed 2026-10-23, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Target India",
+      "date": "2026-10-28",
+      "title": "Director Product Management - Enterprise Data Strategy",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
+      "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
+      "detail": "closed 2026-10-27, reposted today"
     }
   ],
   "reminders": {}
