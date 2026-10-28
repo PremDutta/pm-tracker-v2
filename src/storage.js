@@ -37,53 +37,10 @@ const THEME_KEY = 'pmt_theme';
 export const getTheme = () => (safeGet(THEME_KEY, 'light') === 'dark' ? 'dark' : 'light');
 export const setTheme = (theme) => safeSet(THEME_KEY, theme);
 
-// ─── Profile (feeds template auto-fill + watchlist mail-merge drafts) ────────
+// ─── Profile (feeds template auto-fill) ────────
 const PROFILE_KEY = 'pmt_profile';
 export const getProfile = () => safeGet(PROFILE_KEY, { name: '', years: '', domain: '', achievements: ['', '', ''] });
 export const setProfile = (profile) => safeSet(PROFILE_KEY, profile);
-
-// ─── Application tracker ─────────────────────────────────────────────────────
-const APPLICATIONS_KEY = 'pmt_applications';
-export const APPLICATION_STATUSES = ['Applied', 'Screening', 'Interview', 'Offer', 'Rejected'];
-
-export const getApplications = () => safeGet(APPLICATIONS_KEY, []);
-export const setApplications = (apps) => safeSet(APPLICATIONS_KEY, apps);
-
-export const addApplication = (app) => {
-  const apps = getApplications();
-  const next = [...apps, { id: Date.now().toString(36), status: 'Applied', appliedDate: new Date().toISOString().slice(0, 10), ...app }];
-  setApplications(next);
-  return next;
-};
-
-export const updateApplication = (id, patch) => {
-  const next = getApplications().map(a => a.id === id ? { ...a, ...patch } : a);
-  setApplications(next);
-  return next;
-};
-
-export const deleteApplication = (id) => {
-  const next = getApplications().filter(a => a.id !== id);
-  setApplications(next);
-  return next;
-};
-
-// ─── Target company watchlist ────────────────────────────────────────────────
-const WATCHLIST_KEY = 'pmt_watchlist';
-export const getWatchlist = () => safeGet(WATCHLIST_KEY, []);
-export const setWatchlist = (list) => safeSet(WATCHLIST_KEY, list);
-
-export const addWatchlistCompany = (item) => {
-  const next = [...getWatchlist(), { id: Date.now().toString(36), ...item }];
-  setWatchlist(next);
-  return next;
-};
-
-export const removeWatchlistCompany = (id) => {
-  const next = getWatchlist().filter(w => w.id !== id);
-  setWatchlist(next);
-  return next;
-};
 
 // ─── Per-platform "last checked" + "was this useful" tally ──────────────────
 const PLATFORM_META_KEY = 'pmt_platform_meta';

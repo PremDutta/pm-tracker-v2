@@ -61,7 +61,7 @@ test('Govt & PSU: filters orgs, and opening a careers page records it as checked
   expect(screen.getByText('64 manual-check orgs not checked in 7 days')).toBeInTheDocument();
 });
 
-test('Govt & PSU: shows live openings by deadline, hides closed ones, and logs one to the Tracker', async () => {
+test('Govt & PSU: shows live openings by deadline, and hides closed ones', async () => {
   global.fetch = jest.fn(() => Promise.resolve({ ok: true, json: () => Promise.resolve({ openings: [
     { id: 'govt-npci-1', title: 'Lead Product Management', company: 'NPCI Bharat BillPay Ltd', location: 'Mumbai', url: 'https://careers.npci.org.in/jobs/1', deadline: null, flags: [], org: 'NPCI', firstSeen: '2026-01-01' },
     { id: 'govt-dic-ora-7', title: 'Technical Product Manager', company: 'NeGD', location: 'Delhi', url: 'https://ora.digitalindiacorporation.in/?job=7', deadline: isoDaysFromToday(2), flags: ['mba_mentioned', 'contract'], org: 'DIC ORA', firstSeen: isoDaysFromToday(0) },
@@ -74,15 +74,12 @@ test('Govt & PSU: shows live openings by deadline, hides closed ones, and logs o
   expect(await screen.findByText('2 open')).toBeInTheDocument();
   expect(screen.queryByText('Product Manager (closed)')).not.toBeInTheDocument();
   // Soonest deadline first, with its urgency, NEW and eligibility badges
-  const logButtons = screen.getAllByRole('button', { name: /^Log application:/ });
-  expect(logButtons[0]).toHaveAccessibleName('Log application: Technical Product Manager');
+  const titles = [...document.querySelectorAll('a')].filter(a => a.textContent.startsWith('Apply')).map(a => a.getAttribute('href'));
+  expect(titles[0]).toBe('https://ora.digitalindiacorporation.in/?job=7');
   expect(screen.getByText('CLOSES IN 2D')).toBeInTheDocument();
   expect(screen.getByText('NEW ROLE')).toBeInTheDocument();
   expect(screen.getByText('MBA asked')).toBeInTheDocument();
 
-  await user.click(logButtons[0]);
-  const apps = JSON.parse(window.localStorage.getItem('pmt_applications'));
-  expect(apps[0]).toMatchObject({ company: 'NeGD', role: 'Technical Product Manager', platform: 'Govt (DIC ORA)', link: 'https://ora.digitalindiacorporation.in/?job=7' });
 });
 
 test('Govt & PSU: orgs the scanner read are marked auto-scanned and leave the manual count; duplicate postings are grouped', async () => {
@@ -109,96 +106,6 @@ test('Govt & PSU: a failed live-openings fetch still leaves the directory usable
   await user.click(screen.getByRole('button', { name: 'Govt & PSU' }));
   expect(await screen.findByText(/Couldn't load live openings/)).toBeInTheDocument();
   expect(screen.getByRole('link', { name: 'NPCI careers page' })).toBeInTheDocument();
-});
-
-test('Tracker: add an application, see it under Applied, move it to Interview', async () => {
-  const user = userEvent.setup();
-  render(<App />);
-
-  // Exact match — a substring match would also hit the Home page's "Application Tracker" feature card
-  await user.click(screen.getByRole('button', { name: 'Tracker' }));
-  await user.type(screen.getByPlaceholderText('Company *'), 'Zeta Test Co');
-  await user.type(screen.getByPlaceholderText('Role'), 'Senior PM');
-  await user.click(screen.getByRole('button', { name: /Add$/i }));
-
-  expect(screen.getByText('Zeta Test Co')).toBeInTheDocument();
-
-  const stored = JSON.parse(window.localStorage.getItem('pmt_applications'));
-  expect(stored).toHaveLength(1);
-  expect(stored[0].company).toBe('Zeta Test Co');
-  expect(stored[0].status).toBe('Applied');
-
-  // Move it to Interview via the per-card status select — it's the only
-  // <select> rendered on the Tracker tab, so no need to scope the query.
-  await user.selectOptions(screen.getByRole('combobox'), 'Interview');
-
-  const updated = JSON.parse(window.localStorage.getItem('pmt_applications'));
-  expect(updated[0].status).toBe('Interview');
-});
-
-test('Tracker: an application applied 10 days ago with no update shows a follow-up nudge', async () => {
-  const user = userEvent.setup();
-  const tenDaysAgo = new Date(Date.now() - 10 * 86400000).toISOString().slice(0, 10);
-  window.localStorage.setItem('pmt_applications', JSON.stringify([
-    { id: 'old1', company: 'Stale Corp', role: 'PM', platform: '', status: 'Applied', appliedDate: tenDaysAgo },
-  ]));
-
-  render(<App />);
-  await user.click(screen.getByRole('button', { name: 'Tracker' }));
-
-  expect(screen.getByText('Stale Corp')).toBeInTheDocument();
-  expect(screen.getByText(/Follow up — applied 10d ago/i)).toBeInTheDocument();
-  // Custom matcher, not a plain string/regex — the banner's count is inside a
-  // <strong> tag, so its text is split across sibling nodes and the default
-  // text matcher won't find it; checking textContent directly sidesteps that.
-  expect(screen.getByText((_, el) => el.tagName === 'SPAN' && el.textContent.includes('applied 7+ days ago with no update'))).toBeInTheDocument();
-});
-
-test('Watchlist: add a target company and see a generated outreach draft', async () => {
-  const user = userEvent.setup();
-  render(<App />);
-
-  // Exact match — a substring match would also hit the Home page's "Target Company Watchlist" feature card
-  await user.click(screen.getByRole('button', { name: 'Watchlist' }));
-  await user.type(screen.getByPlaceholderText('Company *'), 'Acme Robotics');
-  await user.click(screen.getByRole('button', { name: /Add company/i }));
-
-  expect(screen.getByText('Acme Robotics')).toBeInTheDocument();
-  // The generated draft references the company name
-  expect(screen.getByText(/Acme Robotics is hiring/i)).toBeInTheDocument();
-
-  const stored = JSON.parse(window.localStorage.getItem('pmt_watchlist'));
-  expect(stored).toHaveLength(1);
-  expect(stored[0].company).toBe('Acme Robotics');
-});
-
-test('Watchlist: logging an application creates a Tracker entry, and an ATS-tagged company can be copied for the agent', async () => {
-  const user = userEvent.setup();
-  render(<App />);
-
-  await user.click(screen.getByRole('button', { name: 'Watchlist' }));
-  await user.type(screen.getByPlaceholderText('Company *'), 'Acme Robotics');
-  await user.type(screen.getByPlaceholderText('Target role'), 'Senior PM');
-  await user.selectOptions(screen.getByRole('combobox'), 'greenhouse');
-  await user.type(screen.getByPlaceholderText(/ATS slug/i), 'acmerobotics');
-  await user.click(screen.getByRole('button', { name: /Add company/i }));
-
-  // Watchlist entry keeps the ats/atsSlug fields so it can seed agent/companies.json
-  const watchlist = JSON.parse(window.localStorage.getItem('pmt_watchlist'));
-  expect(watchlist[0]).toMatchObject({ company: 'Acme Robotics', ats: 'greenhouse', atsSlug: 'acmerobotics' });
-
-  // Logging the application writes straight to the Tracker's own storage key,
-  // without needing to open the Tracker tab or retype anything.
-  await user.click(screen.getByRole('button', { name: /Log application/i }));
-  expect(await screen.findByRole('button', { name: /Logged!/i })).toBeInTheDocument();
-  const apps = JSON.parse(window.localStorage.getItem('pmt_applications'));
-  expect(apps).toHaveLength(1);
-  expect(apps[0]).toMatchObject({ company: 'Acme Robotics', role: 'Senior PM', platform: 'Watchlist' });
-
-  // Copy-for-agent only appears once both ats + atsSlug are set, and copies the companies.json-shaped snippet
-  const writeText = jest.spyOn(navigator.clipboard, 'writeText');
-  await user.click(screen.getByRole('button', { name: /Copy for agent/i }));
-  expect(writeText).toHaveBeenCalledWith(JSON.stringify({ name: 'Acme Robotics', ats: 'greenhouse', slug: 'acmerobotics' }, null, 2));
 });
 
 test('Resume Match: matches a key phrase present in both, flags one missing from the resume', async () => {
@@ -324,7 +231,7 @@ test('Senior PM toggle: every search string switches to the senior term (incl. S
   render(<App />);
   await user.click(screen.getByRole('button', { name: 'Senior PM' }));
 
-  for (const tab of ['Hacks', 'Alerts', 'Be First', 'Remote', 'Global', 'Govt & PSU', 'Watchlist', 'Signals', 'Companies']) {
+  for (const tab of ['Hacks', 'Alerts', 'Be First', 'Remote', 'Global', 'Govt & PSU', 'Signals', 'Companies']) {
     await user.click(screen.getByRole('button', { name: tab }));
     expect(document.body.textContent).not.toMatch(/\{(ROLE|KW|KWTEXT|KW\+)\}/);
     for (const a of document.querySelectorAll('a[href]')) expect(a.getAttribute('href')).not.toMatch(/\{(ROLE|KW)/);
@@ -339,24 +246,20 @@ test('Senior PM toggle: every search string switches to the senior term (incl. S
   expect([...document.querySelectorAll('a[href*="flexjobs"]')].map(a => a.href)[0]).toContain('search=Senior+Product+Manager');
 }, 30000); // visits every tab: ~5s locally, slower on CI runners
 
-test('Network: a saved contact flags matching Watchlist and Tracker entries; Tracker copies a teardown brief', async () => {
-  window.localStorage.setItem('pmt_applications', JSON.stringify([{ id: 'a1', company: 'Razorpay Software Pvt Ltd', role: 'Senior PM', status: 'Applied', appliedDate: '2026-09-26', link: 'https://razorpay.com/jobs/1' }]));
+test('Network: a saved contact on the Companies tab flags matching AI PM roles', async () => {
+  global.fetch = jest.fn((url) => Promise.resolve({ ok: true, json: () => Promise.resolve(String(url).includes('ai-roles')
+    ? { roles: [{ id: 'gh-rzp-1', title: 'Senior PM, AI', company: 'Razorpay Software Pvt Ltd', location: 'Bengaluru', url: 'https://razorpay.com/jobs/1', level: 'senior', firstSeen: '2026-10-01' }] }
+    : { roles: {}, openings: [], signals: [] }) }));
   const user = userEvent.setup();
   render(<App />);
 
-  await user.click(screen.getByRole('button', { name: 'Watchlist' }));
+  await user.click(screen.getByRole('button', { name: 'Companies' }));
   await user.type(screen.getByLabelText('My network'), 'Asha Rao, Razorpay, ex-Aftershoot');
   await user.click(screen.getByRole('button', { name: 'Save network' }));
   expect(JSON.parse(window.localStorage.getItem('pmt_network'))).toEqual([{ name: 'Asha Rao', company: 'Razorpay', note: 'ex-Aftershoot' }]);
 
-  await user.click(screen.getByRole('button', { name: 'Tracker' }));
-  expect(screen.getByText(/You know Asha Rao \(ex-Aftershoot\)/)).toBeInTheDocument();
-
-  const writeText = jest.spyOn(navigator.clipboard, 'writeText');
-  await user.click(screen.getByRole('button', { name: 'Copy teardown brief: Razorpay Software Pvt Ltd' }));
-  const brief = writeText.mock.calls[0][0];
-  expect(brief).toMatch(/applying for the Senior PM role at Razorpay Software Pvt Ltd/);
-  expect(brief).toMatch(/one-page product teardown/);
+  await user.click(screen.getByRole('button', { name: 'AI PM' }));
+  expect(await screen.findByText(/You know Asha Rao \(ex-Aftershoot\)/)).toBeInTheDocument();
 });
 
 test('Signals tab: renders reposted roles and spikes from the scanner feed', async () => {
@@ -385,7 +288,7 @@ test('opens in light theme by default, and remembers a switch to dark', async ()
   expect(document.querySelector('[data-theme]')).toHaveAttribute('data-theme', 'dark');
 });
 
-test('Companies: shows live open PM roles per company, expands them, and Watch adds to the Watchlist', async () => {
+test('Companies: shows live open PM roles per company, and expands them', async () => {
   global.fetch = jest.fn((url) => Promise.resolve({ ok: true, json: () => Promise.resolve(String(url).includes('company-roles')
     ? { roles: { NVIDIA: [{ id: 'workday-nvidia-1', title: 'Senior Product Manager, AI Platform', location: 'India, Bengaluru', url: 'https://nvidia.wd5.myworkdayjobs.com/x/1', firstSeen: '2026-01-01' }] }, lastRead: { NVIDIA: '2026-09-30' } }
     : { openings: [], signals: [] }) }));
@@ -396,9 +299,6 @@ test('Companies: shows live open PM roles per company, expands them, and Watch a
   expect(await screen.findByText('1 open product role in India')).toBeInTheDocument();
   await user.click(screen.getByRole('button', { name: 'Show open roles at NVIDIA' }));
   expect(screen.getByRole('link', { name: /Senior Product Manager, AI Platform/ })).toHaveAttribute('href', 'https://nvidia.wd5.myworkdayjobs.com/x/1');
-  await user.click(screen.getByRole('button', { name: 'Add NVIDIA to Watchlist' }));
-  expect(JSON.parse(window.localStorage.getItem('pmt_watchlist'))[0]).toMatchObject({ company: 'NVIDIA' });
-  expect(screen.getByRole('button', { name: 'Add NVIDIA to Watchlist' })).toBeDisabled();
 });
 
 test('Announcements: unseen releases pop up once with Go to feature; the megaphone lists every release', async () => {
@@ -434,7 +334,7 @@ test('Announcements: nothing pops up once releases are older than 14 days', () =
   jest.restoreAllMocks();
 });
 
-test('AI PM tab: level and YC filters, remote badge, and logging to the Tracker', async () => {
+test('AI PM tab: level and YC filters, and remote badge', async () => {
   global.fetch = jest.fn((url) => Promise.resolve({ ok: true, json: () => Promise.resolve(String(url).includes('ai-roles') ? { roles: [
     { id: 'ashby-sarvam-1', title: 'Product Manager - Chanakya', company: 'Sarvam AI', location: 'Delhi', url: 'https://jobs.ashbyhq.com/sarvam/1', level: 'pm', firstSeen: '2026-10-01' },
     { id: 'workday-x-2', title: 'Senior Product Manager, GenAI', company: 'Adobe', location: 'Noida, India', url: 'https://adobe.wd5.myworkdayjobs.com/x/2', level: 'senior', firstSeen: '2026-10-01' },
@@ -455,8 +355,6 @@ test('AI PM tab: level and YC filters, remote badge, and logging to the Tracker'
   expect(screen.getByText('1 of 3')).toBeInTheDocument();
   expect(screen.getByText('REMOTE')).toBeInTheDocument();
 
-  await user.click(screen.getByRole('button', { name: 'Log application: Lead/Group Product Manager at Noora Health' }));
-  expect(JSON.parse(window.localStorage.getItem('pmt_applications'))[0]).toMatchObject({ company: 'Noora Health', platform: 'AI PM tab' });
 });
 
 test('Group PM toggle: searches switch to the group / principal / lead PM term', async () => {

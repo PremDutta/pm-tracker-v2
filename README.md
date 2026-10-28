@@ -8,7 +8,7 @@
 
 A job search toolkit for Product Manager, Senior PM and Group PM roles in India. A background scanner reads 97 company job boards, YC, VC portfolio boards and 143 government sources every 6 hours; the app shows what's open now, flags what's new, and sends one 8 AM digest so you apply first.
 
-It's a static React app (no backend, no database) plus a scheduled Node scanner on GitHub Actions. Everything you enter (applications, watchlist, network, profile) stays in your browser's `localStorage`.
+It's a static React app (no backend, no database) plus a scheduled Node scanner on GitHub Actions. Everything you enter (network, profile, resume drafts) stays in your browser's `localStorage`.
 
 ## What's in it
 
@@ -26,8 +26,7 @@ It's a static React app (no backend, no database) plus a scheduled Node scanner 
 - **41 Google search hacks** in 8 categories: Be First, Hidden Jobs (founder posts, Notion, Google Sheets), **ATS Direct** (Ashby, Greenhouse, Lever, Workday, Workable, SmartRecruiters and 12 more, India-filtered), Senior PM, Referrals, Remote, **AI PM** and **Hiring Signals** (funding, new CPOs, govt PMU contract awards). Every query stays within Google's 32-word limit for all three roles.
 
 ### Applying
-- **Application Tracker:** Applied → Screening → Interview → Offer / Rejected, follow-up nudges after 7 days, and a **teardown brief** you paste into any AI assistant to draft a one-page product teardown for the hiring manager.
-- **Watchlist + My network:** target companies with careers links, hidden-posting searches and outreach drafts. List your ex-colleagues once, and every company where you know someone is flagged across the app so you ask for a referral first.
+- **My network (Companies tab):** list your ex-colleagues once, and every company where you know someone is flagged across the app so you ask for a referral first.
 - **Resume ↔ JD Match:** resume parsed in the browser (PDF / DOCX / TXT), stemmed keyword and phrase matching, requirement and experience-years checks, saved versions, and a "copy gap summary for AI" handoff.
 - **Templates, alert setup guide and "be first to apply" playbook.**
 
@@ -88,7 +87,7 @@ pm-tracker-v2/
 ├── src/
 │   ├── App.js                     # shell: nav, role toggle, tabs, announcements
 │   ├── tabs/                      # one file per tab
-│   ├── components/                # Tracker, Watchlist, ResumeMatch, HackCard, Announcements...
+│   ├── components/                # ResumeMatch, HackCard, Network, Announcements...
 │   └── data/                      # platforms, hacks, roles, LinkedIn links, whatsNew; GENERATED: companyDirectory.js, govtOrgsList.js
 └── .github/workflows/             # ci.yml, job-scan.yml (every 6h + 8 AM digest), check-links.yml (weekly)
 ```
@@ -97,7 +96,7 @@ pm-tracker-v2/
 
 - **Companies tab:** edit `scripts/company-directory.json`, then `node scripts/build-company-directory.mjs`. It regenerates `src/data/companyDirectory.js` and `agent/directory-companies.json`.
 - **Govt & PSU:** generated from the `india-govt-search` registry in the private ai-job-search repo, plus `scripts/govt-extra-orgs.json`. Run `node scripts/sync-govt-registry.mjs [path/to/orgs.json]`.
-- **Your own target companies:** edit `agent/companies.json` (or use **Copy for agent** on a Watchlist card).
+- **Your own target companies:** edit `agent/companies.json`.
 
 Don't hand-edit generated files.
 

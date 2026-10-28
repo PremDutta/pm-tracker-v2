@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { ExternalLink, Search, ChevronDown, ChevronUp, Plus, Check, RefreshCw } from 'lucide-react';
+import { ExternalLink, Search, ChevronDown, ChevronUp, RefreshCw } from 'lucide-react';
 import { LEVELS } from './AiPmTab';
 import { timeAgo } from '../storage';
 import { COMPANY_DIRECTORY, COMPANY_DIRECTORY_VERIFIED } from '../data/companyDirectory';
-import { addWatchlistCompany, getWatchlist, getNetwork } from '../storage';
-import { ContactFlag } from '../components/Network';
+import { getNetwork } from '../storage';
+import { ContactFlag, NetworkEditor } from '../components/Network';
 import NewBadge from '../components/NewBadge';
 
 // Written every 6 hours by the scanner (agent/company-roles.json), read straight
@@ -27,7 +27,7 @@ const DAY_MS = 86_400_000;
 const isFresh = (isoDay) => isoDay && (Date.now() - new Date(`${isoDay}T00:00:00`).getTime()) <= 3 * DAY_MS;
 const googleRoles = (name, role) => `https://www.google.com/search?q=${encodeURIComponent(`"${name}" ${role.searchTerm} India (careers OR jobs)`)}&tbs=qdr:m`;
 
-export default function CompaniesTab({ t, card, btnSecondary, badge, role, focus }) {
+export default function CompaniesTab({ t, card, btnPrimary, btnSecondary, badge, role, focus }) {
   const [live, setLive] = useState({ status: 'loading', roles: {}, lastRead: {}, scannedAt: null });
   const [reload, setReload] = useState(0);
   const [levels, setLevels] = useState([]);   // empty = all levels
@@ -39,8 +39,7 @@ export default function CompaniesTab({ t, card, btnSecondary, badge, role, focus
   const [query, setQuery] = useState('');
   const [hiringOnly, setHiringOnly] = useState(false);
   const [open, setOpen] = useState(null);
-  const [watched, setWatched] = useState(() => new Set(getWatchlist().map(w => w.company.toLowerCase())));
-  const [network] = useState(() => getNetwork());
+  const [network, setNetworkState] = useState(() => getNetwork());
 
   // Refresh re-reads the scanner's latest file (the cache-buster skips the CDN copy).
   useEffect(() => {
@@ -74,11 +73,6 @@ export default function CompaniesTab({ t, card, btnSecondary, badge, role, focus
   const scannedCount = COMPANY_DIRECTORY.filter(c => c.scanned).length;
   const openTotal = COMPANY_DIRECTORY.reduce((n, c) => n + rolesOf(c).length, 0);
   const hiringCompanies = COMPANY_DIRECTORY.filter(c => rolesOf(c).length > 0).length;
-
-  const watch = (c) => {
-    addWatchlistCompany({ company: c.name, careersUrl: c.careersUrl, role: role.keyword, domain: '', ats: '', atsSlug: '' });
-    setWatched(new Set([...watched, c.name.toLowerCase()]));
-  };
 
   const chip = (active) => ({ padding:'7px 14px', borderRadius:'980px', border:`1px solid ${active ? t.accent : t.border}`, background:active ? t.accent : t.cardBg, color:active ? '#fff' : t.textSecondary, fontSize:'12px', fontWeight:'500', cursor:'pointer', whiteSpace:'nowrap' });
 
@@ -180,15 +174,16 @@ export default function CompaniesTab({ t, card, btnSecondary, badge, role, focus
                   )}
                   <a href={c.searchUrl || c.careersUrl} target="_blank" rel="noopener noreferrer" aria-label={`${c.name} careers`} style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}>Careers <ExternalLink size={11}/></a>
                   <a href={googleRoles(c.name, role)} target="_blank" rel="noopener noreferrer" title="Google their PM roles in India, past month" style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}><Search size={11}/> Google</a>
-                  <button onClick={()=>watch(c)} disabled={watched.has(c.name.toLowerCase())} aria-label={`Add ${c.name} to Watchlist`} style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px', opacity: watched.has(c.name.toLowerCase()) ? 0.6 : 1 }}>
-                    {watched.has(c.name.toLowerCase()) ? <><Check size={12}/> Watching</> : <><Plus size={12}/> Watch</>}
-                  </button>
                 </div>
               </div>
             );
           })}
         </div>
       )}
+
+      <div style={{ marginTop:'28px' }}>
+        <NetworkEditor t={t} card={card} btnPrimary={btnPrimary} onChange={setNetworkState} />
+      </div>
 
       <p style={{ fontSize:'11px', color:t.textTertiary, marginTop:'20px', textAlign:'center' }}>
         Careers pages and job feeds verified {COMPANY_DIRECTORY_VERIFIED}. "Not auto-scanned" companies use custom career sites with no public job feed, or block automated requests.

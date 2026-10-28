@@ -14,8 +14,6 @@ import { now as clockNow } from '../clock.js';
 export const NEW_FOR_DAYS = 14;
 
 export const WHATS_NEW = [
-  { id:'tab:tracker',      date:'2026-09-04', tab:'tracker',     title:'Application Tracker' },
-  { id:'tab:watchlist',    date:'2026-09-04', tab:'watchlist',   title:'Target Company Watchlist' },
   { id:'tab:resumematch',  date:'2026-09-04', tab:'resumematch', title:'Resume ↔ JD Match' },
   { id:'tab:govt',         date:'2026-09-25', tab:'govt',        title:'Govt & PSU jobs', desc:'Live product roles at 60 govt, PSU and govt-backed orgs, scanned every 6h' },
   { id:'govt:coverage', target:'govt-orgs',     date:'2026-09-25', tab:'govt',        title:'Auto-scanned vs Check manually', desc:'Every govt org shows whether the scanner covers it' },
@@ -69,8 +67,7 @@ export const WHATS_NEW = [
   { id:'hack:ai-remote', date:'2026-10-05', tab:'hacks', hackCategory:'ai', title:'Remote AI PM Roles' },
   { id:'tab:companies', date:'2026-09-30', tab:'companies', title:'Top Companies: MNCs, IT majors and unicorns', desc:'Careers pages for Infosys, TCS, big tech and Indian unicorns, with live open product roles in India for every company whose job feed can be read' },
   { id:'alerts:digest', date:'2026-09-30', tab:'alerts', title:'One 8 AM digest + deadline reminders', desc:'Alerts now arrive as one morning digest (8:00 AM IST); govt deadlines trigger reminders 3 days and 1 day before, and urgent roles still come right away' },
-  { id:'network:matcher', target:'network',  date:'2026-09-27', tab:'watchlist', title:'My network: referral matcher', desc:'List ex-colleagues once; every company where you know someone is flagged in Watchlist, Tracker and Govt openings' },
-  { id:'tracker:teardown', date:'2026-09-27', tab:'tracker', title:'Teardown brief for AI', desc:'One click on any application copies a brief to draft a product teardown for the hiring manager' },
+  { id:'network:matcher', target:'network',  date:'2026-09-27', tab:'companies', title:'My network: referral matcher', desc:'List ex-colleagues once; every company where you know someone is flagged in Watchlist, Tracker and Govt openings' },
   { id:'role:search',      date:'2026-09-27', tab:'hacks',       title:'Searches follow the PM / Senior PM toggle', desc:'Senior PM searches include "senior product manager", "sr. product manager", "senior PM" and "SPM"' },
 ];
 

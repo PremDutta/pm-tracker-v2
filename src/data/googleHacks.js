@@ -106,7 +106,7 @@ export const GOOGLE_HACKS = [
     tip:'Newer ATSs used by recently funded startups: pairs well with the Just Raised signal' },
   { category: 'ats', id:'indian-ats', title:'Indian ATS (Zoho, Keka, Freshteam, Darwinbox)', icon:'🇮🇳', badge:'WHERE INDIAN STARTUPS POST',
     query:'(site:zohorecruit.in OR site:zohorecruit.com OR site:keka.com OR site:freshteam.com OR site:darwinbox.in) {ROLE}',
-    tip:'Most Indian startups use these instead of Greenhouse or Lever. Found one you like? Add it to the Watchlist with its ATS and the scanner watches it for you' },
+    tip:'Most Indian startups use these instead of Greenhouse or Lever. Found one you like? Add it to agent/companies.json with its ATS and the scanner watches it for you' },
   // 🕵️ More hidden channels
   { category: 'hidden', id:'founder-posts', title:'Founder / Hiring Manager Posts', icon:'📣', badge:'NEVER ON JOB BOARDS',
     query:'site:linkedin.com/posts ("we\'re hiring" OR "i\'m hiring" OR "my team is hiring" OR "hiring for") {ROLE} {LOC}',

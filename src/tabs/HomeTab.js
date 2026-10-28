@@ -30,8 +30,6 @@ const FEATURES = [
   { title:'Top Companies', desc:'MNCs, IT majors, big tech and Indian unicorns: careers pages plus live open product roles in India.', icon:'🏢', tab:'companies', gradientKey:'gradient1' },
   { title:'Hiring Signals', desc:'Reposted PM roles, engineering spikes and fresh funding: spot roles before they are posted.', icon:'🔭', tab:'signals', gradientKey:'gradient5' },
   { title:'Govt & PSU Jobs', desc:'Live product roles at NPCI, RBIH, NeGD, PSU banks and 130+ PSUs, auto-scanned every 6 hours.', icon:'🏛️', tab:'govt', gradientKey:'gradient3' },
-  { title:'Application Tracker', desc:'Track every application through Applied, Screening, Interview, Offer.', icon:'📋', tab:'tracker', gradientKey:'gradient2' },
-  { title:'Target Company Watchlist', desc:'Track specific companies with recruiter search + auto-drafted outreach.', icon:'🏢', tab:'watchlist', gradientKey:'gradient4' },
   { title:'Resume ↔ JD Match',  desc:'Paste a resume and JD, see missing keywords instantly.', icon:'📄', tab:'resumematch', gradientKey:'gradient3' },
   { title:'All Job Platforms', desc:'28 boards — Indian, global, remote, startup. Sorted newest first.', icon:'💼', tab:'jobs', gradientKey:'gradient1' },
   { title:'Google Hacks',       desc:`${GOOGLE_HACKS.length} queries to find unlisted jobs, hidden posts and hiring signals before boards do.`, icon:'🔍', tab:'hacks', gradientKey:'gradient5' },

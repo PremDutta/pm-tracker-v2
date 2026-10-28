@@ -3,7 +3,7 @@ import { Users, Check } from 'lucide-react';
 import { getNetwork, setNetwork, parseNetwork, contactsAt } from '../storage';
 import NewBadge from './NewBadge';
 
-// "You know someone here" flag, shown on Watchlist cards, Tracker entries and
+// "You know someone here" flag, shown on Companies, AI PM and
 // govt openings. Renders nothing when there's no match.
 export function ContactFlag({ company, t, network }) {
   const people = contactsAt(company, network);
@@ -34,7 +34,7 @@ export function NetworkEditor({ t, card, btnPrimary, onChange }) {
         <Users size={16} /> My network <NewBadge id="network:matcher" t={t} />
       </h3>
       <p style={{ margin: '0 0 12px', fontSize: '12px', color: t.textSecondary }}>
-        Ex-colleagues and friends, one per line: <code style={{ color: t.codeColor }}>Name, Company, how you know them</code>. Any watchlist company, tracked application or govt opening where you know someone gets flagged, so you ask for a referral first. Saved on this device only.
+        Ex-colleagues and friends, one per line: <code style={{ color: t.codeColor }}>Name, Company, how you know them</code>. Any company, AI PM role or govt opening where you know someone gets flagged, so you ask for a referral first. Saved on this device only.
       </p>
       <textarea value={text} onChange={e => setText(e.target.value)} rows={4} aria-label="My network"
         placeholder={'Asha Rao, Razorpay, ex-Aftershoot\nVikram S, NPCI, Zee Trinetra team'}

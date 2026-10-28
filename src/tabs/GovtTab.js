@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { ExternalLink, Search, ClipboardList, Check } from 'lucide-react';
+import { ExternalLink, Search } from 'lucide-react';
 import { GOVT_ORGS, GOVT_CATEGORIES, GOVT_BOARDS, GOVT_SEARCHES, GOVT_REGISTRY_VERIFIED, googleUrl, orgPmSearchUrl } from '../data/govtOrgs';
 import { fillRole } from '../data/roles';
-import { getPlatformMeta, markPlatformChecked, addApplication, getNetwork, timeAgo } from '../storage';
+import { getPlatformMeta, markPlatformChecked, getNetwork, timeAgo } from '../storage';
 import { ContactFlag } from '../components/Network';
 
 const GOVT_TIPS = [
@@ -61,7 +61,6 @@ export default function GovtTab({ t, card, btnSecondary, badge, role }) {
   const [category, setCategory] = useState('all');
   const [highOnly, setHighOnly] = useState(false);
   const [staleFirst, setStaleFirst] = useState(false);
-  const [loggedId, setLoggedId] = useState(null);
   const [network] = useState(() => getNetwork());
   const live = useGovtOpenings();
   const openNow = groupDuplicates(live.openings.filter(o => !o.deadline || daysUntil(o.deadline) >= 0)).sort(byUrgency);
@@ -70,12 +69,6 @@ export default function GovtTab({ t, card, btnSecondary, badge, role }) {
   // was read in the last 2 days. Those don't need a manual weekly check.
   const autoScanned = (org) => [org.short, org.listedOn].some(k => k && live.lastRead[k] && daysUntil(live.lastRead[k]) >= -2);
   const manualOrgs = GOVT_ORGS.filter(o => !autoScanned(o));
-
-  const logOpening = (o) => {
-    addApplication({ company: o.company, role: o.title, platform: `Govt (${o.org})`, link: o.url });
-    setLoggedId(o.id);
-    setTimeout(() => setLoggedId(null), 2000);
-  };
 
   const trackCheck = (org) => setMeta(markPlatformChecked(metaKey(org)));
   const lastChecked = (org) => meta[metaKey(org)]?.lastChecked;
@@ -131,9 +124,6 @@ export default function GovtTab({ t, card, btnSecondary, badge, role }) {
                     <ContactFlag company={o.company} t={t} network={network} />
                   </div>
                   <a href={o.url} target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}>Apply <ExternalLink size={11}/></a>
-                  <button onClick={()=>logOpening(o)} aria-label={`Log application: ${o.title}`} style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}>
-                    {loggedId === o.id ? <><Check size={12}/> Logged!</> : <><ClipboardList size={12}/> Log</>}
-                  </button>
                 </div>
               );
             })}

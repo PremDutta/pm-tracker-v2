@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { ExternalLink, Search, ClipboardList, Check } from 'lucide-react';
+import { ExternalLink, Search } from 'lucide-react';
 import { GOOGLE_HACKS } from '../data/googleHacks';
 import { fillRole } from '../data/roles';
 import { COMPANY_DIRECTORY } from '../data/companyDirectory';
-import { addApplication, getNetwork } from '../storage';
+import { getNetwork } from '../storage';
 import { ContactFlag } from '../components/Network';
 import HackCard from '../components/HackCard';
 import LocationPicker from '../components/LocationPicker';
@@ -29,7 +29,6 @@ export default function AiPmTab({ t, theme, card, btnPrimary, btnSecondary, badg
   const [levels, setLevels] = useState([]);           // empty = all levels
   const [ycOnly, setYcOnly] = useState(false);
   const [query, setQuery] = useState('');
-  const [loggedId, setLoggedId] = useState(null);
   const [network] = useState(() => getNetwork());
 
   useEffect(() => {
@@ -49,12 +48,6 @@ export default function AiPmTab({ t, theme, card, btnPrimary, btnSecondary, badg
     .filter(r => !ycOnly || r.id.startsWith('yc-'))
     .filter(r => !q || `${r.title} ${r.company} ${r.location}`.toLowerCase().includes(q));
   const countBy = (id) => live.roles.filter(r => r.level === id).length;
-
-  const log = (r) => {
-    addApplication({ company: r.company, role: r.title, platform: 'AI PM tab', link: r.url });
-    setLoggedId(r.id);
-    setTimeout(() => setLoggedId(null), 2000);
-  };
 
   const aiHacks = GOOGLE_HACKS.filter(h => h.category === 'ai').map(h => ({ ...h, ...fillLocation(fillRole(h.query, role), loc) }));
   const aiCompanies = COMPANY_DIRECTORY.filter(c => c.sector === 'ai');
@@ -109,9 +102,6 @@ export default function AiPmTab({ t, theme, card, btnPrimary, btnSecondary, badg
                   <ContactFlag company={r.company} t={t} network={network} />
                 </div>
                 <a href={r.url} target="_blank" rel="noopener noreferrer" style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}>Apply <ExternalLink size={11}/></a>
-                <button onClick={()=>log(r)} aria-label={`Log application: ${r.title} at ${r.company}`} style={{ ...btnSecondary, padding:'6px 12px', fontSize:'12px' }}>
-                  {loggedId === r.id ? <><Check size={12}/> Logged!</> : <><ClipboardList size={12}/> Log</>}
-                </button>
               </div>
             ))}
           </div>
