@@ -9,6 +9,20 @@
       "detail": "via Entrackr"
     },
     {
+      "type": "funding",
+      "company": "Let’s Game Now",
+      "title": "Let’s Game Now raises Rs 30 Cr led by Anand Mahindra and Bestvantage Investments",
+      "url": "https://entrackr.com/snippets/lets-game-now-raises-rs-30-cr-led-by-anand-mahindra-and-bestvantage-investments-12761408",
+      "date": "2026-10-28",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-10-28",
+      "detail": "21 engineering openings vs a usual 13"
+    },
+    {
       "type": "eng_spike",
       "company": "Oracle",
       "date": "2026-10-28",
@@ -21,6 +35,14 @@
       "url": "https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/",
       "date": "2026-10-28",
       "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
+      "company": "QwikBuild",
+      "title": "AI enterprise startup QwikBuild raises $2.3 Mn in pre-seed round",
+      "url": "https://entrackr.com/snippets/ai-enterprise-startup-qwikbuild-raises-23-mn-in-pre-seed-round-12760872",
+      "date": "2026-10-28",
+      "detail": "via Entrackr"
     },
     {
       "type": "reopened",
@@ -275,6 +297,14 @@
     },
     {
       "type": "funding",
+      "company": "Chapter Home",
+      "title": "Chapter Home raises Rs 63 Cr in a mix of equity and debt",
+      "url": "https://yourstory.com/2026/10/chapter-home-raises-rs-63-cr-in-a-mix-of-equity-and-debt",
+      "date": "2026-10-22",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
       "company": "Chapter Homes",
       "title": "Chapter Homes Bags ₹63 Cr To Build Home & Kitchen Tech Brands",
       "url": "https://inc42.com/buzz/chapter-homes-bags-%e2%82%b963-cr-to-build-home-kitchen-tech-brands/",
@@ -288,6 +318,14 @@
       "url": "https://entrackr.com/news/rural-healthcare-startup-curebay-raises-rs-100-cr-in-pre-series-c-led-by-ivycap-12705651",
       "date": "2026-10-22",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "CureBay",
+      "title": "CureBay raises Rs 100 Cr in Pre-Series C round led by IvyCap Ventures",
+      "url": "https://yourstory.com/2026/10/curebay-raises-rs-100-cr-in-pre-series-c-round-led-by-ivycap-ventures",
+      "date": "2026-10-22",
+      "detail": "via YourStory"
     },
     {
       "type": "funding",

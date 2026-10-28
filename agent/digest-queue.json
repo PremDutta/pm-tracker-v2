@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "smartrecruiters-freshworks-744000150936730",
-      "title": "Staff Product Manager",
-      "company": "Freshworks",
-      "location": "Bengaluru, , India",
-      "url": "https://jobs.smartrecruiters.com/Freshworks/744000150936730",
-      "source": "SmartRecruiters (Freshworks)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "smartrecruiters-freshworks-744000140661230",
-      "title": "Senior Director - Product Design",
-      "company": "Freshworks",
-      "location": "Bengaluru, KA, India",
-      "url": "https://jobs.smartrecruiters.com/Freshworks/744000140661230",
-      "source": "SmartRecruiters (Freshworks)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "greenhouse-highradius-7611197003",
       "title": "Director - Product Security",
       "company": "HighRadius",
@@ -3624,6 +3606,24 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
       "source": "Workday (Target India)",
       "queuedOn": "2026-10-28"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210803744",
+      "title": "Vice President- Account Management Services Product Owner",
+      "company": "JPMorgan Chase",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803744",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-28"
+    },
+    {
+      "id": "smartrecruiters-swiggy-6000000001530714",
+      "title": "Senior Product Manager",
+      "company": "Swiggy",
+      "location": "Bengaluru, KA, India",
+      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001530714",
+      "source": "SmartRecruiters (Swiggy)",
+      "queuedOn": "2026-10-28"
     }
   ],
   "signals": [
@@ -3995,6 +3995,12 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
       "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
       "detail": "closed 2026-10-27, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-10-28",
+      "detail": "21 engineering openings vs a usual 13"
     }
   ],
   "reminders": {}

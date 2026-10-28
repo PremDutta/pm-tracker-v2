@@ -2138,8 +2138,8 @@
           "eng": 42
         },
         "2026-10-28": {
-          "total": 155,
-          "eng": 41
+          "total": 153,
+          "eng": 40
         }
       },
       "pm": {
@@ -5017,7 +5017,7 @@
         },
         "2026-10-28": {
           "total": 23,
-          "eng": 1
+          "eng": 2
         }
       },
       "pm": {
@@ -7009,8 +7009,8 @@
           "eng": 9
         },
         "2026-10-28": {
-          "total": 78,
-          "eng": 9
+          "total": 79,
+          "eng": 10
         }
       },
       "pm": {
@@ -7382,7 +7382,7 @@
           "eng": 15
         },
         "2026-10-28": {
-          "total": 49,
+          "total": 50,
           "eng": 15
         }
       },
@@ -7503,7 +7503,7 @@
           "eng": 1
         },
         "2026-10-28": {
-          "total": 27,
+          "total": 28,
           "eng": 1
         }
       },
@@ -7624,7 +7624,7 @@
           "eng": 2
         },
         "2026-10-28": {
-          "total": 11,
+          "total": 12,
           "eng": 3
         }
       },
@@ -8300,7 +8300,7 @@
           "eng": 3
         },
         "2026-10-28": {
-          "total": 49,
+          "total": 50,
           "eng": 3
         }
       },
@@ -8421,8 +8421,9 @@
           "eng": 15
         },
         "2026-10-28": {
-          "total": 29,
-          "eng": 15
+          "total": 35,
+          "eng": 21,
+          "spike": true
         }
       },
       "pm": {
@@ -8563,7 +8564,7 @@
         },
         "2026-10-28": {
           "total": 100,
-          "eng": 36
+          "eng": 35
         }
       },
       "pm": {
@@ -8708,6 +8709,12 @@
         "product manager commercial card product": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210802870"
+          ],
+          "lastSeen": "2026-10-28"
+        },
+        "vice president account management services product owner": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210803744"
           ],
           "lastSeen": "2026-10-28"
         }
@@ -9687,7 +9694,8 @@
           "ids": [
             "lever-paytm-cf1076c8-e8be-4fc4-8112-aa55051de742"
           ],
-          "lastSeen": "2026-10-28"
+          "lastSeen": "2026-10-28",
+          "closedOn": "2026-10-28"
         },
         "product management product analyst telco": {
           "ids": [
@@ -9698,6 +9706,12 @@
         "product management ai payments": {
           "ids": [
             "lever-paytm-e09a1fc4-47e2-4c49-b17e-6993b958d6ef"
+          ],
+          "lastSeen": "2026-10-28"
+        },
+        "product management product manager ii travel": {
+          "ids": [
+            "lever-paytm-cf1076c8-e8be-4fc4-8112-aa55051de742"
           ],
           "lastSeen": "2026-10-28"
         }
@@ -9819,7 +9833,7 @@
         },
         "2026-10-28": {
           "total": 100,
-          "eng": 21
+          "eng": 22
         }
       },
       "pm": {
@@ -9976,7 +9990,7 @@
           "eng": 2
         },
         "2026-10-28": {
-          "total": 26,
+          "total": 25,
           "eng": 2
         }
       },
@@ -10542,7 +10556,7 @@
         },
         "2026-10-28": {
           "total": 100,
-          "eng": 38
+          "eng": 41
         }
       },
       "pm": {
@@ -10841,7 +10855,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000157550109"
           ],
-          "lastSeen": "2026-10-28"
+          "lastSeen": "2026-10-28",
+          "closedOn": "2026-10-28"
         },
         "senior staff inbound product manager ai super intelligence control tower end to end experience": {
           "ids": [
@@ -10973,7 +10988,7 @@
           "eng": 79
         },
         "2026-10-28": {
-          "total": 151,
+          "total": 150,
           "eng": 80
         }
       },
@@ -11134,7 +11149,8 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Product-Manager---Technical-II_R-293237"
           ],
-          "lastSeen": "2026-10-28"
+          "lastSeen": "2026-10-28",
+          "closedOn": "2026-10-28"
         }
       }
     },
@@ -11374,8 +11390,8 @@
           "eng": 76
         },
         "2026-10-28": {
-          "total": 88,
-          "eng": 76
+          "total": 87,
+          "eng": 75
         }
       },
       "pm": {}
@@ -11634,6 +11650,12 @@
           "ids": [
             "smartrecruiters-swiggy-6000000001518589",
             "smartrecruiters-swiggy-6000000001530123"
+          ],
+          "lastSeen": "2026-10-28"
+        },
+        "senior product manager": {
+          "ids": [
+            "smartrecruiters-swiggy-6000000001530714"
           ],
           "lastSeen": "2026-10-28"
         }
@@ -12120,8 +12142,8 @@
           "eng": 33
         },
         "2026-10-28": {
-          "total": 101,
-          "eng": 35
+          "total": 102,
+          "eng": 36
         }
       },
       "pm": {
@@ -12896,8 +12918,8 @@
           "eng": 48
         },
         "2026-10-28": {
-          "total": 80,
-          "eng": 48
+          "total": 79,
+          "eng": 47
         }
       },
       "pm": {
@@ -13376,8 +13398,8 @@
           "eng": 23
         },
         "2026-10-28": {
-          "total": 99,
-          "eng": 26
+          "total": 107,
+          "eng": 30
         }
       },
       "pm": {
@@ -13741,8 +13763,8 @@
           "spike": true
         },
         "2026-10-28": {
-          "total": 200,
-          "eng": 46
+          "total": 199,
+          "eng": 45
         }
       },
       "pm": {
@@ -14539,8 +14561,8 @@
           "eng": 6
         },
         "2026-10-28": {
-          "total": 14,
-          "eng": 6
+          "total": 15,
+          "eng": 7
         }
       },
       "pm": {
@@ -14654,7 +14676,7 @@
         },
         "2026-10-28": {
           "total": 894,
-          "eng": 567
+          "eng": 566
         }
       },
       "pm": {
@@ -15706,7 +15728,7 @@
           "eng": 3
         },
         "2026-10-28": {
-          "total": 11,
+          "total": 12,
           "eng": 3
         }
       },
@@ -16342,7 +16364,7 @@
           "eng": 158
         },
         "2026-10-28": {
-          "total": 363,
+          "total": 364,
           "eng": 158
         }
       },
@@ -16571,8 +16593,8 @@
           "eng": 30
         },
         "2026-10-28": {
-          "total": 60,
-          "eng": 30
+          "total": 59,
+          "eng": 29
         }
       },
       "pm": {
@@ -17840,7 +17862,7 @@
           "eng": 7
         },
         "2026-10-28": {
-          "total": 41,
+          "total": 42,
           "eng": 7
         }
       },
@@ -18063,7 +18085,7 @@
           "eng": 186
         },
         "2026-10-28": {
-          "total": 364,
+          "total": 365,
           "eng": 189
         }
       },
@@ -18378,7 +18400,7 @@
           "eng": 35
         },
         "2026-10-28": {
-          "total": 103,
+          "total": 102,
           "eng": 34
         }
       },
@@ -18614,8 +18636,8 @@
           "eng": 2
         },
         "2026-10-28": {
-          "total": 16,
-          "eng": 2
+          "total": 10,
+          "eng": 1
         }
       },
       "pm": {
@@ -18637,7 +18659,8 @@
           "ids": [
             "keka-spyneai-136045"
           ],
-          "lastSeen": "2026-10-28"
+          "lastSeen": "2026-10-28",
+          "closedOn": "2026-10-28"
         },
         "associate director product": {
           "ids": [
@@ -18743,7 +18766,7 @@
           "eng": 19
         },
         "2026-10-28": {
-          "total": 369,
+          "total": 371,
           "eng": 19
         }
       },
@@ -19077,7 +19100,7 @@
           "eng": 138
         },
         "2026-10-28": {
-          "total": 504,
+          "total": 505,
           "eng": 138
         }
       },
@@ -19230,8 +19253,8 @@
           "eng": 24
         },
         "2026-10-28": {
-          "total": 102,
-          "eng": 23
+          "total": 103,
+          "eng": 24
         }
       },
       "pm": {
@@ -19366,7 +19389,7 @@
           "eng": 5
         },
         "2026-10-28": {
-          "total": 28,
+          "total": 29,
           "eng": 5
         }
       },
@@ -19410,7 +19433,7 @@
           "eng": 1
         },
         "2026-10-28": {
-          "total": 80,
+          "total": 82,
           "eng": 1
         }
       },
@@ -19549,7 +19572,7 @@
           "eng": 5
         },
         "2026-10-28": {
-          "total": 116,
+          "total": 117,
           "eng": 5
         }
       },
@@ -19678,7 +19701,7 @@
           "eng": 0
         },
         "2026-10-28": {
-          "total": 20,
+          "total": 21,
           "eng": 0
         }
       },
@@ -19722,7 +19745,7 @@
           "eng": 5
         },
         "2026-10-28": {
-          "total": 35,
+          "total": 34,
           "eng": 5
         }
       },
@@ -19743,7 +19766,8 @@
           "ids": [
             "workable-salla-12B456E831"
           ],
-          "lastSeen": "2026-10-28"
+          "lastSeen": "2026-10-28",
+          "closedOn": "2026-10-28"
         },
         "senior product manager gcc expansion": {
           "ids": [
@@ -19760,6 +19784,12 @@
         "staff product manager shipping and fulfillment": {
           "ids": [
             "workable-salla-2E93214C2E"
+          ],
+          "lastSeen": "2026-10-28"
+        },
+        "senior product manager catalog and store": {
+          "ids": [
+            "workable-salla-12B456E831"
           ],
           "lastSeen": "2026-10-28"
         }
@@ -19887,7 +19917,7 @@
         },
         "2026-10-28": {
           "total": 100,
-          "eng": 6
+          "eng": 5
         }
       },
       "pm": {
@@ -20005,8 +20035,8 @@
           "eng": 69
         },
         "2026-10-28": {
-          "total": 244,
-          "eng": 69
+          "total": 242,
+          "eng": 68
         }
       },
       "pm": {
@@ -20149,8 +20179,8 @@
           "eng": 132
         },
         "2026-10-28": {
-          "total": 221,
-          "eng": 132
+          "total": 226,
+          "eng": 136
         }
       },
       "pm": {
@@ -20186,7 +20216,7 @@
           "eng": 119
         },
         "2026-10-28": {
-          "total": 238,
+          "total": 237,
           "eng": 121
         }
       },
@@ -20352,8 +20382,8 @@
           "eng": 4
         },
         "2026-10-28": {
-          "total": 35,
-          "eng": 4
+          "total": 32,
+          "eng": 3
         }
       },
       "pm": {
@@ -20375,7 +20405,8 @@
           "ids": [
             "greenhouse-n26-8023311"
           ],
-          "lastSeen": "2026-10-28"
+          "lastSeen": "2026-10-28",
+          "closedOn": "2026-10-28"
         }
       }
     },
@@ -20407,8 +20438,8 @@
           "eng": 17
         },
         "2026-10-28": {
-          "total": 38,
-          "eng": 17
+          "total": 37,
+          "eng": 16
         }
       },
       "pm": {
