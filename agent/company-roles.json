@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-29T08:45:13.025Z",
+  "scannedAt": "2026-10-29T12:25:28.955Z",
   "roles": {
     "Amazon": [
       {
@@ -367,14 +367,6 @@
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10559319",
-        "title": "Sr. Product Manager - Tech, Just Walk Out Technology , Physical Store 3P (Just Walk Out Technology)",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10559319/sr-product-manager-tech-just-walk-out-technology-physical-store-3p-just-walk-out-technology",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -1927,18 +1919,18 @@
         "firstSeen": "2026-10-23"
       },
       {
-        "id": "sf-careers.wipro.com-203307",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/203307-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.wipro.com-204599",
         "title": "PRODUCT MANAGER L1",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/204599-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.wipro.com-203307",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/203307-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       }
