@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-razorpaysoftwareprivatelimited-4699107005",
-      "title": "Product Manager II - AI ",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
-      "source": "Greenhouse (Razorpay)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "smartrecruiters-ServiceNow-744000152588729",
-      "title": "Director, Product Design",
-      "company": "ServiceNow",
-      "location": "Bangalore, Karnataka, India",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000152588729",
-      "source": "SmartRecruiters (ServiceNow)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "smartrecruiters-swiggy-6000000001420615",
-      "title": "Product Manager I",
-      "company": "Swiggy",
-      "location": "Bengaluru, KA, India",
-      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001420615",
-      "source": "SmartRecruiters (Swiggy)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF084709W",
-      "title": "Product Manager",
-      "company": "Visa",
-      "location": "IN - Bengaluru, India",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF084709W",
-      "source": "Workday (Visa)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
-      "title": "Product Manager (Data Governance Platform, Metadata Management, Data Stewardship, Access Management) (6-12 years)",
-      "company": "Visa",
-      "location": "IN - Bengaluru, India",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
-      "source": "Workday (Visa)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577975",
-      "title": "Lead Digital Product Manager",
-      "company": "Wells Fargo",
-      "location": "Bengaluru, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577975",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-570960-1",
-      "title": "Lead Digital Product Manager - CIAM",
-      "company": "Wells Fargo",
-      "location": "Bengaluru, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-570960-1",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "workday-wf-/job/Bengaluru-India/Senior-Lead-Digital-Product-Manager---Access---Entitlements-Platform_R-577570-1",
-      "title": "Senior Lead Digital Product Manager – Access & Entitlements Platform",
-      "company": "Wells Fargo",
-      "location": "Bengaluru, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Lead-Digital-Product-Manager---Access---Entitlements-Platform_R-577570-1",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "greenhouse-zenoti-7513859003",
       "title": "Director -  Product Management (Payments/Fintech)",
       "company": "Zenoti",
@@ -3624,6 +3552,80 @@
       "url": "https://khatabook.turbohire.co/job/publicjobs/IjLlZhaGR%2Fm0tdGTm4kh8oLdoBHt2JpibpaOl8hEJ%2FJx5yalxtYMXEpabxLHIKHU",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-10-29"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210805038",
+      "title": "Client Reporting Product Owner- Vice President",
+      "company": "JPMorgan Chase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805038",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-10-30"
+    },
+    {
+      "id": "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589",
+      "title": "Product Manager",
+      "company": "Wells Fargo",
+      "location": "Hyderabad, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Product-Manager_R-575589",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-10-30"
+    },
+    {
+      "id": "govt-npci-190737000006305697",
+      "title": "Senior Lead Product Management",
+      "company": "National Payments Corporation of India",
+      "location": "Hyderabad",
+      "url": "https://careers.npci.org.in/jobs/Careers/190737000006305697/Senior-Lead-Product-Management?source=CareerSite",
+      "source": "🏛️ Govt (NPCI)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-10-30"
+    },
+    {
+      "id": "vc-accel-98438360",
+      "title": "Senior Product Manager",
+      "company": "Swiftkey",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-30"
+    },
+    {
+      "id": "vc-accel-98438329",
+      "title": "Group Product Manager",
+      "company": "Swiftkey",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557047351",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-30"
+    },
+    {
+      "id": "vc-accel-98428654",
+      "title": "Product Manager Senior Specialist",
+      "company": "Airkit",
+      "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
+      "url": "https://www.salesforce.com/company/careers/jobs/JR365929/product-manager-senior-specialist/",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-30"
+    },
+    {
+      "id": "vc-accel-98394679",
+      "title": "Associate Product Manager, University Graduate, 2027 Start",
+      "company": "Google",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/101007950268506822-associate-product-manager-university-graduate-2027-start?page=92",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-30"
+    },
+    {
+      "id": "vc-accel-98377400",
+      "title": "Product Manager- Booking and Payments",
+      "company": "Zoca",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://app.pyjamahr.com/careers?company=ZOCAAI+Technologies+Private+Limited&job_id=422349&company_uuid=6FFECB46A0&utm_source=DIRECT&source=DIRECT&isHeaderVisible=true",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-30"
     }
   ],
   "signals": [
@@ -4037,6 +4039,33 @@
       "company": "Accenture",
       "date": "2026-10-29",
       "detail": "140 engineering openings vs a usual 41"
+    },
+    {
+      "type": "reopened",
+      "company": "Accenture",
+      "date": "2026-10-29",
+      "title": "Portal Product Owner - Life and Annuity Business Unit",
+      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00368178",
+      "id": "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00368178",
+      "detail": "closed 2026-10-14, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Accenture",
+      "date": "2026-10-29",
+      "title": "AI Product Management Practitioner",
+      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1",
+      "id": "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1",
+      "detail": "closed 2026-10-29, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-10-29",
+      "title": "Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Product-Manager_R-575589",
+      "id": "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589",
+      "detail": "closed 2026-10-13, reposted today"
     }
   ],
   "reminders": {}

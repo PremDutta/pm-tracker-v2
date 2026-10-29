@@ -210,17 +210,6 @@
       "firstSeen": "2026-10-29"
     },
     {
-      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---Agentic-Operations_R-579367",
-      "title": "Lead Digital Product Manager - Agentic Operations",
-      "company": "Wells Fargo",
-      "location": "Bengaluru, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---Agentic-Operations_R-579367",
-      "source": "Workday (Wells Fargo)",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-28"
-    },
-    {
       "id": "ashby-spotdraft-96761f6b-578d-4daa-9d02-25c47fd39590",
       "title": "Product Manager",
       "company": "SpotDraft",
@@ -241,17 +230,6 @@
       "level": "senior",
       "aiMatch": "title",
       "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "workday-autodesk-/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
-      "title": "Senior Product Manager, GTM Automation",
-      "company": "Autodesk",
-      "location": "Bengaluru, IND",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager--GTM-Automation_26WD101350-2",
-      "source": "Workday (Autodesk)",
-      "level": "senior",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-24"
     },
     {
       "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3",
@@ -613,17 +591,6 @@
       "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192394",
       "source": "Greenhouse (OneTrust)",
       "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-06"
-    },
-    {
-      "id": "vc-accel-75678188",
-      "title": "Senior Product Manager (Conversational AI)",
-      "company": "Spyne",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://spyneai.keka.com/careers/jobdetails/136045",
-      "source": "VC board (Accel portfolio)",
-      "level": "senior",
       "aiMatch": "title",
       "firstSeen": "2026-10-06"
     },
