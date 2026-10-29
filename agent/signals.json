@@ -1,6 +1,18 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-10-29",
+      "detail": "21 engineering openings vs a usual 13"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-29",
+      "detail": "83 engineering openings vs a usual 3"
+    },
+    {
       "type": "funding",
       "company": "Bijnis rebrands as Zorit,",
       "title": "Bijnis rebrands as Zorit, raises Rs 27 Cr led by Sparrow Capital",
@@ -1342,54 +1354,6 @@
       "url": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
       "date": "2026-09-29",
       "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Alive App",
-      "title": "Alive App raises $1 Mn from Powerhouse, Flipkart Ventures",
-      "url": "https://entrackr.com/snippets/alive-app-raises-1-mn-from-powerhouse-flipkart-ventures-12583861",
-      "date": "2026-09-28",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Amaani",
-      "title": "Beauty and wellness startup Amaani raises $5 Mn led by BECO Capital",
-      "url": "https://entrackr.com/snippets/beauty-and-wellness-startup-amaani-raises-5-mn-led-by-beco-capital-12583526",
-      "date": "2026-09-28",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Amaani",
-      "title": "Amaani raises $5M in Series A",
-      "url": "https://yourstory.com/2026/09/amaani-raises-5-million-in-series-a",
-      "date": "2026-09-28",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Balwaan Krishi",
-      "title": "Agricultural machinery company Balwaan Krishi raises Rs 100 Cr in Series B round",
-      "url": "https://entrackr.com/news/agricultural-machinery-company-balwaan-krishi-raises-rs-100-cr-in-series-b-round-12584408",
-      "date": "2026-09-28",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Balwaan Krishi",
-      "title": "Agricultural machinery company Balwaan Krishi raises Rs 100 Cr in Series B",
-      "url": "https://yourstory.com/2026/09/agricultural-machinery-balwaan-krishi-raises-rs-100-crore-series-b",
-      "date": "2026-09-28",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "SiMa.ai",
-      "title": "Physical AI company SiMa.ai raises $150 Mn in Series C round",
-      "url": "https://entrackr.com/news/physical-ai-company-simaai-raises-150-mn-in-series-c-round-12587904",
-      "date": "2026-09-28",
-      "detail": "via Entrackr"
     }
   ]
 }

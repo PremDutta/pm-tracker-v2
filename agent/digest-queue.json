@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workable-innovaccer-analytics-628BD2FEFE",
-      "title": "4622 -APM/Product Manager-Atlas",
-      "company": "Innovaccer",
-      "location": "Noida, India",
-      "url": "https://apply.workable.com/j/628BD2FEFE",
-      "source": "Workable (Innovaccer)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "lever-mindtickle-4365dc2a-87b1-4751-bd30-c90c70dea92c",
       "title": "Group Product Manager (Manager Effectiveness)",
       "company": "Mindtickle",
@@ -3624,6 +3615,15 @@
       "url": "https://www.salesforce.com/company/careers/jobs/JR365929/product-manager-senior-specialist/",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-29"
+    },
+    {
+      "id": "vc-lightspeed-1c5cc826d6cd1000a5d39437679a0000",
+      "title": "Senior Product Manager - Managed Security Services",
+      "company": "Arctic Wolf Networks",
+      "location": "Bengaluru, IND, India",
+      "url": "https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-Product-Manager---Managed-Security-Services_R26_1168",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-10-29"
     }
   ],
   "signals": [
@@ -4001,6 +4001,18 @@
       "company": "Netradyne",
       "date": "2026-10-28",
       "detail": "21 engineering openings vs a usual 13"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-10-29",
+      "detail": "21 engineering openings vs a usual 13"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-29",
+      "detail": "83 engineering openings vs a usual 3"
     }
   ],
   "reminders": {}

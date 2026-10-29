@@ -1,23 +1,23 @@
 {
   "roles": [
     {
+      "id": "eightfold-qualcomm.com-446717846060",
+      "title": "Staff/Director – AI HW Product Management",
+      "company": "Qualcomm",
+      "location": "Bangalore, India",
+      "url": "https://careers.qualcomm.com/careers/job/446717846060",
+      "source": "Qualcomm careers",
+      "level": "leadership",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-29"
+    },
+    {
       "id": "vc-lightspeed-441247",
       "title": "Product Manager - AI Agents",
       "company": "Bridgetown Research",
       "location": "Bangalore",
       "url": "https://www.instahyre.com/job-441247-product-manager-ai-agents-at-bridgetown-research-bangalore/",
       "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
       "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-28"
@@ -64,17 +64,6 @@
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "vc-peakxv-lbtWSkK_VfSx",
-      "title": "AI Native Product Manager",
-      "company": "Leap Finance",
-      "location": "Bengaluru, India",
-      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
       "firstSeen": "2026-10-28"
     },
     {
@@ -152,28 +141,6 @@
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "vc-peakxv-8041196002",
-      "title": "Product Manager",
-      "company": "Sigmoid",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "vc-peakxv-137246",
-      "title": "AI PRODUCT MANAGER",
-      "company": "TestMu",
-      "location": "Noida, UP, India",
-      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
       "firstSeen": "2026-10-28"
     },
     {

@@ -1,6 +1,19 @@
 {
-  "scannedAt": "2026-10-28T22:17:29.121Z",
+  "scannedAt": "2026-10-29T04:42:13.161Z",
   "roles": [
+    {
+      "id": "smartrecruiters-ServiceNow-744000158402969",
+      "title": "Senior Staff Outbound Product Manager",
+      "company": "ServiceNow",
+      "location": "Atlanta, GEORGIA, United States",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158402969",
+      "source": "SmartRecruiters (ServiceNow)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29"
+    },
     {
       "id": "greenhouse-mongodb-8327081",
       "title": "Product Manager 2, Source2Pay",
@@ -1011,7 +1024,7 @@
     },
     {
       "id": "ashby-airwallex-3e50e26a-ea9d-4b63-bdfa-3d3fc6a43908",
-      "title": "Senior Product Manager,  Identity & User Security",
+      "title": "Senior Product Manager,  Identity",
       "company": "Airwallex",
       "location": "SG - Singapore",
       "url": "https://jobs.ashbyhq.com/airwallex/3e50e26a-ea9d-4b63-bdfa-3d3fc6a43908",
@@ -1028,19 +1041,6 @@
       "company": "Airwallex",
       "location": "SG - Singapore",
       "url": "https://jobs.ashbyhq.com/airwallex/6c55b41b-824b-46cd-8590-b9e83eaa5de6",
-      "source": "Ashby (Airwallex)",
-      "level": "senior",
-      "regions": [
-        "singapore"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "ashby-airwallex-579104ca-b257-48e2-8985-4d5f72f30b68",
-      "title": "Senior Product Manager, Identity & Authentication",
-      "company": "Airwallex",
-      "location": "SG - Singapore",
-      "url": "https://jobs.ashbyhq.com/airwallex/579104ca-b257-48e2-8985-4d5f72f30b68",
       "source": "Ashby (Airwallex)",
       "level": "senior",
       "regions": [
@@ -1361,19 +1361,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-asana-8213887",
-      "title": "Lead Product Manager, Enterprise Services Management ",
-      "company": "Asana",
-      "location": "Vancouver, BC",
-      "url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887",
-      "source": "Greenhouse (Asana)",
-      "level": "group",
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-asana-8204614",
       "title": "Lead Product Manager, Enterprise Services Management ",
       "company": "Asana",
@@ -1383,6 +1370,19 @@
       "level": "group",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-asana-8213887",
+      "title": "Lead Product Manager, Enterprise Services Management ",
+      "company": "Asana",
+      "location": "Vancouver, BC",
+      "url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887",
+      "source": "Greenhouse (Asana)",
+      "level": "group",
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -2027,20 +2027,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7649411002",
-      "title": "Staff Product Manager",
-      "company": "Databricks",
-      "location": "Berlin, Germany",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
-      "source": "Greenhouse (Databricks)",
-      "level": "group",
-      "regions": [
-        "germany",
-        "europe"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-7649409002",
       "title": "Staff Product Manager",
       "company": "Databricks",
@@ -2050,6 +2036,20 @@
       "level": "group",
       "regions": [
         "netherlands",
+        "europe"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-7649411002",
+      "title": "Staff Product Manager",
+      "company": "Databricks",
+      "location": "Berlin, Germany",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
+      "source": "Greenhouse (Databricks)",
+      "level": "group",
+      "regions": [
+        "germany",
         "europe"
       ],
       "firstSeen": "2026-10-21"
@@ -2679,6 +2679,19 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "greenhouse-mongodb-8128356",
+      "title": "Senior Product Manager",
+      "company": "MongoDB",
+      "location": "San Francisco",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8128356",
+      "source": "Greenhouse (MongoDB)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "greenhouse-mongodb-7113803",
       "title": "Senior Product Manager",
       "company": "MongoDB",
@@ -2689,19 +2702,6 @@
       "regions": [
         "ireland",
         "europe"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "greenhouse-mongodb-8128356",
-      "title": "Senior Product Manager",
-      "company": "MongoDB",
-      "location": "San Francisco",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8128356",
-      "source": "Greenhouse (MongoDB)",
-      "level": "senior",
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3206,7 +3206,7 @@
       "id": "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "title": "Director, Product Marketing (Hybrid in NYC, SF, or Seattle)",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -3245,7 +3245,7 @@
       "id": "rippling-rippling-7d6f9194-b55e-47a5-b1db-caeb396ba3ab",
       "title": "Product Lead, IT",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/7d6f9194-b55e-47a5-b1db-caeb396ba3ab",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3271,7 +3271,7 @@
       "id": "rippling-rippling-34d2abc5-206c-4472-803a-6b8713382bc6",
       "title": "Product Lead, Reporting and Analytics",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/34d2abc5-206c-4472-803a-6b8713382bc6",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3297,7 +3297,7 @@
       "id": "rippling-rippling-ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "title": "Senior Director of Product, App Platform",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "source": "Rippling (Rippling)",
       "level": "leadership",
