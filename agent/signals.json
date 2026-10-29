@@ -2,6 +2,28 @@
   "signals": [
     {
       "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-29",
+      "detail": "140 engineering openings vs a usual 41"
+    },
+    {
+      "type": "funding",
+      "company": "Ace Blend",
+      "title": "Nutrition startup Ace Blend raises $9.91 Mn led by 3one4 Capital",
+      "url": "https://entrackr.com/snippets/nutrition-startup-ace-blend-raises-991-mn-led-by-3one4-capital-12763751",
+      "date": "2026-10-29",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "ISLAND Beauty",
+      "title": "ISLAND Beauty raises Rs 2.58 Cr from AJ VC to expand skincare range",
+      "url": "https://entrackr.com/snippets/island-beauty-raises-rs-258-cr-from-aj-vc-to-expand-skincare-range-12763206",
+      "date": "2026-10-29",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
       "company": "Netradyne",
       "date": "2026-10-29",
       "detail": "21 engineering openings vs a usual 13"
@@ -11,6 +33,40 @@
       "company": "Oracle",
       "date": "2026-10-29",
       "detail": "83 engineering openings vs a usual 3"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-29",
+      "title": "Staff Inbound Product Manager - Hill Climbing Product and Customer Instance Program",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158441069",
+      "id": "smartrecruiters-ServiceNow-744000158441069",
+      "detail": "closed 2026-10-27, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-29",
+      "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158440984",
+      "id": "smartrecruiters-ServiceNow-744000158440984",
+      "detail": "closed 2026-10-27, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "Venttup",
+      "title": "Venttup raises $3 Mn in pre Series A round led by Rainmatter, Unicorn India Ventures",
+      "url": "https://entrackr.com/snippets/industries-50-startup-venttup-raises-3-mn-in-pre-series-a-led-by-rainmatter-by-zerodha-and-unicorn-india-12764564",
+      "date": "2026-10-29",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Viridian Ingni Propulsion",
+      "title": "Viridian Ingni Propulsion raises Rs 1.47 Cr in pre seed round led by IPV",
+      "url": "https://entrackr.com/snippets/viridian-ingni-propulsion-raises-rs-147-cr-in-pre-seed-round-led-by-ipv-12763438",
+      "date": "2026-10-29",
+      "detail": "via Entrackr"
     },
     {
       "type": "funding",

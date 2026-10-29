@@ -1,51 +1,6 @@
 {
   "jobs": [
     {
-      "id": "lever-mindtickle-4365dc2a-87b1-4751-bd30-c90c70dea92c",
-      "title": "Group Product Manager (Manager Effectiveness)",
-      "company": "Mindtickle",
-      "location": "Pune, Maharashtra",
-      "url": "https://jobs.lever.co/mindtickle/4365dc2a-87b1-4751-bd30-c90c70dea92c",
-      "source": "Lever (Mindtickle)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "eightfold-qualcomm.com-446721309717",
-      "title": "Senior Android SW Product Manager",
-      "company": "Qualcomm",
-      "location": "Hyderabad, Telangāna, India",
-      "url": "https://careers.qualcomm.com/careers/job/446721309717",
-      "source": "Qualcomm careers",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "eightfold-qualcomm.com-446717846060",
-      "title": "Staff/Director – AI HW Product Management",
-      "company": "Qualcomm",
-      "location": "Bangalore, India",
-      "url": "https://careers.qualcomm.com/careers/job/446717846060",
-      "source": "Qualcomm careers",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "greenhouse-razorpaysoftwareprivatelimited-4736965005",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
-      "source": "Greenhouse (Razorpay)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "greenhouse-razorpaysoftwareprivatelimited-4729533005",
-      "title": "Product Manager II - Ads ",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
-      "source": "Greenhouse (Razorpay)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "greenhouse-razorpaysoftwareprivatelimited-4699107005",
       "title": "Product Manager II - AI ",
       "company": "Razorpay",
@@ -3624,6 +3579,51 @@
       "url": "https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-Product-Manager---Managed-Security-Services_R26_1168",
       "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-10-29"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557047351",
+      "title": "Group Product Manager",
+      "company": "Microsoft",
+      "location": "India, Karnataka, Bangalore",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557047351",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-10-29"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R69610",
+      "title": "Oracle Incentive Compensation Product Owner",
+      "company": "Motorola Solutions",
+      "location": "Bangalore offsite, India",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R69610",
+      "source": "Workday (Motorola Solutions)",
+      "queuedOn": "2026-10-29"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000158441069",
+      "title": "Staff Inbound Product Manager - Hill Climbing Product and Customer Instance Program",
+      "company": "ServiceNow",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158441069",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-29"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000158440984",
+      "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
+      "company": "ServiceNow",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158440984",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-10-29"
+    },
+    {
+      "id": "vc-peakxv-b9269270-6644-4fa3-90c8-e7c0e360d75a",
+      "title": "Product Manager ",
+      "company": "Khatabook",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://khatabook.turbohire.co/job/publicjobs/IjLlZhaGR%2Fm0tdGTm4kh8oLdoBHt2JpibpaOl8hEJ%2FJx5yalxtYMXEpabxLHIKHU",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-29"
     }
   ],
   "signals": [
@@ -4013,6 +4013,30 @@
       "company": "Oracle",
       "date": "2026-10-29",
       "detail": "83 engineering openings vs a usual 3"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-29",
+      "title": "Staff Inbound Product Manager - Hill Climbing Product and Customer Instance Program",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158441069",
+      "id": "smartrecruiters-ServiceNow-744000158441069",
+      "detail": "closed 2026-10-27, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-29",
+      "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158440984",
+      "id": "smartrecruiters-ServiceNow-744000158440984",
+      "detail": "closed 2026-10-27, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-29",
+      "detail": "140 engineering openings vs a usual 41"
     }
   ],
   "reminders": {}

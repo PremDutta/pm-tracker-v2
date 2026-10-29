@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-29T04:42:13.107Z",
+  "scannedAt": "2026-10-29T08:45:13.025Z",
   "roles": {
     "Amazon": [
       {
@@ -1067,20 +1067,20 @@
     ],
     "Microsoft": [
       {
+        "id": "eightfold-microsoft.com-1970393557047351",
+        "title": "Group Product Manager",
+        "location": "India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557047351",
+        "level": "group",
+        "firstSeen": "2026-10-29"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557042009",
         "title": "Principal Product Manager",
         "location": "India, Uttar Pradesh, Noida",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042009",
         "level": "group",
         "firstSeen": "2026-10-20"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393556997831",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
-        "level": "group",
-        "firstSeen": "2026-09-30"
       },
       {
         "id": "eightfold-microsoft.com-1970393556944984",
@@ -1091,12 +1091,12 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557041935",
-        "title": "Product Manager -II",
-        "location": "India, Uttar Pradesh, Noida",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041935",
-        "level": "pm",
-        "firstSeen": "2026-10-21"
+        "id": "eightfold-microsoft.com-1970393556997831",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
+        "level": "group",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "eightfold-microsoft.com-1970393557038894",
@@ -1107,12 +1107,28 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557041943",
-        "title": "Senior Product Manager",
+        "id": "eightfold-microsoft.com-1970393557041935",
+        "title": "Product Manager -II",
         "location": "India, Uttar Pradesh, Noida",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041935",
+        "level": "pm",
+        "firstSeen": "2026-10-21"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557016561",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
         "level": "senior",
-        "firstSeen": "2026-10-20"
+        "firstSeen": "2026-10-06"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557016611",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
+        "level": "senior",
+        "firstSeen": "2026-10-07"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040598",
@@ -1131,28 +1147,20 @@
         "firstSeen": "2026-10-15"
       },
       {
+        "id": "eightfold-microsoft.com-1970393557041943",
+        "title": "Senior Product Manager",
+        "location": "India, Uttar Pradesh, Noida",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
+        "level": "senior",
+        "firstSeen": "2026-10-20"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557040071",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
         "level": "senior",
         "firstSeen": "2026-10-28"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557016611",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
-        "level": "senior",
-        "firstSeen": "2026-10-07"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557016561",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
-        "level": "senior",
-        "firstSeen": "2026-10-06"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040189",
@@ -1229,22 +1237,20 @@
     ],
     "Motorola Solutions": [
       {
+        "id": "workday-motorolasolutions-/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R69610",
+        "title": "Oracle Incentive Compensation Product Owner",
+        "location": "Bangalore offsite, India",
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R69610",
+        "level": "pm",
+        "firstSeen": "2026-10-29"
+      },
+      {
         "id": "workday-motorolasolutions-/job/Bangalore-India/Technical-Product-Manager_R68278",
         "title": "Technical Product Manager",
         "location": "Bangalore, India",
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Technical-Product-Manager_R68278",
         "level": "pm",
         "firstSeen": "2026-10-08"
-      }
-    ],
-    "MyOperator": [
-      {
-        "id": "zoho-myoperator-163599000034203948",
-        "title": "Product Manager",
-        "location": "Noida, India",
-        "url": "https://careers.myoperator.com/jobs/Careers/163599000034203948/Product-Manager?source=CareerSite",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Netomi": [
@@ -1559,6 +1565,14 @@
     ],
     "Razorpay": [
       {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4729533005",
+        "title": "Product Manager II - Ads ",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
+        "level": "pm",
+        "firstSeen": "2026-10-29"
+      },
+      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
@@ -1693,6 +1707,24 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "ServiceNow": [
+      {
+        "id": "smartrecruiters-ServiceNow-744000158440984",
+        "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158440984",
+        "level": "group",
+        "firstSeen": "2026-10-29"
+      },
+      {
+        "id": "smartrecruiters-ServiceNow-744000158441069",
+        "title": "Staff Inbound Product Manager - Hill Climbing Product and Customer Instance Program",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158441069",
+        "level": "group",
+        "firstSeen": "2026-10-29"
+      }
+    ],
     "Sigmoid": [
       {
         "id": "greenhouse-sigmoid-8041196002",
@@ -1737,24 +1769,6 @@
         "url": "https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6",
         "level": "pm",
         "firstSeen": "2026-10-05"
-      }
-    ],
-    "Swiggy": [
-      {
-        "id": "smartrecruiters-swiggy-6000000001530123",
-        "title": "Director - Product Management",
-        "location": "Bengaluru, KA, India",
-        "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001530123",
-        "level": "leadership",
-        "firstSeen": "2026-10-28"
-      },
-      {
-        "id": "smartrecruiters-swiggy-6000000001530714",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru, KA, India",
-        "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001530714",
-        "level": "senior",
-        "firstSeen": "2026-10-28"
       }
     ],
     "Target India": [
@@ -2152,7 +2166,7 @@
     "MBZUAI": "2026-10-29",
     "Meesho": "2026-10-29",
     "Mensa Brands (BRND.ME)": "2026-10-29",
-    "Microsoft": "2026-10-28",
+    "Microsoft": "2026-10-29",
     "Mihup": "2026-10-29",
     "Mindtickle": "2026-10-29",
     "Mollie": "2026-10-29",
