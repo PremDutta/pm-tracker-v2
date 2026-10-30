@@ -2,6 +2,18 @@
   "signals": [
     {
       "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-10-30",
+      "detail": "23 engineering openings vs a usual 13"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-30",
+      "detail": "80 engineering openings vs a usual 4"
+    },
+    {
+      "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-10-29",
       "detail": "140 engineering openings vs a usual 41"
@@ -1452,22 +1464,6 @@
       "title": "WillJini raises first round at $3.5M valuation, without pitching a single VC",
       "url": "https://yourstory.com/2026/09/willjini-raises-first-round-35m-valuation-without-pitching-single-vc",
       "date": "2026-09-30",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Bharat Housing Network",
-      "title": "Bharat Housing Network raises $5 Mn from Symbiotics",
-      "url": "https://entrackr.com/snippets/bharat-housing-network-raises-5-mn-from-symbiotics-12589182",
-      "date": "2026-09-29",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "SiMa.ai",
-      "title": "Physical AI startup SiMa.ai raises $150M in Series C",
-      "url": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
-      "date": "2026-09-29",
       "detail": "via YourStory"
     }
   ]

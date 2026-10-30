@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-zenoti-7513859003",
-      "title": "Director -  Product Management (Payments/Fintech)",
-      "company": "Zenoti",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7513859003",
-      "source": "Greenhouse (Zenoti)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "greenhouse-zenoti-7729933003",
       "title": "Senior Manager - Product Management (AI Workflows)",
       "company": "Zenoti",
@@ -3626,6 +3617,15 @@
       "url": "https://app.pyjamahr.com/careers?company=ZOCAAI+Technologies+Private+Limited&job_id=422349&company_uuid=6FFECB46A0&utm_source=DIRECT&source=DIRECT&isHeaderVisible=true",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-30"
+    },
+    {
+      "id": "vc-accel-98446541",
+      "title": "Lead Product Manager",
+      "company": "Venmo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://paypal.eightfold.ai/careers/job/274922819061",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-30"
     }
   ],
   "signals": [
@@ -4066,6 +4066,18 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Product-Manager_R-575589",
       "id": "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589",
       "detail": "closed 2026-10-13, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-10-30",
+      "detail": "23 engineering openings vs a usual 13"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-30",
+      "detail": "80 engineering openings vs a usual 4"
     }
   ],
   "reminders": {}
