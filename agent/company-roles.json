@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-30T08:51:32.596Z",
+  "scannedAt": "2026-10-30T12:16:25.581Z",
   "roles": {
     "Amazon": [
       {
@@ -145,14 +145,6 @@
         "url": "https://www.amazon.jobs/en/jobs/10490006/senior-product-manager-tech",
         "level": "senior",
         "firstSeen": "2026-10-15"
-      },
-      {
-        "id": "amazon-10510887",
-        "title": "Senior Product Manager - Tech, Alexa Ads",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10510887/senior-product-manager-tech-alexa-ads",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10569078",
@@ -411,6 +403,14 @@
         "firstSeen": "2026-10-13"
       },
       {
+        "id": "amazon-10530922",
+        "title": "Sr. Product Manager, Cost of Returns",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10530922/sr-product-manager-cost-of-returns",
+        "level": "senior",
+        "firstSeen": "2026-10-30"
+      },
+      {
         "id": "amazon-10449781",
         "title": "Sr. Product Manager, MFN RCX",
         "location": "Hyderabad, Telangana, IND",
@@ -551,6 +551,16 @@
         "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
         "level": "pm",
         "firstSeen": "2026-10-05"
+      }
+    ],
+    "GoKwik": [
+      {
+        "id": "keka-gokwik-167636",
+        "title": "Associate Product Manager",
+        "location": "Bangalore, Gurugram",
+        "url": "https://gokwik.keka.com/careers/jobdetails/167636",
+        "level": "pm",
+        "firstSeen": "2026-10-30"
       }
     ],
     "Gushwork": [
@@ -1555,14 +1565,6 @@
         "firstSeen": "2026-10-05"
       },
       {
-        "id": "rippling-rippling-ac5e20fe-de0e-422f-ac7c-0112c4769e26",
-        "title": "Product Lead, Payroll",
-        "location": "Bangalore, India",
-        "url": "https://ats.rippling.com/rippling/jobs/ac5e20fe-de0e-422f-ac7c-0112c4769e26",
-        "level": "group",
-        "firstSeen": "2026-10-05"
-      },
-      {
         "id": "rippling-rippling-76af5c78-5db5-4104-8916-f3f216f1a607",
         "title": "Product Lead, UI Platform ",
         "location": "Bangalore, India",
@@ -1719,14 +1721,6 @@
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
         "level": "leadership",
         "firstSeen": "2026-10-28"
-      },
-      {
-        "id": "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Senior-Product-Manager---Core-Data---Decision-Intelligence_R0000449196",
-        "title": "Senior Product Manager - Core Data & Decision Intelligence",
-        "location": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Senior-Product-Manager---Core-Data---Decision-Intelligence_R0000449196",
-        "level": "senior",
-        "firstSeen": "2026-10-30"
       }
     ],
     "Vedantu": [
@@ -1781,6 +1775,14 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
         "level": "group",
         "firstSeen": "2026-10-22"
+      },
+      {
+        "id": "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589",
+        "title": "Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Product-Manager_R-575589",
+        "level": "pm",
+        "firstSeen": "2026-10-30"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -1859,18 +1861,18 @@
         "firstSeen": "2026-10-23"
       },
       {
-        "id": "sf-careers.wipro.com-203307",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/203307-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.wipro.com-204599",
         "title": "PRODUCT MANAGER L1",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/204599-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.wipro.com-203307",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/203307-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       }
@@ -1988,14 +1990,6 @@
       }
     ],
     "Zensar": [
-      {
-        "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-152758",
-        "title": "ESaaS - MSD -Functional - D365 ERP Product Owner/Scrum Master",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/152758",
-        "level": "pm",
-        "firstSeen": "2026-10-25"
-      },
       {
         "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-150220",
         "title": "Product Owner",

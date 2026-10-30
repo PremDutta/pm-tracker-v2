@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-zenoti-7729933003",
-      "title": "Senior Manager - Product Management (AI Workflows)",
-      "company": "Zenoti",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7729933003",
-      "source": "Greenhouse (Zenoti)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "lever-zeta-8623c195-f912-4d87-952f-7114cd258413",
       "title": "Product Manager I",
       "company": "Zeta",
@@ -3625,6 +3616,15 @@
       "location": "Bengaluru, Karnataka, India",
       "url": "https://paypal.eightfold.ai/careers/job/274922819061",
       "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-30"
+    },
+    {
+      "id": "keka-gokwik-167636",
+      "title": "Associate Product Manager",
+      "company": "GoKwik",
+      "location": "Bangalore, Gurugram",
+      "url": "https://gokwik.keka.com/careers/jobdetails/167636",
+      "source": "Keka (GoKwik)",
       "queuedOn": "2026-10-30"
     }
   ],
