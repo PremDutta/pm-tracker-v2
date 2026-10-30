@@ -56,6 +56,28 @@
       "firstSeen": "2026-10-30"
     },
     {
+      "id": "greenhouse-harnessinc-5278997007",
+      "title": "Staff Product Manager – Agentic Application Security Testing",
+      "company": "Harness",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.harness.io/company/jobs/apply?gh_jid=5278997007&gh_jid=5278997007",
+      "source": "Greenhouse (Harness)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "eightfold-qualcomm.com-446717846060",
+      "title": "Staff/Director – AI HW Product Management",
+      "company": "Qualcomm",
+      "location": "Bangalore, India",
+      "url": "https://careers.qualcomm.com/careers/job/446717846060",
+      "source": "Qualcomm careers",
+      "level": "leadership",
+      "aiMatch": "title",
+      "firstSeen": "2026-10-30"
+    },
+    {
       "id": "vc-lightspeed-30ecc735-369a-429f-8df5-585b1516cef7",
       "title": "Product Manager, Payroll Integrations",
       "company": "Rippling",
@@ -133,26 +155,26 @@
       "firstSeen": "2026-10-30"
     },
     {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
+      "id": "vc-accel-98554113",
+      "title": "Product Manager II - AI - Bangalore",
+      "company": "Wibmo",
+      "location": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://careers.payu.in/PayU/job/Bengaluru-Product-Manager-II-AI-Bangalore/54314980/",
+      "source": "VC board (Accel portfolio)",
       "level": "pm",
       "aiMatch": "title",
-      "firstSeen": "2026-10-29"
+      "firstSeen": "2026-10-30"
     },
     {
-      "id": "vc-peakxv-lbtWSkK_VfSx",
-      "title": "AI Native Product Manager",
-      "company": "Leap Finance",
-      "location": "Bengaluru, India",
-      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
+      "id": "vc-accel-98554117",
+      "title": "Senior Product Manager AI - Bangalore",
+      "company": "Wibmo",
+      "location": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://careers.payu.in/PayU/job/Bengaluru-Senior-Product-Manager-AI-Bangalore/54314880/",
+      "source": "VC board (Accel portfolio)",
+      "level": "senior",
       "aiMatch": "title",
-      "firstSeen": "2026-10-29"
+      "firstSeen": "2026-10-30"
     },
     {
       "id": "workday-motorolasolutions-/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R69610",
@@ -173,28 +195,6 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158440984",
       "source": "SmartRecruiters (ServiceNow)",
       "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-29"
-    },
-    {
-      "id": "vc-peakxv-8041196002",
-      "title": "Product Manager",
-      "company": "Sigmoid",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-29"
-    },
-    {
-      "id": "vc-peakxv-137246",
-      "title": "AI PRODUCT MANAGER",
-      "company": "TestMu",
-      "location": "Noida, UP, India",
-      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-29"
     },

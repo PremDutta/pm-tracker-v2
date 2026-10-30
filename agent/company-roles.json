@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-30T12:16:25.581Z",
+  "scannedAt": "2026-10-30T22:00:03.841Z",
   "roles": {
     "Amazon": [
       {
@@ -259,14 +259,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10534230",
-        "title": "Sr Product Manager – Orchestration, Shipment Technologies",
-        "location": "Hyderabad, Telangana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10534230/sr-product-manager-orchestration-shipment-technologies",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10581702",
         "title": "Sr Product Manager – Visibility, Shipment Technologies",
         "location": "Hyderabad, Telangana, IND",
@@ -311,14 +303,6 @@
         "title": "Sr. Product Manager - Tech, AHS",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10560449/sr-product-manager-tech-ahs",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10541182",
-        "title": "Sr. Product Manager - Tech, Amazon Pharmacy",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10541182/sr-product-manager-tech-amazon-pharmacy",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -395,6 +379,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "amazon-10593786",
+        "title": "Sr. Product Manager-Technical, Amazon Business",
+        "location": "Hyderabad, Telangana, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10593786/sr-product-manager-technical-amazon-business",
+        "level": "senior",
+        "firstSeen": "2026-10-30"
+      },
+      {
         "id": "amazon-10576704",
         "title": "Sr. Product Manager, ANow",
         "location": "Bengaluru, Karnataka, IND",
@@ -457,6 +449,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10566206/sr-technical-product-manager-trust-cx-innovations",
         "level": "senior",
         "firstSeen": "2026-10-01"
+      },
+      {
+        "id": "amazon-10396813",
+        "title": "Sr.Product Manager - Tech, Trustworthy Shopping Experience - Ops",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10396813/sr-product-manager-tech-trustworthy-shopping-experience-ops",
+        "level": "senior",
+        "firstSeen": "2026-10-30"
       }
     ],
     "Apna": [
@@ -553,16 +553,6 @@
         "firstSeen": "2026-10-05"
       }
     ],
-    "GoKwik": [
-      {
-        "id": "keka-gokwik-167636",
-        "title": "Associate Product Manager",
-        "location": "Bangalore, Gurugram",
-        "url": "https://gokwik.keka.com/careers/jobdetails/167636",
-        "level": "pm",
-        "firstSeen": "2026-10-30"
-      }
-    ],
     "Gushwork": [
       {
         "id": "lever-gushwork-c03a9615-f124-424c-8bbd-90d209a68f3d",
@@ -591,6 +581,16 @@
         "url": "https://jobs.ashbyhq.com/HackerOne/c061590a-f169-4741-a0ae-a3f9b310cc09",
         "level": "pm",
         "firstSeen": "2026-10-05"
+      }
+    ],
+    "Harness": [
+      {
+        "id": "greenhouse-harnessinc-5278997007",
+        "title": "Staff Product Manager – Agentic Application Security Testing",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://www.harness.io/company/jobs/apply?gh_jid=5278997007&gh_jid=5278997007",
+        "level": "group",
+        "firstSeen": "2026-10-30"
       }
     ],
     "HCLTech": [
@@ -683,18 +683,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1013,6 +1013,14 @@
         "url": "https://jobs.lever.co/meesho/4891a891-f431-4e98-99ae-0e31a21f0190",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "lever-meesho-494d8ba6-22b6-467f-837b-8af9c1aee377",
+        "title": "Product Manager I",
+        "location": "Bangalore, Karnataka",
+        "url": "https://jobs.lever.co/meesho/494d8ba6-22b6-467f-837b-8af9c1aee377",
+        "level": "pm",
+        "firstSeen": "2026-10-30"
       },
       {
         "id": "lever-meesho-5dca8c71-9993-438f-ad51-da3c7f4be692",
@@ -1765,24 +1773,6 @@
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Technical-Product-Manager_REF087589W",
         "level": "pm",
         "firstSeen": "2026-10-27"
-      }
-    ],
-    "Wells Fargo": [
-      {
-        "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
-        "title": "Lead Product Manager",
-        "location": "Hyderabad, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
-        "level": "group",
-        "firstSeen": "2026-10-22"
-      },
-      {
-        "id": "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589",
-        "title": "Product Manager",
-        "location": "Hyderabad, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Product-Manager_R-575589",
-        "level": "pm",
-        "firstSeen": "2026-10-30"
       }
     ],
     "Wing Assistant (M32 AI)": [

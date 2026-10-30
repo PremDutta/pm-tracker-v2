@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-30T12:16:25.613Z",
+  "scannedAt": "2026-10-30T22:00:03.881Z",
   "roles": [
     {
       "id": "workday-dbs-/job/Singapore---Central/Vice-President--Regional-Product-Manager---Wealth-Lending--Consumer-Banking-Group_WD90137-1",
@@ -11,6 +11,19 @@
       "level": "leadership",
       "regions": [
         "singapore"
+      ],
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "smartrecruiters-freshworks-744000158845489",
+      "title": "Senior Director, AI Platform (Product Management)",
+      "company": "Freshworks",
+      "location": "San Mateo, CA, United States",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000158845489",
+      "source": "SmartRecruiters (Freshworks)",
+      "level": "leadership",
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-10-30"
     },
@@ -28,6 +41,19 @@
       "firstSeen": "2026-10-30"
     },
     {
+      "id": "smartrecruiters-ServiceNow-744000158742369",
+      "title": "Business Systems Product Manager",
+      "company": "ServiceNow",
+      "location": "Santa Clara, CALIFORNIA, United States",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158742369",
+      "source": "SmartRecruiters (ServiceNow)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30"
+    },
+    {
       "id": "smartrecruiters-ServiceNow-744000158615099",
       "title": "Senior Staff Inbound Product Manager - AI Search",
       "company": "ServiceNow",
@@ -37,6 +63,34 @@
       "level": "group",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "smartrecruiters-DeliveryHero-744000158779512",
+      "title": "(Senior) Product Manager - (Logistics, Customer Choice)",
+      "company": "Talabat (Delivery Hero)",
+      "location": "Berlin, , Germany",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000158779512",
+      "source": "SmartRecruiters (Talabat (Delivery Hero))",
+      "level": "senior",
+      "regions": [
+        "germany",
+        "europe"
+      ],
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "smartrecruiters-DeliveryHero-744000158784739",
+      "title": "Product Manager - (Logistics, Service Automations)",
+      "company": "Talabat (Delivery Hero)",
+      "location": "Berlin, , Germany",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000158784739",
+      "source": "SmartRecruiters (Talabat (Delivery Hero))",
+      "level": "pm",
+      "regions": [
+        "germany",
+        "europe"
       ],
       "firstSeen": "2026-10-30"
     },
@@ -168,20 +222,6 @@
       "level": "group",
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "smartrecruiters-DeliveryHero-744000158019110",
-      "title": "Product Manager - (Logistics, Service Automations)",
-      "company": "Talabat (Delivery Hero)",
-      "location": "Berlin, , Germany",
-      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000158019110",
-      "source": "SmartRecruiters (Talabat (Delivery Hero))",
-      "level": "pm",
-      "regions": [
-        "germany",
-        "europe"
       ],
       "firstSeen": "2026-10-27"
     },
@@ -346,19 +386,6 @@
       "regions": [
         "netherlands",
         "europe"
-      ],
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "greenhouse-adyen-8158552",
-      "title": "Senior Product Manager, Capital",
-      "company": "Adyen",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8158552",
-      "source": "Greenhouse (Adyen)",
-      "level": "senior",
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-26"
     },
@@ -645,6 +672,19 @@
       "firstSeen": "2026-10-26"
     },
     {
+      "id": "greenhouse-n26-8268322",
+      "title": "Lead Technical Product Manager — Machine Learning Platform",
+      "company": "N26",
+      "location": "Barcelona",
+      "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322",
+      "source": "Greenhouse (N26)",
+      "level": "group",
+      "regions": [
+        "europe"
+      ],
+      "firstSeen": "2026-10-26"
+    },
+    {
       "id": "greenhouse-n26-8267143",
       "title": "Lead Technical Product Manager — Machine Learning Platform",
       "company": "N26",
@@ -654,19 +694,6 @@
       "level": "group",
       "regions": [
         "germany",
-        "europe"
-      ],
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "greenhouse-n26-8268322",
-      "title": "Lead Technical Product Manager — Machine Learning Platform",
-      "company": "N26",
-      "location": "Barcelona",
-      "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322",
-      "source": "Greenhouse (N26)",
-      "level": "group",
-      "regions": [
         "europe"
       ],
       "firstSeen": "2026-10-26"
@@ -763,20 +790,6 @@
       "firstSeen": "2026-10-26"
     },
     {
-      "id": "smartrecruiters-DeliveryHero-744000157841650",
-      "title": "(Senior) Product Manager - (Logistics, Customer Choice)",
-      "company": "Talabat (Delivery Hero)",
-      "location": "Berlin, , Germany",
-      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000157841650",
-      "source": "SmartRecruiters (Talabat (Delivery Hero))",
-      "level": "senior",
-      "regions": [
-        "germany",
-        "europe"
-      ],
-      "firstSeen": "2026-10-26"
-    },
-    {
       "id": "workday-mastercard-/job/Vancouver-Canada/Principal-Product-Manager--Technical_R-278438",
       "title": "Principal Product Manager -Technical",
       "company": "Mastercard",
@@ -868,11 +881,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4694764005",
+      "id": "greenhouse-gleanwork-4525519005",
       "title": "Product Manager, AI Quality",
       "company": "Glean",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694764005",
+      "location": "San Francisco Bay Area",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4525519005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -881,11 +894,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4525519005",
+      "id": "greenhouse-gleanwork-4694764005",
       "title": "Product Manager, AI Quality",
       "company": "Glean",
-      "location": "San Francisco Bay Area",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4525519005",
+      "location": "Mountain View, CA",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694764005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -1975,19 +1988,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8235785002",
-      "title": "Sr. Product Manager, Databricks Free Edition",
-      "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
-      "source": "Greenhouse (Databricks)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-7680573002",
       "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
@@ -2001,11 +2001,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8326513002",
-      "title": "Sr. Product Manager, Databricks Repos",
+      "id": "greenhouse-databricks-8235785002",
+      "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2019,6 +2019,19 @@
       "company": "Databricks",
       "location": "Seattle, Washington",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002",
+      "source": "Greenhouse (Databricks)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-8326513002",
+      "title": "Sr. Product Manager, Databricks Repos",
+      "company": "Databricks",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2067,20 +2080,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7649409002",
-      "title": "Staff Product Manager",
-      "company": "Databricks",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649409002",
-      "source": "Greenhouse (Databricks)",
-      "level": "group",
-      "regions": [
-        "netherlands",
-        "europe"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-7649411002",
       "title": "Staff Product Manager",
       "company": "Databricks",
@@ -2090,6 +2089,20 @@
       "level": "group",
       "regions": [
         "germany",
+        "europe"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-7649409002",
+      "title": "Staff Product Manager",
+      "company": "Databricks",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649409002",
+      "source": "Greenhouse (Databricks)",
+      "level": "group",
+      "regions": [
+        "netherlands",
         "europe"
       ],
       "firstSeen": "2026-10-21"
@@ -3233,7 +3246,7 @@
       "id": "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "title": "Director, Product Marketing (Hybrid in NYC, SF, or Seattle)",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -3272,7 +3285,7 @@
       "id": "rippling-rippling-7d6f9194-b55e-47a5-b1db-caeb396ba3ab",
       "title": "Product Lead, IT",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/7d6f9194-b55e-47a5-b1db-caeb396ba3ab",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3298,7 +3311,7 @@
       "id": "rippling-rippling-34d2abc5-206c-4472-803a-6b8713382bc6",
       "title": "Product Lead, Reporting and Analytics",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/34d2abc5-206c-4472-803a-6b8713382bc6",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3516,19 +3529,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-scaleai-4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "company": "Scale AI",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "source": "Greenhouse (Scale AI)",
-      "level": "pm",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-scaleai-4644742005",
       "title": "Forward Deployed Product Manager, Enterprise",
       "company": "Scale AI",
@@ -3538,6 +3538,19 @@
       "level": "pm",
       "regions": [
         "uk"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-scaleai-4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "company": "Scale AI",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "source": "Greenhouse (Scale AI)",
+      "level": "pm",
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3555,19 +3568,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-scaleai-4589749005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "company": "Scale AI",
-      "location": "Doha, Qatar ; Dubai, UAE",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
-      "source": "Greenhouse (Scale AI)",
-      "level": "pm",
-      "regions": [
-        "uae"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-scaleai-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
@@ -3577,6 +3577,19 @@
       "level": "pm",
       "regions": [
         "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-scaleai-4589749005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "company": "Scale AI",
+      "location": "Doha, Qatar ; Dubai, UAE",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "source": "Greenhouse (Scale AI)",
+      "level": "pm",
+      "regions": [
+        "uae"
       ],
       "firstSeen": "2026-10-21"
     },

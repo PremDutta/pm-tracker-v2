@@ -1,60 +1,6 @@
 {
   "jobs": [
     {
-      "id": "lever-zeta-8623c195-f912-4d87-952f-7114cd258413",
-      "title": "Product Manager I",
-      "company": "Zeta",
-      "location": "Bangalore - EC",
-      "url": "https://jobs.lever.co/zeta/8623c195-f912-4d87-952f-7114cd258413",
-      "source": "Lever (Zeta)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "lever-zeta-dbefd5b1-cc6a-4fe6-86d8-89800acee903",
-      "title": "Product Manager II",
-      "company": "Zeta",
-      "location": "Bangalore - EC",
-      "url": "https://jobs.lever.co/zeta/dbefd5b1-cc6a-4fe6-86d8-89800acee903",
-      "source": "Lever (Zeta)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "freshteam-zetwerk-2000008857",
-      "title": "Product Manager",
-      "company": "Zetwerk",
-      "location": "Bengaluru, India",
-      "url": "https://zetwerk.freshteam.com/jobs/nEIAu-qdTVWU/product-manager",
-      "source": "Freshteam (Zetwerk)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "vc-accel-95329470",
-      "title": "Associate Product Manager - SMB Lending (Bengaluru)",
-      "company": "Wibmo",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://careers.payu.in/job/Bengaluru-Associate-Product-Manager-SMB-Lending/54127980/",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "vc-accel-95000935",
-      "title": "Senior Manager - Product Management",
-      "company": "Scripbox",
-      "location": "United States, Bengaluru, Karnataka, India",
-      "url": "https://scripbox.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6a9a6072ec4e6?from=all",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
-      "id": "vc-accel-91054954",
-      "title": "Manager / Senior Manager - Product Management",
-      "company": "Emeritus",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://emeritus.darwinbox.in/ms/candidate/careers/a6a8c7f6664897",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "vc-accel-78244795",
       "title": "Senior Manager - Product Management (AI Workflows)",
       "company": "Zenoti",
@@ -3626,6 +3572,60 @@
       "url": "https://gokwik.keka.com/careers/jobdetails/167636",
       "source": "Keka (GoKwik)",
       "queuedOn": "2026-10-30"
+    },
+    {
+      "id": "amazon-10593786",
+      "title": "Sr. Product Manager-Technical, Amazon Business",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10593786/sr-product-manager-technical-amazon-business",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-31"
+    },
+    {
+      "id": "amazon-10396813",
+      "title": "Sr.Product Manager - Tech, Trustworthy Shopping Experience - Ops",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10396813/sr-product-manager-tech-trustworthy-shopping-experience-ops",
+      "source": "Amazon careers",
+      "queuedOn": "2026-10-31"
+    },
+    {
+      "id": "greenhouse-harnessinc-5278997007",
+      "title": "Staff Product Manager – Agentic Application Security Testing",
+      "company": "Harness",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.harness.io/company/jobs/apply?gh_jid=5278997007&gh_jid=5278997007",
+      "source": "Greenhouse (Harness)",
+      "queuedOn": "2026-10-31"
+    },
+    {
+      "id": "vc-accel-98554117",
+      "title": "Senior Product Manager AI - Bangalore",
+      "company": "Wibmo",
+      "location": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://careers.payu.in/PayU/job/Bengaluru-Senior-Product-Manager-AI-Bangalore/54314880/",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-31"
+    },
+    {
+      "id": "vc-accel-98554113",
+      "title": "Product Manager II - AI - Bangalore",
+      "company": "Wibmo",
+      "location": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://careers.payu.in/PayU/job/Bengaluru-Product-Manager-II-AI-Bangalore/54314980/",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-31"
+    },
+    {
+      "id": "vc-accel-96522104",
+      "title": "Member of Product Staff - Product Lead at Anuvaya",
+      "company": "Vaya",
+      "location": "Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/member-of-product-staff-product-lead-at-anuvaya-at-vaya-4372717540",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-10-31"
     }
   ],
   "signals": [
@@ -4084,6 +4084,15 @@
       "company": "Accenture",
       "date": "2026-10-30",
       "detail": "134 engineering openings vs a usual 42"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-10-30",
+      "title": "Business Systems Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158742369",
+      "id": "smartrecruiters-ServiceNow-744000158742369",
+      "detail": "closed 2026-10-05, reposted today"
     }
   ],
   "reminders": {}

@@ -123,8 +123,8 @@
           "eng": 44
         },
         "2026-10-30": {
-          "total": 111,
-          "eng": 44
+          "total": 110,
+          "eng": 42
         }
       },
       "pm": {
@@ -341,8 +341,8 @@
           "eng": 281
         },
         "2026-10-30": {
-          "total": 670,
-          "eng": 281
+          "total": 676,
+          "eng": 284
         }
       },
       "pm": {
@@ -595,7 +595,7 @@
           "eng": 30
         },
         "2026-10-30": {
-          "total": 71,
+          "total": 73,
           "eng": 30
         }
       },
@@ -744,7 +744,7 @@
           "eng": 55
         },
         "2026-10-30": {
-          "total": 134,
+          "total": 136,
           "eng": 55
         }
       },
@@ -917,7 +917,7 @@
         },
         "2026-10-30": {
           "total": 122,
-          "eng": 47
+          "eng": 46
         }
       },
       "pm": {
@@ -1459,8 +1459,8 @@
           "eng": 77
         },
         "2026-10-30": {
-          "total": 168,
-          "eng": 76
+          "total": 169,
+          "eng": 77
         }
       },
       "pm": {
@@ -2138,8 +2138,8 @@
           "eng": 42
         },
         "2026-10-30": {
-          "total": 151,
-          "eng": 42
+          "total": 149,
+          "eng": 41
         }
       },
       "pm": {
@@ -2288,7 +2288,7 @@
           "eng": 28
         },
         "2026-10-30": {
-          "total": 43,
+          "total": 41,
           "eng": 28
         }
       },
@@ -2431,8 +2431,8 @@
           "eng": 34
         },
         "2026-10-30": {
-          "total": 141,
-          "eng": 34
+          "total": 140,
+          "eng": 35
         }
       },
       "pm": {
@@ -2619,7 +2619,7 @@
           "eng": 12
         },
         "2026-10-30": {
-          "total": 32,
+          "total": 31,
           "eng": 12
         }
       },
@@ -2755,8 +2755,8 @@
           "eng": 52
         },
         "2026-10-30": {
-          "total": 145,
-          "eng": 52
+          "total": 148,
+          "eng": 53
         }
       },
       "pm": {
@@ -2904,8 +2904,8 @@
           "eng": 426
         },
         "2026-10-30": {
-          "total": 814,
-          "eng": 425
+          "total": 815,
+          "eng": 424
         }
       },
       "pm": {
@@ -3123,7 +3123,7 @@
           "eng": 40
         },
         "2026-10-30": {
-          "total": 168,
+          "total": 170,
           "eng": 40
         }
       },
@@ -3970,7 +3970,7 @@
           "eng": 6
         },
         "2026-10-30": {
-          "total": 48,
+          "total": 49,
           "eng": 6
         }
       },
@@ -4880,8 +4880,8 @@
           "eng": 2
         },
         "2026-10-30": {
-          "total": 6,
-          "eng": 2
+          "total": 7,
+          "eng": 3
         }
       },
       "pm": {
@@ -5017,8 +5017,8 @@
           "eng": 2
         },
         "2026-10-30": {
-          "total": 20,
-          "eng": 2
+          "total": 21,
+          "eng": 4
         }
       },
       "pm": {
@@ -5048,7 +5048,8 @@
           "ids": [
             "keka-gokwik-167636"
           ],
-          "lastSeen": "2026-10-30"
+          "lastSeen": "2026-10-30",
+          "closedOn": "2026-10-30"
         }
       }
     },
@@ -6064,7 +6065,8 @@
           "ids": [
             "amazon-10534230"
           ],
-          "lastSeen": "2026-10-30"
+          "lastSeen": "2026-10-30",
+          "closedOn": "2026-10-30"
         },
         "sr product manager cost of returns": {
           "ids": [
@@ -6407,6 +6409,18 @@
             "amazon-10590851"
           ],
           "lastSeen": "2026-10-30"
+        },
+        "sr product manager technical amazon business": {
+          "ids": [
+            "amazon-10593786"
+          ],
+          "lastSeen": "2026-10-30"
+        },
+        "sr product manager tech trustworthy shopping experience ops": {
+          "ids": [
+            "amazon-10396813"
+          ],
+          "lastSeen": "2026-10-30"
         }
       }
     },
@@ -6693,6 +6707,12 @@
           ],
           "lastSeen": "2026-10-20",
           "closedOn": "2026-10-21"
+        },
+        "senior director ai platform": {
+          "ids": [
+            "smartrecruiters-freshworks-744000158845489"
+          ],
+          "lastSeen": "2026-10-30"
         }
       }
     },
@@ -7097,7 +7117,7 @@
           "eng": 10
         },
         "2026-10-30": {
-          "total": 79,
+          "total": 80,
           "eng": 10
         }
       },
@@ -7486,7 +7506,7 @@
           "eng": 14
         },
         "2026-10-30": {
-          "total": 52,
+          "total": 53,
           "eng": 14
         }
       },
@@ -7736,7 +7756,7 @@
           "eng": 3
         },
         "2026-10-30": {
-          "total": 13,
+          "total": 12,
           "eng": 4
         }
       },
@@ -7873,8 +7893,8 @@
           "eng": 30
         },
         "2026-10-30": {
-          "total": 44,
-          "eng": 30
+          "total": 45,
+          "eng": 31
         }
       },
       "pm": {
@@ -8010,7 +8030,7 @@
           "eng": 15
         },
         "2026-10-30": {
-          "total": 47,
+          "total": 46,
           "eng": 15
         }
       },
@@ -8323,7 +8343,7 @@
           "eng": 11
         },
         "2026-10-30": {
-          "total": 38,
+          "total": 39,
           "eng": 11
         }
       },
@@ -9160,7 +9180,7 @@
         },
         "2026-10-30": {
           "total": 100,
-          "eng": 4
+          "eng": 5
         }
       },
       "pm": {}
@@ -9417,8 +9437,8 @@
           "eng": 0
         },
         "2026-10-30": {
-          "total": 8,
-          "eng": 0
+          "total": 9,
+          "eng": 1
         }
       },
       "pm": {
@@ -9721,8 +9741,8 @@
           "eng": 1
         },
         "2026-10-30": {
-          "total": 2,
-          "eng": 1
+          "total": 3,
+          "eng": 2
         }
       },
       "pm": {
@@ -10534,7 +10554,7 @@
           "eng": 12
         },
         "2026-10-30": {
-          "total": 16,
+          "total": 15,
           "eng": 12
         }
       },
@@ -10845,7 +10865,7 @@
         },
         "2026-10-30": {
           "total": 100,
-          "eng": 35
+          "eng": 34
         }
       },
       "pm": {
@@ -10858,10 +10878,10 @@
         },
         "business systems product manager": {
           "ids": [
-            "smartrecruiters-ServiceNow-744000152533129"
+            "smartrecruiters-ServiceNow-744000152533129",
+            "smartrecruiters-ServiceNow-744000158742369"
           ],
-          "lastSeen": "2026-10-05",
-          "closedOn": "2026-10-05"
+          "lastSeen": "2026-10-30"
         },
         "principal inbound product manager": {
           "ids": [
@@ -11312,8 +11332,8 @@
           "eng": 75
         },
         "2026-10-30": {
-          "total": 144,
-          "eng": 79
+          "total": 127,
+          "eng": 67
         }
       },
       "pm": {
@@ -11730,8 +11750,8 @@
           "eng": 74
         },
         "2026-10-30": {
-          "total": 88,
-          "eng": 74
+          "total": 90,
+          "eng": 76
         }
       },
       "pm": {}
@@ -11990,7 +12010,7 @@
         },
         "2026-10-30": {
           "total": 100,
-          "eng": 4
+          "eng": 3
         }
       },
       "pm": {
@@ -12532,8 +12552,8 @@
           "eng": 33
         },
         "2026-10-30": {
-          "total": 101,
-          "eng": 37
+          "total": 99,
+          "eng": 36
         }
       },
       "pm": {
@@ -13350,8 +13370,8 @@
           "eng": 48
         },
         "2026-10-30": {
-          "total": 80,
-          "eng": 49
+          "total": 79,
+          "eng": 48
         }
       },
       "pm": {
@@ -13855,8 +13875,8 @@
           "eng": 25
         },
         "2026-10-30": {
-          "total": 80,
-          "eng": 28
+          "total": 79,
+          "eng": 26
         }
       },
       "pm": {
@@ -13910,7 +13930,8 @@
             "workday-wf-/job/Bengaluru-India/Product-Manager_R-575502-1",
             "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589"
           ],
-          "lastSeen": "2026-10-30"
+          "lastSeen": "2026-10-30",
+          "closedOn": "2026-10-30"
         },
         "lead product manager": {
           "ids": [
@@ -13918,7 +13939,8 @@
             "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
             "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-571003"
           ],
-          "lastSeen": "2026-10-30"
+          "lastSeen": "2026-10-30",
+          "closedOn": "2026-10-30"
         },
         "data product management consultant": {
           "ids": [
@@ -14094,8 +14116,8 @@
           "eng": 44
         },
         "2026-10-30": {
-          "total": 92,
-          "eng": 48
+          "total": 80,
+          "eng": 42
         }
       },
       "pm": {
@@ -14247,7 +14269,7 @@
         },
         "2026-10-30": {
           "total": 199,
-          "eng": 131,
+          "eng": 130,
           "spike": true
         }
       },
@@ -14304,6 +14326,18 @@
           ],
           "lastSeen": "2026-10-30",
           "closedOn": "2026-10-30"
+        },
+        "software product management pre sales senior manager consumer goods services": {
+          "ids": [
+            "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Pre-Sales-Senior-Manager---Consumer-Goods---Services_R00364470"
+          ],
+          "lastSeen": "2026-10-30"
+        },
+        "software product management pre sales senior manager alip": {
+          "ids": [
+            "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Pre-Sales-Senior-Manager---ALIP_R00364466"
+          ],
+          "lastSeen": "2026-10-30"
         }
       }
     },
@@ -15225,8 +15259,8 @@
           "eng": 572
         },
         "2026-10-30": {
-          "total": 901,
-          "eng": 567
+          "total": 902,
+          "eng": 566
         }
       },
       "pm": {
@@ -15649,7 +15683,7 @@
           "eng": 46
         },
         "2026-10-30": {
-          "total": 130,
+          "total": 129,
           "eng": 45
         }
       },
@@ -15951,7 +15985,7 @@
           "eng": 1
         },
         "2026-10-30": {
-          "total": 1,
+          "total": 0,
           "eng": 0
         }
       },
@@ -16198,7 +16232,7 @@
           "eng": 32
         },
         "2026-10-30": {
-          "total": 69,
+          "total": 68,
           "eng": 33
         }
       },
@@ -16229,6 +16263,12 @@
           ],
           "lastSeen": "2026-10-06",
           "closedOn": "2026-10-06"
+        },
+        "staff product manager agentic application security testing": {
+          "ids": [
+            "greenhouse-harnessinc-5278997007"
+          ],
+          "lastSeen": "2026-10-30"
         }
       }
     },
@@ -17011,8 +17051,8 @@
           "eng": 158
         },
         "2026-10-30": {
-          "total": 369,
-          "eng": 158
+          "total": 366,
+          "eng": 159
         }
       },
       "pm": {
@@ -17261,8 +17301,8 @@
           "eng": 29
         },
         "2026-10-30": {
-          "total": 64,
-          "eng": 28
+          "total": 62,
+          "eng": 27
         }
       },
       "pm": {
@@ -17649,7 +17689,7 @@
           "eng": 3
         },
         "2026-10-30": {
-          "total": 7,
+          "total": 8,
           "eng": 3
         }
       },
@@ -17758,7 +17798,7 @@
           "eng": 38
         },
         "2026-10-30": {
-          "total": 80,
+          "total": 81,
           "eng": 37
         }
       },
@@ -18047,8 +18087,8 @@
           "eng": 40
         },
         "2026-10-30": {
-          "total": 154,
-          "eng": 42
+          "total": 159,
+          "eng": 43
         }
       },
       "pm": {
@@ -18238,8 +18278,8 @@
           "eng": 221
         },
         "2026-10-30": {
-          "total": 664,
-          "eng": 220
+          "total": 665,
+          "eng": 221
         }
       },
       "pm": {
@@ -18494,7 +18534,7 @@
           "eng": 32
         },
         "2026-10-30": {
-          "total": 65,
+          "total": 66,
           "eng": 32
         }
       },
@@ -18868,7 +18908,7 @@
           "eng": 184
         },
         "2026-10-30": {
-          "total": 363,
+          "total": 366,
           "eng": 186
         }
       },
@@ -19199,8 +19239,8 @@
           "eng": 32
         },
         "2026-10-30": {
-          "total": 102,
-          "eng": 33
+          "total": 104,
+          "eng": 35
         }
       },
       "pm": {
@@ -19859,8 +19899,8 @@
           "eng": 8
         },
         "2026-10-30": {
-          "total": 19,
-          "eng": 8
+          "total": 20,
+          "eng": 9
         }
       },
       "pm": {
@@ -19962,7 +20002,7 @@
           "eng": 137
         },
         "2026-10-30": {
-          "total": 494,
+          "total": 496,
           "eng": 139
         }
       },
@@ -20131,7 +20171,7 @@
           "eng": 24
         },
         "2026-10-30": {
-          "total": 103,
+          "total": 102,
           "eng": 24
         }
       },
@@ -20499,7 +20539,7 @@
           "eng": 5
         },
         "2026-10-30": {
-          "total": 117,
+          "total": 116,
           "eng": 5
         }
       },
@@ -20650,7 +20690,7 @@
           "eng": 0
         },
         "2026-10-30": {
-          "total": 26,
+          "total": 25,
           "eng": 0
         }
       },
@@ -20913,7 +20953,8 @@
         "product manager": {
           "ids": [
             "smartrecruiters-DeliveryHero-744000157841650",
-            "smartrecruiters-DeliveryHero-744000158019110"
+            "smartrecruiters-DeliveryHero-744000158019110",
+            "smartrecruiters-DeliveryHero-744000158779512"
           ],
           "lastSeen": "2026-10-30"
         },
@@ -21048,7 +21089,7 @@
         },
         "2026-10-30": {
           "total": 238,
-          "eng": 66
+          "eng": 67
         }
       },
       "pm": {
@@ -21099,7 +21140,8 @@
           "ids": [
             "greenhouse-adyen-8158552"
           ],
-          "lastSeen": "2026-10-30"
+          "lastSeen": "2026-10-30",
+          "closedOn": "2026-10-30"
         },
         "senior product manager developer experience": {
           "ids": [
@@ -21209,8 +21251,8 @@
           "eng": 135
         },
         "2026-10-30": {
-          "total": 231,
-          "eng": 134
+          "total": 236,
+          "eng": 137
         }
       },
       "pm": {
@@ -21255,7 +21297,7 @@
         },
         "2026-10-30": {
           "total": 237,
-          "eng": 121
+          "eng": 120
         }
       },
       "pm": {
@@ -21422,8 +21464,8 @@
           "eng": 18
         },
         "2026-10-30": {
-          "total": 51,
-          "eng": 18
+          "total": 53,
+          "eng": 20
         }
       },
       "pm": {
@@ -21460,7 +21502,7 @@
           "eng": 3
         },
         "2026-10-30": {
-          "total": 31,
+          "total": 32,
           "eng": 3
         }
       },
@@ -21532,8 +21574,8 @@
           "eng": 16
         },
         "2026-10-30": {
-          "total": 34,
-          "eng": 15
+          "total": 32,
+          "eng": 13
         }
       },
       "pm": {
