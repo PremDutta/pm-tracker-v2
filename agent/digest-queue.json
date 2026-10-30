@@ -4078,6 +4078,12 @@
       "company": "Oracle",
       "date": "2026-10-30",
       "detail": "80 engineering openings vs a usual 4"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-30",
+      "detail": "134 engineering openings vs a usual 42"
     }
   ],
   "reminders": {}

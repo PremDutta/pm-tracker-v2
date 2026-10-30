@@ -2,6 +2,12 @@
   "signals": [
     {
       "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-10-30",
+      "detail": "134 engineering openings vs a usual 42"
+    },
+    {
+      "type": "eng_spike",
       "company": "Netradyne",
       "date": "2026-10-30",
       "detail": "23 engineering openings vs a usual 13"
@@ -11,6 +17,14 @@
       "company": "Oracle",
       "date": "2026-10-30",
       "detail": "80 engineering openings vs a usual 4"
+    },
+    {
+      "type": "funding",
+      "company": "Qiroko",
+      "title": "Qiroko raises Rs 1.5 Cr in pre-seed round led by ISV Capital",
+      "url": "https://entrackr.com/snippets/qiroko-raises-rs-15-cr-in-pre-seed-round-led-by-isv-capital-12767774",
+      "date": "2026-10-30",
+      "detail": "via Entrackr"
     },
     {
       "type": "eng_spike",
@@ -326,11 +340,27 @@
     },
     {
       "type": "funding",
+      "company": "BioStack",
+      "title": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others",
+      "url": "https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv",
+      "date": "2026-10-26",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
       "company": "Matiks",
       "title": "Social gaming startup Matiks raises $10 Mn in Pre-Series A led by General Catalyst",
       "url": "https://entrackr.com/news/social-gaming-startup-matiks-raises-10-mn-in-pre-series-a-led-by-general-catalyst-12754114",
       "date": "2026-10-26",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Matiks",
+      "title": "Matiks raises $10M in pre-Series A round led by General Catalyst",
+      "url": "https://yourstory.com/2026/10/matiks-raises-10-million-pre-series-a-round-general-catalyst",
+      "date": "2026-10-26",
+      "detail": "via YourStory"
     },
     {
       "type": "eng_spike",
