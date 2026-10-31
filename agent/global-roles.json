@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-30T22:00:03.881Z",
+  "scannedAt": "2026-10-31T04:26:05.087Z",
   "roles": [
     {
       "id": "workday-dbs-/job/Singapore---Central/Vice-President--Regional-Product-Manager---Wealth-Lending--Consumer-Banking-Group_WD90137-1",
@@ -1427,19 +1427,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-asana-8213887",
-      "title": "Lead Product Manager, Enterprise Services Management ",
-      "company": "Asana",
-      "location": "Vancouver, BC",
-      "url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887",
-      "source": "Greenhouse (Asana)",
-      "level": "group",
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-asana-8204614",
       "title": "Lead Product Manager, Enterprise Services Management ",
       "company": "Asana",
@@ -1449,6 +1436,19 @@
       "level": "group",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-asana-8213887",
+      "title": "Lead Product Manager, Enterprise Services Management ",
+      "company": "Asana",
+      "location": "Vancouver, BC",
+      "url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887",
+      "source": "Greenhouse (Asana)",
+      "level": "group",
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -1897,11 +1897,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200462002",
+      "id": "greenhouse-databricks-8200284002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1910,11 +1910,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200284002",
+      "id": "greenhouse-databricks-8200462002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1936,11 +1936,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7863365002",
+      "id": "greenhouse-databricks-7863522002",
       "title": "Sr. Product Manager, Data Governance",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1949,11 +1949,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7863522002",
+      "id": "greenhouse-databricks-7863365002",
       "title": "Sr. Product Manager, Data Governance",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2014,19 +2014,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8326570002",
-      "title": "Sr. Product Manager, Databricks Repos",
-      "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002",
-      "source": "Greenhouse (Databricks)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-8326513002",
       "title": "Sr. Product Manager, Databricks Repos",
       "company": "Databricks",
@@ -2040,11 +2027,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8876675002",
-      "title": "Sr. Product Manager, Lakebase/Lakehouse",
+      "id": "greenhouse-databricks-8326570002",
+      "title": "Sr. Product Manager, Databricks Repos",
       "company": "Databricks",
       "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2058,6 +2045,19 @@
       "company": "Databricks",
       "location": "San Francisco, California",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
+      "source": "Greenhouse (Databricks)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-8876675002",
+      "title": "Sr. Product Manager, Lakebase/Lakehouse",
+      "company": "Databricks",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2160,11 +2160,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8420607002",
+      "id": "greenhouse-databricks-8427954002",
       "title": "Staff Product Manager, Serverless Workspaces",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2173,11 +2173,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8427954002",
+      "id": "greenhouse-databricks-8420607002",
       "title": "Staff Product Manager, Serverless Workspaces",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -3246,7 +3246,7 @@
       "id": "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "title": "Director, Product Marketing (Hybrid in NYC, SF, or Seattle)",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -3259,7 +3259,7 @@
       "id": "rippling-rippling-1311a98d-008f-4517-9f9f-73ee4c9cf1cf",
       "title": "Product Lead - Data Catalog",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/1311a98d-008f-4517-9f9f-73ee4c9cf1cf",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3285,7 +3285,7 @@
       "id": "rippling-rippling-7d6f9194-b55e-47a5-b1db-caeb396ba3ab",
       "title": "Product Lead, IT",
       "company": "Rippling",
-      "location": "Seattle, WA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/7d6f9194-b55e-47a5-b1db-caeb396ba3ab",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3311,7 +3311,7 @@
       "id": "rippling-rippling-34d2abc5-206c-4472-803a-6b8713382bc6",
       "title": "Product Lead, Reporting and Analytics",
       "company": "Rippling",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/34d2abc5-206c-4472-803a-6b8713382bc6",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3568,19 +3568,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-scaleai-4650514005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "company": "Scale AI",
-      "location": "Riyadh, Saudi Arabia",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "source": "Greenhouse (Scale AI)",
-      "level": "pm",
-      "regions": [
-        "saudi"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-scaleai-4589749005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
@@ -3590,6 +3577,19 @@
       "level": "pm",
       "regions": [
         "uae"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-scaleai-4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "company": "Scale AI",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "source": "Greenhouse (Scale AI)",
+      "level": "pm",
+      "regions": [
+        "saudi"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3662,7 +3662,7 @@
       "id": "ashby-snowflake-82f841ea-c0f8-4f5a-b170-212cc9da8c72",
       "title": "Director, Product Management - Snowflake Transactions",
       "company": "Snowflake",
-      "location": "US-CA-Menlo Park",
+      "location": "US-WA-Bellevue",
       "url": "https://jobs.ashbyhq.com/snowflake/82f841ea-c0f8-4f5a-b170-212cc9da8c72",
       "source": "Ashby (Snowflake)",
       "level": "leadership",

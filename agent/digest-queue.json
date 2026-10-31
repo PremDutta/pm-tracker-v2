@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-78244795",
-      "title": "Senior Manager - Product Management (AI Workflows)",
-      "company": "Zenoti",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://boards.greenhouse.io/zenoti/jobs/7729933003",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "vc-accel-77920345",
       "title": "Associate - Business Product Management",
       "company": "Emeritus",
@@ -3626,6 +3617,15 @@
       "url": "https://in.linkedin.com/jobs/view/member-of-product-staff-product-lead-at-anuvaya-at-vaya-4372717540",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-31"
+    },
+    {
+      "id": "vc-peakxv-4485338534",
+      "title": "Product Manager",
+      "company": "NAT HABIT",
+      "location": "Gurugram, IN",
+      "url": "https://in.linkedin.com/jobs/view/product-manager-at-nat-habit-4485338534",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-31"
     }
   ],
   "signals": [
@@ -4093,6 +4093,18 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158742369",
       "id": "smartrecruiters-ServiceNow-744000158742369",
       "detail": "closed 2026-10-05, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-10-31",
+      "detail": "23 engineering openings vs a usual 13"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-31",
+      "detail": "84 engineering openings vs a usual 4"
     }
   ],
   "reminders": {}

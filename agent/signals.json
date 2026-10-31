@@ -2,6 +2,18 @@
   "signals": [
     {
       "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-10-31",
+      "detail": "23 engineering openings vs a usual 13"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-10-31",
+      "detail": "84 engineering openings vs a usual 4"
+    },
+    {
+      "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-10-30",
       "detail": "134 engineering openings vs a usual 42"
@@ -1432,86 +1444,6 @@
       "url": "https://entrackr.com/snippets/ipv-leads-rs-7-cr-seed-round-in-cybersecurity-startup-zaperon-12612485",
       "date": "2026-10-01",
       "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Arivihan",
-      "title": "Arivihan raises $10M as AI-led edtech targets India’s smaller cities",
-      "url": "https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities",
-      "date": "2026-09-30",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Arivihan",
-      "title": "Edtech startup Arivihan raises $10 Mn in Series A led by Accel and Prosus",
-      "url": "https://entrackr.com/news/edtech-startup-arivihan-raises-10-mn-in-series-a-led-by-accel-and-prosus-12592500",
-      "date": "2026-09-30",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "EDT",
-      "title": "Consumer Appliance Startup EDT Raises $2.4 Mn To Expand Product Portfolio",
-      "url": "https://inc42.com/buzz/consumer-appliance-startup-edt-raises-2-4-mn-to-expand-product-portfolio/",
-      "date": "2026-09-30",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "Gravity",
-      "title": "Former Livspace executives’ startup Gravity raises $15 Mn led by Info Edge Ventures and 3one4 Capital",
-      "url": "https://entrackr.com/news/former-livspace-executives-startup-gravity-raises-15-mn-led-by-info-edge-ventures-and-3one4-capital-12593710",
-      "date": "2026-09-30",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Gravity",
-      "title": "Home interiors startup Gravity raises $15M led by 3one4 Capital and Info Edge Ventures",
-      "url": "https://yourstory.com/2026/09/home-interiors-startup-gravity-raises-15-million-led-by-3one4-capital-and-info-edge-ventures",
-      "date": "2026-09-30",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "NKN Media",
-      "title": "NKN Media raises $4.08 Mn at $81.69 Mn valuation",
-      "url": "https://entrackr.com/snippets/nkn-media-raises-408-mn-at-8169-mn-valuation-12613858",
-      "date": "2026-09-30",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Simple Energy",
-      "title": "EV startup Simple Energy raises $182 Mn in Series C round",
-      "url": "https://entrackr.com/news/ev-startup-simple-energy-raises-182-mn-in-series-c-round-12593947",
-      "date": "2026-09-30",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Simple Energy",
-      "title": "EV two-wheeler maker Simple Energy bags Rs 1,750 Cr funding",
-      "url": "https://yourstory.com/2026/09/ev-two-wheeler-maker-simple-energy-bags-rs-1750-cr-funding",
-      "date": "2026-09-30",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Vytalyou",
-      "title": "Longevity startup Vytalyou raises Rs 9 Cr in pre-Series A round",
-      "url": "https://entrackr.com/snippets/longevity-startup-vytalyou-raises-rs-9-cr-in-pre-series-a-round-12593640",
-      "date": "2026-09-30",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "WillJini",
-      "title": "WillJini raises first round at $3.5M valuation, without pitching a single VC",
-      "url": "https://yourstory.com/2026/09/willjini-raises-first-round-35m-valuation-without-pitching-single-vc",
-      "date": "2026-09-30",
-      "detail": "via YourStory"
     }
   ]
 }
