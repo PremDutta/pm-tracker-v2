@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-77920345",
-      "title": "Associate - Business Product Management",
-      "company": "Emeritus",
-      "location": "Mumbai, Maharashtra, India, Bengaluru, Karnataka, India",
-      "url": "https://emeritus.darwinbox.in/ms/candidate/careers/a69fdaaa05236b",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "vc-accel-53739736",
       "title": "Intern - Product Management",
       "company": "Niyo ",
@@ -3625,6 +3616,15 @@
       "location": "Gurugram, IN",
       "url": "https://in.linkedin.com/jobs/view/product-manager-at-nat-habit-4485338534",
       "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-10-31"
+    },
+    {
+      "id": "vc-accel-98635395",
+      "title": "Staff Product Manager - Agentic Application Security Testing",
+      "company": "Split Software",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/harnessinc/jobs/5278997007",
+      "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-31"
     }
   ],

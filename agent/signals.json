@@ -1,6 +1,14 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "CapGrid",
+      "title": "CapGrid Secures ₹50 Cr Funding To Deepen Its Manufacturing Play",
+      "url": "https://inc42.com/buzz/capgrid-secures-%e2%82%b950-cr-funding-to-deepen-its-manufacturing-play/",
+      "date": "2026-10-31",
+      "detail": "via Inc42"
+    },
+    {
       "type": "eng_spike",
       "company": "Netradyne",
       "date": "2026-10-31",
