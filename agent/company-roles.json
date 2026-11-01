@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-01T09:30:56.961Z",
+  "scannedAt": "2026-11-01T12:47:53.481Z",
   "roles": {
     "Amazon": [
       {
@@ -1835,18 +1835,18 @@
         "firstSeen": "2026-10-23"
       },
       {
-        "id": "sf-careers.wipro.com-204599",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Hyderabad, IND-36, IND, 500032<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/204599-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.wipro.com-203307",
         "title": "PRODUCT MANAGER L1",
         "location": "Bengaluru, IND-29, IND, 560035<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/203307-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.wipro.com-204599",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Hyderabad, IND-36, IND, 500032<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/204599-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       }
