@@ -4105,6 +4105,18 @@
       "company": "Oracle",
       "date": "2026-10-31",
       "detail": "84 engineering openings vs a usual 4"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-11-01",
+      "detail": "23 engineering openings vs a usual 13"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-11-01",
+      "detail": "85 engineering openings vs a usual 4"
     }
   ],
   "reminders": {}
