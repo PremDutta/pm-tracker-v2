@@ -2,6 +2,20 @@
   "signals": [
     {
       "type": "funding",
+      "company": "Clinics On Cloud",
+      "title": "Health-tech startup Clinics On Cloud raises $12.5 Mn in Series A round",
+      "url": "https://entrackr.com/news/health-tech-startup-clinics-on-cloud-raises-125-mn-in-series-a-round-12776580",
+      "date": "2026-11-02",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
+      "company": "GoKwik",
+      "date": "2026-11-02",
+      "detail": "10 engineering openings vs a usual 1"
+    },
+    {
+      "type": "funding",
       "company": "Hyeglo Beauty",
       "title": "Beauty and personal care brand Hyeglo Beauty raises Rs 7 Cr led by Sauce",
       "url": "https://entrackr.com/snippets/beauty-and-personal-care-brand-hyeglo-beauty-raises-rs-7-cr-led-by-sauce-12775595",

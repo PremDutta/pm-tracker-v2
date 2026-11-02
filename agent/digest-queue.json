@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-93507863",
-      "title": "Product Lead",
-      "company": "Zinier",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://zinier.breezy.hr/p/37eda7cf5d55-product-lead",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "amazon-10565669",
       "title": "Senior Product Manager - Tech, Selection Monitoring",
       "company": "Amazon",
@@ -3626,6 +3617,15 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805373",
       "source": "JPMorgan Chase careers",
       "queuedOn": "2026-11-02"
+    },
+    {
+      "id": "oracle-ejgk.fa.em2.oraclecloud.com-30051525",
+      "title": "Director - AI Product Architect",
+      "company": "KPMG India",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051525",
+      "source": "KPMG India careers",
+      "queuedOn": "2026-11-02"
     }
   ],
   "signals": [
@@ -4129,6 +4129,12 @@
       "company": "Oracle",
       "date": "2026-11-02",
       "detail": "88 engineering openings vs a usual 4"
+    },
+    {
+      "type": "eng_spike",
+      "company": "GoKwik",
+      "date": "2026-11-02",
+      "detail": "10 engineering openings vs a usual 1"
     }
   ],
   "reminders": {}

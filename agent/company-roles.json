@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-02T09:46:19.716Z",
+  "scannedAt": "2026-11-02T14:56:27.888Z",
   "roles": {
     "Amazon": [
       {
@@ -587,6 +587,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.hcltech.com-168180",
+        "title": "AI Product Manager I",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/168180-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-02"
+      },
+      {
         "id": "sf-careers.hcltech.com-168347",
         "title": "Data Product Manager",
         "location": "Noida",
@@ -643,14 +651,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -663,6 +663,14 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -831,6 +839,16 @@
         "url": "https://job-boards.greenhouse.io/karat/jobs/8843016002",
         "level": "senior",
         "firstSeen": "2026-10-05"
+      }
+    ],
+    "KPMG India": [
+      {
+        "id": "oracle-ejgk.fa.em2.oraclecloud.com-30051525",
+        "title": "Director - AI Product Architect",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051525",
+        "level": "leadership",
+        "firstSeen": "2026-11-02"
       }
     ],
     "LetsTransport": [
@@ -1073,12 +1091,12 @@
         "firstSeen": "2026-10-16"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557037770",
+        "id": "eightfold-microsoft.com-1970393557040071",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
         "level": "senior",
-        "firstSeen": "2026-10-15"
+        "firstSeen": "2026-10-28"
       },
       {
         "id": "eightfold-microsoft.com-1970393557016561",
@@ -1089,12 +1107,12 @@
         "firstSeen": "2026-10-06"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557040071",
+        "id": "eightfold-microsoft.com-1970393557037770",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
         "level": "senior",
-        "firstSeen": "2026-10-28"
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040189",
@@ -1715,6 +1733,16 @@
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Technical-Product-Manager_REF087589W",
         "level": "pm",
         "firstSeen": "2026-10-27"
+      }
+    ],
+    "Wells Fargo": [
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
+        "level": "senior",
+        "firstSeen": "2026-11-02"
       }
     ],
     "Wing Assistant (M32 AI)": [

@@ -1,6 +1,28 @@
 {
   "roles": [
     {
+      "id": "sf-careers.hcltech.com-168180",
+      "title": "AI Product Manager I",
+      "company": "HCLTech",
+      "location": "Noida",
+      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/168180-en_US/",
+      "source": "HCLTech careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "oracle-ejgk.fa.em2.oraclecloud.com-30051525",
+      "title": "Director - AI Product Architect",
+      "company": "KPMG India",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051525",
+      "source": "KPMG India careers",
+      "level": "leadership",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-02"
+    },
+    {
       "id": "vc-peakxv-59397",
       "title": "Product Manager - AI and Agentic",
       "company": "Brightmoney",
@@ -19,17 +41,6 @@
       "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
       "source": "VC board (Peak XV portfolio)",
       "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "eightfold-qualcomm.com-446717846060",
-      "title": "Staff/Director – AI HW Product Management",
-      "company": "Qualcomm",
-      "location": "Bangalore, India",
-      "url": "https://careers.qualcomm.com/careers/job/446717846060",
-      "source": "Qualcomm careers",
-      "level": "leadership",
       "aiMatch": "title",
       "firstSeen": "2026-11-01"
     },
@@ -577,7 +588,7 @@
       "title": "Global Product Lead, Support Tools, Global Business Applied AI, GTM",
       "company": "Google",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=27",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=25",
       "source": "VC board (Accel portfolio)",
       "level": "group",
       "aiMatch": "title",
