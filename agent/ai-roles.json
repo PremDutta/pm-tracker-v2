@@ -243,17 +243,6 @@
       "firstSeen": "2026-10-29"
     },
     {
-      "id": "smartrecruiters-ServiceNow-744000158440984",
-      "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
-      "company": "ServiceNow",
-      "location": "Bangalore, Karnataka, India",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158440984",
-      "source": "SmartRecruiters (ServiceNow)",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-29"
-    },
-    {
       "id": "ashby-spotdraft-96761f6b-578d-4daa-9d02-25c47fd39590",
       "title": "Product Manager",
       "company": "SpotDraft",
@@ -695,13 +684,13 @@
     },
     {
       "id": "greenhouse-gleanwork-4726336005",
-      "title": "Product Manager",
+      "title": "Product Manager, Agents",
       "company": "Glean",
       "location": "Bangalore, India",
       "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
-      "aiMatch": "company",
+      "aiMatch": "title",
       "firstSeen": "2026-10-05"
     },
     {
@@ -765,28 +754,6 @@
       "company": "HCLTech",
       "location": "Noida",
       "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/150376-en_US/",
-      "source": "HCLTech careers",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "sf-careers.hcltech.com-144729",
-      "title": "AI Product Manager I",
-      "company": "HCLTech",
-      "location": "Pune",
-      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/144729-en_US/",
-      "source": "HCLTech careers",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "sf-careers.hcltech.com-157248",
-      "title": "AI Product Manager I",
-      "company": "HCLTech",
-      "location": "Pune",
-      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/157248-en_US/",
       "source": "HCLTech careers",
       "level": "pm",
       "aiMatch": "title",

@@ -1,10 +1,26 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "Hyeglo Beauty",
+      "title": "Beauty and personal care brand Hyeglo Beauty raises Rs 7 Cr led by Sauce",
+      "url": "https://entrackr.com/snippets/beauty-and-personal-care-brand-hyeglo-beauty-raises-rs-7-cr-led-by-sauce-12775595",
+      "date": "2026-11-02",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Netradyne",
       "date": "2026-11-02",
       "detail": "23 engineering openings vs a usual 13"
+    },
+    {
+      "type": "funding",
+      "company": "OBSESS",
+      "title": "Fitness platform OBSESS raises Rs 3 Cr in angel round",
+      "url": "https://entrackr.com/snippets/fitness-platform-obsess-raises-rs-3-cr-in-angel-round-12775998",
+      "date": "2026-11-02",
+      "detail": "via Entrackr"
     },
     {
       "type": "eng_spike",
@@ -19,6 +35,14 @@
       "url": "https://yourstory.com/2026/11/two-point-o-raises-10-million-led-by-transition-venture-capital",
       "date": "2026-11-02",
       "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
+      "company": "Two Point O Capital",
+      "title": "Clean energy deployment platform Two Point O Capital raises $10 Mn led by Transition VC",
+      "url": "https://entrackr.com/news/clean-energy-deployment-platform-two-point-o-capital-raises-10-mn-led-by-transition-vc-12775140",
+      "date": "2026-11-02",
+      "detail": "via Entrackr"
     },
     {
       "type": "eng_spike",
@@ -317,6 +341,14 @@
     },
     {
       "type": "funding",
+      "company": "Cent",
+      "title": "Healthtech startup Cent raises $15M in Series A",
+      "url": "https://yourstory.com/2026/10/healthtech-startup-cent-raises-15-million-in-series-a",
+      "date": "2026-10-27",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
       "company": "dubdub",
       "title": "Trivia and puzzle app dubdub raises seed funding led by 3one4 Capital, Antler and Stellaris",
       "url": "https://entrackr.com/snippets/trivia-and-puzzle-app-dubdub-raises-seed-funding-led-by-3one4-capital-antler-and-stellaris-12758123",
@@ -379,6 +411,14 @@
     },
     {
       "type": "funding",
+      "company": "Rotoris",
+      "title": "Rotoris bags Rs 70 Cr to expand its luxury watch business",
+      "url": "https://yourstory.com/2026/10/rotoris-bags-rs-70-cr-to-expand-its-luxury-watch-business",
+      "date": "2026-10-27",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
       "company": "Simplismart",
       "title": "Simplismart raises $14 Mn from Dallas Venture Capital, NVIDIA and others",
       "url": "https://entrackr.com/news/simplismart-raises-14-mn-from-dallas-venture-capital-nvidia-and-others-12758191",
@@ -387,11 +427,27 @@
     },
     {
       "type": "funding",
+      "company": "Simplismart",
+      "title": "AI startup Simplismart raises $14M from Dallas Venture Capital, Nvidia, and others",
+      "url": "https://yourstory.com/2026/10/ai-startup-simplismart-14-million-dallas-venture-capital-nvidia-others",
+      "date": "2026-10-27",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
       "company": "Troovy",
       "title": "Fireside Ventures leads Rs 100 Cr Series B round in snack brand Troovy",
       "url": "https://entrackr.com/news/fireside-ventures-leads-rs-100-cr-series-b-round-in-snack-brand-troovy-12755228",
       "date": "2026-10-27",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Troovy",
+      "title": "Healthy snack brand Troovy raises Rs 100 Cr in Series B round led by Fireside Ventures",
+      "url": "https://yourstory.com/2026/10/healthy-snack-brand-troovy-raises-rs-100-cr-series-b-fireside-ventures",
+      "date": "2026-10-27",
+      "detail": "via YourStory"
     },
     {
       "type": "eng_spike",

@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-53739736",
-      "title": "Intern - Product Management",
-      "company": "Niyo ",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://niyo.darwinbox.in/ms/candidate/careers/a6666e9a16a867",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-09-30"
-    },
-    {
       "id": "vc-accel-93507863",
       "title": "Product Lead",
       "company": "Zinier",
@@ -3626,6 +3617,15 @@
       "url": "https://boards.greenhouse.io/harnessinc/jobs/5278997007",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-10-31"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210805373",
+      "title": "Product Manager - Travel",
+      "company": "JPMorgan Chase",
+      "location": "Pune, Maharashtra, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805373",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-11-02"
     }
   ],
   "signals": [

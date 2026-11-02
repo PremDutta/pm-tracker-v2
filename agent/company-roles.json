@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-02T04:46:28.538Z",
+  "scannedAt": "2026-11-02T09:46:19.716Z",
   "roles": {
     "Amazon": [
       {
@@ -514,7 +514,7 @@
     "Glean": [
       {
         "id": "greenhouse-gleanwork-4726336005",
-        "title": "Product Manager",
+        "title": "Product Manager, Agents",
         "location": "Bangalore, India",
         "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
         "level": "pm",
@@ -587,22 +587,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-144729",
-        "title": "AI Product Manager I",
-        "location": "Pune",
-        "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/144729-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-157248",
-        "title": "AI Product Manager I",
-        "location": "Pune",
-        "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/157248-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-168347",
         "title": "Data Product Manager",
         "location": "Noida",
@@ -641,14 +625,6 @@
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/162176-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-181759",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/181759-en_US/",
-        "level": "group",
-        "firstSeen": "2026-10-15"
       },
       {
         "id": "sf-careers.hcltech.com-178154",
@@ -813,6 +789,14 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805038",
         "level": "leadership",
         "firstSeen": "2026-10-29"
+      },
+      {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210805373",
+        "title": "Product Manager - Travel",
+        "location": "Pune, Maharashtra, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805373",
+        "level": "pm",
+        "firstSeen": "2026-11-02"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210796619",
@@ -1089,12 +1073,12 @@
         "firstSeen": "2026-10-16"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557040071",
+        "id": "eightfold-microsoft.com-1970393557037770",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
         "level": "senior",
-        "firstSeen": "2026-10-28"
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "eightfold-microsoft.com-1970393557016561",
@@ -1105,12 +1089,12 @@
         "firstSeen": "2026-10-06"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557037770",
+        "id": "eightfold-microsoft.com-1970393557040071",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
         "level": "senior",
-        "firstSeen": "2026-10-15"
+        "firstSeen": "2026-10-28"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040189",
@@ -1625,24 +1609,6 @@
         "firstSeen": "2026-09-30"
       }
     ],
-    "ServiceNow": [
-      {
-        "id": "smartrecruiters-ServiceNow-744000158440984",
-        "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158440984",
-        "level": "group",
-        "firstSeen": "2026-10-29"
-      },
-      {
-        "id": "smartrecruiters-ServiceNow-744000158441069",
-        "title": "Staff Inbound Product Manager - Hill Climbing Product and Customer Instance Program",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158441069",
-        "level": "group",
-        "firstSeen": "2026-10-29"
-      }
-    ],
     "Sigmoid": [
       {
         "id": "greenhouse-sigmoid-8041196002",
@@ -1827,18 +1793,18 @@
         "firstSeen": "2026-10-23"
       },
       {
-        "id": "sf-careers.wipro.com-203307",
-        "title": "PRODUCT MANAGER L1",
-        "location": "Bengaluru, IND-29, IND, 560035<br/>",
-        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/203307-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.wipro.com-204599",
         "title": "PRODUCT MANAGER L1",
         "location": "Hyderabad, IND-36, IND, 500032<br/>",
         "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/204599-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.wipro.com-203307",
+        "title": "PRODUCT MANAGER L1",
+        "location": "Bengaluru, IND-29, IND, 560035<br/>",
+        "url": "https://careers.wipro.com/job/PRODUCT-MANAGER-L1/203307-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       }
