@@ -1,6 +1,33 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "GoKwik",
+      "date": "2026-11-03",
+      "detail": "10 engineering openings vs a usual 1"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-11-03",
+      "detail": "23 engineering openings vs a usual 13"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-11-03",
+      "detail": "88 engineering openings vs a usual 4"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-03",
+      "title": "Technical Product Manager, Legal AI and Platforms ",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159235840",
+      "id": "smartrecruiters-ServiceNow-744000159235840",
+      "detail": "closed 2026-10-24, reposted today"
+    },
+    {
       "type": "funding",
       "company": "Clinics On Cloud",
       "title": "Health-tech startup Clinics On Cloud raises $12.5 Mn in Series A round",
@@ -41,6 +68,14 @@
       "company": "Oracle",
       "date": "2026-11-02",
       "detail": "88 engineering openings vs a usual 4"
+    },
+    {
+      "type": "funding",
+      "company": "PowerUp Money",
+      "title": "PowerUp Money Raises $10 Mn To Expand Wealth Management Services",
+      "url": "https://inc42.com/buzz/powerup-money-raises-10-mn-to-expand-wealth-management-services/",
+      "date": "2026-11-02",
+      "detail": "via Inc42"
     },
     {
       "type": "funding",
