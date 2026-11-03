@@ -7,6 +7,15 @@
       "detail": "10 engineering openings vs a usual 1"
     },
     {
+      "type": "reopened",
+      "company": "GoKwik",
+      "date": "2026-11-03",
+      "title": "Senior Product Manager",
+      "url": "https://gokwik.keka.com/careers/jobdetails/168890",
+      "id": "keka-gokwik-168890",
+      "detail": "closed 2026-10-16, reposted today"
+    },
+    {
       "type": "eng_spike",
       "company": "Netradyne",
       "date": "2026-11-03",
@@ -19,6 +28,14 @@
       "detail": "88 engineering openings vs a usual 4"
     },
     {
+      "type": "funding",
+      "company": "PowerUp Money",
+      "title": "Wealthtech startup PowerUp Money raises $10 Mn led by Flourish Ventures",
+      "url": "https://entrackr.com/news/wealthtech-startup-powerup-money-raises-10-mn-led-by-flourish-ventures-12778285",
+      "date": "2026-11-03",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "reopened",
       "company": "ServiceNow",
       "date": "2026-11-03",
@@ -26,6 +43,39 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159235840",
       "id": "smartrecruiters-ServiceNow-744000159235840",
       "detail": "closed 2026-10-24, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "Solgram",
+      "title": "Solgram raises over $1 Mn in pre-seed round led by DSG Consumer Partners, Saama Capital",
+      "url": "https://entrackr.com/snippets/solgram-raises-over-1-mn-in-pre-seed-round-led-by-dsg-consumer-partners-saama-capital-12778298",
+      "date": "2026-11-03",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "The Croffle Guys",
+      "title": "The Croffle Guys raises Rs 14 Cr from V3 Ventures, N.A.N Partners at Rs 100 Cr valuation",
+      "url": "https://entrackr.com/snippets/the-croffle-guys-raises-rs-14-cr-from-v3-ventures-nan-partners-at-rs-100-cr-valuation-12778378",
+      "date": "2026-11-03",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Unify Foodworks",
+      "title": "Unify Foodworks raises Rs 5 Cr in seed round",
+      "url": "https://entrackr.com/snippets/unify-foodworks-raises-rs-5-cr-in-seed-round-12779034",
+      "date": "2026-11-03",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-11-03",
+      "title": "Senior Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Product-Manager_R-574835",
+      "id": "workday-wf-/job/Hyderabad-India/Senior-Product-Manager_R-574835",
+      "detail": "closed 2026-11-03, reposted today"
     },
     {
       "type": "funding",

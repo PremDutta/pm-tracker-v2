@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-03T00:37:53.365Z",
+  "scannedAt": "2026-11-03T09:49:17.450Z",
   "roles": {
     "Amazon": [
       {
@@ -195,20 +195,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10576706",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "amazon-10499561",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10576706",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-10-13"
       },
       {
         "id": "amazon-10498328",
@@ -231,14 +231,6 @@
         "title": "Senior Product Manager, IES - Emerging Stores",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10523475/senior-product-manager-ies-emerging-stores",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10556408",
-        "title": "Senior Product Manager, Service Delivery Standard Work",
-        "location": "Hyderabad, Telangana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10556408/senior-product-manager-service-delivery-standard-work",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -371,14 +363,6 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "amazon-10530922",
-        "title": "Sr. Product Manager, Cost of Returns",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10530922/sr-product-manager-cost-of-returns",
-        "level": "senior",
-        "firstSeen": "2026-10-30"
-      },
-      {
         "id": "amazon-10449781",
         "title": "Sr. Product Manager, MFN RCX",
         "location": "Hyderabad, Telangana, IND",
@@ -473,16 +457,6 @@
         "firstSeen": "2026-10-05"
       }
     ],
-    "Druva": [
-      {
-        "id": "greenhouse-druva-8697486002",
-        "title": "Senior Product Manager",
-        "location": "Pune, Maharashtra, India",
-        "url": "https://www.druva.com/why-druva/explore/careers/jobs/8697486002/?gh_jid=8697486002",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      }
-    ],
     "Ema": [
       {
         "id": "ashby-ema-74540ab2-9782-476f-ad0d-78cc2e7717ed",
@@ -537,6 +511,16 @@
         "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
         "level": "pm",
         "firstSeen": "2026-10-05"
+      }
+    ],
+    "GoKwik": [
+      {
+        "id": "keka-gokwik-168890",
+        "title": "Senior Product Manager",
+        "location": "Bangalore",
+        "url": "https://gokwik.keka.com/careers/jobdetails/168890",
+        "level": "senior",
+        "firstSeen": "2026-11-03"
       }
     ],
     "Gushwork": [
@@ -793,12 +777,12 @@
         "firstSeen": "2026-10-29"
       },
       {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210805373",
-        "title": "Product Manager - Travel",
-        "location": "Pune, Maharashtra, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805373",
-        "level": "pm",
-        "firstSeen": "2026-11-02"
+        "id": "oracle-jpmc.fa.oraclecloud.com-210776755",
+        "title": "Product Director - Debit Product",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776755",
+        "level": "leadership",
+        "firstSeen": "2026-11-03"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210796619",
@@ -1061,14 +1045,6 @@
         "firstSeen": "2026-10-13"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557041943",
-        "title": "Senior Product Manager",
-        "location": "India, Uttar Pradesh, Noida",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
-        "level": "senior",
-        "firstSeen": "2026-10-20"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557016611",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
@@ -1083,6 +1059,14 @@
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
         "level": "senior",
         "firstSeen": "2026-10-16"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557041943",
+        "title": "Senior Product Manager",
+        "location": "India, Uttar Pradesh, Noida",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
+        "level": "senior",
+        "firstSeen": "2026-10-20"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040071",
@@ -1451,6 +1435,14 @@
         "firstSeen": "2026-10-13"
       },
       {
+        "id": "smartrecruiters-PHONEPELIMITED-1000000000005427",
+        "title": "Product Manager",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000005427",
+        "level": "pm",
+        "firstSeen": "2026-11-03"
+      },
+      {
         "id": "smartrecruiters-PHONEPELIMITED-1000000000003325",
         "title": "Product Manager, People Tech",
         "location": "Bengaluru, Karnataka, India",
@@ -1677,12 +1669,12 @@
         "firstSeen": "2026-10-16"
       },
       {
-        "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
-        "title": "Director Product Management - Enterprise Data Strategy",
-        "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
-        "level": "leadership",
-        "firstSeen": "2026-10-28"
+        "id": "workday-target-/job/BangaloreIndia/Sr-Product-Manager---Marketplace_R0000439637",
+        "title": "Sr Product Manager - Marketplace",
+        "location": "Bangalore,India",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Manager---Marketplace_R0000439637",
+        "level": "senior",
+        "firstSeen": "2026-11-03"
       }
     ],
     "Vedantu": [
@@ -1727,6 +1719,24 @@
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Technical-Product-Manager_REF087589W",
         "level": "pm",
         "firstSeen": "2026-10-27"
+      }
+    ],
+    "Wells Fargo": [
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager--Web-and-Mobile-Banking_R-571322",
+        "title": "Lead Digital Product Manager –Web and Mobile Banking",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager--Web-and-Mobile-Banking_R-571322",
+        "level": "group",
+        "firstSeen": "2026-11-03"
+      },
+      {
+        "id": "workday-wf-/job/Hyderabad-India/Senior-Product-Manager_R-574835",
+        "title": "Senior Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Product-Manager_R-574835",
+        "level": "senior",
+        "firstSeen": "2026-11-03"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -2036,7 +2046,7 @@
     "MBZUAI": "2026-11-03",
     "Meesho": "2026-11-03",
     "Mensa Brands (BRND.ME)": "2026-11-03",
-    "Microsoft": "2026-11-02",
+    "Microsoft": "2026-11-03",
     "Mihup": "2026-11-03",
     "Mindtickle": "2026-11-03",
     "Mollie": "2026-11-03",

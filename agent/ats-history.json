@@ -596,7 +596,7 @@
           "eng": 30
         },
         "2026-11-03": {
-          "total": 71,
+          "total": 70,
           "eng": 30
         }
       },
@@ -1462,7 +1462,7 @@
           "eng": 77
         },
         "2026-11-03": {
-          "total": 167,
+          "total": 166,
           "eng": 74
         }
       },
@@ -1543,7 +1543,8 @@
           "ids": [
             "greenhouse-scaleai-4675842005"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
         },
         "staff product manager physical ai data robotics": {
           "ids": [
@@ -2142,7 +2143,7 @@
           "eng": 38
         },
         "2026-11-03": {
-          "total": 146,
+          "total": 147,
           "eng": 37
         }
       },
@@ -2435,7 +2436,7 @@
           "eng": 35
         },
         "2026-11-03": {
-          "total": 141,
+          "total": 142,
           "eng": 36
         }
       },
@@ -2766,7 +2767,7 @@
           "eng": 54
         },
         "2026-11-03": {
-          "total": 146,
+          "total": 147,
           "eng": 53
         }
       },
@@ -2915,8 +2916,8 @@
           "eng": 425
         },
         "2026-11-03": {
-          "total": 805,
-          "eng": 419
+          "total": 804,
+          "eng": 420
         }
       },
       "pm": {
@@ -3981,8 +3982,8 @@
           "eng": 6
         },
         "2026-11-03": {
-          "total": 51,
-          "eng": 6
+          "total": 52,
+          "eng": 7
         }
       },
       "pm": {
@@ -5029,7 +5030,7 @@
           "spike": true
         },
         "2026-11-03": {
-          "total": 28,
+          "total": 30,
           "eng": 10,
           "spike": true
         }
@@ -5037,10 +5038,10 @@
       "pm": {
         "senior product manager": {
           "ids": [
-            "keka-gokwik-150448"
+            "keka-gokwik-150448",
+            "keka-gokwik-168890"
           ],
-          "lastSeen": "2026-10-16",
-          "closedOn": "2026-10-16"
+          "lastSeen": "2026-11-03"
         },
         "principal product manager": {
           "ids": [
@@ -5189,7 +5190,7 @@
           "eng": 31
         },
         "2026-11-03": {
-          "total": 85,
+          "total": 86,
           "eng": 31
         }
       },
@@ -5676,8 +5677,8 @@
           "eng": 16
         },
         "2026-11-03": {
-          "total": 29,
-          "eng": 16
+          "total": 26,
+          "eng": 14
         }
       },
       "pm": {
@@ -5691,7 +5692,8 @@
           "ids": [
             "greenhouse-druva-8697486002"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
         }
       }
     },
@@ -5947,7 +5949,7 @@
           "eng": 5
         },
         "2026-11-03": {
-          "total": 77,
+          "total": 75,
           "eng": 4
         }
       },
@@ -6086,7 +6088,8 @@
           "ids": [
             "amazon-10530922"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
         },
         "senior product manager india global trade": {
           "ids": [
@@ -6181,7 +6184,8 @@
           "ids": [
             "amazon-10556408"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
         },
         "sr product manager high confidence supply chain": {
           "ids": [
@@ -7132,7 +7136,7 @@
           "eng": 11
         },
         "2026-11-03": {
-          "total": 81,
+          "total": 82,
           "eng": 11
         }
       },
@@ -8045,7 +8049,7 @@
           "eng": 16
         },
         "2026-11-03": {
-          "total": 45,
+          "total": 43,
           "eng": 16
         }
       },
@@ -8773,7 +8777,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 34
+          "eng": 36
         }
       },
       "pm": {
@@ -8940,6 +8944,13 @@
         "product manager travel": {
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210805373"
+          ],
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
+        },
+        "product director debit product": {
+          "ids": [
+            "oracle-jpmc.fa.oraclecloud.com-210776755"
           ],
           "lastSeen": "2026-11-03"
         }
@@ -9205,7 +9216,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 8
+          "eng": 7
         }
       },
       "pm": {
@@ -9913,7 +9924,7 @@
           "eng": 11
         },
         "2026-11-03": {
-          "total": 198,
+          "total": 199,
           "eng": 11
         }
       },
@@ -10135,7 +10146,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 22
+          "eng": 23
         }
       },
       "pm": {
@@ -10175,6 +10186,12 @@
         "head of product phonepe wealth": {
           "ids": [
             "smartrecruiters-PHONEPELIMITED-1000000000004050"
+          ],
+          "lastSeen": "2026-11-03"
+        },
+        "product manager": {
+          "ids": [
+            "smartrecruiters-PHONEPELIMITED-1000000000005427"
           ],
           "lastSeen": "2026-11-03"
         }
@@ -10303,8 +10320,8 @@
           "eng": 2
         },
         "2026-11-03": {
-          "total": 28,
-          "eng": 2
+          "total": 27,
+          "eng": 3
         }
       },
       "pm": {
@@ -10727,7 +10744,7 @@
           "eng": 22
         },
         "2026-11-03": {
-          "total": 46,
+          "total": 48,
           "eng": 22
         }
       },
@@ -10901,7 +10918,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 42
+          "eng": 41
         }
       },
       "pm": {
@@ -11371,8 +11388,8 @@
           "eng": 67
         },
         "2026-11-03": {
-          "total": 126,
-          "eng": 67
+          "total": 127,
+          "eng": 68
         }
       },
       "pm": {
@@ -12049,7 +12066,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 2
+          "eng": 1
         }
       },
       "pm": {
@@ -12591,8 +12608,8 @@
           "eng": 32
         },
         "2026-11-03": {
-          "total": 96,
-          "eng": 31
+          "total": 102,
+          "eng": 32
         }
       },
       "pm": {
@@ -12944,7 +12961,7 @@
           "eng": 8
         },
         "2026-11-03": {
-          "total": 56,
+          "total": 58,
           "eng": 8
         }
       },
@@ -13093,7 +13110,7 @@
           "eng": 9
         },
         "2026-11-03": {
-          "total": 26,
+          "total": 27,
           "eng": 10
         }
       },
@@ -13138,6 +13155,13 @@
           "ids": [
             "workday-target-/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
             "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841"
+          ],
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
+        },
+        "sr product manager marketplace": {
+          "ids": [
+            "workday-target-/job/BangaloreIndia/Sr-Product-Manager---Marketplace_R0000439637"
           ],
           "lastSeen": "2026-11-03"
         }
@@ -13410,8 +13434,8 @@
           "eng": 44
         },
         "2026-11-03": {
-          "total": 75,
-          "eng": 45
+          "total": 77,
+          "eng": 46
         }
       },
       "pm": {
@@ -13915,8 +13939,8 @@
           "eng": 25
         },
         "2026-11-03": {
-          "total": 72,
-          "eng": 25
+          "total": 89,
+          "eng": 28
         }
       },
       "pm": {
@@ -13946,17 +13970,16 @@
         },
         "senior product manager": {
           "ids": [
-            "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-575518-1"
+            "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
+            "workday-wf-/job/Hyderabad-India/Senior-Product-Manager_R-574835"
           ],
-          "lastSeen": "2026-11-02",
-          "closedOn": "2026-11-03"
+          "lastSeen": "2026-11-03"
         },
         "lead digital product manager web and mobile banking": {
           "ids": [
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager--Web-and-Mobile-Banking_R-571322"
           ],
-          "lastSeen": "2026-10-03",
-          "closedOn": "2026-10-03"
+          "lastSeen": "2026-11-03"
         },
         "senior digital product manager": {
           "ids": [
@@ -14156,7 +14179,7 @@
           "eng": 45
         },
         "2026-11-03": {
-          "total": 88,
+          "total": 91,
           "eng": 44
         }
       },
@@ -14310,7 +14333,7 @@
         },
         "2026-11-03": {
           "total": 200,
-          "eng": 48
+          "eng": 45
         }
       },
       "pm": {
@@ -14554,10 +14577,6 @@
     },
     "Microsoft": {
       "daily": {
-        "2026-10-03": {
-          "total": 72,
-          "eng": 37
-        },
         "2026-10-04": {
           "total": 67,
           "eng": 35
@@ -14673,6 +14692,10 @@
         "2026-11-02": {
           "total": 52,
           "eng": 24
+        },
+        "2026-11-03": {
+          "total": 57,
+          "eng": 27
         }
       },
       "pm": {
@@ -14686,7 +14709,7 @@
             "eightfold-microsoft.com-1970393557016611",
             "eightfold-microsoft.com-1970393557041943"
           ],
-          "lastSeen": "2026-11-02"
+          "lastSeen": "2026-11-03"
         },
         "principal product manager": {
           "ids": [
@@ -14698,7 +14721,7 @@
             "eightfold-microsoft.com-1970393557042009",
             "eightfold-microsoft.com-1970393557038797"
           ],
-          "lastSeen": "2026-11-02"
+          "lastSeen": "2026-11-03"
         },
         "product manager ii": {
           "ids": [
@@ -14707,7 +14730,7 @@
             "eightfold-microsoft.com-1970393557038894",
             "eightfold-microsoft.com-1970393557041935"
           ],
-          "lastSeen": "2026-11-02"
+          "lastSeen": "2026-11-03"
         },
         "principal product management": {
           "ids": [
@@ -14727,13 +14750,13 @@
           "ids": [
             "eightfold-microsoft.com-1970393557040189"
           ],
-          "lastSeen": "2026-11-02"
+          "lastSeen": "2026-11-03"
         },
         "group product manager": {
           "ids": [
             "eightfold-microsoft.com-1970393557047351"
           ],
-          "lastSeen": "2026-11-02"
+          "lastSeen": "2026-11-03"
         }
       }
     },
@@ -15405,7 +15428,7 @@
           "eng": 569
         },
         "2026-11-03": {
-          "total": 911,
+          "total": 910,
           "eng": 569
         }
       },
@@ -16349,7 +16372,7 @@
           "eng": 5
         },
         "2026-11-03": {
-          "total": 13,
+          "total": 14,
           "eng": 5
         }
       },
@@ -17264,7 +17287,7 @@
           "eng": 0
         },
         "2026-11-03": {
-          "total": 5,
+          "total": 6,
           "eng": 0
         }
       },
@@ -17396,8 +17419,8 @@
           "eng": 156
         },
         "2026-11-03": {
-          "total": 358,
-          "eng": 154
+          "total": 359,
+          "eng": 153
         }
       },
       "pm": {
@@ -18098,7 +18121,7 @@
           "eng": 4
         },
         "2026-11-03": {
-          "total": 10,
+          "total": 9,
           "eng": 4
         }
       },
@@ -18223,8 +18246,8 @@
           "eng": 38
         },
         "2026-11-03": {
-          "total": 82,
-          "eng": 38
+          "total": 81,
+          "eng": 37
         }
       },
       "pm": {
@@ -18374,7 +18397,7 @@
         },
         "2026-11-03": {
           "total": 200,
-          "eng": 120
+          "eng": 116
         }
       },
       "pm": {
@@ -18544,8 +18567,8 @@
           "eng": 42
         },
         "2026-11-03": {
-          "total": 157,
-          "eng": 42
+          "total": 155,
+          "eng": 43
         }
       },
       "pm": {
@@ -18751,8 +18774,8 @@
           "eng": 223
         },
         "2026-11-03": {
-          "total": 667,
-          "eng": 227
+          "total": 669,
+          "eng": 226
         }
       },
       "pm": {
@@ -19174,7 +19197,7 @@
           "eng": 7
         },
         "2026-11-03": {
-          "total": 45,
+          "total": 43,
           "eng": 7
         }
       },
@@ -19446,7 +19469,7 @@
         },
         "2026-11-03": {
           "total": 367,
-          "eng": 189
+          "eng": 188
         }
       },
       "pm": {
@@ -19809,8 +19832,8 @@
           "eng": 36
         },
         "2026-11-03": {
-          "total": 104,
-          "eng": 36
+          "total": 105,
+          "eng": 37
         }
       },
       "pm": {
@@ -19850,6 +19873,18 @@
         "principal product management enterprise governance": {
           "ids": [
             "ashby-uipath-bd2f849d-7704-4911-9b1c-81d826b5742b"
+          ],
+          "lastSeen": "2026-11-03"
+        },
+        "principal product manager low code agents": {
+          "ids": [
+            "ashby-uipath-84fcafa0-6458-4fce-8a3f-97a92ace64fa"
+          ],
+          "lastSeen": "2026-11-03"
+        },
+        "principal product manager agentic observability and governance": {
+          "ids": [
+            "ashby-uipath-a201d2fd-b7d3-4617-a3e8-62f8afa9382f"
           ],
           "lastSeen": "2026-11-03"
         }
@@ -20107,7 +20142,7 @@
           "eng": 2
         },
         "2026-11-03": {
-          "total": 10,
+          "total": 11,
           "eng": 2
         }
       },
@@ -20424,8 +20459,8 @@
           "eng": 6
         },
         "2026-11-03": {
-          "total": 20,
-          "eng": 6
+          "total": 21,
+          "eng": 7
         }
       },
       "pm": {
@@ -20691,7 +20726,7 @@
           "eng": 131
         },
         "2026-11-03": {
-          "total": 479,
+          "total": 480,
           "eng": 131
         }
       },
@@ -20875,7 +20910,7 @@
           "eng": 23
         },
         "2026-11-03": {
-          "total": 99,
+          "total": 98,
           "eng": 23
         }
       },
@@ -20985,7 +21020,7 @@
           "eng": 8
         },
         "2026-11-03": {
-          "total": 81,
+          "total": 83,
           "eng": 8
         }
       },
@@ -21197,13 +21232,14 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 31
+          "eng": 30
         }
       },
       "pm": {
         "lead product manager data platform": {
           "ids": [
-            "smartrecruiters-grab-744000155932615"
+            "smartrecruiters-grab-744000155932615",
+            "smartrecruiters-grab-744000159286069"
           ],
           "lastSeen": "2026-11-03"
         },
@@ -21213,6 +21249,12 @@
           ],
           "lastSeen": "2026-10-27",
           "closedOn": "2026-10-27"
+        },
+        "lead product manager grab support": {
+          "ids": [
+            "smartrecruiters-grab-744000159308659"
+          ],
+          "lastSeen": "2026-11-03"
         }
       }
     },
@@ -21590,7 +21632,7 @@
           "eng": 5
         },
         "2026-11-03": {
-          "total": 34,
+          "total": 33,
           "eng": 5
         }
       },
@@ -21695,7 +21737,7 @@
           "eng": 6
         },
         "2026-11-03": {
-          "total": 44,
+          "total": 43,
           "eng": 6
         }
       },
@@ -21770,8 +21812,8 @@
           "eng": 15
         },
         "2026-11-03": {
-          "total": 51,
-          "eng": 15
+          "total": 44,
+          "eng": 13
         }
       },
       "pm": {
@@ -21840,7 +21882,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 5
+          "eng": 3
         }
       },
       "pm": {
@@ -21923,7 +21965,7 @@
           "eng": 5
         },
         "2026-11-03": {
-          "total": 19,
+          "total": 20,
           "eng": 5
         }
       },
@@ -22038,8 +22080,8 @@
           "eng": 70
         },
         "2026-11-03": {
-          "total": 243,
-          "eng": 71
+          "total": 240,
+          "eng": 69
         }
       },
       "pm": {
@@ -22241,8 +22283,8 @@
           "eng": 132
         },
         "2026-11-03": {
-          "total": 231,
-          "eng": 131
+          "total": 226,
+          "eng": 127
         }
       },
       "pm": {
@@ -22302,7 +22344,7 @@
           "eng": 117
         },
         "2026-11-03": {
-          "total": 235,
+          "total": 234,
           "eng": 115
         }
       },
@@ -22410,7 +22452,7 @@
           "eng": 0
         },
         "2026-11-03": {
-          "total": 2,
+          "total": 3,
           "eng": 0
         }
       },
@@ -22540,7 +22582,7 @@
           "eng": 20
         },
         "2026-11-03": {
-          "total": 54,
+          "total": 53,
           "eng": 20
         }
       },
@@ -22657,8 +22699,8 @@
           "eng": 1
         },
         "2026-11-03": {
-          "total": 2,
-          "eng": 1
+          "total": 3,
+          "eng": 2
         }
       },
       "pm": {}
@@ -22698,8 +22740,8 @@
           "eng": 13
         },
         "2026-11-03": {
-          "total": 33,
-          "eng": 13
+          "total": 31,
+          "eng": 11
         }
       },
       "pm": {
@@ -22765,7 +22807,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 32
+          "eng": 33
         }
       },
       "pm": {
