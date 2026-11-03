@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-mastercard-/job/Gurgaon-India/Specialist--Product-Management_R-289494",
-      "title": "Specialist, Product Management",
-      "company": "Mastercard",
-      "location": "Gurgaon, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist--Product-Management_R-289494",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-01"
-    },
-    {
-      "id": "lever-paytm-cf1076c8-e8be-4fc4-8112-aa55051de742",
-      "title": "Product Management - Associate Product Manager - Travel.",
-      "company": "Paytm",
-      "location": "Noida, Uttar Pradesh",
-      "url": "https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742",
-      "source": "Lever (Paytm)",
-      "queuedOn": "2026-10-01"
-    },
-    {
-      "id": "lever-zeta-632d6320-6db1-4504-8640-a89aed0bbd2b",
-      "title": "Product Manager II",
-      "company": "Zeta",
-      "location": "Bangalore - DD",
-      "url": "https://jobs.lever.co/zeta/632d6320-6db1-4504-8640-a89aed0bbd2b",
-      "source": "Lever (Zeta)",
-      "queuedOn": "2026-10-01"
-    },
-    {
       "id": "oracle-jpmc.fa.oraclecloud.com-210783441",
       "title": "Technical Product Manager - ETL, Data Reporting, SQL",
       "company": "JPMorgan Chase",
@@ -3626,6 +3599,33 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Equities-Cash---Derivatives-VP-_R-583223",
       "source": "Workday (Wells Fargo)",
       "queuedOn": "2026-11-03"
+    },
+    {
+      "id": "greenhouse-asana-8331605",
+      "title": "Product Owner - Netsuite",
+      "company": "Asana",
+      "location": "Vancouver, BC",
+      "url": "https://www.asana.com/jobs/apply/8331605?gh_jid=8331605",
+      "source": "Greenhouse (Asana)",
+      "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "smartrecruiters-wise-744000159404925",
+      "title": "Principal Product Manager - APAC Onboarding & KYC",
+      "company": "Wise",
+      "location": "Hyderabad, , India",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000159404925",
+      "source": "SmartRecruiters (Wise)",
+      "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "vc-accel-98824062",
+      "title": "Product Manager",
+      "company": "Zoca",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://app.pyjamahr.com/careers?company=ZOCAAI+Technologies+Private+Limited&job_id=424467&company_uuid=6FFECB46A0&utm_source=DIRECT&source=DIRECT&isHeaderVisible=true",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-04"
     }
   ],
   "signals": [

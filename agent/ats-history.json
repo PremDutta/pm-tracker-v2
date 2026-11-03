@@ -124,7 +124,7 @@
         },
         "2026-11-03": {
           "total": 109,
-          "eng": 43
+          "eng": 41
         }
       },
       "pm": {
@@ -214,6 +214,12 @@
         "senior product manager ai context": {
           "ids": [
             "greenhouse-asana-8044815"
+          ],
+          "lastSeen": "2026-11-03"
+        },
+        "product owner netsuite": {
+          "ids": [
+            "greenhouse-asana-8331605"
           ],
           "lastSeen": "2026-11-03"
         }
@@ -342,8 +348,8 @@
           "eng": 285
         },
         "2026-11-03": {
-          "total": 677,
-          "eng": 279
+          "total": 680,
+          "eng": 282
         }
       },
       "pm": {
@@ -596,7 +602,7 @@
           "eng": 30
         },
         "2026-11-03": {
-          "total": 70,
+          "total": 72,
           "eng": 30
         }
       },
@@ -920,7 +926,7 @@
         },
         "2026-11-03": {
           "total": 119,
-          "eng": 43
+          "eng": 42
         }
       },
       "pm": {
@@ -1463,7 +1469,7 @@
         },
         "2026-11-03": {
           "total": 166,
-          "eng": 74
+          "eng": 73
         }
       },
       "pm": {
@@ -1982,7 +1988,7 @@
           "eng": 30
         },
         "2026-11-03": {
-          "total": 82,
+          "total": 77,
           "eng": 30
         }
       },
@@ -2144,7 +2150,7 @@
         },
         "2026-11-03": {
           "total": 148,
-          "eng": 38
+          "eng": 39
         }
       },
       "pm": {
@@ -2293,8 +2299,8 @@
           "eng": 28
         },
         "2026-11-03": {
-          "total": 40,
-          "eng": 27
+          "total": 34,
+          "eng": 21
         }
       },
       "pm": {
@@ -2436,7 +2442,7 @@
           "eng": 35
         },
         "2026-11-03": {
-          "total": 144,
+          "total": 145,
           "eng": 36
         }
       },
@@ -2631,7 +2637,7 @@
           "eng": 12
         },
         "2026-11-03": {
-          "total": 31,
+          "total": 32,
           "eng": 12
         }
       },
@@ -2767,8 +2773,8 @@
           "eng": 54
         },
         "2026-11-03": {
-          "total": 147,
-          "eng": 53
+          "total": 146,
+          "eng": 52
         }
       },
       "pm": {
@@ -2916,8 +2922,8 @@
           "eng": 425
         },
         "2026-11-03": {
-          "total": 805,
-          "eng": 421
+          "total": 807,
+          "eng": 422
         }
       },
       "pm": {
@@ -3135,8 +3141,8 @@
           "eng": 40
         },
         "2026-11-03": {
-          "total": 170,
-          "eng": 40
+          "total": 168,
+          "eng": 39
         }
       },
       "pm": {
@@ -5190,8 +5196,8 @@
           "eng": 31
         },
         "2026-11-03": {
-          "total": 85,
-          "eng": 31
+          "total": 86,
+          "eng": 33
         }
       },
       "pm": {
@@ -5949,7 +5955,7 @@
           "eng": 5
         },
         "2026-11-03": {
-          "total": 76,
+          "total": 74,
           "eng": 4
         }
       },
@@ -6150,7 +6156,8 @@
           "ids": [
             "amazon-10523475"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
         },
         "senior product manager tech alexa ads": {
           "ids": [
@@ -6710,7 +6717,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 34
+          "eng": 35
         }
       },
       "pm": {
@@ -7007,7 +7014,7 @@
           "eng": 5
         },
         "2026-11-03": {
-          "total": 27,
+          "total": 28,
           "eng": 5
         }
       },
@@ -7525,7 +7532,7 @@
           "eng": 14
         },
         "2026-11-03": {
-          "total": 51,
+          "total": 52,
           "eng": 14
         }
       },
@@ -7913,7 +7920,7 @@
         },
         "2026-11-03": {
           "total": 41,
-          "eng": 30
+          "eng": 31
         }
       },
       "pm": {
@@ -8777,7 +8784,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 40
+          "eng": 42
         }
       },
       "pm": {
@@ -9216,7 +9223,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 7
+          "eng": 5
         }
       },
       "pm": {
@@ -9480,8 +9487,8 @@
           "eng": 1
         },
         "2026-11-03": {
-          "total": 8,
-          "eng": 2
+          "total": 7,
+          "eng": 1
         }
       },
       "pm": {
@@ -9638,7 +9645,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 88,
+          "eng": 89,
           "spike": true
         }
       },
@@ -9788,7 +9795,7 @@
           "eng": 2
         },
         "2026-11-03": {
-          "total": 3,
+          "total": 4,
           "eng": 2
         }
       },
@@ -10919,7 +10926,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 42
+          "eng": 39
         }
       },
       "pm": {
@@ -11243,7 +11250,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000158364690"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
         },
         "senior staff outbound product manager": {
           "ids": [
@@ -12609,8 +12617,8 @@
           "eng": 32
         },
         "2026-11-03": {
-          "total": 103,
-          "eng": 32
+          "total": 104,
+          "eng": 31
         }
       },
       "pm": {
@@ -13436,7 +13444,7 @@
           "eng": 44
         },
         "2026-11-03": {
-          "total": 78,
+          "total": 80,
           "eng": 46
         }
       },
@@ -13730,7 +13738,7 @@
         },
         "2026-11-03": {
           "total": 60,
-          "eng": 9
+          "eng": 8
         }
       },
       "pm": {
@@ -13789,7 +13797,8 @@
             "sf-careers.wipro.com-212754",
             "sf-careers.wipro.com-212755"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
         },
         "associate product manager ai powered property appraisal platforms": {
           "ids": [
@@ -13941,8 +13950,8 @@
           "eng": 25
         },
         "2026-11-03": {
-          "total": 103,
-          "eng": 30
+          "total": 90,
+          "eng": 28
         }
       },
       "pm": {
@@ -13981,7 +13990,8 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager--Web-and-Mobile-Banking_R-571322"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
         },
         "senior digital product manager": {
           "ids": [
@@ -13995,7 +14005,8 @@
             "workday-wf-/job/Bengaluru-India/Product-Manager_R-575502-1",
             "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
         },
         "lead product manager": {
           "ids": [
@@ -14186,8 +14197,8 @@
           "eng": 45
         },
         "2026-11-03": {
-          "total": 91,
-          "eng": 41
+          "total": 87,
+          "eng": 40
         }
       },
       "pm": {
@@ -14339,7 +14350,7 @@
         },
         "2026-11-03": {
           "total": 200,
-          "eng": 150,
+          "eng": 44,
           "spike": true
         }
       },
@@ -14350,8 +14361,7 @@
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1",
             "workday-accenture-/job/Hyderabad/Product-Owner_ATCI-5822106-S2072465-1"
           ],
-          "lastSeen": "2026-11-03",
-          "closedOn": "2026-11-03"
+          "lastSeen": "2026-11-03"
         },
         "product management analyst": {
           "ids": [
@@ -14364,8 +14374,7 @@
           "ids": [
             "workday-accenture-/job/Bengaluru/Product-Management-Lead_14620244"
           ],
-          "lastSeen": "2026-11-03",
-          "closedOn": "2026-11-03"
+          "lastSeen": "2026-11-03"
         },
         "ai product management practitioner": {
           "ids": [
@@ -14382,8 +14391,7 @@
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00322456",
             "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00368178"
           ],
-          "lastSeen": "2026-11-03",
-          "closedOn": "2026-11-03"
+          "lastSeen": "2026-11-03"
         },
         "product management specialist aftermarket service supply chain": {
           "ids": [
@@ -14403,43 +14411,37 @@
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Pre-Sales-Senior-Manager---Consumer-Goods---Services_R00364470"
           ],
-          "lastSeen": "2026-11-03",
-          "closedOn": "2026-11-03"
+          "lastSeen": "2026-11-03"
         },
         "software product management pre sales senior manager alip": {
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Pre-Sales-Senior-Manager---ALIP_R00364466"
           ],
-          "lastSeen": "2026-11-03",
-          "closedOn": "2026-11-03"
+          "lastSeen": "2026-11-03"
         },
         "software product management pre sales senior manager supply chain": {
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Pre-Sales-Senior-Manager---Supply-Chain_R00364474"
           ],
-          "lastSeen": "2026-11-03",
-          "closedOn": "2026-11-03"
+          "lastSeen": "2026-11-03"
         },
         "software product management pre sales senior manager marketing analytics software": {
           "ids": [
             "workday-accenture-/job/San-Francisco-415-Mission-Street-Corp/Software-Product-Management-Pre-Sales-Senior-Manager---Marketing-Analytics-Software_R00364502"
           ],
-          "lastSeen": "2026-11-03",
-          "closedOn": "2026-11-03"
+          "lastSeen": "2026-11-03"
         },
         "software product management pre sales assoc director health human services software": {
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Pre-Sales-Assoc-Director---Health---Human-Services-Software_R00368730"
           ],
-          "lastSeen": "2026-11-03",
-          "closedOn": "2026-11-03"
+          "lastSeen": "2026-11-03"
         },
         "software product management pre sales senior manager pre sales manufacturing software": {
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Pre-Sales-Senior-Manager--Pre-Sales---Manufacturing-Software_R00364472"
           ],
-          "lastSeen": "2026-11-03",
-          "closedOn": "2026-11-03"
+          "lastSeen": "2026-11-03"
         }
       }
     },
@@ -14896,7 +14898,7 @@
           "eng": 4
         },
         "2026-11-03": {
-          "total": 7,
+          "total": 6,
           "eng": 4
         }
       },
@@ -15445,8 +15447,8 @@
           "eng": 569
         },
         "2026-11-03": {
-          "total": 911,
-          "eng": 569
+          "total": 913,
+          "eng": 571
         }
       },
       "pm": {
@@ -16521,8 +16523,8 @@
           "eng": 31
         },
         "2026-11-03": {
-          "total": 66,
-          "eng": 30
+          "total": 65,
+          "eng": 28
         }
       },
       "pm": {
@@ -17436,8 +17438,8 @@
           "eng": 156
         },
         "2026-11-03": {
-          "total": 358,
-          "eng": 152
+          "total": 360,
+          "eng": 154
         }
       },
       "pm": {
@@ -17702,8 +17704,8 @@
           "eng": 30
         },
         "2026-11-03": {
-          "total": 65,
-          "eng": 29
+          "total": 64,
+          "eng": 28
         }
       },
       "pm": {
@@ -18138,7 +18140,7 @@
           "eng": 4
         },
         "2026-11-03": {
-          "total": 9,
+          "total": 10,
           "eng": 4
         }
       },
@@ -18263,7 +18265,7 @@
           "eng": 38
         },
         "2026-11-03": {
-          "total": 81,
+          "total": 82,
           "eng": 37
         }
       },
@@ -18414,7 +18416,7 @@
         },
         "2026-11-03": {
           "total": 200,
-          "eng": 119
+          "eng": 120
         }
       },
       "pm": {
@@ -18585,7 +18587,7 @@
         },
         "2026-11-03": {
           "total": 155,
-          "eng": 43
+          "eng": 44
         }
       },
       "pm": {
@@ -18791,7 +18793,7 @@
           "eng": 223
         },
         "2026-11-03": {
-          "total": 674,
+          "total": 683,
           "eng": 229
         }
       },
@@ -19485,7 +19487,7 @@
           "eng": 190
         },
         "2026-11-03": {
-          "total": 369,
+          "total": 368,
           "eng": 189
         }
       },
@@ -19849,8 +19851,8 @@
           "eng": 36
         },
         "2026-11-03": {
-          "total": 105,
-          "eng": 37
+          "total": 104,
+          "eng": 36
         }
       },
       "pm": {
@@ -19891,7 +19893,8 @@
           "ids": [
             "ashby-uipath-bd2f849d-7704-4911-9b1c-81d826b5742b"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
         },
         "principal product manager low code agents": {
           "ids": [
@@ -19902,6 +19905,12 @@
         "principal product manager agentic observability and governance": {
           "ids": [
             "ashby-uipath-a201d2fd-b7d3-4617-a3e8-62f8afa9382f"
+          ],
+          "lastSeen": "2026-11-03"
+        },
+        "principal product manager enterprise governance": {
+          "ids": [
+            "ashby-uipath-bd2f849d-7704-4911-9b1c-81d826b5742b"
           ],
           "lastSeen": "2026-11-03"
         }
@@ -20159,7 +20168,7 @@
           "eng": 2
         },
         "2026-11-03": {
-          "total": 11,
+          "total": 10,
           "eng": 2
         }
       },
@@ -20313,7 +20322,7 @@
           "eng": 19
         },
         "2026-11-03": {
-          "total": 373,
+          "total": 376,
           "eng": 19
         }
       },
@@ -20476,7 +20485,7 @@
           "eng": 6
         },
         "2026-11-03": {
-          "total": 21,
+          "total": 22,
           "eng": 7
         }
       },
@@ -20743,7 +20752,7 @@
           "eng": 131
         },
         "2026-11-03": {
-          "total": 480,
+          "total": 479,
           "eng": 131
         }
       },
@@ -21330,7 +21339,7 @@
           "eng": 3
         },
         "2026-11-03": {
-          "total": 7,
+          "total": 8,
           "eng": 3
         }
       },
@@ -21899,7 +21908,7 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 6
+          "eng": 7
         }
       },
       "pm": {
@@ -21923,7 +21932,8 @@
           "ids": [
             "smartrecruiters-DeliveryHero-744000158480821"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
         }
       }
     },
@@ -22098,7 +22108,7 @@
         },
         "2026-11-03": {
           "total": 242,
-          "eng": 71
+          "eng": 72
         }
       },
       "pm": {
@@ -22300,8 +22310,8 @@
           "eng": 132
         },
         "2026-11-03": {
-          "total": 227,
-          "eng": 127
+          "total": 222,
+          "eng": 122
         }
       },
       "pm": {
@@ -22361,8 +22371,8 @@
           "eng": 117
         },
         "2026-11-03": {
-          "total": 236,
-          "eng": 117
+          "total": 239,
+          "eng": 118
         }
       },
       "pm": {
@@ -22429,6 +22439,12 @@
         "senior product manager data integrations": {
           "ids": [
             "greenhouse-gitlab-8905040002"
+          ],
+          "lastSeen": "2026-11-03"
+        },
+        "staff product manager tenant scale": {
+          "ids": [
+            "greenhouse-gitlab-8919537002"
           ],
           "lastSeen": "2026-11-03"
         }
@@ -22599,8 +22615,8 @@
           "eng": 20
         },
         "2026-11-03": {
-          "total": 53,
-          "eng": 20
+          "total": 51,
+          "eng": 19
         }
       },
       "pm": {
@@ -22653,7 +22669,7 @@
           "eng": 3
         },
         "2026-11-03": {
-          "total": 30,
+          "total": 33,
           "eng": 3
         }
       },
@@ -22678,6 +22694,12 @@
           ],
           "lastSeen": "2026-10-28",
           "closedOn": "2026-10-28"
+        },
+        "senior product manager operations automation enablement": {
+          "ids": [
+            "greenhouse-n26-7996996"
+          ],
+          "lastSeen": "2026-11-03"
         }
       }
     },
@@ -22757,7 +22779,7 @@
           "eng": 13
         },
         "2026-11-03": {
-          "total": 31,
+          "total": 30,
           "eng": 11
         }
       },
@@ -22824,13 +22846,20 @@
         },
         "2026-11-03": {
           "total": 100,
-          "eng": 34
+          "eng": 33
         }
       },
       "pm": {
         "senior product manager wise platform fincrime": {
           "ids": [
             "smartrecruiters-wise-744000158116172"
+          ],
+          "lastSeen": "2026-11-03",
+          "closedOn": "2026-11-03"
+        },
+        "principal product manager apac onboarding kyc": {
+          "ids": [
+            "smartrecruiters-wise-744000159404925"
           ],
           "lastSeen": "2026-11-03"
         }
