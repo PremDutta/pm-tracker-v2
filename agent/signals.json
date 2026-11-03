@@ -2,6 +2,20 @@
   "signals": [
     {
       "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-11-03",
+      "detail": "150 engineering openings vs a usual 44"
+    },
+    {
+      "type": "funding",
+      "company": "GIVA",
+      "title": "GIVA raises over $100 Mn in funding round led by Multiples PE",
+      "url": "https://entrackr.com/news/giva-raises-over-100-mn-in-funding-round-led-by-multiples-pe-12779542",
+      "date": "2026-11-03",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
       "company": "GoKwik",
       "date": "2026-11-03",
       "detail": "10 engineering openings vs a usual 1"

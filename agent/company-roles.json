@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-03T09:49:17.450Z",
+  "scannedAt": "2026-11-03T13:45:18.531Z",
   "roles": {
     "Amazon": [
       {
@@ -33,6 +33,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
         "level": "group",
         "firstSeen": "2026-10-23"
+      },
+      {
+        "id": "amazon-10578219",
+        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
+        "location": "Gurugram, Haryana, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
+        "level": "group",
+        "firstSeen": "2026-11-03"
       },
       {
         "id": "amazon-10563526",
@@ -195,20 +203,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10499561",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10576706",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-10-13"
+      },
+      {
+        "id": "amazon-10499561",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10498328",
@@ -1155,14 +1163,6 @@
         "url": "https://morganstanley.eightfold.ai/careers/job/549783041795",
         "level": "leadership",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "eightfold-morganstanley.com-549796735797",
-        "title": "Wealth Management - Executive Director, Head Product Owner Digital Client Experience Platforms (Mumbai)",
-        "location": "Mumbai, Maharashtra, India",
-        "url": "https://morganstanley.eightfold.ai/careers/job/549796735797",
-        "level": "leadership",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Motorola Solutions": [
@@ -1449,14 +1449,6 @@
         "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000003325",
         "level": "pm",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "smartrecruiters-PHONEPELIMITED-1000000000003026",
-        "title": "Senior Product Manager, Insurance",
-        "location": "Bengaluru, Karnataka, India",
-        "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000003026",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Qualcomm": [
@@ -1731,6 +1723,22 @@
         "firstSeen": "2026-11-03"
       },
       {
+        "id": "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589",
+        "title": "Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Product-Manager_R-575589",
+        "level": "pm",
+        "firstSeen": "2026-11-03"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Product-Owner--Equities-Cash---Derivatives-VP-_R-583223",
+        "title": "Product Owner: Equities Cash & Derivatives(VP)",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Equities-Cash---Derivatives-VP-_R-583223",
+        "level": "leadership",
+        "firstSeen": "2026-11-03"
+      },
+      {
         "id": "workday-wf-/job/Hyderabad-India/Senior-Product-Manager_R-574835",
         "title": "Senior Product Manager",
         "location": "Hyderabad, India",
@@ -1944,6 +1952,14 @@
       }
     ],
     "Zensar": [
+      {
+        "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-152753",
+        "title": "Digital Product Owner - B2B",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/152753",
+        "level": "pm",
+        "firstSeen": "2026-11-03"
+      },
       {
         "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-150220",
         "title": "Product Owner",

@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-mastercard-/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2",
-      "title": "Lead Product Manager Technical",
-      "company": "Mastercard",
-      "location": "Vadodara, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-01"
-    },
-    {
       "id": "workday-mastercard-/job/Gurgaon-India/Specialist--Product-Management_R-289494",
       "title": "Specialist, Product Management",
       "company": "Mastercard",
@@ -3626,6 +3617,15 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Product-Manager_R-574835",
       "source": "Workday (Wells Fargo)",
       "queuedOn": "2026-11-03"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Product-Owner--Equities-Cash---Derivatives-VP-_R-583223",
+      "title": "Product Owner: Equities Cash & Derivatives(VP)",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Equities-Cash---Derivatives-VP-_R-583223",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-11-03"
     }
   ],
   "signals": [
@@ -4180,6 +4180,12 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Product-Manager_R-574835",
       "id": "workday-wf-/job/Hyderabad-India/Senior-Product-Manager_R-574835",
       "detail": "closed 2026-11-03, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-11-03",
+      "detail": "150 engineering openings vs a usual 44"
     }
   ],
   "reminders": {}
