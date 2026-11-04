@@ -1,42 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-asana-8180874",
-      "title": "Senior Product Manager, AI Studio",
-      "company": "Asana",
-      "location": "San Francisco",
-      "url": "https://www.asana.com/jobs/apply/8180874?gh_jid=8180874",
-      "source": "Greenhouse (Asana)",
-      "queuedOn": "2026-10-03"
-    },
-    {
-      "id": "workday-mastercard-/job/Pune-India/Manager--Product-Management--Scheme-and-Regulatory-Compliance_R-291500",
-      "title": "Manager, Product Management, Scheme and Regulatory Compliance",
-      "company": "Mastercard",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management--Scheme-and-Regulatory-Compliance_R-291500",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-03"
-    },
-    {
-      "id": "ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097",
-      "title": "Product Manager, Platform",
-      "company": "Perplexity",
-      "location": "New York City",
-      "url": "https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097",
-      "source": "Ashby (Perplexity)",
-      "queuedOn": "2026-10-03"
-    },
-    {
-      "id": "vc-peakxv-4699107005",
-      "title": "Product Manager II - AI",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-04"
-    },
-    {
       "id": "vc-peakxv-8697486002",
       "title": "Senior Product Manager",
       "company": "Druva Technologies",
@@ -3626,6 +3590,42 @@
       "url": "https://careers.payu.in/PayU/job/Mumbai-Senior-Product-Manager-KYC-Platform/54344480/",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "lever-spotify-e0ba7aee-1a0a-43ab-a4c0-d8856c6c2ce3",
+      "title": "Senior Product Manager - Core Experience",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/e0ba7aee-1a0a-43ab-a4c0-d8856c6c2ce3",
+      "source": "Lever (Spotify)",
+      "queuedOn": "2026-11-05"
+    },
+    {
+      "id": "amazon-10596616",
+      "title": "Sr. Product Manager - Tech, Alexa AI Developer Tech",
+      "company": "Amazon",
+      "location": "Pune, Maharashtra, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10596616/sr-product-manager-tech-alexa-ai-developer-tech",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-05"
+    },
+    {
+      "id": "workday-target-/job/BangaloreIndia/Product-Manager---Customer-Data-Platform_R0000479703",
+      "title": "Product Manager - Customer Data Platform",
+      "company": "Target India",
+      "location": "Bangalore,India",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager---Customer-Data-Platform_R0000479703",
+      "source": "Workday (Target India)",
+      "queuedOn": "2026-11-05"
+    },
+    {
+      "id": "vc-peakxv-4727236005",
+      "title": "Staff Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4727236005",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-05"
     }
   ],
   "signals": [

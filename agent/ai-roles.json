@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "amazon-10596616",
+      "title": "Sr. Product Manager - Tech, Alexa AI Developer Tech",
+      "company": "Amazon",
+      "location": "Pune, Maharashtra, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10596616/sr-product-manager-tech-alexa-ai-developer-tech",
+      "source": "Amazon careers",
+      "level": "senior",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "vc-peakxv-59397",
       "title": "Product Manager - AI and Agentic",
       "company": "Brightmoney",
@@ -31,6 +42,17 @@
       "source": "VC board (Peak XV portfolio)",
       "level": "pm",
       "aiMatch": "company",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "workday-target-/job/BangaloreIndia/Product-Manager---Customer-Data-Platform_R0000479703",
+      "title": "Product Manager - Customer Data Platform",
+      "company": "Target India",
+      "location": "Bangalore,India",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager---Customer-Data-Platform_R0000479703",
+      "source": "Workday (Target India)",
+      "level": "pm",
+      "aiMatch": "title",
       "firstSeen": "2026-11-04"
     },
     {
@@ -94,17 +116,6 @@
       "company": "Glean",
       "location": "Bangalore, India",
       "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "vc-lightspeed-c03a9615-f124-424c-8bbd-90d209a68f3d",
-      "title": "Product Manager",
-      "company": "Gushwork",
-      "location": "Bengaluru",
-      "url": "https://jobs.lever.co/gushwork/c03a9615-f124-424c-8bbd-90d209a68f3d",
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
@@ -294,17 +305,6 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3",
       "source": "Workday (HPE)",
       "level": "group",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Product-Manager--DCN_1197630-2",
-      "title": "Product Manager- DCN",
-      "company": "HPE",
-      "location": "Bengaluru, Karnātaka, India",
-      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Product-Manager--DCN_1197630-2",
-      "source": "Workday (HPE)",
-      "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-24"
     },
@@ -778,17 +778,6 @@
       "url": "https://job-boards.greenhouse.io/karat/jobs/8842979002",
       "source": "Greenhouse (Karat)",
       "level": "group",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-karat-8843016002",
-      "title": "Senior Product Manager - Recruiter Experience (India)",
-      "company": "Karat",
-      "location": "Remote (India - Bangalore ONLY)",
-      "url": "https://job-boards.greenhouse.io/karat/jobs/8843016002",
-      "source": "Greenhouse (Karat)",
-      "level": "senior",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"
     },
