@@ -1,60 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-95391990",
-      "title": "Senior Product Manager (Integrations)",
-      "company": "Jifflenow",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://indiacareers-cvent.icims.com/jobs/10943/login",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-01"
-    },
-    {
-      "id": "vc-accel-95372538",
-      "title": "Product Manager",
-      "company": "Pismo",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF084709W",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-01"
-    },
-    {
-      "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
-      "title": "Senior Product Manager",
-      "company": "Wells Fargo",
-      "location": "Bengaluru, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-10-02"
-    },
-    {
-      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager--Web-and-Mobile-Banking_R-571322",
-      "title": "Lead Digital Product Manager –Web and Mobile Banking",
-      "company": "Wells Fargo",
-      "location": "Bengaluru, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager--Web-and-Mobile-Banking_R-571322",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-10-02"
-    },
-    {
-      "id": "vc-accel-95421229",
-      "title": "Lead - Product Manager",
-      "company": "moneyview",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://moneyview.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6abdfeea012b7",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-02"
-    },
-    {
-      "id": "vc-accel-95468979",
-      "title": "Principal Technical Product Manager - Commerce (Billing & Monetization)",
-      "company": "Atlassian",
-      "location": "Bengaluru, Karnataka, India, Remote",
-      "url": "https://www.atlassian.com/company/careers/details/27217",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-02"
-    },
-    {
       "id": "greenhouse-asana-8180874",
       "title": "Senior Product Manager, AI Studio",
       "company": "Asana",
@@ -3626,6 +3572,60 @@
       "url": "https://app.eightfold.ai/careers/job/68764232879",
       "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "keka-gokwik-168878",
+      "title": "Senior Product Manager",
+      "company": "GoKwik",
+      "location": "Bangalore",
+      "url": "https://gokwik.keka.com/careers/jobdetails/168878",
+      "source": "Keka (GoKwik)",
+      "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "amazon-10593783",
+      "title": "Sr. Product Manager-Technical, Amazon Business",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10593783/sr-product-manager-technical-amazon-business",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "smartrecruiters-PHONEPELIMITED-1000000000005504",
+      "title": "Senior Product Manager",
+      "company": "PhonePe",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000005504",
+      "source": "SmartRecruiters (PhonePe)",
+      "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
+      "title": "Staff Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4727236005",
+      "source": "Greenhouse (Razorpay)",
+      "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-575589",
+      "title": "Product Manager",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-575589",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "vc-accel-98935600",
+      "title": "Senior Product Manager - KYC Platform",
+      "company": "Wibmo",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://careers.payu.in/PayU/job/Mumbai-Senior-Product-Manager-KYC-Platform/54344480/",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-04"
     }
   ],
   "signals": [
@@ -4213,6 +4213,24 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159570123",
       "id": "smartrecruiters-ServiceNow-744000159570123",
       "detail": "closed 2026-10-28, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "PhonePe",
+      "date": "2026-11-04",
+      "title": "Senior Product Manager",
+      "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000005504",
+      "id": "smartrecruiters-PHONEPELIMITED-1000000000005504",
+      "detail": "closed 2026-10-30, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-11-04",
+      "title": "Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-575589",
+      "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-575589",
+      "detail": "closed 2026-11-03, reposted today"
     }
   ],
   "reminders": {}

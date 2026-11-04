@@ -123,7 +123,7 @@
           "eng": 41
         },
         "2026-11-04": {
-          "total": 109,
+          "total": 110,
           "eng": 41
         }
       },
@@ -348,8 +348,8 @@
           "eng": 282
         },
         "2026-11-04": {
-          "total": 680,
-          "eng": 281
+          "total": 682,
+          "eng": 283
         }
       },
       "pm": {
@@ -925,7 +925,7 @@
           "eng": 42
         },
         "2026-11-04": {
-          "total": 119,
+          "total": 118,
           "eng": 42
         }
       },
@@ -2149,7 +2149,7 @@
           "eng": 39
         },
         "2026-11-04": {
-          "total": 147,
+          "total": 145,
           "eng": 39
         }
       },
@@ -3988,7 +3988,7 @@
           "eng": 7
         },
         "2026-11-04": {
-          "total": 52,
+          "total": 54,
           "eng": 7
         }
       },
@@ -4756,8 +4756,8 @@
           "eng": 8
         },
         "2026-11-04": {
-          "total": 12,
-          "eng": 8
+          "total": 13,
+          "eng": 9
         }
       },
       "pm": {
@@ -5037,8 +5037,8 @@
           "spike": true
         },
         "2026-11-04": {
-          "total": 30,
-          "eng": 10,
+          "total": 28,
+          "eng": 8,
           "spike": true
         }
       },
@@ -5197,8 +5197,8 @@
           "eng": 33
         },
         "2026-11-04": {
-          "total": 85,
-          "eng": 33
+          "total": 84,
+          "eng": 32
         }
       },
       "pm": {
@@ -5685,8 +5685,8 @@
           "eng": 15
         },
         "2026-11-04": {
-          "total": 28,
-          "eng": 15
+          "total": 29,
+          "eng": 16
         }
       },
       "pm": {
@@ -5828,8 +5828,8 @@
           "eng": 6
         },
         "2026-11-04": {
-          "total": 11,
-          "eng": 6
+          "total": 12,
+          "eng": 7
         }
       },
       "pm": {}
@@ -5957,7 +5957,7 @@
           "eng": 4
         },
         "2026-11-04": {
-          "total": 71,
+          "total": 72,
           "eng": 4
         }
       },
@@ -6720,7 +6720,7 @@
         },
         "2026-11-04": {
           "total": 100,
-          "eng": 35
+          "eng": 34
         }
       },
       "pm": {
@@ -6868,7 +6868,7 @@
           "eng": 23
         },
         "2026-11-04": {
-          "total": 69,
+          "total": 68,
           "eng": 23
         }
       },
@@ -6890,7 +6890,8 @@
           "ids": [
             "greenhouse-highradius-7707536003"
           ],
-          "lastSeen": "2026-11-04"
+          "lastSeen": "2026-11-04",
+          "closedOn": "2026-11-04"
         }
       }
     },
@@ -7017,7 +7018,7 @@
           "eng": 5
         },
         "2026-11-04": {
-          "total": 28,
+          "total": 27,
           "eng": 5
         }
       },
@@ -7786,7 +7787,7 @@
           "eng": 4
         },
         "2026-11-04": {
-          "total": 12,
+          "total": 13,
           "eng": 4
         }
       },
@@ -7923,8 +7924,8 @@
           "eng": 31
         },
         "2026-11-04": {
-          "total": 41,
-          "eng": 31
+          "total": 43,
+          "eng": 33
         }
       },
       "pm": {
@@ -9090,8 +9091,8 @@
           "eng": 7
         },
         "2026-11-04": {
-          "total": 19,
-          "eng": 7
+          "total": 20,
+          "eng": 8
         }
       },
       "pm": {
@@ -10191,10 +10192,10 @@
         },
         "senior product manager": {
           "ids": [
-            "smartrecruiters-PHONEPELIMITED-1000000000001869"
+            "smartrecruiters-PHONEPELIMITED-1000000000001869",
+            "smartrecruiters-PHONEPELIMITED-1000000000005504"
           ],
-          "lastSeen": "2026-10-30",
-          "closedOn": "2026-10-30"
+          "lastSeen": "2026-11-04"
         },
         "head of product phonepe wealth": {
           "ids": [
@@ -10333,7 +10334,7 @@
           "eng": 3
         },
         "2026-11-04": {
-          "total": 25,
+          "total": 26,
           "eng": 2
         }
       },
@@ -10363,6 +10364,12 @@
         "senior product manager": {
           "ids": [
             "greenhouse-razorpaysoftwareprivatelimited-4736585005"
+          ],
+          "lastSeen": "2026-11-04"
+        },
+        "staff product manager": {
+          "ids": [
+            "greenhouse-razorpaysoftwareprivatelimited-4727236005"
           ],
           "lastSeen": "2026-11-04"
         }
@@ -10931,7 +10938,7 @@
         },
         "2026-11-04": {
           "total": 100,
-          "eng": 34
+          "eng": 35
         }
       },
       "pm": {
@@ -11403,7 +11410,7 @@
           "eng": 68
         },
         "2026-11-04": {
-          "total": 131,
+          "total": 127,
           "eng": 70
         }
       },
@@ -11692,7 +11699,7 @@
           "eng": 5
         },
         "2026-11-04": {
-          "total": 23,
+          "total": 22,
           "eng": 5
         }
       },
@@ -11821,7 +11828,7 @@
           "eng": 75
         },
         "2026-11-04": {
-          "total": 89,
+          "total": 90,
           "eng": 74
         }
       },
@@ -12081,7 +12088,7 @@
         },
         "2026-11-04": {
           "total": 100,
-          "eng": 2
+          "eng": 1
         }
       },
       "pm": {
@@ -12623,8 +12630,8 @@
           "eng": 31
         },
         "2026-11-04": {
-          "total": 106,
-          "eng": 32
+          "total": 105,
+          "eng": 31
         }
       },
       "pm": {
@@ -13126,8 +13133,8 @@
           "eng": 10
         },
         "2026-11-04": {
-          "total": 29,
-          "eng": 10
+          "total": 28,
+          "eng": 9
         }
       },
       "pm": {
@@ -13312,8 +13319,8 @@
           "eng": 9
         },
         "2026-11-04": {
-          "total": 30,
-          "eng": 9
+          "total": 31,
+          "eng": 10
         }
       },
       "pm": {
@@ -13456,8 +13463,8 @@
           "eng": 46
         },
         "2026-11-04": {
-          "total": 80,
-          "eng": 46
+          "total": 83,
+          "eng": 47
         }
       },
       "pm": {
@@ -13961,7 +13968,7 @@
           "eng": 28
         },
         "2026-11-04": {
-          "total": 102,
+          "total": 105,
           "eng": 31
         }
       },
@@ -14014,10 +14021,10 @@
         "product manager": {
           "ids": [
             "workday-wf-/job/Bengaluru-India/Product-Manager_R-575502-1",
-            "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589"
+            "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589",
+            "workday-wf-/job/Bengaluru-India/Product-Manager_R-575589"
           ],
-          "lastSeen": "2026-11-03",
-          "closedOn": "2026-11-03"
+          "lastSeen": "2026-11-04"
         },
         "lead product manager": {
           "ids": [
@@ -14208,8 +14215,8 @@
           "eng": 40
         },
         "2026-11-04": {
-          "total": 84,
-          "eng": 42
+          "total": 88,
+          "eng": 44
         }
       },
       "pm": {
@@ -14607,10 +14614,6 @@
     },
     "Microsoft": {
       "daily": {
-        "2026-10-04": {
-          "total": 67,
-          "eng": 35
-        },
         "2026-10-05": {
           "total": 70,
           "eng": 38
@@ -14726,6 +14729,10 @@
         "2026-11-03": {
           "total": 57,
           "eng": 27
+        },
+        "2026-11-04": {
+          "total": 58,
+          "eng": 28
         }
       },
       "pm": {
@@ -14739,7 +14746,7 @@
             "eightfold-microsoft.com-1970393557016611",
             "eightfold-microsoft.com-1970393557041943"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-04"
         },
         "principal product manager": {
           "ids": [
@@ -14751,7 +14758,7 @@
             "eightfold-microsoft.com-1970393557042009",
             "eightfold-microsoft.com-1970393557038797"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-04"
         },
         "product manager ii": {
           "ids": [
@@ -14760,7 +14767,7 @@
             "eightfold-microsoft.com-1970393557038894",
             "eightfold-microsoft.com-1970393557041935"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-04"
         },
         "principal product management": {
           "ids": [
@@ -14780,13 +14787,13 @@
           "ids": [
             "eightfold-microsoft.com-1970393557040189"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-04"
         },
         "group product manager": {
           "ids": [
             "eightfold-microsoft.com-1970393557047351"
           ],
-          "lastSeen": "2026-11-03"
+          "lastSeen": "2026-11-04"
         }
       }
     },
@@ -15478,8 +15485,8 @@
           "eng": 571
         },
         "2026-11-04": {
-          "total": 918,
-          "eng": 572
+          "total": 921,
+          "eng": 574
         }
       },
       "pm": {
@@ -15942,8 +15949,8 @@
           "eng": 45
         },
         "2026-11-04": {
-          "total": 128,
-          "eng": 46
+          "total": 129,
+          "eng": 47
         }
       },
       "pm": {
@@ -17518,7 +17525,7 @@
           "eng": 154
         },
         "2026-11-04": {
-          "total": 361,
+          "total": 363,
           "eng": 154
         }
       },
@@ -17547,7 +17554,8 @@
           "ids": [
             "greenhouse-mongodb-8128356",
             "greenhouse-mongodb-7113803",
-            "greenhouse-mongodb-8094528"
+            "greenhouse-mongodb-8094528",
+            "greenhouse-mongodb-8233734"
           ],
           "lastSeen": "2026-11-04"
         },
@@ -18365,7 +18373,7 @@
           "eng": 37
         },
         "2026-11-04": {
-          "total": 81,
+          "total": 80,
           "eng": 37
         }
       },
@@ -18520,7 +18528,7 @@
         },
         "2026-11-04": {
           "total": 200,
-          "eng": 123
+          "eng": 125
         }
       },
       "pm": {
@@ -18905,7 +18913,7 @@
           "eng": 229
         },
         "2026-11-04": {
-          "total": 680,
+          "total": 683,
           "eng": 225
         }
       },
@@ -19987,7 +19995,7 @@
           "eng": 36
         },
         "2026-11-04": {
-          "total": 104,
+          "total": 103,
           "eng": 36
         }
       },
@@ -20175,7 +20183,7 @@
           "eng": 2
         },
         "2026-11-04": {
-          "total": 19,
+          "total": 20,
           "eng": 2
         }
       },
@@ -20916,7 +20924,7 @@
           "eng": 131
         },
         "2026-11-04": {
-          "total": 483,
+          "total": 482,
           "eng": 131
         }
       },
@@ -21035,11 +21043,18 @@
           "ids": [
             "ashby-airwallex-fc1158b4-bbc3-4406-ae57-d85fb60bc613"
           ],
-          "lastSeen": "2026-11-04"
+          "lastSeen": "2026-11-04",
+          "closedOn": "2026-11-04"
         },
         "senior product manager identity": {
           "ids": [
             "ashby-airwallex-3e50e26a-ea9d-4b63-bdfa-3d3fc6a43908"
+          ],
+          "lastSeen": "2026-11-04"
+        },
+        "senior product manager payments": {
+          "ids": [
+            "ashby-airwallex-fc1158b4-bbc3-4406-ae57-d85fb60bc613"
           ],
           "lastSeen": "2026-11-04"
         }
@@ -21218,8 +21233,8 @@
           "eng": 8
         },
         "2026-11-04": {
-          "total": 83,
-          "eng": 8
+          "total": 81,
+          "eng": 7
         }
       },
       "pm": {
@@ -21297,7 +21312,7 @@
           "eng": 5
         },
         "2026-11-04": {
-          "total": 31,
+          "total": 30,
           "eng": 5
         }
       },
@@ -21442,7 +21457,7 @@
         },
         "2026-11-04": {
           "total": 100,
-          "eng": 29
+          "eng": 31
         }
       },
       "pm": {
@@ -21971,7 +21986,7 @@
           "eng": 6
         },
         "2026-11-04": {
-          "total": 43,
+          "total": 42,
           "eng": 6
         }
       },
@@ -22050,8 +22065,8 @@
           "eng": 13
         },
         "2026-11-04": {
-          "total": 44,
-          "eng": 13
+          "total": 43,
+          "eng": 12
         }
       },
       "pm": {
@@ -22335,7 +22350,7 @@
           "eng": 72
         },
         "2026-11-04": {
-          "total": 240,
+          "total": 239,
           "eng": 71
         }
       },
@@ -22546,8 +22561,8 @@
           "eng": 122
         },
         "2026-11-04": {
-          "total": 223,
-          "eng": 122
+          "total": 222,
+          "eng": 121
         }
       },
       "pm": {
@@ -22611,8 +22626,8 @@
           "eng": 118
         },
         "2026-11-04": {
-          "total": 239,
-          "eng": 119
+          "total": 240,
+          "eng": 120
         }
       },
       "pm": {
@@ -22929,8 +22944,8 @@
           "eng": 3
         },
         "2026-11-04": {
-          "total": 36,
-          "eng": 5
+          "total": 37,
+          "eng": 6
         }
       },
       "pm": {
@@ -23119,7 +23134,7 @@
         },
         "2026-11-04": {
           "total": 100,
-          "eng": 33
+          "eng": 35
         }
       },
       "pm": {

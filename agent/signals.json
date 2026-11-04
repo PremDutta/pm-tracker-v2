@@ -52,12 +52,30 @@
     },
     {
       "type": "reopened",
+      "company": "PhonePe",
+      "date": "2026-11-04",
+      "title": "Senior Product Manager",
+      "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000005504",
+      "id": "smartrecruiters-PHONEPELIMITED-1000000000005504",
+      "detail": "closed 2026-10-30, reposted today"
+    },
+    {
+      "type": "reopened",
       "company": "ServiceNow",
       "date": "2026-11-04",
       "title": "Sr Staff Inbound Product Manager (Armis/Veza)",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159570123",
       "id": "smartrecruiters-ServiceNow-744000159570123",
       "detail": "closed 2026-10-28, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-11-04",
+      "title": "Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-575589",
+      "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-575589",
+      "detail": "closed 2026-11-03, reposted today"
     },
     {
       "type": "eng_spike",
