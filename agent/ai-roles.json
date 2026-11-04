@@ -1,6 +1,50 @@
 {
   "roles": [
     {
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "vc-peakxv-lbtWSkK_VfSx",
+      "title": "AI Native Product Manager",
+      "company": "Leap Finance",
+      "location": "Bengaluru, India",
+      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "vc-peakxv-8041196002",
+      "title": "Product Manager",
+      "company": "Sigmoid",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "vc-peakxv-137246",
+      "title": "AI PRODUCT MANAGER",
+      "company": "TestMu",
+      "location": "Noida, UP, India",
+      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "sf-careers.wipro.com-212755",
       "title": "Associate Product Manager - AI-Powered Core Banking Bolt-ons & Adjacencies",
       "company": "Wipro",
@@ -562,17 +606,6 @@
       "firstSeen": "2026-10-09"
     },
     {
-      "id": "greenhouse-inmobi-8232722",
-      "title": "Product Manager - Programmatic Monetization",
-      "company": "InMobi",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8232722",
-      "source": "Greenhouse (InMobi)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-07"
-    },
-    {
       "id": "greenhouse-onetrust-8192392",
       "title": "Principal Product Manager, AI Runtime Governance",
       "company": "OneTrust",
@@ -678,17 +711,6 @@
       "location": "Bangalore, India",
       "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
       "source": "Greenhouse (Glean)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "lever-gushwork-c03a9615-f124-424c-8bbd-90d209a68f3d",
-      "title": "Product Manager",
-      "company": "Gushwork",
-      "location": "Bengaluru",
-      "url": "https://jobs.lever.co/gushwork/c03a9615-f124-424c-8bbd-90d209a68f3d",
-      "source": "Lever (Gushwork)",
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"

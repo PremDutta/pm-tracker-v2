@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-04T05:06:44.818Z",
+  "scannedAt": "2026-11-04T09:37:12.090Z",
   "roles": {
     "Amazon": [
       {
@@ -65,14 +65,6 @@
         "url": "https://www.amazon.jobs/en/jobs/10441689/product-manager-inventory-health-product-amazon-now",
         "level": "pm",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10578249",
-        "title": "Product Manager III, Amazon Business India",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10578249/product-manager-iii-amazon-business-india",
-        "level": "pm",
-        "firstSeen": "2026-10-14"
       },
       {
         "id": "amazon-10561409",
@@ -193,14 +185,6 @@
         "url": "https://www.amazon.jobs/en/jobs/10431401/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10576706",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
       },
       {
         "id": "amazon-10499561",
@@ -515,16 +499,6 @@
         "firstSeen": "2026-11-03"
       }
     ],
-    "Gushwork": [
-      {
-        "id": "lever-gushwork-c03a9615-f124-424c-8bbd-90d209a68f3d",
-        "title": "Product Manager",
-        "location": "Bengaluru",
-        "url": "https://jobs.lever.co/gushwork/c03a9615-f124-424c-8bbd-90d209a68f3d",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
-      }
-    ],
     "GW RhythmX": [
       {
         "id": "greenhouse-rhythmx-ai-5320938008",
@@ -629,18 +603,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -713,16 +687,6 @@
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1",
         "level": "senior",
         "firstSeen": "2026-10-05"
-      }
-    ],
-    "InMobi": [
-      {
-        "id": "greenhouse-inmobi-8232722",
-        "title": "Product Manager - Programmatic Monetization",
-        "location": "Bangalore",
-        "url": "https://job-boards.greenhouse.io/inmobi/jobs/8232722",
-        "level": "pm",
-        "firstSeen": "2026-10-07"
       }
     ],
     "Innovaccer": [

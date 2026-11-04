@@ -1,26 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
-      "title": "Lead Digital Product Manager - CIAM",
-      "company": "Wells Fargo",
-      "location": "Bengaluru, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-10-01"
-    },
-    {
-      "id": "govt-notice-9c082ac453b65702",
-      "title": "Programme Manager Delhi",
-      "company": "National e-Governance Division",
-      "location": "",
-      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/10/Vacancy-Advert.-NCIP-01.10.2026.pdf",
-      "source": "🏛️ Govt (NeGD careers page)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-10-01"
-    },
-    {
       "id": "vc-accel-95391990",
       "title": "Senior Product Manager (Integrations)",
       "company": "Jifflenow",
@@ -3626,6 +3606,26 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Product-Manager_R0000475834",
       "source": "Workday (Target India)",
       "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "govt-notice-e9acfd0fbe7cce52",
+      "title": "Product Manager Delhi-NCR",
+      "company": "National e-Governance Division",
+      "location": "",
+      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/11/Product-Manager.pdf",
+      "source": "🏛️ Govt (NeGD careers page)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "vc-lightspeed-68764232879",
+      "title": "Product Manager II",
+      "company": "Eightfold.ai",
+      "location": "Bengaluru, KA,IN, IN",
+      "url": "https://app.eightfold.ai/careers/job/68764232879",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-11-04"
     }
   ],
   "signals": [
@@ -4204,6 +4204,15 @@
       "company": "Oracle",
       "date": "2026-11-04",
       "detail": "88 engineering openings vs a usual 4"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-04",
+      "title": "Sr Staff Inbound Product Manager (Armis/Veza)",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159570123",
+      "id": "smartrecruiters-ServiceNow-744000159570123",
+      "detail": "closed 2026-10-28, reposted today"
     }
   ],
   "reminders": {}

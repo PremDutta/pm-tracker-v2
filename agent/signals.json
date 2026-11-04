@@ -9,6 +9,14 @@
       "detail": "via Inc42"
     },
     {
+      "type": "funding",
+      "company": "EloElo Group",
+      "title": "EloElo Group raises $80 Mn in Series C led by Hornbill Capital, NBCUniversal",
+      "url": "https://entrackr.com/news/eloelo-group-raises-80-mn-in-series-c-led-by-hornbill-capital-nbcuniversal-12780928",
+      "date": "2026-11-04",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "GoKwik",
       "date": "2026-11-04",
@@ -19,6 +27,14 @@
       "company": "Netradyne",
       "date": "2026-11-04",
       "detail": "23 engineering openings vs a usual 14"
+    },
+    {
+      "type": "funding",
+      "company": "OneStack",
+      "title": "Fintech infra startup OneStack raises Rs 12.5 Cr from Shepherd's Hill, others",
+      "url": "https://entrackr.com/snippets/fintech-infra-startup-onestack-raises-rs-125-cr-from-shepherds-hill-others-12782259",
+      "date": "2026-11-04",
+      "detail": "via Entrackr"
     },
     {
       "type": "eng_spike",
@@ -33,6 +49,15 @@
       "url": "https://entrackr.com/news/peppermint-robotics-raises-rs-100-cr-in-pre-series-b-led-by-pi-ventures-crane-venture-partners-12781643",
       "date": "2026-11-04",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-04",
+      "title": "Sr Staff Inbound Product Manager (Armis/Veza)",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159570123",
+      "id": "smartrecruiters-ServiceNow-744000159570123",
+      "detail": "closed 2026-10-28, reposted today"
     },
     {
       "type": "eng_spike",
