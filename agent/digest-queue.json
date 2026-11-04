@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "oracle-jpmc.fa.oraclecloud.com-210783441",
-      "title": "Technical Product Manager - ETL, Data Reporting, SQL",
-      "company": "JPMorgan Chase",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783441",
-      "source": "JPMorgan Chase careers",
-      "queuedOn": "2026-10-01"
-    },
-    {
       "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
       "title": "Lead Digital Product Manager - CIAM",
       "company": "Wells Fargo",
@@ -3626,6 +3617,15 @@
       "url": "https://app.pyjamahr.com/careers?company=ZOCAAI+Technologies+Private+Limited&job_id=424467&company_uuid=6FFECB46A0&utm_source=DIRECT&source=DIRECT&isHeaderVisible=true",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-04"
+    },
+    {
+      "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Product-Manager_R0000475834",
+      "title": "Product Manager",
+      "company": "Target India",
+      "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Product-Manager_R0000475834",
+      "source": "Workday (Target India)",
+      "queuedOn": "2026-11-04"
     }
   ],
   "signals": [
@@ -4186,6 +4186,24 @@
       "company": "Accenture",
       "date": "2026-11-03",
       "detail": "150 engineering openings vs a usual 44"
+    },
+    {
+      "type": "eng_spike",
+      "company": "GoKwik",
+      "date": "2026-11-04",
+      "detail": "10 engineering openings vs a usual 1"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-11-04",
+      "detail": "23 engineering openings vs a usual 14"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-11-04",
+      "detail": "88 engineering openings vs a usual 4"
     }
   ],
   "reminders": {}
