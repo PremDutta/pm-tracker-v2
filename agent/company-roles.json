@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-05T09:43:33.114Z",
+  "scannedAt": "2026-11-05T14:07:29.740Z",
   "roles": {
     "Amazon": [
       {
@@ -267,18 +267,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10531340",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10523477",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10523477/sr-product-manager-tech-india-ads",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10531340",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -749,14 +749,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776755",
         "level": "leadership",
         "firstSeen": "2026-11-03"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210797096",
-        "title": "Product Manager",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
-        "level": "pm",
-        "firstSeen": "2026-11-04"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210801074",
@@ -1691,12 +1683,12 @@
     ],
     "Wells Fargo": [
       {
-        "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
-        "title": "Lead Digital Product Manager - CIAM",
+        "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330",
+        "title": "Product Manager",
         "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
-        "level": "group",
-        "firstSeen": "2026-11-04"
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-581330",
+        "level": "pm",
+        "firstSeen": "2026-11-05"
       },
       {
         "id": "workday-wf-/job/Bengaluru-India/Product-Owner--Equities-Cash---Derivatives-VP-_R-583223",
@@ -1713,6 +1705,14 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Product-Manager_R-574835",
         "level": "senior",
         "firstSeen": "2026-11-03"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
+        "level": "senior",
+        "firstSeen": "2026-11-05"
       }
     ],
     "Wing Assistant (M32 AI)": [

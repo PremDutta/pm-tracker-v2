@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-couchbaseinc-4701380006",
-      "title": "Senior Product Manager",
-      "company": "Couchbase",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/couchbaseinc/jobs/4701380006",
-      "source": "Greenhouse (Couchbase)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "ashby-ema-74540ab2-9782-476f-ad0d-78cc2e7717ed",
-      "title": "Product Manager",
-      "company": "Ema",
-      "location": "India - Bengaluru",
-      "url": "https://jobs.ashbyhq.com/ema/74540ab2-9782-476f-ad0d-78cc2e7717ed",
-      "source": "Ashby (Ema)",
-      "queuedOn": "2026-10-05"
-    },
-    {
       "id": "greenhouse-gleanwork-4726336005",
       "title": "Product Manager",
       "company": "Glean",
@@ -3626,6 +3608,24 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
       "source": "Workday (Target India)",
       "queuedOn": "2026-11-05"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330",
+      "title": "Product Manager",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-581330",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-11-05"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
+      "title": "Senior Product Manager",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-11-05"
     }
   ],
   "signals": [
@@ -4255,6 +4255,30 @@
       "company": "Accenture",
       "date": "2026-11-05",
       "detail": "119 engineering openings vs a usual 44"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-05",
+      "title": "Sr Staff Product Manager - Network Security (Armis/Veza)",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159830299",
+      "id": "smartrecruiters-ServiceNow-744000159830299",
+      "detail": "closed 2026-10-12, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Talabat (Delivery Hero)",
+      "date": "2026-11-05",
+      "detail": "11 engineering openings vs a usual 6"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-11-05",
+      "title": "Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-581330",
+      "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330",
+      "detail": "closed 2026-11-04, reposted today"
     }
   ],
   "reminders": {}

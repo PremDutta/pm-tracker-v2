@@ -923,7 +923,7 @@
           "eng": 42
         },
         "2026-11-05": {
-          "total": 118,
+          "total": 120,
           "eng": 42
         }
       },
@@ -946,6 +946,12 @@
           ],
           "lastSeen": "2026-10-22",
           "closedOn": "2026-10-22"
+        },
+        "senior product manager inference platform": {
+          "ids": [
+            "ashby-cohere-fe2e2971-e2c0-43fd-9ab1-187571776a5d"
+          ],
+          "lastSeen": "2026-11-05"
         }
       }
     },
@@ -1466,8 +1472,8 @@
           "eng": 72
         },
         "2026-11-05": {
-          "total": 165,
-          "eng": 72
+          "total": 166,
+          "eng": 73
         }
       },
       "pm": {
@@ -2440,7 +2446,7 @@
           "eng": 37
         },
         "2026-11-05": {
-          "total": 145,
+          "total": 144,
           "eng": 37
         }
       },
@@ -2771,7 +2777,7 @@
           "eng": 52
         },
         "2026-11-05": {
-          "total": 148,
+          "total": 149,
           "eng": 53
         }
       },
@@ -2920,7 +2926,7 @@
           "eng": 419
         },
         "2026-11-05": {
-          "total": 811,
+          "total": 812,
           "eng": 417
         }
       },
@@ -5196,8 +5202,8 @@
           "eng": 34
         },
         "2026-11-05": {
-          "total": 86,
-          "eng": 34
+          "total": 87,
+          "eng": 35
         }
       },
       "pm": {
@@ -5690,8 +5696,8 @@
           "eng": 16
         },
         "2026-11-05": {
-          "total": 29,
-          "eng": 16
+          "total": 28,
+          "eng": 15
         }
       },
       "pm": {
@@ -5833,7 +5839,7 @@
           "eng": 7
         },
         "2026-11-05": {
-          "total": 12,
+          "total": 11,
           "eng": 7
         }
       },
@@ -6738,7 +6744,7 @@
         },
         "2026-11-05": {
           "total": 100,
-          "eng": 34
+          "eng": 31
         }
       },
       "pm": {
@@ -7165,7 +7171,7 @@
           "eng": 11
         },
         "2026-11-05": {
-          "total": 82,
+          "total": 81,
           "eng": 11
         }
       },
@@ -7328,7 +7334,7 @@
           "eng": 28
         },
         "2026-11-05": {
-          "total": 94,
+          "total": 95,
           "eng": 28
         }
       },
@@ -7805,7 +7811,7 @@
           "eng": 4
         },
         "2026-11-05": {
-          "total": 13,
+          "total": 14,
           "eng": 4
         }
       },
@@ -8890,7 +8896,8 @@
             "oracle-jpmc.fa.oraclecloud.com-210797096",
             "oracle-jpmc.fa.oraclecloud.com-210800513"
           ],
-          "lastSeen": "2026-11-05"
+          "lastSeen": "2026-11-05",
+          "closedOn": "2026-11-05"
         },
         "technical product manager etl data reporting sql": {
           "ids": [
@@ -9116,7 +9123,7 @@
           "eng": 8
         },
         "2026-11-05": {
-          "total": 20,
+          "total": 21,
           "eng": 7
         }
       },
@@ -10185,7 +10192,7 @@
         },
         "2026-11-05": {
           "total": 100,
-          "eng": 22
+          "eng": 23
         }
       },
       "pm": {
@@ -10361,7 +10368,7 @@
         },
         "2026-11-05": {
           "total": 26,
-          "eng": 2
+          "eng": 3
         }
       },
       "pm": {
@@ -10524,7 +10531,7 @@
           "eng": 0
         },
         "2026-11-05": {
-          "total": 11,
+          "total": 10,
           "eng": 0
         }
       },
@@ -10964,7 +10971,7 @@
         },
         "2026-11-05": {
           "total": 100,
-          "eng": 39
+          "eng": 38
         }
       },
       "pm": {
@@ -11065,10 +11072,10 @@
         "sr staff product manager network security": {
           "ids": [
             "smartrecruiters-ServiceNow-744000153744559",
-            "smartrecruiters-ServiceNow-744000153828849"
+            "smartrecruiters-ServiceNow-744000153828849",
+            "smartrecruiters-ServiceNow-744000159830299"
           ],
-          "lastSeen": "2026-10-12",
-          "closedOn": "2026-10-12"
+          "lastSeen": "2026-11-05"
         },
         "staff inbound product manager servicenow university": {
           "ids": [
@@ -11439,7 +11446,7 @@
           "eng": 70
         },
         "2026-11-05": {
-          "total": 129,
+          "total": 130,
           "eng": 71
         }
       },
@@ -14017,8 +14024,8 @@
           "eng": 24
         },
         "2026-11-05": {
-          "total": 95,
-          "eng": 25
+          "total": 108,
+          "eng": 30
         }
       },
       "pm": {
@@ -14036,7 +14043,8 @@
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1"
           ],
-          "lastSeen": "2026-11-05"
+          "lastSeen": "2026-11-05",
+          "closedOn": "2026-11-05"
         },
         "senior lead digital product manager access entitlements platform": {
           "ids": [
@@ -14070,10 +14078,10 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Product-Manager_R-575502-1",
             "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589",
-            "workday-wf-/job/Bengaluru-India/Product-Manager_R-575589"
+            "workday-wf-/job/Bengaluru-India/Product-Manager_R-575589",
+            "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330"
           ],
-          "lastSeen": "2026-11-04",
-          "closedOn": "2026-11-04"
+          "lastSeen": "2026-11-05"
         },
         "lead product manager": {
           "ids": [
@@ -14265,7 +14273,7 @@
         },
         "2026-11-05": {
           "total": 92,
-          "eng": 48
+          "eng": 49
         }
       },
       "pm": {
@@ -14417,8 +14425,8 @@
           "eng": 45
         },
         "2026-11-05": {
-          "total": 196,
-          "eng": 49,
+          "total": 200,
+          "eng": 53,
           "spike": true
         }
       },
@@ -15536,8 +15544,8 @@
           "eng": 577
         },
         "2026-11-05": {
-          "total": 927,
-          "eng": 578
+          "total": 926,
+          "eng": 577
         }
       },
       "pm": {
@@ -17577,8 +17585,8 @@
           "eng": 152
         },
         "2026-11-05": {
-          "total": 361,
-          "eng": 152
+          "total": 363,
+          "eng": 153
         }
       },
       "pm": {
@@ -17847,8 +17855,8 @@
           "eng": 28
         },
         "2026-11-05": {
-          "total": 63,
-          "eng": 28
+          "total": 62,
+          "eng": 27
         }
       },
       "pm": {
@@ -18754,7 +18762,7 @@
           "eng": 44
         },
         "2026-11-05": {
-          "total": 152,
+          "total": 151,
           "eng": 43
         }
       },
@@ -18965,8 +18973,8 @@
           "eng": 225
         },
         "2026-11-05": {
-          "total": 695,
-          "eng": 227
+          "total": 696,
+          "eng": 228
         }
       },
       "pm": {
@@ -19687,7 +19695,7 @@
           "eng": 189
         },
         "2026-11-05": {
-          "total": 373,
+          "total": 372,
           "eng": 190
         }
       },
@@ -19916,7 +19924,7 @@
           "eng": 1
         },
         "2026-11-05": {
-          "total": 15,
+          "total": 16,
           "eng": 1
         }
       },
@@ -20065,8 +20073,8 @@
           "eng": 35
         },
         "2026-11-05": {
-          "total": 102,
-          "eng": 35
+          "total": 103,
+          "eng": 36
         }
       },
       "pm": {
@@ -20548,7 +20556,7 @@
           "eng": 19
         },
         "2026-11-05": {
-          "total": 376,
+          "total": 378,
           "eng": 19
         }
       },
@@ -20933,7 +20941,7 @@
           "eng": 3
         },
         "2026-11-05": {
-          "total": 11,
+          "total": 14,
           "eng": 3
         }
       },
@@ -21002,7 +21010,7 @@
           "eng": 133
         },
         "2026-11-05": {
-          "total": 487,
+          "total": 489,
           "eng": 132
         }
       },
@@ -21321,7 +21329,7 @@
           "eng": 7
         },
         "2026-11-05": {
-          "total": 82,
+          "total": 84,
           "eng": 7
         }
       },
@@ -21997,7 +22005,7 @@
           "eng": 5
         },
         "2026-11-05": {
-          "total": 30,
+          "total": 33,
           "eng": 5
         }
       },
@@ -22110,8 +22118,8 @@
           "eng": 6
         },
         "2026-11-05": {
-          "total": 42,
-          "eng": 6
+          "total": 40,
+          "eng": 4
         }
       },
       "pm": {
@@ -22271,7 +22279,8 @@
         },
         "2026-11-05": {
           "total": 100,
-          "eng": 10
+          "eng": 11,
+          "spike": true
         }
       },
       "pm": {
@@ -22495,8 +22504,8 @@
           "eng": 73
         },
         "2026-11-05": {
-          "total": 247,
-          "eng": 74
+          "total": 249,
+          "eng": 75
         }
       },
       "pm": {
@@ -22714,8 +22723,8 @@
           "eng": 130
         },
         "2026-11-05": {
-          "total": 232,
-          "eng": 130
+          "total": 236,
+          "eng": 131
         }
       },
       "pm": {
@@ -22905,7 +22914,7 @@
           "eng": 0
         },
         "2026-11-05": {
-          "total": 2,
+          "total": 3,
           "eng": 0
         }
       },
@@ -23200,7 +23209,7 @@
           "eng": 2
         },
         "2026-11-05": {
-          "total": 3,
+          "total": 4,
           "eng": 2
         }
       },
@@ -23324,7 +23333,7 @@
         },
         "2026-11-05": {
           "total": 100,
-          "eng": 33
+          "eng": 34
         }
       },
       "pm": {
@@ -23344,6 +23353,12 @@
         "principal product manager graph risk intelligence": {
           "ids": [
             "smartrecruiters-wise-744000159671616"
+          ],
+          "lastSeen": "2026-11-05"
+        },
+        "product lead wise for banks": {
+          "ids": [
+            "smartrecruiters-wise-744000159859179"
           ],
           "lastSeen": "2026-11-05"
         }
