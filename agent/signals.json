@@ -1,6 +1,38 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-11-05",
+      "detail": "119 engineering openings vs a usual 44"
+    },
+    {
+      "type": "funding",
+      "company": "altM",
+      "title": "altM raises $10.3M in Series A funding led by Rainmatter, Mela Ventures",
+      "url": "https://yourstory.com/2026/11/altm-raises-103m-series-a-funding-rainmatter-mela-ventures",
+      "date": "2026-11-05",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "eng_spike",
+      "company": "GoKwik",
+      "date": "2026-11-05",
+      "detail": "8 engineering openings vs a usual 2"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-11-05",
+      "detail": "23 engineering openings vs a usual 14"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-11-05",
+      "detail": "88 engineering openings vs a usual 4"
+    },
+    {
       "type": "funding",
       "company": "Decision Models Go Live, GIVA",
       "title": "Decision Models Go Live, GIVA Nets $103 Mn & More",
@@ -1651,44 +1683,6 @@
       "url": "https://entrackr.com/snippets/refurbished-electronics-platform-refit-global-raises-1-mn-in-seed-round-12627826",
       "date": "2026-10-06",
       "detail": "via Entrackr"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-05",
-      "detail": "147 engineering openings vs a usual 36"
-    },
-    {
-      "type": "funding",
-      "company": "QpiAI",
-      "title": "Exclusive: QpiAI raises Rs 50 Cr in debt from InnoVen Capital",
-      "url": "https://entrackr.com/exclusive/exclusive-qpiai-raises-rs-50-cr-in-debt-from-innoven-capital-12625901",
-      "date": "2026-10-05",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "QpiAI",
-      "title": "Quantum computing and AI firm QpiAI secures Rs 50 Cr debt financing from InnoVen Capital",
-      "url": "https://yourstory.com/2026/10/qpiai-secures-rs-50-cr-debt-financing-from-innoven-capital",
-      "date": "2026-10-05",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Scooter",
-      "title": "Sales hiring startup Scooter raises Rs 1.5 Cr pre-seed round",
-      "url": "https://entrackr.com/snippets/sales-hiring-startup-scooter-raises-rs-15-cr-pre-seed-round-12624249",
-      "date": "2026-10-05",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "TVS Automobile Solutions",
-      "title": "TVS Automobile Solutions raises Rs 425 Cr from UAE investor to expand myTVS brand",
-      "url": "https://yourstory.com/2026/10/tvs-automobile-solutions-raises-rs-425-cr-uae-investor-expand-mytvs",
-      "date": "2026-10-05",
-      "detail": "via YourStory"
     }
   ]
 }
