@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-05T05:28:24.105Z",
+  "scannedAt": "2026-11-05T09:43:33.159Z",
   "roles": [
     {
       "id": "greenhouse-anthropic-5096878008",
@@ -84,7 +84,7 @@
       "id": "rippling-rippling-3bbddc0c-89d9-41a1-b6e8-f990b058d7fb",
       "title": "Product Lead, Variable Compensation",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/3bbddc0c-89d9-41a1-b6e8-f990b058d7fb",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -763,6 +763,19 @@
       "firstSeen": "2026-10-26"
     },
     {
+      "id": "greenhouse-n26-8268322",
+      "title": "Lead Technical Product Manager — Machine Learning Platform",
+      "company": "N26",
+      "location": "Barcelona",
+      "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322",
+      "source": "Greenhouse (N26)",
+      "level": "group",
+      "regions": [
+        "europe"
+      ],
+      "firstSeen": "2026-10-26"
+    },
+    {
       "id": "greenhouse-n26-8267143",
       "title": "Lead Technical Product Manager — Machine Learning Platform",
       "company": "N26",
@@ -772,19 +785,6 @@
       "level": "group",
       "regions": [
         "germany",
-        "europe"
-      ],
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "greenhouse-n26-8268322",
-      "title": "Lead Technical Product Manager — Machine Learning Platform",
-      "company": "N26",
-      "location": "Barcelona",
-      "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322",
-      "source": "Greenhouse (N26)",
-      "level": "group",
-      "regions": [
         "europe"
       ],
       "firstSeen": "2026-10-26"
@@ -972,11 +972,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4694764005",
+      "id": "greenhouse-gleanwork-4525519005",
       "title": "Product Manager, AI Quality",
       "company": "Glean",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694764005",
+      "location": "San Francisco Bay Area",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4525519005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -985,11 +985,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4525519005",
+      "id": "greenhouse-gleanwork-4694764005",
       "title": "Product Manager, AI Quality",
       "company": "Glean",
-      "location": "San Francisco Bay Area",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4525519005",
+      "location": "Mountain View, CA",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694764005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -1011,11 +1011,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4702151005",
+      "id": "greenhouse-gleanwork-4702367005",
       "title": "Product Manager, Growth",
       "company": "Glean",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702151005",
+      "location": "Mountain View, CA",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702367005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -1024,11 +1024,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4702367005",
+      "id": "greenhouse-gleanwork-4702151005",
       "title": "Product Manager, Growth",
       "company": "Glean",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702367005",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702151005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -1622,19 +1622,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "lever-crypto-097a7b81-68bd-4cc5-a5a4-7eed9c8a0325",
-      "title": "(Senior) Product Manager, Fiat & FCM",
-      "company": "Crypto.com",
-      "location": "San Francisco",
-      "url": "https://jobs.lever.co/crypto/097a7b81-68bd-4cc5-a5a4-7eed9c8a0325",
-      "source": "Lever (Crypto.com)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "lever-crypto-a898683e-d211-4e8c-8576-21f676993d90",
       "title": "(Senior) Product Manager, Fiat & FCM",
       "company": "Crypto.com",
@@ -1644,19 +1631,6 @@
       "level": "senior",
       "regions": [
         "singapore"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "lever-crypto-fd1b5ab4-60f7-4aa4-9db1-d7deda6b8143",
-      "title": "OG.com - Senior Product Manager - Fiat Onboarding",
-      "company": "Crypto.com",
-      "location": "San Francisco",
-      "url": "https://jobs.lever.co/crypto/fd1b5ab4-60f7-4aa4-9db1-d7deda6b8143",
-      "source": "Lever (Crypto.com)",
-      "level": "senior",
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -1726,19 +1700,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "lever-crypto-35c98674-9bbc-476e-a0f9-a1c48705966a",
-      "title": "Senior/ Principal Product Manager, Trading(Crypto.com App) - Relocate to HK",
-      "company": "Crypto.com",
-      "location": "United States",
-      "url": "https://jobs.lever.co/crypto/35c98674-9bbc-476e-a0f9-a1c48705966a",
-      "source": "Lever (Crypto.com)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "lever-crypto-3224df58-3da7-46ba-a537-d7b03e2bca43",
       "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
       "company": "Crypto.com",
@@ -1787,19 +1748,6 @@
       "level": "group",
       "regions": [
         "apac"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "lever-crypto-f66cc817-371b-469c-8bc8-52a3f914b6ef",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)  - Relocate to HK",
-      "company": "Crypto.com",
-      "location": "United States",
-      "url": "https://jobs.lever.co/crypto/f66cc817-371b-469c-8bc8-52a3f914b6ef",
-      "source": "Lever (Crypto.com)",
-      "level": "group",
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -1923,11 +1871,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200462002",
+      "id": "greenhouse-databricks-8200284002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1936,11 +1884,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200284002",
+      "id": "greenhouse-databricks-8200462002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2066,11 +2014,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8811265002",
+      "id": "greenhouse-databricks-8876675002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2079,11 +2027,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8876675002",
+      "id": "greenhouse-databricks-8811265002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -3233,7 +3181,7 @@
       "id": "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "title": "Director, Product Marketing (Hybrid in NYC, SF, or Seattle)",
       "company": "Rippling",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -3272,7 +3220,7 @@
       "id": "rippling-rippling-7d6f9194-b55e-47a5-b1db-caeb396ba3ab",
       "title": "Product Lead, IT",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/7d6f9194-b55e-47a5-b1db-caeb396ba3ab",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3311,7 +3259,7 @@
       "id": "rippling-rippling-0889e2ac-a30c-43b7-8c8c-5312264416db",
       "title": "Product Lead, Talent Products",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/0889e2ac-a30c-43b7-8c8c-5312264416db",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3324,7 +3272,7 @@
       "id": "rippling-rippling-ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "title": "Senior Director of Product, App Platform",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "source": "Rippling (Rippling)",
       "level": "leadership",

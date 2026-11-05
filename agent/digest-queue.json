@@ -1,42 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-peakxv-8697486002",
-      "title": "Senior Product Manager",
-      "company": "Druva Technologies",
-      "location": "Pune, Maharashtra, India",
-      "url": "https://www.druva.com/why-druva/explore/careers/jobs/8697486002/?gh_jid=8697486002",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "amazon-10568582",
-      "title": "Sr. Product Manager - Tech, Purchase Experience, Amazon Books",
-      "company": "Amazon",
-      "location": "Chennai, Tamil Nadu, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10568582/sr-product-manager-tech-purchase-experience-amazon-books",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "workday-wf-/job/Hyderabad-India/Senior-Digital-Product-Manager_R-567333",
-      "title": "Senior Digital Product Manager",
-      "company": "Wells Fargo",
-      "location": "Hyderabad, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Digital-Product-Manager_R-567333",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "workday-autodesk-/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
-      "title": "Product Manager (Data Ingestion & Delivery)",
-      "company": "Autodesk",
-      "location": "Pune, IND",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Product-Manager--Data-Ingestion---Delivery-_26WD101185-1",
-      "source": "Workday (Autodesk)",
-      "queuedOn": "2026-10-05"
-    },
-    {
       "id": "greenhouse-couchbaseinc-4701380006",
       "title": "Senior Product Manager",
       "company": "Couchbase",
@@ -3625,6 +3589,42 @@
       "location": "Bengaluru",
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4727236005",
       "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-glance-8337703",
+      "title": "Senior Product Manager - Glance TV - GTM",
+      "company": "Glance",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/glance/jobs/8337703",
+      "source": "Greenhouse (Glance)",
+      "queuedOn": "2026-11-05"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210801074",
+      "title": "Product Manager - Capture & Controls",
+      "company": "JPMorgan Chase",
+      "location": "India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801074",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-11-05"
+    },
+    {
+      "id": "smartrecruiters-swiggy-6000000001553145",
+      "title": "Principal Product Manager ",
+      "company": "Swiggy",
+      "location": "Bengaluru, KA, India",
+      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001553145",
+      "source": "SmartRecruiters (Swiggy)",
+      "queuedOn": "2026-11-05"
+    },
+    {
+      "id": "workday-target-/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
+      "title": "Director Product Management - Customer Data Platform",
+      "company": "Target India",
+      "location": "Bangalore,India",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
+      "source": "Workday (Target India)",
       "queuedOn": "2026-11-05"
     }
   ],

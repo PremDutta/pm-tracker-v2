@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-05T05:28:24.061Z",
+  "scannedAt": "2026-11-05T09:43:33.114Z",
   "roles": {
     "Amazon": [
       {
@@ -211,14 +211,6 @@
         "firstSeen": "2026-10-19"
       },
       {
-        "id": "amazon-10581702",
-        "title": "Sr Product Manager – Visibility, Shipment Technologies",
-        "location": "Hyderabad, Telangana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10581702/sr-product-manager-visibility-shipment-technologies",
-        "level": "senior",
-        "firstSeen": "2026-10-16"
-      },
-      {
         "id": "amazon-10577088",
         "title": "Sr Product Manager Tech",
         "location": "Hyderabad, Telangana, IND",
@@ -275,18 +267,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10523477",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10523477/sr-product-manager-tech-india-ads",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10531340",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10523477",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10523477/sr-product-manager-tech-india-ads",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -479,6 +471,16 @@
         "firstSeen": "2026-11-03"
       }
     ],
+    "Glance": [
+      {
+        "id": "greenhouse-glance-8337703",
+        "title": "Senior Product Manager - Glance TV - GTM",
+        "location": "Bangalore",
+        "url": "https://job-boards.greenhouse.io/glance/jobs/8337703",
+        "level": "senior",
+        "firstSeen": "2026-11-05"
+      }
+    ],
     "Glean": [
       {
         "id": "greenhouse-gleanwork-4726336005",
@@ -569,6 +571,14 @@
         "url": "https://careers.hcltech.com/job/Data-Product-Manager/168347-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-169138",
+        "title": "Data Product Manager",
+        "location": "Chennai",
+        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-05"
       },
       {
         "id": "sf-careers.hcltech.com-178491",
@@ -747,6 +757,14 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
         "level": "pm",
         "firstSeen": "2026-11-04"
+      },
+      {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210801074",
+        "title": "Product Manager - Capture & Controls",
+        "location": "India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801074",
+        "level": "pm",
+        "firstSeen": "2026-11-05"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210796619",
@@ -1069,14 +1087,6 @@
         "title": "Equity Investment Team Support - Director- Product Support & Services",
         "location": "Mumbai, Maharashtra, India",
         "url": "https://morganstanley.eightfold.ai/careers/job/549799720630",
-        "level": "leadership",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "eightfold-morganstanley.com-549799809963",
-        "title": "Investment Management Finance , Director, Product Controllers",
-        "location": "Mumbai, Maharashtra, India",
-        "url": "https://morganstanley.eightfold.ai/careers/job/549799809963",
         "level": "leadership",
         "firstSeen": "2026-09-30"
       },
@@ -1591,7 +1601,25 @@
         "firstSeen": "2026-10-05"
       }
     ],
+    "Swiggy": [
+      {
+        "id": "smartrecruiters-swiggy-6000000001553145",
+        "title": "Principal Product Manager ",
+        "location": "Bengaluru, KA, India",
+        "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001553145",
+        "level": "group",
+        "firstSeen": "2026-11-05"
+      }
+    ],
     "Target India": [
+      {
+        "id": "workday-target-/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
+        "title": "Director Product Management - Customer Data Platform",
+        "location": "Bangalore,India",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
+        "level": "leadership",
+        "firstSeen": "2026-11-05"
+      },
       {
         "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Product-Manager_R0000475834",
         "title": "Product Manager",

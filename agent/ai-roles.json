@@ -1,6 +1,28 @@
 {
   "roles": [
     {
+      "id": "greenhouse-glance-8337703",
+      "title": "Senior Product Manager - Glance TV - GTM",
+      "company": "Glance",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/glance/jobs/8337703",
+      "source": "Greenhouse (Glance)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "workday-target-/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
+      "title": "Director Product Management - Customer Data Platform",
+      "company": "Target India",
+      "location": "Bangalore,India",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
+      "source": "Workday (Target India)",
+      "level": "leadership",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-05"
+    },
+    {
       "id": "amazon-10596616",
       "title": "Sr. Product Manager - Tech, Alexa AI Developer Tech",
       "company": "Amazon",
