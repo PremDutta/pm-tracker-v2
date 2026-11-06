@@ -1,6 +1,50 @@
 {
   "roles": [
     {
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "vc-peakxv-lbtWSkK_VfSx",
+      "title": "AI Native Product Manager",
+      "company": "Leap Finance",
+      "location": "Bengaluru, India",
+      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "vc-peakxv-8041196002",
+      "title": "Product Manager",
+      "company": "Sigmoid",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "vc-peakxv-137246",
+      "title": "AI PRODUCT MANAGER",
+      "company": "TestMu",
+      "location": "Noida, UP, India",
+      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "greenhouse-glance-8337703",
       "title": "Senior Product Manager - Glance TV - GTM",
       "company": "Glance",
@@ -613,17 +657,6 @@
       "url": "https://jobs.lever.co/100ms/03b1718b-a597-46f5-8178-d555f259b6bd",
       "source": "VC board (Accel portfolio)",
       "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "amazon-10504461",
-      "title": "Principal Product Manager Tech – AI, Multi-Channel Commerce, Amazon Smart Commerce",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10504461/principal-product-manager-tech-ai-multi-channel-commerce-amazon-smart-commerce",
-      "source": "Amazon careers",
-      "level": "group",
       "aiMatch": "title",
       "firstSeen": "2026-10-05"
     },

@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-06T05:27:19.829Z",
+  "scannedAt": "2026-11-06T09:38:29.809Z",
   "roles": {
     "Amazon": [
       {
@@ -15,14 +15,6 @@
         "title": "Principal Product Manager - Tech, Prime Video Commerce & International Product",
         "location": "Mumbai, Maharashtra, IND",
         "url": "https://www.amazon.jobs/en/jobs/10459442/principal-product-manager-tech-prime-video-commerce-international-product",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10504461",
-        "title": "Principal Product Manager Tech – AI, Multi-Channel Commerce, Amazon Smart Commerce",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10504461/principal-product-manager-tech-ai-multi-channel-commerce-amazon-smart-commerce",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -553,14 +545,6 @@
         "title": "AI Product Manager I",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/150376-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-168347",
-        "title": "Data Product Manager",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Data-Product-Manager/168347-en_US/",
         "level": "pm",
         "firstSeen": "2026-09-30"
       },
@@ -1657,14 +1641,6 @@
         "firstSeen": "2026-10-09"
       },
       {
-        "id": "workday-visa-/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W",
-        "title": "Senior Product Manager, Platform and Gateway",
-        "location": "IN - Bengaluru, India",
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W",
-        "level": "senior",
-        "firstSeen": "2026-10-09"
-      },
-      {
         "id": "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W",
         "title": "Sr. Product Manager",
         "location": "IN - Bengaluru, India",
@@ -1689,14 +1665,6 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Equities-Cash---Derivatives-VP-_R-583223",
         "level": "leadership",
         "firstSeen": "2026-11-03"
-      },
-      {
-        "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
-        "level": "senior",
-        "firstSeen": "2026-11-05"
       }
     ],
     "Wing Assistant (M32 AI)": [
