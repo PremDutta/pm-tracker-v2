@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-harnessinc-5176776007",
-      "title": "Staff Product Manager - Continuous Deployment",
-      "company": "Harness",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.harness.io/company/jobs/apply?gh_jid=5176776007&gh_jid=5176776007",
-      "source": "Greenhouse (Harness)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "lever-hevodata-c665b22f-6336-4ec2-88d8-4165f51d5396",
-      "title": "Product Manager",
-      "company": "Hevo Data",
-      "location": "Bangalore, India",
-      "url": "https://jobs.lever.co/hevodata/c665b22f-6336-4ec2-88d8-4165f51d5396",
-      "source": "Lever (Hevo Data)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-karat-8842979002",
-      "title": "Principal Product Manager - Hiring Manager Experience (India)",
-      "company": "Karat",
-      "location": "Remote (India - Bangalore ONLY)",
-      "url": "https://job-boards.greenhouse.io/karat/jobs/8842979002",
-      "source": "Greenhouse (Karat)",
-      "queuedOn": "2026-10-05"
-    },
-    {
       "id": "greenhouse-karat-8843016002",
       "title": "Senior Product Manager - Recruiter Experience (India)",
       "company": "Karat",
@@ -3625,6 +3598,33 @@
       "location": "Bengaluru",
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4727236005",
       "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-11-06"
+    },
+    {
+      "id": "greenhouse-scaleai-4751108005",
+      "title": "Product Manager, AI Applications",
+      "company": "Scale AI",
+      "location": "Kuwait City, Kuwait",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751108005",
+      "source": "Greenhouse (Scale AI)",
+      "queuedOn": "2026-11-06"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557041938",
+      "title": "Senior Product Manager",
+      "company": "Microsoft",
+      "location": "India, Uttar Pradesh, Noida",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041938",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-11-06"
+    },
+    {
+      "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-149051",
+      "title": "Product Owner",
+      "company": "Zensar",
+      "location": "India",
+      "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/149051",
+      "source": "Zensar careers",
       "queuedOn": "2026-11-06"
     }
   ],
