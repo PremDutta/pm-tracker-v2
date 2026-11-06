@@ -1,6 +1,36 @@
 {
   "signals": [
     {
+      "type": "reopened",
+      "company": "Asana",
+      "date": "2026-11-06",
+      "title": "Lead Product Manager, APIs and MCP",
+      "url": "https://www.asana.com/jobs/apply/8338202?gh_jid=8338202",
+      "id": "greenhouse-asana-8338202",
+      "detail": "closed 2026-10-24, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-11-06",
+      "detail": "22 engineering openings vs a usual 14"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-11-06",
+      "detail": "89 engineering openings vs a usual 6"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-06",
+      "title": "Senior Director, Product Creative Direction",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159985479",
+      "id": "smartrecruiters-ServiceNow-744000159985479",
+      "detail": "closed 2026-10-21, reposted today"
+    },
+    {
       "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-11-05",
@@ -29,6 +59,14 @@
       "url": "https://yourstory.com/2026/11/spacetech-startup-cosmoserve-raises-6-million-in-seed-round",
       "date": "2026-11-05",
       "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
+      "company": "Cosmoserve Space",
+      "title": "Spacetech startup Cosmoserve Space raises $6 Mn in seed round",
+      "url": "https://entrackr.com/snippets/spacetech-startup-cosmoserve-space-raises-6-mn-in-seed-round-12787035",
+      "date": "2026-11-05",
+      "detail": "via Entrackr"
     },
     {
       "type": "eng_spike",
@@ -1674,62 +1712,6 @@
       "title": "Zomint raises Rs 36 Cr seed round from Lightspeed and Prime Venture Partners",
       "url": "https://entrackr.com/snippets/zomint-raises-rs-36-cr-seed-round-from-lightspeed-and-prime-venture-partners-12631666",
       "date": "2026-10-07",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Beyond Appliances",
-      "title": "Fireside leads Rs 110 Cr Series B round in Beyond Appliances",
-      "url": "https://entrackr.com/news/fireside-leads-rs-110-cr-series-b-round-in-beyond-appliances-12627573",
-      "date": "2026-10-06",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Beyond Appliances",
-      "title": "Beyond Appliances raises Rs 110 Cr in Series B round led by Fireside Ventures",
-      "url": "https://yourstory.com/2026/10/beyond-appliances-raises-rs-110-cr-series-b-fireside-ventures",
-      "date": "2026-10-06",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "CureMeAbroad",
-      "title": "Medical tourism startup CureMeAbroad raises $1.1 Mn in pre Seed funding",
-      "url": "https://entrackr.com/snippets/medical-tourism-startup-curemeabroad-raises-11-mn-in-pre-seed-funding-12628366",
-      "date": "2026-10-06",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "CurvetAI",
-      "title": "CurvetAI raises Rs 6 Cr pre-seed round led by Merak Ventures",
-      "url": "https://entrackr.com/snippets/curvetai-raises-rs-6-cr-pre-seed-round-led-by-merak-ventures-12627784",
-      "date": "2026-10-06",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Kinetic Age",
-      "title": "Kinetic Age raises $250K from AJVC, Agrasar Ventures",
-      "url": "https://entrackr.com/snippets/kinetic-age-raises-250k-from-ajvc-agrasar-ventures-12627734",
-      "date": "2026-10-06",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Lorazzo",
-      "title": "Sauce leads Rs 15 Cr funding round in kitchen and bathroom brand Lorazzo",
-      "url": "https://entrackr.com/snippets/sauce-leads-rs-15-cr-funding-round-in-kitchen-and-bathroom-brand-lorazzo-12628801",
-      "date": "2026-10-06",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "ReFit Global",
-      "title": "Refurbished electronics platform ReFit Global raises $1 Mn in seed round",
-      "url": "https://entrackr.com/snippets/refurbished-electronics-platform-refit-global-raises-1-mn-in-seed-round-12627826",
-      "date": "2026-10-06",
       "detail": "via Entrackr"
     }
   ]
