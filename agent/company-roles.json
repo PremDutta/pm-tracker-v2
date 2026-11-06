@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-06T13:51:27.839Z",
+  "scannedAt": "2026-11-06T22:47:31.628Z",
   "roles": {
     "Amazon": [
       {
@@ -259,18 +259,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10523477",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10523477/sr-product-manager-tech-india-ads",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10531340",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10531340/sr-product-manager-tech-india-ads",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10523477",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10523477/sr-product-manager-tech-india-ads",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -524,7 +524,7 @@
         "id": "ashby-HackerOne-c061590a-f169-4741-a0ae-a3f9b310cc09",
         "title": "AI Product Manager",
         "location": "Pune",
-        "url": "https://jobs.ashbyhq.com/HackerOne/c061590a-f169-4741-a0ae-a3f9b310cc09",
+        "url": "https://jobs.ashbyhq.com/hackerone/c061590a-f169-4741-a0ae-a3f9b310cc09",
         "level": "pm",
         "firstSeen": "2026-10-05"
       }
@@ -1187,6 +1187,14 @@
     ],
     "Oracle": [
       {
+        "id": "oracle-eeho.fa.us2.oraclecloud.com-349703",
+        "title": "Product Manager/Strategy 3-ProdDev",
+        "location": "BENGALURU, KARNATAKA, India",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349703",
+        "level": "pm",
+        "firstSeen": "2026-11-06"
+      },
+      {
         "id": "oracle-eeho.fa.us2.oraclecloud.com-347873",
         "title": "Senior Product Manager- SCM/Ecommerce",
         "location": "HYDERABAD, TELANGANA, India",
@@ -1640,14 +1648,6 @@
       }
     ],
     "Wells Fargo": [
-      {
-        "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330",
-        "title": "Product Manager",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-581330",
-        "level": "pm",
-        "firstSeen": "2026-11-06"
-      },
       {
         "id": "workday-wf-/job/Bengaluru-India/Product-Owner--Equities-Cash---Derivatives-VP-_R-583223",
         "title": "Product Owner: Equities Cash & Derivatives(VP)",

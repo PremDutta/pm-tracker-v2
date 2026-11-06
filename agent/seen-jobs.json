@@ -974,7 +974,12 @@
     "vc-lightspeed-4727236005",
     "greenhouse-scaleai-4751108005",
     "eightfold-microsoft.com-1970393557041938",
-    "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-149051"
+    "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-149051",
+    "oracle-eeho.fa.us2.oraclecloud.com-349703",
+    "vc-accel-99210627",
+    "vc-accel-99210148",
+    "vc-accel-99209884",
+    "vc-accel-99113487"
   ],
   "firstRun": false,
   "baselinedOrgs": [

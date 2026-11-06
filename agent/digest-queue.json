@@ -1,51 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-karat-8843016002",
-      "title": "Senior Product Manager - Recruiter Experience (India)",
-      "company": "Karat",
-      "location": "Remote (India - Bangalore ONLY)",
-      "url": "https://job-boards.greenhouse.io/karat/jobs/8843016002",
-      "source": "Greenhouse (Karat)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "keka-lyzr-41788",
-      "title": "Product Manager",
-      "company": "Lyzr",
-      "location": "Bengaluru, Chennai",
-      "url": "https://lyzr.keka.com/careers/jobdetails/41788",
-      "source": "Keka (Lyzr)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "keka-mihup-160594",
-      "title": "Senior Product Manager",
-      "company": "Mihup",
-      "location": "Bengaluru",
-      "url": "https://mihup.keka.com/careers/jobdetails/160594",
-      "source": "Keka (Mihup)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-mongodb-8094528",
-      "title": "Senior Product Manager",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8094528",
-      "source": "Greenhouse (MongoDB)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "workday-motorolasolutions-/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654",
-      "title": "Product Manager - Business Intelligence & Analytics",
-      "company": "Motorola Solutions",
-      "location": "Bangalore, India",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654",
-      "source": "Workday (Motorola Solutions)",
-      "queuedOn": "2026-10-05"
-    },
-    {
       "id": "lever-netomi-a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
       "title": "Agentic Product Manager",
       "company": "Netomi",
@@ -3626,6 +3581,51 @@
       "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/149051",
       "source": "Zensar careers",
       "queuedOn": "2026-11-06"
+    },
+    {
+      "id": "oracle-eeho.fa.us2.oraclecloud.com-349703",
+      "title": "Product Manager/Strategy 3-ProdDev",
+      "company": "Oracle",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349703",
+      "source": "Oracle careers",
+      "queuedOn": "2026-11-07"
+    },
+    {
+      "id": "vc-accel-99210627",
+      "title": "Principal Product Manager",
+      "company": "Swiftkey",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040068",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-07"
+    },
+    {
+      "id": "vc-accel-99210148",
+      "title": "Senior Product Manager",
+      "company": "Swiftkey",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041938",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-07"
+    },
+    {
+      "id": "vc-accel-99209884",
+      "title": "Product Manager",
+      "company": "CareStack",
+      "location": "Thiruvananthapuram, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/product-manager-at-carestack%E2%84%A2-dental-practice-management-4486083021",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-07"
+    },
+    {
+      "id": "vc-accel-99113487",
+      "title": "Product Manager, Google Play App Safety Platform",
+      "company": "Google",
+      "location": "Bengaluru, Karnataka, India, Singapore",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/74376339829727942-product-manager-google-play-app-safety-platform?page=44",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-07"
     }
   ],
   "signals": [
@@ -4309,6 +4309,15 @@
       "company": "Oracle",
       "date": "2026-11-06",
       "detail": "89 engineering openings vs a usual 6"
+    },
+    {
+      "type": "reopened",
+      "company": "Oracle",
+      "date": "2026-11-06",
+      "title": "Product Manager/Strategy 3-ProdDev",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349703",
+      "id": "oracle-eeho.fa.us2.oraclecloud.com-349703",
+      "detail": "closed 2026-10-21, reposted today"
     }
   ],
   "reminders": {}

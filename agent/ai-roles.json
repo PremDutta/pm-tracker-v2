@@ -23,17 +23,6 @@
       "firstSeen": "2026-11-06"
     },
     {
-      "id": "vc-peakxv-8041196002",
-      "title": "Product Manager",
-      "company": "Sigmoid",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-11-06"
-    },
-    {
       "id": "vc-peakxv-137246",
       "title": "AI PRODUCT MANAGER",
       "company": "TestMu",
@@ -522,7 +511,7 @@
       "title": "Product Manager (ElevenCreative Self-Serve)",
       "company": "ElevenLabs",
       "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0",
       "source": "Ashby (ElevenLabs)",
       "level": "pm",
       "aiMatch": "company",
@@ -742,7 +731,7 @@
       "title": "AI Product Manager",
       "company": "HackerOne",
       "location": "Pune",
-      "url": "https://jobs.ashbyhq.com/HackerOne/c061590a-f169-4741-a0ae-a3f9b310cc09",
+      "url": "https://jobs.ashbyhq.com/hackerone/c061590a-f169-4741-a0ae-a3f9b310cc09",
       "source": "Ashby (HackerOne)",
       "level": "pm",
       "aiMatch": "title",
