@@ -1,6 +1,18 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-11-07",
+      "detail": "23 engineering openings vs a usual 14"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-11-07",
+      "detail": "87 engineering openings vs a usual 17"
+    },
+    {
       "type": "reopened",
       "company": "Asana",
       "date": "2026-11-06",
@@ -1627,100 +1639,6 @@
       "title": "Lab-grown diamond brand Zinara raises pre-seed funding led by Inflection Point Ventures",
       "url": "https://entrackr.com/snippets/lab-grown-diamond-brand-zinara-raises-pre-seed-funding-led-by-inflection-point-ventures-12636439",
       "date": "2026-10-08",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-07",
-      "detail": "137 engineering openings vs a usual 36"
-    },
-    {
-      "type": "funding",
-      "company": "byteXL",
-      "title": "Edtech startup byteXL raises $9 Mn in funding round led by Elevar Equity",
-      "url": "https://entrackr.com/snippets/edtech-startup-bytexl-raises-9-mn-in-funding-round-led-by-elevar-equity-12632385",
-      "date": "2026-10-07",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "byteXL",
-      "title": "Edtech firm byteXL raises $9M as investors back college-linked AI skilling model",
-      "url": "https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model",
-      "date": "2026-10-07",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Desible.ai",
-      "title": "Agentic AI startup Desible.ai raises Rs 32 Cr led by Prime Venture Partners",
-      "url": "https://entrackr.com/snippets/agentic-ai-startup-desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12632530",
-      "date": "2026-10-07",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Ionage",
-      "title": "Energy management platform Ionage raises $1.3 Mn in pre Series A round",
-      "url": "https://entrackr.com/snippets/energy-management-platform-ionage-raises-13-mn-in-pre-series-a-round-12633801",
-      "date": "2026-10-07",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Lumio",
-      "title": "Consumer tech brand Lumio raises $12M led by Blume Ventures",
-      "url": "https://yourstory.com/2026/10/consumer-tech-brand-lumio-raises-12-million-led-by-blume-ventures",
-      "date": "2026-10-07",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Quanfluence",
-      "title": "Chiratae Ventures leads $10 Mn round in photonic quantum startup Quanfluence",
-      "url": "https://entrackr.com/news/chiratae-ventures-leads-10-mn-round-in-photonic-quantum-startup-quanfluence-12631530",
-      "date": "2026-10-07",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Quanfluence",
-      "title": "Deeptech startup Quanfluence raises $10M led by Chiratae Ventures",
-      "url": "https://yourstory.com/2026/10/deeptech-startup-quanfluence-raises-10m-led-by-chiratae-ventures",
-      "date": "2026-10-07",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Sunfox Technologies",
-      "title": "Med-tech startup Sunfox Technologies raises $7 Mn in Series A round",
-      "url": "https://entrackr.com/snippets/med-tech-startup-sunfox-technologies-raises-7-mn-in-series-a-round-12633059",
-      "date": "2026-10-07",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Sunfox Technologies",
-      "title": "Medtech company Sunfox Technologies raises $7M to scale cardiac diagnostics platform",
-      "url": "https://yourstory.com/2026/10/medtech-company-sunfox-technologies-raises-7m",
-      "date": "2026-10-07",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "The Dough Therapy",
-      "title": "Pizza brand The Dough Therapy raises Rs 5.25 Cr in seed round",
-      "url": "https://entrackr.com/snippets/pizza-brand-the-dough-therapy-raises-rs-525-cr-in-seed-round-12634056",
-      "date": "2026-10-07",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Zomint",
-      "title": "Zomint raises Rs 36 Cr seed round from Lightspeed and Prime Venture Partners",
-      "url": "https://entrackr.com/snippets/zomint-raises-rs-36-cr-seed-round-from-lightspeed-and-prime-venture-partners-12631666",
-      "date": "2026-10-07",
       "detail": "via Entrackr"
     }
   ]

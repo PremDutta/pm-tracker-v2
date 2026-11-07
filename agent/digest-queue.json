@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "lever-netomi-a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
-      "title": "Agentic Product Manager",
-      "company": "Netomi",
-      "location": "Gurugram",
-      "url": "https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
-      "source": "Lever (Netomi)",
-      "queuedOn": "2026-10-05"
-    },
-    {
       "id": "lever-neuron7-e9d47d0d-6f19-4a59-8bf9-561d721b9efe",
       "title": "Lead Product Manager – Agentic Experiences | Bangalore",
       "company": "Neuron7.ai",
@@ -3626,6 +3617,15 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/74376339829727942-product-manager-google-play-app-safety-platform?page=44",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-07"
+    },
+    {
+      "id": "amazon-10599305",
+      "title": "Principal Product Manager, Technical, Customer Anecdote Miner (CAM)",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10599305/principal-product-manager-technical-customer-anecdote-miner-cam",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-07"
     }
   ],
   "signals": [
@@ -4318,6 +4318,18 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349703",
       "id": "oracle-eeho.fa.us2.oraclecloud.com-349703",
       "detail": "closed 2026-10-21, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-11-07",
+      "detail": "23 engineering openings vs a usual 14"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-11-07",
+      "detail": "87 engineering openings vs a usual 17"
     }
   ],
   "reminders": {}
