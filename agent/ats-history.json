@@ -754,7 +754,7 @@
         },
         "2026-11-07": {
           "total": 137,
-          "eng": 55
+          "eng": 56
         }
       },
       "pm": {
@@ -2942,7 +2942,7 @@
           "eng": 426
         },
         "2026-11-07": {
-          "total": 820,
+          "total": 819,
           "eng": 425
         }
       },
@@ -7837,7 +7837,7 @@
           "eng": 3
         },
         "2026-11-07": {
-          "total": 14,
+          "total": 13,
           "eng": 3
         }
       },
@@ -11493,8 +11493,8 @@
           "eng": 70
         },
         "2026-11-07": {
-          "total": 129,
-          "eng": 70
+          "total": 127,
+          "eng": 68
         }
       },
       "pm": {
@@ -12719,8 +12719,8 @@
           "eng": 32
         },
         "2026-11-07": {
-          "total": 110,
-          "eng": 32
+          "total": 109,
+          "eng": 31
         }
       },
       "pm": {
@@ -14072,8 +14072,8 @@
           "eng": 23
         },
         "2026-11-07": {
-          "total": 84,
-          "eng": 24
+          "total": 80,
+          "eng": 23
         }
       },
       "pm": {
@@ -14161,8 +14161,7 @@
           "ids": [
             "workday-wf-/job/Bengaluru-India/Product-Owner--Market-Maker---Options-Clearing--VP-_R-581179-1"
           ],
-          "lastSeen": "2026-10-18",
-          "closedOn": "2026-10-18"
+          "lastSeen": "2026-11-07"
         },
         "digital product manager": {
           "ids": [
@@ -14324,7 +14323,7 @@
         },
         "2026-11-07": {
           "total": 89,
-          "eng": 45
+          "eng": 46
         }
       },
       "pm": {
@@ -14477,8 +14476,8 @@
           "eng": 51
         },
         "2026-11-07": {
-          "total": 200,
-          "eng": 48
+          "total": 199,
+          "eng": 47
         }
       },
       "pm": {
@@ -14723,10 +14722,6 @@
     },
     "Microsoft": {
       "daily": {
-        "2026-10-07": {
-          "total": 76,
-          "eng": 40
-        },
         "2026-10-08": {
           "total": 74,
           "eng": 38
@@ -14842,6 +14837,10 @@
         "2026-11-06": {
           "total": 57,
           "eng": 28
+        },
+        "2026-11-07": {
+          "total": 57,
+          "eng": 28
         }
       },
       "pm": {
@@ -14853,9 +14852,10 @@
             "eightfold-microsoft.com-1970393557040598",
             "eightfold-microsoft.com-1970393557037770",
             "eightfold-microsoft.com-1970393557016611",
-            "eightfold-microsoft.com-1970393557041943"
+            "eightfold-microsoft.com-1970393557041943",
+            "eightfold-microsoft.com-1970393557040071"
           ],
-          "lastSeen": "2026-11-06"
+          "lastSeen": "2026-11-07"
         },
         "principal product manager": {
           "ids": [
@@ -14868,7 +14868,7 @@
             "eightfold-microsoft.com-1970393557038797",
             "eightfold-microsoft.com-1970393557040068"
           ],
-          "lastSeen": "2026-11-06"
+          "lastSeen": "2026-11-07"
         },
         "product manager ii": {
           "ids": [
@@ -14877,7 +14877,7 @@
             "eightfold-microsoft.com-1970393557038894",
             "eightfold-microsoft.com-1970393557041935"
           ],
-          "lastSeen": "2026-11-06"
+          "lastSeen": "2026-11-07"
         },
         "principal product management": {
           "ids": [
@@ -14904,7 +14904,7 @@
           "ids": [
             "eightfold-microsoft.com-1970393557047351"
           ],
-          "lastSeen": "2026-11-06"
+          "lastSeen": "2026-11-07"
         }
       }
     },
@@ -15596,8 +15596,8 @@
           "eng": 578
         },
         "2026-11-07": {
-          "total": 924,
-          "eng": 574
+          "total": 922,
+          "eng": 573
         }
       },
       "pm": {
@@ -18652,7 +18652,7 @@
         },
         "2026-11-07": {
           "total": 200,
-          "eng": 108
+          "eng": 109
         }
       },
       "pm": {
@@ -19762,7 +19762,7 @@
           "eng": 193
         },
         "2026-11-07": {
-          "total": 371,
+          "total": 372,
           "eng": 193
         }
       },
@@ -19863,6 +19863,12 @@
         "director product pr": {
           "ids": [
             "ashby-snowflake-2b964eec-d95c-47f5-a5cd-982c7b2fa207"
+          ],
+          "lastSeen": "2026-11-07"
+        },
+        "senior product manager extensible compute": {
+          "ids": [
+            "ashby-snowflake-ba140960-361c-4357-8a8e-e4825f0d200b"
           ],
           "lastSeen": "2026-11-07"
         }

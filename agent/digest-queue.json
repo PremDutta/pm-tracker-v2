@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "lever-neuron7-e9d47d0d-6f19-4a59-8bf9-561d721b9efe",
-      "title": "Lead Product Manager – Agentic Experiences | Bangalore",
-      "company": "Neuron7.ai",
-      "location": "Bengaluru",
-      "url": "https://jobs.lever.co/neuron7/e9d47d0d-6f19-4a59-8bf9-561d721b9efe",
-      "source": "Lever (Neuron7.ai)",
-      "queuedOn": "2026-10-05"
-    },
-    {
       "id": "keka-nurix-17249",
       "title": "Product Manager",
       "company": "Nurix AI",
@@ -3626,6 +3617,15 @@
       "url": "https://www.amazon.jobs/en/jobs/10599305/principal-product-manager-technical-customer-anecdote-miner-cam",
       "source": "Amazon careers",
       "queuedOn": "2026-11-07"
+    },
+    {
+      "id": "vc-accel-99284714",
+      "title": "Product Manager/Strategy 3-ProdDev",
+      "company": "OPOWER",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/jobs/349703",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-08"
     }
   ],
   "signals": [

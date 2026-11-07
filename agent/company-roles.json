@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-07T12:34:52.714Z",
+  "scannedAt": "2026-11-07T21:31:06.991Z",
   "roles": {
     "Amazon": [
       {
@@ -971,20 +971,20 @@
         "firstSeen": "2026-11-06"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557042009",
-        "title": "Principal Product Manager",
-        "location": "India, Uttar Pradesh, Noida",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557042009",
-        "level": "group",
-        "firstSeen": "2026-10-20"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393556944984",
         "title": "Principal Product Manager",
         "location": "India, Karnataka, Bangalore",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
         "level": "group",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557042009",
+        "title": "Principal Product Manager",
+        "location": "India, Uttar Pradesh, Noida",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557042009",
+        "level": "group",
+        "firstSeen": "2026-10-20"
       },
       {
         "id": "eightfold-microsoft.com-1970393557041935",
@@ -995,20 +995,28 @@
         "firstSeen": "2026-10-21"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557037770",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
-        "level": "senior",
-        "firstSeen": "2026-10-15"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557040071",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
         "level": "senior",
         "firstSeen": "2026-10-28"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557040598",
+        "title": "Senior Product Manager",
+        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
+        "level": "senior",
+        "firstSeen": "2026-10-16"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557037770",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "level": "senior",
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "eightfold-microsoft.com-1970393557041938",
@@ -1025,14 +1033,6 @@
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
         "level": "senior",
         "firstSeen": "2026-10-20"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557040598",
-        "title": "Senior Product Manager",
-        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
-        "level": "senior",
-        "firstSeen": "2026-10-16"
       }
     ],
     "Mihup": [
@@ -1663,6 +1663,14 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Equities-Cash---Derivatives-VP-_R-583223",
         "level": "leadership",
         "firstSeen": "2026-11-03"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Product-Owner--Market-Maker---Options-Clearing--VP-_R-581179-1",
+        "title": "Product Owner: Market Maker & Options Clearing (VP)",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Market-Maker---Options-Clearing--VP-_R-581179-1",
+        "level": "leadership",
+        "firstSeen": "2026-11-07"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -1982,7 +1990,7 @@
     "MBZUAI": "2026-11-07",
     "Meesho": "2026-11-07",
     "Mensa Brands (BRND.ME)": "2026-11-07",
-    "Microsoft": "2026-11-06",
+    "Microsoft": "2026-11-07",
     "Mihup": "2026-11-07",
     "Mindtickle": "2026-11-07",
     "Mollie": "2026-11-07",

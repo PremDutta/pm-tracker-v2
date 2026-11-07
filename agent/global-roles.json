@@ -1,6 +1,19 @@
 {
-  "scannedAt": "2026-11-07T12:34:52.748Z",
+  "scannedAt": "2026-11-07T21:31:07.023Z",
   "roles": [
+    {
+      "id": "ashby-snowflake-ba140960-361c-4357-8a8e-e4825f0d200b",
+      "title": "Senior Product Manager: Extensible Compute",
+      "company": "Snowflake",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/ba140960-361c-4357-8a8e-e4825f0d200b",
+      "source": "Ashby (Snowflake)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-07"
+    },
     {
       "id": "ashby-airwallex-86a491ef-8246-4547-ae8d-ee3314d7b357",
       "title": "Senior Product Manager, Business Accounts",
@@ -1898,11 +1911,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200462002",
+      "id": "greenhouse-databricks-8200284002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1911,11 +1924,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200284002",
+      "id": "greenhouse-databricks-8200462002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1989,11 +2002,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8235785002",
+      "id": "greenhouse-databricks-7680573002",
       "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2002,11 +2015,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7680573002",
+      "id": "greenhouse-databricks-8235785002",
       "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
