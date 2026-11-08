@@ -1,17 +1,6 @@
 {
   "roles": [
     {
-      "id": "eightfold-qualcomm.com-446717846060",
-      "title": "Staff/Director – AI HW Product Management",
-      "company": "Qualcomm",
-      "location": "Bangalore, India",
-      "url": "https://careers.qualcomm.com/careers/job/446717846060",
-      "source": "Qualcomm careers",
-      "level": "leadership",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-08"
-    },
-    {
       "id": "vc-peakxv-59397",
       "title": "Product Manager - AI and Agentic",
       "company": "Brightmoney",
@@ -733,17 +722,6 @@
       "location": "Pune",
       "url": "https://jobs.ashbyhq.com/hackerone/c061590a-f169-4741-a0ae-a3f9b310cc09",
       "source": "Ashby (HackerOne)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "sf-careers.hcltech.com-150376",
-      "title": "AI Product Manager I",
-      "company": "HCLTech",
-      "location": "Noida",
-      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/150376-en_US/",
-      "source": "HCLTech careers",
       "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-05"
