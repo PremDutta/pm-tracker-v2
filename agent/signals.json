@@ -3,6 +3,18 @@
     {
       "type": "eng_spike",
       "company": "Netradyne",
+      "date": "2026-11-08",
+      "detail": "23 engineering openings vs a usual 14"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Oracle",
+      "date": "2026-11-08",
+      "detail": "87 engineering openings vs a usual 56"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
       "date": "2026-11-07",
       "detail": "23 engineering openings vs a usual 14"
     },
@@ -1594,52 +1606,6 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000154774511",
       "id": "smartrecruiters-ServiceNow-744000154774511",
       "detail": "closed 2026-10-08, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-08",
-      "detail": "152 engineering openings vs a usual 36"
-    },
-    {
-      "type": "funding",
-      "company": "DailyObjects",
-      "title": "DailyObjects raises Rs 332 Cr in Series C round led by Xponentia, Anicut, Axiom Asia",
-      "url": "https://entrackr.com/news/dailyobjects-raises-rs-332-cr-in-series-c-round-led-by-xponentia-anicut-axiom-asia-12638318",
-      "date": "2026-10-08",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "DailyObjects",
-      "title": "DailyObjects raises Rs 332 Cr in Series C funding round",
-      "url": "https://yourstory.com/2026/10/dailyobjects-raises-rs-332-cr-in-series-c-funding-round",
-      "date": "2026-10-08",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "GST Council removes arrest powers,",
-      "title": "GST Council removes arrest powers, raises prosecution threshold to Rs 5 Cr",
-      "url": "https://entrackr.com/news/gst-council-removes-arrest-powers-raises-prosecution-threshold-to-rs-5-cr-12657994",
-      "date": "2026-10-08",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "TailBlaze Longevity",
-      "title": "Pet food startup TailBlaze Longevity raises pre-seed funding",
-      "url": "https://entrackr.com/snippets/pet-food-startup-tailblaze-longevity-raises-pre-seed-funding-12637360",
-      "date": "2026-10-08",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Zinara",
-      "title": "Lab-grown diamond brand Zinara raises pre-seed funding led by Inflection Point Ventures",
-      "url": "https://entrackr.com/snippets/lab-grown-diamond-brand-zinara-raises-pre-seed-funding-led-by-inflection-point-ventures-12636439",
-      "date": "2026-10-08",
-      "detail": "via Entrackr"
     }
   ]
 }
