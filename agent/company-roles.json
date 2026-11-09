@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-09T10:02:22.700Z",
+  "scannedAt": "2026-11-09T15:24:38.687Z",
   "roles": {
     "Amazon": [
       {
@@ -483,14 +483,6 @@
         "firstSeen": "2026-10-05"
       },
       {
-        "id": "greenhouse-gleanwork-4629292005",
-        "title": "Product Manager, Connectors",
-        "location": "Bangalore, India",
-        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4629292005",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
-      },
-      {
         "id": "greenhouse-gleanwork-4641940005",
         "title": "Product Manager, Glean Protect (Security & Governance)",
         "location": "Bangalore, India",
@@ -549,14 +541,6 @@
         "firstSeen": "2026-11-05"
       },
       {
-        "id": "sf-careers.hcltech.com-169138",
-        "title": "Data Product Manager",
-        "location": "Chennai",
-        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-11-05"
-      },
-      {
         "id": "sf-careers.hcltech.com-178491",
         "title": "Product Manager/ Product Lead",
         "location": "Pune",
@@ -589,18 +573,10 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158038",
+        "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -613,10 +589,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
+        "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -717,14 +701,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805038",
         "level": "leadership",
         "firstSeen": "2026-10-29"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210776755",
-        "title": "Product Director - Debit Product",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776755",
-        "level": "leadership",
-        "firstSeen": "2026-11-03"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210801074",
@@ -1377,14 +1353,6 @@
         "url": "https://careers.qualcomm.com/careers/job/446721309717",
         "level": "senior",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "eightfold-qualcomm.com-446717846060",
-        "title": "Staff/Director – AI HW Product Management",
-        "location": "Bangalore, India",
-        "url": "https://careers.qualcomm.com/careers/job/446717846060",
-        "level": "leadership",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Razorpay": [
@@ -1655,6 +1623,14 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Owner--Market-Maker---Options-Clearing--VP-_R-581179-1",
         "level": "leadership",
         "firstSeen": "2026-11-07"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
+        "level": "senior",
+        "firstSeen": "2026-11-09"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -1853,16 +1829,6 @@
         "url": "https://job-boards.greenhouse.io/zenoti/jobs/7729933003",
         "level": "senior",
         "firstSeen": "2026-09-30"
-      }
-    ],
-    "Zensar": [
-      {
-        "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-149051",
-        "title": "Product Owner",
-        "location": "India",
-        "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/149051",
-        "level": "pm",
-        "firstSeen": "2026-11-06"
       }
     ],
     "Zeta": [
