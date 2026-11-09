@@ -1,15 +1,37 @@
 {
   "roles": [
     {
-      "id": "eightfold-qualcomm.com-446717846060",
-      "title": "Staff/Director – AI HW Product Management",
-      "company": "Qualcomm",
-      "location": "Bangalore, India",
-      "url": "https://careers.qualcomm.com/careers/job/446717846060",
-      "source": "Qualcomm careers",
-      "level": "leadership",
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
       "aiMatch": "title",
-      "firstSeen": "2026-11-08"
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "vc-peakxv-lbtWSkK_VfSx",
+      "title": "AI Native Product Manager",
+      "company": "Leap Finance",
+      "location": "Bengaluru, India",
+      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "vc-peakxv-137246",
+      "title": "AI PRODUCT MANAGER",
+      "company": "TestMu",
+      "location": "Noida, UP, India",
+      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-09"
     },
     {
       "id": "greenhouse-glance-8337703",

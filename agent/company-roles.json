@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-09T04:57:01.195Z",
+  "scannedAt": "2026-11-09T10:02:22.700Z",
   "roles": {
     "Amazon": [
       {
@@ -291,14 +291,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10568582",
-        "title": "Sr. Product Manager - Tech, Purchase Experience, Amazon Books",
-        "location": "Chennai, Tamil Nadu, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10568582/sr-product-manager-tech-purchase-experience-amazon-books",
-        "level": "senior",
-        "firstSeen": "2026-10-05"
-      },
-      {
         "id": "amazon-10573263",
         "title": "Sr. Product Manager - Technical, WW Prime - Benefits, Pricing & Constructs, WW Prime - Benefits, Pricing & Constructs",
         "location": "Bengaluru, Karnataka, IND",
@@ -548,6 +540,14 @@
       }
     ],
     "HCLTech": [
+      {
+        "id": "sf-careers.hcltech.com-169138",
+        "title": "Data Product Manager",
+        "location": "Chennai",
+        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-05"
+      },
       {
         "id": "sf-careers.hcltech.com-169138",
         "title": "Data Product Manager",
