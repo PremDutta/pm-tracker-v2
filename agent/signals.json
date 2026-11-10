@@ -1,6 +1,30 @@
 {
   "signals": [
     {
+      "type": "reopened",
+      "company": "Asana",
+      "date": "2026-11-10",
+      "title": "Product Manager",
+      "url": "https://www.asana.com/jobs/apply/7586966?gh_jid=7586966",
+      "id": "greenhouse-asana-7586966",
+      "detail": "closed 2026-10-09, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-11-10",
+      "detail": "23 engineering openings vs a usual 14"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-10",
+      "title": "Staff Inbound Product Manager - ServiceNow University",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160740103",
+      "id": "smartrecruiters-ServiceNow-744000160740103",
+      "detail": "closed 2026-10-08, reposted today"
+    },
+    {
       "type": "eng_spike",
       "company": "Netradyne",
       "date": "2026-11-09",
@@ -1543,28 +1567,6 @@
       "date": "2026-10-11",
       "detail": "via Entrackr",
       "watched": true
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-10",
-      "detail": "145 engineering openings vs a usual 36"
-    },
-    {
-      "type": "funding",
-      "company": "Nat Habit",
-      "title": "D2C Brand Nat Habit Raises ₹142 Cr To Scale Offline Expansion",
-      "url": "https://inc42.com/buzz/d2c-brand-nat-habit-raises-%e2%82%b9142-cr-to-scale-offline-expansion/",
-      "date": "2026-10-10",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "Nat Habit",
-      "title": "Nat Habit raises Rs 142 Cr in Series C led by Trident Growth Partners",
-      "url": "https://yourstory.com/2026/10/nat-habit-raises-rs-142-cr-in-series-c-led-by-trident-growth-partners",
-      "date": "2026-10-10",
-      "detail": "via YourStory"
     }
   ]
 }

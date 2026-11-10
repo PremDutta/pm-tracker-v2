@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "keka-nurix-17249",
-      "title": "Product Manager",
-      "company": "Nurix AI",
-      "location": "Bengaluru",
-      "url": "https://nurix.keka.com/careers/jobdetails/17249",
-      "source": "Keka (Nurix AI)",
-      "queuedOn": "2026-10-05"
-    },
-    {
       "id": "greenhouse-onetrust-8207523",
       "title": "Staff Product Manager",
       "company": "OneTrust",
@@ -3626,30 +3617,18 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/jobs/349703",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-08"
+    },
+    {
+      "id": "greenhouse-asana-7586966",
+      "title": "Product Manager",
+      "company": "Asana",
+      "location": "Warsaw",
+      "url": "https://www.asana.com/jobs/apply/7586966?gh_jid=7586966",
+      "source": "Greenhouse (Asana)",
+      "queuedOn": "2026-11-10"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "Wells Fargo",
-      "date": "2026-10-01",
-      "title": "Lead Digital Product Manager - CIAM",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
-      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
-      "detail": "closed 2026-09-30, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-05",
-      "detail": "147 engineering openings vs a usual 36"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-07",
-      "detail": "137 engineering openings vs a usual 36"
-    },
     {
       "type": "eng_spike",
       "company": "Accenture",
@@ -4348,6 +4327,30 @@
       "company": "Netradyne",
       "date": "2026-11-09",
       "detail": "23 engineering openings vs a usual 14"
+    },
+    {
+      "type": "reopened",
+      "company": "Asana",
+      "date": "2026-11-10",
+      "title": "Product Manager",
+      "url": "https://www.asana.com/jobs/apply/7586966?gh_jid=7586966",
+      "id": "greenhouse-asana-7586966",
+      "detail": "closed 2026-10-09, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-11-10",
+      "detail": "23 engineering openings vs a usual 14"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-10",
+      "title": "Staff Inbound Product Manager - ServiceNow University",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160740103",
+      "id": "smartrecruiters-ServiceNow-744000160740103",
+      "detail": "closed 2026-10-08, reposted today"
     }
   ],
   "reminders": {}

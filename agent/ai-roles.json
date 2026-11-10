@@ -1,6 +1,39 @@
 {
   "roles": [
     {
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "vc-peakxv-lbtWSkK_VfSx",
+      "title": "AI Native Product Manager",
+      "company": "Leap Finance",
+      "location": "Bengaluru, India",
+      "url": "https://leapfinance.freshteam.com/jobs/lbtWSkK_VfSx",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "vc-peakxv-137246",
+      "title": "AI PRODUCT MANAGER",
+      "company": "TestMu",
+      "location": "Noida, UP, India",
+      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-10"
+    },
+    {
       "id": "greenhouse-glance-8337703",
       "title": "Senior Product Manager - Glance TV - GTM",
       "company": "Glance",
@@ -72,17 +105,6 @@
       "company": "Glean",
       "location": "Bangalore, India",
       "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "vc-lightspeed-4629292005",
-      "title": "Product Manager, Connectors",
-      "company": "Glean",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4629292005",
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
@@ -175,17 +197,6 @@
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "oracle-ejgk.fa.em2.oraclecloud.com-30051525",
-      "title": "Director - AI Product Architect",
-      "company": "KPMG India",
-      "location": "Bangalore, Karnataka, India",
-      "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30051525",
-      "source": "KPMG India careers",
-      "level": "leadership",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-02"
     },
     {
       "id": "vc-accel-98635395",
@@ -461,17 +472,6 @@
       "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "ashby-elevenlabs-7389c057-3e25-4e7a-8a03-5e80f40a15a0",
-      "title": "Product Manager (ElevenCreative Self-Serve)",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/ElevenLabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0",
-      "source": "Ashby (ElevenLabs)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-15"
     },
     {
       "id": "rippling-rippling-1b2bd0fa-cfd3-4774-8c8f-7c00685f3476",
