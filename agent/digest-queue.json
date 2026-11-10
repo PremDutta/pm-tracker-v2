@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-spotdraft-88fc1f00-e546-463a-8ba0-78bc89a95cc6",
-      "title": "Product Manager - AI",
-      "company": "SpotDraft",
-      "location": "SpotDraft HQ, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6",
-      "source": "Ashby (SpotDraft)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "ashby-spotdraft-e9146208-bd24-443b-b1d8-96aabd292538",
-      "title": "Associate Product Manager",
-      "company": "SpotDraft",
-      "location": "SpotDraft HQ, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538",
-      "source": "Ashby (SpotDraft)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "keka-spyneai-63606",
-      "title": "AI Product Manager",
-      "company": "Spyne",
-      "location": "Gurgaon",
-      "url": "https://spyneai.keka.com/careers/jobdetails/63606",
-      "source": "Keka (Spyne)",
-      "queuedOn": "2026-10-05"
-    },
-    {
       "id": "keka-spyneai-49785",
       "title": "Director - Product",
       "company": "Spyne",
@@ -3626,24 +3599,36 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-11-10"
+    },
+    {
+      "id": "oracle-eeho.fa.us2.oraclecloud.com-340054",
+      "title": "Principal Product Manager",
+      "company": "Oracle",
+      "location": "HYDERABAD, TELANGANA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340054",
+      "source": "Oracle careers",
+      "queuedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
+      "source": "Greenhouse (Razorpay)",
+      "queuedOn": "2026-11-10"
+    },
+    {
+      "id": "vc-accel-99470735",
+      "title": "Senior Product Owner, India",
+      "company": "DriveWealth",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/drivewealth/jobs/8199615003",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-10"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-09",
-      "title": "Sr Staff Inbound Product Manager",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000154774511",
-      "id": "smartrecruiters-ServiceNow-744000154774511",
-      "detail": "closed 2026-10-08, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-10",
-      "detail": "145 engineering openings vs a usual 36"
-    },
     {
       "type": "funding",
       "company": "Zetwerk",
@@ -4357,6 +4342,24 @@
       "date": "2026-11-10",
       "detail": "via Inc42",
       "watched": true
+    },
+    {
+      "type": "reopened",
+      "company": "HCLTech",
+      "date": "2026-11-10",
+      "title": "AI Product Manager I",
+      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/157248-en_US/",
+      "id": "sf-careers.hcltech.com-157248",
+      "detail": "closed 2026-11-08, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Oracle",
+      "date": "2026-11-10",
+      "title": "Principal Product Manager",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340054",
+      "id": "oracle-eeho.fa.us2.oraclecloud.com-340054",
+      "detail": "closed 2026-10-27, reposted today"
     }
   ],
   "reminders": {}

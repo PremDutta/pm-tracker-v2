@@ -123,8 +123,8 @@
           "eng": 40
         },
         "2026-11-10": {
-          "total": 112,
-          "eng": 41
+          "total": 108,
+          "eng": 39
         }
       },
       "pm": {
@@ -348,8 +348,8 @@
           "eng": 279
         },
         "2026-11-10": {
-          "total": 676,
-          "eng": 282
+          "total": 675,
+          "eng": 283
         }
       },
       "pm": {
@@ -1485,8 +1485,8 @@
           "eng": 76
         },
         "2026-11-10": {
-          "total": 169,
-          "eng": 76
+          "total": 168,
+          "eng": 75
         }
       },
       "pm": {
@@ -2946,7 +2946,7 @@
           "eng": 428
         },
         "2026-11-10": {
-          "total": 827,
+          "total": 826,
           "eng": 433
         }
       },
@@ -5225,7 +5225,7 @@
         },
         "2026-11-10": {
           "total": 85,
-          "eng": 33
+          "eng": 32
         }
       },
       "pm": {
@@ -8295,10 +8295,10 @@
         },
         "ai product manager i": {
           "ids": [
-            "sf-careers.hcltech.com-150376"
+            "sf-careers.hcltech.com-150376",
+            "sf-careers.hcltech.com-157248"
           ],
-          "lastSeen": "2026-11-08",
-          "closedOn": "2026-11-08"
+          "lastSeen": "2026-11-10"
         },
         "safe senior product owner product manager": {
           "ids": [
@@ -9742,7 +9742,7 @@
         },
         "2026-11-10": {
           "total": 100,
-          "eng": 90
+          "eng": 87
         }
       },
       "pm": {
@@ -9761,10 +9761,10 @@
         },
         "principal product manager": {
           "ids": [
-            "oracle-eeho.fa.us2.oraclecloud.com-340889"
+            "oracle-eeho.fa.us2.oraclecloud.com-340889",
+            "oracle-eeho.fa.us2.oraclecloud.com-340054"
           ],
-          "lastSeen": "2026-10-27",
-          "closedOn": "2026-10-27"
+          "lastSeen": "2026-11-10"
         }
       }
     },
@@ -10027,7 +10027,7 @@
           "eng": 11
         },
         "2026-11-10": {
-          "total": 200,
+          "total": 201,
           "eng": 11
         }
       },
@@ -10425,7 +10425,7 @@
           "eng": 3
         },
         "2026-11-10": {
-          "total": 24,
+          "total": 25,
           "eng": 3
         }
       },
@@ -10435,7 +10435,8 @@
             "greenhouse-razorpaysoftwareprivatelimited-4736965005",
             "greenhouse-razorpaysoftwareprivatelimited-4715389005",
             "greenhouse-razorpaysoftwareprivatelimited-4699107005",
-            "greenhouse-razorpaysoftwareprivatelimited-4751768005"
+            "greenhouse-razorpaysoftwareprivatelimited-4751768005",
+            "greenhouse-razorpaysoftwareprivatelimited-4749335005"
           ],
           "lastSeen": "2026-11-10"
         },
@@ -11030,7 +11031,7 @@
         },
         "2026-11-10": {
           "total": 100,
-          "eng": 25
+          "eng": 27
         }
       },
       "pm": {
@@ -11508,7 +11509,7 @@
           "eng": 68
         },
         "2026-11-10": {
-          "total": 127,
+          "total": 126,
           "eng": 68
         }
       },
@@ -11927,8 +11928,8 @@
           "eng": 77
         },
         "2026-11-10": {
-          "total": 91,
-          "eng": 76
+          "total": 90,
+          "eng": 75
         }
       },
       "pm": {}
@@ -12735,8 +12736,8 @@
           "eng": 30
         },
         "2026-11-10": {
-          "total": 105,
-          "eng": 28
+          "total": 107,
+          "eng": 29
         }
       },
       "pm": {
@@ -14089,7 +14090,7 @@
           "eng": 25
         },
         "2026-11-10": {
-          "total": 70,
+          "total": 71,
           "eng": 21
         }
       },
@@ -14339,7 +14340,7 @@
           "eng": 45
         },
         "2026-11-10": {
-          "total": 90,
+          "total": 91,
           "eng": 51
         }
       },
@@ -15470,7 +15471,7 @@
           "eng": 7
         },
         "2026-11-10": {
-          "total": 16,
+          "total": 17,
           "eng": 7
         }
       },
@@ -15612,8 +15613,8 @@
           "eng": 574
         },
         "2026-11-10": {
-          "total": 920,
-          "eng": 568
+          "total": 914,
+          "eng": 563
         }
       },
       "pm": {
@@ -17142,7 +17143,7 @@
           "eng": 17
         },
         "2026-11-10": {
-          "total": 42,
+          "total": 41,
           "eng": 17
         }
       },
@@ -17654,7 +17655,7 @@
           "eng": 157
         },
         "2026-11-10": {
-          "total": 373,
+          "total": 371,
           "eng": 157
         }
       },
@@ -18514,7 +18515,7 @@
           "eng": 39
         },
         "2026-11-10": {
-          "total": 79,
+          "total": 81,
           "eng": 39
         }
       },
@@ -19057,7 +19058,7 @@
         },
         "2026-11-10": {
           "total": 684,
-          "eng": 232
+          "eng": 233
         }
       },
       "pm": {
@@ -19507,8 +19508,8 @@
           "eng": 7
         },
         "2026-11-10": {
-          "total": 42,
-          "eng": 7
+          "total": 43,
+          "eng": 8
         }
       },
       "pm": {
@@ -20171,8 +20172,8 @@
           "eng": 36
         },
         "2026-11-10": {
-          "total": 102,
-          "eng": 37
+          "total": 100,
+          "eng": 35
         }
       },
       "pm": {
@@ -20655,8 +20656,8 @@
           "eng": 19
         },
         "2026-11-10": {
-          "total": 374,
-          "eng": 19
+          "total": 370,
+          "eng": 18
         }
       },
       "pm": {
@@ -21149,8 +21150,8 @@
           "eng": 131
         },
         "2026-11-10": {
-          "total": 489,
-          "eng": 131
+          "total": 488,
+          "eng": 129
         }
       },
       "pm": {
@@ -21619,8 +21620,8 @@
           "eng": 5
         },
         "2026-11-10": {
-          "total": 31,
-          "eng": 5
+          "total": 32,
+          "eng": 6
         }
       },
       "pm": {
@@ -21921,7 +21922,7 @@
           "eng": 4
         },
         "2026-11-10": {
-          "total": 10,
+          "total": 9,
           "eng": 5
         }
       },
@@ -22017,7 +22018,7 @@
           "eng": 5
         },
         "2026-11-10": {
-          "total": 116,
+          "total": 117,
           "eng": 5
         }
       },
@@ -22596,7 +22597,7 @@
           "eng": 12
         },
         "2026-11-10": {
-          "total": 40,
+          "total": 39,
           "eng": 12
         }
       },
@@ -22695,7 +22696,7 @@
         },
         "2026-11-10": {
           "total": 100,
-          "eng": 7
+          "eng": 5
         }
       },
       "pm": {
@@ -22979,7 +22980,7 @@
           "eng": 75
         },
         "2026-11-10": {
-          "total": 252,
+          "total": 251,
           "eng": 72
         }
       },
@@ -23247,7 +23248,7 @@
         },
         "2026-11-10": {
           "total": 241,
-          "eng": 133
+          "eng": 132
         }
       },
       "pm": {
@@ -23780,7 +23781,7 @@
           "eng": 5
         },
         "2026-11-10": {
-          "total": 36,
+          "total": 34,
           "eng": 5
         }
       },
@@ -24069,6 +24070,12 @@
         "product lead wise for banks": {
           "ids": [
             "smartrecruiters-wise-744000159859179"
+          ],
+          "lastSeen": "2026-11-10"
+        },
+        "principal product manager financial crime": {
+          "ids": [
+            "smartrecruiters-wise-744000160875939"
           ],
           "lastSeen": "2026-11-10"
         }

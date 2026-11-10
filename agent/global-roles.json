@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-10T10:12:59.990Z",
+  "scannedAt": "2026-11-10T14:27:44.616Z",
   "roles": [
     {
       "id": "greenhouse-asana-7586966",
@@ -24,6 +24,19 @@
       "level": "group",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "smartrecruiters-wise-744000160875939",
+      "title": "Principal Product Manager – Financial Crime",
+      "company": "Wise",
+      "location": "London, , United Kingdom",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000160875939",
+      "source": "SmartRecruiters (Wise)",
+      "level": "group",
+      "regions": [
+        "uk"
       ],
       "firstSeen": "2026-11-10"
     },
@@ -202,7 +215,7 @@
       "id": "rippling-rippling-c2045722-3cee-4987-9a3a-1aac03c98c99",
       "title": "Growth Product Manager, Cross-Sell",
       "company": "Rippling",
-      "location": "Hybrid (New York, New York, US)",
+      "location": "Hybrid (San Francisco, California, US)",
       "url": "https://ats.rippling.com/rippling/jobs/c2045722-3cee-4987-9a3a-1aac03c98c99",
       "source": "Rippling (Rippling)",
       "level": "pm",
@@ -215,7 +228,7 @@
       "id": "rippling-rippling-3bbddc0c-89d9-41a1-b6e8-f990b058d7fb",
       "title": "Product Lead, Variable Compensation",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/3bbddc0c-89d9-41a1-b6e8-f990b058d7fb",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -1858,11 +1871,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8136204002",
+      "id": "greenhouse-databricks-8136071002",
       "title": "Sr. Product Manager, Databricks AI",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1871,11 +1884,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8136071002",
+      "id": "greenhouse-databricks-8136204002",
       "title": "Sr. Product Manager, Databricks AI",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2670,19 +2683,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-mongodb-8129887",
-      "title": "Staff Product Manager, AI Builder Experience",
-      "company": "MongoDB",
-      "location": "Toronto",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129887",
-      "source": "Greenhouse (MongoDB)",
-      "level": "group",
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-mongodb-8129885",
       "title": "Staff Product Manager, AI Builder Experience",
       "company": "MongoDB",
@@ -2692,6 +2692,19 @@
       "level": "group",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-mongodb-8129887",
+      "title": "Staff Product Manager, AI Builder Experience",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129887",
+      "source": "Greenhouse (MongoDB)",
+      "level": "group",
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3103,7 +3116,7 @@
       "id": "rippling-rippling-a5b9d8bf-f3e4-4f6d-812f-0b85af42e5b0",
       "title": "Product Lead, Payments",
       "company": "Rippling",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/a5b9d8bf-f3e4-4f6d-812f-0b85af42e5b0",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3116,7 +3129,7 @@
       "id": "rippling-rippling-34d2abc5-206c-4472-803a-6b8713382bc6",
       "title": "Product Lead, Reporting and Analytics",
       "company": "Rippling",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/34d2abc5-206c-4472-803a-6b8713382bc6",
       "source": "Rippling (Rippling)",
       "level": "group",

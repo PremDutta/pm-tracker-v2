@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-10T10:12:59.945Z",
+  "scannedAt": "2026-11-10T14:27:44.586Z",
   "roles": {
     "Amazon": [
       {
@@ -532,6 +532,14 @@
       }
     ],
     "HCLTech": [
+      {
+        "id": "sf-careers.hcltech.com-157248",
+        "title": "AI Product Manager I",
+        "location": "Pune",
+        "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/157248-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-10"
+      },
       {
         "id": "sf-careers.hcltech.com-169138",
         "title": "Data Product Manager",
@@ -1137,6 +1145,14 @@
     ],
     "Oracle": [
       {
+        "id": "oracle-eeho.fa.us2.oraclecloud.com-340054",
+        "title": "Principal Product Manager",
+        "location": "HYDERABAD, TELANGANA, India",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340054",
+        "level": "group",
+        "firstSeen": "2026-11-10"
+      },
+      {
         "id": "oracle-eeho.fa.us2.oraclecloud.com-349703",
         "title": "Product Manager/Strategy 3-ProdDev",
         "location": "BENGALURU, KARNATAKA, India",
@@ -1331,18 +1347,18 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
-        "level": "pm",
-        "firstSeen": "2026-11-10"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
         "title": "Product Manager II",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+        "level": "pm",
+        "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
         "level": "pm",
         "firstSeen": "2026-11-10"
       },
@@ -1355,6 +1371,14 @@
         "firstSeen": "2026-10-29"
       },
       {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
+        "level": "senior",
+        "firstSeen": "2026-10-15"
+      },
+      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
@@ -1363,12 +1387,12 @@
         "firstSeen": "2026-11-10"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
         "level": "senior",
-        "firstSeen": "2026-10-15"
+        "firstSeen": "2026-11-10"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
