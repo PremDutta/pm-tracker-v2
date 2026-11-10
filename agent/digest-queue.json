@@ -1,60 +1,6 @@
 {
   "jobs": [
     {
-      "id": "keka-spyneai-49785",
-      "title": "Director - Product",
-      "company": "Spyne",
-      "location": "Gurgaon",
-      "url": "https://spyneai.keka.com/careers/jobdetails/49785",
-      "source": "Keka (Spyne)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "lever-getwingapp-c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
-      "title": "Product Manager - AI",
-      "company": "Wing Assistant (M32 AI)",
-      "location": "India",
-      "url": "https://jobs.lever.co/getwingapp/c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
-      "source": "Lever (Wing Assistant (M32 AI))",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R33982",
-      "title": "Senior Product Manager",
-      "company": "Zendesk",
-      "location": "Pune, India",
-      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R33982",
-      "source": "Workday (Zendesk)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "workday-zendesk-/job/Pune-India/Principal-Product-Manager_R35027-1",
-      "title": "Senior Product Manager",
-      "company": "Zendesk",
-      "location": "Pune, India",
-      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Principal-Product-Manager_R35027-1",
-      "source": "Workday (Zendesk)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R34220",
-      "title": "Senior Product Manager",
-      "company": "Zendesk",
-      "location": "Pune, India",
-      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R34220",
-      "source": "Workday (Zendesk)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "vc-lightspeed-8052",
-      "title": "Product Manager",
-      "company": "Infoblox",
-      "location": "Bangalore, Karnataka, India, Infoblox Technical Support and Software Development Private Limited, Bangalore, Karnataka, IN",
-      "url": "https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8052/",
-      "source": "VC board (Lightspeed portfolio)",
-      "queuedOn": "2026-10-05"
-    },
-    {
       "id": "workday-mastercard-/job/Gurgaon-India/Manager--Product-Management_R-291979",
       "title": "Manager, Product Management",
       "company": "Mastercard",
@@ -3626,18 +3572,63 @@
       "url": "https://boards.greenhouse.io/drivewealth/jobs/8199615003",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-anthropic-5477601008",
+      "title": "Product Manager, Seller Experience ",
+      "company": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477601008",
+      "source": "Greenhouse (Anthropic)",
+      "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "lever-spotify-94a10740-8d2c-430a-8ef3-2d988142541a",
+      "title": "Senior Product Manager — Subscriptions (Freemium)",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/94a10740-8d2c-430a-8ef3-2d988142541a",
+      "source": "Lever (Spotify)",
+      "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "amazon-10601871",
+      "title": "Senior Product Manager, Technical, Amazon Business Analytics",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10601871/senior-product-manager-technical-amazon-business-analytics",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "amazon-10601744",
+      "title": "Principal Product Manager, WW Seller Economics and Fees",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10601744/principal-product-manager-ww-seller-economics-and-fees",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "oracle-eeho.fa.us2.oraclecloud.com-349259",
+      "title": "Principal Product Manager",
+      "company": "Oracle",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349259",
+      "source": "Oracle careers",
+      "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "vc-peakxv-4749341005",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-11"
     }
   ],
   "signals": [
-    {
-      "type": "funding",
-      "company": "Zetwerk",
-      "title": "Zetwerk raises fresh issue size to Rs 2,830 Cr, OFS component up 49% in RHP",
-      "url": "https://entrackr.com/news/zetwerk-raises-fresh-issue-size-to-rs-2830-cr-ofs-component-up-49-in-rhp-12666122",
-      "date": "2026-10-11",
-      "detail": "via Entrackr",
-      "watched": true
-    },
     {
       "type": "eng_spike",
       "company": "Accenture",
@@ -4360,6 +4351,15 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340054",
       "id": "oracle-eeho.fa.us2.oraclecloud.com-340054",
       "detail": "closed 2026-10-27, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Talabat (Delivery Hero)",
+      "date": "2026-11-10",
+      "title": "Product Manager - (Logistics, Service Automations)",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000160897530",
+      "id": "smartrecruiters-DeliveryHero-744000160897530",
+      "detail": "closed 2026-11-04, reposted today"
     }
   ],
   "reminders": {}

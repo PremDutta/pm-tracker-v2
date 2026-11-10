@@ -123,7 +123,7 @@
           "eng": 40
         },
         "2026-11-10": {
-          "total": 108,
+          "total": 107,
           "eng": 39
         }
       },
@@ -348,8 +348,8 @@
           "eng": 279
         },
         "2026-11-10": {
-          "total": 675,
-          "eng": 283
+          "total": 679,
+          "eng": 285
         }
       },
       "pm": {
@@ -479,6 +479,12 @@
         "product manager product support experience": {
           "ids": [
             "greenhouse-anthropic-5415822008"
+          ],
+          "lastSeen": "2026-11-10"
+        },
+        "product manager seller experience": {
+          "ids": [
+            "greenhouse-anthropic-5477601008"
           ],
           "lastSeen": "2026-11-10"
         }
@@ -756,8 +762,8 @@
           "eng": 56
         },
         "2026-11-10": {
-          "total": 136,
-          "eng": 56
+          "total": 135,
+          "eng": 55
         }
       },
       "pm": {
@@ -929,8 +935,8 @@
           "eng": 44
         },
         "2026-11-10": {
-          "total": 127,
-          "eng": 45
+          "total": 126,
+          "eng": 44
         }
       },
       "pm": {
@@ -1485,8 +1491,8 @@
           "eng": 76
         },
         "2026-11-10": {
-          "total": 168,
-          "eng": 75
+          "total": 169,
+          "eng": 76
         }
       },
       "pm": {
@@ -2172,7 +2178,7 @@
           "eng": 37
         },
         "2026-11-10": {
-          "total": 129,
+          "total": 131,
           "eng": 38
         }
       },
@@ -2323,8 +2329,8 @@
           "eng": 13
         },
         "2026-11-10": {
-          "total": 27,
-          "eng": 13
+          "total": 26,
+          "eng": 12
         }
       },
       "pm": {
@@ -2466,7 +2472,7 @@
           "eng": 37
         },
         "2026-11-10": {
-          "total": 143,
+          "total": 144,
           "eng": 37
         }
       },
@@ -2661,7 +2667,7 @@
           "eng": 11
         },
         "2026-11-10": {
-          "total": 32,
+          "total": 33,
           "eng": 11
         }
       },
@@ -2797,8 +2803,8 @@
           "eng": 54
         },
         "2026-11-10": {
-          "total": 153,
-          "eng": 55
+          "total": 155,
+          "eng": 54
         }
       },
       "pm": {
@@ -2946,8 +2952,8 @@
           "eng": 428
         },
         "2026-11-10": {
-          "total": 826,
-          "eng": 433
+          "total": 830,
+          "eng": 431
         }
       },
       "pm": {
@@ -3165,8 +3171,8 @@
           "eng": 37
         },
         "2026-11-10": {
-          "total": 172,
-          "eng": 40
+          "total": 176,
+          "eng": 41
         }
       },
       "pm": {
@@ -5225,7 +5231,7 @@
         },
         "2026-11-10": {
           "total": 85,
-          "eng": 32
+          "eng": 28
         }
       },
       "pm": {
@@ -5321,7 +5327,8 @@
           "ids": [
             "lever-spotify-e0ba7aee-1a0a-43ab-a4c0-d8856c6c2ce3"
           ],
-          "lastSeen": "2026-11-10"
+          "lastSeen": "2026-11-10",
+          "closedOn": "2026-11-10"
         }
       }
     },
@@ -5991,7 +5998,7 @@
           "eng": 4
         },
         "2026-11-10": {
-          "total": 71,
+          "total": 73,
           "eng": 5
         }
       },
@@ -6499,6 +6506,18 @@
             "amazon-10599305"
           ],
           "lastSeen": "2026-11-10"
+        },
+        "senior product manager technical amazon business analytics": {
+          "ids": [
+            "amazon-10601871"
+          ],
+          "lastSeen": "2026-11-10"
+        },
+        "principal product manager ww seller economics and fees": {
+          "ids": [
+            "amazon-10601744"
+          ],
+          "lastSeen": "2026-11-10"
         }
       }
     },
@@ -6923,7 +6942,7 @@
           "eng": 23
         },
         "2026-11-10": {
-          "total": 69,
+          "total": 71,
           "eng": 23
         }
       },
@@ -7980,8 +7999,8 @@
           "eng": 33
         },
         "2026-11-10": {
-          "total": 42,
-          "eng": 33
+          "total": 40,
+          "eng": 31
         }
       },
       "pm": {
@@ -9742,7 +9761,7 @@
         },
         "2026-11-10": {
           "total": 100,
-          "eng": 87
+          "eng": 85
         }
       },
       "pm": {
@@ -10456,7 +10475,8 @@
         "senior product manager": {
           "ids": [
             "greenhouse-razorpaysoftwareprivatelimited-4736585005",
-            "greenhouse-razorpaysoftwareprivatelimited-4749337005"
+            "greenhouse-razorpaysoftwareprivatelimited-4749337005",
+            "greenhouse-razorpaysoftwareprivatelimited-4749341005"
           ],
           "lastSeen": "2026-11-10"
         },
@@ -11031,7 +11051,7 @@
         },
         "2026-11-10": {
           "total": 100,
-          "eng": 27
+          "eng": 29
         }
       },
       "pm": {
@@ -11259,7 +11279,8 @@
             "smartrecruiters-ServiceNow-744000155904829",
             "smartrecruiters-ServiceNow-744000159985479"
           ],
-          "lastSeen": "2026-11-10"
+          "lastSeen": "2026-11-10",
+          "closedOn": "2026-11-10"
         },
         "staff outbound product manager gtm": {
           "ids": [
@@ -11383,6 +11404,18 @@
           ],
           "lastSeen": "2026-11-04",
           "closedOn": "2026-11-04"
+        },
+        "senior staff technical product manager autonomous workforce": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000160976854"
+          ],
+          "lastSeen": "2026-11-10"
+        },
+        "staff technical product manager autonomous workforce": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000160977689"
+          ],
+          "lastSeen": "2026-11-10"
         }
       }
     },
@@ -12736,7 +12769,7 @@
           "eng": 30
         },
         "2026-11-10": {
-          "total": 107,
+          "total": 108,
           "eng": 29
         }
       },
@@ -14090,8 +14123,8 @@
           "eng": 25
         },
         "2026-11-10": {
-          "total": 71,
-          "eng": 21
+          "total": 60,
+          "eng": 20
         }
       },
       "pm": {
@@ -14340,8 +14373,8 @@
           "eng": 45
         },
         "2026-11-10": {
-          "total": 91,
-          "eng": 51
+          "total": 89,
+          "eng": 49
         }
       },
       "pm": {
@@ -14492,8 +14525,8 @@
           "eng": 46
         },
         "2026-11-10": {
-          "total": 197,
-          "eng": 44
+          "total": 199,
+          "eng": 46
         }
       },
       "pm": {
@@ -15613,7 +15646,7 @@
           "eng": 574
         },
         "2026-11-10": {
-          "total": 914,
+          "total": 917,
           "eng": 563
         }
       },
@@ -16077,8 +16110,8 @@
           "eng": 44
         },
         "2026-11-10": {
-          "total": 123,
-          "eng": 43
+          "total": 125,
+          "eng": 45
         }
       },
       "pm": {
@@ -17286,7 +17319,7 @@
         },
         "2026-11-10": {
           "total": 12,
-          "eng": 5
+          "eng": 6
         }
       },
       "pm": {
@@ -17655,7 +17688,7 @@
           "eng": 157
         },
         "2026-11-10": {
-          "total": 371,
+          "total": 377,
           "eng": 157
         }
       },
@@ -17780,7 +17813,8 @@
           "ids": [
             "greenhouse-mongodb-7909429"
           ],
-          "lastSeen": "2026-11-10"
+          "lastSeen": "2026-11-10",
+          "closedOn": "2026-11-10"
         },
         "senior product manager technical services engineering": {
           "ids": [
@@ -17810,6 +17844,12 @@
         "product manager s2p": {
           "ids": [
             "greenhouse-mongodb-8327081"
+          ],
+          "lastSeen": "2026-11-10"
+        },
+        "sr lead product management fintech": {
+          "ids": [
+            "greenhouse-mongodb-7909429"
           ],
           "lastSeen": "2026-11-10"
         }
@@ -17938,8 +17978,8 @@
           "eng": 28
         },
         "2026-11-10": {
-          "total": 63,
-          "eng": 30
+          "total": 67,
+          "eng": 31
         }
       },
       "pm": {
@@ -17986,6 +18026,24 @@
         "oracle incentive compensation product owner": {
           "ids": [
             "workday-motorolasolutions-/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R69610"
+          ],
+          "lastSeen": "2026-11-10"
+        },
+        "director of product management electronic warfare": {
+          "ids": [
+            "workday-motorolasolutions-/job/Irvine-CA/Director-of-Product-Management---Electronic-Warfare--EW-_R70522"
+          ],
+          "lastSeen": "2026-11-10"
+        },
+        "director of product management software spectrum dominance": {
+          "ids": [
+            "workday-motorolasolutions-/job/Irvine-CA/Director-of-Product-Management---Software---Spectrum-Dominance_R70527"
+          ],
+          "lastSeen": "2026-11-10"
+        },
+        "director of product management tactical communications integrated solutions": {
+          "ids": [
+            "workday-motorolasolutions-/job/Irvine-CA/Director-of-Product-Management---Tactical-Communications---Integrated-Solutions_R70525"
           ],
           "lastSeen": "2026-11-10"
         }
@@ -18386,7 +18444,7 @@
           "eng": 4
         },
         "2026-11-10": {
-          "total": 12,
+          "total": 11,
           "eng": 4
         }
       },
@@ -18515,8 +18573,8 @@
           "eng": 39
         },
         "2026-11-10": {
-          "total": 81,
-          "eng": 39
+          "total": 83,
+          "eng": 40
         }
       },
       "pm": {
@@ -18670,7 +18728,7 @@
         },
         "2026-11-10": {
           "total": 200,
-          "eng": 119
+          "eng": 120
         }
       },
       "pm": {
@@ -18845,7 +18903,7 @@
           "eng": 43
         },
         "2026-11-10": {
-          "total": 149,
+          "total": 150,
           "eng": 42
         }
       },
@@ -19057,7 +19115,7 @@
           "eng": 231
         },
         "2026-11-10": {
-          "total": 684,
+          "total": 694,
           "eng": 233
         }
       },
@@ -19214,7 +19272,8 @@
           "ids": [
             "rippling-rippling-c2045722-3cee-4987-9a3a-1aac03c98c99"
           ],
-          "lastSeen": "2026-11-10"
+          "lastSeen": "2026-11-10",
+          "closedOn": "2026-11-10"
         },
         "product lead variable compensation": {
           "ids": [
@@ -19225,6 +19284,12 @@
         "product lead ai semantics governance": {
           "ids": [
             "rippling-rippling-1311a98d-008f-4517-9f9f-73ee4c9cf1cf"
+          ],
+          "lastSeen": "2026-11-10"
+        },
+        "product manager growth platform": {
+          "ids": [
+            "rippling-rippling-c2045722-3cee-4987-9a3a-1aac03c98c99"
           ],
           "lastSeen": "2026-11-10"
         }
@@ -19353,8 +19418,8 @@
           "eng": 32
         },
         "2026-11-10": {
-          "total": 68,
-          "eng": 32
+          "total": 70,
+          "eng": 33
         }
       },
       "pm": {
@@ -19788,7 +19853,7 @@
           "eng": 193
         },
         "2026-11-10": {
-          "total": 371,
+          "total": 372,
           "eng": 194
         }
       },
@@ -20823,7 +20888,7 @@
           "eng": 7
         },
         "2026-11-10": {
-          "total": 24,
+          "total": 23,
           "eng": 7
         }
       },
@@ -21150,7 +21215,7 @@
           "eng": 131
         },
         "2026-11-10": {
-          "total": 488,
+          "total": 490,
           "eng": 129
         }
       },
@@ -22712,10 +22777,10 @@
           "ids": [
             "smartrecruiters-DeliveryHero-744000157841650",
             "smartrecruiters-DeliveryHero-744000158019110",
-            "smartrecruiters-DeliveryHero-744000158779512"
+            "smartrecruiters-DeliveryHero-744000158779512",
+            "smartrecruiters-DeliveryHero-744000160897530"
           ],
-          "lastSeen": "2026-11-04",
-          "closedOn": "2026-11-04"
+          "lastSeen": "2026-11-10"
         },
         "senior product manager": {
           "ids": [
@@ -22980,7 +23045,7 @@
           "eng": 75
         },
         "2026-11-10": {
-          "total": 251,
+          "total": 249,
           "eng": 72
         }
       },
@@ -23247,8 +23312,8 @@
           "eng": 130
         },
         "2026-11-10": {
-          "total": 241,
-          "eng": 132
+          "total": 242,
+          "eng": 133
         }
       },
       "pm": {
@@ -23336,8 +23401,8 @@
           "eng": 115
         },
         "2026-11-10": {
-          "total": 254,
-          "eng": 119
+          "total": 252,
+          "eng": 117
         }
       },
       "pm": {
@@ -23484,7 +23549,7 @@
           "eng": 0
         },
         "2026-11-10": {
-          "total": 3,
+          "total": 2,
           "eng": 0
         }
       },
@@ -23781,7 +23846,7 @@
           "eng": 5
         },
         "2026-11-10": {
-          "total": 34,
+          "total": 35,
           "eng": 5
         }
       },
@@ -24044,7 +24109,7 @@
         },
         "2026-11-10": {
           "total": 100,
-          "eng": 32
+          "eng": 30
         }
       },
       "pm": {
