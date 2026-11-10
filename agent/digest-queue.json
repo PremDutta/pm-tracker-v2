@@ -1,69 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-onetrust-8207523",
-      "title": "Staff Product Manager",
-      "company": "OneTrust",
-      "location": "Bengaluru, India",
-      "url": "https://job-boards.greenhouse.io/onetrust/jobs/8207523",
-      "source": "Greenhouse (OneTrust)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-rubrik-7508560",
-      "title": "Director,Product Design",
-      "company": "Rubrik",
-      "location": "Bangalore,India",
-      "url": "https://www.rubrik.com/company/careers/departments/job.7508560?gh_jid=7508560",
-      "source": "Greenhouse (Rubrik)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-rubrik-7976001",
-      "title": "Senior Product Manager-Identity Resilience",
-      "company": "Rubrik",
-      "location": "Bangalore, India",
-      "url": "https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001",
-      "source": "Greenhouse (Rubrik)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "lever-saviynt-53b6e38f-ed8d-4764-bc39-8671961ca8c7",
-      "title": "Staff Product Manager (Partner & Developer Ecosystem)",
-      "company": "Saviynt",
-      "location": "Bengaluru",
-      "url": "https://jobs.lever.co/saviynt/53b6e38f-ed8d-4764-bc39-8671961ca8c7",
-      "source": "Lever (Saviynt)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-sigmoid-8041196002",
-      "title": "Product Manager",
-      "company": "Sigmoid",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
-      "source": "Greenhouse (Sigmoid)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-simpplr-6138700004",
-      "title": "Senior Product Manager – Enterprise Search",
-      "company": "Simpplr",
-      "location": "Bengaluru, India; Gurugram, India",
-      "url": "https://job-boards.greenhouse.io/simpplr/jobs/6138700004",
-      "source": "Greenhouse (Simpplr)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "ashby-spotdraft-4c635c45-27c4-4e53-892d-da09156ef0e6",
-      "title": "Product Manager",
-      "company": "SpotDraft",
-      "location": "SpotDraft HQ, Bengaluru",
-      "url": "https://jobs.ashbyhq.com/spotdraft/4c635c45-27c4-4e53-892d-da09156ef0e6",
-      "source": "Ashby (SpotDraft)",
-      "queuedOn": "2026-10-05"
-    },
-    {
       "id": "ashby-spotdraft-88fc1f00-e546-463a-8ba0-78bc89a95cc6",
       "title": "Product Manager - AI",
       "company": "SpotDraft",
@@ -3626,21 +3563,72 @@
       "url": "https://www.asana.com/jobs/apply/7586966?gh_jid=7586966",
       "source": "Greenhouse (Asana)",
       "queuedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+      "source": "Greenhouse (Razorpay)",
+      "queuedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "source": "Greenhouse (Razorpay)",
+      "queuedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
+      "source": "Greenhouse (Razorpay)",
+      "queuedOn": "2026-11-10"
+    },
+    {
+      "id": "vc-accel-99385008",
+      "title": "Product Manager",
+      "company": "Fibr",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://wellfound.com/company/getfibr/jobs/3202047-product-manager",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-10"
+    },
+    {
+      "id": "vc-peakxv-4751768005",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-10"
+    },
+    {
+      "id": "vc-peakxv-4749335005",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-10"
+    },
+    {
+      "id": "vc-peakxv-4749337005",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-10"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-08",
-      "detail": "152 engineering openings vs a usual 36"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-09",
-      "detail": "145 engineering openings vs a usual 36"
-    },
     {
       "type": "reopened",
       "company": "ServiceNow",
@@ -4351,6 +4339,24 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160740103",
       "id": "smartrecruiters-ServiceNow-744000160740103",
       "detail": "closed 2026-10-08, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Razorpay",
+      "date": "2026-11-10",
+      "title": "Product Manager II",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
+      "detail": "closed 2026-10-16, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "InMobi",
+      "title": "InMobi Secures Naming Rights For Bengaluru’s Ibbaluru Metro Station For ₹65 Cr",
+      "url": "https://inc42.com/buzz/inmobi-secures-naming-rights-for-bengalurus-ibbaluru-metro-station-for-%e2%82%b965-cr/",
+      "date": "2026-11-10",
+      "detail": "via Inc42",
+      "watched": true
     }
   ],
   "reminders": {}

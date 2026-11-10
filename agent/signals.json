@@ -10,10 +10,28 @@
       "detail": "closed 2026-10-09, reposted today"
     },
     {
+      "type": "funding",
+      "company": "InMobi",
+      "title": "InMobi Secures Naming Rights For Bengaluru’s Ibbaluru Metro Station For ₹65 Cr",
+      "url": "https://inc42.com/buzz/inmobi-secures-naming-rights-for-bengalurus-ibbaluru-metro-station-for-%e2%82%b965-cr/",
+      "date": "2026-11-10",
+      "detail": "via Inc42",
+      "watched": true
+    },
+    {
       "type": "eng_spike",
       "company": "Netradyne",
       "date": "2026-11-10",
       "detail": "23 engineering openings vs a usual 14"
+    },
+    {
+      "type": "reopened",
+      "company": "Razorpay",
+      "date": "2026-11-10",
+      "title": "Product Manager II",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
+      "detail": "closed 2026-10-16, reposted today"
     },
     {
       "type": "reopened",
@@ -356,6 +374,14 @@
       "url": "https://entrackr.com/news/health-tech-startup-clinics-on-cloud-raises-125-mn-in-series-a-round-12776580",
       "date": "2026-11-02",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Clinics On Cloud",
+      "title": "Clinics On Cloud raises $12.5M to expand microclinic network",
+      "url": "https://yourstory.com/2026/11/clinics-on-cloud-raises-125m-expand-microclinic-network",
+      "date": "2026-11-02",
+      "detail": "via YourStory"
     },
     {
       "type": "eng_spike",
