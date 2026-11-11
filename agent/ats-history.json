@@ -348,7 +348,7 @@
           "eng": 285
         },
         "2026-11-11": {
-          "total": 679,
+          "total": 677,
           "eng": 285
         }
       },
@@ -390,13 +390,15 @@
           "ids": [
             "greenhouse-anthropic-5409934008"
           ],
-          "lastSeen": "2026-11-11"
+          "lastSeen": "2026-11-11",
+          "closedOn": "2026-11-11"
         },
         "product manager new markets and monetization": {
           "ids": [
             "greenhouse-anthropic-5386182008"
           ],
-          "lastSeen": "2026-11-11"
+          "lastSeen": "2026-11-11",
+          "closedOn": "2026-11-11"
         },
         "product manager public sector": {
           "ids": [
@@ -613,8 +615,8 @@
           "eng": 32
         },
         "2026-11-11": {
-          "total": 76,
-          "eng": 32
+          "total": 75,
+          "eng": 31
         }
       },
       "pm": {
@@ -762,7 +764,7 @@
           "eng": 55
         },
         "2026-11-11": {
-          "total": 137,
+          "total": 138,
           "eng": 55
         }
       },
@@ -2952,7 +2954,7 @@
           "eng": 431
         },
         "2026-11-11": {
-          "total": 827,
+          "total": 828,
           "eng": 433
         }
       },
@@ -4018,8 +4020,8 @@
           "eng": 6
         },
         "2026-11-11": {
-          "total": 50,
-          "eng": 6
+          "total": 49,
+          "eng": 5
         }
       },
       "pm": {
@@ -5455,7 +5457,7 @@
           "eng": 1
         },
         "2026-11-11": {
-          "total": 4,
+          "total": 2,
           "eng": 1
         }
       },
@@ -5584,7 +5586,7 @@
           "eng": 6
         },
         "2026-11-11": {
-          "total": 156,
+          "total": 155,
           "eng": 6
         }
       },
@@ -6411,7 +6413,8 @@
           "ids": [
             "amazon-10576704"
           ],
-          "lastSeen": "2026-11-11"
+          "lastSeen": "2026-11-11",
+          "closedOn": "2026-11-11"
         },
         "sr product manager tech": {
           "ids": [
@@ -6522,6 +6525,12 @@
         "sr product manager tech cross border and international expansions": {
           "ids": [
             "amazon-10563368"
+          ],
+          "lastSeen": "2026-11-11"
+        },
+        "senior product manager technical rbs tech": {
+          "ids": [
+            "amazon-10599321"
           ],
           "lastSeen": "2026-11-11"
         }
@@ -6948,8 +6957,8 @@
           "eng": 23
         },
         "2026-11-11": {
-          "total": 71,
-          "eng": 23
+          "total": 72,
+          "eng": 22
         }
       },
       "pm": {
@@ -7227,7 +7236,7 @@
           "eng": 11
         },
         "2026-11-11": {
-          "total": 78,
+          "total": 77,
           "eng": 11
         }
       },
@@ -7618,8 +7627,8 @@
           "eng": 14
         },
         "2026-11-11": {
-          "total": 50,
-          "eng": 13
+          "total": 48,
+          "eng": 12
         }
       },
       "pm": {}
@@ -7868,8 +7877,8 @@
           "eng": 3
         },
         "2026-11-11": {
-          "total": 14,
-          "eng": 3
+          "total": 15,
+          "eng": 4
         }
       },
       "pm": {
@@ -8586,7 +8595,7 @@
           "eng": 3
         },
         "2026-11-11": {
-          "total": 51,
+          "total": 53,
           "eng": 3
         }
       },
@@ -9063,7 +9072,8 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210801074"
           ],
-          "lastSeen": "2026-11-11"
+          "lastSeen": "2026-11-11",
+          "closedOn": "2026-11-11"
         },
         "vice president lending product owner": {
           "ids": [
@@ -10618,7 +10628,7 @@
           "eng": 0
         },
         "2026-11-11": {
-          "total": 11,
+          "total": 12,
           "eng": 0
         }
       },
@@ -11058,7 +11068,7 @@
         },
         "2026-11-11": {
           "total": 100,
-          "eng": 38
+          "eng": 39
         }
       },
       "pm": {
@@ -11839,7 +11849,7 @@
           "eng": 6
         },
         "2026-11-11": {
-          "total": 22,
+          "total": 23,
           "eng": 5
         }
       },
@@ -12097,8 +12107,9 @@
           "eng": 5
         },
         "2026-11-11": {
-          "total": 6,
-          "eng": 5
+          "total": 23,
+          "eng": 10,
+          "spike": true
         }
       },
       "pm": {}
@@ -12776,8 +12787,8 @@
           "eng": 29
         },
         "2026-11-11": {
-          "total": 109,
-          "eng": 29
+          "total": 113,
+          "eng": 30
         }
       },
       "pm": {
@@ -13137,7 +13148,7 @@
           "eng": 8
         },
         "2026-11-11": {
-          "total": 58,
+          "total": 55,
           "eng": 8
         }
       },
@@ -13286,7 +13297,7 @@
           "eng": 9
         },
         "2026-11-11": {
-          "total": 33,
+          "total": 34,
           "eng": 9
         }
       },
@@ -13352,7 +13363,8 @@
           "ids": [
             "workday-target-/job/BangaloreIndia/Product-Manager---Customer-Data-Platform_R0000479703"
           ],
-          "lastSeen": "2026-11-11"
+          "lastSeen": "2026-11-11",
+          "closedOn": "2026-11-11"
         },
         "director product management customer data platform": {
           "ids": [
@@ -13629,7 +13641,7 @@
           "eng": 46
         },
         "2026-11-11": {
-          "total": 80,
+          "total": 79,
           "eng": 45
         }
       },
@@ -14136,8 +14148,8 @@
           "eng": 20
         },
         "2026-11-11": {
-          "total": 61,
-          "eng": 20
+          "total": 70,
+          "eng": 23
         }
       },
       "pm": {
@@ -14386,8 +14398,8 @@
           "eng": 49
         },
         "2026-11-11": {
-          "total": 90,
-          "eng": 49
+          "total": 92,
+          "eng": 51
         }
       },
       "pm": {
@@ -14539,7 +14551,7 @@
         },
         "2026-11-11": {
           "total": 197,
-          "eng": 44
+          "eng": 42
         }
       },
       "pm": {
@@ -14629,6 +14641,12 @@
         "software product management pre sales senior manager pre sales manufacturing software": {
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Pre-Sales-Senior-Manager--Pre-Sales---Manufacturing-Software_R00364472"
+          ],
+          "lastSeen": "2026-11-11"
+        },
+        "product management senior analyst": {
+          "ids": [
+            "workday-accenture-/job/Navi-Mumbai/Product-Management-Senior-Analyst_AIOC-S01674243-1"
           ],
           "lastSeen": "2026-11-11"
         }
@@ -14786,18 +14804,6 @@
     },
     "Microsoft": {
       "daily": {
-        "2026-10-09": {
-          "total": 75,
-          "eng": 39
-        },
-        "2026-10-10": {
-          "total": 69,
-          "eng": 37
-        },
-        "2026-10-11": {
-          "total": 69,
-          "eng": 37
-        },
         "2026-10-12": {
           "total": 64,
           "eng": 34
@@ -14905,6 +14911,10 @@
         "2026-11-08": {
           "total": 57,
           "eng": 28
+        },
+        "2026-11-11": {
+          "total": 57,
+          "eng": 28
         }
       },
       "pm": {
@@ -14919,7 +14929,7 @@
             "eightfold-microsoft.com-1970393557041943",
             "eightfold-microsoft.com-1970393557040071"
           ],
-          "lastSeen": "2026-11-08"
+          "lastSeen": "2026-11-11"
         },
         "principal product manager": {
           "ids": [
@@ -14932,7 +14942,7 @@
             "eightfold-microsoft.com-1970393557038797",
             "eightfold-microsoft.com-1970393557040068"
           ],
-          "lastSeen": "2026-11-08"
+          "lastSeen": "2026-11-11"
         },
         "product manager ii": {
           "ids": [
@@ -14941,7 +14951,7 @@
             "eightfold-microsoft.com-1970393557038894",
             "eightfold-microsoft.com-1970393557041935"
           ],
-          "lastSeen": "2026-11-08"
+          "lastSeen": "2026-11-11"
         },
         "principal product management": {
           "ids": [
@@ -14968,7 +14978,7 @@
           "ids": [
             "eightfold-microsoft.com-1970393557047351"
           ],
-          "lastSeen": "2026-11-08"
+          "lastSeen": "2026-11-11"
         }
       }
     },
@@ -15518,7 +15528,7 @@
           "eng": 7
         },
         "2026-11-11": {
-          "total": 17,
+          "total": 18,
           "eng": 7
         }
       },
@@ -15532,6 +15542,12 @@
         "senior product manager": {
           "ids": [
             "greenhouse-couchbaseinc-4701380006"
+          ],
+          "lastSeen": "2026-11-11"
+        },
+        "sr product manager": {
+          "ids": [
+            "greenhouse-couchbaseinc-4726542006"
           ],
           "lastSeen": "2026-11-11"
         }
@@ -15660,8 +15676,8 @@
           "eng": 563
         },
         "2026-11-11": {
-          "total": 920,
-          "eng": 563
+          "total": 918,
+          "eng": 562
         }
       },
       "pm": {
@@ -16767,7 +16783,7 @@
           "eng": 30
         },
         "2026-11-11": {
-          "total": 68,
+          "total": 69,
           "eng": 30
         }
       },
@@ -17708,7 +17724,7 @@
           "eng": 157
         },
         "2026-11-11": {
-          "total": 377,
+          "total": 376,
           "eng": 157
         }
       },
@@ -17998,8 +18014,8 @@
           "eng": 31
         },
         "2026-11-11": {
-          "total": 67,
-          "eng": 31
+          "total": 66,
+          "eng": 30
         }
       },
       "pm": {
@@ -18747,8 +18763,8 @@
           "eng": 120
         },
         "2026-11-11": {
-          "total": 200,
-          "eng": 122
+          "total": 198,
+          "eng": 119
         }
       },
       "pm": {
@@ -18923,7 +18939,7 @@
           "eng": 42
         },
         "2026-11-11": {
-          "total": 150,
+          "total": 152,
           "eng": 41
         }
       },
@@ -19135,8 +19151,8 @@
           "eng": 233
         },
         "2026-11-11": {
-          "total": 698,
-          "eng": 235
+          "total": 699,
+          "eng": 236
         }
       },
       "pm": {
@@ -19873,8 +19889,8 @@
           "eng": 194
         },
         "2026-11-11": {
-          "total": 373,
-          "eng": 195
+          "total": 375,
+          "eng": 197
         }
       },
       "pm": {
@@ -20446,7 +20462,7 @@
           "eng": 2
         },
         "2026-11-11": {
-          "total": 19,
+          "total": 18,
           "eng": 2
         }
       },
@@ -20908,7 +20924,7 @@
           "eng": 7
         },
         "2026-11-11": {
-          "total": 23,
+          "total": 22,
           "eng": 7
         }
       },
@@ -21243,7 +21259,7 @@
           "eng": 129
         },
         "2026-11-11": {
-          "total": 484,
+          "total": 479,
           "eng": 126
         }
       },
@@ -21473,7 +21489,7 @@
           "eng": 22
         },
         "2026-11-11": {
-          "total": 90,
+          "total": 85,
           "eng": 22
         }
       },
@@ -21498,7 +21514,8 @@
         },
         "senior principal product manager trading": {
           "ids": [
-            "lever-crypto-21c6973a-b800-4db1-adeb-b3c4f8b7df70"
+            "lever-crypto-21c6973a-b800-4db1-adeb-b3c4f8b7df70",
+            "lever-crypto-35c98674-9bbc-476e-a0f9-a1c48705966a"
           ],
           "lastSeen": "2026-11-11"
         },
@@ -21725,8 +21742,8 @@
           "eng": 6
         },
         "2026-11-11": {
-          "total": 32,
-          "eng": 6
+          "total": 31,
+          "eng": 5
         }
       },
       "pm": {
@@ -22139,7 +22156,7 @@
           "eng": 5
         },
         "2026-11-11": {
-          "total": 118,
+          "total": 116,
           "eng": 5
         }
       },
@@ -23138,7 +23155,7 @@
         },
         "2026-11-11": {
           "total": 250,
-          "eng": 72
+          "eng": 74
         }
       },
       "pm": {
@@ -23413,7 +23430,7 @@
         },
         "2026-11-11": {
           "total": 242,
-          "eng": 133
+          "eng": 134
         }
       },
       "pm": {
@@ -23505,8 +23522,8 @@
           "eng": 117
         },
         "2026-11-11": {
-          "total": 252,
-          "eng": 117
+          "total": 253,
+          "eng": 118
         }
       },
       "pm": {
@@ -23657,7 +23674,7 @@
           "eng": 0
         },
         "2026-11-11": {
-          "total": 2,
+          "total": 3,
           "eng": 0
         }
       },
@@ -24245,7 +24262,7 @@
         },
         "2026-11-11": {
           "total": 100,
-          "eng": 30
+          "eng": 29
         }
       },
       "pm": {

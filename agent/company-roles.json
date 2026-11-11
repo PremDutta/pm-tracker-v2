@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-11T04:58:39.517Z",
+  "scannedAt": "2026-11-11T09:41:57.777Z",
   "roles": {
     "Amazon": [
       {
@@ -161,6 +161,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10584847/senior-product-manager-tech-shipment-technologies",
         "level": "senior",
         "firstSeen": "2026-10-21"
+      },
+      {
+        "id": "amazon-10599321",
+        "title": "Senior Product Manager - Technical, RBS Tech",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10599321/senior-product-manager-technical-rbs-tech",
+        "level": "senior",
+        "firstSeen": "2026-11-11"
       },
       {
         "id": "amazon-10469361",
@@ -355,14 +363,6 @@
         "firstSeen": "2026-11-04"
       },
       {
-        "id": "amazon-10576704",
-        "title": "Sr. Product Manager, ANow",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10576704/sr-product-manager-anow",
-        "level": "senior",
-        "firstSeen": "2026-10-13"
-      },
-      {
         "id": "amazon-10449781",
         "title": "Sr. Product Manager, MFN RCX",
         "location": "Hyderabad, Telangana, IND",
@@ -448,6 +448,14 @@
       }
     ],
     "Couchbase": [
+      {
+        "id": "greenhouse-couchbaseinc-4726542006",
+        "title": " Sr Product Manager",
+        "location": "Bangalore, India",
+        "url": "https://job-boards.greenhouse.io/couchbaseinc/jobs/4726542006",
+        "level": "senior",
+        "firstSeen": "2026-11-11"
+      },
       {
         "id": "greenhouse-couchbaseinc-4701380006",
         "title": "Senior Product Manager",
@@ -751,14 +759,6 @@
         "firstSeen": "2026-10-29"
       },
       {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210801074",
-        "title": "Product Manager - Capture & Controls",
-        "location": "India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801074",
-        "level": "pm",
-        "firstSeen": "2026-11-05"
-      },
-      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210783441",
         "title": "Technical Product Manager - ETL, Data Reporting, SQL",
         "location": "Mumbai, Maharashtra, India",
@@ -961,14 +961,6 @@
         "firstSeen": "2026-11-06"
       },
       {
-        "id": "eightfold-microsoft.com-1970393556944984",
-        "title": "Principal Product Manager",
-        "location": "India, Karnataka, Bangalore",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557042009",
         "title": "Principal Product Manager",
         "location": "India, Uttar Pradesh, Noida",
@@ -985,12 +977,12 @@
         "firstSeen": "2026-10-21"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557040071",
+        "id": "eightfold-microsoft.com-1970393557040598",
         "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
+        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
         "level": "senior",
-        "firstSeen": "2026-10-28"
+        "firstSeen": "2026-10-16"
       },
       {
         "id": "eightfold-microsoft.com-1970393557037770",
@@ -1001,6 +993,14 @@
         "firstSeen": "2026-10-15"
       },
       {
+        "id": "eightfold-microsoft.com-1970393557070058",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070058",
+        "level": "senior",
+        "firstSeen": "2026-11-11"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557041938",
         "title": "Senior Product Manager",
         "location": "India, Uttar Pradesh, Noida",
@@ -1009,20 +1009,20 @@
         "firstSeen": "2026-11-06"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557040598",
-        "title": "Senior Product Manager",
-        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
-        "level": "senior",
-        "firstSeen": "2026-10-16"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557041943",
         "title": "Senior Product Manager",
         "location": "India, Uttar Pradesh, Noida",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
         "level": "senior",
         "firstSeen": "2026-10-20"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557040071",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
+        "level": "senior",
+        "firstSeen": "2026-10-28"
       }
     ],
     "Mihup": [
@@ -1633,14 +1633,6 @@
         "firstSeen": "2026-11-04"
       },
       {
-        "id": "workday-target-/job/BangaloreIndia/Product-Manager---Customer-Data-Platform_R0000479703",
-        "title": "Product Manager - Customer Data Platform",
-        "location": "Bangalore,India",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager---Customer-Data-Platform_R0000479703",
-        "level": "pm",
-        "firstSeen": "2026-11-04"
-      },
-      {
         "id": "workday-target-/job/BangaloreIndia/Sr-Product-Manager---Marketplace_R0000439637",
         "title": "Sr Product Manager - Marketplace",
         "location": "Bangalore,India",
@@ -1701,6 +1693,14 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Product-Manager_R-574835",
         "level": "senior",
         "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
+        "level": "senior",
+        "firstSeen": "2026-11-11"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -1825,18 +1825,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "zoho-go-yubi-66789000016213700",
-        "title": "Senior Product Manager",
-        "location": "Chennai, India",
-        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "zoho-go-yubi-66789000036412626",
         "title": "Senior Product Manager",
         "location": "Bangalore South, India",
         "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "zoho-go-yubi-66789000016213700",
+        "title": "Senior Product Manager",
+        "location": "Chennai, India",
+        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
         "level": "senior",
         "firstSeen": "2026-09-30"
       }
@@ -1994,7 +1994,7 @@
     "MBZUAI": "2026-11-11",
     "Meesho": "2026-11-11",
     "Mensa Brands (BRND.ME)": "2026-11-11",
-    "Microsoft": "2026-11-08",
+    "Microsoft": "2026-11-11",
     "Mihup": "2026-11-11",
     "Mindtickle": "2026-11-11",
     "Mollie": "2026-11-11",

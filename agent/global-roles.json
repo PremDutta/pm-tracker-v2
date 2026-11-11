@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-11T04:58:39.567Z",
+  "scannedAt": "2026-11-11T09:41:57.819Z",
   "roles": [
     {
       "id": "greenhouse-anthropic-5477601008",
@@ -320,7 +320,7 @@
       "id": "rippling-rippling-c2045722-3cee-4987-9a3a-1aac03c98c99",
       "title": "Product Manager, Growth Platform (Cross-Sell Marketing)",
       "company": "Rippling",
-      "location": "Hybrid (New York, New York, US)",
+      "location": "Hybrid (San Francisco, California, US)",
       "url": "https://ats.rippling.com/rippling/jobs/c2045722-3cee-4987-9a3a-1aac03c98c99",
       "source": "Rippling (Rippling)",
       "level": "pm",
@@ -1506,32 +1506,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-anthropic-5409934008",
-      "title": "Product Manager, Multi-Cloud Trust & Safety",
-      "company": "Anthropic",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409934008",
-      "source": "Greenhouse (Anthropic)",
-      "level": "pm",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "greenhouse-anthropic-5386182008",
-      "title": "Product Manager, New Markets and Monetization",
-      "company": "Anthropic",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386182008",
-      "source": "Greenhouse (Anthropic)",
-      "level": "pm",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-anthropic-5428898008",
       "title": "Product Manager, Safe Access",
       "company": "Anthropic",
@@ -1714,58 +1688,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "lever-crypto-21c6973a-b800-4db1-adeb-b3c4f8b7df70",
-      "title": "Senior/ Principal Product Manager, Trading(Crypto.com App)",
-      "company": "Crypto.com",
-      "location": "Singapore",
-      "url": "https://jobs.lever.co/crypto/21c6973a-b800-4db1-adeb-b3c4f8b7df70",
-      "source": "Lever (Crypto.com)",
-      "level": "group",
-      "regions": [
-        "singapore"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "lever-crypto-9947f3a5-fd22-410e-9058-ff3ee9f36951",
-      "title": "Senior/ Principal Product Manager, Trading(Crypto.com App)",
-      "company": "Crypto.com",
-      "location": "Hong Kong",
-      "url": "https://jobs.lever.co/crypto/9947f3a5-fd22-410e-9058-ff3ee9f36951",
-      "source": "Lever (Crypto.com)",
-      "level": "group",
-      "regions": [
-        "apac"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "lever-crypto-9b9a56cd-0aaf-46ec-8704-538dcecb72dc",
-      "title": "Senior/ Principal Product Manager, Trading(Crypto.com App)",
-      "company": "Crypto.com",
-      "location": "Dubai",
-      "url": "https://jobs.lever.co/crypto/9b9a56cd-0aaf-46ec-8704-538dcecb72dc",
-      "source": "Lever (Crypto.com)",
-      "level": "group",
-      "regions": [
-        "uae"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "lever-crypto-d58a5bcc-e894-4c39-96b4-eb9dff0bb115",
-      "title": "Senior/ Principal Product Manager, Trading(Crypto.com App)",
-      "company": "Crypto.com",
-      "location": "Sydney",
-      "url": "https://jobs.lever.co/crypto/d58a5bcc-e894-4c39-96b4-eb9dff0bb115",
-      "source": "Lever (Crypto.com)",
-      "level": "group",
-      "regions": [
-        "australia"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "lever-crypto-a155c0e5-f80e-4b38-b9ad-f9f8bc683d37",
       "title": "VP, Product Analytics",
       "company": "Crypto.com",
@@ -1885,11 +1807,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200284002",
+      "id": "greenhouse-databricks-8200462002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1898,11 +1820,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200462002",
+      "id": "greenhouse-databricks-8200284002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2122,11 +2044,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7110499002",
+      "id": "greenhouse-databricks-7110509002",
       "title": "Staff Product Manager, Security",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110509002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2135,11 +2057,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7110509002",
+      "id": "greenhouse-databricks-7110499002",
       "title": "Staff Product Manager, Security",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110509002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2655,19 +2577,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-mongodb-8128356",
-      "title": "Senior Product Manager",
-      "company": "MongoDB",
-      "location": "San Francisco",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8128356",
-      "source": "Greenhouse (MongoDB)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-mongodb-7113803",
       "title": "Senior Product Manager",
       "company": "MongoDB",
@@ -2678,6 +2587,19 @@
       "regions": [
         "ireland",
         "europe"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-mongodb-8128356",
+      "title": "Senior Product Manager",
+      "company": "MongoDB",
+      "location": "San Francisco",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8128356",
+      "source": "Greenhouse (MongoDB)",
+      "level": "senior",
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -2762,19 +2684,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-mongodb-8129885",
-      "title": "Staff Product Manager, AI Builder Experience",
-      "company": "MongoDB",
-      "location": "United States",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129885",
-      "source": "Greenhouse (MongoDB)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-mongodb-8129887",
       "title": "Staff Product Manager, AI Builder Experience",
       "company": "MongoDB",
@@ -2784,6 +2693,19 @@
       "level": "group",
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-mongodb-8129885",
+      "title": "Staff Product Manager, AI Builder Experience",
+      "company": "MongoDB",
+      "location": "United States",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129885",
+      "source": "Greenhouse (MongoDB)",
+      "level": "group",
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3156,7 +3078,7 @@
       "id": "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "title": "Director, Product Marketing (Hybrid in NYC, SF, or Seattle)",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -3169,7 +3091,7 @@
       "id": "rippling-rippling-1311a98d-008f-4517-9f9f-73ee4c9cf1cf",
       "title": "Product Lead - AI Semantics & Governance",
       "company": "Rippling",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/1311a98d-008f-4517-9f9f-73ee4c9cf1cf",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3195,7 +3117,7 @@
       "id": "rippling-rippling-a5b9d8bf-f3e4-4f6d-812f-0b85af42e5b0",
       "title": "Product Lead, Payments",
       "company": "Rippling",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/a5b9d8bf-f3e4-4f6d-812f-0b85af42e5b0",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3221,7 +3143,7 @@
       "id": "rippling-rippling-0889e2ac-a30c-43b7-8c8c-5312264416db",
       "title": "Product Lead, Talent Products",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/0889e2ac-a30c-43b7-8c8c-5312264416db",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3234,7 +3156,7 @@
       "id": "rippling-rippling-ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "title": "Senior Director of Product, App Platform",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "source": "Rippling (Rippling)",
       "level": "leadership",

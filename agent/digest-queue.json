@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "lever-meesho-b56573f0-c701-422a-abfa-ac8bbdbfa645",
-      "title": "Product Manager II",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645",
-      "source": "Lever (Meesho)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "ashby-ramp-3f4509ad-1858-478b-a7fb-bcd792d9575a",
-      "title": "Product Manager | Procurement",
-      "company": "Ramp",
-      "location": "New York, NY (HQ)",
-      "url": "https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a",
-      "source": "Ashby (Ramp)",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "smartrecruiters-ServiceNow-744000153567049",
-      "title": "Sr Inbound Product Manager",
-      "company": "ServiceNow",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153567049",
-      "source": "SmartRecruiters (ServiceNow)",
-      "queuedOn": "2026-10-06"
-    },
-    {
       "id": "vc-lightspeed-32f0fce0-7106-4eb9-911e-b445daa7abab",
       "title": "Product Manager (Expense Management)",
       "company": "Aspire",
@@ -3626,15 +3599,36 @@
       "url": "https://job-boards.greenhouse.io/rhythmx-ai/jobs/5478899008",
       "source": "Greenhouse (GW RhythmX)",
       "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "amazon-10599321",
+      "title": "Senior Product Manager - Technical, RBS Tech",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10599321/senior-product-manager-technical-rbs-tech",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "greenhouse-couchbaseinc-4726542006",
+      "title": " Sr Product Manager",
+      "company": "Couchbase",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/couchbaseinc/jobs/4726542006",
+      "source": "Greenhouse (Couchbase)",
+      "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557070058",
+      "title": "Senior Product Manager",
+      "company": "Microsoft",
+      "location": "India, Telangana, Hyderabad",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557070058",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-11-11"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-13",
-      "detail": "145 engineering openings vs a usual 36"
-    },
     {
       "type": "reopened",
       "company": "JPMorgan Chase",
@@ -4360,6 +4354,12 @@
       "company": "Netradyne",
       "date": "2026-11-11",
       "detail": "22 engineering openings vs a usual 14"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-11",
+      "detail": "10 engineering openings vs a usual 5"
     }
   ],
   "reminders": {}

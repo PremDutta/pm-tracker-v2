@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "greenhouse-couchbaseinc-4726542006",
+      "title": " Sr Product Manager",
+      "company": "Couchbase",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/couchbaseinc/jobs/4726542006",
+      "source": "Greenhouse (Couchbase)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-11"
+    },
+    {
       "id": "greenhouse-rhythmx-ai-5478899008",
       "title": "Technical Product Manager – AI Platform, Interoperability & & Revenue Cycle Data",
       "company": "GW RhythmX",
@@ -85,17 +96,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10596616/sr-product-manager-tech-alexa-ai-developer-tech",
       "source": "Amazon careers",
       "level": "senior",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "workday-target-/job/BangaloreIndia/Product-Manager---Customer-Data-Platform_R0000479703",
-      "title": "Product Manager - Customer Data Platform",
-      "company": "Target India",
-      "location": "Bangalore,India",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager---Customer-Data-Platform_R0000479703",
-      "source": "Workday (Target India)",
-      "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-11-04"
     },

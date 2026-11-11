@@ -1,10 +1,24 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "[Update] Kissht",
+      "title": "[Update] Kissht Raises ₹832 Cr Via Preferential Issue, 24 New Investors Join Cap Table",
+      "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+      "date": "2026-11-11",
+      "detail": "via Inc42"
+    },
+    {
       "type": "eng_spike",
       "company": "Netradyne",
       "date": "2026-11-11",
       "detail": "22 engineering openings vs a usual 14"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-11",
+      "detail": "10 engineering openings vs a usual 5"
     },
     {
       "type": "reopened",
