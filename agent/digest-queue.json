@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-lightspeed-32f0fce0-7106-4eb9-911e-b445daa7abab",
-      "title": "Product Manager (Expense Management)",
-      "company": "Aspire",
-      "location": "IN (Gurgaon), India",
-      "url": "https://revolutpeople.com/aspire/public/careers/position/32f0fce0-7106-4eb9-911e-b445daa7abab/",
-      "source": "VC board (Lightspeed portfolio)",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "vc-lightspeed-4699107005",
-      "title": "Product Manager II - AI",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
-      "source": "VC board (Lightspeed portfolio)",
-      "queuedOn": "2026-10-06"
-    },
-    {
       "id": "smartrecruiters-ServiceNow-744000153660649",
       "title": "Staff Inbound Product Manager",
       "company": "ServiceNow",
@@ -3625,6 +3607,24 @@
       "location": "India, Telangana, Hyderabad",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557070058",
       "source": "Microsoft careers",
+      "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "vc-accel-99548473",
+      "title": "Sr Product Manager",
+      "company": "Couchbase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/couchbaseinc/jobs/4726542006",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "vc-lightspeed-e3bb317700ec10013041f1a5da190000",
+      "title": "Senior Product Manager - Managed Detection Response(MDR)",
+      "company": "Arctic Wolf Networks",
+      "location": "Bengaluru, IND, India",
+      "url": "https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-Product-Manager---Managed-Detection-Response-MDR-_R26_1218",
+      "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-11-11"
     }
   ],

@@ -2,6 +2,14 @@
   "signals": [
     {
       "type": "funding",
+      "company": "[Update] Greenjoules",
+      "title": "[Update] Greenjoules Closes Series B Round At ₹150 Cr",
+      "url": "https://inc42.com/buzz/exclusive-greenjoules-raises-%e2%82%b962-cr-funding-from-amazon-singularity-to-scale-green-energy-operations/",
+      "date": "2026-11-11",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
       "company": "[Update] Kissht",
       "title": "[Update] Kissht Raises ₹832 Cr Via Preferential Issue, 24 New Investors Join Cap Table",
       "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
@@ -379,6 +387,14 @@
       "url": "https://entrackr.com/news/wealthtech-startup-powerup-money-raises-10-mn-led-by-flourish-ventures-12778285",
       "date": "2026-11-03",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "PowerUp Money",
+      "title": "PowerUp Money raises $10M to expand AI-led wealth management",
+      "url": "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india",
+      "date": "2026-11-03",
+      "detail": "via YourStory"
     },
     {
       "type": "reopened",

@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-11T09:41:57.777Z",
+  "scannedAt": "2026-11-11T13:41:34.804Z",
   "roles": {
     "Amazon": [
       {
@@ -307,18 +307,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10523477",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10523477/sr-product-manager-tech-india-ads",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10521530",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10523477",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10523477/sr-product-manager-tech-india-ads",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -513,14 +513,6 @@
         "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
         "level": "pm",
         "firstSeen": "2026-10-05"
-      },
-      {
-        "id": "greenhouse-gleanwork-4641940005",
-        "title": "Product Manager, Glean Protect (Security & Governance)",
-        "location": "Bangalore, India",
-        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
       }
     ],
     "GoKwik": [
@@ -587,14 +579,6 @@
         "url": "https://careers.hcltech.com/job/Data-Product-Manager/168347-en_US/",
         "level": "pm",
         "firstSeen": "2026-11-10"
-      },
-      {
-        "id": "sf-careers.hcltech.com-169138",
-        "title": "Data Product Manager",
-        "location": "Chennai",
-        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-11-05"
       },
       {
         "id": "sf-careers.hcltech.com-178491",
@@ -1395,18 +1379,18 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
-        "level": "pm",
-        "firstSeen": "2026-11-10"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
         "title": "Product Manager II",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+        "level": "pm",
+        "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
         "level": "pm",
         "firstSeen": "2026-11-10"
       },
@@ -1417,14 +1401,6 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
         "level": "pm",
         "firstSeen": "2026-10-29"
-      },
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
-        "level": "senior",
-        "firstSeen": "2026-10-15"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
@@ -1441,6 +1417,14 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
         "level": "senior",
         "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
+        "level": "senior",
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
@@ -1625,6 +1609,14 @@
         "firstSeen": "2026-11-05"
       },
       {
+        "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
+        "title": "Director Product Management - Enterprise Data Strategy",
+        "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
+        "level": "leadership",
+        "firstSeen": "2026-11-11"
+      },
+      {
         "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Product-Manager_R0000475834",
         "title": "Product Manager",
         "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
@@ -1678,6 +1670,14 @@
       }
     ],
     "Wells Fargo": [
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330",
+        "title": "Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-581330",
+        "level": "pm",
+        "firstSeen": "2026-11-11"
+      },
       {
         "id": "workday-wf-/job/Bengaluru-India/Product-Owner--Market-Maker---Options-Clearing--VP-_R-581179-1",
         "title": "Product Owner: Market Maker & Options Clearing (VP)",
@@ -1825,18 +1825,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "zoho-go-yubi-66789000036412626",
-        "title": "Senior Product Manager",
-        "location": "Bangalore South, India",
-        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "zoho-go-yubi-66789000016213700",
         "title": "Senior Product Manager",
         "location": "Chennai, India",
         "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "zoho-go-yubi-66789000036412626",
+        "title": "Senior Product Manager",
+        "location": "Bangalore South, India",
+        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
         "level": "senior",
         "firstSeen": "2026-09-30"
       }

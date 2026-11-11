@@ -1,22 +1,6 @@
 {
   "openings": [
     {
-      "id": "govt-notice-e9acfd0fbe7cce52",
-      "title": "Product Manager Delhi-NCR",
-      "company": "National e-Governance Division",
-      "location": "",
-      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/11/Product-Manager.pdf",
-      "date": "2026-11-18",
-      "deadline": null,
-      "flags": [],
-      "role": "product",
-      "isPdf": true,
-      "org": "NeGD",
-      "category": "section8_govt",
-      "source": "🏛️ Govt (NeGD careers page)",
-      "firstSeen": "2026-11-04"
-    },
-    {
       "id": "govt-npci-190737000006305697",
       "title": "Senior Lead Product Management",
       "company": "National Payments Corporation of India",
@@ -318,7 +302,7 @@
     "NHB": "2026-10-22",
     "NHIDCL": "2026-11-11",
     "NHPC": "2026-11-11",
-    "NIACL": "2026-11-07",
+    "NIACL": "2026-11-11",
     "NIC": "2026-11-11",
     "NICDC": "2026-11-11",
     "NICSI": "2026-11-11",

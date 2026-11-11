@@ -12,6 +12,17 @@
       "firstSeen": "2026-11-11"
     },
     {
+      "id": "vc-accel-99548473",
+      "title": "Sr Product Manager",
+      "company": "Couchbase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/couchbaseinc/jobs/4726542006",
+      "source": "VC board (Accel portfolio)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-11"
+    },
+    {
       "id": "greenhouse-rhythmx-ai-5478899008",
       "title": "Technical Product Manager – AI Platform, Interoperability & & Revenue Cycle Data",
       "company": "GW RhythmX",
@@ -566,7 +577,7 @@
       "title": "Global Product Lead, Support Tools, Global Business Applied AI, GTM",
       "company": "Google",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=25",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=26",
       "source": "VC board (Accel portfolio)",
       "level": "group",
       "aiMatch": "title",
@@ -658,17 +669,6 @@
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-gleanwork-4641940005",
-      "title": "Product Manager, Glean Protect (Security & Governance)",
-      "company": "Glean",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
-      "source": "Greenhouse (Glean)",
-      "level": "pm",
-      "aiMatch": "company",
       "firstSeen": "2026-10-05"
     },
     {
