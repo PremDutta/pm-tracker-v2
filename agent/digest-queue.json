@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-mastercard-/job/Gurgaon-India/Manager--Product-Management_R-291979",
-      "title": "Manager, Product Management",
-      "company": "Mastercard",
-      "location": "Gurgaon, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Management_R-291979",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-05"
-    },
-    {
-      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
-      "title": "Lead Product Management – Technical – AI Transformation",
-      "company": "Mastercard",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-05"
-    },
-    {
       "id": "lever-meesho-b56573f0-c701-422a-abfa-ac8bbdbfa645",
       "title": "Product Manager II",
       "company": "Meesho",
@@ -3626,15 +3608,27 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "amazon-10563368",
+      "title": "Sr. Product Manager - Tech, Cross Border and International Expansions",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10563368/sr-product-manager-tech-cross-border-and-international-expansions",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "greenhouse-rhythmx-ai-5478899008",
+      "title": "Technical Product Manager – AI Platform, Interoperability & & Revenue Cycle Data",
+      "company": "GW RhythmX",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/rhythmx-ai/jobs/5478899008",
+      "source": "Greenhouse (GW RhythmX)",
+      "queuedOn": "2026-11-11"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-12",
-      "detail": "144 engineering openings vs a usual 36"
-    },
     {
       "type": "eng_spike",
       "company": "Accenture",
@@ -4360,6 +4354,12 @@
       "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000160897530",
       "id": "smartrecruiters-DeliveryHero-744000160897530",
       "detail": "closed 2026-11-04, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Netradyne",
+      "date": "2026-11-11",
+      "detail": "22 engineering openings vs a usual 14"
     }
   ],
   "reminders": {}

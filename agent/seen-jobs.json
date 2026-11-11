@@ -998,7 +998,9 @@
     "amazon-10601871",
     "amazon-10601744",
     "oracle-eeho.fa.us2.oraclecloud.com-349259",
-    "vc-peakxv-4749341005"
+    "vc-peakxv-4749341005",
+    "amazon-10563368",
+    "greenhouse-rhythmx-ai-5478899008"
   ],
   "firstRun": false,
   "baselinedOrgs": [
@@ -1083,6 +1085,7 @@
     "ONGC",
     "OVL",
     "PDIL",
+    "PESB",
     "PNB",
     "POWERGRID",
     "PSB",
