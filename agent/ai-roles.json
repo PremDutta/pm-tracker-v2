@@ -1,6 +1,149 @@
 {
   "roles": [
     {
+      "id": "vc-lightspeed-441247",
+      "title": "Product Manager - AI Agents",
+      "company": "Bridgetown Research",
+      "location": "Bangalore",
+      "url": "https://www.instahyre.com/job-441247-product-manager-ai-agents-at-bridgetown-research-bangalore/",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "vc-lightspeed-4726336005",
+      "title": "Product Manager",
+      "company": "Glean",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "sf-careers.hcltech.com-177905",
+      "title": "AI Product Manager I",
+      "company": "HCLTech",
+      "location": "Pune",
+      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/177905-en_US/",
+      "source": "HCLTech careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "eightfold-qualcomm.com-446721996687",
+      "title": "Staff Product Manager - Smartphones and AI",
+      "company": "Qualcomm",
+      "location": "Hyderabad, Telangāna, India",
+      "url": "https://careers.qualcomm.com/careers/job/446721996687",
+      "source": "Qualcomm careers",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "vc-lightspeed-30ecc735-369a-429f-8df5-585b1516cef7",
+      "title": "Product Manager, Payroll Integrations",
+      "company": "Rippling",
+      "location": "Bangalore, India",
+      "url": "https://ats.rippling.com/rippling/jobs/30ecc735-369a-429f-8df5-585b1516cef7",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "vc-lightspeed-c4099026-b194-4b16-8a12-c7ae1a9b51a0",
+      "title": "Product Manager - Chanakya",
+      "company": "Sarvam AI",
+      "location": "Delhi, Delhi, India, Delhi",
+      "url": "https://jobs.ashbyhq.com/sarvam/c4099026-b194-4b16-8a12-c7ae1a9b51a0",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "vc-lightspeed-adbc090f-3aad-4b12-af36-a2f4b55c017e",
+      "title": "Product Manager – Media & Entertainment, Sarvam Studio",
+      "company": "Sarvam AI",
+      "location": "Bengaluru, Karnataka, India, Bengaluru",
+      "url": "https://jobs.ashbyhq.com/sarvam/adbc090f-3aad-4b12-af36-a2f4b55c017e",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "vc-lightspeed-9e197c29-5164-42eb-8e74-4f691a794517",
+      "title": "Product Manager (Models)",
+      "company": "Sarvam AI",
+      "location": "Bengaluru, Karnataka, India, Bengaluru",
+      "url": "https://jobs.ashbyhq.com/sarvam/9e197c29-5164-42eb-8e74-4f691a794517",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "vc-lightspeed-f462051e-ec76-45cf-96c5-e0192dd4dcc6",
+      "title": "Product Manager On-Device & Edge AI",
+      "company": "Sarvam AI",
+      "location": "Bengaluru, Karnataka, India, Bengaluru",
+      "url": "https://jobs.ashbyhq.com/sarvam/f462051e-ec76-45cf-96c5-e0192dd4dcc6",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "vc-lightspeed-45986600-4da3-4e46-a204-2865392df169",
+      "title": "Product Manager, Model APIs",
+      "company": "Sarvam AI",
+      "location": "Bengaluru, Karnataka, India, Bengaluru",
+      "url": "https://jobs.ashbyhq.com/sarvam/45986600-4da3-4e46-a204-2865392df169",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "vc-lightspeed-6390e602-7b98-4700-baa9-ced5be8b1651",
+      "title": "Product Manager, Monetization & Retention",
+      "company": "Sarvam AI",
+      "location": "Bengaluru, Karnataka, India, Bengaluru",
+      "url": "https://jobs.ashbyhq.com/sarvam/6390e602-7b98-4700-baa9-ced5be8b1651",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "vc-peakxv-137246",
+      "title": "AI PRODUCT MANAGER",
+      "company": "TestMu",
+      "location": "Noida, UP, India",
+      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-12"
+    },
+    {
       "id": "greenhouse-couchbaseinc-4726542006",
       "title": " Sr Product Manager",
       "company": "Couchbase",
@@ -428,17 +571,6 @@
       "level": "group",
       "aiMatch": "title",
       "firstSeen": "2026-10-10"
-    },
-    {
-      "id": "vc-accel-95338178",
-      "title": "Global Product Lead, Support Tools, Global Business Applied AI, GTM",
-      "company": "Google",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=26",
-      "source": "VC board (Accel portfolio)",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-09"
     },
     {
       "id": "greenhouse-zenoti-7806709003",

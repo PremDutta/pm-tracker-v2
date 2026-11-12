@@ -1,51 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-mastercard-/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
-      "title": "Consumer Credit Analytics – Global Product Manager - Specialist",
-      "company": "Mastercard",
-      "location": "Gurgaon, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "eightfold-microsoft.com-1970393557016561",
-      "title": "Senior Product Manager",
-      "company": "Microsoft",
-      "location": "India, Telangana, Hyderabad",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
-      "source": "Microsoft careers",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "eightfold-microsoft.com-1970393557016594",
-      "title": "Product Manager II",
-      "company": "Microsoft",
-      "location": "India, Telangana, Hyderabad",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016594",
-      "source": "Microsoft careers",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "greenhouse-onetrust-8192394",
-      "title": "Principal Product Manager, AI Build Governance",
-      "company": "OneTrust",
-      "location": "Bengaluru, India",
-      "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192394",
-      "source": "Greenhouse (OneTrust)",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "greenhouse-razorpaysoftwareprivatelimited-4715389005",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
-      "source": "Greenhouse (Razorpay)",
-      "queuedOn": "2026-10-06"
-    },
-    {
       "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
       "title": "Senior Product Manager",
       "company": "Razorpay",
@@ -3625,6 +3580,51 @@
       "location": "Noida, India",
       "url": "https://apply.workable.com/j/7F0483C6C3",
       "source": "Workable (Innovaccer)",
+      "queuedOn": "2026-11-12"
+    },
+    {
+      "id": "sf-careers.hcltech.com-177905",
+      "title": "AI Product Manager I",
+      "company": "HCLTech",
+      "location": "Pune",
+      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/177905-en_US/",
+      "source": "HCLTech careers",
+      "queuedOn": "2026-11-12"
+    },
+    {
+      "id": "eightfold-qualcomm.com-446721996687",
+      "title": "Staff Product Manager - Smartphones and AI",
+      "company": "Qualcomm",
+      "location": "Hyderabad, Telangāna, India",
+      "url": "https://careers.qualcomm.com/careers/job/446721996687",
+      "source": "Qualcomm careers",
+      "queuedOn": "2026-11-12"
+    },
+    {
+      "id": "vc-accel-99679829",
+      "title": "Senior Product Manager I",
+      "company": "Sumo Logic",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://boards.greenhouse.io/sumologic/jobs/8382629",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-12"
+    },
+    {
+      "id": "vc-accel-99679832",
+      "title": "Senior Product Manager I",
+      "company": "Sumo Logic",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://boards.greenhouse.io/sumologic/jobs/8382639",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-12"
+    },
+    {
+      "id": "vc-peakxv-132016",
+      "title": "Product Manager",
+      "company": "Jupiter",
+      "location": "Bengaluru, KA, India",
+      "url": "https://jupiter.keka.com/careers/jobdetails/132016",
+      "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-11-12"
     }
   ],

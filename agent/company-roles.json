@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-12T10:03:22.587Z",
+  "scannedAt": "2026-11-12T14:45:04.980Z",
   "roles": {
     "Amazon": [
       {
@@ -307,18 +307,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10521530",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10523477",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10523477/sr-product-manager-tech-india-ads",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10521530",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -557,6 +557,14 @@
     ],
     "HCLTech": [
       {
+        "id": "sf-careers.hcltech.com-177905",
+        "title": "AI Product Manager I",
+        "location": "Pune",
+        "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/177905-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-12"
+      },
+      {
         "id": "sf-careers.hcltech.com-157248",
         "title": "AI Product Manager I",
         "location": "Pune",
@@ -751,6 +759,14 @@
         "firstSeen": "2026-11-12"
       },
       {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210796769",
+        "title": "Product Owner/Product Delivery – Senior Associate",
+        "location": "Mumbai, Maharashtra, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796769",
+        "level": "senior",
+        "firstSeen": "2026-11-12"
+      },
+      {
         "id": "oracle-jpmc.fa.oraclecloud.com-210803744",
         "title": "Vice President- Asset Management - Account Management Services Product Owner",
         "location": "Mumbai, Maharashtra, India",
@@ -929,20 +945,20 @@
         "firstSeen": "2026-10-29"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557040068",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040068",
-        "level": "group",
-        "firstSeen": "2026-11-06"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557042009",
         "title": "Principal Product Manager",
         "location": "India, Uttar Pradesh, Noida",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042009",
         "level": "group",
         "firstSeen": "2026-10-20"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557040068",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040068",
+        "level": "group",
+        "firstSeen": "2026-11-06"
       },
       {
         "id": "eightfold-microsoft.com-1970393557041935",
@@ -953,28 +969,12 @@
         "firstSeen": "2026-10-21"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557040598",
-        "title": "Senior Product Manager",
-        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
-        "level": "senior",
-        "firstSeen": "2026-10-16"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557037770",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
         "level": "senior",
         "firstSeen": "2026-10-15"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557070058",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070058",
-        "level": "senior",
-        "firstSeen": "2026-11-11"
       },
       {
         "id": "eightfold-microsoft.com-1970393557041938",
@@ -985,12 +985,28 @@
         "firstSeen": "2026-11-06"
       },
       {
+        "id": "eightfold-microsoft.com-1970393557040598",
+        "title": "Senior Product Manager",
+        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
+        "level": "senior",
+        "firstSeen": "2026-10-16"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557041943",
         "title": "Senior Product Manager",
         "location": "India, Uttar Pradesh, Noida",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
         "level": "senior",
         "firstSeen": "2026-10-20"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557070058",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070058",
+        "level": "senior",
+        "firstSeen": "2026-11-11"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040071",
@@ -1359,22 +1375,30 @@
         "url": "https://careers.qualcomm.com/careers/job/446721309717",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "eightfold-qualcomm.com-446721996687",
+        "title": "Staff Product Manager - Smartphones and AI",
+        "location": "Hyderabad, Telangāna, India",
+        "url": "https://careers.qualcomm.com/careers/job/446721996687",
+        "level": "group",
+        "firstSeen": "2026-11-12"
       }
     ],
     "Razorpay": [
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
-        "level": "pm",
-        "firstSeen": "2026-11-10"
-      },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
         "title": "Product Manager II",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+        "level": "pm",
+        "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
         "level": "pm",
         "firstSeen": "2026-11-10"
       },
@@ -1661,14 +1685,6 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-581330",
         "level": "pm",
         "firstSeen": "2026-11-12"
-      },
-      {
-        "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
-        "level": "senior",
-        "firstSeen": "2026-11-12"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -1952,7 +1968,7 @@
     "MBZUAI": "2026-11-12",
     "Meesho": "2026-11-12",
     "Mensa Brands (BRND.ME)": "2026-11-12",
-    "Microsoft": "2026-11-11",
+    "Microsoft": "2026-11-12",
     "Mihup": "2026-11-12",
     "Mindtickle": "2026-11-12",
     "Mollie": "2026-11-12",
@@ -1985,7 +2001,7 @@
     "Postman": "2026-11-12",
     "Presight": "2026-11-12",
     "PwC India": "2026-11-12",
-    "Qualcomm": "2026-11-11",
+    "Qualcomm": "2026-11-12",
     "Ramp": "2026-11-12",
     "Razorpay": "2026-11-12",
     "Rippling": "2026-11-12",
