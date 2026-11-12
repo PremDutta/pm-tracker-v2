@@ -1,6 +1,21 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-12",
+      "detail": "10 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Wise",
+      "date": "2026-11-12",
+      "title": "Senior Product Manager, Wise Platform Fincrime",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000161181429",
+      "id": "smartrecruiters-wise-744000161181429",
+      "detail": "closed 2026-11-03, reposted today"
+    },
+    {
       "type": "funding",
       "company": "[Update] Greenjoules",
       "title": "[Update] Greenjoules Closes Series B Round At ₹150 Cr",
@@ -1633,20 +1648,6 @@
       "url": "https://entrackr.com/snippets/ajvc-leads-pre-seed-round-in-home-furnishing-startup-wudhomes-12671248",
       "date": "2026-10-13",
       "detail": "via Entrackr"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-12",
-      "detail": "144 engineering openings vs a usual 36"
-    },
-    {
-      "type": "funding",
-      "company": "Hero Electronix-Owned Tessolve",
-      "title": "Hero Electronix-Owned Tessolve Secures $75 Mn To Expand Semiconductor Capabilities",
-      "url": "https://inc42.com/buzz/hero-electronix-owned-tessolve-secures-75-mn-to-expand-semiconductor-capabilities/",
-      "date": "2026-10-12",
-      "detail": "via Inc42"
     }
   ]
 }

@@ -1,42 +1,6 @@
 {
   "jobs": [
     {
-      "id": "smartrecruiters-ServiceNow-744000153660649",
-      "title": "Staff Inbound Product Manager",
-      "company": "ServiceNow",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153660649",
-      "source": "SmartRecruiters (ServiceNow)",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "vc-peakxv-59400",
-      "title": "Product Manager - Credit Card",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59400",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "vc-peakxv-b56573f0-c701-422a-abfa-ac8bbdbfa645",
-      "title": "Product Manager II",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-06"
-    },
-    {
       "id": "workday-mastercard-/job/Gurgaon-India/Lead-Product-Manager_R-292425-1",
       "title": "Lead Product Manager",
       "company": "Mastercard",
@@ -3626,27 +3590,45 @@
       "url": "https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-Product-Manager---Managed-Detection-Response-MDR-_R26_1218",
       "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-11-11"
+    },
+    {
+      "id": "vc-accel-99619459",
+      "title": "Product Manager/Product Businesss Analyst",
+      "company": "Airmeet",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/product-manager-product-businesss-analyst-at-airmeet-4488388740",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-12"
+    },
+    {
+      "id": "vc-accel-99565671",
+      "title": "Principal Product Manager",
+      "company": "OPOWER",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/jobs/349259",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-12"
+    },
+    {
+      "id": "vc-accel-99565439",
+      "title": "Principal Product Manager",
+      "company": "OPOWER",
+      "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/jobs/340054",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-12"
+    },
+    {
+      "id": "vc-accel-99539128",
+      "title": "Senior Product Manager",
+      "company": "Swiftkey",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557070058",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-12"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "JPMorgan Chase",
-      "date": "2026-10-13",
-      "title": "Product Manager",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783031",
-      "id": "oracle-jpmc.fa.oraclecloud.com-210783031",
-      "detail": "closed 2026-10-04, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "Wells Fargo",
-      "date": "2026-10-13",
-      "title": "Lead Digital Product Manager - CIAM",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
-      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
-      "detail": "closed 2026-10-03, reposted today"
-    },
     {
       "type": "eng_spike",
       "company": "Oracle",
@@ -4360,6 +4342,21 @@
       "company": "Skyroot Aerospace",
       "date": "2026-11-11",
       "detail": "10 engineering openings vs a usual 5"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-12",
+      "detail": "10 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Wise",
+      "date": "2026-11-12",
+      "title": "Senior Product Manager, Wise Platform Fincrime",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000161181429",
+      "id": "smartrecruiters-wise-744000161181429",
+      "detail": "closed 2026-11-03, reposted today"
     }
   ],
   "reminders": {}
