@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
-      "title": "Senior Product Manager",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
-      "source": "Greenhouse (Razorpay)",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "smartrecruiters-ServiceNow-744000153729109",
-      "title": "Staff Technical Product Manager – AI/LLM expertise + AI Evaluation Science",
-      "company": "ServiceNow",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153729109",
-      "source": "SmartRecruiters (ServiceNow)",
-      "queuedOn": "2026-10-06"
-    },
-    {
       "id": "keka-spyneai-136045",
       "title": "Senior Product Manager (Conversational AI)",
       "company": "Spyne",
@@ -3626,6 +3608,24 @@
       "url": "https://jupiter.keka.com/careers/jobdetails/132016",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-11-12"
+    },
+    {
+      "id": "ashby-ramp-a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb",
+      "title": "Product Manager | Bill Pay",
+      "company": "Ramp",
+      "location": "New York, NY (HQ)",
+      "url": "https://jobs.ashbyhq.com/ramp/a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb",
+      "source": "Ashby (Ramp)",
+      "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "vc-accel-99635305",
+      "title": "Product Manager- Booking and Payments",
+      "company": "Zoca",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://app.pyjamahr.com/careers?company=ZOCAAI+Technologies+Private+Limited&job_id=427361&company_uuid=6FFECB46A0&utm_source=DIRECT&source=DIRECT&isHeaderVisible=true",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-13"
     }
   ],
   "signals": [

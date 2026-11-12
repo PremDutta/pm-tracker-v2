@@ -15,7 +15,7 @@
       "id": "vc-peakxv-59397",
       "title": "Product Manager - AI and Agentic",
       "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
+      "location": "[{'id': 630, 'name': 'India', 'location': 'Bangalore Division, Karnataka, India', 'location_key': 'bangalore division, karnataka, india', 'country': 'India', 'country_code': 'IN', 'state': 'Karnataka', 'city': 'Bangalore Division', 'remote': False, 'workplace': 'office'}]",
       "url": "https://careers.kula.ai/brightmoney/59397",
       "source": "VC board (Peak XV portfolio)",
       "level": "pm",
@@ -593,17 +593,6 @@
       "level": "group",
       "aiMatch": "title",
       "firstSeen": "2026-10-07"
-    },
-    {
-      "id": "greenhouse-onetrust-8192394",
-      "title": "Principal Product Manager, AI Build Governance",
-      "company": "OneTrust",
-      "location": "Bengaluru, India",
-      "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192394",
-      "source": "Greenhouse (OneTrust)",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-06"
     },
     {
       "id": "vc-accel-64657398",
