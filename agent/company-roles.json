@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-12T00:08:58.823Z",
+  "scannedAt": "2026-11-12T10:03:22.587Z",
   "roles": {
     "Amazon": [
       {
@@ -355,20 +355,12 @@
         "firstSeen": "2026-10-30"
       },
       {
-        "id": "amazon-10593783",
-        "title": "Sr. Product Manager-Technical, Amazon Business",
-        "location": "Hyderabad, Telangana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10593783/sr-product-manager-technical-amazon-business",
+        "id": "amazon-10603030",
+        "title": "Sr. Product Manager, IN Prime",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10603030/sr-product-manager-in-prime",
         "level": "senior",
-        "firstSeen": "2026-11-04"
-      },
-      {
-        "id": "amazon-10449781",
-        "title": "Sr. Product Manager, MFN RCX",
-        "location": "Hyderabad, Telangana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10449781/sr-product-manager-mfn-rcx",
-        "level": "senior",
-        "firstSeen": "2026-10-14"
+        "firstSeen": "2026-11-12"
       },
       {
         "id": "amazon-10476718",
@@ -731,6 +723,14 @@
         "url": "https://apply.workable.com/j/628BD2FEFE",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "workable-innovaccer-analytics-7F0483C6C3",
+        "title": "4822-Product Manager (Gravity)",
+        "location": "Noida, India",
+        "url": "https://apply.workable.com/j/7F0483C6C3",
+        "level": "pm",
+        "firstSeen": "2026-11-12"
       }
     ],
     "JPMorgan Chase": [
@@ -743,20 +743,12 @@
         "firstSeen": "2026-10-22"
       },
       {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210805038",
-        "title": "Client Reporting Product Owner- Vice President",
-        "location": "Bengaluru, Karnataka, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805038",
-        "level": "leadership",
-        "firstSeen": "2026-10-29"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210806709",
-        "title": "Vice President - Lending Product Owner",
-        "location": "Mumbai, Maharashtra, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806709",
-        "level": "leadership",
-        "firstSeen": "2026-11-06"
+        "id": "oracle-jpmc.fa.oraclecloud.com-210801074",
+        "title": "Product Manager - Capture & Controls",
+        "location": "India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801074",
+        "level": "pm",
+        "firstSeen": "2026-11-12"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210803744",
@@ -1661,6 +1653,24 @@
         "firstSeen": "2026-10-27"
       }
     ],
+    "Wells Fargo": [
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330",
+        "title": "Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-581330",
+        "level": "pm",
+        "firstSeen": "2026-11-12"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
+        "level": "senior",
+        "firstSeen": "2026-11-12"
+      }
+    ],
     "Wing Assistant (M32 AI)": [
       {
         "id": "lever-getwingapp-9d79c468-5413-4451-8020-8531588f29a1",
@@ -1773,18 +1783,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "zoho-go-yubi-66789000016213700",
-        "title": "Senior Product Manager",
-        "location": "Chennai, India",
-        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "zoho-go-yubi-66789000036412626",
         "title": "Senior Product Manager",
         "location": "Bangalore South, India",
         "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000036412626/Senior-Product-Manager?source=CareerSite",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "zoho-go-yubi-66789000016213700",
+        "title": "Senior Product Manager",
+        "location": "Chennai, India",
+        "url": "https://go-yubi.zohorecruit.in/jobs/Careers/66789000016213700/Senior-Product-Manager?source=CareerSite",
         "level": "senior",
         "firstSeen": "2026-09-30"
       }

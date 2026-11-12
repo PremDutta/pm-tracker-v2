@@ -1,6 +1,39 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "Hundo Pizza",
+      "title": "Hundo Pizza raises maiden institutional round led by Titan Capital",
+      "url": "https://entrackr.com/snippets/hundo-pizza-raises-maiden-institutional-round-led-by-titan-capital-12803425",
+      "date": "2026-11-12",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Olyv",
+      "title": "Exclusive: Olyv raises Rs 58 Cr in extended Series C round led by Nippon India Digital",
+      "url": "https://entrackr.com/exclusive/exclusive-olyv-raises-rs-58-cr-in-extended-series-c-round-led-by-nippon-india-digital-12803184",
+      "date": "2026-11-12",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "QB MEN",
+      "title": "D2C menswear brand QB MEN raises pre seed funding led by BeyondSeed",
+      "url": "https://entrackr.com/snippets/d2c-menswear-brand-qb-men-raises-pre-seed-funding-led-by-beyondseed-12802802",
+      "date": "2026-11-12",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-12",
+      "title": "Sr Staff Product Manager (Armis/Veza)",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161255939",
+      "id": "smartrecruiters-ServiceNow-744000161255939",
+      "detail": "closed 2026-10-12, reposted today"
+    },
+    {
       "type": "eng_spike",
       "company": "Skyroot Aerospace",
       "date": "2026-11-12",
@@ -328,6 +361,14 @@
       "detail": "via Entrackr"
     },
     {
+      "type": "funding",
+      "company": "Peppermint Robotics",
+      "title": "Peppermint Robotics bags Rs 100 Cr in pre-Series B funding round",
+      "url": "https://yourstory.com/2026/11/peppermint-robotics-bags-rs-100-cr-in-pre-series-b-funding-round",
+      "date": "2026-11-04",
+      "detail": "via YourStory"
+    },
+    {
       "type": "reopened",
       "company": "PhonePe",
       "date": "2026-11-04",
@@ -367,6 +408,14 @@
       "url": "https://entrackr.com/news/giva-raises-over-100-mn-in-funding-round-led-by-multiples-pe-12779542",
       "date": "2026-11-03",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "GIVA",
+      "title": "Jewellery brand GIVA raises $100M from Multiples PE",
+      "url": "https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe",
+      "date": "2026-11-03",
+      "detail": "via YourStory"
     },
     {
       "type": "eng_spike",
