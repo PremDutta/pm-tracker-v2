@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-13T14:02:33.879Z",
+  "scannedAt": "2026-11-13T23:19:02.373Z",
   "roles": {
     "Amazon": [
       {
@@ -19,20 +19,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10555430",
-        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
-        "level": "group",
-        "firstSeen": "2026-10-23"
-      },
-      {
         "id": "amazon-10578219",
         "title": "Principal Product Manager- Technical, Amazon Finance Technology",
         "location": "Gurugram, Haryana, IND",
         "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
         "level": "group",
         "firstSeen": "2026-11-03"
+      },
+      {
+        "id": "amazon-10555430",
+        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
+        "level": "group",
+        "firstSeen": "2026-10-23"
       },
       {
         "id": "amazon-10563526",
@@ -796,14 +796,6 @@
         "location": "India",
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801074",
         "level": "pm",
-        "firstSeen": "2026-11-12"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210796769",
-        "title": "Product Owner/Product Delivery – Senior Associate",
-        "location": "Mumbai, Maharashtra, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796769",
-        "level": "senior",
         "firstSeen": "2026-11-12"
       },
       {
@@ -1707,6 +1699,24 @@
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Technical-Product-Manager_REF087589W",
         "level": "pm",
         "firstSeen": "2026-10-27"
+      }
+    ],
+    "Wells Fargo": [
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330",
+        "title": "Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-581330",
+        "level": "pm",
+        "firstSeen": "2026-11-13"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Senior-Digital-Product-Manager---Platform-Product-Management_R-579303-1",
+        "title": "Senior Digital Product Manager - Platform Product Management",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Digital-Product-Manager---Platform-Product-Management_R-579303-1",
+        "level": "senior",
+        "firstSeen": "2026-11-13"
       }
     ],
     "Wing Assistant (M32 AI)": [

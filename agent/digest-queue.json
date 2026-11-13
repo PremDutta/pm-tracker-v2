@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "eightfold-microsoft.com-1970393557016611",
-      "title": "Senior Product Manager",
-      "company": "Microsoft",
-      "location": "India, Telangana, Hyderabad",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
-      "source": "Microsoft careers",
-      "queuedOn": "2026-10-07"
-    },
-    {
-      "id": "vc-accel-95987613",
-      "title": "Senior Product Manager - IT Operations",
-      "company": "Atlassian",
-      "location": "Bengaluru, Karnataka, India, Remote",
-      "url": "https://www.atlassian.com/company/careers/details/27326",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-07"
-    },
-    {
-      "id": "workday-adobe-/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407",
-      "title": "Product Manager (Growth - B2B Enterprise)",
-      "company": "Adobe",
-      "location": "Bangalore",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407",
-      "source": "Workday (Adobe)",
-      "queuedOn": "2026-10-07"
-    },
-    {
       "id": "vc-lightspeed-445868",
       "title": "Associate Product Manager",
       "company": "Stable Money",
@@ -3626,15 +3599,36 @@
       "url": "https://boards.greenhouse.io/ethoslife/jobs/8937279002",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "vc-accel-99797518",
+      "title": "Senior Product Manager",
+      "company": "Freshworks",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000161428419",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-14"
+    },
+    {
+      "id": "vc-accel-99797525",
+      "title": "Staff Product Manager",
+      "company": "Freshworks",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000161428139",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-14"
+    },
+    {
+      "id": "vc-accel-99723288",
+      "title": "Product Manager",
+      "company": "Plex Systems, Inc.",
+      "location": "Pune, Maharashtra, India",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Product-Manager_R26-8548",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-14"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Zluri",
-      "date": "2026-10-14",
-      "detail": "8 engineering openings vs a usual 3"
-    },
     {
       "type": "reopened",
       "company": "Wells Fargo",
@@ -4360,6 +4354,15 @@
       "company": "Skyroot Aerospace",
       "date": "2026-11-13",
       "detail": "10 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-13",
+      "title": "Director, Regional Product Management",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161586219",
+      "id": "smartrecruiters-ServiceNow-744000161586219",
+      "detail": "closed 2026-10-27, reposted today"
     }
   ],
   "reminders": {}
