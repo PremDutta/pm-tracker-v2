@@ -615,7 +615,7 @@
           "eng": 31
         },
         "2026-11-13": {
-          "total": 71,
+          "total": 70,
           "eng": 31
         }
       },
@@ -2187,7 +2187,7 @@
           "eng": 38
         },
         "2026-11-13": {
-          "total": 130,
+          "total": 128,
           "eng": 38
         }
       },
@@ -2812,8 +2812,8 @@
           "eng": 58
         },
         "2026-11-13": {
-          "total": 160,
-          "eng": 58
+          "total": 165,
+          "eng": 59
         }
       },
       "pm": {
@@ -2961,7 +2961,7 @@
           "eng": 440
         },
         "2026-11-13": {
-          "total": 827,
+          "total": 830,
           "eng": 437
         }
       },
@@ -4033,7 +4033,7 @@
           "eng": 5
         },
         "2026-11-13": {
-          "total": 49,
+          "total": 48,
           "eng": 5
         }
       },
@@ -4062,7 +4062,8 @@
             "lever-meesho-4891a891-f431-4e98-99ae-0e31a21f0190",
             "lever-meesho-494d8ba6-22b6-467f-837b-8af9c1aee377"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-13",
+          "closedOn": "2026-11-13"
         },
         "product manager platforms": {
           "ids": [
@@ -5085,8 +5086,8 @@
           "eng": 5
         },
         "2026-11-13": {
-          "total": 21,
-          "eng": 5
+          "total": 24,
+          "eng": 6
         }
       },
       "pm": {
@@ -6686,8 +6687,8 @@
           "eng": 5
         },
         "2026-11-13": {
-          "total": 35,
-          "eng": 5
+          "total": 34,
+          "eng": 4
         }
       },
       "pm": {
@@ -6842,7 +6843,8 @@
       "pm": {
         "staff product manager": {
           "ids": [
-            "smartrecruiters-freshworks-744000150936730"
+            "smartrecruiters-freshworks-744000150936730",
+            "smartrecruiters-freshworks-744000161428139"
           ],
           "lastSeen": "2026-11-13"
         },
@@ -6856,6 +6858,12 @@
         "senior director ai platform": {
           "ids": [
             "smartrecruiters-freshworks-744000158845489"
+          ],
+          "lastSeen": "2026-11-13"
+        },
+        "senior product manager": {
+          "ids": [
+            "smartrecruiters-freshworks-744000161428419"
           ],
           "lastSeen": "2026-11-13"
         }
@@ -6984,8 +6992,8 @@
           "eng": 22
         },
         "2026-11-13": {
-          "total": 71,
-          "eng": 22
+          "total": 70,
+          "eng": 21
         }
       },
       "pm": {
@@ -9100,8 +9108,7 @@
           "ids": [
             "oracle-jpmc.fa.oraclecloud.com-210776755"
           ],
-          "lastSeen": "2026-11-09",
-          "closedOn": "2026-11-09"
+          "lastSeen": "2026-11-13"
         },
         "product manager capture controls": {
           "ids": [
@@ -9247,7 +9254,7 @@
           "eng": 7
         },
         "2026-11-13": {
-          "total": 21,
+          "total": 20,
           "eng": 7
         }
       },
@@ -9384,7 +9391,7 @@
         },
         "2026-11-13": {
           "total": 100,
-          "eng": 7
+          "eng": 6
         }
       },
       "pm": {
@@ -10098,7 +10105,7 @@
           "eng": 9
         },
         "2026-11-13": {
-          "total": 201,
+          "total": 202,
           "eng": 9
         }
       },
@@ -10117,7 +10124,8 @@
         },
         "product management lending product experience 4 8 yrs": {
           "ids": [
-            "lever-paytm-75992181-c0d0-44e7-805a-6dddfd0fe23b"
+            "lever-paytm-75992181-c0d0-44e7-805a-6dddfd0fe23b",
+            "lever-paytm-f24d29df-a4ad-4991-ae78-1c5c24c63c75"
           ],
           "lastSeen": "2026-11-13"
         },
@@ -10191,6 +10199,12 @@
         "product management product manager ii travel": {
           "ids": [
             "lever-paytm-cf1076c8-e8be-4fc4-8112-aa55051de742"
+          ],
+          "lastSeen": "2026-11-13"
+        },
+        "product management lending product experience 5 12 yrs": {
+          "ids": [
+            "lever-paytm-75992181-c0d0-44e7-805a-6dddfd0fe23b"
           ],
           "lastSeen": "2026-11-13"
         }
@@ -10320,7 +10334,7 @@
         },
         "2026-11-13": {
           "total": 100,
-          "eng": 25
+          "eng": 26
         }
       },
       "pm": {
@@ -10496,7 +10510,7 @@
           "eng": 2
         },
         "2026-11-13": {
-          "total": 26,
+          "total": 25,
           "eng": 2
         }
       },
@@ -11103,7 +11117,7 @@
         },
         "2026-11-13": {
           "total": 100,
-          "eng": 31
+          "eng": 26
         }
       },
       "pm": {
@@ -12022,8 +12036,8 @@
           "eng": 74
         },
         "2026-11-13": {
-          "total": 89,
-          "eng": 74
+          "total": 90,
+          "eng": 75
         }
       },
       "pm": {}
@@ -12834,7 +12848,7 @@
         },
         "2026-11-13": {
           "total": 115,
-          "eng": 30
+          "eng": 31
         }
       },
       "pm": {
@@ -13019,7 +13033,7 @@
           "eng": 1
         },
         "2026-11-13": {
-          "total": 16,
+          "total": 18,
           "eng": 1
         }
       },
@@ -13070,6 +13084,18 @@
           ],
           "lastSeen": "2026-11-03",
           "closedOn": "2026-11-03"
+        },
+        "fund accounting director product support services im": {
+          "ids": [
+            "eightfold-morganstanley.com-549800817695"
+          ],
+          "lastSeen": "2026-11-13"
+        },
+        "trade support director product support service isg": {
+          "ids": [
+            "eightfold-morganstanley.com-549801119307"
+          ],
+          "lastSeen": "2026-11-13"
         }
       }
     },
@@ -13196,7 +13222,7 @@
           "eng": 8
         },
         "2026-11-13": {
-          "total": 54,
+          "total": 56,
           "eng": 8
         }
       },
@@ -13345,7 +13371,7 @@
           "eng": 7
         },
         "2026-11-13": {
-          "total": 28,
+          "total": 27,
           "eng": 7
         }
       },
@@ -13392,7 +13418,8 @@
             "workday-target-/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
             "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-13",
+          "closedOn": "2026-11-13"
         },
         "sr product manager marketplace": {
           "ids": [
@@ -13544,7 +13571,7 @@
           "eng": 11
         },
         "2026-11-13": {
-          "total": 29,
+          "total": 30,
           "eng": 11
         }
       },
@@ -13689,7 +13716,7 @@
         },
         "2026-11-13": {
           "total": 78,
-          "eng": 47
+          "eng": 45
         }
       },
       "pm": {
@@ -14195,8 +14222,8 @@
           "eng": 17
         },
         "2026-11-13": {
-          "total": 62,
-          "eng": 17
+          "total": 65,
+          "eng": 18
         }
       },
       "pm": {
@@ -14447,7 +14474,7 @@
           "eng": 44
         },
         "2026-11-13": {
-          "total": 83,
+          "total": 82,
           "eng": 45
         }
       },
@@ -14597,8 +14624,8 @@
           "eng": 41
         },
         "2026-11-13": {
-          "total": 199,
-          "eng": 41
+          "total": 198,
+          "eng": 40
         }
       },
       "pm": {
@@ -14857,10 +14884,6 @@
     },
     "Microsoft": {
       "daily": {
-        "2026-10-13": {
-          "total": 72,
-          "eng": 35
-        },
         "2026-10-14": {
           "total": 72,
           "eng": 35
@@ -14968,6 +14991,10 @@
         "2026-11-12": {
           "total": 58,
           "eng": 28
+        },
+        "2026-11-13": {
+          "total": 58,
+          "eng": 28
         }
       },
       "pm": {
@@ -14982,7 +15009,7 @@
             "eightfold-microsoft.com-1970393557041943",
             "eightfold-microsoft.com-1970393557040071"
           ],
-          "lastSeen": "2026-11-12"
+          "lastSeen": "2026-11-13"
         },
         "principal product manager": {
           "ids": [
@@ -14995,7 +15022,7 @@
             "eightfold-microsoft.com-1970393557038797",
             "eightfold-microsoft.com-1970393557040068"
           ],
-          "lastSeen": "2026-11-12"
+          "lastSeen": "2026-11-13"
         },
         "product manager ii": {
           "ids": [
@@ -15004,7 +15031,7 @@
             "eightfold-microsoft.com-1970393557038894",
             "eightfold-microsoft.com-1970393557041935"
           ],
-          "lastSeen": "2026-11-12"
+          "lastSeen": "2026-11-13"
         },
         "principal product management": {
           "ids": [
@@ -15031,7 +15058,7 @@
           "ids": [
             "eightfold-microsoft.com-1970393557047351"
           ],
-          "lastSeen": "2026-11-12"
+          "lastSeen": "2026-11-13"
         }
       }
     },
@@ -15729,8 +15756,8 @@
           "eng": 559
         },
         "2026-11-13": {
-          "total": 906,
-          "eng": 559
+          "total": 905,
+          "eng": 558
         }
       },
       "pm": {
@@ -16052,7 +16079,7 @@
           "eng": 22
         },
         "2026-11-13": {
-          "total": 39,
+          "total": 38,
           "eng": 22
         }
       },
@@ -18829,7 +18856,7 @@
         },
         "2026-11-13": {
           "total": 200,
-          "eng": 124
+          "eng": 126
         }
       },
       "pm": {
@@ -19004,7 +19031,7 @@
           "eng": 46
         },
         "2026-11-13": {
-          "total": 180,
+          "total": 181,
           "eng": 45
         }
       },
@@ -19216,8 +19243,8 @@
           "eng": 242
         },
         "2026-11-13": {
-          "total": 719,
-          "eng": 242
+          "total": 717,
+          "eng": 239
         }
       },
       "pm": {
@@ -19674,7 +19701,7 @@
           "eng": 7
         },
         "2026-11-13": {
-          "total": 42,
+          "total": 41,
           "eng": 7
         }
       },
@@ -21501,6 +21528,18 @@
             "ashby-airwallex-9f8b52f7-cad6-40d1-9f98-2f2ed0cb3905"
           ],
           "lastSeen": "2026-11-13"
+        },
+        "product lead financial markets financial platform": {
+          "ids": [
+            "ashby-airwallex-07055859-7ded-4c23-8e2d-fe67c96ea8da"
+          ],
+          "lastSeen": "2026-11-13"
+        },
+        "product lead issuing": {
+          "ids": [
+            "ashby-airwallex-897f9dc2-b3ee-4207-b60c-2db04c515a40"
+          ],
+          "lastSeen": "2026-11-13"
         }
       }
     },
@@ -22085,7 +22124,7 @@
         },
         "2026-11-13": {
           "total": 100,
-          "eng": 35
+          "eng": 34
         }
       },
       "pm": {
@@ -22841,7 +22880,7 @@
           "eng": 4
         },
         "2026-11-13": {
-          "total": 37,
+          "total": 35,
           "eng": 4
         }
       },
@@ -23388,7 +23427,7 @@
           "eng": 73
         },
         "2026-11-13": {
-          "total": 251,
+          "total": 249,
           "eng": 73
         }
       },
@@ -24191,8 +24230,8 @@
           "eng": 16
         },
         "2026-11-13": {
-          "total": 48,
-          "eng": 16
+          "total": 47,
+          "eng": 15
         }
       },
       "pm": {
@@ -24584,7 +24623,7 @@
         },
         "2026-11-13": {
           "total": 100,
-          "eng": 25
+          "eng": 28
         }
       },
       "pm": {
@@ -24606,7 +24645,8 @@
           "ids": [
             "smartrecruiters-wise-744000159671616"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-13",
+          "closedOn": "2026-11-13"
         },
         "product lead wise for banks": {
           "ids": [

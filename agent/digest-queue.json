@@ -1,69 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-95924777",
-      "title": "Assistant Technical Product Manager 1 (Mumbai, IN)",
-      "company": "Wibmo",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://careers.payu.in/PayU/job/Mumbai-Assistant-Technical-Product-Manager-1/54172880/",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "vc-accel-75678188",
-      "title": "Senior Product Manager (Conversational AI)",
-      "company": "Spyne",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://spyneai.keka.com/careers/jobdetails/136045",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "vc-peakxv-6217968004",
-      "title": "Product Manager",
-      "company": "Twin Health",
-      "location": "Chennai, Tamil Nadu",
-      "url": "https://job-boards.greenhouse.io/twinhealth/jobs/6217968004",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-06"
-    },
-    {
-      "id": "greenhouse-asana-8260059",
-      "title": "Product Manager",
-      "company": "Asana",
-      "location": "Vancouver, BC",
-      "url": "https://www.asana.com/jobs/apply/8260059?gh_jid=8260059",
-      "source": "Greenhouse (Asana)",
-      "queuedOn": "2026-10-07"
-    },
-    {
-      "id": "greenhouse-asana-8194540",
-      "title": "Product Manager",
-      "company": "Asana",
-      "location": "San Francisco",
-      "url": "https://www.asana.com/jobs/apply/8194540?gh_jid=8194540",
-      "source": "Greenhouse (Asana)",
-      "queuedOn": "2026-10-07"
-    },
-    {
-      "id": "ashby-openai-a8210588-a178-4afe-91e7-1fa2d269d2e8",
-      "title": "Product Manager, Financial Services",
-      "company": "OpenAI",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/a8210588-a178-4afe-91e7-1fa2d269d2e8",
-      "source": "Ashby (OpenAI)",
-      "queuedOn": "2026-10-07"
-    },
-    {
-      "id": "ashby-ramp-e0b64893-0459-4d84-ac4f-7b50966ef024",
-      "title": "Product Manager | Growth",
-      "company": "Ramp",
-      "location": "New York, NY (HQ)",
-      "url": "https://jobs.ashbyhq.com/ramp/e0b64893-0459-4d84-ac4f-7b50966ef024",
-      "source": "Ashby (Ramp)",
-      "queuedOn": "2026-10-07"
-    },
-    {
       "id": "vc-peakxv-4736585005",
       "title": "Senior Product Manager",
       "company": "Razorpay",
@@ -3625,6 +3562,69 @@
       "location": "Bengaluru, Karnataka, IND",
       "url": "https://www.amazon.jobs/en/jobs/10603954/senior-product-manager-pv-commerce-int-l-product",
       "source": "Amazon careers",
+      "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "amazon-10601873",
+      "title": "Sr. Product Manager - Technical, Amazon Business",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10601873/sr-product-manager-technical-amazon-business",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "smartrecruiters-freshworks-744000161428419",
+      "title": "Senior Product Manager",
+      "company": "Freshworks",
+      "location": "Chennai, , India",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000161428419",
+      "source": "SmartRecruiters (Freshworks)",
+      "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "smartrecruiters-freshworks-744000161428139",
+      "title": "Staff Product Manager",
+      "company": "Freshworks",
+      "location": "Chennai, , India",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000161428139",
+      "source": "SmartRecruiters (Freshworks)",
+      "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "eightfold-morganstanley.com-549800817695",
+      "title": "Fund Accounting_Director_Product Support & Services IM",
+      "company": "Morgan Stanley",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://morganstanley.eightfold.ai/careers/job/549800817695",
+      "source": "Morgan Stanley careers",
+      "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "eightfold-morganstanley.com-549801119307",
+      "title": "Trade Support_Director_Product Support & Service ISG",
+      "company": "Morgan Stanley",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://morganstanley.eightfold.ai/careers/job/549801119307",
+      "source": "Morgan Stanley careers",
+      "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "vc-peakxv-744000161428139",
+      "title": "Staff Product Manager",
+      "company": "Freshworks",
+      "location": "Chennai, IN",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000161428139-staff-product-manager",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "vc-peakxv-744000161428419",
+      "title": "Senior Product Manager",
+      "company": "Freshworks",
+      "location": "Chennai, IN",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000161428419-senior-product-manager",
+      "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-11-13"
     }
   ],
