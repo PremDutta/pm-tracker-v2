@@ -2,6 +2,20 @@
   "signals": [
     {
       "type": "funding",
+      "company": "Desible.ai",
+      "title": "Desible.ai raises Rs 32 Cr led by Prime Venture Partners",
+      "url": "https://entrackr.com/snippets/desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12805523",
+      "date": "2026-11-13",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-13",
+      "detail": "10 engineering openings vs a usual 5"
+    },
+    {
+      "type": "funding",
       "company": "Hundo Pizza",
       "title": "Hundo Pizza raises maiden institutional round led by Titan Capital",
       "url": "https://entrackr.com/snippets/hundo-pizza-raises-maiden-institutional-round-led-by-titan-capital-12803425",
@@ -1601,118 +1615,6 @@
       "company": "Zluri",
       "date": "2026-10-14",
       "detail": "8 engineering openings vs a usual 3"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-13",
-      "detail": "145 engineering openings vs a usual 36"
-    },
-    {
-      "type": "funding",
-      "company": "Clueso",
-      "title": "AI video platform Clueso raises $10 Mn in Series A round led by Dharana Capital",
-      "url": "https://entrackr.com/news/ai-video-platform-clueso-raises-10-mn-in-series-a-round-led-by-dharana-capital-12672619",
-      "date": "2026-10-13",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Clueso",
-      "title": "Agentic video startup Clueso raises $10M in Series A funding round",
-      "url": "https://yourstory.com/2026/10/agentic-video-startup-clueso-raises-series-a-funding",
-      "date": "2026-10-13",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "GreenCell Mobility",
-      "title": "GreenCell Mobility Raises ₹330 Cr To Expand Electric Bus Fleet",
-      "url": "https://inc42.com/buzz/greencell-mobility-raises-%e2%82%b9330-cr-to-expand-electric-bus-fleet/",
-      "date": "2026-10-13",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "reopened",
-      "company": "JPMorgan Chase",
-      "date": "2026-10-13",
-      "title": "Product Manager",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783031",
-      "id": "oracle-jpmc.fa.oraclecloud.com-210783031",
-      "detail": "closed 2026-10-04, reposted today"
-    },
-    {
-      "type": "funding",
-      "company": "Mesa School",
-      "title": "Mesa School Bags ₹110 Cr To Launch New On-Campus Courses",
-      "url": "https://inc42.com/buzz/mesa-school-bags-%e2%82%b9110-cr-to-launch-new-on-campus-courses/",
-      "date": "2026-10-13",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "Mesa School of Business",
-      "title": "Mesa School of Business raises Rs 110 Cr in equity and debt",
-      "url": "https://entrackr.com/news/mesa-school-of-business-raises-rs-110-cr-in-equity-and-debt-12670731",
-      "date": "2026-10-13",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Mesa School of Business",
-      "title": "Mesa School of Business raises Rs 110 Cr co-led by Dharana Capital and Elevation Capital",
-      "url": "https://yourstory.com/2026/10/mesa-school-of-business-raises-rs-110-crore-co-led-dharana-capital-elevation-capital",
-      "date": "2026-10-13",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "NuSynth",
-      "title": "NuSynth raises Rs 36.5 Cr in seed round led by Avaana Capital, Shastra VC",
-      "url": "https://entrackr.com/snippets/nusynth-raises-rs-365-cr-in-seed-round-led-by-avaana-capital-shastra-vc-12671123",
-      "date": "2026-10-13",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "ThinkMetal",
-      "title": "Manufacturing Startup ThinkMetal Raises ₹27 Cr To Initiate Commercialisation",
-      "url": "https://inc42.com/buzz/manufacturing-startup-thinkmetal-raises-%e2%82%b927-cr-to-initiate-commercialisation/",
-      "date": "2026-10-13",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "Toothsi parent MakeO",
-      "title": "Toothsi parent MakeO raises Rs 90 Cr led by Singularity AMC",
-      "url": "https://entrackr.com/news/toothsi-parent-makeo-raises-rs-90-cr-led-by-singularity-amc-12673336",
-      "date": "2026-10-13",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Toothsi Parent MakeO",
-      "title": "Toothsi Parent MakeO Raises ₹90 Cr For India, Southeast Asia Expansion",
-      "url": "https://inc42.com/buzz/toothsi-parent-makeo-raises-%e2%82%b990-cr-for-india-southeast-asia-expansion/",
-      "date": "2026-10-13",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "reopened",
-      "company": "Wells Fargo",
-      "date": "2026-10-13",
-      "title": "Lead Digital Product Manager - CIAM",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
-      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
-      "detail": "closed 2026-10-03, reposted today"
-    },
-    {
-      "type": "funding",
-      "company": "wudhomes",
-      "title": "AJVC leads pre-seed round in home-furnishing startup wudhomes",
-      "url": "https://entrackr.com/snippets/ajvc-leads-pre-seed-round-in-home-furnishing-startup-wudhomes-12671248",
-      "date": "2026-10-13",
-      "detail": "via Entrackr"
     }
   ]
 }

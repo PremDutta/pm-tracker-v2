@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "keka-spyneai-136045",
-      "title": "Senior Product Manager (Conversational AI)",
-      "company": "Spyne",
-      "location": "Gurgaon",
-      "url": "https://spyneai.keka.com/careers/jobdetails/136045",
-      "source": "Keka (Spyne)",
-      "queuedOn": "2026-10-06"
-    },
-    {
       "id": "vc-accel-95924777",
       "title": "Assistant Technical Product Manager 1 (Mumbai, IN)",
       "company": "Wibmo",
@@ -3626,15 +3617,18 @@
       "url": "https://app.pyjamahr.com/careers?company=ZOCAAI+Technologies+Private+Limited&job_id=427361&company_uuid=6FFECB46A0&utm_source=DIRECT&source=DIRECT&isHeaderVisible=true",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "amazon-10603954",
+      "title": "Senior Product Manager, PV Commerce & Int'l Product",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10603954/senior-product-manager-pv-commerce-int-l-product",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-13"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-14",
-      "detail": "128 engineering openings vs a usual 36"
-    },
     {
       "type": "eng_spike",
       "company": "Zluri",
@@ -4360,6 +4354,12 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161255939",
       "id": "smartrecruiters-ServiceNow-744000161255939",
       "detail": "closed 2026-10-12, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-13",
+      "detail": "10 engineering openings vs a usual 5"
     }
   ],
   "reminders": {}
