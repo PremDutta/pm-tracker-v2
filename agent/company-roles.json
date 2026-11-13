@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-13T09:51:07.345Z",
+  "scannedAt": "2026-11-13T14:02:33.879Z",
   "roles": {
     "Amazon": [
       {
@@ -307,14 +307,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10523477",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10523477/sr-product-manager-tech-india-ads",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10531340",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
@@ -327,6 +319,14 @@
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10523477",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10523477/sr-product-manager-tech-india-ads",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -1225,14 +1225,6 @@
         "firstSeen": "2026-11-10"
       },
       {
-        "id": "oracle-eeho.fa.us2.oraclecloud.com-349703",
-        "title": "Product Manager/Strategy 3-ProdDev",
-        "location": "BENGALURU, KARNATAKA, India",
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349703",
-        "level": "pm",
-        "firstSeen": "2026-11-06"
-      },
-      {
         "id": "oracle-eeho.fa.us2.oraclecloud.com-347873",
         "title": "Senior Product Manager- SCM/Ecommerce",
         "location": "HYDERABAD, TELANGANA, India",
@@ -1451,12 +1443,12 @@
         "firstSeen": "2026-10-29"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
         "level": "senior",
-        "firstSeen": "2026-11-10"
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
@@ -1467,12 +1459,12 @@
         "firstSeen": "2026-11-10"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
         "level": "senior",
-        "firstSeen": "2026-10-15"
+        "firstSeen": "2026-11-10"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
@@ -1655,6 +1647,14 @@
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
         "level": "leadership",
         "firstSeen": "2026-11-05"
+      },
+      {
+        "id": "workday-target-/job/BangaloreIndia/Product-Manager_R0000480795",
+        "title": "Product Manager",
+        "location": "Bangalore,India",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager_R0000480795",
+        "level": "pm",
+        "firstSeen": "2026-11-13"
       },
       {
         "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Product-Manager_R0000475834",
@@ -1895,6 +1895,16 @@
         "url": "https://job-boards.greenhouse.io/zenoti/jobs/7729933003",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      }
+    ],
+    "Zensar": [
+      {
+        "id": "oracle-fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com-152758",
+        "title": "MSD  365-Functional ERP Product Owner",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/152758",
+        "level": "pm",
+        "firstSeen": "2026-11-13"
       }
     ],
     "Zeta": [

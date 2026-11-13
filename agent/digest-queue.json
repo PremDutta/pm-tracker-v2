@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-peakxv-4736585005",
-      "title": "Senior Product Manager",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-07"
-    },
-    {
-      "id": "vc-peakxv-4715389005",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-07"
-    },
-    {
       "id": "eightfold-microsoft.com-1970393557016611",
       "title": "Senior Product Manager",
       "company": "Microsoft",
@@ -3625,6 +3607,24 @@
       "location": "Chennai, IN",
       "url": "https://jobs.smartrecruiters.com/Freshworks/744000161428419-senior-product-manager",
       "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "workday-target-/job/BangaloreIndia/Product-Manager_R0000480795",
+      "title": "Product Manager",
+      "company": "Target India",
+      "location": "Bangalore,India",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager_R0000480795",
+      "source": "Workday (Target India)",
+      "queuedOn": "2026-11-13"
+    },
+    {
+      "id": "vc-accel-99720588",
+      "title": "Senior Product Manager, CX Platforms",
+      "company": "Ethos Life",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/ethoslife/jobs/8937279002",
+      "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-13"
     }
   ],
