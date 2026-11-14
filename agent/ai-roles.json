@@ -23,6 +23,17 @@
       "firstSeen": "2026-11-14"
     },
     {
+      "id": "eightfold-qualcomm.com-446721996687",
+      "title": "Staff Product Manager - Smartphones and AI",
+      "company": "Qualcomm",
+      "location": "Hyderabad, Telangāna, India",
+      "url": "https://careers.qualcomm.com/careers/job/446721996687",
+      "source": "Qualcomm careers",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
       "id": "sf-careers.wipro.com-213300",
       "title": "Associate Product Manager - AI-Powered Collections Platform",
       "company": "Wipro",
@@ -106,17 +117,6 @@
       "location": "Bangalore",
       "url": "https://www.instahyre.com/job-441247-product-manager-ai-agents-at-bridgetown-research-bangalore/",
       "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
       "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-11-13"
@@ -207,17 +207,6 @@
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "vc-peakxv-137246",
-      "title": "AI PRODUCT MANAGER",
-      "company": "TestMu",
-      "location": "Noida, UP, India",
-      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
       "firstSeen": "2026-11-13"
     },
     {

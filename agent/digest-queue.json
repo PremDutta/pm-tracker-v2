@@ -1,42 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-autodesk-/job/Bengaluru-IND/Sr-Product-Manager---Case-Management---Agent-Experience_26WD101159",
-      "title": "Sr. Product Manager - Case Management & Agent Experience",
-      "company": "Autodesk",
-      "location": "Bengaluru, IND",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Sr-Product-Manager---Case-Management---Agent-Experience_26WD101159",
-      "source": "Workday (Autodesk)",
-      "queuedOn": "2026-10-07"
-    },
-    {
-      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Senior-Technical-Product-Manager_1215737",
-      "title": "Senior Technical Product Manager",
-      "company": "HPE",
-      "location": "Bengaluru, Karnātaka, India",
-      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Senior-Technical-Product-Manager_1215737",
-      "source": "Workday (HPE)",
-      "queuedOn": "2026-10-07"
-    },
-    {
-      "id": "greenhouse-inmobi-8232722",
-      "title": "Product Manager - Programmatic Monetization",
-      "company": "InMobi",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8232722",
-      "source": "Greenhouse (InMobi)",
-      "queuedOn": "2026-10-07"
-    },
-    {
-      "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
-      "title": "Principal Product Manager",
-      "company": "Target India",
-      "location": "Bangalore,India",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
-      "source": "Workday (Target India)",
-      "queuedOn": "2026-10-07"
-    },
-    {
       "id": "greenhouse-anthropic-5434361008",
       "title": "Product Manager, Billing",
       "company": "Anthropic",
@@ -3625,6 +3589,42 @@
       "location": "Hyderabad, Telangana, IND",
       "url": "https://www.amazon.jobs/en/jobs/10605156/senior-manager-product-management-technical",
       "source": "Amazon careers",
+      "queuedOn": "2026-11-14"
+    },
+    {
+      "id": "vc-lightspeed-4749341005",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-11-14"
+    },
+    {
+      "id": "vc-lightspeed-4751768005",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-11-14"
+    },
+    {
+      "id": "vc-lightspeed-4749335005",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-11-14"
+    },
+    {
+      "id": "vc-lightspeed-4749337005",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
+      "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-11-14"
     }
   ],
