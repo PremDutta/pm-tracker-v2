@@ -349,7 +349,7 @@
         },
         "2026-11-14": {
           "total": 670,
-          "eng": 277
+          "eng": 276
         }
       },
       "pm": {
@@ -2963,7 +2963,7 @@
           "eng": 437
         },
         "2026-11-14": {
-          "total": 838,
+          "total": 839,
           "eng": 438
         }
       },
@@ -5767,10 +5767,6 @@
     },
     "Cisco": {
       "daily": {
-        "2026-10-14": {
-          "total": 11,
-          "eng": 5
-        },
         "2026-10-15": {
           "total": 10,
           "eng": 5
@@ -5888,6 +5884,10 @@
           "eng": 7
         },
         "2026-11-13": {
+          "total": 11,
+          "eng": 7
+        },
+        "2026-11-14": {
           "total": 11,
           "eng": 7
         }
@@ -7807,10 +7807,6 @@
     },
     "Lowe's India": {
       "daily": {
-        "2026-10-14": {
-          "total": 14,
-          "eng": 4
-        },
         "2026-10-15": {
           "total": 14,
           "eng": 4
@@ -7930,6 +7926,10 @@
         "2026-11-13": {
           "total": 15,
           "eng": 4
+        },
+        "2026-11-14": {
+          "total": 15,
+          "eng": 4
         }
       },
       "pm": {
@@ -7944,10 +7944,6 @@
     },
     "Fractal": {
       "daily": {
-        "2026-10-14": {
-          "total": 47,
-          "eng": 31
-        },
         "2026-10-15": {
           "total": 47,
           "eng": 31
@@ -8067,6 +8063,10 @@
         "2026-11-13": {
           "total": 42,
           "eng": 33
+        },
+        "2026-11-14": {
+          "total": 42,
+          "eng": 33
         }
       },
       "pm": {
@@ -8081,10 +8081,6 @@
     },
     "Adobe": {
       "daily": {
-        "2026-10-14": {
-          "total": 66,
-          "eng": 21
-        },
         "2026-10-15": {
           "total": 63,
           "eng": 21
@@ -8204,6 +8200,10 @@
         "2026-11-13": {
           "total": 41,
           "eng": 15
+        },
+        "2026-11-14": {
+          "total": 40,
+          "eng": 15
         }
       },
       "pm": {
@@ -8218,7 +8218,7 @@
           "ids": [
             "workday-adobe-/job/Noida/Senior-Product-Manager_R167941"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "internal product manager 3 sales performance management": {
           "ids": [
@@ -10522,7 +10522,7 @@
           "eng": 2
         },
         "2026-11-14": {
-          "total": 26,
+          "total": 25,
           "eng": 2
         }
       },
@@ -11508,10 +11508,6 @@
     },
     "Mastercard": {
       "daily": {
-        "2026-10-14": {
-          "total": 139,
-          "eng": 73
-        },
         "2026-10-15": {
           "total": 139,
           "eng": 75
@@ -11631,6 +11627,10 @@
         "2026-11-13": {
           "total": 118,
           "eng": 65
+        },
+        "2026-11-14": {
+          "total": 118,
+          "eng": 65
         }
       },
       "pm": {
@@ -11652,7 +11652,7 @@
           "ids": [
             "workday-mastercard-/job/Vancouver-Canada/Principal-Product-Manager--Technical_R-278438"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "senior product manager technical": {
           "ids": [
@@ -11660,7 +11660,7 @@
             "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
             "workday-mastercard-/job/Pune-India/Senior-Product-Manager--Technical_R-290739"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "director product manager disputes": {
           "ids": [
@@ -11677,19 +11677,19 @@
             "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293101",
             "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293436"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "director product management customer acquisition and engagement": {
           "ids": [
             "workday-mastercard-/job/Shanghai-China/Director--Product-Management_R-291279"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "specialist product manager": {
           "ids": [
             "workday-mastercard-/job/Pune-India/Specialist-Product-Manager_R-290356"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "director product management technical ai transformation": {
           "ids": [
@@ -11707,7 +11707,7 @@
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289980",
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-291502"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "manager product management product resilience": {
           "ids": [
@@ -11734,19 +11734,19 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "cyber risk quantification product manager": {
           "ids": [
             "workday-mastercard-/job/Besiktas-Istanbul-Turkey/Cyber-Risk-Quantification-Product-Manager_R-287126"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "lead product manager": {
           "ids": [
             "workday-mastercard-/job/Gurgaon-India/Lead-Product-Manager_R-292425-1"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "consumer credit analytics global product manager specialist": {
           "ids": [
@@ -11759,19 +11759,19 @@
           "ids": [
             "workday-mastercard-/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "senior specialist product manager": {
           "ids": [
             "workday-mastercard-/job/Pune-India/Senior-Specialist-Product-Manager_R-290092"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "lead product manager 2": {
           "ids": [
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "lead product manager tech": {
           "ids": [
@@ -11927,10 +11927,6 @@
     },
     "NVIDIA": {
       "daily": {
-        "2026-10-14": {
-          "total": 99,
-          "eng": 85
-        },
         "2026-10-15": {
           "total": 97,
           "eng": 83
@@ -12050,6 +12046,10 @@
         "2026-11-13": {
           "total": 90,
           "eng": 75
+        },
+        "2026-11-14": {
+          "total": 89,
+          "eng": 74
         }
       },
       "pm": {}
@@ -12614,10 +12614,6 @@
     },
     "VMware/Broadcom": {
       "daily": {
-        "2026-10-14": {
-          "total": 2,
-          "eng": 1
-        },
         "2026-10-15": {
           "total": 2,
           "eng": 1
@@ -12735,6 +12731,10 @@
           "eng": 1
         },
         "2026-11-13": {
+          "total": 2,
+          "eng": 1
+        },
+        "2026-11-14": {
           "total": 2,
           "eng": 1
         }
@@ -13608,10 +13608,6 @@
     },
     "Visa": {
       "daily": {
-        "2026-10-14": {
-          "total": 79,
-          "eng": 46
-        },
         "2026-10-15": {
           "total": 78,
           "eng": 46
@@ -13731,6 +13727,10 @@
         "2026-11-13": {
           "total": 77,
           "eng": 45
+        },
+        "2026-11-14": {
+          "total": 77,
+          "eng": 44
         }
       },
       "pm": {
@@ -13741,7 +13741,7 @@
             "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF089128W-1",
             "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF085044W-1"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "senior product manager platform and gateway": {
           "ids": [
@@ -13752,15 +13752,16 @@
         },
         "sr product manager": {
           "ids": [
-            "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W"
+            "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W",
+            "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF090064W-1"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "technical product manager": {
           "ids": [
             "workday-visa-/job/IN---Bengaluru-India/Technical-Product-Manager_REF087589W"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         }
       }
     },
@@ -14236,7 +14237,7 @@
           "eng": 17
         },
         "2026-11-14": {
-          "total": 66,
+          "total": 64,
           "eng": 17
         }
       },
@@ -14487,7 +14488,7 @@
         },
         "2026-11-14": {
           "total": 76,
-          "eng": 42
+          "eng": 41
         }
       },
       "pm": {
@@ -14901,10 +14902,6 @@
     },
     "Microsoft": {
       "daily": {
-        "2026-10-14": {
-          "total": 72,
-          "eng": 35
-        },
         "2026-10-15": {
           "total": 73,
           "eng": 34
@@ -15012,6 +15009,10 @@
         "2026-11-13": {
           "total": 58,
           "eng": 28
+        },
+        "2026-11-14": {
+          "total": 55,
+          "eng": 28
         }
       },
       "pm": {
@@ -15026,7 +15027,7 @@
             "eightfold-microsoft.com-1970393557041943",
             "eightfold-microsoft.com-1970393557040071"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "principal product manager": {
           "ids": [
@@ -15039,7 +15040,7 @@
             "eightfold-microsoft.com-1970393557038797",
             "eightfold-microsoft.com-1970393557040068"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "product manager ii": {
           "ids": [
@@ -15048,7 +15049,7 @@
             "eightfold-microsoft.com-1970393557038894",
             "eightfold-microsoft.com-1970393557041935"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "principal product management": {
           "ids": [
@@ -15075,7 +15076,7 @@
           "ids": [
             "eightfold-microsoft.com-1970393557047351"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         }
       }
     },
@@ -16482,10 +16483,6 @@
     },
     "Autodesk": {
       "daily": {
-        "2026-10-14": {
-          "total": 28,
-          "eng": 10
-        },
         "2026-10-15": {
           "total": 27,
           "eng": 9
@@ -16603,6 +16600,10 @@
           "eng": 0
         },
         "2026-11-13": {
+          "total": 0,
+          "eng": 0
+        },
+        "2026-11-14": {
           "total": 0,
           "eng": 0
         }
@@ -17831,7 +17832,7 @@
           "eng": 164
         },
         "2026-11-14": {
-          "total": 391,
+          "total": 390,
           "eng": 164
         }
       },
@@ -18001,10 +18002,6 @@
     },
     "Motorola Solutions": {
       "daily": {
-        "2026-10-14": {
-          "total": 65,
-          "eng": 33
-        },
         "2026-10-15": {
           "total": 62,
           "eng": 31
@@ -18124,6 +18121,10 @@
         "2026-11-13": {
           "total": 67,
           "eng": 29
+        },
+        "2026-11-14": {
+          "total": 66,
+          "eng": 29
         }
       },
       "pm": {
@@ -18159,37 +18160,37 @@
           "ids": [
             "workday-motorolasolutions-/job/Bangalore-India/Technical-Product-Manager_R68278"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "technical product manager sensing solutions": {
           "ids": [
             "workday-motorolasolutions-/job/Irvine-CA/Technical-Product-Manager----Electronic-Warfare--EW----Sensing-Solutions-_R69650"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "oracle incentive compensation product owner": {
           "ids": [
             "workday-motorolasolutions-/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R69610"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "director of product management electronic warfare": {
           "ids": [
             "workday-motorolasolutions-/job/Irvine-CA/Director-of-Product-Management---Electronic-Warfare--EW-_R70522"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "director of product management software spectrum dominance": {
           "ids": [
             "workday-motorolasolutions-/job/Irvine-CA/Director-of-Product-Management---Software---Spectrum-Dominance_R70527"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "director of product management tactical communications integrated solutions": {
           "ids": [
             "workday-motorolasolutions-/job/Irvine-CA/Director-of-Product-Management---Tactical-Communications---Integrated-Solutions_R70525"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         }
       }
     },
@@ -18751,10 +18752,6 @@
     },
     "HPE": {
       "daily": {
-        "2026-10-14": {
-          "total": 200,
-          "eng": 125
-        },
         "2026-10-15": {
           "total": 200,
           "eng": 125
@@ -18874,6 +18871,10 @@
         "2026-11-13": {
           "total": 200,
           "eng": 126
+        },
+        "2026-11-14": {
+          "total": 200,
+          "eng": 109
         }
       },
       "pm": {
@@ -18888,7 +18889,7 @@
           "ids": [
             "workday-hpe-/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "product manager support insights": {
           "ids": [
@@ -18908,7 +18909,7 @@
           "ids": [
             "workday-hpe-/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         },
         "senior technical product manager": {
           "ids": [
@@ -18921,7 +18922,7 @@
           "ids": [
             "workday-hpe-/job/Tlaquepaque-Jalisco-Mexico/People-Care-Transformation-Improvement---Scalability-Product-Manager_1212456-1"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         }
       }
     },
@@ -20388,7 +20389,7 @@
           "eng": 33
         },
         "2026-11-14": {
-          "total": 98,
+          "total": 99,
           "eng": 33
         }
       },
@@ -20451,15 +20452,17 @@
             "ashby-uipath-bd2f849d-7704-4911-9b1c-81d826b5742b"
           ],
           "lastSeen": "2026-11-14"
+        },
+        "principal product manager data fabric ontology": {
+          "ids": [
+            "ashby-uipath-d3ef8c17-984f-4138-a853-cca29eaa7133"
+          ],
+          "lastSeen": "2026-11-14"
         }
       }
     },
     "Sprinklr": {
       "daily": {
-        "2026-10-14": {
-          "total": 21,
-          "eng": 2
-        },
         "2026-10-15": {
           "total": 21,
           "eng": 2
@@ -20577,6 +20580,10 @@
           "eng": 2
         },
         "2026-11-13": {
+          "total": 17,
+          "eng": 2
+        },
+        "2026-11-14": {
           "total": 17,
           "eng": 2
         }
@@ -20918,10 +20925,6 @@
     },
     "Zendesk": {
       "daily": {
-        "2026-10-14": {
-          "total": 17,
-          "eng": 4
-        },
         "2026-10-15": {
           "total": 16,
           "eng": 4
@@ -21041,6 +21044,10 @@
         "2026-11-13": {
           "total": 20,
           "eng": 7
+        },
+        "2026-11-14": {
+          "total": 20,
+          "eng": 7
         }
       },
       "pm": {
@@ -21048,7 +21055,7 @@
           "ids": [
             "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R33982"
           ],
-          "lastSeen": "2026-11-13"
+          "lastSeen": "2026-11-14"
         }
       }
     },
@@ -21398,7 +21405,7 @@
           "eng": 127
         },
         "2026-11-14": {
-          "total": 484,
+          "total": 485,
           "eng": 127
         }
       },
@@ -24560,8 +24567,8 @@
           "eng": 2
         },
         "2026-11-14": {
-          "total": 4,
-          "eng": 2
+          "total": 3,
+          "eng": 1
         }
       },
       "pm": {}
@@ -24765,7 +24772,8 @@
             "smartrecruiters-wise-744000158116172",
             "smartrecruiters-wise-744000161181429"
           ],
-          "lastSeen": "2026-11-14"
+          "lastSeen": "2026-11-14",
+          "closedOn": "2026-11-14"
         },
         "principal product manager apac onboarding kyc": {
           "ids": [

@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
       "id": "sf-careers.hcltech.com-177905",
       "title": "AI Product Manager I",
       "company": "HCLTech",
@@ -23,6 +34,72 @@
       "firstSeen": "2026-11-14"
     },
     {
+      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3",
+      "title": "Principal Product Manager - Switching",
+      "company": "HPE",
+      "location": "Bengaluru, Karnātaka, India",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3",
+      "source": "Workday (HPE)",
+      "level": "group",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1",
+      "title": "Sr. Product Owner",
+      "company": "HPE",
+      "location": "Bengaluru, Karnātaka, India",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1",
+      "source": "Workday (HPE)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
+      "title": "Lead Product Management – Technical – AI Transformation",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
+      "source": "Workday (Mastercard)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
+      "title": "Lead Product Manager (AI)-2",
+      "company": "Mastercard",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
+      "source": "Workday (Mastercard)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R69610",
+      "title": "Oracle Incentive Compensation Product Owner",
+      "company": "Motorola Solutions",
+      "location": "Bangalore offsite, India",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R69610",
+      "source": "Workday (Motorola Solutions)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Bangalore-India/Technical-Product-Manager_R68278",
+      "title": "Technical Product Manager",
+      "company": "Motorola Solutions",
+      "location": "Bangalore, India",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Technical-Product-Manager_R68278",
+      "source": "Workday (Motorola Solutions)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-14"
+    },
+    {
       "id": "eightfold-qualcomm.com-446721996687",
       "title": "Staff Product Manager - Smartphones and AI",
       "company": "Qualcomm",
@@ -31,6 +108,28 @@
       "source": "Qualcomm careers",
       "level": "group",
       "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "vc-peakxv-137246",
+      "title": "AI PRODUCT MANAGER",
+      "company": "TestMu",
+      "location": "Noida, UP, India",
+      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "ashby-uipath-d3ef8c17-984f-4138-a853-cca29eaa7133",
+      "title": "Principal Product Manager, Data Fabric & Ontology",
+      "company": "UiPath",
+      "location": "Bangalore - Engineering",
+      "url": "https://jobs.ashbyhq.com/uipath/d3ef8c17-984f-4138-a853-cca29eaa7133",
+      "source": "Ashby (UiPath)",
+      "level": "group",
+      "aiMatch": "company",
       "firstSeen": "2026-11-14"
     },
     {
@@ -108,6 +207,28 @@
       "source": "Wipro careers",
       "level": "pm",
       "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R33982",
+      "title": "Senior Product Manager",
+      "company": "Zendesk",
+      "location": "Pune, India",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R33982",
+      "source": "Workday (Zendesk)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R34220",
+      "title": "Senior Product Manager",
+      "company": "Zendesk",
+      "location": "Pune, India",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R34220",
+      "source": "Workday (Zendesk)",
+      "level": "senior",
+      "aiMatch": "company",
       "firstSeen": "2026-11-14"
     },
     {

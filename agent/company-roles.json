@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-14T13:04:19.657Z",
+  "scannedAt": "2026-11-14T22:02:26.115Z",
   "roles": {
     "Amazon": [
       {
@@ -961,20 +961,20 @@
         "firstSeen": "2026-10-29"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557040068",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040068",
-        "level": "group",
-        "firstSeen": "2026-11-06"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557042009",
         "title": "Principal Product Manager",
         "location": "India, Uttar Pradesh, Noida",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042009",
         "level": "group",
         "firstSeen": "2026-10-20"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557040068",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040068",
+        "level": "group",
+        "firstSeen": "2026-11-06"
       },
       {
         "id": "eightfold-microsoft.com-1970393557041935",
@@ -993,20 +993,12 @@
         "firstSeen": "2026-10-16"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557041943",
+        "id": "eightfold-microsoft.com-1970393557037770",
         "title": "Senior Product Manager",
-        "location": "India, Uttar Pradesh, Noida",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
         "level": "senior",
-        "firstSeen": "2026-10-20"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557041938",
-        "title": "Senior Product Manager",
-        "location": "India, Uttar Pradesh, Noida",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041938",
-        "level": "senior",
-        "firstSeen": "2026-11-06"
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "eightfold-microsoft.com-1970393557070058",
@@ -1025,12 +1017,20 @@
         "firstSeen": "2026-10-28"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557037770",
+        "id": "eightfold-microsoft.com-1970393557041938",
         "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "location": "India, Uttar Pradesh, Noida",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041938",
         "level": "senior",
-        "firstSeen": "2026-10-15"
+        "firstSeen": "2026-11-06"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557041943",
+        "title": "Senior Product Manager",
+        "location": "India, Uttar Pradesh, Noida",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
+        "level": "senior",
+        "firstSeen": "2026-10-20"
       }
     ],
     "Mihup": [
@@ -1403,18 +1403,18 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
-        "level": "pm",
-        "firstSeen": "2026-11-10"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
         "title": "Product Manager II",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+        "level": "pm",
+        "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
         "level": "pm",
         "firstSeen": "2026-11-10"
       },
@@ -1427,18 +1427,18 @@
         "firstSeen": "2026-10-29"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
-        "level": "senior",
-        "firstSeen": "2026-11-10"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
+        "level": "senior",
+        "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
         "level": "senior",
         "firstSeen": "2026-11-10"
       },
@@ -1657,6 +1657,16 @@
         "firstSeen": "2026-11-03"
       }
     ],
+    "UiPath": [
+      {
+        "id": "ashby-uipath-d3ef8c17-984f-4138-a853-cca29eaa7133",
+        "title": "Principal Product Manager, Data Fabric & Ontology",
+        "location": "Bangalore - Engineering",
+        "url": "https://jobs.ashbyhq.com/uipath/d3ef8c17-984f-4138-a853-cca29eaa7133",
+        "level": "group",
+        "firstSeen": "2026-11-14"
+      }
+    ],
     "Vedantu": [
       {
         "id": "zoho-vedantu-95146000003170110",
@@ -1675,6 +1685,14 @@
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF089128W-1",
         "level": "pm",
         "firstSeen": "2026-10-09"
+      },
+      {
+        "id": "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF090064W-1",
+        "title": "Sr Product Manager",
+        "location": "IN - Bengaluru, India",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Product-Manager_REF090064W-1",
+        "level": "senior",
+        "firstSeen": "2026-11-14"
       },
       {
         "id": "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W",
@@ -1948,7 +1966,7 @@
   },
   "lastRead": {
     "Accenture": "2026-11-14",
-    "Adobe": "2026-11-13",
+    "Adobe": "2026-11-14",
     "Adyen": "2026-11-14",
     "AI71": "2026-11-14",
     "Airwallex": "2026-11-14",
@@ -1958,12 +1976,12 @@
     "Asana": "2026-11-14",
     "Ashby": "2026-11-14",
     "Atlan": "2026-11-14",
-    "Autodesk": "2026-11-13",
+    "Autodesk": "2026-11-14",
     "Browserstack": "2026-11-14",
     "Careem": "2026-11-14",
     "Carousell": "2026-11-14",
     "Celonis": "2026-11-14",
-    "Cisco": "2026-11-13",
+    "Cisco": "2026-11-14",
     "Cohere": "2026-11-14",
     "Composio": "2026-11-14",
     "Confluent": "2026-11-14",
@@ -1983,7 +2001,7 @@
     "Emergent": "2026-11-14",
     "Figma": "2026-11-14",
     "Foodics": "2026-11-14",
-    "Fractal": "2026-11-13",
+    "Fractal": "2026-11-14",
     "Freshworks": "2026-11-14",
     "Funding Societies": "2026-11-14",
     "GitLab": "2026-11-14",
@@ -2001,7 +2019,7 @@
     "HCLTech": "2026-11-14",
     "Hevo Data": "2026-11-14",
     "HighRadius": "2026-11-14",
-    "HPE": "2026-11-13",
+    "HPE": "2026-11-14",
     "Icertis": "2026-11-14",
     "InMobi": "2026-11-14",
     "Innovaccer": "2026-11-14",
@@ -2011,20 +2029,20 @@
     "Lean Technologies": "2026-11-14",
     "LetsTransport": "2026-11-14",
     "Linear": "2026-11-14",
-    "Lowe's India": "2026-11-13",
+    "Lowe's India": "2026-11-14",
     "Lyzr": "2026-10-22",
-    "Mastercard": "2026-11-13",
+    "Mastercard": "2026-11-14",
     "MBC Group (Shahid)": "2026-11-14",
     "MBZUAI": "2026-11-14",
     "Meesho": "2026-11-14",
     "Mensa Brands (BRND.ME)": "2026-11-14",
-    "Microsoft": "2026-11-13",
+    "Microsoft": "2026-11-14",
     "Mihup": "2026-11-14",
     "Mindtickle": "2026-11-14",
     "Mollie": "2026-11-14",
     "MongoDB": "2026-11-14",
     "Morgan Stanley": "2026-11-14",
-    "Motorola Solutions": "2026-11-13",
+    "Motorola Solutions": "2026-11-14",
     "MyOperator": "2026-11-14",
     "N26": "2026-11-14",
     "Netomi": "2026-11-14",
@@ -2035,7 +2053,7 @@
     "Noise": "2026-11-14",
     "Notion": "2026-11-14",
     "Nurix AI": "2026-11-14",
-    "NVIDIA": "2026-11-13",
+    "NVIDIA": "2026-11-14",
     "Observe.AI": "2026-11-14",
     "OneTrust": "2026-11-14",
     "Open Financial Technologies": "2026-11-14",
@@ -2072,7 +2090,7 @@
     "Snowflake": "2026-11-14",
     "SpotDraft": "2026-11-14",
     "Spotify": "2026-11-14",
-    "Sprinklr": "2026-11-13",
+    "Sprinklr": "2026-11-14",
     "Spyne": "2026-11-14",
     "Stability AI": "2026-11-14",
     "Swiggy": "2026-11-14",
@@ -2086,15 +2104,15 @@
     "Uniphore": "2026-11-14",
     "Vedantu": "2026-11-14",
     "Verse Innovation (Dailyhunt/Josh)": "2026-11-14",
-    "Visa": "2026-11-13",
-    "VMware/Broadcom": "2026-11-13",
+    "Visa": "2026-11-14",
+    "VMware/Broadcom": "2026-11-14",
     "Wells Fargo": "2026-11-14",
     "Wing Assistant (M32 AI)": "2026-11-14",
     "Wipro": "2026-11-14",
     "Wise": "2026-11-14",
     "Xendit": "2026-11-14",
     "Yubi": "2026-11-14",
-    "Zendesk": "2026-11-13",
+    "Zendesk": "2026-11-14",
     "Zenoti": "2026-11-14",
     "Zensar": "2026-11-14",
     "Zeta": "2026-11-14",

@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5434361008",
-      "title": "Product Manager, Billing",
-      "company": "Anthropic",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434361008",
-      "source": "Greenhouse (Anthropic)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "greenhouse-anthropic-5434369008",
-      "title": "Product Manager, Enterprise Privacy",
-      "company": "Anthropic",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434369008",
-      "source": "Greenhouse (Anthropic)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "ashby-elevenlabs-934dbe9d-1c1f-4939-944a-6671469009db",
-      "title": "Enterprise Product Manager - ElevenCreative",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db",
-      "source": "Ashby (ElevenLabs)",
-      "queuedOn": "2026-10-08"
-    },
-    {
       "id": "ashby-elevenlabs-7389c057-3e25-4e7a-8a03-5e80f40a15a0",
       "title": "Self-Serve Product Manager - ElevenCreative",
       "company": "ElevenLabs",
@@ -3626,6 +3599,33 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
       "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-11-14"
+    },
+    {
+      "id": "ashby-uipath-d3ef8c17-984f-4138-a853-cca29eaa7133",
+      "title": "Principal Product Manager, Data Fabric & Ontology",
+      "company": "UiPath",
+      "location": "Bangalore - Engineering",
+      "url": "https://jobs.ashbyhq.com/uipath/d3ef8c17-984f-4138-a853-cca29eaa7133",
+      "source": "Ashby (UiPath)",
+      "queuedOn": "2026-11-15"
+    },
+    {
+      "id": "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF090064W-1",
+      "title": "Sr Product Manager",
+      "company": "Visa",
+      "location": "IN - Bengaluru, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Product-Manager_REF090064W-1",
+      "source": "Workday (Visa)",
+      "queuedOn": "2026-11-15"
+    },
+    {
+      "id": "vc-accel-99820161",
+      "title": "Senior Product Manager",
+      "company": "Cortex by Palo Alto Networks",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-product-manager/47263/103253663568",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-15"
     }
   ],
   "signals": [
