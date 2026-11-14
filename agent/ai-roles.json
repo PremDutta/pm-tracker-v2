@@ -1,6 +1,105 @@
 {
   "roles": [
     {
+      "id": "sf-careers.hcltech.com-177905",
+      "title": "AI Product Manager I",
+      "company": "HCLTech",
+      "location": "Pune",
+      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/177905-en_US/",
+      "source": "HCLTech careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "sf-careers.hcltech.com-157248",
+      "title": "AI Product Manager I",
+      "company": "HCLTech",
+      "location": "Pune",
+      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/157248-en_US/",
+      "source": "HCLTech careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "sf-careers.wipro.com-213300",
+      "title": "Associate Product Manager - AI-Powered Collections Platform",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Collections-Platform/213300-en_US/",
+      "source": "Wipro careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "sf-careers.wipro.com-212755",
+      "title": "Associate Product Manager - AI-Powered Core Banking Bolt-ons & Adjacencies",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Core-Banking-Bolt-ons-&amp;-Adjacencies/212755-en_US/",
+      "source": "Wipro careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "sf-careers.wipro.com-213366",
+      "title": "Associate Product Manager - AI-Powered Enterprise Document Management & Content Int",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Enterprise-Document-Management-&amp;-Content-Int/213366-en_US/",
+      "source": "Wipro careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "sf-careers.wipro.com-203003",
+      "title": "Associate Product Manager - AI-Powered Enterprise Document Management & Content Intelligence",
+      "company": "Wipro",
+      "location": "Hyderabad, IND-36, IND, 500032<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Enterprise-Document-Management-&amp;-Content-Intelligence/203003-en_US/",
+      "source": "Wipro careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "sf-careers.wipro.com-212754",
+      "title": "Associate Product Manager - AI-Powered Property Appraisal Platform",
+      "company": "Wipro",
+      "location": "Hyderabad, IND-36, IND, 500032<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platform/212754-en_US/",
+      "source": "Wipro careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "sf-careers.wipro.com-212738",
+      "title": "Associate Product Manager - AI-Powered Reconciliation Platform",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Reconciliation-Platform/212738-en_US/",
+      "source": "Wipro careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "sf-careers.wipro.com-213303",
+      "title": "Associate Product Manager - AI-Powered Wealth & Investment Management Platform",
+      "company": "Wipro",
+      "location": "Chennai, IND-33, IND, 600119<br/>",
+      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Wealth-&amp;-Investment-Management-Platform/213303-en_US/",
+      "source": "Wipro careers",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-14"
+    },
+    {
       "id": "vc-lightspeed-441247",
       "title": "Product Manager - AI Agents",
       "company": "Bridgetown Research",
@@ -252,50 +351,6 @@
       "level": "senior",
       "aiMatch": "title",
       "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
-      "title": "Lead Product Management – Technical – AI Transformation",
-      "company": "Mastercard",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Management---Technical---AI-Transformation_R-292180",
-      "source": "Workday (Mastercard)",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
-      "title": "Lead Product Manager (AI)-2",
-      "company": "Mastercard",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
-      "source": "Workday (Mastercard)",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R33982",
-      "title": "Senior Product Manager",
-      "company": "Zendesk",
-      "location": "Pune, India",
-      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R33982",
-      "source": "Workday (Zendesk)",
-      "level": "senior",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "workday-zendesk-/job/Pune-India/Senior-Product-Manager_R34220",
-      "title": "Senior Product Manager",
-      "company": "Zendesk",
-      "location": "Pune, India",
-      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R34220",
-      "source": "Workday (Zendesk)",
-      "level": "senior",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-24"
     },
     {
       "id": "amazon-10587375",

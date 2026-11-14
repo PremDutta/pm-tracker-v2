@@ -1,6 +1,21 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-14",
+      "detail": "10 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Wipro",
+      "date": "2026-11-14",
+      "title": "Product Management Consulting",
+      "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
+      "id": "sf-careers.wipro.com-200048",
+      "detail": "closed 2026-10-14, reposted today"
+    },
+    {
       "type": "funding",
       "company": "Desible.ai",
       "title": "Desible.ai raises Rs 32 Cr led by Prime Venture Partners",
@@ -1500,138 +1515,6 @@
       "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001491459",
       "id": "smartrecruiters-swiggy-6000000001491459",
       "detail": "closed 2026-10-07, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-14",
-      "detail": "128 engineering openings vs a usual 36"
-    },
-    {
-      "type": "funding",
-      "company": "Circle",
-      "title": "Circle Raises ₹25 Cr To Expand Its Pre-Owned Goods Marketplace Beyond Bengaluru",
-      "url": "https://inc42.com/buzz/circle-raises-%e2%82%b925-cr-to-expand-its-pre-owned-goods-marketplace-beyond-bengaluru/",
-      "date": "2026-10-14",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "Circle",
-      "title": "Pre-owned goods marketplace Circle raises Rs 25 Cr led by Nexus Venture Partners",
-      "url": "https://entrackr.com/snippets/pre-owned-goods-marketplace-circle-raises-rs-25-cr-led-by-nexus-venture-partners-12675485",
-      "date": "2026-10-14",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-14",
-      "detail": "8 engineering openings vs a usual 3"
-    },
-    {
-      "type": "funding",
-      "company": "OXG Space",
-      "title": "Aum Ventures leads Rs 17 Cr round in OXG Space",
-      "url": "https://entrackr.com/snippets/aum-ventures-leads-rs-17-cr-round-in-oxg-space-12674360",
-      "date": "2026-10-14",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Parallel Loop",
-      "title": "Parallel Loop raises $6.6 Mn seed round led by 3one4 Capital",
-      "url": "https://entrackr.com/snippets/parallel-loop-raises-66-mn-seed-round-led-by-3one4-capital-12675732",
-      "date": "2026-10-14",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "RevRag AI",
-      "title": "Enterprise AI startup RevRag AI raises $2.5 Mn in seed round",
-      "url": "https://entrackr.com/snippets/enterprise-ai-startup-revrag-ai-raises-25-mn-in-seed-round-12674070",
-      "date": "2026-10-14",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "RevRag.AI",
-      "title": "Fintech SaaS Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers",
-      "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
-      "date": "2026-10-14",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "RevRag.AI",
-      "title": "Agentic AI Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers",
-      "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
-      "date": "2026-10-14",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "RocketPay",
-      "title": "RocketPay raises Rs 10 Cr led by Sandeep Jain and Group",
-      "url": "https://entrackr.com/snippets/rocketpay-raises-rs-10-cr-led-by-sandeep-jain-and-group-12674425",
-      "date": "2026-10-14",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Scimplify",
-      "title": "Scimplify raises $25 Mn in strategic round led by Hitachi Ventures",
-      "url": "https://entrackr.com/news/scimplify-raises-25-mn-in-strategic-round-led-by-hitachi-ventures-12676144",
-      "date": "2026-10-14",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-14",
-      "title": "Sr Staff Outbound Product Manager - AI Assistant ",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155597390",
-      "id": "smartrecruiters-ServiceNow-744000155597390",
-      "detail": "closed 2026-10-06, reposted today"
-    },
-    {
-      "type": "funding",
-      "company": "Spill Games",
-      "title": "Elevation Capital leads $10.5 Mn Series A round in Spill Games",
-      "url": "https://entrackr.com/news/elevation-capital-leads-105-mn-series-a-round-in-spill-games-12674083",
-      "date": "2026-10-14",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "The Stack",
-      "title": "Supplements brand The Stack raises Rs 21.5 Cr in seed round",
-      "url": "https://entrackr.com/snippets/supplements-brand-the-stack-raises-rs-215-cr-in-seed-round-12674836",
-      "date": "2026-10-14",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "The/Nudge",
-      "title": "The/Nudge secures $15M from Google.org to develop AI tools for small businesses",
-      "url": "https://yourstory.com/2026/10/thenudge-secures-15m-from-googleorg-to-develop-ai-tools-for-small-businesses",
-      "date": "2026-10-14",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "reopened",
-      "company": "Wells Fargo",
-      "date": "2026-10-14",
-      "title": "Lead Product Manager",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
-      "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
-      "detail": "closed 2026-10-13, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Zluri",
-      "date": "2026-10-14",
-      "detail": "8 engineering openings vs a usual 3"
     }
   ]
 }

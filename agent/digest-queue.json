@@ -3630,24 +3630,6 @@
   ],
   "signals": [
     {
-      "type": "reopened",
-      "company": "Wells Fargo",
-      "date": "2026-10-14",
-      "title": "Lead Product Manager",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
-      "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
-      "detail": "closed 2026-10-13, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-14",
-      "title": "Sr Staff Outbound Product Manager - AI Assistant ",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155597390",
-      "id": "smartrecruiters-ServiceNow-744000155597390",
-      "detail": "closed 2026-10-06, reposted today"
-    },
-    {
       "type": "eng_spike",
       "company": "Accenture",
       "date": "2026-10-15",
@@ -4363,6 +4345,21 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161586219",
       "id": "smartrecruiters-ServiceNow-744000161586219",
       "detail": "closed 2026-10-27, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-14",
+      "detail": "10 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Wipro",
+      "date": "2026-11-14",
+      "title": "Product Management Consulting",
+      "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
+      "id": "sf-careers.wipro.com-200048",
+      "detail": "closed 2026-10-14, reposted today"
     }
   ],
   "reminders": {}
