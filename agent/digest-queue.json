@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-lightspeed-445868",
-      "title": "Associate Product Manager",
-      "company": "Stable Money",
-      "location": "Bangalore",
-      "url": "https://www.instahyre.com/job-445868-associate-product-manager-at-stable-money-bangalore/",
-      "source": "VC board (Lightspeed portfolio)",
-      "queuedOn": "2026-10-07"
-    },
-    {
       "id": "workday-autodesk-/job/Bengaluru-IND/Sr-Product-Manager---Case-Management---Agent-Experience_26WD101159",
       "title": "Sr. Product Manager - Case Management & Agent Experience",
       "company": "Autodesk",
@@ -3625,6 +3616,15 @@
       "location": "Pune, Maharashtra, India",
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Product-Manager_R26-8548",
       "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-14"
+    },
+    {
+      "id": "amazon-10605156",
+      "title": "Senior Manager, Product Management, Technical",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10605156/senior-manager-product-management-technical",
+      "source": "Amazon careers",
       "queuedOn": "2026-11-14"
     }
   ],

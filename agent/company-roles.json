@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-14T05:15:06.804Z",
+  "scannedAt": "2026-11-14T09:13:56.349Z",
   "roles": {
     "Amazon": [
       {
@@ -19,20 +19,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10578219",
-        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
-        "location": "Gurugram, Haryana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
-        "level": "group",
-        "firstSeen": "2026-11-03"
-      },
-      {
         "id": "amazon-10555430",
         "title": "Principal Product Manager- Technical, Amazon Finance Technology",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
         "level": "group",
         "firstSeen": "2026-10-23"
+      },
+      {
+        "id": "amazon-10578219",
+        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
+        "location": "Gurugram, Haryana, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
+        "level": "group",
+        "firstSeen": "2026-11-03"
       },
       {
         "id": "amazon-10563526",
@@ -129,6 +129,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10572974/product-manager-in-p3p",
         "level": "pm",
         "firstSeen": "2026-10-08"
+      },
+      {
+        "id": "amazon-10605156",
+        "title": "Senior Manager, Product Management, Technical",
+        "location": "Hyderabad, Telangana, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10605156/senior-manager-product-management-technical",
+        "level": "senior",
+        "firstSeen": "2026-11-14"
       },
       {
         "id": "amazon-10490006",
@@ -315,18 +323,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10521530",
-        "title": "Sr. Product Manager - Tech, India Ads ",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10523477",
         "title": "Sr. Product Manager - Tech, India Ads ",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10523477/sr-product-manager-tech-india-ads",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10521530",
+        "title": "Sr. Product Manager - Tech, India Ads ",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10521530/sr-product-manager-tech-india-ads",
         "level": "senior",
         "firstSeen": "2026-09-30"
       },
@@ -377,14 +385,6 @@
         "url": "https://www.amazon.jobs/en/jobs/10603030/sr-product-manager-in-prime",
         "level": "senior",
         "firstSeen": "2026-11-12"
-      },
-      {
-        "id": "amazon-10476718",
-        "title": "Sr. Product Manager, Operations Evaluation, Worldwide Returns and Recommerce",
-        "location": "Hyderabad, Telangana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10476718/sr-product-manager-operations-evaluation-worldwide-returns-and-recommerce",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10588360",
@@ -1403,18 +1403,18 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
-        "level": "pm",
-        "firstSeen": "2026-11-10"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
         "title": "Product Manager II",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+        "level": "pm",
+        "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
         "level": "pm",
         "firstSeen": "2026-11-10"
       },
@@ -1427,12 +1427,12 @@
         "firstSeen": "2026-10-29"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
         "level": "senior",
-        "firstSeen": "2026-10-15"
+        "firstSeen": "2026-11-10"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
@@ -1443,12 +1443,12 @@
         "firstSeen": "2026-11-10"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
         "level": "senior",
-        "firstSeen": "2026-11-10"
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",

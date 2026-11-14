@@ -348,7 +348,7 @@
           "eng": 279
         },
         "2026-11-14": {
-          "total": 668,
+          "total": 670,
           "eng": 277
         }
       },
@@ -5248,7 +5248,7 @@
           "eng": 28
         },
         "2026-11-14": {
-          "total": 85,
+          "total": 87,
           "eng": 28
         }
       },
@@ -6327,7 +6327,8 @@
           "ids": [
             "amazon-10476718"
           ],
-          "lastSeen": "2026-11-14"
+          "lastSeen": "2026-11-14",
+          "closedOn": "2026-11-14"
         },
         "sr product manager technical ww prime benefits pricing constructs": {
           "ids": [
@@ -6562,6 +6563,12 @@
         "senior product manager pv commerce int l product": {
           "ids": [
             "amazon-10603954"
+          ],
+          "lastSeen": "2026-11-14"
+        },
+        "senior manager product management technical": {
+          "ids": [
+            "amazon-10605156"
           ],
           "lastSeen": "2026-11-14"
         }
@@ -7438,7 +7445,7 @@
           "eng": 25
         },
         "2026-11-14": {
-          "total": 100,
+          "total": 99,
           "eng": 25
         }
       },
@@ -12853,8 +12860,8 @@
           "eng": 30
         },
         "2026-11-14": {
-          "total": 114,
-          "eng": 31
+          "total": 113,
+          "eng": 30
         }
       },
       "pm": {
@@ -14479,8 +14486,8 @@
           "eng": 41
         },
         "2026-11-14": {
-          "total": 77,
-          "eng": 41
+          "total": 76,
+          "eng": 42
         }
       },
       "pm": {
@@ -14634,8 +14641,8 @@
           "eng": 42
         },
         "2026-11-14": {
-          "total": 198,
-          "eng": 46
+          "total": 197,
+          "eng": 44
         }
       },
       "pm": {
@@ -23177,7 +23184,7 @@
         },
         "2026-11-14": {
           "total": 100,
-          "eng": 2
+          "eng": 3
         }
       },
       "pm": {
@@ -23808,7 +23815,7 @@
           "eng": 150
         },
         "2026-11-14": {
-          "total": 264,
+          "total": 265,
           "eng": 150
         }
       },
