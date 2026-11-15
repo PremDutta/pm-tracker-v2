@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-elevenlabs-7389c057-3e25-4e7a-8a03-5e80f40a15a0",
-      "title": "Self-Serve Product Manager - ElevenCreative",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0",
-      "source": "Ashby (ElevenLabs)",
-      "queuedOn": "2026-10-08"
-    },
-    {
       "id": "greenhouse-figma-6180116004",
       "title": "Early Career, Associate Product Manager (2027)",
       "company": "Figma",
@@ -3626,15 +3617,18 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-product-manager/47263/103253663568",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-15"
+    },
+    {
+      "id": "vc-accel-99900921",
+      "title": "Sr Product Manager",
+      "company": "Pismo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Product-Manager_REF090064W-1",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-15"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-15",
-      "detail": "134 engineering openings vs a usual 36"
-    },
     {
       "type": "reopened",
       "company": "JPMorgan Chase",
@@ -4360,6 +4354,12 @@
       "url": "https://careers.wipro.com/job/Product-Management-Consulting/200048-en_US/",
       "id": "sf-careers.wipro.com-200048",
       "detail": "closed 2026-10-14, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-15",
+      "detail": "10 engineering openings vs a usual 5"
     }
   ],
   "reminders": {}
