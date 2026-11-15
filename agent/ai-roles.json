@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "vc-lightspeed-441247",
+      "title": "Product Manager - AI Agents",
+      "company": "Bridgetown Research",
+      "location": "Bangalore",
+      "url": "https://www.instahyre.com/job-441247-product-manager-ai-agents-at-bridgetown-research-bangalore/",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-15"
+    },
+    {
       "id": "workday-target-/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
       "title": "Director Product Management - Customer Data Platform",
       "company": "Target India",
@@ -12,15 +23,15 @@
       "firstSeen": "2026-11-15"
     },
     {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-14"
+      "id": "vc-accel-82636843",
+      "title": "Principal Product Manager, Data Fabric & Ontology",
+      "company": "UiPath",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jobs.ashbyhq.com/uipath/d3ef8c17-984f-4138-a853-cca29eaa7133",
+      "source": "VC board (Accel portfolio)",
+      "level": "group",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-15"
     },
     {
       "id": "sf-careers.hcltech.com-177905",
@@ -118,17 +129,6 @@
       "url": "https://careers.qualcomm.com/careers/job/446721996687",
       "source": "Qualcomm careers",
       "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-14"
-    },
-    {
-      "id": "vc-peakxv-137246",
-      "title": "AI PRODUCT MANAGER",
-      "company": "TestMu",
-      "location": "Noida, UP, India",
-      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-11-14"
     },
