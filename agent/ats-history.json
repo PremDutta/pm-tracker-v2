@@ -348,7 +348,7 @@
           "eng": 276
         },
         "2026-11-15": {
-          "total": 669,
+          "total": 668,
           "eng": 276
         }
       },
@@ -2963,7 +2963,7 @@
           "eng": 438
         },
         "2026-11-15": {
-          "total": 839,
+          "total": 840,
           "eng": 438
         }
       },
@@ -9831,7 +9831,7 @@
         },
         "2026-11-15": {
           "total": 100,
-          "eng": 84
+          "eng": 85
         }
       },
       "pm": {
@@ -9852,6 +9852,13 @@
         "principal product manager": {
           "ids": [
             "oracle-eeho.fa.us2.oraclecloud.com-340889",
+            "oracle-eeho.fa.us2.oraclecloud.com-340054"
+          ],
+          "lastSeen": "2026-11-15",
+          "closedOn": "2026-11-15"
+        },
+        "principal product manager oracle apex technical evangelist": {
+          "ids": [
             "oracle-eeho.fa.us2.oraclecloud.com-340054"
           ],
           "lastSeen": "2026-11-15"
@@ -14484,7 +14491,7 @@
         },
         "2026-11-15": {
           "total": 76,
-          "eng": 40
+          "eng": 41
         }
       },
       "pm": {
@@ -14862,8 +14869,8 @@
           "eng": 38
         },
         "2026-11-15": {
-          "total": 64,
-          "eng": 38
+          "total": 65,
+          "eng": 39
         }
       },
       "pm": {
@@ -21408,8 +21415,8 @@
           "eng": 127
         },
         "2026-11-15": {
-          "total": 485,
-          "eng": 127
+          "total": 483,
+          "eng": 125
         }
       },
       "pm": {
@@ -22848,7 +22855,7 @@
           "eng": 4
         },
         "2026-11-15": {
-          "total": 27,
+          "total": 28,
           "eng": 4
         }
       },
@@ -23003,7 +23010,7 @@
           "eng": 4
         },
         "2026-11-15": {
-          "total": 35,
+          "total": 36,
           "eng": 4
         }
       },
@@ -24006,8 +24013,8 @@
           "eng": 112
         },
         "2026-11-15": {
-          "total": 251,
-          "eng": 112
+          "total": 254,
+          "eng": 115
         }
       },
       "pm": {
