@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-figma-6180116004",
-      "title": "Early Career, Associate Product Manager (2027)",
-      "company": "Figma",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004",
-      "source": "Greenhouse (Figma)",
-      "queuedOn": "2026-10-08"
-    },
-    {
       "id": "greenhouse-onetrust-8192392",
       "title": "Principal Product Manager, AI Runtime Governance",
       "company": "OneTrust",
@@ -3626,6 +3617,19 @@
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Product-Manager_REF090064W-1",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-15"
+    },
+    {
+      "id": "govt-dic-ora-1508",
+      "title": "Product Manager",
+      "company": "DIC",
+      "location": "New Delhi",
+      "url": "https://ora.digitalindiacorporation.in/?job=1508",
+      "source": "🏛️ Govt (DIC ORA)",
+      "deadline": "2026-11-18",
+      "flags": [
+        "contract"
+      ],
+      "queuedOn": "2026-11-16"
     }
   ],
   "signals": [

@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-15T13:32:46.200Z",
+  "scannedAt": "2026-11-15T22:33:01.096Z",
   "roles": [
     {
       "id": "workday-mastercard-/job/Vancouver-Canada/Principal-Product-Manager--Technical_R-278438",
@@ -836,6 +836,19 @@
       "firstSeen": "2026-10-26"
     },
     {
+      "id": "greenhouse-celonis-7885800003",
+      "title": "Senior Application Product Manager - Supply Chain - Procurement ",
+      "company": "Celonis",
+      "location": "Madrid, Spain",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7885800003?gh_jid=7885800003",
+      "source": "Greenhouse (Celonis)",
+      "level": "senior",
+      "regions": [
+        "europe"
+      ],
+      "firstSeen": "2026-10-26"
+    },
+    {
       "id": "greenhouse-celonis-7984249003",
       "title": "Senior Application Product Manager - Supply Chain - Procurement ",
       "company": "Celonis",
@@ -845,19 +858,6 @@
       "level": "senior",
       "regions": [
         "germany",
-        "europe"
-      ],
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "greenhouse-celonis-7885800003",
-      "title": "Senior Application Product Manager - Supply Chain - Procurement ",
-      "company": "Celonis",
-      "location": "Madrid, Spain",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7885800003?gh_jid=7885800003",
-      "source": "Greenhouse (Celonis)",
-      "level": "senior",
-      "regions": [
         "europe"
       ],
       "firstSeen": "2026-10-26"
@@ -1234,11 +1234,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4702367005",
+      "id": "greenhouse-gleanwork-4702151005",
       "title": "Product Manager, Growth",
       "company": "Glean",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702367005",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702151005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -1247,11 +1247,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4702151005",
+      "id": "greenhouse-gleanwork-4702367005",
       "title": "Product Manager, Growth",
       "company": "Glean",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702151005",
+      "location": "Mountain View, CA",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702367005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -1899,19 +1899,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8136071002",
-      "title": "Sr. Product Manager, Databricks AI",
-      "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
-      "source": "Greenhouse (Databricks)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-8136204002",
       "title": "Sr. Product Manager, Databricks AI",
       "company": "Databricks",
@@ -1925,11 +1912,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7680573002",
-      "title": "Sr. Product Manager, Databricks Free Edition",
+      "id": "greenhouse-databricks-8136071002",
+      "title": "Sr. Product Manager, Databricks AI",
       "company": "Databricks",
       "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1951,11 +1938,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8326513002",
-      "title": "Sr. Product Manager, Databricks Repos",
+      "id": "greenhouse-databricks-7680573002",
+      "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
       "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1969,6 +1956,19 @@
       "company": "Databricks",
       "location": "Seattle, Washington",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002",
+      "source": "Greenhouse (Databricks)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-8326513002",
+      "title": "Sr. Product Manager, Databricks Repos",
+      "company": "Databricks",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2017,20 +2017,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7649411002",
-      "title": "Staff Product Manager",
-      "company": "Databricks",
-      "location": "Berlin, Germany",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
-      "source": "Greenhouse (Databricks)",
-      "level": "group",
-      "regions": [
-        "germany",
-        "europe"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-7649409002",
       "title": "Staff Product Manager",
       "company": "Databricks",
@@ -2040,6 +2026,20 @@
       "level": "group",
       "regions": [
         "netherlands",
+        "europe"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-7649411002",
+      "title": "Staff Product Manager",
+      "company": "Databricks",
+      "location": "Berlin, Germany",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
+      "source": "Greenhouse (Databricks)",
+      "level": "group",
+      "regions": [
+        "germany",
         "europe"
       ],
       "firstSeen": "2026-10-21"
@@ -2071,11 +2071,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7110509002",
+      "id": "greenhouse-databricks-7110499002",
       "title": "Staff Product Manager, Security",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110509002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2084,11 +2084,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7110499002",
+      "id": "greenhouse-databricks-7110509002",
       "title": "Staff Product Manager, Security",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110509002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2539,19 +2539,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-mongodb-8128356",
-      "title": "Senior Product Manager",
-      "company": "MongoDB",
-      "location": "San Francisco",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8128356",
-      "source": "Greenhouse (MongoDB)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-mongodb-7113803",
       "title": "Senior Product Manager",
       "company": "MongoDB",
@@ -2562,6 +2549,19 @@
       "regions": [
         "ireland",
         "europe"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-mongodb-8128356",
+      "title": "Senior Product Manager",
+      "company": "MongoDB",
+      "location": "San Francisco",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8128356",
+      "source": "Greenhouse (MongoDB)",
+      "level": "senior",
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-10-21"
     },
