@@ -1,60 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-onetrust-8192392",
-      "title": "Principal Product Manager, AI Runtime Governance",
-      "company": "OneTrust",
-      "location": "Bengaluru, India",
-      "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192392",
-      "source": "Greenhouse (OneTrust)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "sf-careers.wipro.com-205260",
-      "title": "Product Management Consulting",
-      "company": "Wipro",
-      "location": "Hyderabad, IND-36, IND, 500032<br/>",
-      "url": "https://careers.wipro.com/job/Product-Management-Consulting/205260-en_US/",
-      "source": "Wipro careers",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "vc-accel-93346903",
-      "title": "Principal Product Manager - Prisma AIRS - Bangalore",
-      "company": "Cortex by Palo Alto Networks",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/principal-product-manager-prisma-airs-bangalore/47263/100674862960",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "vc-accel-93091710",
-      "title": "Product Manager (Growth - B2B Enterprise)",
-      "company": "Frame.io",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "ashby-deepgram-be9f18f6-8851-40fb-be50-3c13d7457092",
-      "title": "Director of Product Operations ",
-      "company": "Deepgram",
-      "location": "USA - Remote",
-      "url": "https://jobs.ashbyhq.com/deepgram/be9f18f6-8851-40fb-be50-3c13d7457092",
-      "source": "Ashby (Deepgram)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "greenhouse-simpplr-6220126004",
-      "title": "Associate Product Manager - Product Discovery & Strategy",
-      "company": "Simpplr",
-      "location": "Bengaluru, India; Gurugram, India",
-      "url": "https://job-boards.greenhouse.io/simpplr/jobs/6220126004",
-      "source": "Greenhouse (Simpplr)",
-      "queuedOn": "2026-10-08"
-    },
-    {
       "id": "vc-lightspeed-4736585005",
       "title": "Senior Product Manager",
       "company": "Razorpay",
@@ -3629,6 +3575,60 @@
       "flags": [
         "contract"
       ],
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "amazon-10586021",
+      "title": "Sr. Product Manager- Tech, Amazon Compliance Safety Services ",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10586021/sr-product-manager-tech-amazon-compliance-safety-services",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "amazon-10601872",
+      "title": "Sr. Product Manager - Tech, Amazon Business Onsite Buying Experience",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10601872/sr-product-manager-tech-amazon-business-onsite-buying-experience",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "workday-mastercard-/job/Gurgaon-India/Manager--Product-Management---Resiliency-Operations--Stand-In---On-Demand-Decisioning-_R-289205",
+      "title": "Manager, Product Management – Resiliency Operations (Stand-In & On-Demand Decisioning)",
+      "company": "Mastercard",
+      "location": "Gurgaon, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Management---Resiliency-Operations--Stand-In---On-Demand-Decisioning-_R-289205",
+      "source": "Workday (Mastercard)",
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R70485-1",
+      "title": "Oracle Incentive Compensation Product Owner",
+      "company": "Motorola Solutions",
+      "location": "Bangalore offsite, India",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R70485-1",
+      "source": "Workday (Motorola Solutions)",
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "greenhouse-xendit-8204620003",
+      "title": "Product Manager - Cards",
+      "company": "Xendit",
+      "location": "India; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Singapore, Singapore",
+      "url": "https://job-boards.greenhouse.io/xendit/jobs/8204620003",
+      "source": "Greenhouse (Xendit)",
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "greenhouse-xendit-8204621003",
+      "title": "Product Manager - Payments Acceptance (Merchant of Record)",
+      "company": "Xendit",
+      "location": "Bangalore, India ; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Mumbai, India; Singapore, Singapore",
+      "url": "https://job-boards.greenhouse.io/xendit/jobs/8204621003",
+      "source": "Greenhouse (Xendit)",
       "queuedOn": "2026-11-16"
     }
   ],

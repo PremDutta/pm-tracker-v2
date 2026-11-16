@@ -1,15 +1,26 @@
 {
   "roles": [
     {
-      "id": "vc-lightspeed-441247",
-      "title": "Product Manager - AI Agents",
-      "company": "Bridgetown Research",
-      "location": "Bangalore",
-      "url": "https://www.instahyre.com/job-441247-product-manager-ai-agents-at-bridgetown-research-bangalore/",
-      "source": "VC board (Lightspeed portfolio)",
+      "id": "workday-motorolasolutions-/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R70485-1",
+      "title": "Oracle Incentive Compensation Product Owner",
+      "company": "Motorola Solutions",
+      "location": "Bangalore offsite, India",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R70485-1",
+      "source": "Workday (Motorola Solutions)",
       "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "eightfold-qualcomm.com-446721996687",
+      "title": "Staff Product Manager - Smartphones and AI",
+      "company": "Qualcomm",
+      "location": "Hyderabad, Telangāna, India",
+      "url": "https://careers.qualcomm.com/careers/job/446721996687",
+      "source": "Qualcomm careers",
+      "level": "group",
       "aiMatch": "title",
-      "firstSeen": "2026-11-15"
+      "firstSeen": "2026-11-16"
     },
     {
       "id": "vc-peakxv-59397",
@@ -30,17 +41,6 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
       "source": "Workday (Target India)",
       "level": "leadership",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-15"
-    },
-    {
-      "id": "vc-peakxv-137246",
-      "title": "AI PRODUCT MANAGER",
-      "company": "TestMu",
-      "location": "Noida, UP, India",
-      "url": "https://lambdatest.keka.com/careers/jobdetails/137246",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-11-15"
     },
@@ -461,17 +461,6 @@
       "level": "senior",
       "aiMatch": "title",
       "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "amazon-10587375",
-      "title": "Principal Product Manager - Tech, Agentic Shopping Experience",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10587375/principal-product-manager-tech-agentic-shopping-experience",
-      "source": "Amazon careers",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-23"
     },
     {
       "id": "lever-paytm-e09a1fc4-47e2-4c49-b17e-6993b958d6ef",
