@@ -967,28 +967,6 @@
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-zenoti-7729933003",
-      "title": "Senior Manager - Product Management (AI Workflows)",
-      "company": "Zenoti",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7729933003",
-      "source": "Greenhouse (Zenoti)",
-      "level": "senior",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "vc-accel-78244795",
-      "title": "Senior Manager - Product Management (AI Workflows)",
-      "company": "Zenoti",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://boards.greenhouse.io/zenoti/jobs/7729933003",
-      "source": "VC board (Accel portfolio)",
-      "level": "senior",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
     }
   ]
 }

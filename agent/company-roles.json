@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-16T10:00:38.061Z",
+  "scannedAt": "2026-11-16T14:59:45.149Z",
   "roles": {
     "Amazon": [
       {
@@ -1269,6 +1269,14 @@
         "firstSeen": "2026-10-21"
       },
       {
+        "id": "lever-paytm-364ccee8-163f-4950-8ff5-3181a9345809",
+        "title": "Product Management - App Product",
+        "location": "Noida, Uttar Pradesh",
+        "url": "https://jobs.lever.co/paytm/364ccee8-163f-4950-8ff5-3181a9345809",
+        "level": "pm",
+        "firstSeen": "2026-11-16"
+      },
+      {
         "id": "lever-paytm-26a6a342-55db-4262-8e75-648bd8338fd0",
         "title": "Product Management - Data Product | Experience : 5-8 yrs",
         "location": "Bengaluru, Karnataka",
@@ -1963,14 +1971,6 @@
         "url": "https://job-boards.greenhouse.io/zenoti/jobs/8029893003",
         "level": "senior",
         "firstSeen": "2026-10-22"
-      },
-      {
-        "id": "greenhouse-zenoti-7729933003",
-        "title": "Senior Manager - Product Management (AI Workflows)",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://job-boards.greenhouse.io/zenoti/jobs/7729933003",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Zensar": [

@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-16T10:00:38.097Z",
+  "scannedAt": "2026-11-16T14:59:45.207Z",
   "roles": [
     {
       "id": "ashby-airwallex-859e5457-e5ec-4d78-9a83-e6a0eec270bc",
@@ -11,6 +11,19 @@
       "level": "senior",
       "regions": [
         "singapore"
+      ],
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "greenhouse-asana-8318739",
+      "title": "Product Manager",
+      "company": "Asana",
+      "location": "Warsaw",
+      "url": "https://www.asana.com/jobs/apply/8318739?gh_jid=8318739",
+      "source": "Greenhouse (Asana)",
+      "level": "pm",
+      "regions": [
+        "europe"
       ],
       "firstSeen": "2026-11-16"
     },
@@ -312,20 +325,6 @@
       "level": "senior",
       "regions": [
         "uk"
-      ],
-      "firstSeen": "2026-11-10"
-    },
-    {
-      "id": "smartrecruiters-DeliveryHero-744000160897530",
-      "title": "Product Manager - (Logistics, Service Automations)",
-      "company": "Talabat (Delivery Hero)",
-      "location": "Berlin, , Germany",
-      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000160897530",
-      "source": "SmartRecruiters (Talabat (Delivery Hero))",
-      "level": "pm",
-      "regions": [
-        "germany",
-        "europe"
       ],
       "firstSeen": "2026-11-10"
     },
@@ -1834,11 +1833,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200284002",
+      "id": "greenhouse-databricks-8200462002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1847,11 +1846,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200462002",
+      "id": "greenhouse-databricks-8200284002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1899,11 +1898,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8136204002",
+      "id": "greenhouse-databricks-8136071002",
       "title": "Sr. Product Manager, Databricks AI",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1912,11 +1911,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8136071002",
+      "id": "greenhouse-databricks-8136204002",
       "title": "Sr. Product Manager, Databricks AI",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1977,11 +1976,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8811265002",
+      "id": "greenhouse-databricks-8876675002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1990,11 +1989,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8876675002",
+      "id": "greenhouse-databricks-8811265002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2017,20 +2016,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7649411002",
-      "title": "Staff Product Manager",
-      "company": "Databricks",
-      "location": "Berlin, Germany",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
-      "source": "Greenhouse (Databricks)",
-      "level": "group",
-      "regions": [
-        "germany",
-        "europe"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-7649409002",
       "title": "Staff Product Manager",
       "company": "Databricks",
@@ -2040,6 +2025,20 @@
       "level": "group",
       "regions": [
         "netherlands",
+        "europe"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-7649411002",
+      "title": "Staff Product Manager",
+      "company": "Databricks",
+      "location": "Berlin, Germany",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
+      "source": "Greenhouse (Databricks)",
+      "level": "group",
+      "regions": [
+        "germany",
         "europe"
       ],
       "firstSeen": "2026-10-21"
@@ -2071,19 +2070,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7110499002",
-      "title": "Staff Product Manager, Security",
-      "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002",
-      "source": "Greenhouse (Databricks)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-7110509002",
       "title": "Staff Product Manager, Security",
       "company": "Databricks",
@@ -2097,11 +2083,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8420607002",
-      "title": "Staff Product Manager, Serverless Workspaces",
+      "id": "greenhouse-databricks-7110499002",
+      "title": "Staff Product Manager, Security",
       "company": "Databricks",
       "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2115,6 +2101,19 @@
       "company": "Databricks",
       "location": "Seattle, Washington",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
+      "source": "Greenhouse (Databricks)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-8420607002",
+      "title": "Staff Product Manager, Serverless Workspaces",
+      "company": "Databricks",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2620,19 +2619,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-mongodb-8129885",
-      "title": "Staff Product Manager, AI Builder Experience",
-      "company": "MongoDB",
-      "location": "United States",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129885",
-      "source": "Greenhouse (MongoDB)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-mongodb-8129887",
       "title": "Staff Product Manager, AI Builder Experience",
       "company": "MongoDB",
@@ -2642,6 +2628,19 @@
       "level": "group",
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-mongodb-8129885",
+      "title": "Staff Product Manager, AI Builder Experience",
+      "company": "MongoDB",
+      "location": "United States",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129885",
+      "source": "Greenhouse (MongoDB)",
+      "level": "group",
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3001,7 +3000,7 @@
       "id": "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "title": "Director, Product Marketing (Hybrid in NYC, SF, or Seattle)",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -3014,7 +3013,7 @@
       "id": "rippling-rippling-1311a98d-008f-4517-9f9f-73ee4c9cf1cf",
       "title": "Product Lead - AI Semantics & Governance",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/1311a98d-008f-4517-9f9f-73ee4c9cf1cf",
       "source": "Rippling (Rippling)",
       "level": "group",

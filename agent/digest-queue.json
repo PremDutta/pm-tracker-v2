@@ -1,60 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-lightspeed-4736585005",
-      "title": "Senior Product Manager",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
-      "source": "VC board (Lightspeed portfolio)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "vc-lightspeed-4715389005",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
-      "source": "VC board (Lightspeed portfolio)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "amazon-10572974",
-      "title": "Product Manager, IN P3P",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10572974/product-manager-in-p3p",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "amazon-10572930",
-      "title": "Senior Product Manager, Rewards, Amazon Pay Rewards",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10572930/senior-product-manager-rewards-amazon-pay-rewards",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "workday-mastercard-/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1",
-      "title": "Senior Specialist, Product Management, Custom Analytics",
-      "company": "Mastercard",
-      "location": "Gurgaon, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "workday-mastercard-/job/Pune-India/Senior-Specialist-Product-Manager_R-290092",
-      "title": "Senior Specialist Product Manager",
-      "company": "Mastercard",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Specialist-Product-Manager_R-290092",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-08"
-    },
-    {
       "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
       "title": "Lead Product Manager (AI)-2",
       "company": "Mastercard",
@@ -3629,6 +3575,60 @@
       "location": "Bangalore, India ; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Mumbai, India; Singapore, Singapore",
       "url": "https://job-boards.greenhouse.io/xendit/jobs/8204621003",
       "source": "Greenhouse (Xendit)",
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "greenhouse-asana-8318739",
+      "title": "Product Manager",
+      "company": "Asana",
+      "location": "Warsaw",
+      "url": "https://www.asana.com/jobs/apply/8318739?gh_jid=8318739",
+      "source": "Greenhouse (Asana)",
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "lever-paytm-364ccee8-163f-4950-8ff5-3181a9345809",
+      "title": "Product Management - App Product",
+      "company": "Paytm",
+      "location": "Noida, Uttar Pradesh",
+      "url": "https://jobs.lever.co/paytm/364ccee8-163f-4950-8ff5-3181a9345809",
+      "source": "Lever (Paytm)",
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "vc-accel-99959786",
+      "title": "Product Manager III",
+      "company": "6sense",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/6sense/jobs/8352602",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "vc-accel-99944900",
+      "title": "Product Manager - Payments Acceptance (Merchant of Record)",
+      "company": "Xendit",
+      "location": "Mumbai, Maharashtra, India, Bengaluru, Karnataka, India, Kuala Lumpur, Malaysia, Singapore, Jakarta, Indonesia",
+      "url": "https://boards.greenhouse.io/xendit/jobs/8204621003",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "vc-accel-99944879",
+      "title": "Product Manager - Cards",
+      "company": "Xendit",
+      "location": "India, Kuala Lumpur, Malaysia, Singapore, Jakarta, Indonesia",
+      "url": "https://boards.greenhouse.io/xendit/jobs/8204620003",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "vc-accel-99963462",
+      "title": "Product Management",
+      "company": "Swiftkey",
+      "location": "India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557074091",
+      "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-16"
     }
   ],
