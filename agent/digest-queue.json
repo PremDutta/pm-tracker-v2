@@ -3634,15 +3634,6 @@
   ],
   "signals": [
     {
-      "type": "reopened",
-      "company": "JPMorgan Chase",
-      "date": "2026-10-15",
-      "title": "Product Manager",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
-      "id": "oracle-jpmc.fa.oraclecloud.com-210797096",
-      "detail": "closed 2026-10-14, reposted today"
-    },
-    {
       "type": "eng_spike",
       "company": "Swiggy",
       "date": "2026-10-15",
@@ -4363,6 +4354,12 @@
       "type": "eng_spike",
       "company": "Skyroot Aerospace",
       "date": "2026-11-15",
+      "detail": "10 engineering openings vs a usual 5"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-16",
       "detail": "10 engineering openings vs a usual 5"
     }
   ],

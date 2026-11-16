@@ -1,6 +1,20 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "Bharat Semi",
+      "title": "Bharat Semi raises $24 Mn in seed round from Info Edge, South Park Common, others",
+      "url": "https://entrackr.com/news/bharat-semi-raises-24-mn-in-seed-round-from-info-edge-south-park-common-others-12812801",
+      "date": "2026-11-16",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-16",
+      "detail": "10 engineering openings vs a usual 5"
+    },
+    {
       "type": "eng_spike",
       "company": "Skyroot Aerospace",
       "date": "2026-11-15",
@@ -1401,47 +1415,6 @@
       "company": "Accenture",
       "date": "2026-10-17",
       "detail": "169 engineering openings vs a usual 36"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-16",
-      "detail": "143 engineering openings vs a usual 36"
-    },
-    {
-      "type": "funding",
-      "company": "RapidCanvas",
-      "title": "RapidCanvas raises $29 Mn in Series B round led by Vertex Ventures",
-      "url": "https://entrackr.com/news/rapidcanvas-raises-29-mn-in-series-b-round-led-by-vertex-ventures-12681874",
-      "date": "2026-10-16",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-16",
-      "title": "Senior Staff Product Manager",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156071737",
-      "id": "smartrecruiters-ServiceNow-744000156071737",
-      "detail": "closed 2026-10-15, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "Target India",
-      "date": "2026-10-16",
-      "title": "Director Product Management",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
-      "id": "workday-target-/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
-      "detail": "closed 2026-10-05, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "Wells Fargo",
-      "date": "2026-10-16",
-      "title": "Lead Digital Product Manager",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
-      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
-      "detail": "closed 2026-10-03, reposted today"
     }
   ]
 }
