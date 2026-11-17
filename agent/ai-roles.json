@@ -1,6 +1,28 @@
 {
   "roles": [
     {
+      "id": "greenhouse-inmobi-8349134",
+      "title": "Product Manager",
+      "company": "InMobi",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8349134",
+      "source": "Greenhouse (InMobi)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+      "title": "Lead Business Execution Consultant Product Owner AI Agentic",
+      "company": "Wells Fargo",
+      "location": "Hyderabad, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+      "source": "Workday (Wells Fargo)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-17"
+    },
+    {
       "id": "workday-motorolasolutions-/job/Bangalore-offsite-India/Oracle-Incentive-Compensation-Product-Owner_R70485-1",
       "title": "Oracle Incentive Compensation Product Owner",
       "company": "Motorola Solutions",
@@ -452,17 +474,6 @@
       "firstSeen": "2026-10-26"
     },
     {
-      "id": "lever-paytm-e09a1fc4-47e2-4c49-b17e-6993b958d6ef",
-      "title": "Product Management - AI Payments",
-      "company": "Paytm",
-      "location": "Noida, Uttar Pradesh",
-      "url": "https://jobs.lever.co/paytm/e09a1fc4-47e2-4c49-b17e-6993b958d6ef",
-      "source": "Lever (Paytm)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-simpplr-6220126004",
       "title": "Associate Product Manager - Product Discovery & Strategy",
       "company": "Simpplr",
@@ -472,17 +483,6 @@
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-19"
-    },
-    {
-      "id": "lever-getwingapp-9d79c468-5413-4451-8020-8531588f29a1",
-      "title": "Product Manager  - AI",
-      "company": "Wing Assistant (M32 AI)",
-      "location": "India",
-      "url": "https://jobs.lever.co/getwingapp/9d79c468-5413-4451-8020-8531588f29a1",
-      "source": "Lever (Wing Assistant (M32 AI))",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-17"
     },
     {
       "id": "rippling-rippling-1b2bd0fa-cfd3-4774-8c8f-7c00685f3476",
@@ -661,17 +661,6 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "lever-hevodata-c665b22f-6336-4ec2-88d8-4165f51d5396",
-      "title": "Product Manager",
-      "company": "Hevo Data",
-      "location": "Bangalore, India",
-      "url": "https://jobs.lever.co/hevodata/c665b22f-6336-4ec2-88d8-4165f51d5396",
-      "source": "Lever (Hevo Data)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "workable-innovaccer-analytics-A9A35765A4",
       "title": "4483- Senior Product Manager, AI",
       "company": "Innovaccer",
@@ -738,28 +727,6 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "lever-netomi-a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
-      "title": "Agentic Product Manager",
-      "company": "Netomi",
-      "location": "Gurugram",
-      "url": "https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
-      "source": "Lever (Netomi)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "lever-neuron7-e9d47d0d-6f19-4a59-8bf9-561d721b9efe",
-      "title": "Lead Product Manager – Agentic Experiences | Bangalore",
-      "company": "Neuron7.ai",
-      "location": "Bengaluru",
-      "url": "https://jobs.lever.co/neuron7/e9d47d0d-6f19-4a59-8bf9-561d721b9efe",
-      "source": "Lever (Neuron7.ai)",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "keka-nurix-17249",
       "title": "Product Manager",
       "company": "Nurix AI",
@@ -779,17 +746,6 @@
       "source": "Greenhouse (OneTrust)",
       "level": "group",
       "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "lever-paytm-9c74fdd9-36e1-4e42-839a-d52577bb3d70",
-      "title": "Product Management - Pi Agents - SMB (Experience : 5-9 yrs)",
-      "company": "Paytm",
-      "location": "Noida, Uttar Pradesh",
-      "url": "https://jobs.lever.co/paytm/9c74fdd9-36e1-4e42-839a-d52577bb3d70",
-      "source": "Lever (Paytm)",
-      "level": "pm",
-      "aiMatch": "title",
       "firstSeen": "2026-10-05"
     },
     {
@@ -944,17 +900,6 @@
       "source": "Zoho Recruit (Vedantu)",
       "level": "pm",
       "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "lever-getwingapp-c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
-      "title": "Product Manager - Onboarding",
-      "company": "Wing Assistant (M32 AI)",
-      "location": "India",
-      "url": "https://jobs.lever.co/getwingapp/c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
-      "source": "Lever (Wing Assistant (M32 AI))",
-      "level": "pm",
-      "aiMatch": "company",
       "firstSeen": "2026-10-05"
     }
   ]

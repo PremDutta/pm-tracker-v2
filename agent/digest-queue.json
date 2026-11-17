@@ -1,51 +1,6 @@
 {
   "jobs": [
     {
-      "id": "lever-paytm-2294c39e-0394-472b-8ba0-736857fa24a8",
-      "title": "Product Management- Product Analyst- Telco",
-      "company": "Paytm",
-      "location": "Noida, Uttar Pradesh",
-      "url": "https://jobs.lever.co/paytm/2294c39e-0394-472b-8ba0-736857fa24a8",
-      "source": "Lever (Paytm)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "vc-accel-96255661",
-      "title": "Assistant Manager - Banking Product Manager (Mumbai, IN)",
-      "company": "Wibmo",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://careers.payu.in/PayU/job/Mumbai-Assistant-Manager-Banking-Product-Manager/54189180/",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "vc-accel-96255663",
-      "title": "Assistant Manager - Banking Product Manager (Mumbai, IN)",
-      "company": "Wibmo",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://careers.payu.in/PayU/job/Mumbai-Assistant-Manager-Banking-Product-Manager/54189280/",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "vc-accel-96236150",
-      "title": "Senior Technical Product Manager",
-      "company": "Hpe Simplivity",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://careers.hpe.com/us/en/job/1215737",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "lever-spotify-ef3985d1-522e-4950-ba6e-af57dd93c788",
-      "title": "Principal Product Manager - Format Foundations",
-      "company": "Spotify",
-      "location": "London",
-      "url": "https://jobs.lever.co/spotify/ef3985d1-522e-4950-ba6e-af57dd93c788",
-      "source": "Lever (Spotify)",
-      "queuedOn": "2026-10-09"
-    },
-    {
       "id": "amazon-10573263",
       "title": "Sr. Product Manager - Technical, WW Prime - Benefits, Pricing & Constructs, WW Prime - Benefits, Pricing & Constructs",
       "company": "Amazon",
@@ -3630,33 +3585,54 @@
       "url": "https://in-careers-seismic.icims.com/jobs/2449/senior-product-manager-i/job",
       "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "amazon-10606887",
+      "title": "Product Manager - IN Private Brands, IN Private Brands",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10606887/product-manager-in-private-brands-in-private-brands",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "greenhouse-inmobi-8349134",
+      "title": "Product Manager",
+      "company": "InMobi",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8349134",
+      "source": "Greenhouse (InMobi)",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210808168",
+      "title": "Product Manager",
+      "company": "JPMorgan Chase",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808168",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000161990071",
+      "title": "Staff Inbound Product Manager",
+      "company": "ServiceNow",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161990071",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
+      "title": "Lead Digital Product Manager",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-11-17"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "Swiggy",
-      "date": "2026-10-15",
-      "title": "Product Manager I",
-      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001491459",
-      "id": "smartrecruiters-swiggy-6000000001491459",
-      "detail": "closed 2026-10-07, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-15",
-      "title": "Sr Staff Inbound Product Manager",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155819829",
-      "id": "smartrecruiters-ServiceNow-744000155819829",
-      "detail": "closed 2026-10-15, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-16",
-      "detail": "143 engineering openings vs a usual 36"
-    },
     {
       "type": "reopened",
       "company": "Wells Fargo",
@@ -4361,6 +4337,33 @@
       "company": "Skyroot Aerospace",
       "date": "2026-11-17",
       "detail": "10 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "JPMorgan Chase",
+      "date": "2026-11-17",
+      "title": "Product Manager",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808168",
+      "id": "oracle-jpmc.fa.oraclecloud.com-210808168",
+      "detail": "closed 2026-11-05, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-17",
+      "title": "Staff Inbound Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161990071",
+      "id": "smartrecruiters-ServiceNow-744000161990071",
+      "detail": "closed 2026-10-21, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-11-17",
+      "title": "Lead Digital Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
+      "detail": "closed 2026-10-19, reposted today"
     }
   ],
   "reminders": {}

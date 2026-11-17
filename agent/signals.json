@@ -1,10 +1,77 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "D2C Price Hike, Bharat Semi",
+      "title": "D2C Price Hike, Bharat Semi Bags $24 Mn & More",
+      "url": "https://inc42.com/buzz/d2c-price-hike-bharat-semi-bags-24-mn-more/",
+      "date": "2026-11-17",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
+      "company": "finny.club",
+      "title": "Wealthtech startup finny.club raises Rs 5.3 Cr in angel round",
+      "url": "https://entrackr.com/snippets/wealthtech-startup-finnyclub-raises-rs-53-cr-in-angel-round-12814337",
+      "date": "2026-11-17",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "JohnAIC",
+      "title": "AI infra startup JohnAIC raises $1.9 Mn in pre-seed round",
+      "url": "https://entrackr.com/snippets/ai-infra-startup-johnaic-raises-19-mn-in-pre-seed-round-12815778",
+      "date": "2026-11-17",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "reopened",
+      "company": "JPMorgan Chase",
+      "date": "2026-11-17",
+      "title": "Product Manager",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808168",
+      "id": "oracle-jpmc.fa.oraclecloud.com-210808168",
+      "detail": "closed 2026-11-05, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "Lemonpeel",
+      "title": "AI video production startup Lemonpeel raises $1 Mn in pre-seed round led by Shastra VC",
+      "url": "https://entrackr.com/snippets/ai-video-production-startup-lemonpeel-raises-1-mn-in-pre-seed-round-led-by-shastra-vc-12816726",
+      "date": "2026-11-17",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-17",
+      "title": "Staff Inbound Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161990071",
+      "id": "smartrecruiters-ServiceNow-744000161990071",
+      "detail": "closed 2026-10-21, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "Shree Anandhaas",
+      "title": "Exclusive: Shree Anandhaas raises Rs 110 Cr, valuation jumps to Rs 1,900 Cr",
+      "url": "https://entrackr.com/exclusive/exclusive-shree-anandhaas-raises-rs-110-cr-valuation-jumps-to-rs-1900-cr-12817177",
+      "date": "2026-11-17",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Skyroot Aerospace",
       "date": "2026-11-17",
       "detail": "10 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-11-17",
+      "title": "Lead Digital Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
+      "detail": "closed 2026-10-19, reposted today"
     },
     {
       "type": "funding",

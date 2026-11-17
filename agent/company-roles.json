@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-17T01:40:27.048Z",
+  "scannedAt": "2026-11-17T10:57:36.722Z",
   "roles": {
     "Amazon": [
       {
@@ -11,20 +11,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10555430",
-        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
-        "level": "group",
-        "firstSeen": "2026-10-23"
-      },
-      {
         "id": "amazon-10578219",
         "title": "Principal Product Manager- Technical, Amazon Finance Technology",
         "location": "Gurugram, Haryana, IND",
         "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
         "level": "group",
         "firstSeen": "2026-11-03"
+      },
+      {
+        "id": "amazon-10555430",
+        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
+        "level": "group",
+        "firstSeen": "2026-10-23"
       },
       {
         "id": "amazon-10563526",
@@ -57,6 +57,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10585524/principle-product-manager-tech-global-corporate-procurement-tech",
         "level": "pm",
         "firstSeen": "2026-10-21"
+      },
+      {
+        "id": "amazon-10606887",
+        "title": "Product Manager - IN Private Brands, IN Private Brands",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10606887/product-manager-in-private-brands-in-private-brands",
+        "level": "pm",
+        "firstSeen": "2026-11-17"
       },
       {
         "id": "amazon-10441689",
@@ -507,14 +515,6 @@
         "url": "https://jobs.smartrecruiters.com/Freshworks/744000161428139",
         "level": "group",
         "firstSeen": "2026-11-13"
-      },
-      {
-        "id": "smartrecruiters-freshworks-744000150936730",
-        "title": "Staff Product Manager",
-        "location": "Bengaluru, , India",
-        "url": "https://jobs.smartrecruiters.com/Freshworks/744000150936730",
-        "level": "group",
-        "firstSeen": "2026-09-30"
       }
     ],
     "GitLab": [
@@ -661,14 +661,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-159765",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -681,6 +673,14 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-159765",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -739,6 +739,16 @@
         "firstSeen": "2026-10-05"
       }
     ],
+    "InMobi": [
+      {
+        "id": "greenhouse-inmobi-8349134",
+        "title": "Product Manager",
+        "location": "Bangalore",
+        "url": "https://job-boards.greenhouse.io/inmobi/jobs/8349134",
+        "level": "pm",
+        "firstSeen": "2026-11-17"
+      }
+    ],
     "Innovaccer": [
       {
         "id": "workable-innovaccer-analytics-A9A35765A4",
@@ -789,6 +799,14 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776755",
         "level": "leadership",
         "firstSeen": "2026-11-13"
+      },
+      {
+        "id": "oracle-jpmc.fa.oraclecloud.com-210808168",
+        "title": "Product Manager",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808168",
+        "level": "pm",
+        "firstSeen": "2026-11-17"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210801074",
@@ -1601,6 +1619,16 @@
         "firstSeen": "2026-09-30"
       }
     ],
+    "ServiceNow": [
+      {
+        "id": "smartrecruiters-ServiceNow-744000161990071",
+        "title": "Staff Inbound Product Manager",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161990071",
+        "level": "group",
+        "firstSeen": "2026-11-17"
+      }
+    ],
     "Simpplr": [
       {
         "id": "greenhouse-simpplr-6220126004",
@@ -1737,6 +1765,38 @@
     ],
     "Wells Fargo": [
       {
+        "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+        "title": "Lead Business Execution Consultant Product Owner AI Agentic",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+        "level": "group",
+        "firstSeen": "2026-11-17"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
+        "title": "Lead Digital Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
+        "level": "group",
+        "firstSeen": "2026-11-17"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
+        "title": "Lead Digital Product Manager - CIAM",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
+        "level": "group",
+        "firstSeen": "2026-11-17"
+      },
+      {
+        "id": "workday-wf-/job/Hyderabad-India/Senior-Product-Manager_R-574835",
+        "title": "Senior Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Product-Manager_R-574835",
+        "level": "senior",
+        "firstSeen": "2026-11-17"
+      },
+      {
         "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
         "title": "Senior Product Manager",
         "location": "Bengaluru, India",
@@ -1840,18 +1900,18 @@
     "Xendit": [
       {
         "id": "greenhouse-xendit-8204620003",
-        "title": "Product Manager - Cards",
+        "title": "Senior Product Manager - Cards",
         "location": "India; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Singapore, Singapore",
         "url": "https://job-boards.greenhouse.io/xendit/jobs/8204620003",
-        "level": "pm",
+        "level": "senior",
         "firstSeen": "2026-11-16"
       },
       {
         "id": "greenhouse-xendit-8204621003",
-        "title": "Product Manager - Payments Acceptance (Merchant of Record)",
+        "title": "Senior Product Manager - Payments Acceptance (Merchant of Record)",
         "location": "Bangalore, India ; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Mumbai, India; Singapore, Singapore",
         "url": "https://job-boards.greenhouse.io/xendit/jobs/8204621003",
-        "level": "pm",
+        "level": "senior",
         "firstSeen": "2026-11-16"
       },
       {
