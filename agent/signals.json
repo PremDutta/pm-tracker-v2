@@ -1,6 +1,12 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-17",
+      "detail": "10 engineering openings vs a usual 5"
+    },
+    {
       "type": "funding",
       "company": "Bharat Semi",
       "title": "Bharat Semi raises $24 Mn in seed round from Info Edge, South Park Common, others",
@@ -1425,12 +1431,6 @@
       "company": "Accenture",
       "date": "2026-10-18",
       "detail": "168 engineering openings vs a usual 37"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-17",
-      "detail": "169 engineering openings vs a usual 36"
     }
   ]
 }

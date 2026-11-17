@@ -1,42 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
-      "title": "Lead Product Manager (AI)-2",
-      "company": "Mastercard",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "sf-careers.hcltech.com-178154",
-      "title": "Product Manager/ Product Lead",
-      "company": "HCLTech",
-      "location": "Noida",
-      "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/178154-en_US/",
-      "source": "HCLTech careers",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "oracle-jpmc.fa.oraclecloud.com-210792979",
-      "title": "Product Manager - Liquidity & Account Solutions Product Development – Vice President",
-      "company": "JPMorgan Chase",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792979",
-      "source": "JPMorgan Chase careers",
-      "queuedOn": "2026-10-08"
-    },
-    {
-      "id": "workday-mastercard-/job/Pune-India/Manager--Product-Management_R-293101",
-      "title": "Manager, Product Management",
-      "company": "Mastercard",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-293101",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-08"
-    },
-    {
       "id": "lever-paytm-2294c39e-0394-472b-8ba0-736857fa24a8",
       "title": "Product Management- Product Analyst- Telco",
       "company": "Paytm",
@@ -3630,15 +3594,45 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557074091",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-16"
+    },
+    {
+      "id": "lever-spotify-1a1c0754-29b1-4651-a399-3c078866b9d0",
+      "title": "VP, Head of Product - Advertising",
+      "company": "Spotify",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/1a1c0754-29b1-4651-a399-3c078866b9d0",
+      "source": "Lever (Spotify)",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF090602W",
+      "title": "Product Manager",
+      "company": "Visa",
+      "location": "IN - Bengaluru, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF090602W",
+      "source": "Workday (Visa)",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "vc-peakxv-744000161786044",
+      "title": "Product Manager",
+      "company": "ixigo",
+      "location": "New Delhi, DL, IN",
+      "url": "https://jobs.smartrecruiters.com/ixigo/744000161786044-product-manager",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "vc-lightspeed-2449",
+      "title": "Senior Product Manager I",
+      "company": "Seismic",
+      "location": "Hyderabad, UNAVAILABLE, IN",
+      "url": "https://in-careers-seismic.icims.com/jobs/2449/senior-product-manager-i/job",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-11-17"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Swiggy",
-      "date": "2026-10-15",
-      "detail": "6 engineering openings vs a usual 1"
-    },
     {
       "type": "reopened",
       "company": "Swiggy",
@@ -4360,6 +4354,12 @@
       "type": "eng_spike",
       "company": "Skyroot Aerospace",
       "date": "2026-11-16",
+      "detail": "10 engineering openings vs a usual 5"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-17",
       "detail": "10 engineering openings vs a usual 5"
     }
   ],

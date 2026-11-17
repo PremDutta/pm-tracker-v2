@@ -1,6 +1,45 @@
 {
-  "scannedAt": "2026-11-16T14:59:45.207Z",
+  "scannedAt": "2026-11-17T01:40:27.091Z",
   "roles": [
+    {
+      "id": "greenhouse-onetrust-8394217",
+      "title": "Director, Product Management",
+      "company": "OneTrust",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/onetrust/jobs/8394217",
+      "source": "Greenhouse (OneTrust)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000161885234",
+      "title": "Inbound Product Manager (Masters Summer 2027)",
+      "company": "ServiceNow",
+      "location": "San Diego, CALIFORNIA, United States",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161885234",
+      "source": "SmartRecruiters (ServiceNow)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-1a1c0754-29b1-4651-a399-3c078866b9d0",
+      "title": "VP, Head of Product - Advertising",
+      "company": "Spotify",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/1a1c0754-29b1-4651-a399-3c078866b9d0",
+      "source": "Lever (Spotify)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17"
+    },
     {
       "id": "ashby-airwallex-859e5457-e5ec-4d78-9a83-e6a0eec270bc",
       "title": "Senior Product Manager, GTPN",
@@ -171,19 +210,6 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "smartrecruiters-ServiceNow-744000161414165",
-      "title": "Staff Technical Product Manager - Quote to Cash",
-      "company": "ServiceNow",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161414165",
-      "source": "SmartRecruiters (ServiceNow)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-13"
-    },
-    {
       "id": "ashby-snowflake-61d48d79-aeb8-45fb-806a-5b6e9f625de7",
       "title": "Senior Product Manager - Openflow",
       "company": "Snowflake",
@@ -237,7 +263,7 @@
     },
     {
       "id": "ashby-snowflake-44a8bfd1-593c-4024-8745-a01cca587cb6",
-      "title": "Product Manager – Order-to-Cash & Agentic AI",
+      "title": "Enterprise Product Manager – Order-to-Cash & Agentic AI",
       "company": "Snowflake",
       "location": "US-CA-Dublin",
       "url": "https://jobs.ashbyhq.com/snowflake/44a8bfd1-593c-4024-8745-a01cca587cb6",
@@ -490,7 +516,7 @@
       "id": "rippling-rippling-3bbddc0c-89d9-41a1-b6e8-f990b058d7fb",
       "title": "Product Lead, Variable Compensation",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/3bbddc0c-89d9-41a1-b6e8-f990b058d7fb",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -1050,19 +1076,6 @@
       "firstSeen": "2026-10-26"
     },
     {
-      "id": "greenhouse-n26-8268322",
-      "title": "Lead Technical Product Manager — Machine Learning Platform",
-      "company": "N26",
-      "location": "Barcelona",
-      "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322",
-      "source": "Greenhouse (N26)",
-      "level": "group",
-      "regions": [
-        "europe"
-      ],
-      "firstSeen": "2026-10-26"
-    },
-    {
       "id": "greenhouse-n26-8267143",
       "title": "Lead Technical Product Manager — Machine Learning Platform",
       "company": "N26",
@@ -1072,6 +1085,19 @@
       "level": "group",
       "regions": [
         "germany",
+        "europe"
+      ],
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "greenhouse-n26-8268322",
+      "title": "Lead Technical Product Manager — Machine Learning Platform",
+      "company": "N26",
+      "location": "Barcelona",
+      "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322",
+      "source": "Greenhouse (N26)",
+      "level": "group",
+      "regions": [
         "europe"
       ],
       "firstSeen": "2026-10-26"
@@ -1322,19 +1348,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "ashby-airwallex-0b159038-01b5-4a32-bd39-ba55573f0fdf",
-      "title": "Director, Product Legal (EmFi & Payments)",
-      "company": "Airwallex",
-      "location": "US - San Francisco",
-      "url": "https://jobs.ashbyhq.com/airwallex/0b159038-01b5-4a32-bd39-ba55573f0fdf",
-      "source": "Ashby (Airwallex)",
-      "level": "leadership",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
     },
     {
       "id": "ashby-airwallex-d44190a1-27e6-4991-bcdd-8a9e27db4679",
@@ -1950,11 +1963,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8326513002",
+      "id": "greenhouse-databricks-8326570002",
       "title": "Sr. Product Manager, Databricks Repos",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1963,11 +1976,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8326570002",
+      "id": "greenhouse-databricks-8326513002",
       "title": "Sr. Product Manager, Databricks Repos",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2096,11 +2109,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8427954002",
+      "id": "greenhouse-databricks-8420607002",
       "title": "Staff Product Manager, Serverless Workspaces",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2109,11 +2122,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8420607002",
+      "id": "greenhouse-databricks-8427954002",
       "title": "Staff Product Manager, Serverless Workspaces",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2434,37 +2447,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "workable-innovaccer-analytics-67F6B16D16",
-      "title": "4410 Senior Product Manager-Public Health",
-      "company": "Innovaccer",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/67F6B16D16",
-      "source": "Workable (Innovaccer)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "workable-innovaccer-analytics-3EB66331B2",
       "title": "4412 Senior Product Manager-Medicaid",
       "company": "Innovaccer",
       "location": "United States",
       "url": "https://apply.workable.com/j/3EB66331B2",
-      "source": "Workable (Innovaccer)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "workable-innovaccer-analytics-26430903A6",
-      "title": "4626 Senior Product Manager Prior Authorization-Oncology",
-      "company": "Innovaccer",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/26430903A6",
       "source": "Workable (Innovaccer)",
       "level": "senior",
       "regions": [
@@ -2619,19 +2606,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-mongodb-8129887",
-      "title": "Staff Product Manager, AI Builder Experience",
-      "company": "MongoDB",
-      "location": "Toronto",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129887",
-      "source": "Greenhouse (MongoDB)",
-      "level": "group",
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-mongodb-8129885",
       "title": "Staff Product Manager, AI Builder Experience",
       "company": "MongoDB",
@@ -2641,6 +2615,19 @@
       "level": "group",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-mongodb-8129887",
+      "title": "Staff Product Manager, AI Builder Experience",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129887",
+      "source": "Greenhouse (MongoDB)",
+      "level": "group",
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -2743,19 +2730,6 @@
       "location": "San Francisco, California",
       "url": "https://jobs.ashbyhq.com/notion/be6e1a35-d467-48e6-96bf-62afc4ad0126",
       "source": "Ashby (Notion)",
-      "level": "pm",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "ashby-openai-fc38c6bf-5330-435c-99b6-1bcf1f5829a8",
-      "title": "Product Manager, API Agents",
-      "company": "OpenAI",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/fc38c6bf-5330-435c-99b6-1bcf1f5829a8",
-      "source": "Ashby (OpenAI)",
       "level": "pm",
       "regions": [
         "us"
@@ -3013,7 +2987,7 @@
       "id": "rippling-rippling-1311a98d-008f-4517-9f9f-73ee4c9cf1cf",
       "title": "Product Lead - AI Semantics & Governance",
       "company": "Rippling",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/1311a98d-008f-4517-9f9f-73ee4c9cf1cf",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3052,7 +3026,7 @@
       "id": "rippling-rippling-34d2abc5-206c-4472-803a-6b8713382bc6",
       "title": "Product Lead, Reporting and Analytics",
       "company": "Rippling",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/34d2abc5-206c-4472-803a-6b8713382bc6",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3065,7 +3039,7 @@
       "id": "rippling-rippling-0889e2ac-a30c-43b7-8c8c-5312264416db",
       "title": "Product Lead, Talent Products",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/0889e2ac-a30c-43b7-8c8c-5312264416db",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3078,7 +3052,7 @@
       "id": "rippling-rippling-ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "title": "Senior Director of Product, App Platform",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "source": "Rippling (Rippling)",
       "level": "leadership",
