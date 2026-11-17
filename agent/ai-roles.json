@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "lever-hevodata-c665b22f-6336-4ec2-88d8-4165f51d5396",
+      "title": "Product Manager",
+      "company": "Hevo Data",
+      "location": "Bangalore, India",
+      "url": "https://jobs.lever.co/hevodata/c665b22f-6336-4ec2-88d8-4165f51d5396",
+      "source": "Lever (Hevo Data)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-17"
+    },
+    {
       "id": "greenhouse-inmobi-8349134",
       "title": "Product Manager",
       "company": "InMobi",
@@ -12,6 +23,50 @@
       "firstSeen": "2026-11-17"
     },
     {
+      "id": "lever-netomi-a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
+      "title": "Agentic Product Manager",
+      "company": "Netomi",
+      "location": "Gurugram",
+      "url": "https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
+      "source": "Lever (Netomi)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-neuron7-e9d47d0d-6f19-4a59-8bf9-561d721b9efe",
+      "title": "Lead Product Manager – Agentic Experiences | Bangalore",
+      "company": "Neuron7.ai",
+      "location": "Bengaluru",
+      "url": "https://jobs.lever.co/neuron7/e9d47d0d-6f19-4a59-8bf9-561d721b9efe",
+      "source": "Lever (Neuron7.ai)",
+      "level": "group",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-paytm-e09a1fc4-47e2-4c49-b17e-6993b958d6ef",
+      "title": "Product Management - AI Payments",
+      "company": "Paytm",
+      "location": "Noida, Uttar Pradesh",
+      "url": "https://jobs.lever.co/paytm/e09a1fc4-47e2-4c49-b17e-6993b958d6ef",
+      "source": "Lever (Paytm)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-paytm-9c74fdd9-36e1-4e42-839a-d52577bb3d70",
+      "title": "Product Management - Pi Agents - SMB (Experience : 5-9 yrs)",
+      "company": "Paytm",
+      "location": "Noida, Uttar Pradesh",
+      "url": "https://jobs.lever.co/paytm/9c74fdd9-36e1-4e42-839a-d52577bb3d70",
+      "source": "Lever (Paytm)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-17"
+    },
+    {
       "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
       "title": "Lead Business Execution Consultant Product Owner AI Agentic",
       "company": "Wells Fargo",
@@ -20,6 +75,28 @@
       "source": "Workday (Wells Fargo)",
       "level": "group",
       "aiMatch": "title",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-getwingapp-9d79c468-5413-4451-8020-8531588f29a1",
+      "title": "Product Manager  - AI",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "India",
+      "url": "https://jobs.lever.co/getwingapp/9d79c468-5413-4451-8020-8531588f29a1",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-getwingapp-c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
+      "title": "Product Manager - Onboarding",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "India",
+      "url": "https://jobs.lever.co/getwingapp/c5c669aa-fce3-4e04-9ba9-303fba5eb7d5",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "aiMatch": "company",
       "firstSeen": "2026-11-17"
     },
     {
@@ -43,17 +120,6 @@
       "level": "group",
       "aiMatch": "title",
       "firstSeen": "2026-11-16"
-    },
-    {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-15"
     },
     {
       "id": "workday-target-/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
@@ -362,17 +428,6 @@
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "vc-accel-99548473",
-      "title": "Sr Product Manager",
-      "company": "Couchbase",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://boards.greenhouse.io/couchbaseinc/jobs/4726542006",
-      "source": "VC board (Accel portfolio)",
-      "level": "senior",
-      "aiMatch": "company",
-      "firstSeen": "2026-11-11"
     },
     {
       "id": "greenhouse-rhythmx-ai-5478899008",

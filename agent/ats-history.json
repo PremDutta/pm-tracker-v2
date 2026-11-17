@@ -944,7 +944,7 @@
           "eng": 43
         },
         "2026-11-17": {
-          "total": 125,
+          "total": 126,
           "eng": 42
         }
       },
@@ -1501,7 +1501,7 @@
           "eng": 78
         },
         "2026-11-17": {
-          "total": 169,
+          "total": 168,
           "eng": 78
         }
       },
@@ -2028,8 +2028,8 @@
           "eng": 26
         },
         "2026-11-17": {
-          "total": 59,
-          "eng": 21
+          "total": 57,
+          "eng": 22
         }
       },
       "pm": {
@@ -2815,7 +2815,7 @@
           "eng": 60
         },
         "2026-11-17": {
-          "total": 164,
+          "total": 165,
           "eng": 60
         }
       },
@@ -4038,7 +4038,7 @@
           "eng": 5
         },
         "2026-11-17": {
-          "total": 48,
+          "total": 47,
           "eng": 5
         }
       },
@@ -4065,10 +4065,10 @@
         "product manager i": {
           "ids": [
             "lever-meesho-4891a891-f431-4e98-99ae-0e31a21f0190",
-            "lever-meesho-494d8ba6-22b6-467f-837b-8af9c1aee377"
+            "lever-meesho-494d8ba6-22b6-467f-837b-8af9c1aee377",
+            "lever-meesho-1c0052a9-6664-4602-9aad-0e250d9c0980"
           ],
-          "lastSeen": "2026-11-13",
-          "closedOn": "2026-11-13"
+          "lastSeen": "2026-11-17"
         },
         "product manager platforms": {
           "ids": [
@@ -4079,10 +4079,10 @@
         },
         "senior product manager": {
           "ids": [
-            "lever-meesho-2028b73c-2ae0-4fca-903e-481b8c500629"
+            "lever-meesho-2028b73c-2ae0-4fca-903e-481b8c500629",
+            "lever-meesho-19954b1f-3bbc-44b6-b836-65c0f854953b"
           ],
-          "lastSeen": "2026-10-14",
-          "closedOn": "2026-10-14"
+          "lastSeen": "2026-11-17"
         },
         "senior product manager data analytics platform": {
           "ids": [
@@ -5250,8 +5250,8 @@
           "eng": 28
         },
         "2026-11-17": {
-          "total": 88,
-          "eng": 29
+          "total": 87,
+          "eng": 28
         }
       },
       "pm": {
@@ -6025,7 +6025,7 @@
           "eng": 5
         },
         "2026-11-17": {
-          "total": 78,
+          "total": 77,
           "eng": 5
         }
       },
@@ -6349,7 +6349,8 @@
           "ids": [
             "amazon-10459442"
           ],
-          "lastSeen": "2026-11-17"
+          "lastSeen": "2026-11-17",
+          "closedOn": "2026-11-17"
         },
         "principal product manager retail business services rbs cost to serve": {
           "ids": [
@@ -6874,7 +6875,7 @@
         },
         "2026-11-17": {
           "total": 100,
-          "eng": 29
+          "eng": 28
         }
       },
       "pm": {
@@ -7029,7 +7030,7 @@
           "eng": 21
         },
         "2026-11-17": {
-          "total": 69,
+          "total": 67,
           "eng": 21
         }
       },
@@ -8236,7 +8237,7 @@
           "eng": 15
         },
         "2026-11-17": {
-          "total": 42,
+          "total": 43,
           "eng": 15
         }
       },
@@ -8681,7 +8682,7 @@
           "eng": 3
         },
         "2026-11-17": {
-          "total": 54,
+          "total": 57,
           "eng": 3
         }
       },
@@ -8975,7 +8976,7 @@
         },
         "2026-11-17": {
           "total": 100,
-          "eng": 34
+          "eng": 35
         }
       },
       "pm": {
@@ -9437,7 +9438,7 @@
         },
         "2026-11-17": {
           "total": 100,
-          "eng": 6
+          "eng": 4
         }
       },
       "pm": {
@@ -10159,7 +10160,7 @@
         },
         "2026-11-17": {
           "total": 200,
-          "eng": 8
+          "eng": 9
         }
       },
       "pm": {
@@ -10241,7 +10242,8 @@
           "ids": [
             "lever-paytm-2294c39e-0394-472b-8ba0-736857fa24a8"
           ],
-          "lastSeen": "2026-11-17"
+          "lastSeen": "2026-11-17",
+          "closedOn": "2026-11-17"
         },
         "product management ai payments": {
           "ids": [
@@ -11176,7 +11178,7 @@
         },
         "2026-11-17": {
           "total": 100,
-          "eng": 23
+          "eng": 19
         }
       },
       "pm": {
@@ -11450,7 +11452,8 @@
             "smartrecruiters-ServiceNow-744000156842184",
             "smartrecruiters-ServiceNow-744000161586219"
           ],
-          "lastSeen": "2026-11-17"
+          "lastSeen": "2026-11-17",
+          "closedOn": "2026-11-17"
         },
         "staff ai product manager": {
           "ids": [
@@ -12109,8 +12112,8 @@
           "eng": 74
         },
         "2026-11-17": {
-          "total": 90,
-          "eng": 75
+          "total": 89,
+          "eng": 74
         }
       },
       "pm": {}
@@ -12923,7 +12926,7 @@
           "eng": 32
         },
         "2026-11-17": {
-          "total": 115,
+          "total": 113,
           "eng": 31
         }
       },
@@ -13115,7 +13118,7 @@
           "eng": 1
         },
         "2026-11-17": {
-          "total": 19,
+          "total": 20,
           "eng": 1
         }
       },
@@ -13795,7 +13798,7 @@
           "eng": 46
         },
         "2026-11-17": {
-          "total": 79,
+          "total": 78,
           "eng": 44
         }
       },
@@ -13806,7 +13809,8 @@
             "workday-visa-/job/IN---Bengaluru-India/Product-Manager--Data-Governance-Platform--Metadata-Management--Data-Stewardship--Access-Management---6-12-years-_REF087800W",
             "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF089128W-1",
             "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF085044W-1",
-            "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF090602W"
+            "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF090602W",
+            "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF090601W-1"
           ],
           "lastSeen": "2026-11-17"
         },
@@ -14303,8 +14307,8 @@
           "eng": 21
         },
         "2026-11-17": {
-          "total": 75,
-          "eng": 17
+          "total": 82,
+          "eng": 19
         }
       },
       "pm": {
@@ -14322,7 +14326,8 @@
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1"
           ],
-          "lastSeen": "2026-11-17"
+          "lastSeen": "2026-11-17",
+          "closedOn": "2026-11-17"
         },
         "senior lead digital product manager access entitlements platform": {
           "ids": [
@@ -14369,8 +14374,7 @@
             "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
             "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-571003"
           ],
-          "lastSeen": "2026-10-30",
-          "closedOn": "2026-10-30"
+          "lastSeen": "2026-11-17"
         },
         "data product management consultant": {
           "ids": [
@@ -14552,8 +14556,8 @@
           "eng": 39
         },
         "2026-11-17": {
-          "total": 79,
-          "eng": 44
+          "total": 77,
+          "eng": 42
         }
       },
       "pm": {
@@ -14705,8 +14709,8 @@
           "eng": 45
         },
         "2026-11-17": {
-          "total": 189,
-          "eng": 41
+          "total": 191,
+          "eng": 44
         }
       },
       "pm": {
@@ -14930,8 +14934,8 @@
           "eng": 38
         },
         "2026-11-17": {
-          "total": 66,
-          "eng": 40
+          "total": 69,
+          "eng": 43
         }
       },
       "pm": {
@@ -15690,8 +15694,8 @@
           "eng": 6
         },
         "2026-11-17": {
-          "total": 18,
-          "eng": 8
+          "total": 17,
+          "eng": 7
         }
       },
       "pm": {
@@ -15839,8 +15843,8 @@
           "eng": 546
         },
         "2026-11-17": {
-          "total": 891,
-          "eng": 548
+          "total": 895,
+          "eng": 552
         }
       },
       "pm": {
@@ -16956,7 +16960,7 @@
           "eng": 29
         },
         "2026-11-17": {
-          "total": 66,
+          "total": 65,
           "eng": 27
         }
       },
@@ -17385,7 +17389,7 @@
           "eng": 16
         },
         "2026-11-17": {
-          "total": 38,
+          "total": 39,
           "eng": 16
         }
       },
@@ -17898,7 +17902,7 @@
         },
         "2026-11-17": {
           "total": 399,
-          "eng": 166
+          "eng": 168
         }
       },
       "pm": {
@@ -18784,7 +18788,7 @@
         },
         "2026-11-17": {
           "total": 85,
-          "eng": 41
+          "eng": 40
         }
       },
       "pm": {
@@ -18945,7 +18949,7 @@
         },
         "2026-11-17": {
           "total": 200,
-          "eng": 125
+          "eng": 128
         }
       },
       "pm": {
@@ -19120,8 +19124,8 @@
           "eng": 44
         },
         "2026-11-17": {
-          "total": 188,
-          "eng": 46
+          "total": 191,
+          "eng": 47
         }
       },
       "pm": {
@@ -19332,7 +19336,7 @@
           "eng": 238
         },
         "2026-11-17": {
-          "total": 702,
+          "total": 699,
           "eng": 232
         }
       },
@@ -20070,7 +20074,7 @@
           "eng": 205
         },
         "2026-11-17": {
-          "total": 378,
+          "total": 379,
           "eng": 206
         }
       },
@@ -20467,7 +20471,7 @@
           "eng": 32
         },
         "2026-11-17": {
-          "total": 98,
+          "total": 99,
           "eng": 32
         }
       },
@@ -20958,7 +20962,7 @@
           "eng": 18
         },
         "2026-11-17": {
-          "total": 389,
+          "total": 391,
           "eng": 18
         }
       },
@@ -21508,8 +21512,8 @@
           "eng": 127
         },
         "2026-11-17": {
-          "total": 485,
-          "eng": 126
+          "total": 486,
+          "eng": 125
         }
       },
       "pm": {
@@ -21797,7 +21801,7 @@
           "eng": 20
         },
         "2026-11-17": {
-          "total": 87,
+          "total": 85,
           "eng": 20
         }
       },
@@ -22798,7 +22802,7 @@
           "eng": 1
         },
         "2026-11-17": {
-          "total": 144,
+          "total": 146,
           "eng": 1
         }
       },
@@ -22915,7 +22919,7 @@
           "eng": 1
         },
         "2026-11-17": {
-          "total": 31,
+          "total": 32,
           "eng": 1
         }
       },
@@ -23208,7 +23212,7 @@
           "eng": 5
         },
         "2026-11-17": {
-          "total": 37,
+          "total": 38,
           "eng": 5
         }
       },
@@ -23340,7 +23344,7 @@
           "eng": 12
         },
         "2026-11-17": {
-          "total": 35,
+          "total": 34,
           "eng": 11
         }
       },
@@ -23862,8 +23866,8 @@
           "eng": 70
         },
         "2026-11-17": {
-          "total": 242,
-          "eng": 69
+          "total": 237,
+          "eng": 66
         }
       },
       "pm": {
@@ -24185,7 +24189,7 @@
           "eng": 146
         },
         "2026-11-17": {
-          "total": 263,
+          "total": 262,
           "eng": 144
         }
       },
@@ -24302,8 +24306,8 @@
           "eng": 115
         },
         "2026-11-17": {
-          "total": 253,
-          "eng": 114
+          "total": 254,
+          "eng": 115
         }
       },
       "pm": {
@@ -24777,7 +24781,7 @@
           "eng": 14
         },
         "2026-11-17": {
-          "total": 43,
+          "total": 45,
           "eng": 13
         }
       },
@@ -25234,7 +25238,7 @@
         },
         "2026-11-17": {
           "total": 100,
-          "eng": 31
+          "eng": 30
         }
       },
       "pm": {
@@ -25271,7 +25275,8 @@
           "ids": [
             "smartrecruiters-wise-744000160875939"
           ],
-          "lastSeen": "2026-11-17"
+          "lastSeen": "2026-11-17",
+          "closedOn": "2026-11-17"
         },
         "senior product manager api experience security wise platform": {
           "ids": [

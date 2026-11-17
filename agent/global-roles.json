@@ -1,6 +1,84 @@
 {
-  "scannedAt": "2026-11-17T10:57:36.761Z",
+  "scannedAt": "2026-11-17T15:36:48.068Z",
   "roles": [
+    {
+      "id": "lever-crypto-a898683e-d211-4e8c-8576-21f676993d90",
+      "title": "(Senior) Product Manager, Fiat & FCM",
+      "company": "Crypto.com",
+      "location": "Singapore",
+      "url": "https://jobs.lever.co/crypto/a898683e-d211-4e8c-8576-21f676993d90",
+      "source": "Lever (Crypto.com)",
+      "level": "senior",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-crypto-f6a19e4d-1150-476a-8566-ea0e7f2fd96a",
+      "title": "OG.com - Senior Product Manager - Predictions",
+      "company": "Crypto.com",
+      "location": "San Francisco",
+      "url": "https://jobs.lever.co/crypto/f6a19e4d-1150-476a-8566-ea0e7f2fd96a",
+      "source": "Lever (Crypto.com)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-crypto-a155c0e5-f80e-4b38-b9ad-f9f8bc683d37",
+      "title": "VP, Product Analytics",
+      "company": "Crypto.com",
+      "location": "San Francisco",
+      "url": "https://jobs.lever.co/crypto/a155c0e5-f80e-4b38-b9ad-f9f8bc683d37",
+      "source": "Lever (Crypto.com)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-crypto-aa2dbb2a-1d58-4b46-9556-423500c0672f",
+      "title": "VP, Product Analytics",
+      "company": "Crypto.com",
+      "location": "Hong Kong",
+      "url": "https://jobs.lever.co/crypto/aa2dbb2a-1d58-4b46-9556-423500c0672f",
+      "source": "Lever (Crypto.com)",
+      "level": "leadership",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-crypto-be6c09e2-5f24-4a9f-a05f-125301db5097",
+      "title": "VP, Product Analytics",
+      "company": "Crypto.com",
+      "location": "Singapore",
+      "url": "https://jobs.lever.co/crypto/be6c09e2-5f24-4a9f-a05f-125301db5097",
+      "source": "Lever (Crypto.com)",
+      "level": "leadership",
+      "regions": [
+        "singapore"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-hevodata-ec8d8975-d200-4c20-a53c-e095c964230e",
+      "title": "VP Product Marketing",
+      "company": "Hevo Data",
+      "location": "United States",
+      "url": "https://jobs.lever.co/hevodata/ec8d8975-d200-4c20-a53c-e095c964230e",
+      "source": "Lever (Hevo Data)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17"
+    },
     {
       "id": "greenhouse-inmobi-7582059",
       "title": "Director – Product Management, Commerce Exchange",
@@ -11,6 +89,32 @@
       "level": "leadership",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-netomi-28e755b4-9e42-4728-8f46-9f4995ef299a",
+      "title": "Sr. Agentic Product Manager (North America)",
+      "company": "Netomi",
+      "location": "Toronto , Canada",
+      "url": "https://jobs.lever.co/netomi/28e755b4-9e42-4728-8f46-9f4995ef299a",
+      "source": "Lever (Netomi)",
+      "level": "senior",
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-nium-9b416d47-9390-4f22-8d97-727a066d307c",
+      "title": "Staff Product Manager  – Digital Assets",
+      "company": "Nium",
+      "location": "Singapore",
+      "url": "https://jobs.lever.co/nium/9b416d47-9390-4f22-8d97-727a066d307c",
+      "source": "Lever (Nium)",
+      "level": "group",
+      "regions": [
+        "singapore"
       ],
       "firstSeen": "2026-11-17"
     },
@@ -28,6 +132,32 @@
       "firstSeen": "2026-11-17"
     },
     {
+      "id": "lever-saviynt-766418c4-bf0e-4455-8dce-5702562ea450",
+      "title": "Director, Product Management - Privileged Access Management",
+      "company": "Saviynt",
+      "location": "El Segundo, CA",
+      "url": "https://jobs.lever.co/saviynt/766418c4-bf0e-4455-8dce-5702562ea450",
+      "source": "Lever (Saviynt)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-saviynt-bc178398-a102-4c60-9647-e170c704f9fc",
+      "title": "VP, Product Marketing – Identity Security Portfolio",
+      "company": "Saviynt",
+      "location": "Remote US",
+      "url": "https://jobs.lever.co/saviynt/bc178398-a102-4c60-9647-e170c704f9fc",
+      "source": "Lever (Saviynt)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
       "id": "smartrecruiters-ServiceNow-744000161885234",
       "title": "Inbound Product Manager (Masters Summer 2027)",
       "company": "ServiceNow",
@@ -37,6 +167,280 @@
       "level": "pm",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-080868dd-fc8c-4648-b6ab-6780d8ca3d63",
+      "title": "Principal Product Manager - Audio and Media Playback",
+      "company": "Spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/080868dd-fc8c-4648-b6ab-6780d8ca3d63",
+      "source": "Lever (Spotify)",
+      "level": "group",
+      "regions": [
+        "nordics",
+        "europe"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-73a83f73-2f59-4c82-bac3-7dfc5d3355ad",
+      "title": "Principal Product Manager - Core Experience Platform",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/73a83f73-2f59-4c82-bac3-7dfc5d3355ad",
+      "source": "Lever (Spotify)",
+      "level": "group",
+      "regions": [
+        "uk"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-ef3985d1-522e-4950-ba6e-af57dd93c788",
+      "title": "Principal Product Manager - Format Foundations",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/ef3985d1-522e-4950-ba6e-af57dd93c788",
+      "source": "Lever (Spotify)",
+      "level": "group",
+      "regions": [
+        "uk"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-e74bfb24-55de-4d93-b228-ae38b8fdfbea",
+      "title": "Principal Product Manager - Personalization",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/e74bfb24-55de-4d93-b228-ae38b8fdfbea",
+      "source": "Lever (Spotify)",
+      "level": "group",
+      "regions": [
+        "uk"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-22a796f2-2bfd-4f44-aab3-a0a20a7783fc",
+      "title": "Principal Product Manager - TV & Desktop",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/22a796f2-2bfd-4f44-aab3-a0a20a7783fc",
+      "source": "Lever (Spotify)",
+      "level": "group",
+      "regions": [
+        "uk"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-03437e2a-2d5e-4593-9e97-11271014932e",
+      "title": "Product Manager - Data Platform",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e",
+      "source": "Lever (Spotify)",
+      "level": "pm",
+      "regions": [
+        "uk"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-e7b01c1e-4246-4f31-83ea-9219c8b22c83",
+      "title": "Senior Product Manager - Audiobooks Format Foundations",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/e7b01c1e-4246-4f31-83ea-9219c8b22c83",
+      "source": "Lever (Spotify)",
+      "level": "senior",
+      "regions": [
+        "uk"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-8bd60a8c-d8bb-41ba-9ac0-69d0b643d63d",
+      "title": "Senior Product Manager - Spotify Connect",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/8bd60a8c-d8bb-41ba-9ac0-69d0b643d63d",
+      "source": "Lever (Spotify)",
+      "level": "senior",
+      "regions": [
+        "uk"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-a57db22d-dc0d-4f36-9a2e-34acdf1ec046",
+      "title": "Senior Product Manager - Subscriptions (Premium Desirability)",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/a57db22d-dc0d-4f36-9a2e-34acdf1ec046",
+      "source": "Lever (Spotify)",
+      "level": "senior",
+      "regions": [
+        "uk"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-ee45924c-894c-4ea0-9c93-c5221894063f",
+      "title": "Senior Product Manager - User Platform",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/ee45924c-894c-4ea0-9c93-c5221894063f",
+      "source": "Lever (Spotify)",
+      "level": "senior",
+      "regions": [
+        "uk"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-94a10740-8d2c-430a-8ef3-2d988142541a",
+      "title": "Senior Product Manager — Subscriptions (Freemium)",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/94a10740-8d2c-430a-8ef3-2d988142541a",
+      "source": "Lever (Spotify)",
+      "level": "senior",
+      "regions": [
+        "uk"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-spotify-1a1c0754-29b1-4651-a399-3c078866b9d0",
+      "title": "VP, Head of Product - Advertising",
+      "company": "Spotify",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/1a1c0754-29b1-4651-a399-3c078866b9d0",
+      "source": "Lever (Spotify)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-getwingapp-492bd640-1994-45a1-98ba-c34870ba88db",
+      "title": "Product Manager - AI",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "Philippines",
+      "url": "https://jobs.lever.co/getwingapp/492bd640-1994-45a1-98ba-c34870ba88db",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-getwingapp-aa0610df-7694-427f-b1bf-53b65df5cb2e",
+      "title": "Product Manager - AI",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "Thailand",
+      "url": "https://jobs.lever.co/getwingapp/aa0610df-7694-427f-b1bf-53b65df5cb2e",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-getwingapp-c3611d7a-0f2f-4d23-8000-8333fca0d8c7",
+      "title": "Product Manager - AI",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "Malaysia",
+      "url": "https://jobs.lever.co/getwingapp/c3611d7a-0f2f-4d23-8000-8333fca0d8c7",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-getwingapp-c4137004-b057-408e-8397-670551ac78c2",
+      "title": "Product Manager - AI",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "Jakarta",
+      "url": "https://jobs.lever.co/getwingapp/c4137004-b057-408e-8397-670551ac78c2",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-getwingapp-dd8cd13c-58af-45c3-8689-70966c169577",
+      "title": "Product Manager - AI",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "Hong Kong",
+      "url": "https://jobs.lever.co/getwingapp/dd8cd13c-58af-45c3-8689-70966c169577",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-getwingapp-9a1ddc3d-c080-41d4-8601-53eb0e95b082",
+      "title": "Product Manager - AI Sales Tech",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "Philippines",
+      "url": "https://jobs.lever.co/getwingapp/9a1ddc3d-c080-41d4-8601-53eb0e95b082",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-getwingapp-178725c3-1606-4561-b300-2df99db48fd6",
+      "title": "Product Manager - B2B SaaS & AI",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "Philippines",
+      "url": "https://jobs.lever.co/getwingapp/178725c3-1606-4561-b300-2df99db48fd6",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-getwingapp-9d81db85-2f2e-47ae-a37f-75ef5fc17708",
+      "title": "Product Manager, AI",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "Hong Kong",
+      "url": "https://jobs.lever.co/getwingapp/9d81db85-2f2e-47ae-a37f-75ef5fc17708",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "regions": [
+        "apac"
+      ],
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "lever-getwingapp-eb983330-cecc-4800-b65f-f0ca883b1ee5",
+      "title": "Technical Product Manager - B2B SaaS/AI",
+      "company": "Wing Assistant (M32 AI)",
+      "location": "Philippines",
+      "url": "https://jobs.lever.co/getwingapp/eb983330-cecc-4800-b65f-f0ca883b1ee5",
+      "source": "Lever (Wing Assistant (M32 AI))",
+      "level": "pm",
+      "regions": [
+        "apac"
       ],
       "firstSeen": "2026-11-17"
     },
@@ -197,19 +601,6 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "smartrecruiters-ServiceNow-744000161586219",
-      "title": "Director, Regional Product Management",
-      "company": "ServiceNow",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161586219",
-      "source": "SmartRecruiters (ServiceNow)",
-      "level": "leadership",
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-13"
-    },
-    {
       "id": "ashby-snowflake-61d48d79-aeb8-45fb-806a-5b6e9f625de7",
       "title": "Senior Product Manager - Openflow",
       "company": "Snowflake",
@@ -338,19 +729,6 @@
       "level": "pm",
       "regions": [
         "europe"
-      ],
-      "firstSeen": "2026-11-10"
-    },
-    {
-      "id": "smartrecruiters-wise-744000160875939",
-      "title": "Principal Product Manager – Financial Crime",
-      "company": "Wise",
-      "location": "London, , United Kingdom",
-      "url": "https://jobs.smartrecruiters.com/Wise/744000160875939",
-      "source": "SmartRecruiters (Wise)",
-      "level": "group",
-      "regions": [
-        "uk"
       ],
       "firstSeen": "2026-11-10"
     },
@@ -516,7 +894,7 @@
       "id": "rippling-rippling-c2045722-3cee-4987-9a3a-1aac03c98c99",
       "title": "Product Manager, Growth Platform (Cross-Sell Marketing)",
       "company": "Rippling",
-      "location": "Hybrid (San Francisco, California, US)",
+      "location": "Hybrid (New York, New York, US)",
       "url": "https://ats.rippling.com/rippling/jobs/c2045722-3cee-4987-9a3a-1aac03c98c99",
       "source": "Rippling (Rippling)",
       "level": "pm",
@@ -1181,11 +1559,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4694761005",
+      "id": "greenhouse-gleanwork-4579657005",
       "title": "Product Manager, Agent Security & Governance",
       "company": "Glean",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694761005",
+      "location": "Mountain View, CA",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4579657005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -1194,11 +1572,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4579657005",
+      "id": "greenhouse-gleanwork-4694761005",
       "title": "Product Manager, Agent Security & Governance",
       "company": "Glean",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4579657005",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694761005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -1729,11 +2107,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200462002",
+      "id": "greenhouse-databricks-8200284002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1742,11 +2120,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200284002",
+      "id": "greenhouse-databricks-8200462002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1794,19 +2172,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8136204002",
-      "title": "Sr. Product Manager, Databricks AI",
-      "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
-      "source": "Greenhouse (Databricks)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-8136071002",
       "title": "Sr. Product Manager, Databricks AI",
       "company": "Databricks",
@@ -1820,11 +2185,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7680573002",
-      "title": "Sr. Product Manager, Databricks Free Edition",
+      "id": "greenhouse-databricks-8136204002",
+      "title": "Sr. Product Manager, Databricks AI",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1838,6 +2203,19 @@
       "company": "Databricks",
       "location": "Seattle, Washington",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
+      "source": "Greenhouse (Databricks)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-7680573002",
+      "title": "Sr. Product Manager, Databricks Free Edition",
+      "company": "Databricks",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1872,11 +2250,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8876675002",
+      "id": "greenhouse-databricks-8811265002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1885,11 +2263,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8811265002",
+      "id": "greenhouse-databricks-8876675002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -1966,19 +2344,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7110499002",
-      "title": "Staff Product Manager, Security",
-      "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002",
-      "source": "Greenhouse (Databricks)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-7110509002",
       "title": "Staff Product Manager, Security",
       "company": "Databricks",
@@ -1992,11 +2357,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8427954002",
-      "title": "Staff Product Manager, Serverless Workspaces",
+      "id": "greenhouse-databricks-7110499002",
+      "title": "Staff Product Manager, Security",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2010,6 +2375,19 @@
       "company": "Databricks",
       "location": "San Francisco, California",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
+      "source": "Greenhouse (Databricks)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-8427954002",
+      "title": "Staff Product Manager, Serverless Workspaces",
+      "company": "Databricks",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2844,7 +3222,7 @@
       "id": "rippling-rippling-a5b9d8bf-f3e4-4f6d-812f-0b85af42e5b0",
       "title": "Product Lead, Payments",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/a5b9d8bf-f3e4-4f6d-812f-0b85af42e5b0",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -2870,7 +3248,7 @@
       "id": "rippling-rippling-0889e2ac-a30c-43b7-8c8c-5312264416db",
       "title": "Product Lead, Talent Products",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/0889e2ac-a30c-43b7-8c8c-5312264416db",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3049,19 +3427,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-scaleai-4589749005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "company": "Scale AI",
-      "location": "Doha, Qatar ; Dubai, UAE",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
-      "source": "Greenhouse (Scale AI)",
-      "level": "pm",
-      "regions": [
-        "uae"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-scaleai-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
@@ -3071,6 +3436,19 @@
       "level": "pm",
       "regions": [
         "saudi"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-scaleai-4589749005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "company": "Scale AI",
+      "location": "Doha, Qatar ; Dubai, UAE",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "source": "Greenhouse (Scale AI)",
+      "level": "pm",
+      "regions": [
+        "uae"
       ],
       "firstSeen": "2026-10-21"
     },

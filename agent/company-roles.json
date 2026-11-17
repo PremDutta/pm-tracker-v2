@@ -1,15 +1,7 @@
 {
-  "scannedAt": "2026-11-17T10:57:36.722Z",
+  "scannedAt": "2026-11-17T15:36:48.028Z",
   "roles": {
     "Amazon": [
-      {
-        "id": "amazon-10459442",
-        "title": "Principal Product Manager - Tech, Prime Video Commerce & International Product",
-        "location": "Mumbai, Maharashtra, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10459442/principal-product-manager-tech-prime-video-commerce-international-product",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
       {
         "id": "amazon-10578219",
         "title": "Principal Product Manager- Technical, Amazon Finance Technology",
@@ -961,12 +953,28 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "lever-meesho-1c0052a9-6664-4602-9aad-0e250d9c0980",
+        "title": "Product Manager I",
+        "location": "Bangalore, Karnataka",
+        "url": "https://jobs.lever.co/meesho/1c0052a9-6664-4602-9aad-0e250d9c0980",
+        "level": "pm",
+        "firstSeen": "2026-11-17"
+      },
+      {
         "id": "lever-meesho-5dca8c71-9993-438f-ad51-da3c7f4be692",
         "title": "Product Manager II",
         "location": "Bangalore, Karnataka",
         "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
         "level": "pm",
         "firstSeen": "2026-10-22"
+      },
+      {
+        "id": "lever-meesho-19954b1f-3bbc-44b6-b836-65c0f854953b",
+        "title": "Senior Product Manager",
+        "location": "Bangalore, Karnataka",
+        "url": "https://jobs.lever.co/meesho/19954b1f-3bbc-44b6-b836-65c0f854953b",
+        "level": "senior",
+        "firstSeen": "2026-11-17"
       },
       {
         "id": "lever-meesho-97ce9e5a-a8bb-446d-a8db-9078603b106f",
@@ -1389,14 +1397,6 @@
         "url": "https://jobs.lever.co/paytm/fec8e98b-d09b-4edb-b5a9-fe04aa079a3c",
         "level": "pm",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "lever-paytm-2294c39e-0394-472b-8ba0-736857fa24a8",
-        "title": "Product Management- Product Analyst- Telco",
-        "location": "Noida, Uttar Pradesh",
-        "url": "https://jobs.lever.co/paytm/2294c39e-0394-472b-8ba0-736857fa24a8",
-        "level": "pm",
-        "firstSeen": "2026-10-08"
       }
     ],
     "PhonePe": [
@@ -1723,10 +1723,10 @@
     ],
     "Visa": [
       {
-        "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF090602W",
+        "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF090601W-1",
         "title": "Product Manager",
         "location": "IN - Bengaluru, India",
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF090602W",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF090601W-1",
         "level": "pm",
         "firstSeen": "2026-11-17"
       },
@@ -1781,10 +1781,10 @@
         "firstSeen": "2026-11-17"
       },
       {
-        "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
-        "title": "Lead Digital Product Manager - CIAM",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
+        "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
+        "title": "Lead Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
         "level": "group",
         "firstSeen": "2026-11-17"
       },

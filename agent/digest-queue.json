@@ -1,60 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10573263",
-      "title": "Sr. Product Manager - Technical, WW Prime - Benefits, Pricing & Constructs, WW Prime - Benefits, Pricing & Constructs",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10573263/sr-product-manager-technical-ww-prime-benefits-pricing-constructs-ww-prime-benefits-pricing-constructs",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-09"
-    },
-    {
-      "id": "workday-motorolasolutions-/job/Bangalore-India/Technical-Product-Manager_R68278",
-      "title": "Technical Product Manager",
-      "company": "Motorola Solutions",
-      "location": "Bangalore, India",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Technical-Product-Manager_R68278",
-      "source": "Workday (Motorola Solutions)",
-      "queuedOn": "2026-10-09"
-    },
-    {
-      "id": "vc-accel-96314125",
-      "title": "Senior Technical Product Manager",
-      "company": "Nimble Storage",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://careers.hpe.com/us/en/job/1215737",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-09"
-    },
-    {
-      "id": "vc-peakxv-27586",
-      "title": "Senior Product Manager",
-      "company": "Multiplier",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://careers.kula.ai/usemultiplier/27586",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-09"
-    },
-    {
-      "id": "greenhouse-anthropic-5448167008",
-      "title": "Product Manager, Claude",
-      "company": "Anthropic",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448167008",
-      "source": "Greenhouse (Anthropic)",
-      "queuedOn": "2026-10-09"
-    },
-    {
-      "id": "oracle-jpmc.fa.oraclecloud.com-210798770",
-      "title": "Product Manager - Infrastructure Platforms",
-      "company": "JPMorgan Chase",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798770",
-      "source": "JPMorgan Chase careers",
-      "queuedOn": "2026-10-09"
-    },
-    {
       "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
       "title": "Senior Product Manager - Technical",
       "company": "Mastercard",
@@ -3630,27 +3576,63 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
       "source": "Workday (Wells Fargo)",
       "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "lever-meesho-1c0052a9-6664-4602-9aad-0e250d9c0980",
+      "title": "Product Manager I",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/1c0052a9-6664-4602-9aad-0e250d9c0980",
+      "source": "Lever (Meesho)",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "lever-meesho-19954b1f-3bbc-44b6-b836-65c0f854953b",
+      "title": "Senior Product Manager",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/19954b1f-3bbc-44b6-b836-65c0f854953b",
+      "source": "Lever (Meesho)",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF090601W-1",
+      "title": "Product Manager",
+      "company": "Visa",
+      "location": "IN - Bengaluru, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF090601W-1",
+      "source": "Workday (Visa)",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "vc-accel-100063849",
+      "title": "Product Manager, GPay",
+      "company": "Google",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/87621290973635270-product-manager-gpay?page=125",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "vc-accel-100003488",
+      "title": "Product Manager",
+      "company": "Pismo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF090602W",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "vc-accel-100063809",
+      "title": "Product Management Director, Googler Technology and Engineering, Spaces",
+      "company": "Google",
+      "location": "Hyderabad, Telangana, India, New York, NY, USA",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/115242053855519430-product-management-director-googler-technology-and-engineering-spaces?page=73",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-17"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "Wells Fargo",
-      "date": "2026-10-16",
-      "title": "Lead Digital Product Manager",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
-      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
-      "detail": "closed 2026-10-03, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "Target India",
-      "date": "2026-10-16",
-      "title": "Director Product Management",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
-      "id": "workday-target-/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
-      "detail": "closed 2026-10-05, reposted today"
-    },
     {
       "type": "reopened",
       "company": "ServiceNow",
@@ -4364,6 +4346,24 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
       "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
       "detail": "closed 2026-10-19, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Meesho",
+      "date": "2026-11-17",
+      "title": "Product Manager I",
+      "url": "https://jobs.lever.co/meesho/1c0052a9-6664-4602-9aad-0e250d9c0980",
+      "id": "lever-meesho-1c0052a9-6664-4602-9aad-0e250d9c0980",
+      "detail": "closed 2026-11-13, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Meesho",
+      "date": "2026-11-17",
+      "title": "Senior Product Manager",
+      "url": "https://jobs.lever.co/meesho/19954b1f-3bbc-44b6-b836-65c0f854953b",
+      "id": "lever-meesho-19954b1f-3bbc-44b6-b836-65c0f854953b",
+      "detail": "closed 2026-10-14, reposted today"
     }
   ],
   "reminders": {}
