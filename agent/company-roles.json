@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-18T10:28:34.336Z",
+  "scannedAt": "2026-11-18T15:13:30.209Z",
   "roles": {
     "Amazon": [
       {
@@ -307,14 +307,6 @@
         "firstSeen": "2026-11-16"
       },
       {
-        "id": "amazon-10497676",
-        "title": "Sr. Product Manager - Tech, Amazon Pharmacy",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10497676/sr-product-manager-tech-amazon-pharmacy",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10563368",
         "title": "Sr. Product Manager - Tech, Cross Border and International Expansions",
         "location": "Bengaluru, Karnataka, IND",
@@ -587,6 +579,14 @@
         "firstSeen": "2026-11-10"
       },
       {
+        "id": "sf-careers.hcltech.com-169138",
+        "title": "Data Product Manager",
+        "location": "Chennai",
+        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-18"
+      },
+      {
         "id": "sf-careers.hcltech.com-178491",
         "title": "Product Manager/ Product Lead",
         "location": "Pune",
@@ -611,14 +611,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158038",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -627,10 +619,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
+        "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -639,6 +631,14 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -759,12 +759,12 @@
         "firstSeen": "2026-11-13"
       },
       {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210808168",
-        "title": "Product Manager",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808168",
-        "level": "pm",
-        "firstSeen": "2026-11-17"
+        "id": "oracle-jpmc.fa.oraclecloud.com-210808753",
+        "title": "Product Management - Investments Advisory - Vice President",
+        "location": "Bengaluru, Karnataka, India",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808753",
+        "level": "leadership",
+        "firstSeen": "2026-11-18"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210801074",
@@ -1399,6 +1399,14 @@
         "firstSeen": "2026-10-29"
       },
       {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
+        "level": "senior",
+        "firstSeen": "2026-11-10"
+      },
+      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
@@ -1413,14 +1421,6 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
         "level": "senior",
         "firstSeen": "2026-10-15"
-      },
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
-        "level": "senior",
-        "firstSeen": "2026-11-10"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
@@ -1727,10 +1727,26 @@
         "firstSeen": "2026-11-17"
       },
       {
+        "id": "workday-wf-/job/Bengaluru-India/Senior-Data-Product-Management-Consultant_R-583784-1",
+        "title": "Senior Data Product Management Consultant",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Data-Product-Management-Consultant_R-583784-1",
+        "level": "senior",
+        "firstSeen": "2026-11-18"
+      },
+      {
         "id": "workday-wf-/job/Hyderabad-India/Senior-Product-Manager_R-574835",
         "title": "Senior Product Manager",
         "location": "Hyderabad, India",
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Product-Manager_R-574835",
+        "level": "senior",
+        "firstSeen": "2026-11-18"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-581858-1",
         "level": "senior",
         "firstSeen": "2026-11-18"
       }

@@ -1,69 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-94257481",
-      "title": "Product Manager, Customer Incentives and Growth Platforms",
-      "company": "Google",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/135605923224658630-product-manager-customer-incentives-and-growth-platforms?page=164",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-10"
-    },
-    {
-      "id": "vc-accel-93789975",
-      "title": "Product Manager, Google Pay",
-      "company": "Google",
-      "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/129554584887534278-product-manager-google-pay?page=71",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-10"
-    },
-    {
-      "id": "vc-accel-93789881",
-      "title": "Product Manager, Google Photos",
-      "company": "Google",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/126527109685224134-product-manager-google-photos?page=47",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-10"
-    },
-    {
-      "id": "vc-accel-92684039",
-      "title": "Group Manager, Product Management - LinkedIn Learning",
-      "company": "LinkedIn",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/group-manager-product-management-linkedin-learning-at-linkedin-4461735970",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-10"
-    },
-    {
-      "id": "vc-accel-92295682",
-      "title": "Product Manager II, Partner Program Platform",
-      "company": "Google",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/115446528926982854-product-manager-ii-partner-program-platform?page=6",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-10"
-    },
-    {
-      "id": "vc-accel-92136029",
-      "title": "Principal Product Manager - LinkedIn Learning",
-      "company": "LinkedIn",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/principal-product-manager-linkedin-learning-at-linkedin-4461755103",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-10"
-    },
-    {
-      "id": "vc-accel-91754801",
-      "title": "Product Manager, Google Cloud Business Platform",
-      "company": "Google",
-      "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/81108372769645254-product-manager-google-cloud-business-platform?page=154",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-10"
-    },
-    {
       "id": "vc-accel-91754703",
       "title": "Senior Product Manager, Map Intelligence, Google Maps Platform",
       "company": "Google",
@@ -3628,6 +3565,69 @@
       "company": "UiPath",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://jobs.ashbyhq.com/uipath/2ca36395-0937-4a57-b502-ac5a6bfe388f",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-18"
+    },
+    {
+      "id": "ashby-deepgram-19954a4c-7f3f-4231-8480-c7ec628e61a4",
+      "title": "Senior Product Manager, Enterprise",
+      "company": "Deepgram",
+      "location": "USA - Remote",
+      "url": "https://jobs.ashbyhq.com/Deepgram/19954a4c-7f3f-4231-8480-c7ec628e61a4",
+      "source": "Ashby (Deepgram)",
+      "queuedOn": "2026-11-18"
+    },
+    {
+      "id": "oracle-jpmc.fa.oraclecloud.com-210808753",
+      "title": "Product Management - Investments Advisory - Vice President",
+      "company": "JPMorgan Chase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808753",
+      "source": "JPMorgan Chase careers",
+      "queuedOn": "2026-11-18"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Senior-Data-Product-Management-Consultant_R-583784-1",
+      "title": "Senior Data Product Management Consultant",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Data-Product-Management-Consultant_R-583784-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-11-18"
+    },
+    {
+      "id": "vc-accel-100140626",
+      "title": "Manager, Product Management (SaaS B2B)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/zenoti/jobs/8204626003",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-18"
+    },
+    {
+      "id": "vc-accel-100137223",
+      "title": "Product Manager",
+      "company": "Pismo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF090601W-1",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-18"
+    },
+    {
+      "id": "vc-accel-100137164",
+      "title": "Sr Product Manager",
+      "company": "Pismo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Product-Manager_REF090037W-1",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-18"
+    },
+    {
+      "id": "vc-accel-100121837",
+      "title": "Senior Product Manager- Lakehouse",
+      "company": "Cloudera",
+      "location": "Bengaluru, Karnataka, India, Remote",
+      "url": "https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore-Remote/Senior-Product-Manager--Lakehouse_261539",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-18"
     }
