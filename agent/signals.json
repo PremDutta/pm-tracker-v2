@@ -1,6 +1,21 @@
 {
   "signals": [
     {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-18",
+      "title": "Technical Product Manager, Legal AI and Platforms ",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162182430",
+      "id": "smartrecruiters-ServiceNow-744000162182430",
+      "detail": "closed 2026-11-06, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-18",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
       "type": "funding",
       "company": "D2C Price Hike, Bharat Semi",
       "title": "D2C Price Hike, Bharat Semi Bags $24 Mn & More",
@@ -1518,12 +1533,6 @@
       "url": "https://yourstory.com/2026/10/the-pant-project-bags-rs-109-cr-to-accelerate-retail-expansion",
       "date": "2026-10-19",
       "detail": "via YourStory"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-18",
-      "detail": "168 engineering openings vs a usual 37"
     }
   ]
 }

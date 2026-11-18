@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-18"
+    },
+    {
       "id": "lever-hevodata-c665b22f-6336-4ec2-88d8-4165f51d5396",
       "title": "Product Manager",
       "company": "Hevo Data",
@@ -142,28 +153,6 @@
       "level": "group",
       "aiMatch": "company",
       "firstSeen": "2026-11-15"
-    },
-    {
-      "id": "sf-careers.hcltech.com-177905",
-      "title": "AI Product Manager I",
-      "company": "HCLTech",
-      "location": "Pune",
-      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/177905-en_US/",
-      "source": "HCLTech careers",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-14"
-    },
-    {
-      "id": "sf-careers.hcltech.com-157248",
-      "title": "AI Product Manager I",
-      "company": "HCLTech",
-      "location": "Pune",
-      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/157248-en_US/",
-      "source": "HCLTech careers",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-14"
     },
     {
       "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3",
@@ -700,17 +689,6 @@
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/rhythmx-ai/jobs/5320938008",
       "source": "Greenhouse (GW RhythmX)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "ashby-HackerOne-c061590a-f169-4741-a0ae-a3f9b310cc09",
-      "title": "AI Product Manager",
-      "company": "HackerOne",
-      "location": "Pune",
-      "url": "https://jobs.ashbyhq.com/hackerone/c061590a-f169-4741-a0ae-a3f9b310cc09",
-      "source": "Ashby (HackerOne)",
       "level": "pm",
       "aiMatch": "title",
       "firstSeen": "2026-10-05"

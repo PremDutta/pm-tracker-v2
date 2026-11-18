@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
-      "title": "Senior Product Manager - Technical",
-      "company": "Mastercard",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-09"
-    },
-    {
-      "id": "workday-visa-/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W",
-      "title": "Senior Product Manager, Platform and Gateway",
-      "company": "Visa",
-      "location": "IN - Bengaluru, India",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Senior-Product-Manager--Platform-and-Gateway_REF087645W",
-      "source": "Workday (Visa)",
-      "queuedOn": "2026-10-09"
-    },
-    {
-      "id": "ashby-deepgram-9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5",
-      "title": "Staff Product Manager, AI Applications",
-      "company": "Deepgram",
-      "location": "USA - Remote",
-      "url": "https://jobs.ashbyhq.com/deepgram/9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5",
-      "source": "Ashby (Deepgram)",
-      "queuedOn": "2026-10-10"
-    },
-    {
       "id": "workday-visa-/job/IN---Bengaluru-India/Product-Manager_REF089128W-1",
       "title": "Product Manager",
       "company": "Visa",
@@ -3630,24 +3603,36 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/115242053855519430-product-management-director-googler-technology-and-engineering-spaces?page=73",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-17"
+    },
+    {
+      "id": "vc-peakxv-19954b1f-3bbc-44b6-b836-65c0f854953b",
+      "title": "Senior Product Manager",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/19954b1f-3bbc-44b6-b836-65c0f854953b",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-18"
+    },
+    {
+      "id": "vc-peakxv-1c0052a9-6664-4602-9aad-0e250d9c0980",
+      "title": "Product Manager I",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/1c0052a9-6664-4602-9aad-0e250d9c0980",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-18"
+    },
+    {
+      "id": "vc-lightspeed-4068251EA8",
+      "title": "Product Manager-Vehicle Platforms",
+      "company": "Exponent Energy",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://apply.workable.com/j/4068251EA8",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-11-18"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-16",
-      "title": "Senior Staff Product Manager",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156071737",
-      "id": "smartrecruiters-ServiceNow-744000156071737",
-      "detail": "closed 2026-10-15, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-17",
-      "detail": "169 engineering openings vs a usual 36"
-    },
     {
       "type": "eng_spike",
       "company": "Accenture",
@@ -4364,6 +4349,21 @@
       "url": "https://jobs.lever.co/meesho/19954b1f-3bbc-44b6-b836-65c0f854953b",
       "id": "lever-meesho-19954b1f-3bbc-44b6-b836-65c0f854953b",
       "detail": "closed 2026-10-14, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-18",
+      "title": "Technical Product Manager, Legal AI and Platforms ",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162182430",
+      "id": "smartrecruiters-ServiceNow-744000162182430",
+      "detail": "closed 2026-11-06, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-18",
+      "detail": "17 engineering openings vs a usual 5"
     }
   ],
   "reminders": {}
