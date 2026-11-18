@@ -123,7 +123,7 @@
           "eng": 42
         },
         "2026-11-18": {
-          "total": 114,
+          "total": 115,
           "eng": 43
         }
       },
@@ -349,8 +349,8 @@
           "eng": 281
         },
         "2026-11-18": {
-          "total": 658,
-          "eng": 282
+          "total": 644,
+          "eng": 279
         }
       },
       "pm": {
@@ -616,7 +616,7 @@
           "eng": 36
         },
         "2026-11-18": {
-          "total": 77,
+          "total": 79,
           "eng": 35
         }
       },
@@ -944,8 +944,8 @@
           "eng": 42
         },
         "2026-11-18": {
-          "total": 127,
-          "eng": 41
+          "total": 125,
+          "eng": 40
         }
       },
       "pm": {
@@ -1502,7 +1502,7 @@
         },
         "2026-11-18": {
           "total": 167,
-          "eng": 78
+          "eng": 77
         }
       },
       "pm": {
@@ -2190,7 +2190,7 @@
           "eng": 34
         },
         "2026-11-18": {
-          "total": 127,
+          "total": 130,
           "eng": 36
         }
       },
@@ -2341,8 +2341,8 @@
           "eng": 11
         },
         "2026-11-18": {
-          "total": 26,
-          "eng": 11
+          "total": 27,
+          "eng": 13
         }
       },
       "pm": {
@@ -2680,8 +2680,8 @@
           "eng": 11
         },
         "2026-11-18": {
-          "total": 33,
-          "eng": 11
+          "total": 32,
+          "eng": 10
         }
       },
       "pm": {
@@ -2816,7 +2816,7 @@
           "eng": 60
         },
         "2026-11-18": {
-          "total": 167,
+          "total": 168,
           "eng": 60
         }
       },
@@ -2965,8 +2965,8 @@
           "eng": 436
         },
         "2026-11-18": {
-          "total": 836,
-          "eng": 432
+          "total": 832,
+          "eng": 430
         }
       },
       "pm": {
@@ -3058,6 +3058,12 @@
         "product manager integrity": {
           "ids": [
             "ashby-openai-05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d"
+          ],
+          "lastSeen": "2026-11-18"
+        },
+        "technical product manager grc systems": {
+          "ids": [
+            "ashby-openai-2893060b-3795-4780-b538-48bb7d52254b"
           ],
           "lastSeen": "2026-11-18"
         }
@@ -3186,8 +3192,8 @@
           "eng": 42
         },
         "2026-11-18": {
-          "total": 181,
-          "eng": 44
+          "total": 182,
+          "eng": 45
         }
       },
       "pm": {
@@ -5356,6 +5362,12 @@
         "vp head of product advertising": {
           "ids": [
             "lever-spotify-1a1c0754-29b1-4651-a399-3c078866b9d0"
+          ],
+          "lastSeen": "2026-11-18"
+        },
+        "senior product manager free": {
+          "ids": [
+            "lever-spotify-5ddb2fa1-4494-48a9-84c0-b646da91edb8"
           ],
           "lastSeen": "2026-11-18"
         }
@@ -8249,7 +8261,7 @@
         },
         "2026-11-18": {
           "total": 43,
-          "eng": 15
+          "eng": 14
         }
       },
       "pm": {
@@ -8988,7 +9000,7 @@
         },
         "2026-11-18": {
           "total": 100,
-          "eng": 40
+          "eng": 38
         }
       },
       "pm": {
@@ -9457,7 +9469,7 @@
         },
         "2026-11-18": {
           "total": 100,
-          "eng": 5
+          "eng": 6
         }
       },
       "pm": {
@@ -9886,7 +9898,7 @@
         },
         "2026-11-18": {
           "total": 100,
-          "eng": 82
+          "eng": 84
         }
       },
       "pm": {
@@ -10043,7 +10055,7 @@
           "eng": 2
         },
         "2026-11-18": {
-          "total": 5,
+          "total": 4,
           "eng": 2
         }
       },
@@ -11264,7 +11276,8 @@
             "smartrecruiters-ServiceNow-744000156718589",
             "smartrecruiters-ServiceNow-744000161990071"
           ],
-          "lastSeen": "2026-11-18"
+          "lastSeen": "2026-11-18",
+          "closedOn": "2026-11-18"
         },
         "senior director product unified security and exposure management": {
           "ids": [
@@ -11462,10 +11475,10 @@
         },
         "senior staff inbound product manager": {
           "ids": [
-            "smartrecruiters-ServiceNow-744000156543661"
+            "smartrecruiters-ServiceNow-744000156543661",
+            "smartrecruiters-ServiceNow-744000162408099"
           ],
-          "lastSeen": "2026-10-23",
-          "closedOn": "2026-10-23"
+          "lastSeen": "2026-11-18"
         },
         "senior director product analytics": {
           "ids": [
@@ -11599,6 +11612,12 @@
         "senior director product autonomous data analytics": {
           "ids": [
             "smartrecruiters-ServiceNow-744000162114933"
+          ],
+          "lastSeen": "2026-11-18"
+        },
+        "svp product marketing": {
+          "ids": [
+            "smartrecruiters-ServiceNow-744000162403879"
           ],
           "lastSeen": "2026-11-18"
         }
@@ -12155,8 +12174,8 @@
           "eng": 74
         },
         "2026-11-18": {
-          "total": 91,
-          "eng": 74
+          "total": 92,
+          "eng": 75
         }
       },
       "pm": {}
@@ -12422,7 +12441,7 @@
         },
         "2026-11-18": {
           "total": 100,
-          "eng": 1
+          "eng": 0
         }
       },
       "pm": {
@@ -12580,7 +12599,7 @@
           "eng": 3
         },
         "2026-11-18": {
-          "total": 6,
+          "total": 7,
           "eng": 3
         }
       },
@@ -12589,8 +12608,7 @@
           "ids": [
             "greenhouse-verse-5448559008"
           ],
-          "lastSeen": "2026-11-18",
-          "closedOn": "2026-11-18"
+          "lastSeen": "2026-11-18"
         }
       }
     },
@@ -12971,8 +12989,8 @@
           "eng": 31
         },
         "2026-11-18": {
-          "total": 117,
-          "eng": 34
+          "total": 114,
+          "eng": 32
         }
       },
       "pm": {
@@ -13863,7 +13881,7 @@
           "eng": 44
         },
         "2026-11-18": {
-          "total": 78,
+          "total": 77,
           "eng": 42
         }
       },
@@ -14373,8 +14391,8 @@
           "eng": 19
         },
         "2026-11-18": {
-          "total": 83,
-          "eng": 22
+          "total": 70,
+          "eng": 18
         }
       },
       "pm": {
@@ -14440,7 +14458,8 @@
             "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
             "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-571003"
           ],
-          "lastSeen": "2026-11-18"
+          "lastSeen": "2026-11-18",
+          "closedOn": "2026-11-18"
         },
         "data product management consultant": {
           "ids": [
@@ -14474,7 +14493,8 @@
           "ids": [
             "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953"
           ],
-          "lastSeen": "2026-11-18"
+          "lastSeen": "2026-11-18",
+          "closedOn": "2026-11-18"
         },
         "senior digital product manager platform product management": {
           "ids": [
@@ -14628,8 +14648,8 @@
           "eng": 42
         },
         "2026-11-18": {
-          "total": 70,
-          "eng": 37
+          "total": 69,
+          "eng": 36
         }
       },
       "pm": {
@@ -14780,8 +14800,8 @@
           "eng": 44
         },
         "2026-11-18": {
-          "total": 191,
-          "eng": 44
+          "total": 188,
+          "eng": 42
         }
       },
       "pm": {
@@ -14847,7 +14867,8 @@
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Pre-Sales-Senior-Manager---ALIP_R00364466"
           ],
-          "lastSeen": "2026-11-18"
+          "lastSeen": "2026-11-18",
+          "closedOn": "2026-11-18"
         },
         "software product management pre sales senior manager supply chain": {
           "ids": [
@@ -14865,7 +14886,8 @@
           "ids": [
             "workday-accenture-/job/Chicago-Accenture-Tower-Corp/Software-Product-Management-Pre-Sales-Assoc-Director---Health---Human-Services-Software_R00368730"
           ],
-          "lastSeen": "2026-11-18"
+          "lastSeen": "2026-11-18",
+          "closedOn": "2026-11-18"
         },
         "software product management pre sales senior manager pre sales manufacturing software": {
           "ids": [
@@ -15148,8 +15170,8 @@
           "eng": 31
         },
         "2026-11-18": {
-          "total": 55,
-          "eng": 29
+          "total": 53,
+          "eng": 27
         }
       },
       "pm": {
@@ -15913,8 +15935,8 @@
           "eng": 552
         },
         "2026-11-18": {
-          "total": 897,
-          "eng": 554
+          "total": 900,
+          "eng": 556
         }
       },
       "pm": {
@@ -16385,8 +16407,8 @@
           "eng": 45
         },
         "2026-11-18": {
-          "total": 120,
-          "eng": 45
+          "total": 123,
+          "eng": 48
         }
       },
       "pm": {
@@ -17980,8 +18002,8 @@
           "eng": 168
         },
         "2026-11-18": {
-          "total": 397,
-          "eng": 168
+          "total": 401,
+          "eng": 170
         }
       },
       "pm": {
@@ -18868,7 +18890,7 @@
           "eng": 40
         },
         "2026-11-18": {
-          "total": 85,
+          "total": 87,
           "eng": 37
         }
       },
@@ -19031,7 +19053,7 @@
         },
         "2026-11-18": {
           "total": 200,
-          "eng": 128
+          "eng": 129
         }
       },
       "pm": {
@@ -19078,6 +19100,12 @@
         "people care transformation improvement scalability product manager": {
           "ids": [
             "workday-hpe-/job/Tlaquepaque-Jalisco-Mexico/People-Care-Transformation-Improvement---Scalability-Product-Manager_1212456-1"
+          ],
+          "lastSeen": "2026-11-18"
+        },
+        "principal product manager networking services": {
+          "ids": [
+            "workday-hpe-/job/Bengaluru-Karntaka-India/Principal-Product-Manager--Networking-Services_1215298-2"
           ],
           "lastSeen": "2026-11-18"
         }
@@ -19206,8 +19234,8 @@
           "eng": 47
         },
         "2026-11-18": {
-          "total": 197,
-          "eng": 46
+          "total": 200,
+          "eng": 45
         }
       },
       "pm": {
@@ -19418,8 +19446,8 @@
           "eng": 232
         },
         "2026-11-18": {
-          "total": 691,
-          "eng": 233
+          "total": 677,
+          "eng": 224
         }
       },
       "pm": {
@@ -20157,8 +20185,8 @@
           "eng": 206
         },
         "2026-11-18": {
-          "total": 377,
-          "eng": 206
+          "total": 376,
+          "eng": 205
         }
       },
       "pm": {
@@ -20405,7 +20433,7 @@
           "eng": 1
         },
         "2026-11-18": {
-          "total": 18,
+          "total": 16,
           "eng": 1
         }
       },
@@ -20415,7 +20443,8 @@
             "ashby-spotdraft-4c635c45-27c4-4e53-892d-da09156ef0e6",
             "ashby-spotdraft-96761f6b-578d-4daa-9d02-25c47fd39590"
           ],
-          "lastSeen": "2026-11-18"
+          "lastSeen": "2026-11-18",
+          "closedOn": "2026-11-18"
         },
         "product manager ai": {
           "ids": [
@@ -21603,7 +21632,7 @@
           "eng": 125
         },
         "2026-11-18": {
-          "total": 487,
+          "total": 486,
           "eng": 130
         }
       },
@@ -23617,7 +23646,7 @@
         },
         "2026-11-18": {
           "total": 100,
-          "eng": 7
+          "eng": 8
         }
       },
       "pm": {
@@ -24024,8 +24053,8 @@
           "eng": 66
         },
         "2026-11-18": {
-          "total": 238,
-          "eng": 64
+          "total": 243,
+          "eng": 66
         }
       },
       "pm": {
@@ -24477,7 +24506,7 @@
           "eng": 115
         },
         "2026-11-18": {
-          "total": 250,
+          "total": 248,
           "eng": 112
         }
       },
@@ -24492,7 +24521,8 @@
           "ids": [
             "greenhouse-gitlab-8658878002"
           ],
-          "lastSeen": "2026-11-18"
+          "lastSeen": "2026-11-18",
+          "closedOn": "2026-11-18"
         },
         "senior product manager agentic source code": {
           "ids": [
@@ -24528,7 +24558,8 @@
           "ids": [
             "greenhouse-gitlab-8871820002"
           ],
-          "lastSeen": "2026-11-18"
+          "lastSeen": "2026-11-18",
+          "closedOn": "2026-11-18"
         },
         "staff product manager revops finance systems": {
           "ids": [

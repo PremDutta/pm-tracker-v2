@@ -50,6 +50,15 @@
       "detail": "closed 2026-11-06, reposted today"
     },
     {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-18",
+      "title": "Senior Staff Inbound Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162408099",
+      "id": "smartrecruiters-ServiceNow-744000162408099",
+      "detail": "closed 2026-10-23, reposted today"
+    },
+    {
       "type": "eng_spike",
       "company": "Skyroot Aerospace",
       "date": "2026-11-18",
@@ -177,6 +186,14 @@
       "url": "https://entrackr.com/news/ai-crm-startup-dreamteam-raises-53-mn-from-accel-premji-invest-others-12814853",
       "date": "2026-11-16",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Olyv",
+      "title": "Credit-led fintech startup Olyv raises $6M",
+      "url": "https://yourstory.com/2026/11/credit-led-fintech-startup-olyv-raises-usd-6m",
+      "date": "2026-11-16",
+      "detail": "via YourStory"
     },
     {
       "type": "eng_spike",
