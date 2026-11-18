@@ -1,29 +1,3 @@
-export const REMOTE_STRATEGIES = [
-  { title:'Top Remote Platforms', icon:'🌍', items:[
-    { name:'RemoteOK', url:'https://remoteok.com/remote-product-manager-jobs', tip:'Filter "Worldwide"' },
-    { name:'We Work Remotely', url:'https://weworkremotely.com/categories/remote-product-jobs', tip:'Premium remote board' },
-    { name:'Remote.co', url:'https://remote.co/remote-jobs/product/', tip:'Curated quality listings' },
-    { name:'FlexJobs', url:'https://www.flexjobs.com/search?search={KW+}', tip:'Vetted, no scam listings' },
-    { name:'Himalayas', url:'https://himalayas.app/jobs/product-manager', tip:'Growing remote-first board' },
-    { name:'NoDesk', url:'https://nodesk.co/remote-jobs/product-manager/', tip:'Curated remote PM roles' },
-  ]},
-  { title:'Remote-First Companies (Hire Globally)', icon:'🏢', items:[
-    { name:'GitLab • Fully async, no office required' },
-    { name:'Zapier • Built async-first from day 1' },
-    { name:'Automattic (WordPress.com) • 100% distributed' },
-    { name:'Buffer • Transparent salaries, global team' },
-    { name:'Notion • Growing remote PM team' },
-    { name:'Doist (Todoist) • No HQ, global' },
-    { name:'Basecamp • Remote-work pioneers' },
-    { name:'Hotjar • Europe-based, globally remote' },
-  ]},
-  { title:'IST-Friendly Global Startups', icon:'🕐', items:[
-    { name:'Search YC W25/S25 batch — many hire globally' },
-    { name:'Search "APAC timezone" OR "IST" on job boards' },
-    { name:'Seek European scale-ups (CET+IST overlap exists)' },
-  ]},
-];
-
 export const INTL_STRATEGIES = {
   us: { title:'🇺🇸 United States', platforms:[
     { name:'Built In', url:'https://builtin.com/jobs/product-management' },

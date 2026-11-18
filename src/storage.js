@@ -64,7 +64,7 @@ export const markPlatformUseful = (platformId) => {
 // ─── Resume Match: the active draft + named saved versions ──────────────────
 // Auto-persists whatever's in the textarea (so the tab isn't blank every
 // visit) plus lets you save labeled versions (startup/enterprise/general —
-// the app's own "Be First" tab already recommends keeping a few).
+// the Hacks tab recommends keeping a few).
 const RESUME_DRAFT_KEY = 'pmt_resume_draft';
 export const getSavedResume = () => safeGet(RESUME_DRAFT_KEY, '');
 export const setSavedResume = (text) => safeSet(RESUME_DRAFT_KEY, text);

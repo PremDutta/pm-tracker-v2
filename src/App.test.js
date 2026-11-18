@@ -231,7 +231,7 @@ test('Senior PM toggle: every search string switches to the senior term (incl. S
   render(<App />);
   await user.click(screen.getByRole('button', { name: 'Senior PM' }));
 
-  for (const tab of ['Hacks', 'Alerts', 'Be First', 'Remote', 'Global', 'Govt & PSU', 'Signals', 'Companies']) {
+  for (const tab of ['Hacks', 'Global', 'Govt & PSU', 'Signals', 'Companies']) {
     await user.click(screen.getByRole('button', { name: tab }));
     expect(document.body.textContent).not.toMatch(/\{(ROLE|KW|KWTEXT|KW\+)\}/);
     for (const a of document.querySelectorAll('a[href]')) expect(a.getAttribute('href')).not.toMatch(/\{(ROLE|KW)/);
@@ -242,8 +242,6 @@ test('Senior PM toggle: every search string switches to the senior term (incl. S
   expect(screen.getAllByText((_, el) => el?.tagName === 'DIV' && el.textContent.startsWith(`site:jobs.ashbyhq.com ${senior} (Delhi OR Noida`)).length).toBeGreaterThan(0);
   expect(document.body.textContent).not.toMatch(/site:jobs\.lever\.co "product manager"/);
 
-  await user.click(screen.getByRole('button', { name: 'Remote' }));
-  expect([...document.querySelectorAll('a[href*="flexjobs"]')].map(a => a.href)[0]).toContain('search=Senior+Product+Manager');
 }, 30000); // visits every tab: ~5s locally, slower on CI runners
 
 test('Network: a saved contact on the Companies tab flags matching AI PM roles', async () => {

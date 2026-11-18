@@ -15,7 +15,7 @@ It's a static React app (no backend, no database) plus a scheduled Node scanner 
 ### Live roles (refreshed every 6 hours)
 - **Top Companies:** 227 companies with their careers pages: 131 Indian unicorns, 42 AI companies, 18 big tech, 13 IT services majors (Infosys, TCS, Wipro, HCLTech...), banks and GCCs, consulting and Indian enterprises. For the 97 with a readable job feed, open PM roles in India are listed live, with filters for level, city and "New (3 days)", the last-scan time and a Refresh button.
 - **AI PM:** AI / ML / GenAI product roles in India or remote-open-to-India, filterable by PM, Senior PM, Group / Principal / Lead and Head / Director / VP, plus 8 AI-specific searches.
-- **YC startups:** PM roles at Y Combinator startups that are India-based or remote with India allowed ("Remote (US)" style roles are left out). In the Remote tab and the AI PM tab.
+- **YC startups:** PM roles at Y Combinator startups that are India-based or remote with India allowed ("Remote (US)" style roles are left out). In the Global tab and the AI PM tab.
 - **Govt & PSU:** open product roles at NPCI, RBI Innovation Hub, NeGD / Digital India, ONDC, eGov and more, sorted by closing date with eligibility flags (age limit, MBA, contract). A directory of 65 govt, PSU, public sector bank and govt-backed orgs marks each one **Auto-scanned** or **Check manually**.
 - **Hiring Signals:** reposted PM roles (the first hire fell through), engineering hiring spikes (new product lines need PMs next) and funding rounds, plus Peak XV, Lightspeed and Accel portfolio boards.
 
@@ -23,12 +23,12 @@ It's a static React app (no backend, no database) plus a scheduled Node scanner 
 - **Role toggle:** PM / Senior PM / Group PM. Every search, alert and job-board link follows it (Senior PM searches include "sr. product manager", "senior PM" and "SPM").
 - **28 job boards:** Naukri, LinkedIn, IIMJobs, Instahyre, Wellfound, Cutshort, remote and international boards, filterable by city, posted-within and experience where the site supports it.
 - **LinkedIn power links:** "new since your last check" (only jobs posted after you last opened LinkedIn from the app, via LinkedIn's `f_TPR=a<timestamp>-` cutoff) and LinkedIn's newer AI search for your role and for AI roles.
-- **41 Google search hacks** in 8 categories: Be First, Hidden Jobs (founder posts, Notion, Google Sheets), **ATS Direct** (Ashby, Greenhouse, Lever, Workday, Workable, SmartRecruiters and 12 more, India-filtered), Senior PM, Referrals, Remote, **AI PM** and **Hiring Signals** (funding, new CPOs, govt PMU contract awards). Every query stays within Google's 32-word limit for all three roles.
+- **55 Google search hacks** in 9 categories: Be First, Hidden Jobs (founder posts, Notion, Google Sheets), **ATS Direct** (Ashby, Greenhouse, Lever, Workday, Workable, SmartRecruiters and 12 more, India-filtered), Senior PM, Referrals, Remote, **AI PM** and **Hiring Signals** (funding, new CPOs, govt PMU contract awards). Every query stays within Google's 32-word limit for all three roles.
 
 ### Applying
 - **My network (Companies tab):** list your ex-colleagues once, and every company where you know someone is flagged across the app so you ask for a referral first.
 - **Resume ↔ JD Match:** resume parsed in the browser (PDF / DOCX / TXT), stemmed keyword and phrase matching, requirement and experience-years checks, saved versions, and a "copy gap summary for AI" handoff.
-- **Templates, alert setup guide and "be first to apply" playbook.**
+- **LinkedIn outreach templates** for referrals, recruiters and follow-ups.
 
 ### Alerts (Telegram and/or WhatsApp)
 - **8:00 AM IST digest:** new govt roles, new PM roles, govt roles closing this week and hiring signals, in one message.

@@ -33,9 +33,6 @@ const FEATURES = [
   { title:'Resume ↔ JD Match',  desc:'Paste a resume and JD, see missing keywords instantly.', icon:'📄', tab:'resumematch', gradientKey:'gradient3' },
   { title:'All Job Platforms', desc:'28 boards — Indian, global, remote, startup. Sorted newest first.', icon:'💼', tab:'jobs', gradientKey:'gradient1' },
   { title:'Google Hacks',       desc:`${GOOGLE_HACKS.length} queries to find unlisted jobs, hidden posts and hiring signals before boards do.`, icon:'🔍', tab:'hacks', gradientKey:'gradient5' },
-  { title:'Alert Setup',        desc:'Set up 6 real-time alert systems so new jobs reach YOU first.', icon:'🔔', tab:'alerts', gradientKey:'gradient3' },
-  { title:'Be First to Apply',  desc:'Step-by-step strategy to be in the top 5 applicants every time.', icon:'⚡', tab:'firstapply', gradientKey:'gradient2' },
-  { title:'Remote & International', desc:'Remote boards, IST-friendly companies, US/UK/Canada/Singapore.', icon:'🌍', tab:'remote', gradientKey:'gradient4' },
   { title:'LinkedIn Templates', desc:'Copy-paste messages for connections, referrals, cold outreach.', icon:'💬', tab:'templates', gradient:'linear-gradient(135deg,#a18cd1 0%,#fbc2eb 100%)' },
 ];
 
@@ -136,8 +133,8 @@ export default function HomeTab({
       <div style={{ ...card, background:t.name==='dark'?'linear-gradient(135deg,rgba(255,214,10,0.1) 0%,rgba(255,149,0,0.1) 100%)':'linear-gradient(135deg,rgba(255,214,10,0.08) 0%,rgba(255,149,0,0.08) 100%)', padding:'36px', textAlign:'center' }}>
         <Award size={36} style={{ color:t.warning, marginBottom:'12px' }}/>
         <h3 style={{ margin:'0 0 10px', fontSize:'22px', fontWeight:'600' }}>The #1 Proven Tactic</h3>
-        <p style={{ margin:'0 auto 24px', fontSize:'17px', color:t.textSecondary, maxWidth:'500px', lineHeight:'1.6' }}>Applying in the <strong style={{ color:t.text }}>first 10 applicants</strong> makes you <strong style={{ color:t.text }}>4x more likely</strong> to hear back. Set alerts → apply same hour → chase referral.</p>
-        <button onClick={()=>setActiveTab('firstapply')} style={btnPrimary}><Zap size={16}/>See the "Be First" Strategy</button>
+        <p style={{ margin:'0 auto 24px', fontSize:'17px', color:t.textSecondary, maxWidth:'500px', lineHeight:'1.6' }}>Applying in the <strong style={{ color:t.text }}>first 10 applicants</strong> makes you <strong style={{ color:t.text }}>4x more likely</strong> to hear back. Check new roles daily, apply the same hour, then ask for a referral.</p>
+        <button onClick={()=>setActiveTab('hacks')} style={btnPrimary}><Zap size={16}/>Open fast-hire searches</button>
       </div>
     </div>
   );

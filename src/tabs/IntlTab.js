@@ -4,6 +4,7 @@ import { INTL_STRATEGIES } from '../data/strategies';
 import { fillRole } from '../data/roles';
 import GlobalRoles from '../components/GlobalRoles';
 import VisaGuide from '../components/VisaGuide';
+import YcRoles from '../components/YcRoles';
 import HackCard from '../components/HackCard';
 import { GOOGLE_HACKS } from '../data/googleHacks';
 
@@ -15,6 +16,7 @@ export default function IntlTab({ t, theme, card, btnPrimary, btnSecondary, badg
         <p style={{ fontSize:'16px', color:t.textSecondary }}>Strategies + sponsor-friendly companies for international PM roles</p>
       </div>
       <GlobalRoles t={t} card={card} btnSecondary={btnSecondary} badge={badge} />
+      <YcRoles t={t} card={card} btnSecondary={btnSecondary} badge={badge} />
       <VisaGuide t={t} card={card} btnSecondary={btnSecondary} />
       <h3 id="global-searches" style={{ margin:'0 0 12px', fontSize:'18px', fontWeight:600, scrollMarginTop:'140px' }}>🔍 Search strings for {role.label} roles abroad</h3>
       <div style={{ display:'grid', gridTemplateColumns:'minmax(0,1fr)', gap:'14px', marginBottom:'28px' }}>

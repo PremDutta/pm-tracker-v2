@@ -1,11 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { Zap, Globe, Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, Bell, FileSearch, Landmark, Radar, Building, Bot } from 'lucide-react';
+import { Briefcase, Target, Lightbulb, MessageSquare, Sun, Moon, Sparkles, FileSearch, Landmark, Radar, Building, Bot } from 'lucide-react';
 import { getProfile, getTheme, setTheme as saveTheme, getHackLocation, setHackLocation } from './storage';
 import { DEFAULT_LOCATION } from './data/location';
 import ResumeMatch from './components/ResumeMatch';
-import AlertsTab from './tabs/AlertsTab';
-import FirstApplyTab from './tabs/FirstApplyTab';
-import RemoteTab from './tabs/RemoteTab';
 import IntlTab from './tabs/IntlTab';
 import HacksTab from './tabs/HacksTab';
 import TemplatesTab from './tabs/TemplatesTab';
@@ -125,9 +122,6 @@ export default function App() {
             { label:'Search', tabs: [
               { id:'jobs',       icon:<Briefcase size={14}/>, label:'All Jobs' },
               { id:'hacks',      icon:<Lightbulb size={14}/>, label:'Hacks' },
-              { id:'remote',     icon:<Globe size={14}/>,     label:'Remote' },
-              { id:'alerts',     icon:<Bell size={14}/>,      label:'Alerts' },
-              { id:'firstapply', icon:<Zap size={14}/>,       label:'Be First' },
             ] },
             { label:'Apply', tabs: [
               { id:'resumematch', icon:<FileSearch size={14}/>,    label:'Resume Match' },
@@ -196,14 +190,8 @@ export default function App() {
         {/* ── HACKS ── */}
         {activeTab==='hacks' && <HacksTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} isLoaded={isLoaded} role={role} focus={focus} loc={hackLoc} setLoc={setHackLoc} />}
 
-        {/* ── ALERTS ── */}
-        {activeTab==='alerts' && <AlertsTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} role={role} />}
 
-        {/* ── BE FIRST ── */}
-        {activeTab==='firstapply' && <FirstApplyTab t={t} card={card} role={role} />}
 
-        {/* ── REMOTE ── */}
-        {activeTab==='remote' && <RemoteTab t={t} card={card} btnSecondary={btnSecondary} badge={badge} role={role} />}
 
         {/* ── INTL ── */}
         {activeTab==='intl' && <IntlTab t={t} theme={theme} card={card} btnPrimary={btnPrimary} btnSecondary={btnSecondary} badge={badge} role={role} />}
