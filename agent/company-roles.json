@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-18T00:38:39.690Z",
+  "scannedAt": "2026-11-18T10:28:34.336Z",
   "roles": {
     "Amazon": [
       {
@@ -169,6 +169,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10599321/senior-product-manager-technical-rbs-tech",
         "level": "senior",
         "firstSeen": "2026-11-11"
+      },
+      {
+        "id": "amazon-10606850",
+        "title": "Senior Product Manager Technical",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10606850/senior-product-manager-technical",
+        "level": "senior",
+        "firstSeen": "2026-11-18"
       },
       {
         "id": "amazon-10469361",
@@ -551,14 +559,6 @@
     ],
     "GW RhythmX": [
       {
-        "id": "greenhouse-rhythmx-ai-5320938008",
-        "title": "Technical Product Manager – AI Platform & Interoperability",
-        "location": "Bengaluru, Karnataka, India",
-        "url": "https://job-boards.greenhouse.io/rhythmx-ai/jobs/5320938008",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
-      },
-      {
         "id": "greenhouse-rhythmx-ai-5478899008",
         "title": "Technical Product Manager – AI Platform, Interoperability & & Revenue Cycle Data",
         "location": "Bengaluru, Karnataka, India",
@@ -585,14 +585,6 @@
         "url": "https://careers.hcltech.com/job/Data-Product-Manager/168347-en_US/",
         "level": "pm",
         "firstSeen": "2026-11-10"
-      },
-      {
-        "id": "sf-careers.hcltech.com-169138",
-        "title": "Data Product Manager",
-        "location": "Chennai",
-        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-11-12"
       },
       {
         "id": "sf-careers.hcltech.com-178491",
@@ -813,14 +805,6 @@
         "firstSeen": "2026-10-05"
       },
       {
-        "id": "workday-mastercard-/job/Gurgaon-India/Lead-Product-Manager_R-292425-1",
-        "title": "Lead Product Manager",
-        "location": "Gurgaon, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Lead-Product-Manager_R-292425-1",
-        "level": "group",
-        "firstSeen": "2026-10-06"
-      },
-      {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
         "title": "Lead Product Manager (AI)-2",
         "location": "Pune, India",
@@ -893,14 +877,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "workday-mastercard-/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1",
-        "title": "Senior Specialist, Product Management, Custom Analytics",
-        "location": "Gurgaon, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1",
-        "level": "senior",
-        "firstSeen": "2026-10-08"
-      },
-      {
         "id": "workday-mastercard-/job/Pune-India/Specialist-Product-Manager_R-290356",
         "title": "Specialist Product Manager",
         "location": "Pune, India",
@@ -969,6 +945,14 @@
         "firstSeen": "2026-10-29"
       },
       {
+        "id": "eightfold-microsoft.com-1970393557040068",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040068",
+        "level": "group",
+        "firstSeen": "2026-11-06"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557042009",
         "title": "Principal Product Manager",
         "location": "India, Uttar Pradesh, Noida",
@@ -977,12 +961,12 @@
         "firstSeen": "2026-10-20"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557040068",
+        "id": "eightfold-microsoft.com-1970393557038797",
         "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040068",
+        "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557038797",
         "level": "group",
-        "firstSeen": "2026-11-06"
+        "firstSeen": "2026-11-18"
       },
       {
         "id": "eightfold-microsoft.com-1970393557041935",
@@ -993,20 +977,12 @@
         "firstSeen": "2026-10-21"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557041938",
+        "id": "eightfold-microsoft.com-1970393557040598",
         "title": "Senior Product Manager",
-        "location": "India, Uttar Pradesh, Noida",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041938",
+        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
         "level": "senior",
-        "firstSeen": "2026-11-06"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557037770",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
-        "level": "senior",
-        "firstSeen": "2026-10-15"
+        "firstSeen": "2026-10-16"
       },
       {
         "id": "eightfold-microsoft.com-1970393557041943",
@@ -1017,20 +993,12 @@
         "firstSeen": "2026-10-20"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557070058",
+        "id": "eightfold-microsoft.com-1970393557037770",
         "title": "Senior Product Manager",
         "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070058",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
         "level": "senior",
-        "firstSeen": "2026-11-11"
-      },
-      {
-        "id": "eightfold-microsoft.com-1970393557040598",
-        "title": "Senior Product Manager",
-        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
-        "level": "senior",
-        "firstSeen": "2026-10-16"
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "eightfold-microsoft.com-1970393557040071",
@@ -1059,16 +1027,6 @@
         "url": "https://jobs.lever.co/mindtickle/4365dc2a-87b1-4751-bd30-c90c70dea92c",
         "level": "group",
         "firstSeen": "2026-09-30"
-      }
-    ],
-    "MongoDB": [
-      {
-        "id": "greenhouse-mongodb-8094528",
-        "title": "Senior Product Manager, Atlas Agent Engine",
-        "location": "Gurugram",
-        "url": "https://www.mongodb.com/careers/job/?gh_jid=8094528",
-        "level": "senior",
-        "firstSeen": "2026-10-05"
       }
     ],
     "Morgan Stanley": [
@@ -1233,16 +1191,6 @@
         "firstSeen": "2026-10-22"
       }
     ],
-    "PayPal": [
-      {
-        "id": "eightfold-paypal.com-274922819061",
-        "title": "Lead Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819061",
-        "level": "group",
-        "firstSeen": "2026-10-13"
-      }
-    ],
     "Paytm": [
       {
         "id": "lever-paytm-6cee2f1c-6cae-4e46-9533-d62283f56734",
@@ -1375,12 +1323,12 @@
     ],
     "PhonePe": [
       {
-        "id": "smartrecruiters-PHONEPELIMITED-1000000000004050",
-        "title": "Head of Product, PhonePe Wealth",
+        "id": "smartrecruiters-PHONEPELIMITED-1000000000006285",
+        "title": "Head of Product - Merchant Payments",
         "location": "Bengaluru, Karnataka, India",
-        "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000004050",
+        "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000006285",
         "level": "leadership",
-        "firstSeen": "2026-10-13"
+        "firstSeen": "2026-11-18"
       },
       {
         "id": "smartrecruiters-PHONEPELIMITED-1000000000005427",
@@ -1415,22 +1363,30 @@
         "url": "https://careers.qualcomm.com/careers/job/446721996687",
         "level": "group",
         "firstSeen": "2026-11-12"
+      },
+      {
+        "id": "eightfold-qualcomm.com-446717846060",
+        "title": "Staff/Director – AI HW Product Management",
+        "location": "Bangalore, India",
+        "url": "https://careers.qualcomm.com/careers/job/446717846060",
+        "level": "leadership",
+        "firstSeen": "2026-11-18"
       }
     ],
     "Razorpay": [
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
-        "level": "pm",
-        "firstSeen": "2026-11-10"
-      },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
         "title": "Product Manager II",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+        "level": "pm",
+        "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
         "level": "pm",
         "firstSeen": "2026-11-10"
       },
@@ -1451,20 +1407,20 @@
         "firstSeen": "2026-11-10"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
-        "level": "senior",
-        "firstSeen": "2026-11-10"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
         "level": "senior",
         "firstSeen": "2026-10-15"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
+        "level": "senior",
+        "firstSeen": "2026-11-10"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
@@ -1659,20 +1615,12 @@
         "firstSeen": "2026-11-05"
       },
       {
-        "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Product-Manager_R0000475834",
-        "title": "Product Manager",
+        "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-manager_R0000480930",
+        "title": "Sr Product manager",
         "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Product-Manager_R0000475834",
-        "level": "pm",
-        "firstSeen": "2026-11-04"
-      },
-      {
-        "id": "workday-target-/job/BangaloreIndia/Sr-Product-Manager---Marketplace_R0000439637",
-        "title": "Sr Product Manager - Marketplace",
-        "location": "Bangalore,India",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Manager---Marketplace_R0000439637",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-manager_R0000480930",
         "level": "senior",
-        "firstSeen": "2026-11-03"
+        "firstSeen": "2026-11-18"
       }
     ],
     "UiPath": [
@@ -1683,6 +1631,14 @@
         "url": "https://jobs.ashbyhq.com/uipath/d3ef8c17-984f-4138-a853-cca29eaa7133",
         "level": "group",
         "firstSeen": "2026-11-14"
+      },
+      {
+        "id": "ashby-uipath-2ca36395-0937-4a57-b502-ac5a6bfe388f",
+        "title": "Principal Product Manager, Enterprise Governance",
+        "location": "Bangalore",
+        "url": "https://jobs.ashbyhq.com/uipath/2ca36395-0937-4a57-b502-ac5a6bfe388f",
+        "level": "group",
+        "firstSeen": "2026-11-18"
       }
     ],
     "Vedantu": [
@@ -1711,6 +1667,14 @@
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Product-Manager_REF089128W-1",
         "level": "pm",
         "firstSeen": "2026-10-09"
+      },
+      {
+        "id": "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF090037W-1",
+        "title": "Sr Product Manager",
+        "location": "IN - Bengaluru, India",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Product-Manager_REF090037W-1",
+        "level": "senior",
+        "firstSeen": "2026-11-18"
       },
       {
         "id": "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF090064W-1",
@@ -1761,6 +1725,14 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
         "level": "group",
         "firstSeen": "2026-11-17"
+      },
+      {
+        "id": "workday-wf-/job/Hyderabad-India/Senior-Product-Manager_R-574835",
+        "title": "Senior Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Product-Manager_R-574835",
+        "level": "senior",
+        "firstSeen": "2026-11-18"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -1967,6 +1939,14 @@
         "firstSeen": "2026-10-09"
       },
       {
+        "id": "greenhouse-zenoti-8204626003",
+        "title": "Manager, Product Management (SaaS B2B)",
+        "location": "Hyderabad, Telangana, India",
+        "url": "https://job-boards.greenhouse.io/zenoti/jobs/8204626003",
+        "level": "pm",
+        "firstSeen": "2026-11-18"
+      },
+      {
         "id": "greenhouse-zenoti-8029893003",
         "title": "Senior Manager -  Product Management (Payments/Fintech)",
         "location": "Hyderabad, Telangana, India",
@@ -2076,7 +2056,7 @@
     "MBZUAI": "2026-11-18",
     "Meesho": "2026-11-18",
     "Mensa Brands (BRND.ME)": "2026-11-18",
-    "Microsoft": "2026-11-17",
+    "Microsoft": "2026-11-18",
     "Mihup": "2026-11-18",
     "Mindtickle": "2026-11-18",
     "Mollie": "2026-11-18",

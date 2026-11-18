@@ -1,6 +1,38 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "Botsync",
+      "title": "IvyCap Ventures leads $11 Mn Series B round in robotics company Botsync",
+      "url": "https://entrackr.com/news/ivycap-ventures-leads-11-mn-series-b-round-in-robotics-company-botsync-12819998",
+      "date": "2026-11-18",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Fatehpuria Hygiene",
+      "title": "Fatehpuria Hygiene raises Rs 100 Cr in maiden equity round led by Madhu Kela",
+      "url": "https://entrackr.com/news/fatehpuria-hygiene-raises-rs-100-cr-in-maiden-equity-round-led-by-madhu-kela-12819616",
+      "date": "2026-11-18",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Henfruit",
+      "title": "Egg brand Henfruit raises $15 Mn from Lok Capital, DSG and RPSG Capital",
+      "url": "https://entrackr.com/news/egg-brand-henfruit-raises-15-mn-from-lok-capital-dsg-and-rpsg-capital-12818932",
+      "date": "2026-11-18",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Recove Ventures",
+      "title": "Circular economy startup Recove Ventures raises Rs 56.25 Cr through equity and debt",
+      "url": "https://entrackr.com/snippets/circular-economy-startup-recove-ventures-raises-rs-5625-cr-through-equity-and-debt-12818941",
+      "date": "2026-11-18",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "reopened",
       "company": "ServiceNow",
       "date": "2026-11-18",
@@ -216,6 +248,14 @@
       "type": "funding",
       "company": "Olyv",
       "title": "Exclusive: Olyv raises Rs 58 Cr in extended Series C round led by Nippon India Digital",
+      "url": "https://entrackr.com/exclusive/exclusive-olyv-raises-rs-58-cr-in-extended-series-c-round-led-by-nippon-india-digital-12803184",
+      "date": "2026-11-12",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Olyv",
+      "title": "Exclusive: Olyv raises Rs 58 Cr in extended Series B round led by Nippon India Digital",
       "url": "https://entrackr.com/exclusive/exclusive-olyv-raises-rs-58-cr-in-extended-series-c-round-led-by-nippon-india-digital-12803184",
       "date": "2026-11-12",
       "detail": "via Entrackr"
