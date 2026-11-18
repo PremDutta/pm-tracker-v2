@@ -69,6 +69,13 @@ export const WHATS_NEW = [
   { id:'alerts:digest', date:'2026-09-30', tab:'alerts', title:'One 8 AM digest + deadline reminders', desc:'Alerts now arrive as one morning digest (8:00 AM IST); govt deadlines trigger reminders 3 days and 1 day before, and urgent roles still come right away' },
   { id:'network:matcher', target:'network',  date:'2026-09-27', tab:'companies', title:'My network: referral matcher', desc:'List ex-colleagues once; every company where you know someone is flagged in Watchlist, Tracker and Govt openings' },
   { id:'role:search',      date:'2026-09-27', tab:'hacks',       title:'Searches follow the PM / Senior PM toggle', desc:'Senior PM searches include "senior product manager", "sr. product manager", "senior PM" and "SPM"' },
+  { id:'hacks:fast-close', hackCategory:'speed', date:'2026-11-18', tab:'hacks', title:'6 new fast-hire searches', desc:'Immediate-joiner roles, search firm mandates, PMs who just left (backfills), Cutshort/Hirist/Instahyre, Eightfold/SuccessFactors MNC sites, and new GCCs in India' },
+  { id:'hack:immediate-joiner', date:'2026-11-18', tab:'hacks', title:'Immediate Joiner Roles' },
+  { id:'hack:recruiter-mandates', date:'2026-11-18', tab:'hacks', title:'Search Firm Mandates' },
+  { id:'hack:backfill', date:'2026-11-18', tab:'hacks', title:'PM Just Left = Seat to Fill' },
+  { id:'hack:india-boards', date:'2026-11-18', tab:'hacks', title:'Cutshort, Hirist, Instahyre, Foundit' },
+  { id:'hack:ats-enterprise-2', date:'2026-11-18', tab:'hacks', title:'Eightfold, SuccessFactors, Avature' },
+  { id:'hack:gcc-launch', date:'2026-11-18', tab:'hacks', title:'New GCCs in India = Mass Hiring' },
 ];
 
 const byId = new Map(WHATS_NEW.map(f => [f.id, f]));

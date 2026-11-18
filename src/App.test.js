@@ -390,13 +390,13 @@ test('Companies: role filters (level, city, new) narrow counts; Refresh re-fetch
 });
 
 test('All Jobs: LinkedIn "new since your last check" uses the last check time, and clicking updates it', async () => {
-  const last = Date.parse('2026-10-04T18:06:30Z');
+  const last = Date.now() - 2 * 86400000; // recent: older checks get capped at 30 days
   window.localStorage.setItem('pmt_platform_meta', JSON.stringify({ linkedin: { lastChecked: last } }));
   const user = userEvent.setup();
   render(<App />);
   await user.click(screen.getByRole('button', { name: 'All Jobs' }));
   const since = screen.getByRole('link', { name: /New since your last check/ });
-  expect(since.getAttribute('href')).toContain('f_TPR=a1791137190-');
+  expect(since.getAttribute('href')).toContain(`f_TPR=a${Math.floor(last / 1000)}-`);
   expect(since.getAttribute('href')).toContain('/jobs/search-results/');
   fireEvent.click(since);
   expect(JSON.parse(window.localStorage.getItem('pmt_platform_meta')).linkedin.lastChecked).toBeGreaterThan(last);
