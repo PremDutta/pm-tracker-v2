@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-19T06:43:55.024Z",
+  "scannedAt": "2026-11-19T10:35:58.149Z",
   "roles": {
     "Amazon": [
       {
@@ -403,14 +403,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10578264",
-        "title": "Sr. Product Manager, RoW ATS Tech",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10578264/sr-product-manager-row-ats-tech",
-        "level": "senior",
-        "firstSeen": "2026-10-14"
-      },
-      {
         "id": "amazon-10566206",
         "title": "Sr. Technical Product Manager, Trust CX Innovations",
         "location": "Bengaluru, Karnataka, IND",
@@ -545,14 +537,6 @@
     ],
     "HCLTech": [
       {
-        "id": "sf-careers.hcltech.com-144729",
-        "title": "AI Product Manager I",
-        "location": "Pune",
-        "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/144729-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-11-19"
-      },
-      {
         "id": "sf-careers.hcltech.com-168347",
         "title": "Data Product Manager",
         "location": "Noida",
@@ -593,14 +577,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -609,10 +585,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-159765",
+        "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -621,6 +597,14 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-159765",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -695,6 +679,30 @@
         "url": "https://job-boards.greenhouse.io/inmobi/jobs/8349134",
         "level": "pm",
         "firstSeen": "2026-11-17"
+      },
+      {
+        "id": "greenhouse-inmobi-8358144",
+        "title": "Senior Product Manager - Core Product Experience",
+        "location": "Bangalore",
+        "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358144",
+        "level": "senior",
+        "firstSeen": "2026-11-19"
+      },
+      {
+        "id": "greenhouse-inmobi-8358188",
+        "title": "Senior Product Manager - Monetisation & Payments ",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358188",
+        "level": "senior",
+        "firstSeen": "2026-11-19"
+      },
+      {
+        "id": "greenhouse-inmobi-8358196",
+        "title": "Senior Product Manager - Onboarding & Activation",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358196",
+        "level": "senior",
+        "firstSeen": "2026-11-19"
       }
     ],
     "Innovaccer": [
@@ -875,6 +883,14 @@
         "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
         "level": "pm",
         "firstSeen": "2026-10-22"
+      },
+      {
+        "id": "lever-meesho-ee1aa9f3-e5a1-4488-93fb-963127eebe0c",
+        "title": "Product Manager II - DAU Labs",
+        "location": "Bangalore, Karnataka",
+        "url": "https://jobs.lever.co/meesho/ee1aa9f3-e5a1-4488-93fb-963127eebe0c",
+        "level": "pm",
+        "firstSeen": "2026-11-19"
       },
       {
         "id": "lever-meesho-19954b1f-3bbc-44b6-b836-65c0f854953b",
@@ -1325,18 +1341,18 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
-        "level": "pm",
-        "firstSeen": "2026-11-10"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
         "title": "Product Manager II",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+        "level": "pm",
+        "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
         "level": "pm",
         "firstSeen": "2026-11-10"
       },
@@ -1357,20 +1373,20 @@
         "firstSeen": "2026-11-10"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
-        "level": "senior",
-        "firstSeen": "2026-10-15"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
         "level": "senior",
         "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
+        "level": "senior",
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
@@ -1450,6 +1466,14 @@
       }
     ],
     "Sarvam AI": [
+      {
+        "id": "ashby-sarvam-c4bb3b2c-7608-4d57-8761-650b4222ac13",
+        "title": "Product Manager",
+        "location": "Bengaluru",
+        "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
+        "level": "pm",
+        "firstSeen": "2026-11-19"
+      },
       {
         "id": "ashby-sarvam-adbc090f-3aad-4b12-af36-a2f4b55c017e",
         "title": "Product Manager – Media & Entertainment, Sarvam Studio",

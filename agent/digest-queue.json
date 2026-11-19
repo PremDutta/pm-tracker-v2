@@ -1,42 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-96521893",
-      "title": "Group Manager, Product Management - LinkedIn Learning",
-      "company": "Lynda",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/group-manager-product-management-linkedin-learning-at-linkedin-4461735970",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-10"
-    },
-    {
-      "id": "vc-accel-96521872",
-      "title": "Principal Product Manager - LinkedIn Learning",
-      "company": "Lynda",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/principal-product-manager-linkedin-learning-at-linkedin-4461755103",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-10"
-    },
-    {
-      "id": "rippling-rippling-76af5c78-5db5-4104-8916-f3f216f1a607",
-      "title": "Product Lead, UI Platform ",
-      "company": "Rippling",
-      "location": "Bangalore, India",
-      "url": "https://ats.rippling.com/rippling/jobs/76af5c78-5db5-4104-8916-f3f216f1a607",
-      "source": "Rippling (Rippling)",
-      "queuedOn": "2026-10-11"
-    },
-    {
-      "id": "vc-accel-96627504",
-      "title": "Senior Product Manager",
-      "company": "Swiftkey",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962532",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-11"
-    },
-    {
       "id": "vc-accel-96627468",
       "title": "Senior Product Manager",
       "company": "Swiftkey",
@@ -3630,18 +3594,45 @@
       "url": "https://jobs.ashbyhq.com/openai/89959eee-bd3a-4564-9c47-e4771c6c1e0f",
       "source": "Ashby (OpenAI)",
       "queuedOn": "2026-11-19"
+    },
+    {
+      "id": "lever-meesho-ee1aa9f3-e5a1-4488-93fb-963127eebe0c",
+      "title": "Product Manager II - DAU Labs",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/ee1aa9f3-e5a1-4488-93fb-963127eebe0c",
+      "source": "Lever (Meesho)",
+      "queuedOn": "2026-11-19"
+    },
+    {
+      "id": "greenhouse-inmobi-8358144",
+      "title": "Senior Product Manager - Core Product Experience",
+      "company": "InMobi",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358144",
+      "source": "Greenhouse (InMobi)",
+      "queuedOn": "2026-11-19"
+    },
+    {
+      "id": "greenhouse-inmobi-8358188",
+      "title": "Senior Product Manager - Monetisation & Payments ",
+      "company": "InMobi",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358188",
+      "source": "Greenhouse (InMobi)",
+      "queuedOn": "2026-11-19"
+    },
+    {
+      "id": "greenhouse-inmobi-8358196",
+      "title": "Senior Product Manager - Onboarding & Activation",
+      "company": "InMobi",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358196",
+      "source": "Greenhouse (InMobi)",
+      "queuedOn": "2026-11-19"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-21",
-      "title": "Staff Inbound Product Manager",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156718589",
-      "id": "smartrecruiters-ServiceNow-744000156718589",
-      "detail": "closed 2026-10-08, reposted today"
-    },
     {
       "type": "reopened",
       "company": "ServiceNow",
@@ -4367,6 +4358,15 @@
       "company": "Skyroot Aerospace",
       "date": "2026-11-19",
       "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Sarvam AI",
+      "date": "2026-11-19",
+      "title": "Product Manager",
+      "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
+      "id": "ashby-sarvam-c4bb3b2c-7608-4d57-8761-650b4222ac13",
+      "detail": "closed 2026-11-19, reposted today"
     }
   ],
   "reminders": {}

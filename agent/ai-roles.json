@@ -1,14 +1,47 @@
 {
   "roles": [
     {
-      "id": "sf-careers.hcltech.com-144729",
-      "title": "AI Product Manager I",
-      "company": "HCLTech",
-      "location": "Pune",
-      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/144729-en_US/",
-      "source": "HCLTech careers",
+      "id": "greenhouse-inmobi-8358144",
+      "title": "Senior Product Manager - Core Product Experience",
+      "company": "InMobi",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358144",
+      "source": "Greenhouse (InMobi)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "greenhouse-inmobi-8358188",
+      "title": "Senior Product Manager - Monetisation & Payments ",
+      "company": "InMobi",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358188",
+      "source": "Greenhouse (InMobi)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "greenhouse-inmobi-8358196",
+      "title": "Senior Product Manager - Onboarding & Activation",
+      "company": "InMobi",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358196",
+      "source": "Greenhouse (InMobi)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "ashby-sarvam-c4bb3b2c-7608-4d57-8761-650b4222ac13",
+      "title": "Product Manager",
+      "company": "Sarvam AI",
+      "location": "Bengaluru",
+      "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
+      "source": "Ashby (Sarvam AI)",
       "level": "pm",
-      "aiMatch": "title",
+      "aiMatch": "company",
       "firstSeen": "2026-11-19"
     },
     {

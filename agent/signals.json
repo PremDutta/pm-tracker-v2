@@ -2,6 +2,14 @@
   "signals": [
     {
       "type": "funding",
+      "company": "August AI",
+      "title": "August AI Raises $12 Mn To Expand AI Healthcare Assistant In The US",
+      "url": "https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/",
+      "date": "2026-11-19",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
       "company": "Boba Bhai",
       "title": "Boba Bhai raises $18 Mn from Left Lane, Titan and BIG Capital",
       "url": "https://entrackr.com/news/boba-bhai-raises-18-mn-from-left-lane-titan-and-big-capital-12821882",
@@ -17,6 +25,14 @@
       "detail": "via YourStory"
     },
     {
+      "type": "funding",
+      "company": "Disseqt AI",
+      "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
+      "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
+      "date": "2026-11-19",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "reopened",
       "company": "HCLTech",
       "date": "2026-11-19",
@@ -24,6 +40,15 @@
       "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/144729-en_US/",
       "id": "sf-careers.hcltech.com-144729",
       "detail": "closed 2026-11-18, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Sarvam AI",
+      "date": "2026-11-19",
+      "title": "Product Manager",
+      "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
+      "id": "ashby-sarvam-c4bb3b2c-7608-4d57-8761-650b4222ac13",
+      "detail": "closed 2026-11-19, reposted today"
     },
     {
       "type": "eng_spike",
@@ -36,6 +61,14 @@
       "company": "Style Union",
       "title": "Style Union raises Rs 485 Cr in Series E round led by Elev8 Venture, Venturi Partners",
       "url": "https://entrackr.com/news/style-union-raises-rs-485-cr-in-series-e-round-led-by-elev8-venture-venturi-partners-12821452",
+      "date": "2026-11-19",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "VitusCare",
+      "title": "Dialysis care provider VitusCare raises $3 Mn in Series B round",
+      "url": "https://entrackr.com/snippets/dialysis-care-provider-vituscare-raises-3-mn-in-series-b-round-12822578",
       "date": "2026-11-19",
       "detail": "via Entrackr"
     },

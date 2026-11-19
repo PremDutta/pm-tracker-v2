@@ -4052,7 +4052,7 @@
           "eng": 5
         },
         "2026-11-19": {
-          "total": 47,
+          "total": 48,
           "eng": 5
         }
       },
@@ -4131,6 +4131,12 @@
           ],
           "lastSeen": "2026-10-15",
           "closedOn": "2026-10-15"
+        },
+        "product manager ii dau labs": {
+          "ids": [
+            "lever-meesho-ee1aa9f3-e5a1-4488-93fb-963127eebe0c"
+          ],
+          "lastSeen": "2026-11-19"
         }
       }
     },
@@ -5104,7 +5110,7 @@
           "eng": 4
         },
         "2026-11-19": {
-          "total": 23,
+          "total": 22,
           "eng": 4
         }
       },
@@ -5919,7 +5925,7 @@
           "eng": 5
         },
         "2026-11-19": {
-          "total": 9,
+          "total": 10,
           "eng": 5
         }
       },
@@ -6048,7 +6054,7 @@
           "eng": 5
         },
         "2026-11-19": {
-          "total": 75,
+          "total": 74,
           "eng": 5
         }
       },
@@ -6244,7 +6250,8 @@
             "amazon-10521837",
             "amazon-10578264"
           ],
-          "lastSeen": "2026-11-19"
+          "lastSeen": "2026-11-19",
+          "closedOn": "2026-11-19"
         },
         "senior product manager ies emerging stores": {
           "ids": [
@@ -7062,7 +7069,7 @@
           "eng": 21
         },
         "2026-11-19": {
-          "total": 65,
+          "total": 64,
           "eng": 21
         }
       },
@@ -7212,7 +7219,7 @@
           "eng": 6
         },
         "2026-11-19": {
-          "total": 32,
+          "total": 33,
           "eng": 6
         }
       },
@@ -7341,7 +7348,7 @@
           "eng": 11
         },
         "2026-11-19": {
-          "total": 75,
+          "total": 78,
           "eng": 11
         }
       },
@@ -7382,6 +7389,24 @@
         "product manager": {
           "ids": [
             "greenhouse-inmobi-8349134"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "senior product manager core product experience": {
+          "ids": [
+            "greenhouse-inmobi-8358144"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "senior product manager monetisation payments": {
+          "ids": [
+            "greenhouse-inmobi-8358188"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "senior product manager onboarding activation": {
+          "ids": [
+            "greenhouse-inmobi-8358196"
           ],
           "lastSeen": "2026-11-19"
         }
@@ -7510,7 +7535,7 @@
           "eng": 24
         },
         "2026-11-19": {
-          "total": 97,
+          "total": 96,
           "eng": 24
         }
       },
@@ -8453,7 +8478,8 @@
             "sf-careers.hcltech.com-177905",
             "sf-careers.hcltech.com-144729"
           ],
-          "lastSeen": "2026-11-19"
+          "lastSeen": "2026-11-19",
+          "closedOn": "2026-11-19"
         },
         "safe senior product owner product manager": {
           "ids": [
@@ -8587,7 +8613,7 @@
           "eng": 10
         },
         "2026-11-19": {
-          "total": 33,
+          "total": 31,
           "eng": 10
         }
       },
@@ -9010,7 +9036,7 @@
         },
         "2026-11-19": {
           "total": 100,
-          "eng": 35
+          "eng": 37
         }
       },
       "pm": {
@@ -10202,8 +10228,8 @@
           "eng": 6
         },
         "2026-11-19": {
-          "total": 194,
-          "eng": 6
+          "total": 195,
+          "eng": 7
         }
       },
       "pm": {
@@ -10621,7 +10647,7 @@
           "eng": 3
         },
         "2026-11-19": {
-          "total": 29,
+          "total": 30,
           "eng": 3
         }
       },
@@ -10917,7 +10943,7 @@
           "eng": 12
         },
         "2026-11-19": {
-          "total": 15,
+          "total": 16,
           "eng": 12
         }
       },
@@ -11055,16 +11081,16 @@
         },
         "2026-11-19": {
           "total": 43,
-          "eng": 22
+          "eng": 21
         }
       },
       "pm": {
         "product manager": {
           "ids": [
-            "ashby-sarvam-9e197c29-5164-42eb-8e74-4f691a794517"
+            "ashby-sarvam-9e197c29-5164-42eb-8e74-4f691a794517",
+            "ashby-sarvam-c4bb3b2c-7608-4d57-8761-650b4222ac13"
           ],
-          "lastSeen": "2026-11-18",
-          "closedOn": "2026-11-19"
+          "lastSeen": "2026-11-19"
         },
         "product manager on device edge ai": {
           "ids": [
@@ -13017,7 +13043,7 @@
           "eng": 32
         },
         "2026-11-19": {
-          "total": 114,
+          "total": 116,
           "eng": 33
         }
       },
@@ -13209,7 +13235,7 @@
           "eng": 1
         },
         "2026-11-19": {
-          "total": 19,
+          "total": 18,
           "eng": 1
         }
       },
@@ -13550,8 +13576,8 @@
           "eng": 8
         },
         "2026-11-19": {
-          "total": 27,
-          "eng": 8
+          "total": 30,
+          "eng": 11
         }
       },
       "pm": {
@@ -13759,7 +13785,7 @@
           "eng": 11
         },
         "2026-11-19": {
-          "total": 30,
+          "total": 31,
           "eng": 11
         }
       },
@@ -13909,8 +13935,8 @@
           "eng": 42
         },
         "2026-11-19": {
-          "total": 77,
-          "eng": 42
+          "total": 79,
+          "eng": 43
         }
       },
       "pm": {
@@ -14419,7 +14445,7 @@
           "eng": 18
         },
         "2026-11-19": {
-          "total": 70,
+          "total": 77,
           "eng": 18
         }
       },
@@ -14676,8 +14702,8 @@
           "eng": 36
         },
         "2026-11-19": {
-          "total": 79,
-          "eng": 44
+          "total": 85,
+          "eng": 46
         }
       },
       "pm": {
@@ -14827,8 +14853,8 @@
           "eng": 42
         },
         "2026-11-19": {
-          "total": 190,
-          "eng": 44
+          "total": 189,
+          "eng": 43
         }
       },
       "pm": {
@@ -15054,8 +15080,8 @@
           "eng": 43
         },
         "2026-11-19": {
-          "total": 68,
-          "eng": 43
+          "total": 70,
+          "eng": 44
         }
       },
       "pm": {
@@ -15962,8 +15988,8 @@
           "eng": 556
         },
         "2026-11-19": {
-          "total": 901,
-          "eng": 556
+          "total": 906,
+          "eng": 560
         }
       },
       "pm": {
@@ -16800,8 +16826,8 @@
           "eng": 1
         },
         "2026-11-19": {
-          "total": 1,
-          "eng": 1
+          "total": 0,
+          "eng": 0
         }
       },
       "pm": {
@@ -18030,7 +18056,7 @@
         },
         "2026-11-19": {
           "total": 403,
-          "eng": 172
+          "eng": 173
         }
       },
       "pm": {
@@ -18516,8 +18542,8 @@
           "eng": 11
         },
         "2026-11-19": {
-          "total": 16,
-          "eng": 11
+          "total": 17,
+          "eng": 12
         }
       },
       "pm": {
@@ -18917,8 +18943,8 @@
           "eng": 37
         },
         "2026-11-19": {
-          "total": 87,
-          "eng": 37
+          "total": 88,
+          "eng": 38
         }
       },
       "pm": {
@@ -19080,7 +19106,7 @@
         },
         "2026-11-19": {
           "total": 200,
-          "eng": 129
+          "eng": 130
         }
       },
       "pm": {
@@ -19261,7 +19287,7 @@
           "eng": 45
         },
         "2026-11-19": {
-          "total": 200,
+          "total": 202,
           "eng": 45
         }
       },
@@ -19779,7 +19805,7 @@
         },
         "2026-11-19": {
           "total": 59,
-          "eng": 18
+          "eng": 17
         }
       },
       "pm": {
@@ -20214,7 +20240,7 @@
         },
         "2026-11-19": {
           "total": 377,
-          "eng": 205
+          "eng": 206
         }
       },
       "pm": {
@@ -20461,7 +20487,7 @@
           "eng": 1
         },
         "2026-11-19": {
-          "total": 16,
+          "total": 14,
           "eng": 1
         }
       },
@@ -21405,8 +21431,8 @@
           "eng": 7
         },
         "2026-11-19": {
-          "total": 19,
-          "eng": 7
+          "total": 18,
+          "eng": 6
         }
       },
       "pm": {
@@ -21966,7 +21992,7 @@
           "eng": 20
         },
         "2026-11-19": {
-          "total": 87,
+          "total": 89,
           "eng": 20
         }
       },
@@ -22144,7 +22170,7 @@
           "eng": 9
         },
         "2026-11-19": {
-          "total": 86,
+          "total": 85,
           "eng": 9
         }
       },
@@ -22549,7 +22575,7 @@
         },
         "2026-11-19": {
           "total": 100,
-          "eng": 37
+          "eng": 35
         }
       },
       "pm": {
@@ -22578,6 +22604,12 @@
         "lead product manager supply chain": {
           "ids": [
             "smartrecruiters-grab-744000162425429"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "lead product manager transaction platform": {
+          "ids": [
+            "smartrecruiters-grab-744000162466909"
           ],
           "lastSeen": "2026-11-19"
         }
@@ -22702,7 +22734,7 @@
           "eng": 5
         },
         "2026-11-19": {
-          "total": 8,
+          "total": 9,
           "eng": 5
         }
       },
@@ -23031,7 +23063,7 @@
           "eng": 1
         },
         "2026-11-19": {
-          "total": 143,
+          "total": 138,
           "eng": 1
         }
       },
@@ -23740,7 +23772,7 @@
         },
         "2026-11-19": {
           "total": 100,
-          "eng": 7
+          "eng": 9
         }
       },
       "pm": {
@@ -23768,6 +23800,12 @@
           ],
           "lastSeen": "2026-11-03",
           "closedOn": "2026-11-03"
+        },
+        "business product manager mx": {
+          "ids": [
+            "smartrecruiters-DeliveryHero-744000162445047"
+          ],
+          "lastSeen": "2026-11-19"
         }
       }
     },
@@ -23890,8 +23928,8 @@
           "eng": 4
         },
         "2026-11-19": {
-          "total": 22,
-          "eng": 4
+          "total": 21,
+          "eng": 3
         }
       },
       "pm": {
@@ -24159,8 +24197,8 @@
           "eng": 66
         },
         "2026-11-19": {
-          "total": 243,
-          "eng": 66
+          "total": 248,
+          "eng": 69
         }
       },
       "pm": {
@@ -24498,7 +24536,7 @@
           "eng": 143
         },
         "2026-11-19": {
-          "total": 261,
+          "total": 264,
           "eng": 143
         }
       },
@@ -24624,8 +24662,8 @@
           "eng": 112
         },
         "2026-11-19": {
-          "total": 248,
-          "eng": 112
+          "total": 249,
+          "eng": 113
         }
       },
       "pm": {
@@ -25492,8 +25530,8 @@
           "eng": 10
         },
         "2026-11-19": {
-          "total": 28,
-          "eng": 10
+          "total": 27,
+          "eng": 9
         }
       },
       "pm": {
@@ -25668,12 +25706,19 @@
             "smartrecruiters-wise-744000161062579",
             "smartrecruiters-wise-744000161110019"
           ],
-          "lastSeen": "2026-11-19"
+          "lastSeen": "2026-11-19",
+          "closedOn": "2026-11-19"
         },
         "senior technical product manager api experience security": {
           "ids": [
             "smartrecruiters-wise-744000161061964",
             "smartrecruiters-wise-744000161181469"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "senior product manager payment integrations": {
+          "ids": [
+            "smartrecruiters-wise-744000162475705"
           ],
           "lastSeen": "2026-11-19"
         }
