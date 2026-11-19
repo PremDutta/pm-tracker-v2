@@ -2,6 +2,45 @@
   "signals": [
     {
       "type": "funding",
+      "company": "Boba Bhai",
+      "title": "Boba Bhai raises $18 Mn from Left Lane, Titan and BIG Capital",
+      "url": "https://entrackr.com/news/boba-bhai-raises-18-mn-from-left-lane-titan-and-big-capital-12821882",
+      "date": "2026-11-19",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Cyient Semiconductors",
+      "title": "Cyient Semiconductors bags $10M from GlobalFoundries",
+      "url": "https://yourstory.com/2026/11/cyient-semiconductors-bags-usd-10m-from-globalfoundries",
+      "date": "2026-11-19",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "reopened",
+      "company": "HCLTech",
+      "date": "2026-11-19",
+      "title": "AI Product Manager I",
+      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/144729-en_US/",
+      "id": "sf-careers.hcltech.com-144729",
+      "detail": "closed 2026-11-18, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-19",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "funding",
+      "company": "Style Union",
+      "title": "Style Union raises Rs 485 Cr in Series E round led by Elev8 Venture, Venturi Partners",
+      "url": "https://entrackr.com/news/style-union-raises-rs-485-cr-in-series-e-round-led-by-elev8-venture-venturi-partners-12821452",
+      "date": "2026-11-19",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
       "company": "Botsync",
       "title": "IvyCap Ventures leads $11 Mn Series B round in robotics company Botsync",
       "url": "https://entrackr.com/news/ivycap-ventures-leads-11-mn-series-b-round-in-robotics-company-botsync-12819998",
@@ -1560,52 +1599,6 @@
       "url": "https://entrackr.com/news/kissht-gets-bse-nse-nod-for-rs-832-cr-fundraise-12691676",
       "date": "2026-10-20",
       "detail": "via Entrackr"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-19",
-      "detail": "167 engineering openings vs a usual 37"
-    },
-    {
-      "type": "funding",
-      "company": "Even Healthcare",
-      "title": "Even Healthcare raises $50 Mn in Series B led by Khosla Ventures",
-      "url": "https://entrackr.com/news/even-healthcare-raises-50-mn-in-series-b-led-by-khosla-ventures-12688553",
-      "date": "2026-10-19",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Hunar",
-      "title": "Hunar Raises ₹40 Cr To Scale Agentic AI For Frontline Hiring",
-      "url": "https://inc42.com/buzz/hunar-raises-%e2%82%b940-cr-to-scale-agentic-ai-for-frontline-hiring/",
-      "date": "2026-10-19",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "The Pant Project",
-      "title": "The Pant Project Raises ₹109 Cr To Expand Store Network & Portfolio",
-      "url": "https://inc42.com/buzz/the-pant-project-raises-%e2%82%b9109-cr-to-expand-store-network-portfolio/",
-      "date": "2026-10-19",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "The Pant Project",
-      "title": "The Pant Project raises Rs 109 Cr in Series B led by Mirae Asset",
-      "url": "https://entrackr.com/news/the-pant-project-raises-rs-109-cr-in-series-b-led-by-mirae-asset-12688468",
-      "date": "2026-10-19",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "The Pant Project",
-      "title": "The Pant Project bags Rs 109 Cr to accelerate retail expansion",
-      "url": "https://yourstory.com/2026/10/the-pant-project-bags-rs-109-cr-to-accelerate-retail-expansion",
-      "date": "2026-10-19",
-      "detail": "via YourStory"
     }
   ]
 }

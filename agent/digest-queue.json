@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-95338178",
-      "title": "Global Product Lead, Support Tools, Global Business Applied AI, GTM",
-      "company": "Google",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/105449690824090310-global-product-lead-support-tools-global-business-applied-ai-gtm?page=25",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-10"
-    },
-    {
       "id": "vc-accel-96521893",
       "title": "Group Manager, Product Management - LinkedIn Learning",
       "company": "Lynda",
@@ -3630,24 +3621,18 @@
       "url": "https://revolutpeople.com/aspire/public/careers/position/3432897e-618e-41b4-8156-39330b61cf62/",
       "source": "VC board (Lightspeed portfolio)",
       "queuedOn": "2026-11-19"
+    },
+    {
+      "id": "ashby-openai-89959eee-bd3a-4564-9c47-e4771c6c1e0f",
+      "title": "Product Manager, ChatGPT Business Growth",
+      "company": "OpenAI",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/89959eee-bd3a-4564-9c47-e4771c6c1e0f",
+      "source": "Ashby (OpenAI)",
+      "queuedOn": "2026-11-19"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-19",
-      "detail": "167 engineering openings vs a usual 37"
-    },
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-21",
-      "title": "Sr Staff Outbound Product Manager - AI Assistant ",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156455559",
-      "id": "smartrecruiters-ServiceNow-744000156455559",
-      "detail": "closed 2026-10-18, reposted today"
-    },
     {
       "type": "reopened",
       "company": "ServiceNow",
@@ -4367,6 +4352,21 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162408099",
       "id": "smartrecruiters-ServiceNow-744000162408099",
       "detail": "closed 2026-10-23, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "HCLTech",
+      "date": "2026-11-19",
+      "title": "AI Product Manager I",
+      "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/144729-en_US/",
+      "id": "sf-careers.hcltech.com-144729",
+      "detail": "closed 2026-11-18, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-19",
+      "detail": "17 engineering openings vs a usual 5"
     }
   ],
   "reminders": {}
