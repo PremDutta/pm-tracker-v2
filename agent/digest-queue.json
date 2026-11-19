@@ -1,69 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-96627468",
-      "title": "Senior Product Manager",
-      "company": "Swiftkey",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556971850",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-11"
-    },
-    {
-      "id": "vc-accel-96627350",
-      "title": "Principal Product Manager",
-      "company": "Swiftkey",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944984",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-11"
-    },
-    {
-      "id": "vc-accel-96626436",
-      "title": "Principal Product Manager",
-      "company": "Swiftkey",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556997831",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-11"
-    },
-    {
-      "id": "vc-accel-96626278",
-      "title": "Product Manager II",
-      "company": "Swiftkey",
-      "location": "Bangalore Urban, Karnataka, India, Bangalore Rural, Karnataka, India",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556995338",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-11"
-    },
-    {
-      "id": "vc-accel-96625900",
-      "title": "Principal Product Manager",
-      "company": "Swiftkey",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999250",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-11"
-    },
-    {
-      "id": "vc-accel-96625899",
-      "title": "Principal Product Manager",
-      "company": "Swiftkey",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556911401",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-11"
-    },
-    {
-      "id": "vc-accel-96623893",
-      "title": "Product Manager II",
-      "company": "Swiftkey",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016594",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-11"
-    },
-    {
       "id": "vc-accel-96623898",
       "title": "Senior Product Manager",
       "company": "Swiftkey",
@@ -3630,24 +3567,72 @@
       "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358196",
       "source": "Greenhouse (InMobi)",
       "queuedOn": "2026-11-19"
+    },
+    {
+      "id": "ashby-openai-efae0a22-24d6-4562-834c-1110c5e7677b",
+      "title": "Product Manager, Frontier Risks Safety",
+      "company": "OpenAI",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/efae0a22-24d6-4562-834c-1110c5e7677b",
+      "source": "Ashby (OpenAI)",
+      "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "amazon-10608493",
+      "title": "Sr. Product Manager - Tech, Buyer Abuse",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10608493/sr-product-manager-tech-buyer-abuse",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "lever-paytm-7c3315bc-6f38-41da-a4f5-9fdeeea7cd12",
+      "title": "Product Management - APM - Telco",
+      "company": "Paytm",
+      "location": "Noida, Uttar Pradesh",
+      "url": "https://jobs.lever.co/paytm/7c3315bc-6f38-41da-a4f5-9fdeeea7cd12",
+      "source": "Lever (Paytm)",
+      "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "vc-accel-100270400",
+      "title": "Principal Product Manager, Networking Services",
+      "company": "Nimble Storage",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.hpe.com/us/en/job/1215298",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "vc-accel-100223461",
+      "title": "Product Manager",
+      "company": "RapidClaims",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://ams.screenit.io/35a4b21f-7af0-4f47-bb48-d3dd47a49f86/apply/eec870c5-42ba-4c90-94bf-d4e26f67b7a3",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "vc-peakxv-35113ecf-ebb9-47df-9d9b-5c1b9214cd3b",
+      "title": "Product Manager -Order Management (B2B)",
+      "company": "Purplle",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://purplle.turbohire.co/job/publicjobs/Vc5V0tglW2DHE_q%2F1TxP6oYHyirG%2FjY2N_q%2FvyY%2FudUnwIMiPpD_o6jPaNXvkL8d",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "vc-peakxv-ee1aa9f3-e5a1-4488-93fb-963127eebe0c",
+      "title": "Product Manager II - DAU Labs",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/ee1aa9f3-e5a1-4488-93fb-963127eebe0c",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-20"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-21",
-      "title": "Senior Staff Outbound Product Manager - Data & Analytics",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156836234",
-      "id": "smartrecruiters-ServiceNow-744000156836234",
-      "detail": "closed 2026-10-15, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-22",
-      "detail": "8 engineering openings vs a usual 3"
-    },
     {
       "type": "reopened",
       "company": "Meesho",
@@ -4367,6 +4352,21 @@
       "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
       "id": "ashby-sarvam-c4bb3b2c-7608-4d57-8761-650b4222ac13",
       "detail": "closed 2026-11-19, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-19",
+      "title": "Sr Staff Inbound Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162494199",
+      "id": "smartrecruiters-ServiceNow-744000162494199",
+      "detail": "closed 2026-11-06, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Talabat (Delivery Hero)",
+      "date": "2026-11-19",
+      "detail": "11 engineering openings vs a usual 6"
     }
   ],
   "reminders": {}

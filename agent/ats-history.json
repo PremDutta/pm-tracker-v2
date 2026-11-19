@@ -123,7 +123,7 @@
           "eng": 43
         },
         "2026-11-19": {
-          "total": 116,
+          "total": 113,
           "eng": 43
         }
       },
@@ -351,7 +351,7 @@
         },
         "2026-11-19": {
           "total": 638,
-          "eng": 279
+          "eng": 278
         }
       },
       "pm": {
@@ -617,7 +617,7 @@
           "eng": 35
         },
         "2026-11-19": {
-          "total": 81,
+          "total": 80,
           "eng": 35
         }
       },
@@ -766,7 +766,7 @@
           "eng": 61
         },
         "2026-11-19": {
-          "total": 147,
+          "total": 148,
           "eng": 61
         }
       },
@@ -1502,7 +1502,7 @@
           "eng": 77
         },
         "2026-11-19": {
-          "total": 167,
+          "total": 168,
           "eng": 77
         }
       },
@@ -2029,8 +2029,8 @@
           "eng": 22
         },
         "2026-11-19": {
-          "total": 58,
-          "eng": 22
+          "total": 54,
+          "eng": 19
         }
       },
       "pm": {
@@ -2485,7 +2485,7 @@
           "eng": 36
         },
         "2026-11-19": {
-          "total": 143,
+          "total": 145,
           "eng": 36
         }
       },
@@ -2817,8 +2817,8 @@
           "eng": 60
         },
         "2026-11-19": {
-          "total": 168,
-          "eng": 60
+          "total": 169,
+          "eng": 61
         }
       },
       "pm": {
@@ -2966,8 +2966,8 @@
           "eng": 430
         },
         "2026-11-19": {
-          "total": 832,
-          "eng": 429
+          "total": 840,
+          "eng": 430
         }
       },
       "pm": {
@@ -2989,7 +2989,8 @@
           "ids": [
             "ashby-openai-7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a"
           ],
-          "lastSeen": "2026-11-19"
+          "lastSeen": "2026-11-19",
+          "closedOn": "2026-11-19"
         },
         "product manager safety measurement": {
           "ids": [
@@ -3071,6 +3072,12 @@
         "product manager chatgpt business growth": {
           "ids": [
             "ashby-openai-89959eee-bd3a-4564-9c47-e4771c6c1e0f"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "product manager frontier risks safety": {
+          "ids": [
+            "ashby-openai-efae0a22-24d6-4562-834c-1110c5e7677b"
           ],
           "lastSeen": "2026-11-19"
         }
@@ -3199,7 +3206,7 @@
           "eng": 45
         },
         "2026-11-19": {
-          "total": 182,
+          "total": 183,
           "eng": 45
         }
       },
@@ -3639,7 +3646,7 @@
           "eng": 0
         },
         "2026-11-19": {
-          "total": 13,
+          "total": 12,
           "eng": 0
         }
       },
@@ -5271,8 +5278,8 @@
           "eng": 30
         },
         "2026-11-19": {
-          "total": 91,
-          "eng": 30
+          "total": 92,
+          "eng": 31
         }
       },
       "pm": {
@@ -5380,6 +5387,13 @@
           "lastSeen": "2026-11-19"
         },
         "senior product manager free": {
+          "ids": [
+            "lever-spotify-5ddb2fa1-4494-48a9-84c0-b646da91edb8"
+          ],
+          "lastSeen": "2026-11-19",
+          "closedOn": "2026-11-19"
+        },
+        "senior product manager free and premium conversion": {
           "ids": [
             "lever-spotify-5ddb2fa1-4494-48a9-84c0-b646da91edb8"
           ],
@@ -5639,7 +5653,7 @@
           "eng": 7
         },
         "2026-11-19": {
-          "total": 159,
+          "total": 158,
           "eng": 7
         }
       },
@@ -6054,7 +6068,7 @@
           "eng": 5
         },
         "2026-11-19": {
-          "total": 74,
+          "total": 75,
           "eng": 5
         }
       },
@@ -6636,6 +6650,12 @@
         "senior product manager technical": {
           "ids": [
             "amazon-10606850"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "sr product manager tech buyer abuse": {
+          "ids": [
+            "amazon-10608493"
           ],
           "lastSeen": "2026-11-19"
         }
@@ -8158,7 +8178,7 @@
           "eng": 29
         },
         "2026-11-19": {
-          "total": 40,
+          "total": 41,
           "eng": 31
         }
       },
@@ -9036,7 +9056,7 @@
         },
         "2026-11-19": {
           "total": 100,
-          "eng": 37
+          "eng": 36
         }
       },
       "pm": {
@@ -9118,8 +9138,7 @@
             "oracle-jpmc.fa.oraclecloud.com-210800513",
             "oracle-jpmc.fa.oraclecloud.com-210808168"
           ],
-          "lastSeen": "2026-11-18",
-          "closedOn": "2026-11-18"
+          "lastSeen": "2026-11-19"
         },
         "technical product manager etl data reporting sql": {
           "ids": [
@@ -9506,7 +9525,7 @@
         },
         "2026-11-19": {
           "total": 100,
-          "eng": 7
+          "eng": 8
         }
       },
       "pm": {
@@ -9771,8 +9790,8 @@
           "eng": 1
         },
         "2026-11-19": {
-          "total": 8,
-          "eng": 0
+          "total": 9,
+          "eng": 1
         }
       },
       "pm": {
@@ -9935,7 +9954,7 @@
         },
         "2026-11-19": {
           "total": 100,
-          "eng": 86
+          "eng": 84
         }
       },
       "pm": {
@@ -10228,7 +10247,7 @@
           "eng": 6
         },
         "2026-11-19": {
-          "total": 195,
+          "total": 197,
           "eng": 7
         }
       },
@@ -10335,6 +10354,12 @@
         "product management app product": {
           "ids": [
             "lever-paytm-364ccee8-163f-4950-8ff5-3181a9345809"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "product management apm telco": {
+          "ids": [
+            "lever-paytm-7c3315bc-6f38-41da-a4f5-9fdeeea7cd12"
           ],
           "lastSeen": "2026-11-19"
         }
@@ -11259,7 +11284,7 @@
         },
         "2026-11-19": {
           "total": 100,
-          "eng": 14
+          "eng": 23
         }
       },
       "pm": {
@@ -11355,10 +11380,10 @@
             "smartrecruiters-ServiceNow-744000154774511",
             "smartrecruiters-ServiceNow-744000155819829",
             "smartrecruiters-ServiceNow-744000157721999",
-            "smartrecruiters-ServiceNow-744000159570123"
+            "smartrecruiters-ServiceNow-744000159570123",
+            "smartrecruiters-ServiceNow-744000162494199"
           ],
-          "lastSeen": "2026-11-06",
-          "closedOn": "2026-11-06"
+          "lastSeen": "2026-11-19"
         },
         "sr staff product manager network security": {
           "ids": [
@@ -11513,7 +11538,8 @@
             "smartrecruiters-ServiceNow-744000159235840",
             "smartrecruiters-ServiceNow-744000162182430"
           ],
-          "lastSeen": "2026-11-19"
+          "lastSeen": "2026-11-19",
+          "closedOn": "2026-11-19"
         },
         "senior staff inbound product manager": {
           "ids": [
@@ -11655,7 +11681,8 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000162114933"
           ],
-          "lastSeen": "2026-11-19"
+          "lastSeen": "2026-11-19",
+          "closedOn": "2026-11-19"
         },
         "svp product marketing": {
           "ids": [
@@ -11794,8 +11821,8 @@
           "eng": 56
         },
         "2026-11-19": {
-          "total": 92,
-          "eng": 55
+          "total": 86,
+          "eng": 51
         }
       },
       "pm": {
@@ -12094,7 +12121,7 @@
           "eng": 3
         },
         "2026-11-19": {
-          "total": 21,
+          "total": 23,
           "eng": 3
         }
       },
@@ -12223,8 +12250,8 @@
           "eng": 75
         },
         "2026-11-19": {
-          "total": 92,
-          "eng": 75
+          "total": 90,
+          "eng": 73
         }
       },
       "pm": {}
@@ -13043,8 +13070,8 @@
           "eng": 32
         },
         "2026-11-19": {
-          "total": 116,
-          "eng": 33
+          "total": 114,
+          "eng": 32
         }
       },
       "pm": {
@@ -13235,7 +13262,7 @@
           "eng": 1
         },
         "2026-11-19": {
-          "total": 18,
+          "total": 19,
           "eng": 1
         }
       },
@@ -13424,7 +13451,7 @@
           "eng": 7
         },
         "2026-11-19": {
-          "total": 55,
+          "total": 56,
           "eng": 7
         }
       },
@@ -13576,7 +13603,7 @@
           "eng": 8
         },
         "2026-11-19": {
-          "total": 30,
+          "total": 29,
           "eng": 11
         }
       },
@@ -13785,8 +13812,8 @@
           "eng": 11
         },
         "2026-11-19": {
-          "total": 31,
-          "eng": 11
+          "total": 32,
+          "eng": 12
         }
       },
       "pm": {
@@ -14445,8 +14472,8 @@
           "eng": 18
         },
         "2026-11-19": {
-          "total": 77,
-          "eng": 18
+          "total": 59,
+          "eng": 15
         }
       },
       "pm": {
@@ -14456,7 +14483,8 @@
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-581393",
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1"
           ],
-          "lastSeen": "2026-11-19"
+          "lastSeen": "2026-11-19",
+          "closedOn": "2026-11-19"
         },
         "lead digital product manager ciam": {
           "ids": [
@@ -14480,7 +14508,8 @@
             "workday-wf-/job/Hyderabad-India/Senior-Product-Manager_R-574835",
             "workday-wf-/job/Bengaluru-India/Senior-Product-Manager_R-581858-1"
           ],
-          "lastSeen": "2026-11-19"
+          "lastSeen": "2026-11-19",
+          "closedOn": "2026-11-19"
         },
         "lead digital product manager web and mobile banking": {
           "ids": [
@@ -14512,8 +14541,7 @@
             "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
             "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-571003"
           ],
-          "lastSeen": "2026-11-18",
-          "closedOn": "2026-11-18"
+          "lastSeen": "2026-11-19"
         },
         "data product management consultant": {
           "ids": [
@@ -14573,7 +14601,8 @@
         },
         "senior data product management consultant": {
           "ids": [
-            "workday-wf-/job/Bengaluru-India/Senior-Data-Product-Management-Consultant_R-583784-1"
+            "workday-wf-/job/Bengaluru-India/Senior-Data-Product-Management-Consultant_R-583784-1",
+            "workday-wf-/job/PARAMUS-NJ/Senior-Data-Product-Management-Consultant_R-586784"
           ],
           "lastSeen": "2026-11-19"
         }
@@ -14702,8 +14731,8 @@
           "eng": 36
         },
         "2026-11-19": {
-          "total": 85,
-          "eng": 46
+          "total": 80,
+          "eng": 42
         }
       },
       "pm": {
@@ -14853,8 +14882,8 @@
           "eng": 42
         },
         "2026-11-19": {
-          "total": 189,
-          "eng": 43
+          "total": 187,
+          "eng": 35
         }
       },
       "pm": {
@@ -15545,7 +15574,7 @@
           "eng": 15
         },
         "2026-11-19": {
-          "total": 32,
+          "total": 30,
           "eng": 15
         }
       },
@@ -15988,8 +16017,8 @@
           "eng": 556
         },
         "2026-11-19": {
-          "total": 906,
-          "eng": 560
+          "total": 902,
+          "eng": 561
         }
       },
       "pm": {
@@ -16318,7 +16347,7 @@
           "eng": 22
         },
         "2026-11-19": {
-          "total": 38,
+          "total": 39,
           "eng": 22
         }
       },
@@ -16460,7 +16489,7 @@
           "eng": 48
         },
         "2026-11-19": {
-          "total": 122,
+          "total": 128,
           "eng": 48
         }
       },
@@ -18055,8 +18084,8 @@
           "eng": 170
         },
         "2026-11-19": {
-          "total": 403,
-          "eng": 173
+          "total": 410,
+          "eng": 174
         }
       },
       "pm": {
@@ -18943,8 +18972,8 @@
           "eng": 37
         },
         "2026-11-19": {
-          "total": 88,
-          "eng": 38
+          "total": 87,
+          "eng": 37
         }
       },
       "pm": {
@@ -19106,7 +19135,7 @@
         },
         "2026-11-19": {
           "total": 200,
-          "eng": 130
+          "eng": 131
         }
       },
       "pm": {
@@ -19500,8 +19529,8 @@
           "eng": 224
         },
         "2026-11-19": {
-          "total": 678,
-          "eng": 224
+          "total": 695,
+          "eng": 223
         }
       },
       "pm": {
@@ -19959,7 +19988,7 @@
           "eng": 8
         },
         "2026-11-19": {
-          "total": 43,
+          "total": 45,
           "eng": 8
         }
       },
@@ -20240,7 +20269,7 @@
         },
         "2026-11-19": {
           "total": 377,
-          "eng": 206
+          "eng": 204
         }
       },
       "pm": {
@@ -20637,8 +20666,8 @@
           "eng": 31
         },
         "2026-11-19": {
-          "total": 102,
-          "eng": 31
+          "total": 105,
+          "eng": 32
         }
       },
       "pm": {
@@ -20705,6 +20734,18 @@
         "principal product manager data fabric ontology": {
           "ids": [
             "ashby-uipath-d3ef8c17-984f-4138-a853-cca29eaa7133"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "principal product manager agentic ai orchestration": {
+          "ids": [
+            "ashby-uipath-3c66daaf-10c7-4f03-ab54-a7849428a906"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "senior product manager agentic ai orchestration": {
+          "ids": [
+            "ashby-uipath-c475a00b-ac15-487c-b1b5-17d787841f85"
           ],
           "lastSeen": "2026-11-19"
         }
@@ -21128,7 +21169,7 @@
           "eng": 18
         },
         "2026-11-19": {
-          "total": 393,
+          "total": 390,
           "eng": 18
         }
       },
@@ -21569,7 +21610,7 @@
           "eng": 3
         },
         "2026-11-19": {
-          "total": 13,
+          "total": 11,
           "eng": 3
         }
       },
@@ -21694,8 +21735,8 @@
           "eng": 130
         },
         "2026-11-19": {
-          "total": 489,
-          "eng": 130
+          "total": 490,
+          "eng": 131
         }
       },
       "pm": {
@@ -21992,7 +22033,7 @@
           "eng": 20
         },
         "2026-11-19": {
-          "total": 89,
+          "total": 90,
           "eng": 20
         }
       },
@@ -22309,7 +22350,7 @@
           "eng": 7
         },
         "2026-11-19": {
-          "total": 30,
+          "total": 31,
           "eng": 7
         }
       },
@@ -23772,7 +23813,8 @@
         },
         "2026-11-19": {
           "total": 100,
-          "eng": 9
+          "eng": 11,
+          "spike": true
         }
       },
       "pm": {
@@ -24197,7 +24239,7 @@
           "eng": 66
         },
         "2026-11-19": {
-          "total": 248,
+          "total": 244,
           "eng": 69
         }
       },
@@ -24327,6 +24369,12 @@
         "senior product manager aml": {
           "ids": [
             "greenhouse-adyen-8281712"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "principal product manager internal ai products": {
+          "ids": [
+            "greenhouse-adyen-8359357"
           ],
           "lastSeen": "2026-11-19"
         }
@@ -24536,8 +24584,8 @@
           "eng": 143
         },
         "2026-11-19": {
-          "total": 264,
-          "eng": 143
+          "total": 262,
+          "eng": 140
         }
       },
       "pm": {
@@ -24662,8 +24710,8 @@
           "eng": 112
         },
         "2026-11-19": {
-          "total": 249,
-          "eng": 113
+          "total": 248,
+          "eng": 111
         }
       },
       "pm": {
@@ -24849,7 +24897,7 @@
           "eng": 0
         },
         "2026-11-19": {
-          "total": 12,
+          "total": 6,
           "eng": 0
         }
       },
@@ -25172,8 +25220,8 @@
           "eng": 12
         },
         "2026-11-19": {
-          "total": 46,
-          "eng": 12
+          "total": 48,
+          "eng": 13
         }
       },
       "pm": {
@@ -25290,7 +25338,7 @@
           "eng": 5
         },
         "2026-11-19": {
-          "total": 26,
+          "total": 25,
           "eng": 5
         }
       },
@@ -25661,7 +25709,7 @@
         },
         "2026-11-19": {
           "total": 100,
-          "eng": 29
+          "eng": 30
         }
       },
       "pm": {
@@ -25692,7 +25740,8 @@
             "smartrecruiters-wise-744000159859179",
             "smartrecruiters-wise-744000161181199"
           ],
-          "lastSeen": "2026-11-19"
+          "lastSeen": "2026-11-19",
+          "closedOn": "2026-11-19"
         },
         "principal product manager financial crime": {
           "ids": [
@@ -25714,11 +25763,24 @@
             "smartrecruiters-wise-744000161061964",
             "smartrecruiters-wise-744000161181469"
           ],
-          "lastSeen": "2026-11-19"
+          "lastSeen": "2026-11-19",
+          "closedOn": "2026-11-19"
         },
         "senior product manager payment integrations": {
           "ids": [
             "smartrecruiters-wise-744000162475705"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "product manager support experience": {
+          "ids": [
+            "smartrecruiters-wise-744000162558235"
+          ],
+          "lastSeen": "2026-11-19"
+        },
+        "product lead money laundering prevention": {
+          "ids": [
+            "smartrecruiters-wise-744000162558339"
           ],
           "lastSeen": "2026-11-19"
         }
