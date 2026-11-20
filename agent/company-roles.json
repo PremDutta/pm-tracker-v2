@@ -1,15 +1,7 @@
 {
-  "scannedAt": "2026-11-20T05:59:12.314Z",
+  "scannedAt": "2026-11-20T10:16:54.675Z",
   "roles": {
     "Amazon": [
-      {
-        "id": "amazon-10578219",
-        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
-        "location": "Gurugram, Haryana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
-        "level": "group",
-        "firstSeen": "2026-11-03"
-      },
       {
         "id": "amazon-10555430",
         "title": "Principal Product Manager- Technical, Amazon Finance Technology",
@@ -17,6 +9,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
         "level": "group",
         "firstSeen": "2026-10-23"
+      },
+      {
+        "id": "amazon-10578219",
+        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
+        "location": "Gurugram, Haryana, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
+        "level": "group",
+        "firstSeen": "2026-11-03"
       },
       {
         "id": "amazon-10563526",
@@ -115,14 +115,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "amazon-10605156",
-        "title": "Senior Manager, Product Management, Technical",
-        "location": "Hyderabad, Telangana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10605156/senior-manager-product-management-technical",
-        "level": "senior",
-        "firstSeen": "2026-11-14"
-      },
-      {
         "id": "amazon-10490006",
         "title": "Senior Product Manager - Tech",
         "location": "Bengaluru, Karnataka, IND",
@@ -169,6 +161,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10606850/senior-product-manager-technical",
         "level": "senior",
         "firstSeen": "2026-11-18"
+      },
+      {
+        "id": "amazon-10605512",
+        "title": "Senior Product Manager Technical, EU INTech - PGX",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10605512/senior-product-manager-technical-eu-intech-pgx",
+        "level": "senior",
+        "firstSeen": "2026-11-20"
       },
       {
         "id": "amazon-10469361",
@@ -553,6 +553,14 @@
         "firstSeen": "2026-11-10"
       },
       {
+        "id": "sf-careers.hcltech.com-169138",
+        "title": "Data Product Manager",
+        "location": "Chennai",
+        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-20"
+      },
+      {
         "id": "sf-careers.hcltech.com-178491",
         "title": "Product Manager/ Product Lead",
         "location": "Pune",
@@ -577,14 +585,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158038",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -593,10 +593,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158025",
+        "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -605,6 +605,14 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158025",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -763,14 +771,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808753",
         "level": "leadership",
         "firstSeen": "2026-11-18"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210808168",
-        "title": "Product Manager",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808168",
-        "level": "pm",
-        "firstSeen": "2026-11-19"
       }
     ],
     "Karat": [
@@ -809,6 +809,14 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
         "level": "group",
         "firstSeen": "2026-10-08"
+      },
+      {
+        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager-Tech_R-288293",
+        "title": "Lead Product Manager Tech",
+        "location": "Pune, India",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager-Tech_R-288293",
+        "level": "group",
+        "firstSeen": "2026-11-20"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289980",
@@ -1043,6 +1051,14 @@
         "url": "https://morganstanley.eightfold.ai/careers/job/549801119307",
         "level": "pm",
         "firstSeen": "2026-11-13"
+      },
+      {
+        "id": "eightfold-morganstanley.com-549801427329",
+        "title": "Wealth Management- Executive Director, Head Product Owner Field Experience & Platforms (Mumbai)",
+        "location": "Mumbai, Maharashtra, India",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549801427329",
+        "level": "leadership",
+        "firstSeen": "2026-11-20"
       }
     ],
     "Motorola Solutions": [
@@ -1171,6 +1187,16 @@
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347873",
         "level": "senior",
         "firstSeen": "2026-10-22"
+      }
+    ],
+    "PayPal": [
+      {
+        "id": "eightfold-paypal.com-274922819061",
+        "title": "Lead Product Manager",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://paypal.eightfold.ai/careers/job/274922819061",
+        "level": "group",
+        "firstSeen": "2026-11-20"
       }
     ],
     "Paytm": [
@@ -1365,18 +1391,18 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
-        "level": "pm",
-        "firstSeen": "2026-11-10"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
         "title": "Product Manager II",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+        "level": "pm",
+        "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
         "level": "pm",
         "firstSeen": "2026-11-10"
       },
@@ -1389,12 +1415,12 @@
         "firstSeen": "2026-10-29"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
         "level": "senior",
-        "firstSeen": "2026-11-10"
+        "firstSeen": "2026-10-15"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
@@ -1405,12 +1431,12 @@
         "firstSeen": "2026-11-10"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
         "level": "senior",
-        "firstSeen": "2026-10-15"
+        "firstSeen": "2026-11-10"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
@@ -1657,6 +1683,22 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-571003",
         "level": "group",
         "firstSeen": "2026-11-19"
+      },
+      {
+        "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-575608",
+        "title": "Lead Product Manager",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-575608",
+        "level": "group",
+        "firstSeen": "2026-11-20"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330",
+        "title": "Product Manager",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-581330",
+        "level": "pm",
+        "firstSeen": "2026-11-20"
       }
     ],
     "Wing Assistant (M32 AI)": [

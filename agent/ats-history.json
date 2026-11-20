@@ -350,7 +350,7 @@
           "eng": 278
         },
         "2026-11-20": {
-          "total": 638,
+          "total": 637,
           "eng": 281
         }
       },
@@ -1502,7 +1502,7 @@
           "eng": 77
         },
         "2026-11-20": {
-          "total": 168,
+          "total": 167,
           "eng": 77
         }
       },
@@ -2191,7 +2191,7 @@
           "eng": 36
         },
         "2026-11-20": {
-          "total": 129,
+          "total": 125,
           "eng": 36
         }
       },
@@ -2485,7 +2485,7 @@
           "eng": 36
         },
         "2026-11-20": {
-          "total": 145,
+          "total": 146,
           "eng": 36
         }
       },
@@ -2966,7 +2966,7 @@
           "eng": 430
         },
         "2026-11-20": {
-          "total": 853,
+          "total": 852,
           "eng": 433
         }
       },
@@ -3652,7 +3652,7 @@
           "eng": 0
         },
         "2026-11-20": {
-          "total": 12,
+          "total": 11,
           "eng": 0
         }
       },
@@ -4412,7 +4412,7 @@
           "eng": 2
         },
         "2026-11-20": {
-          "total": 16,
+          "total": 18,
           "eng": 2
         }
       },
@@ -5801,7 +5801,7 @@
           "eng": 14
         },
         "2026-11-20": {
-          "total": 28,
+          "total": 27,
           "eng": 14
         }
       },
@@ -6633,7 +6633,8 @@
           "ids": [
             "amazon-10605156"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "sr product manager tech amazon compliance safety services": {
           "ids": [
@@ -6662,6 +6663,12 @@
         "sr product manager tech buyer abuse": {
           "ids": [
             "amazon-10608493"
+          ],
+          "lastSeen": "2026-11-20"
+        },
+        "senior product manager technical eu intech pgx": {
+          "ids": [
+            "amazon-10605512"
           ],
           "lastSeen": "2026-11-20"
         }
@@ -6790,7 +6797,7 @@
           "eng": 3
         },
         "2026-11-20": {
-          "total": 26,
+          "total": 27,
           "eng": 3
         }
       },
@@ -7245,7 +7252,7 @@
           "eng": 6
         },
         "2026-11-20": {
-          "total": 33,
+          "total": 32,
           "eng": 6
         }
       },
@@ -7374,7 +7381,7 @@
           "eng": 11
         },
         "2026-11-20": {
-          "total": 78,
+          "total": 77,
           "eng": 11
         }
       },
@@ -8321,7 +8328,7 @@
           "eng": 14
         },
         "2026-11-20": {
-          "total": 43,
+          "total": 44,
           "eng": 14
         }
       },
@@ -9144,7 +9151,8 @@
             "oracle-jpmc.fa.oraclecloud.com-210800513",
             "oracle-jpmc.fa.oraclecloud.com-210808168"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "technical product manager etl data reporting sql": {
           "ids": [
@@ -9796,7 +9804,7 @@
           "eng": 1
         },
         "2026-11-20": {
-          "total": 9,
+          "total": 11,
           "eng": 1
         }
       },
@@ -9813,8 +9821,7 @@
           "ids": [
             "eightfold-paypal.com-274922819061"
           ],
-          "lastSeen": "2026-11-18",
-          "closedOn": "2026-11-18"
+          "lastSeen": "2026-11-20"
         }
       }
     },
@@ -9960,7 +9967,7 @@
         },
         "2026-11-20": {
           "total": 100,
-          "eng": 86
+          "eng": 87
         }
       },
       "pm": {
@@ -10254,7 +10261,7 @@
         },
         "2026-11-20": {
           "total": 196,
-          "eng": 6
+          "eng": 5
         }
       },
       "pm": {
@@ -11111,7 +11118,7 @@
           "eng": 21
         },
         "2026-11-20": {
-          "total": 43,
+          "total": 44,
           "eng": 21
         }
       },
@@ -11290,7 +11297,7 @@
         },
         "2026-11-20": {
           "total": 100,
-          "eng": 26
+          "eng": 27
         }
       },
       "pm": {
@@ -11828,7 +11835,7 @@
           "eng": 51
         },
         "2026-11-20": {
-          "total": 86,
+          "total": 87,
           "eng": 51
         }
       },
@@ -11980,8 +11987,7 @@
           "ids": [
             "workday-mastercard-/job/Pune-India/Lead-Product-Manager-Tech_R-288293"
           ],
-          "lastSeen": "2026-10-12",
-          "closedOn": "2026-10-13"
+          "lastSeen": "2026-11-20"
         },
         "manager product management client data onboarding be o": {
           "ids": [
@@ -12257,8 +12263,8 @@
           "eng": 73
         },
         "2026-11-20": {
-          "total": 92,
-          "eng": 75
+          "total": 90,
+          "eng": 73
         }
       },
       "pm": {}
@@ -13078,7 +13084,7 @@
           "eng": 32
         },
         "2026-11-20": {
-          "total": 114,
+          "total": 113,
           "eng": 32
         }
       },
@@ -13270,7 +13276,7 @@
           "eng": 1
         },
         "2026-11-20": {
-          "total": 19,
+          "total": 20,
           "eng": 1
         }
       },
@@ -13331,6 +13337,12 @@
         "trade support director product support service isg": {
           "ids": [
             "eightfold-morganstanley.com-549801119307"
+          ],
+          "lastSeen": "2026-11-20"
+        },
+        "wealth management executive director head product owner field experience platforms": {
+          "ids": [
+            "eightfold-morganstanley.com-549801427329"
           ],
           "lastSeen": "2026-11-20"
         }
@@ -13611,8 +13623,8 @@
           "eng": 11
         },
         "2026-11-20": {
-          "total": 28,
-          "eng": 11
+          "total": 27,
+          "eng": 10
         }
       },
       "pm": {
@@ -14480,8 +14492,8 @@
           "eng": 15
         },
         "2026-11-20": {
-          "total": 62,
-          "eng": 15
+          "total": 69,
+          "eng": 16
         }
       },
       "pm": {
@@ -14539,8 +14551,7 @@
             "workday-wf-/job/Bengaluru-India/Product-Manager_R-575589",
             "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330"
           ],
-          "lastSeen": "2026-11-16",
-          "closedOn": "2026-11-17"
+          "lastSeen": "2026-11-20"
         },
         "lead product manager": {
           "ids": [
@@ -14738,8 +14749,8 @@
           "eng": 42
         },
         "2026-11-20": {
-          "total": 83,
-          "eng": 45
+          "total": 84,
+          "eng": 44
         }
       },
       "pm": {
@@ -14894,7 +14905,7 @@
         },
         "2026-11-20": {
           "total": 191,
-          "eng": 42
+          "eng": 41
         }
       },
       "pm": {
@@ -16024,8 +16035,8 @@
           "eng": 561
         },
         "2026-11-20": {
-          "total": 901,
-          "eng": 563
+          "total": 898,
+          "eng": 561
         }
       },
       "pm": {
@@ -16719,8 +16730,8 @@
           "eng": 5
         },
         "2026-11-20": {
-          "total": 6,
-          "eng": 5
+          "total": 7,
+          "eng": 6
         }
       },
       "pm": {
@@ -18578,7 +18589,7 @@
           "eng": 12
         },
         "2026-11-20": {
-          "total": 17,
+          "total": 18,
           "eng": 12
         }
       },
@@ -19141,8 +19152,8 @@
           "eng": 131
         },
         "2026-11-20": {
-          "total": 200,
-          "eng": 131
+          "total": 199,
+          "eng": 130
         }
       },
       "pm": {
@@ -19323,8 +19334,8 @@
           "eng": 45
         },
         "2026-11-20": {
-          "total": 203,
-          "eng": 46
+          "total": 205,
+          "eng": 47
         }
       },
       "pm": {
@@ -19536,8 +19547,8 @@
           "eng": 223
         },
         "2026-11-20": {
-          "total": 711,
-          "eng": 222
+          "total": 713,
+          "eng": 220
         }
       },
       "pm": {
@@ -20275,8 +20286,8 @@
           "eng": 204
         },
         "2026-11-20": {
-          "total": 379,
-          "eng": 206
+          "total": 380,
+          "eng": 207
         }
       },
       "pm": {
@@ -20882,7 +20893,7 @@
           "eng": 2
         },
         "2026-11-20": {
-          "total": 15,
+          "total": 16,
           "eng": 2
         }
       },
@@ -21751,8 +21762,8 @@
           "eng": 131
         },
         "2026-11-20": {
-          "total": 490,
-          "eng": 130
+          "total": 492,
+          "eng": 131
         }
       },
       "pm": {
@@ -22235,7 +22246,7 @@
           "eng": 9
         },
         "2026-11-20": {
-          "total": 83,
+          "total": 85,
           "eng": 9
         }
       },
@@ -22515,7 +22526,7 @@
           "eng": 1
         },
         "2026-11-20": {
-          "total": 91,
+          "total": 92,
           "eng": 1
         }
       },
@@ -22953,7 +22964,7 @@
         },
         "2026-11-20": {
           "total": 119,
-          "eng": 7
+          "eng": 8
         }
       },
       "pm": {
@@ -22988,7 +22999,8 @@
           "ids": [
             "workday-dbs-/job/Singapore---East/AVP--Digital-Product-Owner--Consumer-Banking-Group_WD87838-1"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "gi product manager bancassurance advisory channels": {
           "ids": [
@@ -23743,8 +23755,8 @@
           "eng": 11
         },
         "2026-11-20": {
-          "total": 34,
-          "eng": 11
+          "total": 32,
+          "eng": 10
         }
       },
       "pm": {
@@ -23883,7 +23895,7 @@
         },
         "2026-11-20": {
           "total": 100,
-          "eng": 11,
+          "eng": 9,
           "spike": true
         }
       },
@@ -24044,8 +24056,8 @@
           "eng": 3
         },
         "2026-11-20": {
-          "total": 21,
-          "eng": 3
+          "total": 20,
+          "eng": 2
         }
       },
       "pm": {
@@ -24372,10 +24384,10 @@
         },
         "senior product manager capital": {
           "ids": [
-            "greenhouse-adyen-8158552"
+            "greenhouse-adyen-8158552",
+            "greenhouse-adyen-8303418"
           ],
-          "lastSeen": "2026-10-30",
-          "closedOn": "2026-10-30"
+          "lastSeen": "2026-11-20"
         },
         "senior product manager developer experience": {
           "ids": [
@@ -24674,8 +24686,8 @@
           "eng": 140
         },
         "2026-11-20": {
-          "total": 262,
-          "eng": 140
+          "total": 265,
+          "eng": 144
         }
       },
       "pm": {
@@ -25908,6 +25920,12 @@
         "product lead money laundering prevention": {
           "ids": [
             "smartrecruiters-wise-744000162558339"
+          ],
+          "lastSeen": "2026-11-20"
+        },
+        "product manager connect": {
+          "ids": [
+            "smartrecruiters-wise-744000162688289"
           ],
           "lastSeen": "2026-11-20"
         }

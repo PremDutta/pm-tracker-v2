@@ -1,6 +1,15 @@
 {
   "signals": [
     {
+      "type": "reopened",
+      "company": "Adyen",
+      "date": "2026-11-20",
+      "title": "Senior Product Manager, Capital",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8303418",
+      "id": "greenhouse-adyen-8303418",
+      "detail": "closed 2026-10-30, reposted today"
+    },
+    {
       "type": "eng_spike",
       "company": "Skyroot Aerospace",
       "date": "2026-11-20",
@@ -19,6 +28,14 @@
       "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
       "date": "2026-11-20",
       "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
+      "company": "Urban Company",
+      "title": "Urban Company raises Rs 2,500 Cr through QIP",
+      "url": "https://yourstory.com/2026/11/urban-company-raises-rs-2500-cr-through-qip",
+      "date": "2026-11-20",
+      "detail": "via YourStory"
     },
     {
       "type": "funding",
