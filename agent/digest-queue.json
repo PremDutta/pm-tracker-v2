@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "oracle-jpmc.fa.oraclecloud.com-210796769",
-      "title": "Product Owner/Product Delivery – Senior Associate",
-      "company": "JPMorgan Chase",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796769",
-      "source": "JPMorgan Chase careers",
-      "queuedOn": "2026-10-12"
-    },
-    {
-      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager---Technical_R-291940-1",
-      "title": "Lead Product Manager - Technical",
-      "company": "Mastercard",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical_R-291940-1",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-12"
-    },
-    {
       "id": "govt-dic-ora-1477",
       "title": "Product Manager (AI)",
       "company": "National E-Governance Division(NeGD)",
@@ -3630,18 +3612,27 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/128741187606454982-product-manager-ads-customer-lifecycle?page=40",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "greenhouse-figma-6266479004",
+      "title": "Product Manager, Billing",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/6266479004?gh_jid=6266479004",
+      "source": "Greenhouse (Figma)",
+      "queuedOn": "2026-11-21"
+    },
+    {
+      "id": "oracle-eeho.fa.us2.oraclecloud.com-350882",
+      "title": "Product Manager 2",
+      "company": "Oracle",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350882",
+      "source": "Oracle careers",
+      "queuedOn": "2026-11-21"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "Wipro",
-      "date": "2026-10-23",
-      "title": "Associate Product Manager - AI-Powered Property Appraisal Platform",
-      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platform/212754-en_US/",
-      "id": "sf-careers.wipro.com-212754",
-      "detail": "closed 2026-10-22, reposted today"
-    },
     {
       "type": "eng_spike",
       "company": "Oracle",
@@ -4364,6 +4355,15 @@
       "url": "https://job-boards.greenhouse.io/adyen/jobs/8303418",
       "id": "greenhouse-adyen-8303418",
       "detail": "closed 2026-10-30, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-20",
+      "title": "Inbound Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162818530",
+      "id": "smartrecruiters-ServiceNow-744000162818530",
+      "detail": "closed 2026-11-18, reposted today"
     }
   ],
   "reminders": {}

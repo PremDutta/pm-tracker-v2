@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-20T15:18:36.780Z",
+  "scannedAt": "2026-11-20T23:45:01.639Z",
   "roles": {
     "Amazon": [
       {
@@ -371,14 +371,6 @@
         "firstSeen": "2026-11-16"
       },
       {
-        "id": "amazon-10423878",
-        "title": "Sr. Product Manager-Tech, DSP-DA Lifecycle Solutions",
-        "location": "Hyderabad, Telangana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10423878/sr-product-manager-tech-dsp-da-lifecycle-solutions",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10593786",
         "title": "Sr. Product Manager-Technical, Amazon Business",
         "location": "Hyderabad, Telangana, IND",
@@ -553,6 +545,14 @@
         "firstSeen": "2026-11-10"
       },
       {
+        "id": "sf-careers.hcltech.com-169138",
+        "title": "Data Product Manager",
+        "location": "Chennai",
+        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-20"
+      },
+      {
         "id": "sf-careers.hcltech.com-178491",
         "title": "Product Manager/ Product Lead",
         "location": "Pune",
@@ -585,10 +585,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
+        "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -601,10 +601,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-159765",
+        "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -801,14 +801,6 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
         "level": "group",
         "firstSeen": "2026-10-08"
-      },
-      {
-        "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager-Tech_R-288293",
-        "title": "Lead Product Manager Tech",
-        "location": "Pune, India",
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager-Tech_R-288293",
-        "level": "group",
-        "firstSeen": "2026-11-20"
       },
       {
         "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager--Technical_R-289980",
@@ -1173,22 +1165,20 @@
         "firstSeen": "2026-11-10"
       },
       {
+        "id": "oracle-eeho.fa.us2.oraclecloud.com-350882",
+        "title": "Product Manager 2",
+        "location": "BENGALURU, KARNATAKA, India",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350882",
+        "level": "pm",
+        "firstSeen": "2026-11-20"
+      },
+      {
         "id": "oracle-eeho.fa.us2.oraclecloud.com-347873",
         "title": "Senior Product Manager- SCM/Ecommerce",
         "location": "HYDERABAD, TELANGANA, India",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347873",
         "level": "senior",
         "firstSeen": "2026-10-22"
-      }
-    ],
-    "PayPal": [
-      {
-        "id": "eightfold-paypal.com-274922819061",
-        "title": "Lead Product Manager",
-        "location": "Bangalore, Karnataka, India",
-        "url": "https://paypal.eightfold.ai/careers/job/274922819061",
-        "level": "group",
-        "firstSeen": "2026-11-20"
       }
     ],
     "Paytm": [
