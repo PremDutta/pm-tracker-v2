@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-20T10:16:54.675Z",
+  "scannedAt": "2026-11-20T15:18:36.780Z",
   "roles": {
     "Amazon": [
       {
@@ -553,14 +553,6 @@
         "firstSeen": "2026-11-10"
       },
       {
-        "id": "sf-careers.hcltech.com-169138",
-        "title": "Data Product Manager",
-        "location": "Chennai",
-        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-11-20"
-      },
-      {
         "id": "sf-careers.hcltech.com-178491",
         "title": "Product Manager/ Product Lead",
         "location": "Pune",
@@ -585,14 +577,6 @@
         "firstSeen": "2026-10-08"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158038",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -601,10 +585,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-159765",
+        "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -613,6 +597,14 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-159765",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1313,6 +1305,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "lever-paytm-d08cc291-90b4-47bb-8300-59cc2011b662",
+        "title": "Product Management - Senior Product Manager / PM-2 – Risk Product",
+        "location": "Bangalore, Karnataka",
+        "url": "https://jobs.lever.co/paytm/d08cc291-90b4-47bb-8300-59cc2011b662",
+        "level": "senior",
+        "firstSeen": "2026-11-20"
+      },
+      {
         "id": "lever-paytm-4ee74e43-4001-457f-9ad8-f574689991d5",
         "title": "Product Management - UPI Product | Experience : 3-5 yrs",
         "location": "Noida, Uttar Pradesh",
@@ -1415,6 +1415,14 @@
         "firstSeen": "2026-10-29"
       },
       {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
+        "level": "senior",
+        "firstSeen": "2026-11-10"
+      },
+      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4736585005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
@@ -1427,14 +1435,6 @@
         "title": "Senior Product Manager",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
-        "level": "senior",
-        "firstSeen": "2026-11-10"
-      },
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
         "level": "senior",
         "firstSeen": "2026-11-10"
       },
@@ -1573,14 +1573,6 @@
     ],
     "Target India": [
       {
-        "id": "workday-target-/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
-        "title": "Director Product Management - Customer Data Platform",
-        "location": "Bangalore,India",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
-        "level": "leadership",
-        "firstSeen": "2026-11-05"
-      },
-      {
         "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-manager_R0000480930",
         "title": "Sr Product manager",
         "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
@@ -1669,6 +1661,14 @@
     ],
     "Wells Fargo": [
       {
+        "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+        "title": "Lead Business Execution Consultant Product Owner AI Agentic",
+        "location": "Hyderabad, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+        "level": "group",
+        "firstSeen": "2026-11-20"
+      },
+      {
         "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
         "title": "Lead Digital Product Manager - CIAM",
         "location": "Bengaluru, India",
@@ -1690,14 +1690,6 @@
         "location": "Hyderabad, India",
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-575608",
         "level": "group",
-        "firstSeen": "2026-11-20"
-      },
-      {
-        "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330",
-        "title": "Product Manager",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-581330",
-        "level": "pm",
         "firstSeen": "2026-11-20"
       }
     ],

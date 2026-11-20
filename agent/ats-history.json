@@ -350,7 +350,7 @@
           "eng": 278
         },
         "2026-11-20": {
-          "total": 637,
+          "total": 640,
           "eng": 281
         }
       },
@@ -2191,7 +2191,7 @@
           "eng": 36
         },
         "2026-11-20": {
-          "total": 125,
+          "total": 124,
           "eng": 36
         }
       },
@@ -2817,7 +2817,7 @@
           "eng": 61
         },
         "2026-11-20": {
-          "total": 168,
+          "total": 169,
           "eng": 60
         }
       },
@@ -2967,7 +2967,7 @@
         },
         "2026-11-20": {
           "total": 852,
-          "eng": 433
+          "eng": 432
         }
       },
       "pm": {
@@ -5123,7 +5123,7 @@
           "eng": 4
         },
         "2026-11-20": {
-          "total": 22,
+          "total": 20,
           "eng": 4
         }
       },
@@ -5284,8 +5284,8 @@
           "eng": 31
         },
         "2026-11-20": {
-          "total": 94,
-          "eng": 33
+          "total": 90,
+          "eng": 31
         }
       },
       "pm": {
@@ -5320,7 +5320,8 @@
           "ids": [
             "lever-spotify-03437e2a-2d5e-4593-9e97-11271014932e"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "senior product manager audiobooks format foundations": {
           "ids": [
@@ -5338,7 +5339,8 @@
           "ids": [
             "lever-spotify-ee45924c-894c-4ea0-9c93-c5221894063f"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "principal product manager format foundations": {
           "ids": [
@@ -5530,7 +5532,7 @@
           "eng": 3
         },
         "2026-11-20": {
-          "total": 4,
+          "total": 3,
           "eng": 3
         }
       },
@@ -7252,7 +7254,7 @@
           "eng": 6
         },
         "2026-11-20": {
-          "total": 32,
+          "total": 33,
           "eng": 6
         }
       },
@@ -7381,8 +7383,8 @@
           "eng": 11
         },
         "2026-11-20": {
-          "total": 77,
-          "eng": 11
+          "total": 76,
+          "eng": 10
         }
       },
       "pm": {
@@ -8328,7 +8330,7 @@
           "eng": 14
         },
         "2026-11-20": {
-          "total": 44,
+          "total": 43,
           "eng": 14
         }
       },
@@ -9069,7 +9071,7 @@
         },
         "2026-11-20": {
           "total": 100,
-          "eng": 34
+          "eng": 36
         }
       },
       "pm": {
@@ -9402,8 +9404,8 @@
           "eng": 7
         },
         "2026-11-20": {
-          "total": 20,
-          "eng": 7
+          "total": 19,
+          "eng": 6
         }
       },
       "pm": {
@@ -9539,7 +9541,7 @@
         },
         "2026-11-20": {
           "total": 100,
-          "eng": 8
+          "eng": 9
         }
       },
       "pm": {
@@ -9967,7 +9969,7 @@
         },
         "2026-11-20": {
           "total": 100,
-          "eng": 87
+          "eng": 88
         }
       },
       "pm": {
@@ -10260,7 +10262,7 @@
           "eng": 7
         },
         "2026-11-20": {
-          "total": 196,
+          "total": 199,
           "eng": 5
         }
       },
@@ -10373,6 +10375,12 @@
         "product management apm telco": {
           "ids": [
             "lever-paytm-7c3315bc-6f38-41da-a4f5-9fdeeea7cd12"
+          ],
+          "lastSeen": "2026-11-20"
+        },
+        "product management senior product manager pm 2 risk product": {
+          "ids": [
+            "lever-paytm-d08cc291-90b4-47bb-8300-59cc2011b662"
           ],
           "lastSeen": "2026-11-20"
         }
@@ -10685,7 +10693,7 @@
           "eng": 3
         },
         "2026-11-20": {
-          "total": 30,
+          "total": 29,
           "eng": 3
         }
       },
@@ -11118,8 +11126,8 @@
           "eng": 21
         },
         "2026-11-20": {
-          "total": 44,
-          "eng": 21
+          "total": 43,
+          "eng": 20
         }
       },
       "pm": {
@@ -11297,7 +11305,7 @@
         },
         "2026-11-20": {
           "total": 100,
-          "eng": 27
+          "eng": 17
         }
       },
       "pm": {
@@ -11396,7 +11404,8 @@
             "smartrecruiters-ServiceNow-744000159570123",
             "smartrecruiters-ServiceNow-744000162494199"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "sr staff product manager network security": {
           "ids": [
@@ -11559,7 +11568,8 @@
             "smartrecruiters-ServiceNow-744000156543661",
             "smartrecruiters-ServiceNow-744000162408099"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "senior director product analytics": {
           "ids": [
@@ -11702,13 +11712,15 @@
           "ids": [
             "smartrecruiters-ServiceNow-744000162403879"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "sr staff outbound product manager": {
           "ids": [
             "smartrecruiters-ServiceNow-744000162408999"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         }
       }
     },
@@ -12134,7 +12146,7 @@
           "eng": 3
         },
         "2026-11-20": {
-          "total": 23,
+          "total": 22,
           "eng": 3
         }
       },
@@ -12263,7 +12275,7 @@
           "eng": 73
         },
         "2026-11-20": {
-          "total": 90,
+          "total": 91,
           "eng": 73
         }
       },
@@ -13623,7 +13635,7 @@
           "eng": 11
         },
         "2026-11-20": {
-          "total": 27,
+          "total": 28,
           "eng": 10
         }
       },
@@ -13699,7 +13711,8 @@
           "ids": [
             "workday-target-/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "sr product manager": {
           "ids": [
@@ -13832,8 +13845,8 @@
           "eng": 12
         },
         "2026-11-20": {
-          "total": 32,
-          "eng": 12
+          "total": 33,
+          "eng": 13
         }
       },
       "pm": {
@@ -14492,8 +14505,8 @@
           "eng": 15
         },
         "2026-11-20": {
-          "total": 69,
-          "eng": 16
+          "total": 68,
+          "eng": 17
         }
       },
       "pm": {
@@ -14551,7 +14564,8 @@
             "workday-wf-/job/Bengaluru-India/Product-Manager_R-575589",
             "workday-wf-/job/Bengaluru-India/Product-Manager_R-581330"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "lead product manager": {
           "ids": [
@@ -14593,8 +14607,7 @@
           "ids": [
             "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953"
           ],
-          "lastSeen": "2026-11-18",
-          "closedOn": "2026-11-18"
+          "lastSeen": "2026-11-20"
         },
         "senior digital product manager platform product management": {
           "ids": [
@@ -14749,8 +14762,8 @@
           "eng": 42
         },
         "2026-11-20": {
-          "total": 84,
-          "eng": 44
+          "total": 80,
+          "eng": 42
         }
       },
       "pm": {
@@ -14904,7 +14917,7 @@
           "eng": 35
         },
         "2026-11-20": {
-          "total": 191,
+          "total": 192,
           "eng": 41
         }
       },
@@ -15131,8 +15144,8 @@
           "eng": 44
         },
         "2026-11-20": {
-          "total": 69,
-          "eng": 43
+          "total": 70,
+          "eng": 44
         }
       },
       "pm": {
@@ -16035,8 +16048,8 @@
           "eng": 561
         },
         "2026-11-20": {
-          "total": 898,
-          "eng": 561
+          "total": 896,
+          "eng": 559
         }
       },
       "pm": {
@@ -18103,7 +18116,7 @@
         },
         "2026-11-20": {
           "total": 413,
-          "eng": 173
+          "eng": 174
         }
       },
       "pm": {
@@ -18990,8 +19003,8 @@
           "eng": 37
         },
         "2026-11-20": {
-          "total": 87,
-          "eng": 37
+          "total": 86,
+          "eng": 36
         }
       },
       "pm": {
@@ -19152,8 +19165,8 @@
           "eng": 131
         },
         "2026-11-20": {
-          "total": 199,
-          "eng": 130
+          "total": 200,
+          "eng": 131
         }
       },
       "pm": {
@@ -19334,7 +19347,7 @@
           "eng": 45
         },
         "2026-11-20": {
-          "total": 205,
+          "total": 207,
           "eng": 47
         }
       },
@@ -19547,7 +19560,7 @@
           "eng": 223
         },
         "2026-11-20": {
-          "total": 713,
+          "total": 721,
           "eng": 220
         }
       },
@@ -20006,8 +20019,8 @@
           "eng": 8
         },
         "2026-11-20": {
-          "total": 45,
-          "eng": 8
+          "total": 47,
+          "eng": 9
         }
       },
       "pm": {
@@ -20143,7 +20156,7 @@
           "eng": 0
         },
         "2026-11-20": {
-          "total": 4,
+          "total": 5,
           "eng": 0
         }
       },
@@ -20286,8 +20299,8 @@
           "eng": 204
         },
         "2026-11-20": {
-          "total": 380,
-          "eng": 207
+          "total": 379,
+          "eng": 206
         }
       },
       "pm": {
@@ -20685,8 +20698,8 @@
           "eng": 32
         },
         "2026-11-20": {
-          "total": 105,
-          "eng": 32
+          "total": 108,
+          "eng": 34
         }
       },
       "pm": {
@@ -21188,7 +21201,7 @@
           "eng": 18
         },
         "2026-11-20": {
-          "total": 390,
+          "total": 391,
           "eng": 18
         }
       },
@@ -21762,7 +21775,7 @@
           "eng": 131
         },
         "2026-11-20": {
-          "total": 492,
+          "total": 493,
           "eng": 131
         }
       },
@@ -22064,7 +22077,7 @@
           "eng": 20
         },
         "2026-11-20": {
-          "total": 93,
+          "total": 94,
           "eng": 20
         }
       },
@@ -22826,7 +22839,7 @@
           "eng": 5
         },
         "2026-11-20": {
-          "total": 9,
+          "total": 8,
           "eng": 5
         }
       },
@@ -22963,7 +22976,7 @@
           "eng": 7
         },
         "2026-11-20": {
-          "total": 119,
+          "total": 118,
           "eng": 8
         }
       },
@@ -22972,7 +22985,8 @@
           "ids": [
             "workday-dbs-/job/Singapore---East/AVP-VP--Product-Owner-cum-Business-Lead--Global-Financial-Markets-Operations--Group-Operations--Group-COO_WD89337"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "avp senior associate assistant product manager smart buddy consumer banking group": {
           "ids": [
@@ -23006,7 +23020,8 @@
           "ids": [
             "workday-dbs-/job/Singapore---Central/GI-Product-Manager---Bancassurance---Advisory-Channels_WD86861"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "vp avp regional product manager funds consumer banking group": {
           "ids": [
@@ -23037,6 +23052,18 @@
         "avp senior associate product manager consumer banking group": {
           "ids": [
             "workday-dbs-/job/Singapore---Central/AVP-Senior-Associate--Product-Manager--Consumer-Deposits---Consumer-Banking-Group_WD90129-1"
+          ],
+          "lastSeen": "2026-11-20"
+        },
+        "vp product owner cum business lead global financial markets operations group operations group coo": {
+          "ids": [
+            "workday-dbs-/job/Singapore---East/AVP-VP--Product-Owner-cum-Business-Lead--Global-Financial-Markets-Operations--Group-Operations--Group-COO_WD89337"
+          ],
+          "lastSeen": "2026-11-20"
+        },
+        "vp gi product manager bancassurance advisory channels consumer banking group": {
+          "ids": [
+            "workday-dbs-/job/Singapore---Central/GI-Product-Manager---Bancassurance---Advisory-Channels_WD86861"
           ],
           "lastSeen": "2026-11-20"
         }
@@ -23611,8 +23638,8 @@
           "eng": 5
         },
         "2026-11-20": {
-          "total": 37,
-          "eng": 5
+          "total": 35,
+          "eng": 3
         }
       },
       "pm": {
@@ -23755,7 +23782,7 @@
           "eng": 11
         },
         "2026-11-20": {
-          "total": 32,
+          "total": 33,
           "eng": 10
         }
       },
@@ -24056,7 +24083,7 @@
           "eng": 3
         },
         "2026-11-20": {
-          "total": 20,
+          "total": 19,
           "eng": 2
         }
       },
@@ -24333,8 +24360,8 @@
           "eng": 69
         },
         "2026-11-20": {
-          "total": 244,
-          "eng": 70
+          "total": 242,
+          "eng": 69
         }
       },
       "pm": {
@@ -24393,8 +24420,7 @@
           "ids": [
             "greenhouse-adyen-7941728"
           ],
-          "lastSeen": "2026-10-28",
-          "closedOn": "2026-10-28"
+          "lastSeen": "2026-11-20"
         },
         "senior product manager domestic card schemes": {
           "ids": [
@@ -24438,8 +24464,7 @@
           "ids": [
             "greenhouse-adyen-8179443"
           ],
-          "lastSeen": "2026-10-28",
-          "closedOn": "2026-10-28"
+          "lastSeen": "2026-11-20"
         },
         "vice president of product management in store experience": {
           "ids": [
@@ -24687,7 +24712,7 @@
         },
         "2026-11-20": {
           "total": 265,
-          "eng": 144
+          "eng": 143
         }
       },
       "pm": {
@@ -24816,7 +24841,7 @@
           "eng": 111
         },
         "2026-11-20": {
-          "total": 246,
+          "total": 245,
           "eng": 111
         }
       },
@@ -24876,7 +24901,8 @@
           "ids": [
             "greenhouse-gitlab-8612937002"
           ],
-          "lastSeen": "2026-11-20"
+          "lastSeen": "2026-11-20",
+          "closedOn": "2026-11-20"
         },
         "senior product manager secret detection and vulnerability research": {
           "ids": [
@@ -25465,7 +25491,7 @@
           "eng": 5
         },
         "2026-11-20": {
-          "total": 25,
+          "total": 24,
           "eng": 5
         }
       },
@@ -25848,7 +25874,7 @@
         },
         "2026-11-20": {
           "total": 100,
-          "eng": 31
+          "eng": 29
         }
       },
       "pm": {
@@ -25907,7 +25933,8 @@
         },
         "senior product manager payment integrations": {
           "ids": [
-            "smartrecruiters-wise-744000162475705"
+            "smartrecruiters-wise-744000162475705",
+            "smartrecruiters-wise-744000162710884"
           ],
           "lastSeen": "2026-11-20"
         },

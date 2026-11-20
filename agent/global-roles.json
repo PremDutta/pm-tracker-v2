@@ -1,6 +1,20 @@
 {
-  "scannedAt": "2026-11-20T10:16:54.706Z",
+  "scannedAt": "2026-11-20T15:18:36.828Z",
   "roles": [
+    {
+      "id": "greenhouse-adyen-7941728",
+      "title": "Senior Product Manager - Developer Experience",
+      "company": "Adyen",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7941728",
+      "source": "Greenhouse (Adyen)",
+      "level": "senior",
+      "regions": [
+        "netherlands",
+        "europe"
+      ],
+      "firstSeen": "2026-11-20"
+    },
     {
       "id": "greenhouse-adyen-8303418",
       "title": "Senior Product Manager, Capital",
@@ -11,6 +25,20 @@
       "level": "senior",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "greenhouse-adyen-8179443",
+      "title": "Senior Technical Product Manager - Internal Developer Platform",
+      "company": "Adyen",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8179443",
+      "source": "Greenhouse (Adyen)",
+      "level": "senior",
+      "regions": [
+        "netherlands",
+        "europe"
       ],
       "firstSeen": "2026-11-20"
     },
@@ -51,6 +79,19 @@
       "regions": [
         "nordics",
         "europe"
+      ],
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "smartrecruiters-wise-744000162710884",
+      "title": "Senior Product Manager – Payment integrations",
+      "company": "Wise",
+      "location": "London, , United Kingdom",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000162710884",
+      "source": "SmartRecruiters (Wise)",
+      "level": "senior",
+      "regions": [
+        "uk"
       ],
       "firstSeen": "2026-11-20"
     },
@@ -107,32 +148,6 @@
       "firstSeen": "2026-11-19"
     },
     {
-      "id": "smartrecruiters-ServiceNow-744000162494199",
-      "title": "Sr Staff Inbound Product Manager",
-      "company": "ServiceNow",
-      "location": "Zurich, , Switzerland",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162494199",
-      "source": "SmartRecruiters (ServiceNow)",
-      "level": "group",
-      "regions": [
-        "europe"
-      ],
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "smartrecruiters-ServiceNow-744000162408999",
-      "title": "Sr Staff Outbound Product Manager",
-      "company": "ServiceNow",
-      "location": "Denver, Colorado, United States",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162408999",
-      "source": "SmartRecruiters (ServiceNow)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-19"
-    },
-    {
       "id": "smartrecruiters-DeliveryHero-744000162445047",
       "title": "Business Product Manager MX",
       "company": "Talabat (Delivery Hero)",
@@ -166,19 +181,6 @@
       "url": "https://jobs.smartrecruiters.com/Wise/744000162558235",
       "source": "SmartRecruiters (Wise)",
       "level": "pm",
-      "regions": [
-        "uk"
-      ],
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "smartrecruiters-wise-744000162475705",
-      "title": "Senior Product Manager – Payment integrations",
-      "company": "Wise",
-      "location": "London, , United Kingdom",
-      "url": "https://jobs.smartrecruiters.com/Wise/744000162475705",
-      "source": "SmartRecruiters (Wise)",
-      "level": "senior",
       "regions": [
         "uk"
       ],
@@ -230,32 +232,6 @@
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/openai/2893060b-3795-4780-b538-48bb7d52254b",
       "source": "Ashby (OpenAI)",
-      "level": "pm",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-18"
-    },
-    {
-      "id": "smartrecruiters-ServiceNow-744000162408099",
-      "title": "Senior Staff Inbound Product Manager",
-      "company": "ServiceNow",
-      "location": "San Diego, California, United States",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162408099",
-      "source": "SmartRecruiters (ServiceNow)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-18"
-    },
-    {
-      "id": "smartrecruiters-ServiceNow-744000162403879",
-      "title": "SVP, Product Marketing",
-      "company": "ServiceNow",
-      "location": "San Francisco, CALIFORNIA, United States",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162403879",
-      "source": "SmartRecruiters (ServiceNow)",
       "level": "pm",
       "regions": [
         "us"
@@ -485,19 +461,6 @@
       "firstSeen": "2026-11-17"
     },
     {
-      "id": "lever-spotify-03437e2a-2d5e-4593-9e97-11271014932e",
-      "title": "Product Manager - Data Platform",
-      "company": "Spotify",
-      "location": "London",
-      "url": "https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e",
-      "source": "Lever (Spotify)",
-      "level": "pm",
-      "regions": [
-        "uk"
-      ],
-      "firstSeen": "2026-11-17"
-    },
-    {
       "id": "lever-spotify-e7b01c1e-4246-4f31-83ea-9219c8b22c83",
       "title": "Senior Product Manager - Audiobooks Format Foundations",
       "company": "Spotify",
@@ -529,19 +492,6 @@
       "company": "Spotify",
       "location": "London",
       "url": "https://jobs.lever.co/spotify/a57db22d-dc0d-4f36-9a2e-34acdf1ec046",
-      "source": "Lever (Spotify)",
-      "level": "senior",
-      "regions": [
-        "uk"
-      ],
-      "firstSeen": "2026-11-17"
-    },
-    {
-      "id": "lever-spotify-ee45924c-894c-4ea0-9c93-c5221894063f",
-      "title": "Senior Product Manager - User Platform",
-      "company": "Spotify",
-      "location": "London",
-      "url": "https://jobs.lever.co/spotify/ee45924c-894c-4ea0-9c93-c5221894063f",
       "source": "Lever (Spotify)",
       "level": "senior",
       "regions": [
@@ -1437,19 +1387,6 @@
       "firstSeen": "2026-10-26"
     },
     {
-      "id": "greenhouse-gitlab-8612937002",
-      "title": "Staff Product Manager,  RevOps & Finance Systems",
-      "company": "GitLab",
-      "location": "Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8612937002",
-      "source": "Greenhouse (GitLab)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26"
-    },
-    {
       "id": "greenhouse-gitlab-8909618002",
       "title": "Staff Product Manager, Agentic Planning",
       "company": "GitLab",
@@ -2170,11 +2107,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200462002",
+      "id": "greenhouse-databricks-8200284002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2183,11 +2120,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200284002",
+      "id": "greenhouse-databricks-8200462002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2209,11 +2146,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7863522002",
+      "id": "greenhouse-databricks-7863365002",
       "title": "Sr. Product Manager, Data Governance",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2222,11 +2159,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7863365002",
+      "id": "greenhouse-databricks-7863522002",
       "title": "Sr. Product Manager, Data Governance",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2261,11 +2198,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7680573002",
+      "id": "greenhouse-databricks-8235785002",
       "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2274,11 +2211,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8235785002",
+      "id": "greenhouse-databricks-7680573002",
       "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2313,11 +2250,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8876675002",
+      "id": "greenhouse-databricks-8811265002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2326,11 +2263,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8811265002",
+      "id": "greenhouse-databricks-8876675002",
       "title": "Sr. Product Manager, Lakebase/Lakehouse",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2459,11 +2396,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "workday-dbs-/job/Singapore---East/AVP-VP--Product-Owner-cum-Business-Lead--Global-Financial-Markets-Operations--Group-Operations--Group-COO_WD89337",
-      "title": "AVP/VP, Product Owner cum Business Lead, Global Financial Markets Operations, Group Operations, Group COO",
+      "id": "workday-dbs-/job/Singapore---Central/VP---AVP--Regional-Product-Manager---Funds--Consumer-Banking-Group_WD86061",
+      "title": "VP / AVP, Regional Product Manager - Funds, Consumer Banking Group",
       "company": "DBS Bank",
-      "location": "Singapore - East",
-      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---East/AVP-VP--Product-Owner-cum-Business-Lead--Global-Financial-Markets-Operations--Group-Operations--Group-COO_WD89337",
+      "location": "Singapore - Central",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/VP---AVP--Regional-Product-Manager---Funds--Consumer-Banking-Group_WD86061",
       "source": "Workday (DBS Bank)",
       "level": "leadership",
       "regions": [
@@ -2473,23 +2410,23 @@
     },
     {
       "id": "workday-dbs-/job/Singapore---Central/GI-Product-Manager---Bancassurance---Advisory-Channels_WD86861",
-      "title": "GI Product Manager - Bancassurance - Advisory Channels",
+      "title": "VP, GI Product Manager - Bancassurance - Advisory Channels, Consumer Banking Group",
       "company": "DBS Bank",
       "location": "Singapore - Central",
       "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/GI-Product-Manager---Bancassurance---Advisory-Channels_WD86861",
       "source": "Workday (DBS Bank)",
-      "level": "pm",
+      "level": "leadership",
       "regions": [
         "singapore"
       ],
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "workday-dbs-/job/Singapore---Central/VP---AVP--Regional-Product-Manager---Funds--Consumer-Banking-Group_WD86061",
-      "title": "VP / AVP, Regional Product Manager - Funds, Consumer Banking Group",
+      "id": "workday-dbs-/job/Singapore---East/AVP-VP--Product-Owner-cum-Business-Lead--Global-Financial-Markets-Operations--Group-Operations--Group-COO_WD89337",
+      "title": "VP, Product Owner cum Business Lead, Global Financial Markets Operations, Group Operations, Group COO",
       "company": "DBS Bank",
-      "location": "Singapore - Central",
-      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/VP---AVP--Regional-Product-Manager---Funds--Consumer-Banking-Group_WD86061",
+      "location": "Singapore - East",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---East/AVP-VP--Product-Owner-cum-Business-Lead--Global-Financial-Markets-Operations--Group-Operations--Group-COO_WD89337",
       "source": "Workday (DBS Bank)",
       "level": "leadership",
       "regions": [
@@ -2826,19 +2763,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-mongodb-8129887",
-      "title": "Staff Product Manager, AI Builder Experience",
-      "company": "MongoDB",
-      "location": "Toronto",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129887",
-      "source": "Greenhouse (MongoDB)",
-      "level": "group",
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-mongodb-8129885",
       "title": "Staff Product Manager, AI Builder Experience",
       "company": "MongoDB",
@@ -2848,6 +2772,19 @@
       "level": "group",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-mongodb-8129887",
+      "title": "Staff Product Manager, AI Builder Experience",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129887",
+      "source": "Greenhouse (MongoDB)",
+      "level": "group",
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3155,7 +3092,7 @@
       "id": "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "title": "Director, Product Marketing (Hybrid in NYC, SF, or Seattle)",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -3168,7 +3105,7 @@
       "id": "rippling-rippling-1311a98d-008f-4517-9f9f-73ee4c9cf1cf",
       "title": "Product Lead - AI Semantics & Governance",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/1311a98d-008f-4517-9f9f-73ee4c9cf1cf",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3233,7 +3170,7 @@
       "id": "rippling-rippling-ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "title": "Senior Director of Product, App Platform",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "source": "Rippling (Rippling)",
       "level": "leadership",

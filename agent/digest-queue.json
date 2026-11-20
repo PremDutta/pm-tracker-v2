@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "id": "oracle-jpmc.fa.oraclecloud.com-210797402",
-      "title": "AI & DATA Solutions - Product Owner - Vice President",
-      "company": "JPMorgan Chase",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797402",
-      "source": "JPMorgan Chase careers",
-      "queuedOn": "2026-10-12"
-    },
-    {
-      "id": "amazon-10569078",
-      "title": "Senior Product Manager - Tech, Amazon Finance Technology",
-      "company": "Amazon",
-      "location": "Gurugram, Haryana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10569078/senior-product-manager-tech-amazon-finance-technology",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-12"
-    },
-    {
       "id": "oracle-jpmc.fa.oraclecloud.com-210796769",
       "title": "Product Owner/Product Delivery – Senior Associate",
       "company": "JPMorgan Chase",
@@ -3628,6 +3610,24 @@
       "company": "Swiftkey",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557075027",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "lever-paytm-d08cc291-90b4-47bb-8300-59cc2011b662",
+      "title": "Product Management - Senior Product Manager / PM-2 – Risk Product",
+      "company": "Paytm",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/paytm/d08cc291-90b4-47bb-8300-59cc2011b662",
+      "source": "Lever (Paytm)",
+      "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "vc-accel-100355655",
+      "title": "Product Manager, Ads Customer Lifecycle",
+      "company": "Google",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/128741187606454982-product-manager-ads-customer-lifecycle?page=40",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-20"
     }

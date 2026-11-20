@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "vc-peakxv-59397",
+      "title": "Product Manager - AI and Agentic",
+      "company": "Brightmoney",
+      "location": "Bangalore Division, Karnataka, India",
+      "url": "https://careers.kula.ai/brightmoney/59397",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-20"
+    },
+    {
       "id": "vc-lightspeed-4726336005",
       "title": "Product Manager, Agents",
       "company": "Glean",
@@ -42,6 +53,17 @@
       "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+      "title": "Lead Business Execution Consultant Product Owner AI Agentic",
+      "company": "Wells Fargo",
+      "location": "Hyderabad, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
+      "source": "Workday (Wells Fargo)",
+      "level": "group",
+      "aiMatch": "title",
       "firstSeen": "2026-11-20"
     },
     {
@@ -241,17 +263,6 @@
       "level": "group",
       "aiMatch": "title",
       "firstSeen": "2026-11-16"
-    },
-    {
-      "id": "workday-target-/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
-      "title": "Director Product Management - Customer Data Platform",
-      "company": "Target India",
-      "location": "Bangalore,India",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management---Customer-Data-Platform_R0000479549",
-      "source": "Workday (Target India)",
-      "level": "leadership",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-15"
     },
     {
       "id": "vc-accel-82636843",
