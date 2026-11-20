@@ -1,6 +1,26 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-20",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Talabat (Delivery Hero)",
+      "date": "2026-11-20",
+      "detail": "11 engineering openings vs a usual 6"
+    },
+    {
+      "type": "funding",
+      "company": "Urban Company",
+      "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
+      "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
+      "date": "2026-11-20",
+      "detail": "via Inc42"
+    },
+    {
       "type": "funding",
       "company": "August AI",
       "title": "August AI Raises $12 Mn To Expand AI Healthcare Assistant In The US",
@@ -1646,22 +1666,6 @@
       "title": "Vectorial raises $3 Mn led by SenseAI Ventures",
       "url": "https://entrackr.com/snippets/vectorial-raises-3-mn-led-by-senseai-ventures-12695828",
       "date": "2026-10-21",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Hunar.AI",
-      "title": "Hunar.AI raises Rs 40 Cr in Series A funding round led by Blume Ventures",
-      "url": "https://yourstory.com/2026/10/hunarai-raises-rs-40-crore-in-series-a-led-by-blume-ventures",
-      "date": "2026-10-20",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Kissht",
-      "title": "Kissht gets BSE, NSE nod for Rs 832 Cr fundraise",
-      "url": "https://entrackr.com/news/kissht-gets-bse-nse-nod-for-rs-832-cr-fundraise-12691676",
-      "date": "2026-10-20",
       "detail": "via Entrackr"
     }
   ]

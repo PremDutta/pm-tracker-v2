@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-96623898",
-      "title": "Senior Product Manager",
-      "company": "Swiftkey",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-11"
-    },
-    {
-      "id": "vc-accel-96623829",
-      "title": "Senior Product Manager",
-      "company": "Swiftkey",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-11"
-    },
-    {
-      "id": "vc-accel-96602520",
-      "title": "Lead Product Manager(SaaS + AI)",
-      "company": "Zenoti",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://boards.greenhouse.io/zenoti/jobs/7806709003",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-11"
-    },
-    {
       "id": "vc-accel-96585676",
       "title": "Product Manager, Geo, Google Maps, UGC Contributor Success",
       "company": "Google",
@@ -3630,27 +3603,36 @@
       "url": "https://jobs.lever.co/meesho/ee1aa9f3-e5a1-4488-93fb-963127eebe0c",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "ashby-openai-43d75302-2eef-46b6-b991-611e705f9fb1",
+      "title": "Product Manager, Native Learning and Credentials",
+      "company": "OpenAI",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/43d75302-2eef-46b6-b991-611e705f9fb1",
+      "source": "Ashby (OpenAI)",
+      "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557073389",
+      "title": "Principal Product Manager",
+      "company": "Microsoft",
+      "location": "India, Karnataka, Bangalore",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073389",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-11-20"
+    },
+    {
+      "id": "vc-peakxv-a6ab3c9a72ea06",
+      "title": "Senior Product Manager | Payment Gateway | Gurugram",
+      "company": "MobiKwik",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://mobikwik.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ab3c9a72ea06",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-20"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "Meesho",
-      "date": "2026-10-22",
-      "title": "Product Manager II",
-      "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
-      "id": "lever-meesho-5dca8c71-9993-438f-ad51-da3c7f4be692",
-      "detail": "closed 2026-10-14, reposted today"
-    },
-    {
-      "type": "funding",
-      "company": "TravClan",
-      "title": "TravClan raises $5M from Flipkart, others",
-      "url": "https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others",
-      "date": "2026-10-22",
-      "detail": "via YourStory",
-      "watched": true
-    },
     {
       "type": "eng_spike",
       "company": "Oracle",
@@ -4366,6 +4348,18 @@
       "type": "eng_spike",
       "company": "Talabat (Delivery Hero)",
       "date": "2026-11-19",
+      "detail": "11 engineering openings vs a usual 6"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-20",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Talabat (Delivery Hero)",
+      "date": "2026-11-20",
       "detail": "11 engineering openings vs a usual 6"
     }
   ],

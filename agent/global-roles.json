@@ -1,6 +1,32 @@
 {
-  "scannedAt": "2026-11-19T20:03:01.012Z",
+  "scannedAt": "2026-11-20T05:59:12.357Z",
   "roles": [
+    {
+      "id": "ashby-airwallex-616eda6b-59cc-46e1-a210-2b042644b374",
+      "title": "Staff Product Manager, Growth",
+      "company": "Airwallex",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/616eda6b-59cc-46e1-a210-2b042644b374",
+      "source": "Ashby (Airwallex)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "ashby-openai-43d75302-2eef-46b6-b991-611e705f9fb1",
+      "title": "Product Manager, Native Learning and Credentials",
+      "company": "OpenAI",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/43d75302-2eef-46b6-b991-611e705f9fb1",
+      "source": "Ashby (OpenAI)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20"
+    },
     {
       "id": "greenhouse-adyen-8359357",
       "title": "Principal Product Manager, Internal AI Products",
@@ -178,19 +204,6 @@
       "url": "https://jobs.ashbyhq.com/openai/2893060b-3795-4780-b538-48bb7d52254b",
       "source": "Ashby (OpenAI)",
       "level": "pm",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-18"
-    },
-    {
-      "id": "smartrecruiters-ServiceNow-744000162184569",
-      "title": "Principal Outbound Product Manager",
-      "company": "ServiceNow",
-      "location": "Santa Clara, CALIFORNIA, United States",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162184569",
-      "source": "SmartRecruiters (ServiceNow)",
-      "level": "group",
       "regions": [
         "us"
       ],
@@ -1371,20 +1384,6 @@
       "firstSeen": "2026-10-26"
     },
     {
-      "id": "greenhouse-gitlab-8845483002",
-      "title": "Senior Product Manager, Billing Engine & Platforms Monetization",
-      "company": "GitLab",
-      "location": "Remote, United Kingdom; Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8845483002",
-      "source": "Greenhouse (GitLab)",
-      "level": "senior",
-      "regions": [
-        "uk",
-        "us"
-      ],
-      "firstSeen": "2026-10-26"
-    },
-    {
       "id": "greenhouse-gitlab-8855883002",
       "title": "Senior Product Manager, CRM & GTM Systems",
       "company": "GitLab",
@@ -2235,19 +2234,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7680573002",
-      "title": "Sr. Product Manager, Databricks Free Edition",
-      "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
-      "source": "Greenhouse (Databricks)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-8235785002",
       "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
@@ -2261,11 +2247,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8326513002",
-      "title": "Sr. Product Manager, Databricks Repos",
+      "id": "greenhouse-databricks-7680573002",
+      "title": "Sr. Product Manager, Databricks Free Edition",
       "company": "Databricks",
       "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2279,6 +2265,19 @@
       "company": "Databricks",
       "location": "Seattle, Washington",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002",
+      "source": "Greenhouse (Databricks)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-8326513002",
+      "title": "Sr. Product Manager, Databricks Repos",
+      "company": "Databricks",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2327,20 +2326,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7649411002",
-      "title": "Staff Product Manager",
-      "company": "Databricks",
-      "location": "Berlin, Germany",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
-      "source": "Greenhouse (Databricks)",
-      "level": "group",
-      "regions": [
-        "germany",
-        "europe"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-7649409002",
       "title": "Staff Product Manager",
       "company": "Databricks",
@@ -2350,6 +2335,20 @@
       "level": "group",
       "regions": [
         "netherlands",
+        "europe"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-7649411002",
+      "title": "Staff Product Manager",
+      "company": "Databricks",
+      "location": "Berlin, Germany",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002",
+      "source": "Greenhouse (Databricks)",
+      "level": "group",
+      "regions": [
+        "germany",
         "europe"
       ],
       "firstSeen": "2026-10-21"
@@ -2407,19 +2406,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8427954002",
-      "title": "Staff Product Manager, Serverless Workspaces",
-      "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
-      "source": "Greenhouse (Databricks)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-8420607002",
       "title": "Staff Product Manager, Serverless Workspaces",
       "company": "Databricks",
@@ -2433,24 +2419,24 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "greenhouse-databricks-8427954002",
+      "title": "Staff Product Manager, Serverless Workspaces",
+      "company": "Databricks",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
+      "source": "Greenhouse (Databricks)",
+      "level": "group",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "workday-dbs-/job/Singapore---East/AVP--Digital-Product-Owner--Consumer-Banking-Group_WD87838-1",
       "title": "AVP, Digital Product Owner, Consumer Banking Group",
       "company": "DBS Bank",
       "location": "Singapore - East",
       "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---East/AVP--Digital-Product-Owner--Consumer-Banking-Group_WD87838-1",
-      "source": "Workday (DBS Bank)",
-      "level": "group",
-      "regions": [
-        "singapore"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "workday-dbs-/job/Singapore---Central/AVP--Product-Manager--Consumer-Deposits---Consumer-Banking-Group_WD87526-1",
-      "title": "AVP, Product Manager (Consumer Deposits), Consumer Banking Group",
-      "company": "DBS Bank",
-      "location": "Singapore - Central",
-      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/AVP--Product-Manager--Consumer-Deposits---Consumer-Banking-Group_WD87526-1",
       "source": "Workday (DBS Bank)",
       "level": "group",
       "regions": [
@@ -2826,19 +2812,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-mongodb-8129887",
-      "title": "Staff Product Manager, AI Builder Experience",
-      "company": "MongoDB",
-      "location": "Toronto",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129887",
-      "source": "Greenhouse (MongoDB)",
-      "level": "group",
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-mongodb-8129885",
       "title": "Staff Product Manager, AI Builder Experience",
       "company": "MongoDB",
@@ -2848,6 +2821,19 @@
       "level": "group",
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-mongodb-8129887",
+      "title": "Staff Product Manager, AI Builder Experience",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129887",
+      "source": "Greenhouse (MongoDB)",
+      "level": "group",
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -3155,7 +3141,7 @@
       "id": "rippling-rippling-74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "title": "Director, Product Marketing (Hybrid in NYC, SF, or Seattle)",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/74d11f76-3bdc-4ce3-809c-75f95eff3225",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -3194,7 +3180,7 @@
       "id": "rippling-rippling-a5b9d8bf-f3e4-4f6d-812f-0b85af42e5b0",
       "title": "Product Lead, Payments",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/rippling/jobs/a5b9d8bf-f3e4-4f6d-812f-0b85af42e5b0",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3220,7 +3206,7 @@
       "id": "rippling-rippling-0889e2ac-a30c-43b7-8c8c-5312264416db",
       "title": "Product Lead, Talent Products",
       "company": "Rippling",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/0889e2ac-a30c-43b7-8c8c-5312264416db",
       "source": "Rippling (Rippling)",
       "level": "group",
@@ -3233,7 +3219,7 @@
       "id": "rippling-rippling-ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "title": "Senior Director of Product, App Platform",
       "company": "Rippling",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/ea9eda50-a3a8-40e9-b6d3-a525f420eece",
       "source": "Rippling (Rippling)",
       "level": "leadership",
@@ -3469,19 +3455,6 @@
       "company": "Snowflake",
       "location": "US-CA-Menlo Park",
       "url": "https://jobs.ashbyhq.com/snowflake/2c1ede0e-02c9-4f74-b084-fc1f5ccd83e2",
-      "source": "Ashby (Snowflake)",
-      "level": "leadership",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "ashby-snowflake-9a88d51a-09ef-4960-9c4d-be211affcc1b",
-      "title": "Director, Product Marketing — Platform",
-      "company": "Snowflake",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/9a88d51a-09ef-4960-9c4d-be211affcc1b",
       "source": "Ashby (Snowflake)",
       "level": "leadership",
       "regions": [
