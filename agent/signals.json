@@ -1,6 +1,12 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-21",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
       "type": "reopened",
       "company": "Adyen",
       "date": "2026-11-20",
@@ -1642,57 +1648,6 @@
       "date": "2026-10-22",
       "detail": "via YourStory",
       "watched": true
-    },
-    {
-      "type": "funding",
-      "company": "AuxoAI",
-      "title": "Forward deployed AI startup AuxoAI raises $20.7 Mn in Series A round led by NTTVC",
-      "url": "https://entrackr.com/news/forward-deployed-ai-startup-auxoai-raises-207-mn-in-series-a-round-led-by-nttvc-12695466",
-      "date": "2026-10-21",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Blacksmith",
-      "title": "Blacksmith raises $66 Mn at $1 Bn valuation led by Sequoia",
-      "url": "https://entrackr.com/news/blacksmith-raises-66-mn-at-1-bn-valuation-led-by-sequoia-12696481",
-      "date": "2026-10-21",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-21",
-      "title": "Sr Staff Outbound Product Manager - AI Assistant ",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156455559",
-      "id": "smartrecruiters-ServiceNow-744000156455559",
-      "detail": "closed 2026-10-18, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-21",
-      "title": "Staff Inbound Product Manager",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156718589",
-      "id": "smartrecruiters-ServiceNow-744000156718589",
-      "detail": "closed 2026-10-08, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-21",
-      "title": "Senior Staff Outbound Product Manager - Data & Analytics",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156836234",
-      "id": "smartrecruiters-ServiceNow-744000156836234",
-      "detail": "closed 2026-10-15, reposted today"
-    },
-    {
-      "type": "funding",
-      "company": "Vectorial",
-      "title": "Vectorial raises $3 Mn led by SenseAI Ventures",
-      "url": "https://entrackr.com/snippets/vectorial-raises-3-mn-led-by-senseai-ventures-12695828",
-      "date": "2026-10-21",
-      "detail": "via Entrackr"
     }
   ]
 }

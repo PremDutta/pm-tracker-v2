@@ -1,20 +1,6 @@
 {
   "jobs": [
     {
-      "id": "govt-dic-ora-1477",
-      "title": "Product Manager (AI)",
-      "company": "National E-Governance Division(NeGD)",
-      "location": "New Delhi",
-      "url": "https://ora.digitalindiacorporation.in/?job=1477",
-      "source": "🏛️ Govt (DIC ORA)",
-      "deadline": "2026-10-26",
-      "flags": [
-        "mba_mentioned",
-        "contract"
-      ],
-      "queuedOn": "2026-10-12"
-    },
-    {
       "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager-Tech_R-288293",
       "title": "Lead Product Manager Tech",
       "company": "Mastercard",
@@ -3630,15 +3616,18 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350882",
       "source": "Oracle careers",
       "queuedOn": "2026-11-21"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557075027",
+      "title": "Senior Product Manager",
+      "company": "Microsoft",
+      "location": "India, Karnataka, Bangalore",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075027",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-11-21"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-24",
-      "detail": "62 engineering openings vs a usual 3"
-    },
     {
       "type": "eng_spike",
       "company": "Accenture",
@@ -4364,6 +4353,12 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162818530",
       "id": "smartrecruiters-ServiceNow-744000162818530",
       "detail": "closed 2026-11-18, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-21",
+      "detail": "17 engineering openings vs a usual 5"
     }
   ],
   "reminders": {}
