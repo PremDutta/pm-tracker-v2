@@ -1,15 +1,7 @@
 {
-  "scannedAt": "2026-11-21T10:01:46.914Z",
+  "scannedAt": "2026-11-21T14:20:06.250Z",
   "roles": {
     "Amazon": [
-      {
-        "id": "amazon-10578219",
-        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
-        "location": "Gurugram, Haryana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
-        "level": "group",
-        "firstSeen": "2026-11-03"
-      },
       {
         "id": "amazon-10555430",
         "title": "Principal Product Manager- Technical, Amazon Finance Technology",
@@ -17,6 +9,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
         "level": "group",
         "firstSeen": "2026-10-23"
+      },
+      {
+        "id": "amazon-10578219",
+        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
+        "location": "Gurugram, Haryana, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
+        "level": "group",
+        "firstSeen": "2026-11-03"
       },
       {
         "id": "amazon-10563526",
@@ -585,10 +585,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-159765",
+        "id": "sf-careers.hcltech.com-158041",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -601,10 +601,10 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
+        "id": "sf-careers.hcltech.com-159765",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -1405,14 +1405,6 @@
         "firstSeen": "2026-10-29"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
-        "level": "senior",
-        "firstSeen": "2026-11-10"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
@@ -1427,6 +1419,14 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
         "level": "senior",
         "firstSeen": "2026-10-15"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
+        "level": "senior",
+        "firstSeen": "2026-11-10"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
@@ -1513,14 +1513,6 @@
         "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
         "level": "pm",
         "firstSeen": "2026-11-19"
-      },
-      {
-        "id": "ashby-sarvam-adbc090f-3aad-4b12-af36-a2f4b55c017e",
-        "title": "Product Manager – Media & Entertainment, Sarvam Studio",
-        "location": "Bengaluru",
-        "url": "https://jobs.ashbyhq.com/sarvam/adbc090f-3aad-4b12-af36-a2f4b55c017e",
-        "level": "pm",
-        "firstSeen": "2026-09-30"
       }
     ],
     "Simpplr": [

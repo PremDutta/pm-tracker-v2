@@ -1,6 +1,110 @@
 {
-  "scannedAt": "2026-11-21T10:01:46.958Z",
+  "scannedAt": "2026-11-21T14:20:06.296Z",
   "roles": [
+    {
+      "id": "workday-mastercard-/job/Vancouver-Canada/Principal-Product-Manager--Technical_R-278438",
+      "title": "Principal Product Manager -Technical",
+      "company": "Mastercard",
+      "location": "Vancouver, Canada",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Principal-Product-Manager--Technical_R-278438",
+      "source": "Workday (Mastercard)",
+      "level": "group",
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Irvine-CA/Director-of-Product-Management---Electronic-Warfare--EW-_R70522",
+      "title": "Director of Product Management - Electronic Warfare (EW)",
+      "company": "Motorola Solutions",
+      "location": "Irvine, CA, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Director-of-Product-Management---Electronic-Warfare--EW-_R70522",
+      "source": "Workday (Motorola Solutions)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Irvine-CA/Director-of-Product-Management---Software---Spectrum-Dominance_R70527",
+      "title": "Director of Product Management - Software & Spectrum Dominance",
+      "company": "Motorola Solutions",
+      "location": "Irvine, CA, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Director-of-Product-Management---Software---Spectrum-Dominance_R70527",
+      "source": "Workday (Motorola Solutions)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Irvine-CA/Director-of-Product-Management---Tactical-Communications---Integrated-Solutions_R70525",
+      "title": "Director of Product Management - Tactical Communications & Integrated Solutions",
+      "company": "Motorola Solutions",
+      "location": "Irvine, CA, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Director-of-Product-Management---Tactical-Communications---Integrated-Solutions_R70525",
+      "source": "Workday (Motorola Solutions)",
+      "level": "leadership",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Irvine-CA/Technical-Product-Manager---Electronic-Warfare--EW----Sensing-Solutions_R70946",
+      "title": "Technical Product Manager - Electronic Warfare (EW) & Sensing Solutions",
+      "company": "Motorola Solutions",
+      "location": "Irvine, CA, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Technical-Product-Manager---Electronic-Warfare--EW----Sensing-Solutions_R70946",
+      "source": "Workday (Motorola Solutions)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Irvine-CA/Technical-Product-Manager---Sensing-Integrated-Solutions_R70947",
+      "title": "Technical Product Manager - Sensing Integrated Solutions",
+      "company": "Motorola Solutions",
+      "location": "Irvine, CA, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Technical-Product-Manager---Sensing-Integrated-Solutions_R70947",
+      "source": "Workday (Motorola Solutions)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Irvine-CA/Technical-Product-Manager--Integrated-Solutions-_R69759",
+      "title": "Technical Product Manager (Integrated Solutions)",
+      "company": "Motorola Solutions",
+      "location": "Irvine, CA, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Technical-Product-Manager--Integrated-Solutions-_R69759",
+      "source": "Workday (Motorola Solutions)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "id": "workday-motorolasolutions-/job/Irvine-CA/Technical-Product-Manager--Spectrum-Dominance-_R69758-1",
+      "title": "Technical Product Manager (Spectrum Dominance)",
+      "company": "Motorola Solutions",
+      "location": "Irvine, CA, More...",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Technical-Product-Manager--Spectrum-Dominance-_R69758-1",
+      "source": "Workday (Motorola Solutions)",
+      "level": "pm",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21"
+    },
     {
       "id": "greenhouse-adyen-7941728",
       "title": "Senior Product Manager - Developer Experience",
@@ -1480,11 +1584,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4579657005",
+      "id": "greenhouse-gleanwork-4694761005",
       "title": "Product Manager, Agent Security & Governance",
       "company": "Glean",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4579657005",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694761005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -1493,11 +1597,11 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "greenhouse-gleanwork-4694761005",
+      "id": "greenhouse-gleanwork-4579657005",
       "title": "Product Manager, Agent Security & Governance",
       "company": "Glean",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694761005",
+      "location": "Mountain View, CA",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4579657005",
       "source": "Greenhouse (Glean)",
       "level": "pm",
       "regions": [
@@ -2015,11 +2119,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200462002",
+      "id": "greenhouse-databricks-8200284002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2028,11 +2132,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8200284002",
+      "id": "greenhouse-databricks-8200462002",
       "title": "Sr. Product Manager, Compute Platform",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2054,19 +2158,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-7863365002",
-      "title": "Sr. Product Manager, Data Governance",
-      "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002",
-      "source": "Greenhouse (Databricks)",
-      "level": "senior",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-databricks-7863522002",
       "title": "Sr. Product Manager, Data Governance",
       "company": "Databricks",
@@ -2080,11 +2171,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8136204002",
-      "title": "Sr. Product Manager, Databricks AI",
+      "id": "greenhouse-databricks-7863365002",
+      "title": "Sr. Product Manager, Data Governance",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2098,6 +2189,19 @@
       "company": "Databricks",
       "location": "San Francisco, California",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
+      "source": "Greenhouse (Databricks)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-databricks-8136204002",
+      "title": "Sr. Product Manager, Databricks AI",
+      "company": "Databricks",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
       "source": "Greenhouse (Databricks)",
       "level": "senior",
       "regions": [
@@ -2278,11 +2382,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8427954002",
+      "id": "greenhouse-databricks-8420607002",
       "title": "Staff Product Manager, Serverless Workspaces",
       "company": "Databricks",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2291,11 +2395,11 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-databricks-8420607002",
+      "id": "greenhouse-databricks-8427954002",
       "title": "Staff Product Manager, Serverless Workspaces",
       "company": "Databricks",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002",
       "source": "Greenhouse (Databricks)",
       "level": "group",
       "regions": [
@@ -2577,6 +2681,19 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "greenhouse-mongodb-8128356",
+      "title": "Senior Product Manager",
+      "company": "MongoDB",
+      "location": "San Francisco",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8128356",
+      "source": "Greenhouse (MongoDB)",
+      "level": "senior",
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "greenhouse-mongodb-7113803",
       "title": "Senior Product Manager",
       "company": "MongoDB",
@@ -2587,19 +2704,6 @@
       "regions": [
         "ireland",
         "europe"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "greenhouse-mongodb-8128356",
-      "title": "Senior Product Manager",
-      "company": "MongoDB",
-      "location": "San Francisco",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8128356",
-      "source": "Greenhouse (MongoDB)",
-      "level": "senior",
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-21"
     },
@@ -2671,19 +2775,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "greenhouse-mongodb-8129885",
-      "title": "Staff Product Manager, AI Builder Experience",
-      "company": "MongoDB",
-      "location": "United States",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129885",
-      "source": "Greenhouse (MongoDB)",
-      "level": "group",
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-mongodb-8129887",
       "title": "Staff Product Manager, AI Builder Experience",
       "company": "MongoDB",
@@ -2693,6 +2784,19 @@
       "level": "group",
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-mongodb-8129885",
+      "title": "Staff Product Manager, AI Builder Experience",
+      "company": "MongoDB",
+      "location": "United States",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8129885",
+      "source": "Greenhouse (MongoDB)",
+      "level": "group",
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-10-21"
     },

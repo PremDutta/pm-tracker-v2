@@ -1,44 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-mastercard-/job/Pune-India/Lead-Product-Manager-Tech_R-288293",
-      "title": "Lead Product Manager Tech",
-      "company": "Mastercard",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager-Tech_R-288293",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-12"
-    },
-    {
-      "id": "workday-wf-/job/Bengaluru-India/Product-Manager_R-575502-1",
-      "title": "Product Manager",
-      "company": "Wells Fargo",
-      "location": "Bengaluru, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-575502-1",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-10-12"
-    },
-    {
-      "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-575608",
-      "title": "Lead Product Manager",
-      "company": "Wells Fargo",
-      "location": "Hyderabad, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-575608",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-10-12"
-    },
-    {
-      "id": "govt-npci-190737000006359210",
-      "title": "Lead Product Management Acceptance",
-      "company": "National Payments Corporation of India",
-      "location": "Mumbai",
-      "url": "https://careers.npci.org.in/jobs/Careers/190737000006359210/Lead-Product-Management-Acceptance?source=CareerSite",
-      "source": "🏛️ Govt (NPCI)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-10-12"
-    },
-    {
       "id": "govt-npci-190737000005599089",
       "title": "Senior Lead Product Development",
       "company": "NPCI Bharat BillPay Ltd",
@@ -3624,6 +3586,42 @@
       "location": "India, Karnataka, Bangalore",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557075027",
       "source": "Microsoft careers",
+      "queuedOn": "2026-11-21"
+    },
+    {
+      "id": "vc-accel-100495924",
+      "title": "Product Manager",
+      "company": "Dezerv",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/product-manager-at-dezerv-4491120900",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-21"
+    },
+    {
+      "id": "vc-accel-100471953",
+      "title": "Product Manager 2",
+      "company": "OPOWER",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/jobs/350882",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-21"
+    },
+    {
+      "id": "vc-accel-100467337",
+      "title": "New Product manager",
+      "company": "Instana",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=143174",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-21"
+    },
+    {
+      "id": "vc-accel-100467332",
+      "title": "New Product manager",
+      "company": "Instana",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=143177",
+      "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-21"
     }
   ],
