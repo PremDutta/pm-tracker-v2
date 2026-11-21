@@ -1,15 +1,7 @@
 {
-  "scannedAt": "2026-11-21T14:20:06.250Z",
+  "scannedAt": "2026-11-21T22:50:53.442Z",
   "roles": {
     "Amazon": [
-      {
-        "id": "amazon-10555430",
-        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
-        "level": "group",
-        "firstSeen": "2026-10-23"
-      },
       {
         "id": "amazon-10578219",
         "title": "Principal Product Manager- Technical, Amazon Finance Technology",
@@ -17,6 +9,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
         "level": "group",
         "firstSeen": "2026-11-03"
+      },
+      {
+        "id": "amazon-10555430",
+        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
+        "level": "group",
+        "firstSeen": "2026-10-23"
       },
       {
         "id": "amazon-10563526",
@@ -203,20 +203,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10576706",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-11-16"
-      },
-      {
         "id": "amazon-10499561",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10576706",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-11-16"
       },
       {
         "id": "amazon-10498328",
@@ -543,14 +543,6 @@
         "url": "https://careers.hcltech.com/job/Data-Product-Manager/168347-en_US/",
         "level": "pm",
         "firstSeen": "2026-11-10"
-      },
-      {
-        "id": "sf-careers.hcltech.com-169138",
-        "title": "Data Product Manager",
-        "location": "Chennai",
-        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-11-20"
       },
       {
         "id": "sf-careers.hcltech.com-178491",
@@ -919,20 +911,20 @@
         "firstSeen": "2026-10-29"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557040068",
-        "title": "Principal Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040068",
-        "level": "group",
-        "firstSeen": "2026-11-06"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557038797",
         "title": "Principal Product Manager",
         "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557038797",
         "level": "group",
         "firstSeen": "2026-11-18"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557040068",
+        "title": "Principal Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040068",
+        "level": "group",
+        "firstSeen": "2026-11-06"
       },
       {
         "id": "eightfold-microsoft.com-1970393557073389",
@@ -959,14 +951,6 @@
         "firstSeen": "2026-10-16"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557037770",
-        "title": "Senior Product Manager",
-        "location": "India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
-        "level": "senior",
-        "firstSeen": "2026-10-15"
-      },
-      {
         "id": "eightfold-microsoft.com-1970393557041943",
         "title": "Senior Product Manager",
         "location": "India, Uttar Pradesh, Noida",
@@ -981,6 +965,14 @@
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075027",
         "level": "senior",
         "firstSeen": "2026-11-21"
+      },
+      {
+        "id": "eightfold-microsoft.com-1970393557037770",
+        "title": "Senior Product Manager",
+        "location": "India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+        "level": "senior",
+        "firstSeen": "2026-10-15"
       }
     ],
     "Mihup": [
@@ -1405,6 +1397,14 @@
         "firstSeen": "2026-10-29"
       },
       {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
+        "level": "senior",
+        "firstSeen": "2026-11-10"
+      },
+      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
@@ -1419,14 +1419,6 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
         "level": "senior",
         "firstSeen": "2026-10-15"
-      },
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
-        "level": "senior",
-        "firstSeen": "2026-11-10"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
