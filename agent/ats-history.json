@@ -350,7 +350,7 @@
           "eng": 281
         },
         "2026-11-22": {
-          "total": 633,
+          "total": 636,
           "eng": 281
         }
       },
@@ -9549,7 +9549,7 @@
         },
         "2026-11-22": {
           "total": 100,
-          "eng": 9
+          "eng": 10
         }
       },
       "pm": {
@@ -11863,8 +11863,8 @@
           "eng": 51
         },
         "2026-11-22": {
-          "total": 85,
-          "eng": 51
+          "total": 84,
+          "eng": 50
         }
       },
       "pm": {
@@ -13115,8 +13115,8 @@
           "eng": 33
         },
         "2026-11-22": {
-          "total": 113,
-          "eng": 33
+          "total": 109,
+          "eng": 31
         }
       },
       "pm": {
@@ -14014,7 +14014,7 @@
           "eng": 42
         },
         "2026-11-22": {
-          "total": 82,
+          "total": 81,
           "eng": 42
         }
       },
@@ -14524,8 +14524,8 @@
           "eng": 15
         },
         "2026-11-22": {
-          "total": 49,
-          "eng": 15
+          "total": 44,
+          "eng": 13
         }
       },
       "pm": {
@@ -14544,7 +14544,8 @@
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1"
           ],
-          "lastSeen": "2026-11-22"
+          "lastSeen": "2026-11-22",
+          "closedOn": "2026-11-22"
         },
         "senior lead digital product manager access entitlements platform": {
           "ids": [
@@ -14626,7 +14627,8 @@
           "ids": [
             "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953"
           ],
-          "lastSeen": "2026-11-22"
+          "lastSeen": "2026-11-22",
+          "closedOn": "2026-11-22"
         },
         "senior digital product manager platform product management": {
           "ids": [
@@ -14782,8 +14784,8 @@
           "eng": 39
         },
         "2026-11-22": {
-          "total": 77,
-          "eng": 39
+          "total": 76,
+          "eng": 38
         }
       },
       "pm": {
@@ -14945,8 +14947,8 @@
           "eng": 44
         },
         "2026-11-22": {
-          "total": 192,
-          "eng": 45
+          "total": 199,
+          "eng": 50
         }
       },
       "pm": {
@@ -16087,7 +16089,7 @@
           "eng": 558
         },
         "2026-11-22": {
-          "total": 895,
+          "total": 893,
           "eng": 558
         }
       },
@@ -16925,8 +16927,8 @@
           "eng": 0
         },
         "2026-11-22": {
-          "total": 0,
-          "eng": 0
+          "total": 1,
+          "eng": 1
         }
       },
       "pm": {
@@ -19218,7 +19220,7 @@
         },
         "2026-11-22": {
           "total": 200,
-          "eng": 114
+          "eng": 115
         }
       },
       "pm": {
@@ -21827,7 +21829,7 @@
           "eng": 131
         },
         "2026-11-22": {
-          "total": 497,
+          "total": 496,
           "eng": 131
         }
       },
@@ -22728,7 +22730,7 @@
         },
         "2026-11-22": {
           "total": 100,
-          "eng": 33
+          "eng": 32
         }
       },
       "pm": {

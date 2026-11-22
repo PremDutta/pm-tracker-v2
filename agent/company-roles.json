@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-22T14:11:15.479Z",
+  "scannedAt": "2026-11-22T23:19:09.260Z",
   "roles": {
     "Amazon": [
       {
@@ -543,14 +543,6 @@
         "url": "https://careers.hcltech.com/job/Data-Product-Manager/168347-en_US/",
         "level": "pm",
         "firstSeen": "2026-11-10"
-      },
-      {
-        "id": "sf-careers.hcltech.com-169138",
-        "title": "Data Product Manager",
-        "location": "Chennai",
-        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-11-22"
       },
       {
         "id": "sf-careers.hcltech.com-178491",
@@ -1634,30 +1626,6 @@
       }
     ],
     "Wells Fargo": [
-      {
-        "id": "workday-wf-/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
-        "title": "Lead Business Execution Consultant Product Owner AI Agentic",
-        "location": "Hyderabad, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
-        "level": "group",
-        "firstSeen": "2026-11-20"
-      },
-      {
-        "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
-        "title": "Lead Digital Product Manager - CIAM",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577571-1",
-        "level": "group",
-        "firstSeen": "2026-11-20"
-      },
-      {
-        "id": "workday-wf-/job/Bengaluru-India/Lead-Product-Manager_R-571003",
-        "title": "Lead Product Manager",
-        "location": "Bengaluru, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-571003",
-        "level": "group",
-        "firstSeen": "2026-11-19"
-      },
       {
         "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-575608",
         "title": "Lead Product Manager",
