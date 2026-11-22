@@ -3628,12 +3628,6 @@
   "signals": [
     {
       "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-24",
-      "detail": "101 engineering openings vs a usual 38"
-    },
-    {
-      "type": "eng_spike",
       "company": "Oracle",
       "date": "2026-10-25",
       "detail": "65 engineering openings vs a usual 3"
@@ -4356,6 +4350,12 @@
       "type": "eng_spike",
       "company": "Skyroot Aerospace",
       "date": "2026-11-21",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-22",
       "detail": "17 engineering openings vs a usual 5"
     }
   ],

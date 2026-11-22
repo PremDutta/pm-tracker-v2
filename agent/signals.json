@@ -3,6 +3,12 @@
     {
       "type": "eng_spike",
       "company": "Skyroot Aerospace",
+      "date": "2026-11-22",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
       "date": "2026-11-21",
       "detail": "17 engineering openings vs a usual 5"
     },
@@ -1560,94 +1566,6 @@
       "url": "https://inc42.com/buzz/y-combinator-backed-firstwork-nets-15-mn-to-expand-footprint-across-us-and-europe/",
       "date": "2026-10-23",
       "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "[Update] TravClan",
-      "title": "[Update] TravClan Raises $5 Mn From Flipkart, August One",
-      "url": "https://inc42.com/buzz/flipkart-acquires-minority-stake-in-travel-tech-startup-travclan-to-scale-offerings/",
-      "date": "2026-10-22",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "Chapter Home",
-      "title": "Chapter Home raises Rs 63 Cr from Bessemer, Stride Ventures, others",
-      "url": "https://entrackr.com/news/chapter-home-raises-rs-63-cr-from-bessemer-stride-ventures-others-12716908",
-      "date": "2026-10-22",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Chapter Home",
-      "title": "Chapter Home raises Rs 63 Cr in a mix of equity and debt",
-      "url": "https://yourstory.com/2026/10/chapter-home-raises-rs-63-cr-in-a-mix-of-equity-and-debt",
-      "date": "2026-10-22",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Chapter Homes",
-      "title": "Chapter Homes Bags ₹63 Cr To Build Home & Kitchen Tech Brands",
-      "url": "https://inc42.com/buzz/chapter-homes-bags-%e2%82%b963-cr-to-build-home-kitchen-tech-brands/",
-      "date": "2026-10-22",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "CureBay",
-      "title": "Rural healthcare startup CureBay raises Rs 100 Cr in Pre-Series C led by IvyCap",
-      "url": "https://entrackr.com/news/rural-healthcare-startup-curebay-raises-rs-100-cr-in-pre-series-c-led-by-ivycap-12705651",
-      "date": "2026-10-22",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "CureBay",
-      "title": "CureBay raises Rs 100 Cr in Pre-Series C round led by IvyCap Ventures",
-      "url": "https://yourstory.com/2026/10/curebay-raises-rs-100-cr-in-pre-series-c-round-led-by-ivycap-ventures",
-      "date": "2026-10-22",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Harajuku Tokyo Café",
-      "title": "Japanese-Themed Dining Chain Harajuku Tokyo Café Raises $3 Mn",
-      "url": "https://inc42.com/buzz/japanese-themed-dining-chain-harajuku-tokyo-cafe-raises-3-mn/",
-      "date": "2026-10-22",
-      "detail": "via Inc42"
-    },
-    {
-      "type": "funding",
-      "company": "Karta AI",
-      "title": "Voice AI platform Karta AI raises $3 Mn in seed round led by PeerCapital and Cedar Hill",
-      "url": "https://entrackr.com/snippets/voice-ai-platform-karta-ai-raises-3-mn-in-seed-round-led-by-peercapital-and-cedar-hill-12705952",
-      "date": "2026-10-22",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "reopened",
-      "company": "Meesho",
-      "date": "2026-10-22",
-      "title": "Product Manager II",
-      "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
-      "id": "lever-meesho-5dca8c71-9993-438f-ad51-da3c7f4be692",
-      "detail": "closed 2026-10-14, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-22",
-      "detail": "8 engineering openings vs a usual 3"
-    },
-    {
-      "type": "funding",
-      "company": "TravClan",
-      "title": "TravClan raises $5M from Flipkart, others",
-      "url": "https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others",
-      "date": "2026-10-22",
-      "detail": "via YourStory",
-      "watched": true
     }
   ]
 }
