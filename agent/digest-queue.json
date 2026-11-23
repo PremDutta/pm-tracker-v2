@@ -1,28 +1,6 @@
 {
   "jobs": [
     {
-      "id": "govt-npci-190737000005599089",
-      "title": "Senior Lead Product Development",
-      "company": "NPCI Bharat BillPay Ltd",
-      "location": "Mumbai",
-      "url": "https://careers.npci.org.in/jobs/Careers/190737000005599089/Senior-Lead-Product-Development?source=CareerSite",
-      "source": "🏛️ Govt (NPCI)",
-      "deadline": null,
-      "flags": [
-        "mba_mentioned"
-      ],
-      "queuedOn": "2026-10-12"
-    },
-    {
-      "id": "vc-accel-96724786",
-      "title": "Product Manager",
-      "company": "CareStack",
-      "location": "Thiruvananthapuram, Kerala, India",
-      "url": "https://in.linkedin.com/jobs/view/product-manager-at-carestack%E2%84%A2-dental-practice-management-4477589033",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-13"
-    },
-    {
       "id": "vc-accel-96714992",
       "title": "Product Manager II, Google Workspace",
       "company": "Google",
@@ -3623,21 +3601,27 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=143177",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-21"
+    },
+    {
+      "id": "smartrecruiters-PHONEPELIMITED-1000000000006532",
+      "title": "Head Of Product",
+      "company": "PhonePe",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000006532",
+      "source": "SmartRecruiters (PhonePe)",
+      "queuedOn": "2026-11-23"
+    },
+    {
+      "id": "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-535136",
+      "title": "Digital Product Manager",
+      "company": "Wells Fargo",
+      "location": "Hyderabad, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-535136",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-11-23"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-25",
-      "detail": "65 engineering openings vs a usual 3"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-25",
-      "detail": "115 engineering openings vs a usual 38"
-    },
     {
       "type": "eng_spike",
       "company": "Oracle",
@@ -4357,6 +4341,21 @@
       "company": "Skyroot Aerospace",
       "date": "2026-11-22",
       "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-23",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-11-23",
+      "title": "Digital Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-535136",
+      "id": "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-535136",
+      "detail": "closed 2026-10-22, reposted today"
     }
   ],
   "reminders": {}

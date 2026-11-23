@@ -3,6 +3,21 @@
     {
       "type": "eng_spike",
       "company": "Skyroot Aerospace",
+      "date": "2026-11-23",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-11-23",
+      "title": "Digital Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-535136",
+      "id": "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-535136",
+      "detail": "closed 2026-10-22, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
       "date": "2026-11-22",
       "detail": "17 engineering openings vs a usual 5"
     },
@@ -1535,37 +1550,6 @@
       "company": "Oracle",
       "date": "2026-10-24",
       "detail": "62 engineering openings vs a usual 3"
-    },
-    {
-      "type": "funding",
-      "company": "Harajuku Tokyo Café",
-      "title": "Harajuku Tokyo Café raises $3 Mn in pre-Series A led by Zero W",
-      "url": "https://entrackr.com/snippets/harajuku-tokyo-caf%C3%A9-raises-3-mn-in-pre-series-a-led-by-zero-w-12740658",
-      "date": "2026-10-23",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-23",
-      "detail": "20 engineering openings vs a usual 3"
-    },
-    {
-      "type": "reopened",
-      "company": "Wipro",
-      "date": "2026-10-23",
-      "title": "Associate Product Manager - AI-Powered Property Appraisal Platform",
-      "url": "https://careers.wipro.com/job/Associate-Product-Manager-AI-Powered-Property-Appraisal-Platform/212754-en_US/",
-      "id": "sf-careers.wipro.com-212754",
-      "detail": "closed 2026-10-22, reposted today"
-    },
-    {
-      "type": "funding",
-      "company": "Y Combinator-Backed Firstwork",
-      "title": "Y Combinator-Backed Firstwork Nets $15 Mn To Expand Footprint Across US And Europe",
-      "url": "https://inc42.com/buzz/y-combinator-backed-firstwork-nets-15-mn-to-expand-footprint-across-us-and-europe/",
-      "date": "2026-10-23",
-      "detail": "via Inc42"
     }
   ]
 }
