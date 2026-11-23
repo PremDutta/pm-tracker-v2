@@ -1,42 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-96714992",
-      "title": "Product Manager II, Google Workspace",
-      "company": "Google",
-      "location": "Bengaluru, Karnataka, India, New York, NY, USA",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/86178789968487110-product-manager-ii-google-workspace?page=50",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-13"
-    },
-    {
-      "id": "vc-accel-96702280",
-      "title": "Product Manager / Sr. Product Manager - Mulesoft",
-      "company": "Spindle Ai (spindle.ai)",
-      "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
-      "url": "https://www.salesforce.com/company/careers/jobs/JR321301/product-manager-sr-product-manager-mulesoft/",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-13"
-    },
-    {
-      "id": "keka-zluri-92144",
-      "title": "Technical Product Manager- Data Engineering",
-      "company": "Zluri",
-      "location": "",
-      "url": "https://zluri.keka.com/careers/jobdetails/92144",
-      "source": "Keka (Zluri)",
-      "queuedOn": "2026-10-13"
-    },
-    {
-      "id": "amazon-10576704",
-      "title": "Sr. Product Manager, ANow",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10576704/sr-product-manager-anow",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-13"
-    },
-    {
       "id": "amazon-10576706",
       "title": "Senior Product Manager, Amazon Now",
       "company": "Amazon",
@@ -3619,24 +3583,47 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-535136",
       "source": "Workday (Wells Fargo)",
       "queuedOn": "2026-11-23"
+    },
+    {
+      "id": "oracle-ejgk.fa.em2.oraclecloud.com-30052209",
+      "title": "Assistant Manager / SA2  - GTS - Product Management",
+      "company": "KPMG India",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052209",
+      "source": "KPMG India careers",
+      "queuedOn": "2026-11-23"
+    },
+    {
+      "id": "oracle-ejgk.fa.em2.oraclecloud.com-30052212",
+      "title": "Assistant Manager / SA2  - GTS - Product Management",
+      "company": "KPMG India",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052212",
+      "source": "KPMG India careers",
+      "queuedOn": "2026-11-23"
+    },
+    {
+      "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000442213",
+      "title": "Principal Product Manager",
+      "company": "Target India",
+      "location": "Bangalore,India",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000442213",
+      "source": "Workday (Target India)",
+      "queuedOn": "2026-11-23"
+    },
+    {
+      "id": "govt-npci-190737000006868850",
+      "title": "Incharge UPI Product Governance",
+      "company": "National Payments Corporation of India",
+      "location": "Mumbai",
+      "url": "https://careers.npci.org.in/jobs/Careers/190737000006868850/Incharge-UPI-Product-Governance?source=CareerSite",
+      "source": "🏛️ Govt (NPCI)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-11-23"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-26",
-      "detail": "40 engineering openings vs a usual 3"
-    },
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-26",
-      "title": "Sr Staff Inbound Product Manager",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157721999",
-      "id": "smartrecruiters-ServiceNow-744000157721999",
-      "detail": "closed 2026-10-16, reposted today"
-    },
     {
       "type": "eng_spike",
       "company": "Accenture",
@@ -4356,6 +4343,24 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-535136",
       "id": "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-535136",
       "detail": "closed 2026-10-22, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Talabat (Delivery Hero)",
+      "date": "2026-11-23",
+      "title": "Product Manager - (Logistics, Service Flows)",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000163194279",
+      "id": "smartrecruiters-DeliveryHero-744000163194279",
+      "detail": "closed 2026-11-16, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Target India",
+      "date": "2026-11-23",
+      "title": "Principal Product Manager",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000442213",
+      "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000442213",
+      "detail": "closed 2026-10-19, reposted today"
     }
   ],
   "reminders": {}

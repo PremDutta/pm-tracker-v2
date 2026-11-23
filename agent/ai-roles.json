@@ -34,17 +34,6 @@
       "firstSeen": "2026-11-22"
     },
     {
-      "id": "vc-lightspeed-4726336005",
-      "title": "Product Manager, Agents",
-      "company": "Glean",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-21"
-    },
-    {
       "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Principal-Product-Manager---Switching_1209920-3",
       "title": "Principal Product Manager - Switching",
       "company": "HPE",
@@ -647,17 +636,6 @@
       "source": "Ashby (Ema)",
       "level": "pm",
       "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "greenhouse-gleanwork-4726336005",
-      "title": "Product Manager, Agents",
-      "company": "Glean",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
-      "source": "Greenhouse (Glean)",
-      "level": "pm",
-      "aiMatch": "title",
       "firstSeen": "2026-10-05"
     },
     {

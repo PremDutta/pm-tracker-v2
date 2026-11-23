@@ -350,7 +350,7 @@
           "eng": 281
         },
         "2026-11-23": {
-          "total": 636,
+          "total": 634,
           "eng": 281
         }
       },
@@ -945,7 +945,7 @@
           "eng": 40
         },
         "2026-11-23": {
-          "total": 124,
+          "total": 123,
           "eng": 40
         }
       },
@@ -1502,8 +1502,8 @@
           "eng": 77
         },
         "2026-11-23": {
-          "total": 165,
-          "eng": 77
+          "total": 162,
+          "eng": 75
         }
       },
       "pm": {
@@ -2029,7 +2029,7 @@
           "eng": 18
         },
         "2026-11-23": {
-          "total": 52,
+          "total": 51,
           "eng": 18
         }
       },
@@ -2191,7 +2191,7 @@
           "eng": 35
         },
         "2026-11-23": {
-          "total": 122,
+          "total": 123,
           "eng": 35
         }
       },
@@ -3658,7 +3658,7 @@
           "eng": 0
         },
         "2026-11-23": {
-          "total": 11,
+          "total": 12,
           "eng": 0
         }
       },
@@ -5809,8 +5809,8 @@
           "eng": 14
         },
         "2026-11-23": {
-          "total": 29,
-          "eng": 14
+          "total": 26,
+          "eng": 11
         }
       },
       "pm": {
@@ -6082,7 +6082,7 @@
           "eng": 5
         },
         "2026-11-23": {
-          "total": 73,
+          "total": 71,
           "eng": 4
         }
       },
@@ -6600,7 +6600,8 @@
           "ids": [
             "amazon-10599305"
           ],
-          "lastSeen": "2026-11-23"
+          "lastSeen": "2026-11-23",
+          "closedOn": "2026-11-23"
         },
         "senior product manager technical amazon business analytics": {
           "ids": [
@@ -6806,7 +6807,7 @@
           "eng": 3
         },
         "2026-11-23": {
-          "total": 26,
+          "total": 24,
           "eng": 3
         }
       },
@@ -7112,8 +7113,8 @@
           "eng": 21
         },
         "2026-11-23": {
-          "total": 63,
-          "eng": 20
+          "total": 64,
+          "eng": 21
         }
       },
       "pm": {
@@ -7391,7 +7392,7 @@
           "eng": 10
         },
         "2026-11-23": {
-          "total": 74,
+          "total": 71,
           "eng": 10
         }
       },
@@ -7814,7 +7815,7 @@
           "eng": 12
         },
         "2026-11-23": {
-          "total": 48,
+          "total": 46,
           "eng": 12
         }
       },
@@ -8338,8 +8339,8 @@
           "eng": 14
         },
         "2026-11-23": {
-          "total": 48,
-          "eng": 14
+          "total": 54,
+          "eng": 18
         }
       },
       "pm": {
@@ -9079,7 +9080,7 @@
         },
         "2026-11-23": {
           "total": 100,
-          "eng": 32
+          "eng": 37
         }
       },
       "pm": {
@@ -9549,7 +9550,7 @@
         },
         "2026-11-23": {
           "total": 100,
-          "eng": 10
+          "eng": 9
         }
       },
       "pm": {
@@ -9559,6 +9560,12 @@
           ],
           "lastSeen": "2026-11-09",
           "closedOn": "2026-11-10"
+        },
+        "assistant manager sa2 gts product management": {
+          "ids": [
+            "oracle-ejgk.fa.em2.oraclecloud.com-30052209"
+          ],
+          "lastSeen": "2026-11-23"
         }
       }
     },
@@ -9976,7 +9983,7 @@
         },
         "2026-11-23": {
           "total": 100,
-          "eng": 89
+          "eng": 88
         }
       },
       "pm": {
@@ -10276,7 +10283,7 @@
           "eng": 5
         },
         "2026-11-23": {
-          "total": 199,
+          "total": 189,
           "eng": 5
         }
       },
@@ -10524,7 +10531,7 @@
         },
         "2026-11-23": {
           "total": 100,
-          "eng": 22
+          "eng": 24
         }
       },
       "pm": {
@@ -10713,8 +10720,8 @@
           "eng": 3
         },
         "2026-11-23": {
-          "total": 28,
-          "eng": 2
+          "total": 29,
+          "eng": 3
         }
       },
       "pm": {
@@ -11146,7 +11153,7 @@
           "eng": 20
         },
         "2026-11-23": {
-          "total": 42,
+          "total": 40,
           "eng": 20
         }
       },
@@ -11326,7 +11333,7 @@
         },
         "2026-11-23": {
           "total": 100,
-          "eng": 17
+          "eng": 19
         }
       },
       "pm": {
@@ -11713,7 +11720,8 @@
             "smartrecruiters-ServiceNow-744000161885234",
             "smartrecruiters-ServiceNow-744000162818530"
           ],
-          "lastSeen": "2026-11-23"
+          "lastSeen": "2026-11-23",
+          "closedOn": "2026-11-23"
         },
         "principal outbound product manager": {
           "ids": [
@@ -11868,8 +11876,8 @@
           "eng": 50
         },
         "2026-11-23": {
-          "total": 79,
-          "eng": 48
+          "total": 73,
+          "eng": 43
         }
       },
       "pm": {
@@ -12300,8 +12308,8 @@
           "eng": 72
         },
         "2026-11-23": {
-          "total": 91,
-          "eng": 73
+          "total": 90,
+          "eng": 72
         }
       },
       "pm": {}
@@ -13124,8 +13132,8 @@
           "eng": 31
         },
         "2026-11-23": {
-          "total": 110,
-          "eng": 32
+          "total": 113,
+          "eng": 33
         }
       },
       "pm": {
@@ -13700,10 +13708,10 @@
         "principal product manager": {
           "ids": [
             "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
-            "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195"
+            "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
+            "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000442213"
           ],
-          "lastSeen": "2026-10-19",
-          "closedOn": "2026-10-19"
+          "lastSeen": "2026-11-23"
         },
         "director product management enterprise data strategy": {
           "ids": [
@@ -13746,7 +13754,8 @@
           "ids": [
             "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-manager_R0000480930"
           ],
-          "lastSeen": "2026-11-23"
+          "lastSeen": "2026-11-23",
+          "closedOn": "2026-11-23"
         }
       }
     },
@@ -14023,8 +14032,8 @@
           "eng": 42
         },
         "2026-11-23": {
-          "total": 81,
-          "eng": 42
+          "total": 84,
+          "eng": 43
         }
       },
       "pm": {
@@ -14533,8 +14542,8 @@
           "eng": 13
         },
         "2026-11-23": {
-          "total": 49,
-          "eng": 14
+          "total": 60,
+          "eng": 18
         }
       },
       "pm": {
@@ -14793,8 +14802,8 @@
           "eng": 38
         },
         "2026-11-23": {
-          "total": 78,
-          "eng": 38
+          "total": 91,
+          "eng": 45
         }
       },
       "pm": {
@@ -14960,7 +14969,7 @@
           "eng": 50
         },
         "2026-11-23": {
-          "total": 200,
+          "total": 198,
           "eng": 48
         }
       },
@@ -15194,8 +15203,8 @@
           "eng": 45
         },
         "2026-11-23": {
-          "total": 71,
-          "eng": 45
+          "total": 69,
+          "eng": 44
         }
       },
       "pm": {
@@ -16102,8 +16111,8 @@
           "eng": 558
         },
         "2026-11-23": {
-          "total": 894,
-          "eng": 560
+          "total": 892,
+          "eng": 559
         }
       },
       "pm": {
@@ -16574,7 +16583,7 @@
           "eng": 50
         },
         "2026-11-23": {
-          "total": 130,
+          "total": 129,
           "eng": 50
         }
       },
@@ -16663,7 +16672,8 @@
           "ids": [
             "greenhouse-gleanwork-4726336005"
           ],
-          "lastSeen": "2026-11-23"
+          "lastSeen": "2026-11-23",
+          "closedOn": "2026-11-23"
         },
         "product manager ai": {
           "ids": [
@@ -18169,7 +18179,7 @@
           "eng": 178
         },
         "2026-11-23": {
-          "total": 417,
+          "total": 418,
           "eng": 178
         }
       },
@@ -19070,8 +19080,8 @@
           "eng": 34
         },
         "2026-11-23": {
-          "total": 84,
-          "eng": 34
+          "total": 82,
+          "eng": 33
         }
       },
       "pm": {
@@ -19233,7 +19243,7 @@
         },
         "2026-11-23": {
           "total": 200,
-          "eng": 115
+          "eng": 117
         }
       },
       "pm": {
@@ -19414,8 +19424,8 @@
           "eng": 48
         },
         "2026-11-23": {
-          "total": 211,
-          "eng": 49
+          "total": 218,
+          "eng": 50
         }
       },
       "pm": {
@@ -20086,8 +20096,8 @@
           "eng": 9
         },
         "2026-11-23": {
-          "total": 47,
-          "eng": 9
+          "total": 45,
+          "eng": 8
         }
       },
       "pm": {
@@ -20366,8 +20376,8 @@
           "eng": 204
         },
         "2026-11-23": {
-          "total": 372,
-          "eng": 202
+          "total": 371,
+          "eng": 200
         }
       },
       "pm": {
@@ -20615,7 +20625,7 @@
           "eng": 1
         },
         "2026-11-23": {
-          "total": 13,
+          "total": 11,
           "eng": 1
         }
       },
@@ -21436,8 +21446,8 @@
           "eng": 7
         },
         "2026-11-23": {
-          "total": 19,
-          "eng": 7
+          "total": 17,
+          "eng": 5
         }
       },
       "pm": {
@@ -21843,8 +21853,8 @@
           "eng": 131
         },
         "2026-11-23": {
-          "total": 496,
-          "eng": 132
+          "total": 498,
+          "eng": 134
         }
       },
       "pm": {
@@ -22328,7 +22338,7 @@
           "eng": 9
         },
         "2026-11-23": {
-          "total": 82,
+          "total": 84,
           "eng": 9
         }
       },
@@ -22745,7 +22755,7 @@
         },
         "2026-11-23": {
           "total": 100,
-          "eng": 32
+          "eng": 35
         }
       },
       "pm": {
@@ -22908,8 +22918,8 @@
           "eng": 5
         },
         "2026-11-23": {
-          "total": 8,
-          "eng": 5
+          "total": 9,
+          "eng": 6
         }
       },
       "pm": {
@@ -23045,7 +23055,7 @@
           "eng": 8
         },
         "2026-11-23": {
-          "total": 118,
+          "total": 119,
           "eng": 8
         }
       },
@@ -23708,7 +23718,7 @@
           "eng": 3
         },
         "2026-11-23": {
-          "total": 35,
+          "total": 36,
           "eng": 3
         }
       },
@@ -23852,7 +23862,7 @@
           "eng": 10
         },
         "2026-11-23": {
-          "total": 33,
+          "total": 35,
           "eng": 10
         }
       },
@@ -23861,8 +23871,7 @@
           "ids": [
             "greenhouse-thunes-7786592003"
           ],
-          "lastSeen": "2026-10-23",
-          "closedOn": "2026-10-23"
+          "lastSeen": "2026-11-23"
         }
       }
     },
@@ -23993,7 +24002,7 @@
         },
         "2026-11-23": {
           "total": 100,
-          "eng": 9
+          "eng": 8
         }
       },
       "pm": {
@@ -24010,10 +24019,10 @@
             "smartrecruiters-DeliveryHero-744000157841650",
             "smartrecruiters-DeliveryHero-744000158019110",
             "smartrecruiters-DeliveryHero-744000158779512",
-            "smartrecruiters-DeliveryHero-744000160897530"
+            "smartrecruiters-DeliveryHero-744000160897530",
+            "smartrecruiters-DeliveryHero-744000163194279"
           ],
-          "lastSeen": "2026-11-16",
-          "closedOn": "2026-11-16"
+          "lastSeen": "2026-11-23"
         },
         "senior product manager": {
           "ids": [
@@ -24026,7 +24035,8 @@
           "ids": [
             "smartrecruiters-DeliveryHero-744000162445047"
           ],
-          "lastSeen": "2026-11-23"
+          "lastSeen": "2026-11-23",
+          "closedOn": "2026-11-23"
         }
       }
     },
@@ -24321,7 +24331,7 @@
           "eng": 6
         },
         "2026-11-23": {
-          "total": 12,
+          "total": 11,
           "eng": 6
         }
       },
@@ -24442,8 +24452,8 @@
           "eng": 68
         },
         "2026-11-23": {
-          "total": 243,
-          "eng": 68
+          "total": 238,
+          "eng": 66
         }
       },
       "pm": {
@@ -24817,7 +24827,7 @@
           "eng": 143
         },
         "2026-11-23": {
-          "total": 265,
+          "total": 264,
           "eng": 146
         }
       },
@@ -24833,7 +24843,8 @@
           "ids": [
             "greenhouse-celonis-7777102003"
           ],
-          "lastSeen": "2026-11-23"
+          "lastSeen": "2026-11-23",
+          "closedOn": "2026-11-23"
         },
         "senior application product manager supply chain procurement": {
           "ids": [
@@ -25677,7 +25688,7 @@
           "eng": 5
         },
         "2026-11-23": {
-          "total": 23,
+          "total": 24,
           "eng": 5
         }
       },
@@ -26096,7 +26107,7 @@
         },
         "2026-11-23": {
           "total": 100,
-          "eng": 27
+          "eng": 28
         }
       },
       "pm": {

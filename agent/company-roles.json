@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-23T06:04:51.524Z",
+  "scannedAt": "2026-11-23T11:00:13.211Z",
   "roles": {
     "Amazon": [
       {
@@ -25,14 +25,6 @@
         "url": "https://www.amazon.jobs/en/jobs/10563526/principal-product-manager-retail-business-services-rbs-cost-to-serve",
         "level": "group",
         "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "amazon-10599305",
-        "title": "Principal Product Manager, Technical, Customer Anecdote Miner (CAM)",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10599305/principal-product-manager-technical-customer-anecdote-miner-cam",
-        "level": "group",
-        "firstSeen": "2026-11-07"
       },
       {
         "id": "amazon-10601744",
@@ -203,20 +195,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10576706",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-11-16"
-      },
-      {
         "id": "amazon-10499561",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10576706",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-11-16"
       },
       {
         "id": "amazon-10498328",
@@ -437,16 +429,6 @@
         "firstSeen": "2026-09-30"
       }
     ],
-    "Celonis": [
-      {
-        "id": "greenhouse-celonis-7777102003",
-        "title": "Associate Principal Product Manager - Networks",
-        "location": "Bangalore, India",
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/7777102003?gh_jid=7777102003",
-        "level": "group",
-        "firstSeen": "2026-10-26"
-      }
-    ],
     "Couchbase": [
       {
         "id": "greenhouse-couchbaseinc-4701380006",
@@ -503,16 +485,6 @@
         "url": "https://job-boards.greenhouse.io/glance/jobs/8337703",
         "level": "senior",
         "firstSeen": "2026-11-05"
-      }
-    ],
-    "Glean": [
-      {
-        "id": "greenhouse-gleanwork-4726336005",
-        "title": "Product Manager, Agents",
-        "location": "Bangalore, India",
-        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
       }
     ],
     "GW RhythmX": [
@@ -781,6 +753,24 @@
         "url": "https://job-boards.greenhouse.io/karat/jobs/8842979002",
         "level": "group",
         "firstSeen": "2026-10-05"
+      }
+    ],
+    "KPMG India": [
+      {
+        "id": "oracle-ejgk.fa.em2.oraclecloud.com-30052209",
+        "title": "Assistant Manager / SA2  - GTS - Product Management",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052209",
+        "level": "pm",
+        "firstSeen": "2026-11-23"
+      },
+      {
+        "id": "oracle-ejgk.fa.em2.oraclecloud.com-30052212",
+        "title": "Assistant Manager / SA2  - GTS - Product Management",
+        "location": "Bangalore, Karnataka, India",
+        "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052212",
+        "level": "pm",
+        "firstSeen": "2026-11-23"
       }
     ],
     "LetsTransport": [
@@ -1389,18 +1379,18 @@
         "firstSeen": "2026-10-29"
       },
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
-        "level": "senior",
-        "firstSeen": "2026-11-10"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
         "title": "Senior Product Manager",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
+        "level": "senior",
+        "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
         "level": "senior",
         "firstSeen": "2026-11-10"
       },
@@ -1531,12 +1521,12 @@
     ],
     "Target India": [
       {
-        "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-manager_R0000480930",
-        "title": "Sr Product manager",
-        "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-manager_R0000480930",
-        "level": "senior",
-        "firstSeen": "2026-11-18"
+        "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000442213",
+        "title": "Principal Product Manager",
+        "location": "Bangalore,India",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000442213",
+        "level": "group",
+        "firstSeen": "2026-11-23"
       }
     ],
     "UiPath": [

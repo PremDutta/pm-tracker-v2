@@ -1,10 +1,36 @@
 {
   "signals": [
     {
+      "type": "funding",
+      "company": "Ionic Wealth",
+      "title": "Ionic Wealth raises Rs 177 Cr from Angel One, marquee families",
+      "url": "https://entrackr.com/news/ionic-wealth-raises-rs-177-cr-from-angel-one-marquee-families-12833453",
+      "date": "2026-11-23",
+      "detail": "via Entrackr"
+    },
+    {
       "type": "eng_spike",
       "company": "Skyroot Aerospace",
       "date": "2026-11-23",
       "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Talabat (Delivery Hero)",
+      "date": "2026-11-23",
+      "title": "Product Manager - (Logistics, Service Flows)",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000163194279",
+      "id": "smartrecruiters-DeliveryHero-744000163194279",
+      "detail": "closed 2026-11-16, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Target India",
+      "date": "2026-11-23",
+      "title": "Principal Product Manager",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000442213",
+      "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000442213",
+      "detail": "closed 2026-10-19, reposted today"
     },
     {
       "type": "reopened",
@@ -14,6 +40,14 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-535136",
       "id": "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-535136",
       "detail": "closed 2026-10-22, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "Zavya",
+      "title": "Jewellery brand Zavya raises Rs 22.6 Cr in pre-Series A round",
+      "url": "https://entrackr.com/snippets/jewellery-brand-zavya-raises-rs-226-cr-in-pre-series-a-round-12833612",
+      "date": "2026-11-23",
+      "detail": "via Entrackr"
     },
     {
       "type": "eng_spike",
