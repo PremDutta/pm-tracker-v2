@@ -1,15 +1,7 @@
 {
-  "scannedAt": "2026-11-23T11:00:13.211Z",
+  "scannedAt": "2026-11-23T23:29:06.816Z",
   "roles": {
     "Amazon": [
-      {
-        "id": "amazon-10555430",
-        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
-        "level": "group",
-        "firstSeen": "2026-10-23"
-      },
       {
         "id": "amazon-10578219",
         "title": "Principal Product Manager- Technical, Amazon Finance Technology",
@@ -17,6 +9,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
         "level": "group",
         "firstSeen": "2026-11-03"
+      },
+      {
+        "id": "amazon-10555430",
+        "title": "Principal Product Manager- Technical, Amazon Finance Technology",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10555430/principal-product-manager-technical-amazon-finance-technology",
+        "level": "group",
+        "firstSeen": "2026-10-23"
       },
       {
         "id": "amazon-10563526",
@@ -195,20 +195,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10499561",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10576706",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-11-16"
+      },
+      {
+        "id": "amazon-10499561",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10498328",
@@ -447,6 +447,16 @@
         "url": "https://jobs.ashbyhq.com/ema/74540ab2-9782-476f-ad0d-78cc2e7717ed",
         "level": "pm",
         "firstSeen": "2026-10-05"
+      }
+    ],
+    "Fractal": [
+      {
+        "id": "workday-fractal-/job/Bengaluru/Senior-Product-Manager---Cogentiq-CX_SR-47842",
+        "title": "Senior Product Manager - Cogentiq CX",
+        "location": "Bengaluru",
+        "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Senior-Product-Manager---Cogentiq-CX_SR-47842",
+        "level": "senior",
+        "firstSeen": "2026-11-23"
       }
     ],
     "Freshworks": [
@@ -917,6 +927,14 @@
         "firstSeen": "2026-11-20"
       },
       {
+        "id": "eightfold-microsoft.com-1970393557042009",
+        "title": "Principal Product Manager",
+        "location": "India, Uttar Pradesh, Noida",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557042009",
+        "level": "group",
+        "firstSeen": "2026-11-23"
+      },
+      {
         "id": "eightfold-microsoft.com-1970393557041935",
         "title": "Product Manager -II",
         "location": "India, Uttar Pradesh, Noida",
@@ -925,12 +943,12 @@
         "firstSeen": "2026-10-21"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557041943",
+        "id": "eightfold-microsoft.com-1970393557040598",
         "title": "Senior Product Manager",
-        "location": "India, Uttar Pradesh, Noida",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
+        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
         "level": "senior",
-        "firstSeen": "2026-10-20"
+        "firstSeen": "2026-10-16"
       },
       {
         "id": "eightfold-microsoft.com-1970393557075027",
@@ -949,12 +967,12 @@
         "firstSeen": "2026-10-15"
       },
       {
-        "id": "eightfold-microsoft.com-1970393557040598",
+        "id": "eightfold-microsoft.com-1970393557041943",
         "title": "Senior Product Manager",
-        "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
+        "location": "India, Uttar Pradesh, Noida",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041943",
         "level": "senior",
-        "firstSeen": "2026-10-16"
+        "firstSeen": "2026-10-20"
       }
     ],
     "Mihup": [
@@ -1355,18 +1373,18 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
-        "level": "pm",
-        "firstSeen": "2026-11-10"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749335005",
         "title": "Product Manager II",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+        "level": "pm",
+        "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
         "level": "pm",
         "firstSeen": "2026-11-10"
       },
@@ -1377,14 +1395,6 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
         "level": "pm",
         "firstSeen": "2026-10-29"
-      },
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
-        "title": "Senior Product Manager",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
-        "level": "senior",
-        "firstSeen": "2026-11-10"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
@@ -1401,6 +1411,14 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
         "level": "senior",
         "firstSeen": "2026-10-15"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4749337005",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
+        "level": "senior",
+        "firstSeen": "2026-11-10"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
@@ -1459,14 +1477,6 @@
         "url": "https://ats.rippling.com/rippling/jobs/76af5c78-5db5-4104-8916-f3f216f1a607",
         "level": "group",
         "firstSeen": "2026-10-10"
-      },
-      {
-        "id": "rippling-rippling-30ecc735-369a-429f-8df5-585b1516cef7",
-        "title": "Product Manager, Payroll Integrations",
-        "location": "Bangalore, India",
-        "url": "https://ats.rippling.com/rippling/jobs/30ecc735-369a-429f-8df5-585b1516cef7",
-        "level": "pm",
-        "firstSeen": "2026-10-05"
       }
     ],
     "Rubrik": [
@@ -1487,6 +1497,16 @@
         "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
         "level": "pm",
         "firstSeen": "2026-11-19"
+      }
+    ],
+    "ServiceNow": [
+      {
+        "id": "smartrecruiters-ServiceNow-744000163209079",
+        "title": "Sr Staff Inbound Product Manager",
+        "location": "Hyderabad, , India",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000163209079",
+        "level": "group",
+        "firstSeen": "2026-11-23"
       }
     ],
     "Simpplr": [
@@ -1615,14 +1635,6 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-535136",
         "level": "pm",
         "firstSeen": "2026-11-23"
-      },
-      {
-        "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-575608",
-        "title": "Lead Product Manager",
-        "location": "Hyderabad, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-575608",
-        "level": "group",
-        "firstSeen": "2026-11-20"
       }
     ],
     "Wing Assistant (M32 AI)": [
@@ -1946,7 +1958,7 @@
     "MBZUAI": "2026-11-23",
     "Meesho": "2026-11-23",
     "Mensa Brands (BRND.ME)": "2026-11-23",
-    "Microsoft": "2026-11-22",
+    "Microsoft": "2026-11-23",
     "Mihup": "2026-11-23",
     "Mindtickle": "2026-11-23",
     "Mollie": "2026-11-23",

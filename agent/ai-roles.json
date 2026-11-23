@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "workday-fractal-/job/Bengaluru/Senior-Product-Manager---Cogentiq-CX_SR-47842",
+      "title": "Senior Product Manager - Cogentiq CX",
+      "company": "Fractal",
+      "location": "Bengaluru",
+      "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Senior-Product-Manager---Cogentiq-CX_SR-47842",
+      "source": "Workday (Fractal)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-23"
+    },
+    {
       "id": "vc-peakxv-59397",
       "title": "Product Manager - AI and Agentic",
       "company": "Brightmoney",
@@ -95,28 +106,6 @@
       "location": "Bangalore, India",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Technical-Product-Manager_R68278",
       "source": "Workday (Motorola Solutions)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-11-21"
-    },
-    {
-      "id": "vc-lightspeed-30ecc735-369a-429f-8df5-585b1516cef7",
-      "title": "Product Manager, Payroll Integrations",
-      "company": "Rippling",
-      "location": "Bangalore, India",
-      "url": "https://ats.rippling.com/rippling/jobs/30ecc735-369a-429f-8df5-585b1516cef7",
-      "source": "VC board (Lightspeed portfolio)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-11-21"
-    },
-    {
-      "id": "vc-lightspeed-c4bb3b2c-7608-4d57-8761-650b4222ac13",
-      "title": "Product Manager",
-      "company": "Sarvam AI",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
-      "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-11-21"
@@ -745,17 +734,6 @@
       "url": "https://ats.rippling.com/rippling/jobs/dc87eb0d-23ed-4539-9298-17f52f81ff7e",
       "source": "Rippling (Rippling)",
       "level": "group",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "rippling-rippling-30ecc735-369a-429f-8df5-585b1516cef7",
-      "title": "Product Manager, Payroll Integrations",
-      "company": "Rippling",
-      "location": "Bangalore, India",
-      "url": "https://ats.rippling.com/rippling/jobs/30ecc735-369a-429f-8df5-585b1516cef7",
-      "source": "Rippling (Rippling)",
-      "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-10-05"
     },

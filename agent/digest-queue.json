@@ -1,33 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10576706",
-      "title": "Senior Product Manager, Amazon Now",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-13"
-    },
-    {
-      "id": "oracle-jpmc.fa.oraclecloud.com-210783031",
-      "title": "Product Manager",
-      "company": "JPMorgan Chase",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783031",
-      "source": "JPMorgan Chase careers",
-      "queuedOn": "2026-10-13"
-    },
-    {
-      "id": "eightfold-microsoft.com-1970393557038894",
-      "title": "Product Manager -II",
-      "company": "Microsoft",
-      "location": "India, Telangana, Hyderabad",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
-      "source": "Microsoft careers",
-      "queuedOn": "2026-10-13"
-    },
-    {
       "id": "eightfold-paypal.com-274922819195",
       "title": "Sr Product Manager",
       "company": "PayPal",
@@ -3621,15 +3594,36 @@
       "deadline": null,
       "flags": [],
       "queuedOn": "2026-11-23"
+    },
+    {
+      "id": "greenhouse-asana-8338204",
+      "title": "Staff Product Manager, Reporting",
+      "company": "Asana",
+      "location": "New York City",
+      "url": "https://www.asana.com/jobs/apply/8338204?gh_jid=8338204",
+      "source": "Greenhouse (Asana)",
+      "queuedOn": "2026-11-24"
+    },
+    {
+      "id": "workday-fractal-/job/Bengaluru/Senior-Product-Manager---Cogentiq-CX_SR-47842",
+      "title": "Senior Product Manager - Cogentiq CX",
+      "company": "Fractal",
+      "location": "Bengaluru",
+      "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Senior-Product-Manager---Cogentiq-CX_SR-47842",
+      "source": "Workday (Fractal)",
+      "queuedOn": "2026-11-24"
+    },
+    {
+      "id": "smartrecruiters-ServiceNow-744000163209079",
+      "title": "Sr Staff Inbound Product Manager",
+      "company": "ServiceNow",
+      "location": "Hyderabad, , India",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000163209079",
+      "source": "SmartRecruiters (ServiceNow)",
+      "queuedOn": "2026-11-24"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-26",
-      "detail": "152 engineering openings vs a usual 39"
-    },
     {
       "type": "eng_spike",
       "company": "Oracle",
@@ -4361,6 +4355,15 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000442213",
       "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000442213",
       "detail": "closed 2026-10-19, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "ServiceNow",
+      "date": "2026-11-23",
+      "title": "Sr Staff Inbound Product Manager",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000163209079",
+      "id": "smartrecruiters-ServiceNow-744000163209079",
+      "detail": "closed 2026-11-20, reposted today"
     }
   ],
   "reminders": {}
