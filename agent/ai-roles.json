@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "vc-lightspeed-c4bb3b2c-7608-4d57-8761-650b4222ac13",
+      "title": "Product Manager",
+      "company": "Sarvam AI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://jobs.ashbyhq.com/sarvam/c4bb3b2c-7608-4d57-8761-650b4222ac13",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-24"
+    },
+    {
       "id": "workday-fractal-/job/Bengaluru/Senior-Product-Manager---Cogentiq-CX_SR-47842",
       "title": "Senior Product Manager - Cogentiq CX",
       "company": "Fractal",
@@ -63,17 +74,6 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Principal-Product-Manager--Networking-Services_1215298-2",
       "source": "Workday (HPE)",
       "level": "group",
-      "aiMatch": "company",
-      "firstSeen": "2026-11-21"
-    },
-    {
-      "id": "workday-hpe-/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1",
-      "title": "Sr. Product Owner",
-      "company": "HPE",
-      "location": "Bengaluru, Karnātaka, India",
-      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Sr-Product-Owner--Virtualization_1207185-1",
-      "source": "Workday (HPE)",
-      "level": "senior",
       "aiMatch": "company",
       "firstSeen": "2026-11-21"
     },

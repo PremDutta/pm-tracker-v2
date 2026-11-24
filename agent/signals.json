@@ -2,6 +2,29 @@
   "signals": [
     {
       "type": "funding",
+      "company": "Cosine Robots",
+      "title": "Cosine Robots raises Rs 22.36 Cr led by Avaana Capital",
+      "url": "https://entrackr.com/snippets/cosine-robots-raises-rs-2236-cr-led-by-avaana-capital-12836692",
+      "date": "2026-11-24",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-24",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-11-24",
+      "title": "Lead Digital Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577836-1",
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577836-1",
+      "detail": "closed 2026-11-19, reposted today"
+    },
+    {
+      "type": "funding",
       "company": "Ionic Wealth",
       "title": "Ionic Wealth raises Rs 177 Cr from Angel One, marquee families",
       "url": "https://entrackr.com/news/ionic-wealth-raises-rs-177-cr-from-angel-one-marquee-families-12833453",
@@ -1589,18 +1612,6 @@
       "company": "Oracle",
       "date": "2026-10-25",
       "detail": "65 engineering openings vs a usual 3"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-24",
-      "detail": "101 engineering openings vs a usual 38"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-24",
-      "detail": "62 engineering openings vs a usual 3"
     }
   ]
 }

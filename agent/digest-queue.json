@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "eightfold-paypal.com-274922819195",
-      "title": "Sr Product Manager",
-      "company": "PayPal",
-      "location": "Bangalore, Karnataka, India",
-      "url": "https://paypal.eightfold.ai/careers/job/274922819195",
-      "source": "PayPal careers",
-      "queuedOn": "2026-10-13"
-    },
-    {
       "id": "eightfold-paypal.com-274922819061",
       "title": "Lead Product Manager",
       "company": "PayPal",
@@ -3621,21 +3612,18 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000163209079",
       "source": "SmartRecruiters (ServiceNow)",
       "queuedOn": "2026-11-24"
+    },
+    {
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577836-1",
+      "title": "Lead Digital Product Manager",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, India",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577836-1",
+      "source": "Workday (Wells Fargo)",
+      "queuedOn": "2026-11-24"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-27",
-      "detail": "84 engineering openings vs a usual 3"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-27",
-      "detail": "136 engineering openings vs a usual 39"
-    },
     {
       "type": "eng_spike",
       "company": "Oracle",
@@ -4364,6 +4352,21 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000163209079",
       "id": "smartrecruiters-ServiceNow-744000163209079",
       "detail": "closed 2026-11-20, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-24",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Wells Fargo",
+      "date": "2026-11-24",
+      "title": "Lead Digital Product Manager",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577836-1",
+      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577836-1",
+      "detail": "closed 2026-11-19, reposted today"
     }
   ],
   "reminders": {}
