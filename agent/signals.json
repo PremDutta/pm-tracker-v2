@@ -2,11 +2,36 @@
   "signals": [
     {
       "type": "funding",
+      "company": "AidenAI",
+      "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
+      "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
+      "date": "2026-11-24",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
+      "company": "Bloom",
+      "title": "Hospitality brand Bloom raises $75 Mn in funding round led by Kedaara Capital",
+      "url": "https://entrackr.com/snippets/hospitality-brand-bloom-raises-75-mn-in-funding-round-led-by-kedaara-capital-12838049",
+      "date": "2026-11-24",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
       "company": "Cosine Robots",
       "title": "Cosine Robots raises Rs 22.36 Cr led by Avaana Capital",
       "url": "https://entrackr.com/snippets/cosine-robots-raises-rs-2236-cr-led-by-avaana-capital-12836692",
       "date": "2026-11-24",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "reopened",
+      "company": "DBS Bank",
+      "date": "2026-11-24",
+      "title": "SVP, Wealth Lending Product Manager,  Private Banking, Consumer Banking Group",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/SVP--Wealth-Lending-Product-Manager---Private-Banking--Consumer-Banking-Group_WD90692",
+      "id": "workday-dbs-/job/Singapore---Central/SVP--Wealth-Lending-Product-Manager---Private-Banking--Consumer-Banking-Group_WD90692",
+      "detail": "closed 2026-11-17, reposted today"
     },
     {
       "type": "eng_spike",

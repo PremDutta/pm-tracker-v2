@@ -1,60 +1,6 @@
 {
   "jobs": [
     {
-      "id": "eightfold-paypal.com-274922819061",
-      "title": "Lead Product Manager",
-      "company": "PayPal",
-      "location": "Bangalore, Karnataka, India",
-      "url": "https://paypal.eightfold.ai/careers/job/274922819061",
-      "source": "PayPal careers",
-      "queuedOn": "2026-10-13"
-    },
-    {
-      "id": "eightfold-paypal.com-274922819192",
-      "title": "Sr Product Manager",
-      "company": "PayPal",
-      "location": "Bangalore, Karnataka, India",
-      "url": "https://paypal.eightfold.ai/careers/job/274922819192",
-      "source": "PayPal careers",
-      "queuedOn": "2026-10-13"
-    },
-    {
-      "id": "workday-wf-/job/Bengaluru-India/Data-Product-Management-Consultant_R-579868",
-      "title": "Data Product Management Consultant",
-      "company": "Wells Fargo",
-      "location": "Bengaluru, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Product-Management-Consultant_R-579868",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-10-13"
-    },
-    {
-      "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
-      "title": "Lead Digital Product Manager - CIAM",
-      "company": "Wells Fargo",
-      "location": "Bengaluru, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---CIAM_R-577555-1",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-10-13"
-    },
-    {
-      "id": "vc-peakxv-b11c81ce-fe5c-4eb6-a3e1-d268dd3ad926",
-      "title": "Product Manager",
-      "company": "FamPay",
-      "location": "Bengaluru",
-      "url": "https://jobs.lever.co/fampay/b11c81ce-fe5c-4eb6-a3e1-d268dd3ad926",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-13"
-    },
-    {
-      "id": "lever-spotify-ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd",
-      "title": "Senior Product Manager, Consumer - Audiobooks",
-      "company": "Spotify",
-      "location": "London",
-      "url": "https://jobs.lever.co/spotify/ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd",
-      "source": "Lever (Spotify)",
-      "queuedOn": "2026-10-13"
-    },
-    {
       "id": "smartrecruiters-PHONEPELIMITED-1000000000004050",
       "title": "Head of Product, PhonePe Wealth",
       "company": "PhonePe",
@@ -3621,15 +3567,63 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577836-1",
       "source": "Workday (Wells Fargo)",
       "queuedOn": "2026-11-24"
+    },
+    {
+      "id": "vc-accel-100647966",
+      "title": "Group Product Manager",
+      "company": "Spinny",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://spinzone.darwinbox.in/ms/candidate/careers/a6b054666c02f9",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-24"
+    },
+    {
+      "id": "vc-accel-100647974",
+      "title": "Product Manager",
+      "company": "Spinny",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://spinzone.darwinbox.in/ms/candidate/careers/a6b053a284c42b",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-24"
+    },
+    {
+      "id": "vc-accel-100647972",
+      "title": "Senior Product Manager",
+      "company": "Spinny",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://spinzone.darwinbox.in/ms/candidate/careers/a6b053c9611a62",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-24"
+    },
+    {
+      "id": "vc-accel-100647979",
+      "title": "Associate Product Manager",
+      "company": "Spinny",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://spinzone.darwinbox.in/ms/candidate/careers/a6b0534a26e90a",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-24"
+    },
+    {
+      "id": "vc-accel-100631982",
+      "title": "Principal Product Manager",
+      "company": "Webroot",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.opentext.com/us/en/job/54420",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-24"
+    },
+    {
+      "id": "vc-accel-100585130",
+      "title": "Product Manager, Z Security",
+      "company": "Instana",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=144201",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-24"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-28",
-      "detail": "83 engineering openings vs a usual 3"
-    },
     {
       "type": "reopened",
       "company": "ServiceNow",
@@ -4367,6 +4361,15 @@
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577836-1",
       "id": "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577836-1",
       "detail": "closed 2026-11-19, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "DBS Bank",
+      "date": "2026-11-24",
+      "title": "SVP, Wealth Lending Product Manager,  Private Banking, Consumer Banking Group",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/SVP--Wealth-Lending-Product-Manager---Private-Banking--Consumer-Banking-Group_WD90692",
+      "id": "workday-dbs-/job/Singapore---Central/SVP--Wealth-Lending-Product-Manager---Private-Banking--Consumer-Banking-Group_WD90692",
+      "detail": "closed 2026-11-17, reposted today"
     }
   ],
   "reminders": {}
