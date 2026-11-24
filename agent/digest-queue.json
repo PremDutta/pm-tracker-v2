@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "smartrecruiters-PHONEPELIMITED-1000000000004050",
-      "title": "Head of Product, PhonePe Wealth",
-      "company": "PhonePe",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000004050",
-      "source": "SmartRecruiters (PhonePe)",
-      "queuedOn": "2026-10-13"
-    },
-    {
       "id": "vc-accel-96781859",
       "title": "Senior Staff Product Manager",
       "company": "SentinelOne",
@@ -3621,6 +3612,15 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=144201",
       "source": "VC board (Accel portfolio)",
       "queuedOn": "2026-11-24"
+    },
+    {
+      "id": "oracle-eeho.fa.us2.oraclecloud.com-350877",
+      "title": "Senior Product Manager",
+      "company": "Oracle",
+      "location": "India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350877",
+      "source": "Oracle careers",
+      "queuedOn": "2026-11-25"
     }
   ],
   "signals": [

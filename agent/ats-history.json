@@ -123,7 +123,7 @@
           "eng": 43
         },
         "2026-11-24": {
-          "total": 108,
+          "total": 110,
           "eng": 43
         }
       },
@@ -357,8 +357,8 @@
           "eng": 282
         },
         "2026-11-24": {
-          "total": 630,
-          "eng": 281
+          "total": 631,
+          "eng": 283
         }
       },
       "pm": {
@@ -952,7 +952,7 @@
           "eng": 40
         },
         "2026-11-24": {
-          "total": 124,
+          "total": 122,
           "eng": 40
         }
       },
@@ -1509,7 +1509,7 @@
           "eng": 74
         },
         "2026-11-24": {
-          "total": 159,
+          "total": 158,
           "eng": 73
         }
       },
@@ -2036,7 +2036,7 @@
           "eng": 16
         },
         "2026-11-24": {
-          "total": 49,
+          "total": 48,
           "eng": 16
         }
       },
@@ -2199,8 +2199,8 @@
           "eng": 35
         },
         "2026-11-24": {
-          "total": 120,
-          "eng": 35
+          "total": 118,
+          "eng": 34
         }
       },
       "pm": {
@@ -2980,8 +2980,8 @@
           "eng": 434
         },
         "2026-11-24": {
-          "total": 863,
-          "eng": 436
+          "total": 872,
+          "eng": 437
         }
       },
       "pm": {
@@ -5138,7 +5138,7 @@
           "eng": 4
         },
         "2026-11-24": {
-          "total": 20,
+          "total": 22,
           "eng": 5
         }
       },
@@ -5299,7 +5299,7 @@
           "eng": 28
         },
         "2026-11-24": {
-          "total": 88,
+          "total": 92,
           "eng": 28
         }
       },
@@ -6816,7 +6816,7 @@
           "eng": 3
         },
         "2026-11-24": {
-          "total": 25,
+          "total": 22,
           "eng": 3
         }
       },
@@ -6966,7 +6966,7 @@
         },
         "2026-11-24": {
           "total": 100,
-          "eng": 26
+          "eng": 25
         }
       },
       "pm": {
@@ -7272,7 +7272,7 @@
           "eng": 6
         },
         "2026-11-24": {
-          "total": 37,
+          "total": 35,
           "eng": 6
         }
       },
@@ -7824,7 +7824,7 @@
           "eng": 12
         },
         "2026-11-24": {
-          "total": 45,
+          "total": 44,
           "eng": 12
         }
       },
@@ -8354,7 +8354,7 @@
           "eng": 16
         },
         "2026-11-24": {
-          "total": 55,
+          "total": 56,
           "eng": 18
         }
       },
@@ -8672,7 +8672,7 @@
           "eng": 13
         },
         "2026-11-24": {
-          "total": 31,
+          "total": 29,
           "eng": 12
         }
       },
@@ -9095,7 +9095,7 @@
         },
         "2026-11-24": {
           "total": 100,
-          "eng": 48
+          "eng": 47
         }
       },
       "pm": {
@@ -9997,7 +9997,7 @@
         },
         "2026-11-24": {
           "total": 100,
-          "eng": 87
+          "eng": 86
         }
       },
       "pm": {
@@ -10035,6 +10035,12 @@
           ],
           "lastSeen": "2026-11-22",
           "closedOn": "2026-11-22"
+        },
+        "senior product manager": {
+          "ids": [
+            "oracle-eeho.fa.us2.oraclecloud.com-350877"
+          ],
+          "lastSeen": "2026-11-24"
         }
       }
     },
@@ -10545,7 +10551,7 @@
         },
         "2026-11-24": {
           "total": 100,
-          "eng": 25
+          "eng": 24
         }
       },
       "pm": {
@@ -11347,7 +11353,7 @@
         },
         "2026-11-24": {
           "total": 100,
-          "eng": 20
+          "eng": 19
         }
       },
       "pm": {
@@ -12193,7 +12199,7 @@
           "eng": 3
         },
         "2026-11-24": {
-          "total": 22,
+          "total": 23,
           "eng": 3
         }
       },
@@ -13147,8 +13153,8 @@
           "eng": 33
         },
         "2026-11-24": {
-          "total": 115,
-          "eng": 34
+          "total": 113,
+          "eng": 33
         }
       },
       "pm": {
@@ -13686,7 +13692,7 @@
           "eng": 10
         },
         "2026-11-24": {
-          "total": 28,
+          "total": 27,
           "eng": 10
         }
       },
@@ -14047,7 +14053,7 @@
           "eng": 42
         },
         "2026-11-24": {
-          "total": 85,
+          "total": 83,
           "eng": 44
         }
       },
@@ -14082,7 +14088,8 @@
           "ids": [
             "workday-visa-/job/IN---Bengaluru-India/Technical-Product-Manager_REF087589W"
           ],
-          "lastSeen": "2026-11-24"
+          "lastSeen": "2026-11-24",
+          "closedOn": "2026-11-24"
         }
       }
     },
@@ -14363,7 +14370,8 @@
             "sf-careers.wipro.com-203307",
             "sf-careers.wipro.com-204599"
           ],
-          "lastSeen": "2026-11-24"
+          "lastSeen": "2026-11-24",
+          "closedOn": "2026-11-24"
         },
         "product management consulting": {
           "ids": [
@@ -14557,8 +14565,8 @@
           "eng": 17
         },
         "2026-11-24": {
-          "total": 55,
-          "eng": 18
+          "total": 47,
+          "eng": 14
         }
       },
       "pm": {
@@ -14569,7 +14577,8 @@
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
             "workday-wf-/job/Bengaluru-India/Lead-Digital-Product-Manager_R-577836-1"
           ],
-          "lastSeen": "2026-11-24"
+          "lastSeen": "2026-11-24",
+          "closedOn": "2026-11-24"
         },
         "lead digital product manager ciam": {
           "ids": [
@@ -14818,8 +14827,8 @@
           "eng": 43
         },
         "2026-11-24": {
-          "total": 96,
-          "eng": 49
+          "total": 94,
+          "eng": 48
         }
       },
       "pm": {
@@ -14984,8 +14993,8 @@
           "eng": 48
         },
         "2026-11-24": {
-          "total": 196,
-          "eng": 48
+          "total": 197,
+          "eng": 49
         }
       },
       "pm": {
@@ -15090,6 +15099,12 @@
         "software product management pre sales senior manager health human services software": {
           "ids": [
             "workday-accenture-/job/Seattle-1191-2nd-Avenue-Corp/Software-Product-Management-Pre-Sales-Senior-Manager---Health---Human-Services-Software_R00373473"
+          ],
+          "lastSeen": "2026-11-24"
+        },
+        "ai leadership and executive training product lead": {
+          "ids": [
+            "workday-accenture-/job/New-York-One-Manhattan-West-Corp/AI-Leadership-and-Executive-Training-Product-Lead_R00372535"
           ],
           "lastSeen": "2026-11-24"
         }
@@ -16126,7 +16141,7 @@
           "eng": 554
         },
         "2026-11-24": {
-          "total": 888,
+          "total": 890,
           "eng": 556
         }
       },
@@ -16604,7 +16619,7 @@
           "eng": 50
         },
         "2026-11-24": {
-          "total": 129,
+          "total": 122,
           "eng": 50
         }
       },
@@ -17259,8 +17274,8 @@
           "eng": 27
         },
         "2026-11-24": {
-          "total": 68,
-          "eng": 27
+          "total": 67,
+          "eng": 26
         }
       },
       "pm": {
@@ -18200,8 +18215,8 @@
           "eng": 176
         },
         "2026-11-24": {
-          "total": 419,
-          "eng": 176
+          "total": 417,
+          "eng": 173
         }
       },
       "pm": {
@@ -19101,8 +19116,8 @@
           "eng": 36
         },
         "2026-11-24": {
-          "total": 84,
-          "eng": 36
+          "total": 82,
+          "eng": 37
         }
       },
       "pm": {
@@ -19447,8 +19462,8 @@
           "eng": 49
         },
         "2026-11-24": {
-          "total": 223,
-          "eng": 50
+          "total": 225,
+          "eng": 51
         }
       },
       "pm": {
@@ -19660,8 +19675,8 @@
           "eng": 219
         },
         "2026-11-24": {
-          "total": 743,
-          "eng": 218
+          "total": 734,
+          "eng": 213
         }
       },
       "pm": {
@@ -19965,7 +19980,7 @@
           "eng": 17
         },
         "2026-11-24": {
-          "total": 64,
+          "total": 62,
           "eng": 17
         }
       },
@@ -20400,7 +20415,7 @@
           "eng": 202
         },
         "2026-11-24": {
-          "total": 373,
+          "total": 370,
           "eng": 200
         }
       },
@@ -20446,7 +20461,8 @@
           "ids": [
             "ashby-snowflake-61d48d79-aeb8-45fb-806a-5b6e9f625de7"
           ],
-          "lastSeen": "2026-11-24"
+          "lastSeen": "2026-11-24",
+          "closedOn": "2026-11-24"
         },
         "director product management snowflake transactions": {
           "ids": [
@@ -20800,8 +20816,8 @@
           "eng": 36
         },
         "2026-11-24": {
-          "total": 107,
-          "eng": 36
+          "total": 106,
+          "eng": 35
         }
       },
       "pm": {
@@ -21306,7 +21322,7 @@
           "eng": 18
         },
         "2026-11-24": {
-          "total": 386,
+          "total": 385,
           "eng": 18
         }
       },
@@ -21880,7 +21896,7 @@
           "eng": 134
         },
         "2026-11-24": {
-          "total": 500,
+          "total": 501,
           "eng": 134
         }
       },
@@ -22183,7 +22199,7 @@
           "eng": 16
         },
         "2026-11-24": {
-          "total": 91,
+          "total": 92,
           "eng": 16
         }
       },
@@ -23434,7 +23450,7 @@
           "eng": 1
         },
         "2026-11-24": {
-          "total": 31,
+          "total": 30,
           "eng": 1
         }
       },
@@ -23896,7 +23912,7 @@
         },
         "2026-11-24": {
           "total": 35,
-          "eng": 10
+          "eng": 9
         }
       },
       "pm": {
@@ -24035,7 +24051,7 @@
         },
         "2026-11-24": {
           "total": 100,
-          "eng": 3
+          "eng": 1
         }
       },
       "pm": {
@@ -24056,7 +24072,8 @@
             "smartrecruiters-DeliveryHero-744000163194279",
             "smartrecruiters-DeliveryHero-744000163274814"
           ],
-          "lastSeen": "2026-11-24"
+          "lastSeen": "2026-11-24",
+          "closedOn": "2026-11-24"
         },
         "senior product manager": {
           "ids": [
@@ -24490,8 +24507,8 @@
           "eng": 70
         },
         "2026-11-24": {
-          "total": 238,
-          "eng": 69
+          "total": 242,
+          "eng": 70
         }
       },
       "pm": {
@@ -24879,8 +24896,8 @@
           "eng": 142
         },
         "2026-11-24": {
-          "total": 262,
-          "eng": 143
+          "total": 258,
+          "eng": 141
         }
       },
       "pm": {
@@ -25027,7 +25044,7 @@
         },
         "2026-11-24": {
           "total": 252,
-          "eng": 117
+          "eng": 119
         }
       },
       "pm": {
@@ -25251,7 +25268,7 @@
           "eng": 0
         },
         "2026-11-24": {
-          "total": 6,
+          "total": 5,
           "eng": 0
         }
       },
@@ -25509,7 +25526,7 @@
           "eng": 18
         },
         "2026-11-24": {
-          "total": 44,
+          "total": 45,
           "eng": 18
         }
       },
@@ -25772,7 +25789,7 @@
           "eng": 3
         },
         "2026-11-24": {
-          "total": 23,
+          "total": 22,
           "eng": 3
         }
       },
@@ -26204,7 +26221,7 @@
         },
         "2026-11-24": {
           "total": 100,
-          "eng": 27
+          "eng": 25
         }
       },
       "pm": {
