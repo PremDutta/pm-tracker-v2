@@ -1,6 +1,44 @@
 {
   "signals": [
     {
+      "type": "reopened",
+      "company": "Couchbase",
+      "date": "2026-11-25",
+      "title": "Sr Product Manager",
+      "url": "https://job-boards.greenhouse.io/couchbaseinc/jobs/4730220006",
+      "id": "greenhouse-couchbaseinc-4730220006",
+      "detail": "closed 2026-11-17, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "KPMG India",
+      "date": "2026-11-25",
+      "detail": "12 engineering openings vs a usual 7"
+    },
+    {
+      "type": "funding",
+      "company": "Layoffs At JioStar, AidenAI",
+      "title": "Layoffs At JioStar, AidenAI Nets $32 Mn & More",
+      "url": "https://inc42.com/buzz/layoffs-at-jiostar-aidenai-nets-32-mn-more/",
+      "date": "2026-11-25",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-25",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Target India",
+      "date": "2026-11-25",
+      "title": "Sr. Product Manager",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager_R0000481212",
+      "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager_R0000481212",
+      "detail": "closed 2026-11-23, reposted today"
+    },
+    {
       "type": "funding",
       "company": "AidenAI",
       "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
@@ -461,6 +499,14 @@
       "url": "https://entrackr.com/news/ai-crm-startup-dreamteam-raises-53-mn-from-accel-premji-invest-others-12814853",
       "date": "2026-11-16",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Dreamteam",
+      "title": "Former Freshworks executives-founded AI startup Dreamteam raises $53M",
+      "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding",
+      "date": "2026-11-16",
+      "detail": "via YourStory"
     },
     {
       "type": "funding",
@@ -1625,18 +1671,6 @@
       "url": "https://inc42.com/buzz/exclusive-ai-powered-trading-platform-tradl-bags-4-1-mn-from-nexus-stellaris/",
       "date": "2026-10-26",
       "detail": "via Inc42"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-25",
-      "detail": "115 engineering openings vs a usual 38"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-25",
-      "detail": "65 engineering openings vs a usual 3"
     }
   ]
 }

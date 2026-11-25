@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "greenhouse-couchbaseinc-4730220006",
+      "title": "Sr Product Manager",
+      "company": "Couchbase",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/couchbaseinc/jobs/4730220006",
+      "source": "Greenhouse (Couchbase)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-25"
+    },
+    {
       "id": "vc-lightspeed-c4bb3b2c-7608-4d57-8761-650b4222ac13",
       "title": "Product Manager",
       "company": "Sarvam AI",
@@ -474,17 +485,6 @@
       "firstSeen": "2026-10-26"
     },
     {
-      "id": "greenhouse-simpplr-6220126004",
-      "title": "Associate Product Manager - Product Discovery & Strategy",
-      "company": "Simpplr",
-      "location": "Bengaluru, India; Gurugram, India",
-      "url": "https://job-boards.greenhouse.io/simpplr/jobs/6220126004",
-      "source": "Greenhouse (Simpplr)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-10-19"
-    },
-    {
       "id": "rippling-rippling-1b2bd0fa-cfd3-4774-8c8f-7c00685f3476",
       "title": "Product Lead, Analytics",
       "company": "Rippling",
@@ -571,17 +571,6 @@
       "level": "group",
       "aiMatch": "title",
       "firstSeen": "2026-10-09"
-    },
-    {
-      "id": "greenhouse-onetrust-8192392",
-      "title": "Principal Product Manager, AI Runtime Governance",
-      "company": "OneTrust",
-      "location": "Bengaluru, India",
-      "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192392",
-      "source": "Greenhouse (OneTrust)",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-10-07"
     },
     {
       "id": "vc-accel-64657398",

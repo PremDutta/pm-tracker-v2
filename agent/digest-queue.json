@@ -1,51 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-96781859",
-      "title": "Senior Staff Product Manager",
-      "company": "SentinelOne",
-      "location": "India",
-      "url": "https://boards.greenhouse.io/sentinellabs/jobs/8005415003",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-13"
-    },
-    {
-      "id": "lever-spotify-c5c82f59-504f-47f4-961e-a2d50a248357",
-      "title": "Senior Product Manager, Consumer - Audiobooks",
-      "company": "Spotify",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/c5c82f59-504f-47f4-961e-a2d50a248357",
-      "source": "Lever (Spotify)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "amazon-10577088",
-      "title": "Sr Product Manager Tech",
-      "company": "Amazon",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10577088/sr-product-manager-tech",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "vc-accel-96819814",
-      "title": "Lead Product Manager",
-      "company": "Simility, a Paypal Service",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://paypal.eightfold.ai/careers/job/274922819061",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "vc-accel-96819815",
-      "title": "Sr Product Manager",
-      "company": "Simility, a Paypal Service",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://paypal.eightfold.ai/careers/job/274922819192",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-14"
-    },
-    {
       "id": "vc-accel-96819816",
       "title": "Sr Product Manager",
       "company": "Simility, a Paypal Service",
@@ -3621,42 +3576,54 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350877",
       "source": "Oracle careers",
       "queuedOn": "2026-11-25"
+    },
+    {
+      "id": "amazon-10611660",
+      "title": "Sr. Product Manager-Tech, Amazon Supply Chain Services",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10611660/sr-product-manager-tech-amazon-supply-chain-services",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-25"
+    },
+    {
+      "id": "greenhouse-couchbaseinc-4730220006",
+      "title": "Sr Product Manager",
+      "company": "Couchbase",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/couchbaseinc/jobs/4730220006",
+      "source": "Greenhouse (Couchbase)",
+      "queuedOn": "2026-11-25"
+    },
+    {
+      "id": "smartrecruiters-freshworks-744000163610179",
+      "title": "Senior Staff Product Manager",
+      "company": "Freshworks",
+      "location": "Chennai, , India",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000163610179",
+      "source": "SmartRecruiters (Freshworks)",
+      "queuedOn": "2026-11-25"
+    },
+    {
+      "id": "lever-nium-1b8a2c56-d819-4fd9-8058-d0ecdce4fa12",
+      "title": "Sr Product Manager - Payments Platform",
+      "company": "Nium",
+      "location": "Bangalore",
+      "url": "https://jobs.lever.co/nium/1b8a2c56-d819-4fd9-8058-d0ecdce4fa12",
+      "source": "Lever (Nium)",
+      "queuedOn": "2026-11-25"
+    },
+    {
+      "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager_R0000481212",
+      "title": "Sr. Product Manager",
+      "company": "Target India",
+      "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager_R0000481212",
+      "source": "Workday (Target India)",
+      "queuedOn": "2026-11-25"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-28",
-      "title": "Director, Product Management - Security and Risk Partnerships",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158162749",
-      "id": "smartrecruiters-ServiceNow-744000158162749",
-      "detail": "closed 2026-10-21, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "Swiggy",
-      "date": "2026-10-28",
-      "title": "Director - Product Management",
-      "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001530123",
-      "id": "smartrecruiters-swiggy-6000000001530123",
-      "detail": "closed 2026-10-23, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "Target India",
-      "date": "2026-10-28",
-      "title": "Director Product Management - Enterprise Data Strategy",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
-      "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
-      "detail": "closed 2026-10-27, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Netradyne",
-      "date": "2026-10-28",
-      "detail": "21 engineering openings vs a usual 13"
-    },
     {
       "type": "eng_spike",
       "company": "Netradyne",
@@ -4370,6 +4337,36 @@
       "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/SVP--Wealth-Lending-Product-Manager---Private-Banking--Consumer-Banking-Group_WD90692",
       "id": "workday-dbs-/job/Singapore---Central/SVP--Wealth-Lending-Product-Manager---Private-Banking--Consumer-Banking-Group_WD90692",
       "detail": "closed 2026-11-17, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Couchbase",
+      "date": "2026-11-25",
+      "title": "Sr Product Manager",
+      "url": "https://job-boards.greenhouse.io/couchbaseinc/jobs/4730220006",
+      "id": "greenhouse-couchbaseinc-4730220006",
+      "detail": "closed 2026-11-17, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "KPMG India",
+      "date": "2026-11-25",
+      "detail": "12 engineering openings vs a usual 7"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-25",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "reopened",
+      "company": "Target India",
+      "date": "2026-11-25",
+      "title": "Sr. Product Manager",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager_R0000481212",
+      "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager_R0000481212",
+      "detail": "closed 2026-11-23, reposted today"
     }
   ],
   "reminders": {}
