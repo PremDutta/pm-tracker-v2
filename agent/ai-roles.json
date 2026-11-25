@@ -12,6 +12,17 @@
       "firstSeen": "2026-11-25"
     },
     {
+      "id": "vc-accel-100701254",
+      "title": "Sr Product Manager",
+      "company": "Couchbase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/couchbaseinc/jobs/4730220006",
+      "source": "VC board (Accel portfolio)",
+      "level": "senior",
+      "aiMatch": "company",
+      "firstSeen": "2026-11-25"
+    },
+    {
       "id": "vc-lightspeed-c4bb3b2c-7608-4d57-8761-650b4222ac13",
       "title": "Product Manager",
       "company": "Sarvam AI",
@@ -144,39 +155,6 @@
       "firstSeen": "2026-11-21"
     },
     {
-      "id": "greenhouse-inmobi-8358144",
-      "title": "Senior Product Manager - Core Product Experience",
-      "company": "InMobi",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358144",
-      "source": "Greenhouse (InMobi)",
-      "level": "senior",
-      "aiMatch": "company",
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "greenhouse-inmobi-8358188",
-      "title": "Senior Product Manager - Monetisation & Payments ",
-      "company": "InMobi",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358188",
-      "source": "Greenhouse (InMobi)",
-      "level": "senior",
-      "aiMatch": "company",
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "greenhouse-inmobi-8358196",
-      "title": "Senior Product Manager - Onboarding & Activation",
-      "company": "InMobi",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358196",
-      "source": "Greenhouse (InMobi)",
-      "level": "senior",
-      "aiMatch": "company",
-      "firstSeen": "2026-11-19"
-    },
-    {
       "id": "ashby-sarvam-c4bb3b2c-7608-4d57-8761-650b4222ac13",
       "title": "Product Manager",
       "company": "Sarvam AI",
@@ -216,17 +194,6 @@
       "location": "Bangalore, India",
       "url": "https://jobs.lever.co/hevodata/c665b22f-6336-4ec2-88d8-4165f51d5396",
       "source": "Lever (Hevo Data)",
-      "level": "pm",
-      "aiMatch": "company",
-      "firstSeen": "2026-11-17"
-    },
-    {
-      "id": "greenhouse-inmobi-8349134",
-      "title": "Product Manager",
-      "company": "InMobi",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8349134",
-      "source": "Greenhouse (InMobi)",
       "level": "pm",
       "aiMatch": "company",
       "firstSeen": "2026-11-17"

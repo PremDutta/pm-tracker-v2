@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-25T07:19:00.458Z",
+  "scannedAt": "2026-11-25T11:33:14.308Z",
   "roles": {
     "Amazon": [
       {
@@ -49,6 +49,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10441689/product-manager-inventory-health-product-amazon-now",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10611189",
+        "title": "Product Manager II - SmartHub, Amazon Smart Commerce",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10611189/product-manager-ii-smarthub-amazon-smart-commerce",
+        "level": "pm",
+        "firstSeen": "2026-11-25"
       },
       {
         "id": "amazon-10561409",
@@ -195,20 +203,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10576706",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-11-16"
-      },
-      {
         "id": "amazon-10499561",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10576706",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-11-16"
       },
       {
         "id": "amazon-10498328",
@@ -591,18 +599,18 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158038",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158025-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158038",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158038-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -667,40 +675,6 @@
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Principal-Product-Manager--Networking-Services_1215298-2",
         "level": "group",
         "firstSeen": "2026-11-18"
-      }
-    ],
-    "InMobi": [
-      {
-        "id": "greenhouse-inmobi-8349134",
-        "title": "Product Manager",
-        "location": "Bangalore",
-        "url": "https://job-boards.greenhouse.io/inmobi/jobs/8349134",
-        "level": "pm",
-        "firstSeen": "2026-11-17"
-      },
-      {
-        "id": "greenhouse-inmobi-8358144",
-        "title": "Senior Product Manager - Core Product Experience",
-        "location": "Bangalore",
-        "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358144",
-        "level": "senior",
-        "firstSeen": "2026-11-19"
-      },
-      {
-        "id": "greenhouse-inmobi-8358188",
-        "title": "Senior Product Manager - Monetisation & Payments ",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358188",
-        "level": "senior",
-        "firstSeen": "2026-11-19"
-      },
-      {
-        "id": "greenhouse-inmobi-8358196",
-        "title": "Senior Product Manager - Onboarding & Activation",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/inmobi/jobs/8358196",
-        "level": "senior",
-        "firstSeen": "2026-11-19"
       }
     ],
     "Innovaccer": [
@@ -1085,12 +1059,12 @@
         "firstSeen": "2026-11-25"
       },
       {
-        "id": "lever-nium-f37f91b1-9894-4516-a84d-9dc9cb22ec1e",
+        "id": "lever-nium-5ad487ff-a571-46b6-b23f-b6bd23386211",
         "title": "Staff Product Manager  – Digital Assets",
         "location": "Bangalore",
-        "url": "https://jobs.lever.co/nium/f37f91b1-9894-4516-a84d-9dc9cb22ec1e",
+        "url": "https://jobs.lever.co/nium/5ad487ff-a571-46b6-b23f-b6bd23386211",
         "level": "group",
-        "firstSeen": "2026-10-21"
+        "firstSeen": "2026-11-25"
       }
     ],
     "Noise": [
@@ -1271,14 +1245,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "lever-paytm-d08cc291-90b4-47bb-8300-59cc2011b662",
-        "title": "Product Management - Senior Product Manager / PM-2 – Risk Product",
-        "location": "Bangalore, Karnataka",
-        "url": "https://jobs.lever.co/paytm/d08cc291-90b4-47bb-8300-59cc2011b662",
-        "level": "senior",
-        "firstSeen": "2026-11-20"
-      },
-      {
         "id": "lever-paytm-4ee74e43-4001-457f-9ad8-f574689991d5",
         "title": "Product Management - UPI Product | Experience : 3-5 yrs",
         "location": "Noida, Uttar Pradesh",
@@ -1301,6 +1267,14 @@
         "url": "https://jobs.lever.co/paytm/fec8e98b-d09b-4edb-b5a9-fe04aa079a3c",
         "level": "pm",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "lever-paytm-d08cc291-90b4-47bb-8300-59cc2011b662",
+        "title": "Product Management – Risk Product",
+        "location": "Bangalore, Karnataka",
+        "url": "https://jobs.lever.co/paytm/d08cc291-90b4-47bb-8300-59cc2011b662",
+        "level": "pm",
+        "firstSeen": "2026-11-20"
       }
     ],
     "PhonePe": [
@@ -1487,16 +1461,6 @@
         "firstSeen": "2026-10-05"
       }
     ],
-    "Swiggy": [
-      {
-        "id": "smartrecruiters-swiggy-6000000001553145",
-        "title": "Principal Product Manager ",
-        "location": "Bengaluru, KA, India",
-        "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001553145",
-        "level": "group",
-        "firstSeen": "2026-11-05"
-      }
-    ],
     "Target India": [
       {
         "id": "workday-target-/job/BangaloreIndia/Principal-Product-Manager_R0000442213",
@@ -1593,6 +1557,14 @@
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-535136",
         "level": "pm",
         "firstSeen": "2026-11-23"
+      },
+      {
+        "id": "workday-wf-/job/Bengaluru-India/Senior-Lead-Digital-Product-Manager---Access---Entitlements-Platform_R-577570-1",
+        "title": "Senior Lead Digital Product Manager – Access & Entitlements Platform",
+        "location": "Bengaluru, India",
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Lead-Digital-Product-Manager---Access---Entitlements-Platform_R-577570-1",
+        "level": "group",
+        "firstSeen": "2026-11-25"
       }
     ],
     "Wing Assistant (M32 AI)": [

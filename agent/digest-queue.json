@@ -1,42 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-96819816",
-      "title": "Sr Product Manager",
-      "company": "Simility, a Paypal Service",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://paypal.eightfold.ai/careers/job/274922819195",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "vc-accel-96817953",
-      "title": "Product Manager -II",
-      "company": "Swiftkey",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "greenhouse-figma-6221563004",
-      "title": "Director, Product Communications",
-      "company": "Figma",
-      "location": "San Francisco, CA • New York, NY • United States",
-      "url": "https://boards.greenhouse.io/figma/jobs/6221563004?gh_jid=6221563004",
-      "source": "Greenhouse (Figma)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "amazon-10449781",
-      "title": "Sr. Product Manager, MFN RCX",
-      "company": "Amazon",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10449781/sr-product-manager-mfn-rcx",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-14"
-    },
-    {
       "id": "govt-bharat-digital-job-board-cmv7k602j00821w2wkxe45hip",
       "title": "Product Operations Associate",
       "company": "Noora Health",
@@ -3621,15 +3585,45 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager_R0000481212",
       "source": "Workday (Target India)",
       "queuedOn": "2026-11-25"
+    },
+    {
+      "id": "amazon-10611189",
+      "title": "Product Manager II - SmartHub, Amazon Smart Commerce",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10611189/product-manager-ii-smarthub-amazon-smart-commerce",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-25"
+    },
+    {
+      "id": "lever-nium-5ad487ff-a571-46b6-b23f-b6bd23386211",
+      "title": "Staff Product Manager  – Digital Assets",
+      "company": "Nium",
+      "location": "Bangalore",
+      "url": "https://jobs.lever.co/nium/5ad487ff-a571-46b6-b23f-b6bd23386211",
+      "source": "Lever (Nium)",
+      "queuedOn": "2026-11-25"
+    },
+    {
+      "id": "vc-accel-100701254",
+      "title": "Sr Product Manager",
+      "company": "Couchbase",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/couchbaseinc/jobs/4730220006",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-25"
+    },
+    {
+      "id": "vc-peakxv-744000163610179",
+      "title": "Senior Staff Product Manager",
+      "company": "Freshworks",
+      "location": "Chennai, IN",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000163610179-senior-staff-product-manager",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-25"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Netradyne",
-      "date": "2026-10-29",
-      "detail": "21 engineering openings vs a usual 13"
-    },
     {
       "type": "eng_spike",
       "company": "Oracle",
@@ -4367,6 +4361,15 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager_R0000481212",
       "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager_R0000481212",
       "detail": "closed 2026-11-23, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Wise",
+      "date": "2026-11-25",
+      "title": "Senior Product Manager – Payment integrations",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000163654279",
+      "id": "smartrecruiters-wise-744000163654279",
+      "detail": "closed 2026-11-24, reposted today"
     }
   ],
   "reminders": {}
