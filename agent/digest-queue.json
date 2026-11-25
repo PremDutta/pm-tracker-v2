@@ -1,64 +1,6 @@
 {
   "jobs": [
     {
-      "id": "govt-bharat-digital-job-board-cmv7k602j00821w2wkxe45hip",
-      "title": "Product Operations Associate",
-      "company": "Noora Health",
-      "location": "Bangalore",
-      "url": "https://noorahealth.bamboohr.com/careers/171",
-      "source": "🏛️ Govt (Bharat Digital job board)",
-      "deadline": "2026-11-28",
-      "flags": [],
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "amazon-10578264",
-      "title": "Sr. Product Manager, RoW ATS Tech",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10578264/sr-product-manager-row-ats-tech",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "amazon-10578249",
-      "title": "Product Manager III, Amazon Business India",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10578249/product-manager-iii-amazon-business-india",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "amazon-10578219",
-      "title": "Principal Product Manager- Technical, Amazon Finance Technology",
-      "company": "Amazon",
-      "location": "Gurugram, Haryana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10578219/principal-product-manager-technical-amazon-finance-technology",
-      "source": "Amazon careers",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "workday-target-/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
-      "title": "Principal Product Manager",
-      "company": "Target India",
-      "location": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
-      "source": "Workday (Target India)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "govt-notice-378c72badc5dc210",
-      "title": "Product Manager (AI) Delhi",
-      "company": "National e-Governance Division",
-      "location": "",
-      "url": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/10/Product-Manager-JD-AI.pdf",
-      "source": "🏛️ Govt (NeGD careers page)",
-      "deadline": null,
-      "flags": [],
-      "queuedOn": "2026-10-14"
-    },
-    {
       "id": "vc-peakxv-744000155296796",
       "title": "Senior Product Manager",
       "company": "ixigo",
@@ -3621,15 +3563,63 @@
       "url": "https://jobs.smartrecruiters.com/Freshworks/744000163610179-senior-staff-product-manager",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-11-25"
+    },
+    {
+      "id": "amazon-10613910",
+      "title": "Product Manager III, Returns with Amazon",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10613910/product-manager-iii-returns-with-amazon",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-26"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4750360005",
+      "title": "Product Manager II - AI ",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
+      "source": "Greenhouse (Razorpay)",
+      "queuedOn": "2026-11-26"
+    },
+    {
+      "id": "vc-accel-100756502",
+      "title": "Senior Staff Product Manager",
+      "company": "Freshworks",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://jobs.smartrecruiters.com/Freshworks/744000163610179",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-26"
+    },
+    {
+      "id": "vc-accel-100223448",
+      "title": "Implementation - Tech Product managers",
+      "company": "RapidClaims",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://ams.screenit.io/35a4b21f-7af0-4f47-bb48-d3dd47a49f86/apply/ac56999a-ceeb-4e4c-b244-11137b66064a",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-26"
+    },
+    {
+      "id": "vc-accel-100223443",
+      "title": "Solutions - Tech Product managers",
+      "company": "RapidClaims",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://ams.screenit.io/35a4b21f-7af0-4f47-bb48-d3dd47a49f86/apply/5579558d-397a-43de-8785-6147d9fb3a32",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-26"
+    },
+    {
+      "id": "vc-peakxv-4750360005",
+      "title": "Product Manager II - AI",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-26"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-29",
-      "detail": "83 engineering openings vs a usual 3"
-    },
     {
       "type": "reopened",
       "company": "ServiceNow",
@@ -4370,6 +4360,15 @@
       "url": "https://jobs.smartrecruiters.com/Wise/744000163654279",
       "id": "smartrecruiters-wise-744000163654279",
       "detail": "closed 2026-11-24, reposted today"
+    },
+    {
+      "type": "reopened",
+      "company": "Razorpay",
+      "date": "2026-11-25",
+      "title": "Product Manager II - AI ",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4750360005",
+      "detail": "closed 2026-10-06, reposted today"
     }
   ],
   "reminders": {}

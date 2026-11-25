@@ -23,6 +23,28 @@
       "firstSeen": "2026-11-25"
     },
     {
+      "id": "vc-peakxv-4750360005",
+      "title": "Product Manager II - AI",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
+      "source": "VC board (Peak XV portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-25"
+    },
+    {
+      "id": "greenhouse-razorpaysoftwareprivatelimited-4750360005",
+      "title": "Product Manager II - AI ",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
+      "source": "Greenhouse (Razorpay)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-25"
+    },
+    {
       "id": "vc-lightspeed-c4bb3b2c-7608-4d57-8761-650b4222ac13",
       "title": "Product Manager",
       "company": "Sarvam AI",

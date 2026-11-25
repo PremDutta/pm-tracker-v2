@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-25T11:33:14.308Z",
+  "scannedAt": "2026-11-25T21:10:49.163Z",
   "roles": {
     "Amazon": [
       {
@@ -55,6 +55,14 @@
         "title": "Product Manager II - SmartHub, Amazon Smart Commerce",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10611189/product-manager-ii-smarthub-amazon-smart-commerce",
+        "level": "pm",
+        "firstSeen": "2026-11-25"
+      },
+      {
+        "id": "amazon-10613910",
+        "title": "Product Manager III, Returns with Amazon",
+        "location": "Hyderabad, Telangana, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10613910/product-manager-iii-returns-with-amazon",
         "level": "pm",
         "firstSeen": "2026-11-25"
       },
@@ -203,20 +211,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10499561",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10576706",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-11-16"
+      },
+      {
+        "id": "amazon-10499561",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10498328",
@@ -1353,6 +1361,14 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
         "level": "pm",
         "firstSeen": "2026-10-29"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4750360005",
+        "title": "Product Manager II - AI ",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
+        "level": "pm",
+        "firstSeen": "2026-11-25"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4749341005",
