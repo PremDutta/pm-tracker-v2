@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-26T07:07:10.559Z",
+  "scannedAt": "2026-11-26T11:16:01.207Z",
   "roles": {
     "Amazon": [
       {
@@ -1487,6 +1487,14 @@
     ],
     "Target India": [
       {
+        "id": "workday-target-/job/BangaloreIndia/Product-Manager---Organic-Social_R0000481753",
+        "title": "Product Manager - Organic Social",
+        "location": "Bangalore,India",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager---Organic-Social_R0000481753",
+        "level": "pm",
+        "firstSeen": "2026-11-26"
+      },
+      {
         "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager_R0000481212",
         "title": "Sr. Product Manager",
         "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
@@ -1547,14 +1555,6 @@
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Product-Manager_REF090037W-1",
         "level": "senior",
         "firstSeen": "2026-11-18"
-      },
-      {
-        "id": "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF090064W-1",
-        "title": "Sr Product Manager",
-        "location": "IN - Bengaluru, India",
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Product-Manager_REF090064W-1",
-        "level": "senior",
-        "firstSeen": "2026-11-14"
       },
       {
         "id": "workday-visa-/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W",

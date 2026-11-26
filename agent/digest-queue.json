@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-accel-96868972",
-      "title": "Principal Product Manager, AI Security",
-      "company": "Netskope",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://boards.greenhouse.io/netskope/jobs/8260826",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-14"
-    },
-    {
       "id": "lever-meesho-102d5a7e-0292-4ddc-8ebc-ba191119349e",
       "title": "Senior Product Manager : F&E",
       "company": "Meesho",
@@ -3616,6 +3607,15 @@
       "location": "Bengaluru",
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
       "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-11-26"
+    },
+    {
+      "id": "workday-target-/job/BangaloreIndia/Product-Manager---Organic-Social_R0000481753",
+      "title": "Product Manager - Organic Social",
+      "company": "Target India",
+      "location": "Bangalore,India",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager---Organic-Social_R0000481753",
+      "source": "Workday (Target India)",
       "queuedOn": "2026-11-26"
     }
   ],
