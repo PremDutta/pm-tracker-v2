@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-26T11:16:01.207Z",
+  "scannedAt": "2026-11-26T21:00:19.741Z",
   "roles": {
     "Amazon": [
       {
@@ -211,20 +211,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10576706",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-11-16"
-      },
-      {
         "id": "amazon-10499561",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10576706",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-11-16"
       },
       {
         "id": "amazon-10498328",
@@ -257,6 +257,14 @@
         "url": "https://www.amazon.jobs/en/jobs/10601871/senior-product-manager-technical-amazon-business-analytics",
         "level": "senior",
         "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "amazon-10613721",
+        "title": "Senior Product Manager, Technical, Paragon platform",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10613721/senior-product-manager-technical-paragon-platform",
+        "level": "senior",
+        "firstSeen": "2026-11-26"
       },
       {
         "id": "amazon-10577088",
@@ -403,20 +411,20 @@
         "firstSeen": "2026-11-12"
       },
       {
-        "id": "amazon-10588360",
-        "title": "Sr. Product Manager, Progression Intelligence",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10588360/sr-product-manager-progression-intelligence",
-        "level": "senior",
-        "firstSeen": "2026-10-26"
-      },
-      {
         "id": "amazon-10458117",
         "title": "Sr. Product Manager, Returns, Worldwide Returns and Recommerce",
         "location": "Hyderabad, Telangana, IND",
         "url": "https://www.amazon.jobs/en/jobs/10458117/sr-product-manager-returns-worldwide-returns-and-recommerce",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10609572",
+        "title": "Sr. Product Manager, WW MFN CSBA",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10609572/sr-product-manager-ww-mfn-csba",
+        "level": "senior",
+        "firstSeen": "2026-11-26"
       },
       {
         "id": "amazon-10566206",
@@ -575,14 +583,6 @@
         "firstSeen": "2026-11-23"
       },
       {
-        "id": "sf-careers.hcltech.com-178491",
-        "title": "Product Manager/ Product Lead",
-        "location": "Pune",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/178491-en_US/",
-        "level": "group",
-        "firstSeen": "2026-10-15"
-      },
-      {
         "id": "sf-careers.hcltech.com-162176",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -607,6 +607,14 @@
         "firstSeen": "2026-09-30"
       },
       {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -619,14 +627,6 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },
@@ -825,6 +825,14 @@
         "url": "https://jobs.lever.co/meesho/d7924eb1-301e-4098-ab7b-f3a4c92c210a",
         "level": "group",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "lever-meesho-bb950ba6-dd50-4caf-9c52-00d5168a59a5",
+        "title": "Kirana Club : Product Manager II - Commerce",
+        "location": "Bangalore, Karnataka",
+        "url": "https://jobs.lever.co/meesho/bb950ba6-dd50-4caf-9c52-00d5168a59a5",
+        "level": "pm",
+        "firstSeen": "2026-11-26"
       },
       {
         "id": "lever-meesho-1c0052a9-6664-4602-9aad-0e250d9c0980",
@@ -1129,17 +1137,17 @@
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340054",
         "level": "group",
         "firstSeen": "2026-11-10"
-      },
-      {
-        "id": "oracle-eeho.fa.us2.oraclecloud.com-347873",
-        "title": "Senior Product Manager- SCM/Ecommerce",
-        "location": "HYDERABAD, TELANGANA, India",
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347873",
-        "level": "senior",
-        "firstSeen": "2026-10-22"
       }
     ],
     "Paytm": [
+      {
+        "id": "lever-paytm-0df36bd7-bf94-4ab3-9457-2f937604066d",
+        "title": "Growth & Product Manager - CVM",
+        "location": "Noida, Uttar Pradesh",
+        "url": "https://jobs.lever.co/paytm/0df36bd7-bf94-4ab3-9457-2f937604066d",
+        "level": "pm",
+        "firstSeen": "2026-11-26"
+      },
       {
         "id": "lever-paytm-6cee2f1c-6cae-4e46-9533-d62283f56734",
         "title": "Product Management - Ads Product | Experience : 3-8 yrs",
@@ -1283,6 +1291,14 @@
         "url": "https://jobs.lever.co/paytm/d08cc291-90b4-47bb-8300-59cc2011b662",
         "level": "pm",
         "firstSeen": "2026-11-20"
+      },
+      {
+        "id": "lever-paytm-7deb675f-0250-41df-9bea-033c22c6c54a",
+        "title": "Product Management- International Expansion.",
+        "location": "Noida, Uttar Pradesh",
+        "url": "https://jobs.lever.co/paytm/7deb675f-0250-41df-9bea-033c22c6c54a",
+        "level": "pm",
+        "firstSeen": "2026-11-26"
       }
     ],
     "PhonePe": [
@@ -1347,20 +1363,20 @@
     ],
     "Razorpay": [
       {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4715389005",
-        "title": "Product Manager II",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
-        "level": "pm",
-        "firstSeen": "2026-11-26"
-      },
-      {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4751768005",
         "title": "Product Manager II",
         "location": "Bengaluru",
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
         "level": "pm",
         "firstSeen": "2026-11-10"
+      },
+      {
+        "id": "greenhouse-razorpaysoftwareprivatelimited-4715389005",
+        "title": "Product Manager II",
+        "location": "Bengaluru",
+        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
+        "level": "pm",
+        "firstSeen": "2026-11-26"
       },
       {
         "id": "greenhouse-razorpaysoftwareprivatelimited-4729533005",
@@ -1385,14 +1401,6 @@
         "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
         "level": "senior",
         "firstSeen": "2026-11-10"
-      },
-      {
-        "id": "greenhouse-razorpaysoftwareprivatelimited-4727236005",
-        "title": "Staff Product Manager",
-        "location": "Bengaluru",
-        "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4727236005",
-        "level": "group",
-        "firstSeen": "2026-11-04"
       }
     ],
     "Rippling": [
@@ -1563,16 +1571,6 @@
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W",
         "level": "senior",
         "firstSeen": "2026-10-09"
-      }
-    ],
-    "Wells Fargo": [
-      {
-        "id": "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-535136",
-        "title": "Digital Product Manager",
-        "location": "Hyderabad, India",
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-535136",
-        "level": "pm",
-        "firstSeen": "2026-11-23"
       }
     ],
     "Wing Assistant (M32 AI)": [

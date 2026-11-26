@@ -123,8 +123,8 @@
           "eng": 43
         },
         "2026-11-26": {
-          "total": 110,
-          "eng": 43
+          "total": 107,
+          "eng": 41
         }
       },
       "pm": {
@@ -953,7 +953,7 @@
           "eng": 40
         },
         "2026-11-26": {
-          "total": 122,
+          "total": 123,
           "eng": 40
         }
       },
@@ -2200,7 +2200,7 @@
           "eng": 33
         },
         "2026-11-26": {
-          "total": 111,
+          "total": 114,
           "eng": 32
         }
       },
@@ -3404,7 +3404,7 @@
           "eng": 0
         },
         "2026-11-26": {
-          "total": 8,
+          "total": 9,
           "eng": 0
         }
       },
@@ -4082,7 +4082,7 @@
           "eng": 5
         },
         "2026-11-26": {
-          "total": 49,
+          "total": 60,
           "eng": 5
         }
       },
@@ -4165,6 +4165,12 @@
         "product manager ii dau labs": {
           "ids": [
             "lever-meesho-ee1aa9f3-e5a1-4488-93fb-963127eebe0c"
+          ],
+          "lastSeen": "2026-11-26"
+        },
+        "kirana club product manager ii commerce": {
+          "ids": [
+            "lever-meesho-bb950ba6-dd50-4caf-9c52-00d5168a59a5"
           ],
           "lastSeen": "2026-11-26"
         }
@@ -5140,7 +5146,7 @@
           "eng": 6
         },
         "2026-11-26": {
-          "total": 22,
+          "total": 20,
           "eng": 6
         }
       },
@@ -6092,7 +6098,7 @@
           "eng": 4
         },
         "2026-11-26": {
-          "total": 73,
+          "total": 72,
           "eng": 4
         }
       },
@@ -6167,7 +6173,8 @@
             "amazon-3193772",
             "amazon-10588360"
           ],
-          "lastSeen": "2026-11-26"
+          "lastSeen": "2026-11-26",
+          "closedOn": "2026-11-26"
         },
         "sr product manager abuse prevention": {
           "ids": [
@@ -6709,6 +6716,18 @@
             "amazon-10613910"
           ],
           "lastSeen": "2026-11-26"
+        },
+        "senior product manager technical paragon platform": {
+          "ids": [
+            "amazon-10613721"
+          ],
+          "lastSeen": "2026-11-26"
+        },
+        "sr product manager ww mfn csba": {
+          "ids": [
+            "amazon-10609572"
+          ],
+          "lastSeen": "2026-11-26"
         }
       }
     },
@@ -6985,7 +7004,7 @@
         },
         "2026-11-26": {
           "total": 100,
-          "eng": 26
+          "eng": 27
         }
       },
       "pm": {
@@ -7426,7 +7445,7 @@
           "eng": 10
         },
         "2026-11-26": {
-          "total": 62,
+          "total": 64,
           "eng": 10
         }
       },
@@ -7617,7 +7636,7 @@
           "eng": 23
         },
         "2026-11-26": {
-          "total": 95,
+          "total": 94,
           "eng": 23
         }
       },
@@ -8104,7 +8123,7 @@
           "eng": 2
         },
         "2026-11-26": {
-          "total": 13,
+          "total": 11,
           "eng": 2
         }
       },
@@ -8550,7 +8569,8 @@
         "product manager product lead": {
           "ids": [
             "sf-careers.hcltech.com-172343",
-            "sf-careers.hcltech.com-178491"
+            "sf-careers.hcltech.com-178491",
+            "sf-careers.hcltech.com-162176"
           ],
           "lastSeen": "2026-11-26"
         },
@@ -9126,7 +9146,7 @@
         },
         "2026-11-26": {
           "total": 100,
-          "eng": 37
+          "eng": 40
         }
       },
       "pm": {
@@ -9597,7 +9617,7 @@
         },
         "2026-11-26": {
           "total": 100,
-          "eng": 12,
+          "eng": 11,
           "spike": true
         }
       },
@@ -9869,7 +9889,7 @@
           "eng": 4
         },
         "2026-11-26": {
-          "total": 12,
+          "total": 11,
           "eng": 4
         }
       },
@@ -10028,7 +10048,7 @@
         },
         "2026-11-26": {
           "total": 100,
-          "eng": 84
+          "eng": 82
         }
       },
       "pm": {
@@ -10044,7 +10064,8 @@
           "ids": [
             "oracle-eeho.fa.us2.oraclecloud.com-347873"
           ],
-          "lastSeen": "2026-11-26"
+          "lastSeen": "2026-11-26",
+          "closedOn": "2026-11-26"
         },
         "principal product manager": {
           "ids": [
@@ -10335,7 +10356,7 @@
           "eng": 7
         },
         "2026-11-26": {
-          "total": 193,
+          "total": 197,
           "eng": 7
         }
       },
@@ -10461,6 +10482,18 @@
         "product management risk product": {
           "ids": [
             "lever-paytm-d08cc291-90b4-47bb-8300-59cc2011b662"
+          ],
+          "lastSeen": "2026-11-26"
+        },
+        "growth product manager cvm": {
+          "ids": [
+            "lever-paytm-0df36bd7-bf94-4ab3-9457-2f937604066d"
+          ],
+          "lastSeen": "2026-11-26"
+        },
+        "product management international expansion": {
+          "ids": [
+            "lever-paytm-7deb675f-0250-41df-9bea-033c22c6c54a"
           ],
           "lastSeen": "2026-11-26"
         }
@@ -10779,7 +10812,7 @@
           "eng": 3
         },
         "2026-11-26": {
-          "total": 26,
+          "total": 25,
           "eng": 4
         }
       },
@@ -10819,7 +10852,8 @@
           "ids": [
             "greenhouse-razorpaysoftwareprivatelimited-4727236005"
           ],
-          "lastSeen": "2026-11-26"
+          "lastSeen": "2026-11-26",
+          "closedOn": "2026-11-26"
         }
       }
     },
@@ -11212,8 +11246,8 @@
           "eng": 19
         },
         "2026-11-26": {
-          "total": 39,
-          "eng": 19
+          "total": 38,
+          "eng": 18
         }
       },
       "pm": {
@@ -11935,7 +11969,7 @@
           "eng": 48
         },
         "2026-11-26": {
-          "total": 77,
+          "total": 76,
           "eng": 49
         }
       },
@@ -12368,8 +12402,8 @@
           "eng": 73
         },
         "2026-11-26": {
-          "total": 94,
-          "eng": 76
+          "total": 96,
+          "eng": 78
         }
       },
       "pm": {}
@@ -13196,8 +13230,8 @@
           "eng": 33
         },
         "2026-11-26": {
-          "total": 115,
-          "eng": 33
+          "total": 113,
+          "eng": 32
         }
       },
       "pm": {
@@ -13388,7 +13422,7 @@
           "eng": 1
         },
         "2026-11-26": {
-          "total": 20,
+          "total": 18,
           "eng": 1
         }
       },
@@ -13583,7 +13617,7 @@
           "eng": 6
         },
         "2026-11-26": {
-          "total": 50,
+          "total": 49,
           "eng": 5
         }
       },
@@ -14104,7 +14138,7 @@
         },
         "2026-11-26": {
           "total": 83,
-          "eng": 46
+          "eng": 47
         }
       },
       "pm": {
@@ -14615,7 +14649,7 @@
           "eng": 14
         },
         "2026-11-26": {
-          "total": 61,
+          "total": 49,
           "eng": 17
         }
       },
@@ -14714,7 +14748,8 @@
             "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-581574",
             "workday-wf-/job/Hyderabad-India/Digital-Product-Manager_R-535136"
           ],
-          "lastSeen": "2026-11-26"
+          "lastSeen": "2026-11-26",
+          "closedOn": "2026-11-26"
         },
         "lead business execution consultant product owner ai agentic": {
           "ids": [
@@ -14877,8 +14912,8 @@
           "eng": 44
         },
         "2026-11-26": {
-          "total": 91,
-          "eng": 45
+          "total": 92,
+          "eng": 46
         }
       },
       "pm": {
@@ -15041,8 +15076,8 @@
           "eng": 48
         },
         "2026-11-26": {
-          "total": 200,
-          "eng": 51
+          "total": 193,
+          "eng": 50
         }
       },
       "pm": {
@@ -15281,7 +15316,7 @@
           "eng": 45
         },
         "2026-11-26": {
-          "total": 66,
+          "total": 65,
           "eng": 41
         }
       },
@@ -16189,7 +16224,7 @@
           "eng": 541
         },
         "2026-11-26": {
-          "total": 878,
+          "total": 882,
           "eng": 546
         }
       },
@@ -18264,7 +18299,7 @@
           "eng": 175
         },
         "2026-11-26": {
-          "total": 422,
+          "total": 421,
           "eng": 176
         }
       },
@@ -19165,7 +19200,7 @@
           "eng": 34
         },
         "2026-11-26": {
-          "total": 81,
+          "total": 82,
           "eng": 39
         }
       },
@@ -19330,7 +19365,7 @@
         },
         "2026-11-26": {
           "total": 200,
-          "eng": 116
+          "eng": 117
         }
       },
       "pm": {
@@ -19513,7 +19548,7 @@
           "eng": 56
         },
         "2026-11-26": {
-          "total": 221,
+          "total": 223,
           "eng": 57
         }
       },
@@ -20032,7 +20067,7 @@
         },
         "2026-11-26": {
           "total": 69,
-          "eng": 20
+          "eng": 19
         }
       },
       "pm": {
@@ -20187,7 +20222,7 @@
         },
         "2026-11-26": {
           "total": 43,
-          "eng": 8
+          "eng": 9
         }
       },
       "pm": {
@@ -20467,7 +20502,7 @@
           "eng": 199
         },
         "2026-11-26": {
-          "total": 371,
+          "total": 376,
           "eng": 199
         }
       },
@@ -21949,7 +21984,7 @@
           "eng": 137
         },
         "2026-11-26": {
-          "total": 509,
+          "total": 511,
           "eng": 135
         }
       },
@@ -22851,7 +22886,7 @@
         },
         "2026-11-26": {
           "total": 100,
-          "eng": 25
+          "eng": 24
         }
       },
       "pm": {
@@ -23510,8 +23545,9 @@
           "eng": 1
         },
         "2026-11-26": {
-          "total": 32,
-          "eng": 3
+          "total": 36,
+          "eng": 6,
+          "spike": true
         }
       },
       "pm": {
@@ -23834,7 +23870,7 @@
           "eng": 3
         },
         "2026-11-26": {
-          "total": 36,
+          "total": 37,
           "eng": 3
         }
       },
@@ -24579,8 +24615,8 @@
           "eng": 69
         },
         "2026-11-26": {
-          "total": 238,
-          "eng": 66
+          "total": 234,
+          "eng": 62
         }
       },
       "pm": {
@@ -24684,7 +24720,8 @@
           "ids": [
             "greenhouse-adyen-8179443"
           ],
-          "lastSeen": "2026-11-26"
+          "lastSeen": "2026-11-26",
+          "closedOn": "2026-11-26"
         },
         "vice president of product management in store experience": {
           "ids": [
@@ -24978,8 +25015,8 @@
           "eng": 143
         },
         "2026-11-26": {
-          "total": 259,
-          "eng": 143
+          "total": 258,
+          "eng": 142
         }
       },
       "pm": {
@@ -25130,7 +25167,7 @@
           "eng": 114
         },
         "2026-11-26": {
-          "total": 242,
+          "total": 241,
           "eng": 112
         }
       },
@@ -25754,8 +25791,8 @@
           "eng": 13
         },
         "2026-11-26": {
-          "total": 48,
-          "eng": 13
+          "total": 50,
+          "eng": 14
         }
       },
       "pm": {
@@ -26348,7 +26385,7 @@
         },
         "2026-11-26": {
           "total": 100,
-          "eng": 21
+          "eng": 20
         }
       },
       "pm": {

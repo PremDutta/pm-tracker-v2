@@ -8,6 +8,14 @@
     },
     {
       "type": "funding",
+      "company": "Capri Global",
+      "title": "Capri Global raises $30M in bonds from BlueOrchard Microfinance",
+      "url": "https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance",
+      "date": "2026-11-26",
+      "detail": "via YourStory"
+    },
+    {
+      "type": "funding",
       "company": "Finnable",
       "title": "Finnable Nets ₹405 Cr To Scale Digital Lending Business",
       "url": "https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/",
@@ -35,6 +43,12 @@
       "company": "KPMG India",
       "date": "2026-11-26",
       "detail": "12 engineering openings vs a usual 7"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Nium",
+      "date": "2026-11-26",
+      "detail": "6 engineering openings vs a usual 0"
     },
     {
       "type": "eng_spike",

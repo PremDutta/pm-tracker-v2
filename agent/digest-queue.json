@@ -1,114 +1,6 @@
 {
   "jobs": [
     {
-      "id": "lever-meesho-102d5a7e-0292-4ddc-8ebc-ba191119349e",
-      "title": "Senior Product Manager : F&E",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/102d5a7e-0292-4ddc-8ebc-ba191119349e",
-      "source": "Lever (Meesho)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "oracle-jpmc.fa.oraclecloud.com-210796604",
-      "title": "Product Management -  Loan lifecycle and Platforms(LIQ) - Team Lead",
-      "company": "JPMorgan Chase",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796604",
-      "source": "JPMorgan Chase careers",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "workday-wf-/job/Hyderabad-India/Lead-Product-Manager_R-580375",
-      "title": "Lead Product Manager",
-      "company": "Wells Fargo",
-      "location": "Hyderabad, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Manager_R-580375",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "vc-accel-96950522",
-      "title": "Sr. Product Manager, Specialized Modeling & Verticals",
-      "company": "6sense",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://boards.greenhouse.io/6sense/jobs/8188445",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "vc-accel-96911284",
-      "title": "Senior Product Manager - XenPlatform",
-      "company": "Xendit",
-      "location": "Mumbai, Maharashtra, India, Bengaluru, Karnataka, India, Kuala Lumpur, Malaysia, Singapore, Manila, Philippines, Jakarta, Indonesia",
-      "url": "https://boards.greenhouse.io/xendit/jobs/8032565003",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "vc-accel-96522688",
-      "title": "Senior Product Manager",
-      "company": "Mihup",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://mihup.keka.com/jobdetails/160594",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "vc-accel-96522032",
-      "title": "Product Manager, AI workflows",
-      "company": "Atlas",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/product-manager-ai-workflows-at-atlas-accounting-4465019596",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "vc-accel-89446932",
-      "title": "Product Manager II",
-      "company": "Jifflenow",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://indiacareers-cvent.icims.com/jobs/10251/login",
-      "source": "VC board (Accel portfolio)",
-      "queuedOn": "2026-10-14"
-    },
-    {
-      "id": "rippling-rippling-f8aeff93-84a4-440b-a3b2-f9e5ccc3f82f",
-      "title": "Product Lead, Finance Accounting",
-      "company": "Rippling",
-      "location": "Bangalore, India",
-      "url": "https://ats.rippling.com/rippling/jobs/f8aeff93-84a4-440b-a3b2-f9e5ccc3f82f",
-      "source": "Rippling (Rippling)",
-      "queuedOn": "2026-10-15"
-    },
-    {
-      "id": "vc-peakxv-102d5a7e-0292-4ddc-8ebc-ba191119349e",
-      "title": "Senior Product Manager : F&E",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/102d5a7e-0292-4ddc-8ebc-ba191119349e",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-15"
-    },
-    {
-      "id": "sf-careers.hcltech.com-178491",
-      "title": "Product Manager/ Product Lead",
-      "company": "HCLTech",
-      "location": "Pune",
-      "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/178491-en_US/",
-      "source": "HCLTech careers",
-      "queuedOn": "2026-10-15"
-    },
-    {
-      "id": "rippling-rippling-1b2bd0fa-cfd3-4774-8c8f-7c00685f3476",
-      "title": "Product Lead, Analytics",
-      "company": "Rippling",
-      "location": "Bangalore, India",
-      "url": "https://ats.rippling.com/rippling/jobs/1b2bd0fa-cfd3-4774-8c8f-7c00685f3476",
-      "source": "Rippling (Rippling)",
-      "queuedOn": "2026-10-15"
-    },
-    {
       "id": "keka-gokwik-166740",
       "title": "Product Manager",
       "company": "GoKwik",
@@ -3617,18 +3509,117 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager---Organic-Social_R0000481753",
       "source": "Workday (Target India)",
       "queuedOn": "2026-11-26"
+    },
+    {
+      "id": "lever-meesho-bb950ba6-dd50-4caf-9c52-00d5168a59a5",
+      "title": "Kirana Club : Product Manager II - Commerce",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/bb950ba6-dd50-4caf-9c52-00d5168a59a5",
+      "source": "Lever (Meesho)",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "amazon-10613721",
+      "title": "Senior Product Manager, Technical, Paragon platform",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10613721/senior-product-manager-technical-paragon-platform",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "amazon-10609572",
+      "title": "Sr. Product Manager, WW MFN CSBA",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10609572/sr-product-manager-ww-mfn-csba",
+      "source": "Amazon careers",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "lever-paytm-0df36bd7-bf94-4ab3-9457-2f937604066d",
+      "title": "Growth & Product Manager - CVM",
+      "company": "Paytm",
+      "location": "Noida, Uttar Pradesh",
+      "url": "https://jobs.lever.co/paytm/0df36bd7-bf94-4ab3-9457-2f937604066d",
+      "source": "Lever (Paytm)",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "lever-paytm-7deb675f-0250-41df-9bea-033c22c6c54a",
+      "title": "Product Management- International Expansion.",
+      "company": "Paytm",
+      "location": "Noida, Uttar Pradesh",
+      "url": "https://jobs.lever.co/paytm/7deb675f-0250-41df-9bea-033c22c6c54a",
+      "source": "Lever (Paytm)",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "vc-accel-100822998",
+      "title": "Product Manager",
+      "company": "RapidClaims",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.rapidclaims.ai/careers/product-manager-rap0016a",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "vc-accel-100822961",
+      "title": "Implementation - Tech Product managers",
+      "company": "RapidClaims",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.rapidclaims.ai/careers/implementation-tech-product-managers-rap0043a",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "vc-accel-100822937",
+      "title": "Solutions - Tech Product managers",
+      "company": "RapidClaims",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.rapidclaims.ai/careers/solutions-tech-product-managers-rap0045a",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "vc-accel-100812788",
+      "title": "Product Manager - Lending Platform",
+      "company": "Wibmo",
+      "location": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://careers.payu.in/PayU/job/Bengaluru-Product-Manager-Lending-Platform/54460480/",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "vc-accel-62711447",
+      "title": "Associate Product Manager- Bangalore",
+      "company": "BestDoc",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.bestdocapp.com/careers#amslyzflerx89u2vt1t7ywbsa&:~:text=Associate%20Product%20Manager-%20Bangalore",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "vc-accel-100784292",
+      "title": "Lead/Principal Product Management - AI PDLC Coach",
+      "company": "Webroot",
+      "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
+      "url": "https://careers.opentext.com/us/en/job/54383",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "vc-peakxv-bb950ba6-dd50-4caf-9c52-00d5168a59a5",
+      "title": "Kirana Club : Product Manager II - Commerce",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/bb950ba6-dd50-4caf-9c52-00d5168a59a5",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-27"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "Accenture",
-      "date": "2026-10-29",
-      "title": "Portal Product Owner - Life and Annuity Business Unit",
-      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00368178",
-      "id": "workday-accenture-/job/Hartford-280-Trumbull-Corp/Portal-Product-Owner---Life-and-Annuity-Business-Unit_R00368178",
-      "detail": "closed 2026-10-14, reposted today"
-    },
     {
       "type": "reopened",
       "company": "Accenture",
@@ -4363,6 +4354,12 @@
       "company": "Skyroot Aerospace",
       "date": "2026-11-26",
       "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Nium",
+      "date": "2026-11-26",
+      "detail": "6 engineering openings vs a usual 0"
     }
   ],
   "reminders": {}
