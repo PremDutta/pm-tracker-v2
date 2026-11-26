@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "vc-peakxv-744000155296796",
-      "title": "Senior Product Manager",
-      "company": "ixigo",
-      "location": "New Delhi, DL, IN",
-      "url": "https://jobs.smartrecruiters.com/ixigo/744000155296796-senior-product-manager",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-14"
-    },
-    {
       "id": "vc-accel-96868972",
       "title": "Principal Product Manager, AI Security",
       "company": "Netskope",
@@ -3617,33 +3608,18 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-11-26"
+    },
+    {
+      "id": "vc-lightspeed-4750360005",
+      "title": "Product Manager II - AI",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-11-26"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-29",
-      "title": "Staff Inbound Product Manager - Hill Climbing Product and Customer Instance Program",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158441069",
-      "id": "smartrecruiters-ServiceNow-744000158441069",
-      "detail": "closed 2026-10-27, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-29",
-      "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158440984",
-      "id": "smartrecruiters-ServiceNow-744000158440984",
-      "detail": "closed 2026-10-27, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-29",
-      "detail": "140 engineering openings vs a usual 41"
-    },
     {
       "type": "reopened",
       "company": "Accenture",
@@ -4369,6 +4345,24 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
       "id": "greenhouse-razorpaysoftwareprivatelimited-4750360005",
       "detail": "closed 2026-10-06, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Adobe",
+      "date": "2026-11-26",
+      "detail": "24 engineering openings vs a usual 15"
+    },
+    {
+      "type": "eng_spike",
+      "company": "KPMG India",
+      "date": "2026-11-26",
+      "detail": "12 engineering openings vs a usual 7"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-26",
+      "detail": "17 engineering openings vs a usual 5"
     }
   ],
   "reminders": {}

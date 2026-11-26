@@ -1,6 +1,56 @@
 {
   "signals": [
     {
+      "type": "eng_spike",
+      "company": "Adobe",
+      "date": "2026-11-26",
+      "detail": "24 engineering openings vs a usual 15"
+    },
+    {
+      "type": "funding",
+      "company": "GIVA",
+      "title": "GIVA raises Rs 90 Cr from BlackSoil for retail expansion",
+      "url": "https://entrackr.com/news/giva-raises-rs-90-cr-from-blacksoil-for-retail-expansion-12842327",
+      "date": "2026-11-26",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Green Aero",
+      "title": "Green Aero raises $14 Mn led by Crane Ventures",
+      "url": "https://entrackr.com/snippets/green-aero-raises-14-mn-led-by-crane-ventures-12842280",
+      "date": "2026-11-26",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
+      "company": "KPMG India",
+      "date": "2026-11-26",
+      "detail": "12 engineering openings vs a usual 7"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-26",
+      "detail": "17 engineering openings vs a usual 5"
+    },
+    {
+      "type": "funding",
+      "company": "Vegapay",
+      "title": "Vegapay Bags $10 Mn To Scale Credit Line On UPI Infrastructure",
+      "url": "https://inc42.com/buzz/vegapay-bags-10-mn-to-scale-credit-line-on-upi-infrastructure/",
+      "date": "2026-11-26",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "funding",
+      "company": "XEBO.ai",
+      "title": "XEBO.ai Bags $10.5 Mn To Expand Its Customer Experience Platform",
+      "url": "https://inc42.com/buzz/xebo-ai-bags-10-5-mn-to-strengthen-ai-solutions-stack/",
+      "date": "2026-11-26",
+      "detail": "via Inc42"
+    },
+    {
       "type": "reopened",
       "company": "Couchbase",
       "date": "2026-11-25",
@@ -386,6 +436,14 @@
       "url": "https://entrackr.com/snippets/circular-economy-startup-recove-ventures-raises-rs-5625-cr-through-equity-and-debt-12818941",
       "date": "2026-11-18",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Recove Ventures",
+      "title": "Circular economy company Recove Ventures raises Rs 56.25 Cr",
+      "url": "https://yourstory.com/2026/11/circular-economy-company-recove-ventures-raises-rs-56-crore",
+      "date": "2026-11-18",
+      "detail": "via YourStory"
     },
     {
       "type": "reopened",
@@ -1628,83 +1686,6 @@
       "url": "https://yourstory.com/2026/10/healthy-snack-brand-troovy-raises-rs-100-cr-series-b-fireside-ventures",
       "date": "2026-10-27",
       "detail": "via YourStory"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-26",
-      "detail": "152 engineering openings vs a usual 39"
-    },
-    {
-      "type": "funding",
-      "company": "BioStack",
-      "title": "Healthcare startup BioStack raises $9.5 Mn in seed funding led by Peak XV",
-      "url": "https://entrackr.com/snippets/healthcare-startup-biostack-raises-95-mn-in-seed-funding-led-by-peak-xv-12753841",
-      "date": "2026-10-26",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "BioStack",
-      "title": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others",
-      "url": "https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv",
-      "date": "2026-10-26",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Matiks",
-      "title": "Social gaming startup Matiks raises $10 Mn in Pre-Series A led by General Catalyst",
-      "url": "https://entrackr.com/news/social-gaming-startup-matiks-raises-10-mn-in-pre-series-a-led-by-general-catalyst-12754114",
-      "date": "2026-10-26",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Matiks",
-      "title": "Matiks raises $10M in pre-Series A round led by General Catalyst",
-      "url": "https://yourstory.com/2026/10/matiks-raises-10-million-pre-series-a-round-general-catalyst",
-      "date": "2026-10-26",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-26",
-      "detail": "40 engineering openings vs a usual 3"
-    },
-    {
-      "type": "funding",
-      "company": "Paar Autonomy",
-      "title": "Deep-tech defence startup Paar Autonomy raises Rs 10 Cr",
-      "url": "https://entrackr.com/snippets/deep-tech-defence-startup-paar-autonomy-raises-rs-10-cr-12751873",
-      "date": "2026-10-26",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "ReplyAll",
-      "title": "D2C apparel brand ReplyAll raises Rs 9.7 Cr in pre-Series A round",
-      "url": "https://entrackr.com/snippets/d2c-apparel-brand-replyall-raises-rs-97-cr-in-pre-series-a-round-12754832",
-      "date": "2026-10-26",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-26",
-      "title": "Sr Staff Inbound Product Manager",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157721999",
-      "id": "smartrecruiters-ServiceNow-744000157721999",
-      "detail": "closed 2026-10-16, reposted today"
-    },
-    {
-      "type": "funding",
-      "company": "Tradl",
-      "title": "Exclusive: AI-Powered Trading Platform Tradl Bags $4.1 Mn From Nexus, Stellaris",
-      "url": "https://inc42.com/buzz/exclusive-ai-powered-trading-platform-tradl-bags-4-1-mn-from-nexus-stellaris/",
-      "date": "2026-10-26",
-      "detail": "via Inc42"
     }
   ]
 }

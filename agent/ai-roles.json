@@ -1,6 +1,17 @@
 {
   "roles": [
     {
+      "id": "vc-lightspeed-4750360005",
+      "title": "Product Manager II - AI",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
+      "source": "VC board (Lightspeed portfolio)",
+      "level": "pm",
+      "aiMatch": "title",
+      "firstSeen": "2026-11-26"
+    },
+    {
       "id": "greenhouse-couchbaseinc-4730220006",
       "title": "Sr Product Manager",
       "company": "Couchbase",
@@ -20,17 +31,6 @@
       "source": "VC board (Accel portfolio)",
       "level": "senior",
       "aiMatch": "company",
-      "firstSeen": "2026-11-25"
-    },
-    {
-      "id": "vc-peakxv-4750360005",
-      "title": "Product Manager II - AI",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
       "firstSeen": "2026-11-25"
     },
     {
@@ -65,17 +65,6 @@
       "level": "senior",
       "aiMatch": "company",
       "firstSeen": "2026-11-23"
-    },
-    {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-22"
     },
     {
       "id": "eightfold-qualcomm.com-446721996687",
