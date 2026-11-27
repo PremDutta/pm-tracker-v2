@@ -1,42 +1,6 @@
 {
   "jobs": [
     {
-      "id": "keka-gokwik-166740",
-      "title": "Product Manager",
-      "company": "GoKwik",
-      "location": "Gurugram",
-      "url": "https://gokwik.keka.com/careers/jobdetails/166740",
-      "source": "Keka (GoKwik)",
-      "queuedOn": "2026-10-15"
-    },
-    {
-      "id": "oracle-jpmc.fa.oraclecloud.com-210797096",
-      "title": "Product Manager",
-      "company": "JPMorgan Chase",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797096",
-      "source": "JPMorgan Chase careers",
-      "queuedOn": "2026-10-15"
-    },
-    {
-      "id": "workday-mastercard-/job/Pune-India/Senior-Product-Manager--Technical_R-290739",
-      "title": "Senior Product Manager- Technical",
-      "company": "Mastercard",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager--Technical_R-290739",
-      "source": "Workday (Mastercard)",
-      "queuedOn": "2026-10-15"
-    },
-    {
-      "id": "eightfold-microsoft.com-1970393557037770",
-      "title": "Senior Product Manager",
-      "company": "Microsoft",
-      "location": "India, Telangana, Hyderabad",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
-      "source": "Microsoft careers",
-      "queuedOn": "2026-10-15"
-    },
-    {
       "id": "workday-wf-/job/Hyderabad-India/Data-Product-Management-Consultant_R-580970-1",
       "title": "Data Product Management Consultant",
       "company": "Wells Fargo",
@@ -3617,33 +3581,45 @@
       "url": "https://jobs.lever.co/meesho/bb950ba6-dd50-4caf-9c52-00d5168a59a5",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "eightfold-microsoft.com-1970393557076498",
+      "title": "Principal Product Manager",
+      "company": "Microsoft",
+      "location": "India, Telangana, Hyderabad",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557076498",
+      "source": "Microsoft careers",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "workday-visa-/job/IN---Bengaluru-India/Director--Product-Development-Management_REF085045W",
+      "title": "Director, Product Development/Management",
+      "company": "Visa",
+      "location": "IN - Bengaluru, India",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Director--Product-Development-Management_REF085045W",
+      "source": "Workday (Visa)",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "vc-peakxv-503101",
+      "title": "Product Manager",
+      "company": "BharatPe",
+      "location": "Gurgaon",
+      "url": "https://www.instahyre.com/job-503101-product-manager-at-bharatpe-gurgaon/",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "vc-peakxv-502741",
+      "title": "Product Manager",
+      "company": "BharatPe",
+      "location": "Gurgaon",
+      "url": "https://www.instahyre.com/job-502741-product-manager-at-bharatpe-gurgaon/",
+      "source": "VC board (Peak XV portfolio)",
+      "queuedOn": "2026-11-27"
     }
   ],
   "signals": [
-    {
-      "type": "reopened",
-      "company": "Accenture",
-      "date": "2026-10-29",
-      "title": "AI Product Management Practitioner",
-      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1",
-      "id": "workday-accenture-/job/Pune/AI-Product-Management-Practitioner_ATCI-5528584-S2023541-1",
-      "detail": "closed 2026-10-29, reposted today"
-    },
-    {
-      "type": "reopened",
-      "company": "Wells Fargo",
-      "date": "2026-10-29",
-      "title": "Product Manager",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Product-Manager_R-575589",
-      "id": "workday-wf-/job/Hyderabad-India/Product-Manager_R-575589",
-      "detail": "closed 2026-10-13, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Netradyne",
-      "date": "2026-10-30",
-      "detail": "23 engineering openings vs a usual 13"
-    },
     {
       "type": "eng_spike",
       "company": "Oracle",
@@ -4360,6 +4336,24 @@
       "company": "Nium",
       "date": "2026-11-26",
       "detail": "6 engineering openings vs a usual 0"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Adobe",
+      "date": "2026-11-27",
+      "detail": "25 engineering openings vs a usual 15"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Nium",
+      "date": "2026-11-27",
+      "detail": "6 engineering openings vs a usual 0"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-27",
+      "detail": "20 engineering openings vs a usual 10"
     }
   ],
   "reminders": {}

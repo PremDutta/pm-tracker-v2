@@ -3,6 +3,32 @@
     {
       "type": "eng_spike",
       "company": "Adobe",
+      "date": "2026-11-27",
+      "detail": "25 engineering openings vs a usual 15"
+    },
+    {
+      "type": "funding",
+      "company": "Namma Yatri",
+      "title": "Exclusive: Namma Yatri raises Rs 27.25 Cr led by Michael & Susan Dell Foundation",
+      "url": "https://entrackr.com/exclusive/exclusive-namma-yatri-raises-rs-2725-cr-led-by-michael-susan-dell-foundation-12844724",
+      "date": "2026-11-27",
+      "detail": "via Entrackr"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Nium",
+      "date": "2026-11-27",
+      "detail": "6 engineering openings vs a usual 0"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-27",
+      "detail": "20 engineering openings vs a usual 10"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Adobe",
       "date": "2026-11-26",
       "detail": "24 engineering openings vs a usual 15"
     },
@@ -356,6 +382,14 @@
       "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/144729-en_US/",
       "id": "sf-careers.hcltech.com-144729",
       "detail": "closed 2026-11-18, reposted today"
+    },
+    {
+      "type": "funding",
+      "company": "Humyn Labs",
+      "title": "Physical AI startup Humyn Labs raises $47M in Series A",
+      "url": "https://yourstory.com/2026/11/physical-ai-startup-humyn-labs-raises-47-million-series-a",
+      "date": "2026-11-19",
+      "detail": "via YourStory"
     },
     {
       "type": "funding",
@@ -1584,130 +1618,6 @@
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
       "id": "workday-target-/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
       "detail": "closed 2026-10-27, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-27",
-      "detail": "136 engineering openings vs a usual 39"
-    },
-    {
-      "type": "funding",
-      "company": "Cent",
-      "title": "Practo co-founder Shashank ND’s startup Cent raises $15 Mn led by Blume, acquires Medsee",
-      "url": "https://entrackr.com/news/practo-co-founder-shashank-nds-startup-cent-raises-15-mn-led-by-blume-acquires-medsee-12757196",
-      "date": "2026-10-27",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Cent",
-      "title": "Healthtech startup Cent raises $15M in Series A",
-      "url": "https://yourstory.com/2026/10/healthtech-startup-cent-raises-15-million-in-series-a",
-      "date": "2026-10-27",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "dubdub",
-      "title": "Trivia and puzzle app dubdub raises seed funding led by 3one4 Capital, Antler and Stellaris",
-      "url": "https://entrackr.com/snippets/trivia-and-puzzle-app-dubdub-raises-seed-funding-led-by-3one4-capital-antler-and-stellaris-12758123",
-      "date": "2026-10-27",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Live2.ai",
-      "title": "Live2.ai raises Rs 130 Cr to expand its AI-led social commerce platform",
-      "url": "https://yourstory.com/2026/10/live2ai-raises-rs-130-cr-to-expand-its-ai-led-social-commerce-platform",
-      "date": "2026-10-27",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Live2.ai",
-      "title": "IvyCap Ventures leads Rs 130 Cr pre-Series B round in Live2.ai",
-      "url": "https://entrackr.com/news/ivycap-ventures-leads-rs-130-cr-pre-series-b-round-in-live2ai-12757291",
-      "date": "2026-10-27",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Maasi",
-      "title": "Child-care startup Maasi raises Rs 6 Cr in pre-seed round",
-      "url": "https://entrackr.com/snippets/child-care-startup-maasi-raises-rs-6-cr-in-pre-seed-round-12757624",
-      "date": "2026-10-27",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Mochatrade",
-      "title": "Trading platform Mochatrade raises $5.5 Mn in seed round led by CoinFund",
-      "url": "https://entrackr.com/snippets/trading-platform-mochatrade-raises-55-mn-in-seed-round-led-by-coinfund-12756221",
-      "date": "2026-10-27",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Nova Spectral AI",
-      "title": "Physical AI vision company Nova Spectral AI raises Rs 21.15 Cr led by Shastra VC",
-      "url": "https://entrackr.com/snippets/physical-ai-vision-company-nova-spectral-ai-raises-rs-2115-cr-led-by-shastra-vc-12756634",
-      "date": "2026-10-27",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-27",
-      "detail": "84 engineering openings vs a usual 3"
-    },
-    {
-      "type": "funding",
-      "company": "Rotoris",
-      "title": "Luxury watch brand Rotoris raises Rs 70 Cr in Series A round led by Blume Ventures",
-      "url": "https://entrackr.com/news/luxury-watch-brand-rotoris-raises-rs-70-cr-in-series-a-round-led-by-blume-ventures-12757062",
-      "date": "2026-10-27",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Rotoris",
-      "title": "Rotoris bags Rs 70 Cr to expand its luxury watch business",
-      "url": "https://yourstory.com/2026/10/rotoris-bags-rs-70-cr-to-expand-its-luxury-watch-business",
-      "date": "2026-10-27",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Simplismart",
-      "title": "Simplismart raises $14 Mn from Dallas Venture Capital, NVIDIA and others",
-      "url": "https://entrackr.com/news/simplismart-raises-14-mn-from-dallas-venture-capital-nvidia-and-others-12758191",
-      "date": "2026-10-27",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Simplismart",
-      "title": "AI startup Simplismart raises $14M from Dallas Venture Capital, Nvidia, and others",
-      "url": "https://yourstory.com/2026/10/ai-startup-simplismart-14-million-dallas-venture-capital-nvidia-others",
-      "date": "2026-10-27",
-      "detail": "via YourStory"
-    },
-    {
-      "type": "funding",
-      "company": "Troovy",
-      "title": "Fireside Ventures leads Rs 100 Cr Series B round in snack brand Troovy",
-      "url": "https://entrackr.com/news/fireside-ventures-leads-rs-100-cr-series-b-round-in-snack-brand-troovy-12755228",
-      "date": "2026-10-27",
-      "detail": "via Entrackr"
-    },
-    {
-      "type": "funding",
-      "company": "Troovy",
-      "title": "Healthy snack brand Troovy raises Rs 100 Cr in Series B round led by Fireside Ventures",
-      "url": "https://yourstory.com/2026/10/healthy-snack-brand-troovy-raises-rs-100-cr-series-b-fireside-ventures",
-      "date": "2026-10-27",
-      "detail": "via YourStory"
     }
   ]
 }
