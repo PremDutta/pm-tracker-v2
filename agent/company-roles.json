@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-27T07:01:44.042Z",
+  "scannedAt": "2026-11-27T11:09:26.798Z",
   "roles": {
     "Amazon": [
       {
@@ -147,14 +147,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10584847",
-        "title": "Senior Product Manager - Tech, Shipment Technologies",
-        "location": "Hyderabad, Telangana, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10584847/senior-product-manager-tech-shipment-technologies",
-        "level": "senior",
-        "firstSeen": "2026-10-21"
-      },
-      {
         "id": "amazon-10599321",
         "title": "Senior Product Manager - Technical, RBS Tech",
         "location": "Bengaluru, Karnataka, IND",
@@ -211,20 +203,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10576706",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-11-16"
-      },
-      {
         "id": "amazon-10499561",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "amazon-10576706",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-11-16"
       },
       {
         "id": "amazon-10498328",
@@ -583,6 +575,14 @@
         "firstSeen": "2026-11-23"
       },
       {
+        "id": "sf-careers.hcltech.com-169138",
+        "title": "Data Product Manager",
+        "location": "Chennai",
+        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-23"
+      },
+      {
         "id": "sf-careers.hcltech.com-162176",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -607,14 +607,6 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "sf-careers.hcltech.com-158041",
-        "title": "Product Manager/ Product Lead",
-        "location": "Noida",
-        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
-        "level": "group",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "sf-careers.hcltech.com-158025",
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
@@ -627,6 +619,14 @@
         "title": "Product Manager/ Product Lead",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/159765-en_US/",
+        "level": "group",
+        "firstSeen": "2026-09-30"
+      },
+      {
+        "id": "sf-careers.hcltech.com-158041",
+        "title": "Product Manager/ Product Lead",
+        "location": "Noida",
+        "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/158041-en_US/",
         "level": "group",
         "firstSeen": "2026-09-30"
       },

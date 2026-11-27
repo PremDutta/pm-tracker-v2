@@ -1,48 +1,15 @@
 {
   "roles": [
     {
-      "id": "vc-peakxv-59397",
-      "title": "Product Manager - AI and Agentic",
-      "company": "Brightmoney",
-      "location": "Bangalore Division, Karnataka, India",
-      "url": "https://careers.kula.ai/brightmoney/59397",
-      "source": "VC board (Peak XV portfolio)",
-      "level": "pm",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-26"
-    },
-    {
-      "id": "eightfold-qualcomm.com-446721996687",
-      "title": "Staff Product Manager - Smartphones and AI",
-      "company": "Qualcomm",
-      "location": "Hyderabad, Telangāna, India",
-      "url": "https://careers.qualcomm.com/careers/job/446721996687",
-      "source": "Qualcomm careers",
-      "level": "group",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-26"
-    },
-    {
-      "id": "eightfold-qualcomm.com-446717846060",
-      "title": "Staff/Director – AI HW Product Management",
-      "company": "Qualcomm",
-      "location": "Bangalore, India",
-      "url": "https://careers.qualcomm.com/careers/job/446717846060",
-      "source": "Qualcomm careers",
-      "level": "leadership",
-      "aiMatch": "title",
-      "firstSeen": "2026-11-26"
-    },
-    {
-      "id": "vc-peakxv-4750360005",
+      "id": "vc-lightspeed-4750360005",
       "title": "Product Manager II - AI",
       "company": "Razorpay",
       "location": "Bengaluru",
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
-      "source": "VC board (Peak XV portfolio)",
+      "source": "VC board (Lightspeed portfolio)",
       "level": "pm",
       "aiMatch": "title",
-      "firstSeen": "2026-11-26"
+      "firstSeen": "2026-11-27"
     },
     {
       "id": "vc-accel-100784292",
