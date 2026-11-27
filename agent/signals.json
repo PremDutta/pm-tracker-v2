@@ -8,6 +8,20 @@
     },
     {
       "type": "funding",
+      "company": "Kabeer Biswas’ M",
+      "title": "Kabeer Biswas’ M Raises $9 Mn Led By RTP Global",
+      "url": "https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global/",
+      "date": "2026-11-27",
+      "detail": "via Inc42"
+    },
+    {
+      "type": "eng_spike",
+      "company": "KPMG India",
+      "date": "2026-11-27",
+      "detail": "12 engineering openings vs a usual 7"
+    },
+    {
+      "type": "funding",
       "company": "Namma Yatri",
       "title": "Exclusive: Namma Yatri raises Rs 27.25 Cr led by Michael & Susan Dell Foundation",
       "url": "https://entrackr.com/exclusive/exclusive-namma-yatri-raises-rs-2725-cr-led-by-michael-susan-dell-foundation-12844724",
@@ -25,6 +39,15 @@
       "company": "Skyroot Aerospace",
       "date": "2026-11-27",
       "detail": "20 engineering openings vs a usual 10"
+    },
+    {
+      "type": "reopened",
+      "company": "Wise",
+      "date": "2026-11-27",
+      "title": "Product Lead, Wise for Banks",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000164040481",
+      "id": "smartrecruiters-wise-744000164040481",
+      "detail": "closed 2026-11-19, reposted today"
     },
     {
       "type": "eng_spike",
@@ -438,6 +461,14 @@
       "url": "https://entrackr.com/news/style-union-raises-rs-485-cr-in-series-e-round-led-by-elev8-venture-venturi-partners-12821452",
       "date": "2026-11-19",
       "detail": "via Entrackr"
+    },
+    {
+      "type": "funding",
+      "company": "Style Union",
+      "title": "Style Union raises Rs 485 Cr to expand beyond southern India",
+      "url": "https://yourstory.com/2026/11/style-union-raises-rs-485-cr-to-expand-beyond-southern-india",
+      "date": "2026-11-19",
+      "detail": "via YourStory"
     },
     {
       "type": "eng_spike",

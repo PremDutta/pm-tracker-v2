@@ -1,42 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-wf-/job/Hyderabad-India/Data-Product-Management-Consultant_R-580970-1",
-      "title": "Data Product Management Consultant",
-      "company": "Wells Fargo",
-      "location": "Hyderabad, India",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Data-Product-Management-Consultant_R-580970-1",
-      "source": "Workday (Wells Fargo)",
-      "queuedOn": "2026-10-15"
-    },
-    {
-      "id": "vc-peakxv-a6a59e055194f3",
-      "title": "Senior Product Manager I",
-      "company": "Tata 1mg",
-      "location": "Motorola 3rd Floor, Saffron Enclave, 415/2, MG Road, Sector 14, Gurugram, Haryana, India",
-      "url": "https://1mg.darwinbox.in/ms/candidate/careers/a6a59e055194f3",
-      "source": "VC board (Peak XV portfolio)",
-      "queuedOn": "2026-10-15"
-    },
-    {
-      "id": "sf-careers.hcltech.com-181759",
-      "title": "Product Manager/ Product Lead",
-      "company": "HCLTech",
-      "location": "Noida",
-      "url": "https://careers.hcltech.com/job/Product-Manager-Product-Lead/181759-en_US/",
-      "source": "HCLTech careers",
-      "queuedOn": "2026-10-15"
-    },
-    {
-      "id": "smartrecruiters-ServiceNow-744000155796579",
-      "title": "Staff Inbound Product Manager - AI Evaluation Tools",
-      "company": "ServiceNow",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155796579",
-      "source": "SmartRecruiters (ServiceNow)",
-      "queuedOn": "2026-10-15"
-    },
-    {
       "id": "smartrecruiters-ServiceNow-744000155792153",
       "title": "Staff Inbound Product Manager – Platform and AI Innovation Solutions",
       "company": "ServiceNow",
@@ -3617,21 +3581,47 @@
       "url": "https://www.instahyre.com/job-502741-product-manager-at-bharatpe-gurgaon/",
       "source": "VC board (Peak XV portfolio)",
       "queuedOn": "2026-11-27"
+    },
+    {
+      "id": "govt-npci-190737000008050441",
+      "title": "Lead UPI Product Management",
+      "company": "National Payments Corporation of India",
+      "location": "Mumbai",
+      "url": "https://careers.npci.org.in/jobs/Careers/190737000008050441/Lead-UPI-Product-Management?source=CareerSite",
+      "source": "🏛️ Govt (NPCI)",
+      "deadline": null,
+      "flags": [],
+      "queuedOn": "2026-11-28"
+    },
+    {
+      "id": "vc-accel-100883006",
+      "title": "Principal Product Manager",
+      "company": "Swiftkey",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557076498",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-28"
+    },
+    {
+      "id": "vc-accel-100879045",
+      "title": "Senior Product Manager, Geo Local Data",
+      "company": "Google",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/115551454709588678-senior-product-manager-geo-local-data?page=94",
+      "source": "VC board (Accel portfolio)",
+      "queuedOn": "2026-11-28"
+    },
+    {
+      "id": "vc-lightspeed-504139",
+      "title": "Product Manager",
+      "company": "Oolka",
+      "location": "Bangalore",
+      "url": "https://www.instahyre.com/job-504139-product-manager-at-oolka-bangalore/",
+      "source": "VC board (Lightspeed portfolio)",
+      "queuedOn": "2026-11-28"
     }
   ],
   "signals": [
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-30",
-      "detail": "80 engineering openings vs a usual 4"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Accenture",
-      "date": "2026-10-30",
-      "detail": "134 engineering openings vs a usual 42"
-    },
     {
       "type": "reopened",
       "company": "ServiceNow",
@@ -4354,6 +4344,21 @@
       "company": "Skyroot Aerospace",
       "date": "2026-11-27",
       "detail": "20 engineering openings vs a usual 10"
+    },
+    {
+      "type": "eng_spike",
+      "company": "KPMG India",
+      "date": "2026-11-27",
+      "detail": "12 engineering openings vs a usual 7"
+    },
+    {
+      "type": "reopened",
+      "company": "Wise",
+      "date": "2026-11-27",
+      "title": "Product Lead, Wise for Banks",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000164040481",
+      "id": "smartrecruiters-wise-744000164040481",
+      "detail": "closed 2026-11-19, reposted today"
     }
   ],
   "reminders": {}

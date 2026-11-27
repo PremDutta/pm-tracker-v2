@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-27T11:09:26.798Z",
+  "scannedAt": "2026-11-27T20:45:59.793Z",
   "roles": {
     "Amazon": [
       {
@@ -203,20 +203,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10499561",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10576706",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-11-16"
+      },
+      {
+        "id": "amazon-10499561",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10498328",
@@ -249,14 +249,6 @@
         "url": "https://www.amazon.jobs/en/jobs/10601871/senior-product-manager-technical-amazon-business-analytics",
         "level": "senior",
         "firstSeen": "2026-11-10"
-      },
-      {
-        "id": "amazon-10613721",
-        "title": "Senior Product Manager, Technical, Paragon platform",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10613721/senior-product-manager-technical-paragon-platform",
-        "level": "senior",
-        "firstSeen": "2026-11-26"
       },
       {
         "id": "amazon-10577088",
@@ -559,20 +551,36 @@
     ],
     "HCLTech": [
       {
+        "id": "sf-careers.hcltech.com-177905",
+        "title": "AI Product Manager I",
+        "location": "Pune",
+        "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/177905-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-27"
+      },
+      {
+        "id": "sf-careers.hcltech.com-144729",
+        "title": "AI Product Manager I",
+        "location": "Pune",
+        "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/144729-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-27"
+      },
+      {
+        "id": "sf-careers.hcltech.com-157248",
+        "title": "AI Product Manager I",
+        "location": "Pune",
+        "url": "https://careers.hcltech.com/job/AI-Product-Manager-I/157248-en_US/",
+        "level": "pm",
+        "firstSeen": "2026-11-27"
+      },
+      {
         "id": "sf-careers.hcltech.com-168347",
         "title": "Data Product Manager",
         "location": "Noida",
         "url": "https://careers.hcltech.com/job/Data-Product-Manager/168347-en_US/",
         "level": "pm",
         "firstSeen": "2026-11-10"
-      },
-      {
-        "id": "sf-careers.hcltech.com-169138",
-        "title": "Data Product Manager",
-        "location": "Chennai",
-        "url": "https://careers.hcltech.com/job/Data-Product-Manager/169138-en_US/",
-        "level": "pm",
-        "firstSeen": "2026-11-23"
       },
       {
         "id": "sf-careers.hcltech.com-169138",
@@ -727,14 +735,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800065",
         "level": "leadership",
         "firstSeen": "2026-10-22"
-      },
-      {
-        "id": "oracle-jpmc.fa.oraclecloud.com-210776755",
-        "title": "Product Director - Debit Product",
-        "location": "Hyderabad, Telangana, India",
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776755",
-        "level": "leadership",
-        "firstSeen": "2026-11-13"
       },
       {
         "id": "oracle-jpmc.fa.oraclecloud.com-210808753",
@@ -1127,16 +1127,6 @@
         "url": "https://job-boards.greenhouse.io/onetrust/jobs/8207523",
         "level": "group",
         "firstSeen": "2026-10-05"
-      }
-    ],
-    "Oracle": [
-      {
-        "id": "oracle-eeho.fa.us2.oraclecloud.com-340054",
-        "title": "Principal Product Manager - Oracle APEX Technical Evangelist",
-        "location": "HYDERABAD, TELANGANA, India",
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340054",
-        "level": "group",
-        "firstSeen": "2026-11-10"
       }
     ],
     "Paytm": [
