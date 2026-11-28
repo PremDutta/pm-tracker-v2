@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-28T06:36:42.045Z",
+  "scannedAt": "2026-11-28T10:44:06.717Z",
   "roles": {
     "Amazon": [
       {
@@ -203,20 +203,20 @@
         "firstSeen": "2026-09-30"
       },
       {
-        "id": "amazon-10499561",
-        "title": "Senior Product Manager, Amazon Now",
-        "location": "Bengaluru, Karnataka, IND",
-        "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
-        "level": "senior",
-        "firstSeen": "2026-09-30"
-      },
-      {
         "id": "amazon-10576706",
         "title": "Senior Product Manager, Amazon Now",
         "location": "Bengaluru, Karnataka, IND",
         "url": "https://www.amazon.jobs/en/jobs/10576706/senior-product-manager-amazon-now",
         "level": "senior",
         "firstSeen": "2026-11-16"
+      },
+      {
+        "id": "amazon-10499561",
+        "title": "Senior Product Manager, Amazon Now",
+        "location": "Bengaluru, Karnataka, IND",
+        "url": "https://www.amazon.jobs/en/jobs/10499561/senior-product-manager-amazon-now",
+        "level": "senior",
+        "firstSeen": "2026-09-30"
       },
       {
         "id": "amazon-10498328",
