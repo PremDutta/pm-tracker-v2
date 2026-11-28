@@ -3623,33 +3623,6 @@
   ],
   "signals": [
     {
-      "type": "reopened",
-      "company": "ServiceNow",
-      "date": "2026-10-30",
-      "title": "Business Systems Product Manager",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158742369",
-      "id": "smartrecruiters-ServiceNow-744000158742369",
-      "detail": "closed 2026-10-05, reposted today"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Netradyne",
-      "date": "2026-10-31",
-      "detail": "23 engineering openings vs a usual 13"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Oracle",
-      "date": "2026-10-31",
-      "detail": "84 engineering openings vs a usual 4"
-    },
-    {
-      "type": "eng_spike",
-      "company": "Netradyne",
-      "date": "2026-11-01",
-      "detail": "23 engineering openings vs a usual 13"
-    },
-    {
       "type": "eng_spike",
       "company": "Oracle",
       "date": "2026-11-01",
@@ -4359,6 +4332,30 @@
       "url": "https://jobs.smartrecruiters.com/Wise/744000164040481",
       "id": "smartrecruiters-wise-744000164040481",
       "detail": "closed 2026-11-19, reposted today"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Adobe",
+      "date": "2026-11-28",
+      "detail": "25 engineering openings vs a usual 15"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Nium",
+      "date": "2026-11-28",
+      "detail": "6 engineering openings vs a usual 0"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Skyroot Aerospace",
+      "date": "2026-11-28",
+      "detail": "21 engineering openings vs a usual 10"
+    },
+    {
+      "type": "eng_spike",
+      "company": "Accenture",
+      "date": "2026-11-28",
+      "detail": "159 engineering openings vs a usual 46"
     }
   ],
   "reminders": {}
